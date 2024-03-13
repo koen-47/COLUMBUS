@@ -8,11 +8,7 @@ with open("./saved/homophones.json", "r") as file:
 
 
 class Pattern:
-    ALL = ["color", "reverse", "cross", "high", "repetition_two", "repetition_four"]
-
     class Unary:
-        # COLOR = [color.replace("tab:", "") for color in list(mcolors.TABLEAU_COLORS.keys())]
-        # COLOR = list(mcolors.CSS4_COLORS.keys())
         COLOR = ["blue", "orange", "green", "red", "purple", "brown", "pink", "gray", "yellow"]
         REVERSE = ["reverse", "back", "mirror", "inverse", "rear"]
         CROSS = ["cross"]
@@ -20,7 +16,7 @@ class Pattern:
         REPETITION_TWO = ["two"]
         REPETITION_FOUR = ["four"]
 
-    ALL_KEYWORDS = {
+    ALL = {
         "color": Unary.COLOR,
         "reverse": Unary.REVERSE,
         "cross": Unary.CROSS,
@@ -35,9 +31,9 @@ class Pattern:
         if word in homophones:
             homophones_ = set(homophones[word]["perfect"]).union(set(homophones[word]["close"]))
             homophones_overlap = {rule: list(homophones_.intersection(set(keyword))) for rule, keyword in
-                                  Pattern.ALL_KEYWORDS.items() if len(homophones_.intersection(set(keyword))) > 0}
+                                  Pattern.ALL.items() if len(homophones_.intersection(set(keyword))) > 0}
 
-        patterns = {"template": "base", "is_plural": is_plural}
+        patterns = {"template": "base"}
         # patterns = {"template": "base"}
         if word in Pattern.Unary.COLOR:
             patterns["color"] = word

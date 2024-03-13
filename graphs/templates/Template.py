@@ -1,14 +1,13 @@
 class Template:
     class BASE:
         name = "base"
-        size = 1.0
-        elements = [
-            [0.5, 0.5]
-        ]
-        plural_elements = [
-            [0.25, 0.5],
-            [0.75, 0.5]
-        ]
+        elements = [{
+            "singular": [0.5, 0.5, 1.0],
+            "plural": [
+                [0.25, 0.5, 0.5],
+                [0.75, 0.5, 0.5]
+            ]
+        }]
 
     class HIGH:
         name = "high"

@@ -30,16 +30,12 @@ class RebusImageConverter:
 
     def _convert_base_template(self, ax, graph):
         node_attrs = get_node_attributes(graph)
-        elements = Template.BASE.elements if not graph.graph["is_plural"] else Template.BASE.plural_elements
-        for element in elements:
-            for node, attrs in node_attrs.items():
-                x, y = element
-                size = 40 * Template.BASE.size
-                text = self._apply_reverse_rule(attrs)
-                color = self._apply_color_rule(attrs)
-                ax.text(x, y, text, fontsize=40, fontweight="bold", fontfamily="Consolas", color=color, ha="center",
-                        va="center")
-                self._apply_cross_rule(attrs, ax, text, x, y, size)
+        for element, (node, attrs) in zip(Template.BASE.elements, node_attrs.items()):
+            if attrs["is_plural"]:
+                for plural_element in element["plural"]:
+                    self._render_text(ax, plural_element, attrs)
+            else:
+                self._render_text(ax, element["singular"], attrs)
         ax.set_xlim(0, 1)
         ax.set_ylim(0, 1)
         ax.axis('off')
@@ -59,6 +55,14 @@ class RebusImageConverter:
             ax.set_xlim(0, 1)
             ax.set_ylim(0, 1)
             ax.axis('off')
+
+    def _render_text(self, ax, element, attrs):
+        (x, y), size = element[:2], element[2] * 40
+        text = self._apply_reverse_rule(attrs)
+        color = self._apply_color_rule(attrs)
+        ax.text(x, y, text, fontsize=40, fontweight="bold", fontfamily="Consolas", color=color, ha="center",
+                va="center")
+        self._apply_cross_rule(attrs, ax, text, x, y, size)
 
     def _apply_color_rule(self, attrs):
         return "black" if "color" not in attrs else attrs["color"]
