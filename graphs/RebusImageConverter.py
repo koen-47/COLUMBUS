@@ -14,8 +14,7 @@ class RebusImageConverter:
 
     def convert_graph_to_image(self, graph, show=False, save_path=""):
         fig, ax = plt.subplots(figsize=(self.BASE_SIZE[0] / 100, self.BASE_SIZE[1] / 100))
-        template = self._select_template(graph)
-        self._convert_template(ax, graph, template)
+        self._convert_template(ax, graph, template=graph.graph["template"]["obj"])
 
         if save_path != "":
             plt.savefig(save_path)
@@ -36,10 +35,10 @@ class RebusImageConverter:
         ax.axis('off')
 
     def _render_text(self, ax, element, attrs):
-        (x, y), size = element[:2], element[2] * 40
+        (x, y), size, (rotation, ha) = element[:2], element[2] * 40, element[3:5]
         text = self._apply_reverse_rule(attrs)
         color = self._apply_color_rule(attrs)
-        ax.text(x, y, text, fontsize=size, fontweight="bold", fontfamily="Consolas", color=color, ha="center",
+        ax.text(x, y, text, fontsize=size, fontweight="bold", fontfamily="Consolas", color=color, ha=ha,
                 va="center")
         self._apply_cross_rule(attrs, ax, text, x, y, size)
 
@@ -55,16 +54,3 @@ class RebusImageConverter:
             line = ConnectionPatch((line_x1, y), (line_x2, y), "axes fraction", "axes fraction",
                                    color="black", lw=2)
             ax.add_artist(line)
-
-    def _select_template(self, graph):
-        graph_attrs = graph.graph
-        if len(graph.nodes) == 1:
-            if graph_attrs["template"] == Template.BASE.name:
-                return Template.BASE
-            elif graph_attrs["template"] == Template.SingleNode.REPETITION_FOUR.name:
-                return Template.SingleNode.REPETITION_FOUR
-            elif graph_attrs["template"] == Template.SingleNode.HIGH.name:
-                return Template.SingleNode.HIGH
-            elif graph_attrs["template"] == Template.SingleNode.RIGHT.name:
-                return Template.SingleNode.RIGHT
-        return None

@@ -12,10 +12,3 @@ def get_node_attributes(graph):
                 node_attrs[node] = {attr: attr_val}
             node_attrs[node][attr] = attr_val
     return node_attrs
-
-
-def strike_through(text):
-    result = ''
-    for c in text:
-        result = result + c + '\u0336'
-    return result

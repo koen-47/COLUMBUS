@@ -1,7 +1,6 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
-from .patterns.Pattern import Pattern
 from util import get_node_attributes
 
 

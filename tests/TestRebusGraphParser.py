@@ -11,11 +11,10 @@ class TestRebusGraphParser(unittest.TestCase):
         self.parser = RebusGraphParser("../saved/ladec_raw_small.csv")
 
     def test_rebus_parse_1(self):
-        graph = self.parser.parse_compound("redcoat")[0]
+        graph = self.parser.parse_compound("redcoats")[0]
         correct_graph = RebusGraph()
         correct_graph.add_node(1, text="COAT", color="red")
         self.assertTrue(nx.utils.graphs_equal(graph, correct_graph))
-        graph.visualize()
 
     def test_rebus_parser_2(self):
         graph_1, graph_2 = self.parser.parse_compound("greenback")
