@@ -35,18 +35,6 @@ class RebusImageConverter:
         ax.set_ylim(0, 1)
         ax.axis('off')
 
-    def _convert_repetition_single_node_template(self, ax, graph, template):
-        node_attrs = get_node_attributes(graph)
-        for element, (node, attrs) in zip(template.elements, cycle(node_attrs.items())):
-            if attrs["is_plural"]:
-                for plural_element in element["plural"]:
-                    self._render_text(ax, plural_element, attrs)
-            else:
-                self._render_text(ax, element["singular"], attrs)
-        ax.set_xlim(0, 1)
-        ax.set_ylim(0, 1)
-        ax.axis('off')
-
     def _render_text(self, ax, element, attrs):
         (x, y), size = element[:2], element[2] * 40
         text = self._apply_reverse_rule(attrs)
@@ -75,5 +63,6 @@ class RebusImageConverter:
                 return Template.BASE
             elif graph_attrs["template"] == Template.SingleNode.REPETITION_FOUR.name:
                 return Template.SingleNode.REPETITION_FOUR
+            elif graph_attrs["template"] == Template.SingleNode.HIGH.name:
+                return Template.SingleNode.HIGH
         return None
-

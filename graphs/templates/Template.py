@@ -14,13 +14,14 @@ class Template:
     class SingleNode:
         class HIGH:
             name = "high"
-            size = 1.0
             elements = [
-                [0.5, 1.0]
-            ]
-            plural_elements = [
-                [0.25, 1.0],
-                [0.75, 1.0]
+                {
+                    "singular": [0.5, 1.0, 1.0],
+                    "plural": [
+                        [0.25, 1.0, 0.5],
+                        [0.75, 1.0, 0.5]
+                    ]
+                }
             ]
 
         class REPETITION_FOUR:
