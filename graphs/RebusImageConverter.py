@@ -1,3 +1,5 @@
+from itertools import cycle
+
 import networkx as nx
 import matplotlib.pyplot as plt
 from matplotlib.patches import ConnectionPatch
@@ -12,15 +14,8 @@ class RebusImageConverter:
 
     def convert_graph_to_image(self, graph, show=False, save_path=""):
         fig, ax = plt.subplots(figsize=(self.BASE_SIZE[0] / 100, self.BASE_SIZE[1] / 100))
-        graph_attrs = graph.graph
-        if graph_attrs["template"] == Template.BASE.name:
-            self._convert_base_template(ax, graph=graph)
-        elif graph_attrs["template"] == Template.HIGH.name:
-            self._convert_repetition_template(ax, graph=graph, template=Template.HIGH)
-        elif graph_attrs["template"] == Template.REPETITION_FOUR.name:
-            self._convert_repetition_template(ax, graph=graph, template=Template.REPETITION_FOUR)
-        elif graph_attrs["template"] == Template.REPETITION_TWO.name:
-            self._convert_repetition_template(ax, graph=graph, template=Template.REPETITION_TWO)
+        template = self._select_template(graph)
+        self._convert_template(ax, graph, template)
 
         if save_path != "":
             plt.savefig(save_path)
@@ -28,9 +23,9 @@ class RebusImageConverter:
             plt.show()
         plt.close(fig)
 
-    def _convert_base_template(self, ax, graph):
+    def _convert_template(self, ax, graph, template):
         node_attrs = get_node_attributes(graph)
-        for element, (node, attrs) in zip(Template.BASE.elements, node_attrs.items()):
+        for element, (node, attrs) in zip(template.elements, cycle(node_attrs.items())):
             if attrs["is_plural"]:
                 for plural_element in element["plural"]:
                     self._render_text(ax, plural_element, attrs)
@@ -40,27 +35,23 @@ class RebusImageConverter:
         ax.set_ylim(0, 1)
         ax.axis('off')
 
-    def _convert_repetition_template(self, ax, graph, template):
+    def _convert_repetition_single_node_template(self, ax, graph, template):
         node_attrs = get_node_attributes(graph)
-        elements = template.elements if not graph.graph["is_plural"] else template.plural_elements
-        for element in elements:
-            for node, attrs in node_attrs.items():
-                x, y = element
-                size = 40 * Template.REPETITION_FOUR.size
-                text = self._apply_reverse_rule(attrs)
-                color = self._apply_color_rule(attrs)
-                ax.text(x, y, text, fontsize=size, fontweight="bold", fontfamily="Consolas", color=color, ha="center",
-                        va="center")
-                self._apply_cross_rule(attrs, ax, text, x, y, size)
-            ax.set_xlim(0, 1)
-            ax.set_ylim(0, 1)
-            ax.axis('off')
+        for element, (node, attrs) in zip(template.elements, cycle(node_attrs.items())):
+            if attrs["is_plural"]:
+                for plural_element in element["plural"]:
+                    self._render_text(ax, plural_element, attrs)
+            else:
+                self._render_text(ax, element["singular"], attrs)
+        ax.set_xlim(0, 1)
+        ax.set_ylim(0, 1)
+        ax.axis('off')
 
     def _render_text(self, ax, element, attrs):
         (x, y), size = element[:2], element[2] * 40
         text = self._apply_reverse_rule(attrs)
         color = self._apply_color_rule(attrs)
-        ax.text(x, y, text, fontsize=40, fontweight="bold", fontfamily="Consolas", color=color, ha="center",
+        ax.text(x, y, text, fontsize=size, fontweight="bold", fontfamily="Consolas", color=color, ha="center",
                 va="center")
         self._apply_cross_rule(attrs, ax, text, x, y, size)
 
@@ -76,3 +67,13 @@ class RebusImageConverter:
             line = ConnectionPatch((line_x1, y), (line_x2, y), "axes fraction", "axes fraction",
                                    color="black", lw=2)
             ax.add_artist(line)
+
+    def _select_template(self, graph):
+        graph_attrs = graph.graph
+        if len(graph.nodes) == 1:
+            if graph_attrs["template"] == Template.BASE.name:
+                return Template.BASE
+            elif graph_attrs["template"] == Template.SingleNode.REPETITION_FOUR.name:
+                return Template.SingleNode.REPETITION_FOUR
+        return None
+

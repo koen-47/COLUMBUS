@@ -34,7 +34,6 @@ class Pattern:
                                   Pattern.ALL.items() if len(homophones_.intersection(set(keyword))) > 0}
 
         patterns = {"template": "base"}
-        # patterns = {"template": "base"}
         if word in Pattern.Unary.COLOR:
             patterns["color"] = word
         if word in Pattern.Unary.REVERSE:

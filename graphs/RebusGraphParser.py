@@ -23,8 +23,8 @@ class RebusGraphParser:
         patterns_c1 = Pattern.find_all(c1, is_plural)
         patterns_c2 = Pattern.find_all(c2, is_plural)
 
-        # print(patterns_c1)
-        # print(patterns_c2)
+        print(patterns_c1)
+        print(patterns_c2)
 
         if graph is None:
             graph = RebusGraph()
