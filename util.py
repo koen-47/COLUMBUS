@@ -4,7 +4,7 @@ from graphs.patterns.Pattern import Pattern
 
 
 def get_node_attributes(graph):
-    attrs = {attr: nx.get_node_attributes(graph, attr) for attr in ["text", "is_plural", "repeat"] + list(Pattern.ALL.keys())}
+    attrs = {attr: nx.get_node_attributes(graph, attr) for attr in ["text", "is_plural"] + Pattern.ALL_RULES}
     node_attrs = {}
     for attr, nodes in attrs.items():
         for node, attr_val in nodes.items():

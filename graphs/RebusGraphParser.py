@@ -20,8 +20,8 @@ class RebusGraphParser:
         c1, c2 = compound_info["c1"].values[0], compound_info["c2"].values[0]
         is_plural = bool(compound_info["isPlural"].values[0])
 
-        patterns_c1 = Pattern.find_all(c1, is_plural)
-        patterns_c2 = Pattern.find_all(c2, is_plural)
+        patterns_c1 = Pattern.find_all(c1)
+        patterns_c2 = Pattern.find_all(c2)
 
         print(patterns_c1)
         print(patterns_c2)

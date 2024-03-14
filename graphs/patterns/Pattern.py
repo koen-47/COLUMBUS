@@ -8,11 +8,7 @@ with open("./saved/homophones.json", "r") as file:
 
 
 class Pattern:
-    class Unary:
-        COLOR = ["blue", "orange", "green", "red", "purple", "brown", "pink", "gray", "yellow"]
-        REVERSE = ["reverse", "back", "mirror", "inverse", "rear"]
-        CROSS = ["cross"]
-
+    class Structural:
         class Position:
             HIGH = ["high", "up"]
             RIGHT = ["right"]
@@ -21,43 +17,50 @@ class Pattern:
             REPETITION_TWO = ["two"]
             REPETITION_FOUR = ["four"]
 
-    ALL = {
-        "color": Unary.COLOR,
-        "reverse": Unary.REVERSE,
-        "cross": Unary.CROSS,
-        "high": Unary.Position.HIGH,
-        "repetition_two": Unary.Repetition.REPETITION_TWO,
-        "repetition_four": Unary.Repetition.REPETITION_FOUR,
+    class Individual:
+        COLOR = ["blue", "orange", "green", "red", "purple", "brown", "pink", "gray", "yellow"]
+        REVERSE = ["reverse", "back", "mirror", "inverse", "rear"]
+        CROSS = ["cross"]
+
+    ALL_KEYWORDS = {
+        "color": Individual.COLOR,
+        "reverse": Individual.REVERSE,
+        "cross": Individual.CROSS,
+        "position_high": Structural.Position.HIGH,
+        "position_right": Structural.Position.RIGHT,
+        "repetition_two": Structural.Repetition.REPETITION_TWO,
+        "repetition_four": Structural.Repetition.REPETITION_FOUR,
     }
 
+    ALL_RULES = ["color", "reverse", "cross", "high", "repeat", "position", "sound"]
+
     @staticmethod
-    def find_all(word, is_plural):
+    def find_all(word):
         homophones_overlap = {}
         if word in homophones:
             homophones_ = set(homophones[word]["perfect"]).union(set(homophones[word]["close"]))
             homophones_overlap = {rule: list(homophones_.intersection(set(keyword))) for rule, keyword in
-                                  Pattern.ALL.items() if len(homophones_.intersection(set(keyword))) > 0}
+                                  Pattern.ALL_KEYWORDS.items() if len(homophones_.intersection(set(keyword))) > 0}
 
         patterns = {"template": "base"}
-        if word in Pattern.Unary.COLOR:
+        if word in Pattern.Individual.COLOR:
             patterns["color"] = word
-        if word in Pattern.Unary.REVERSE:
+        if word in Pattern.Individual.REVERSE:
             patterns["reverse"] = True
-        if word in Pattern.Unary.CROSS:
+        if word in Pattern.Individual.CROSS:
             patterns["cross"] = True
-        if word in Pattern.Unary.HIGH:
-            patterns["template"] = "high"
-        if word in Pattern.Unary.RIGHT:
-            patterns["template"] = "right"
-        if word in Pattern.Unary.REPETITION_TWO:
-            patterns["template"] = "repetition_two"
-        if word in Pattern.Unary.REPETITION_FOUR:
-            patterns["template"] = "repetition_four"
+        if word in Pattern.Structural.Position.HIGH:
+            patterns["position"] = "high"
+        if word in Pattern.Structural.Position.RIGHT:
+            patterns["position"] = "right"
+        if word in Pattern.Structural.Repetition.REPETITION_TWO:
+            patterns["repeat"] = 2
+        if word in Pattern.Structural.Repetition.REPETITION_FOUR:
+            patterns["repeat"] = 4
         if "repetition_four" in homophones_overlap:
-            patterns["template"] = "repetition_four"
+            patterns["repeat"] = 4
             patterns["sound"] = {word: homophones_overlap["repetition_four"]}
         if "repetition_two" in homophones_overlap:
-            patterns["template"] = "repetition_two"
+            patterns["repeat"] = 2
             patterns["sound"] = {word: homophones_overlap["repetition_two"]}
         return patterns
-
