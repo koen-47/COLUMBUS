@@ -65,4 +65,6 @@ class RebusImageConverter:
                 return Template.SingleNode.REPETITION_FOUR
             elif graph_attrs["template"] == Template.SingleNode.HIGH.name:
                 return Template.SingleNode.HIGH
+            elif graph_attrs["template"] == Template.SingleNode.RIGHT.name:
+                return Template.SingleNode.RIGHT
         return None

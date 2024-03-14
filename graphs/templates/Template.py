@@ -24,6 +24,18 @@ class Template:
                 }
             ]
 
+        class RIGHT:
+            name = "right"
+            elements = [
+                {
+                    "singular": [1.0, 0.5, 1.0],
+                    "plural": [
+                        [0.25, 1.0, 0.5],
+                        [0.75, 1.0, 0.5]
+                    ]
+                }
+            ]
+
         class REPETITION_FOUR:
             name = "repetition_four"
             elements = [

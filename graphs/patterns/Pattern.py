@@ -12,17 +12,22 @@ class Pattern:
         COLOR = ["blue", "orange", "green", "red", "purple", "brown", "pink", "gray", "yellow"]
         REVERSE = ["reverse", "back", "mirror", "inverse", "rear"]
         CROSS = ["cross"]
-        HIGH = ["high", "up"]
-        REPETITION_TWO = ["two"]
-        REPETITION_FOUR = ["four"]
+
+        class Position:
+            HIGH = ["high", "up"]
+            RIGHT = ["right"]
+
+        class Repetition:
+            REPETITION_TWO = ["two"]
+            REPETITION_FOUR = ["four"]
 
     ALL = {
         "color": Unary.COLOR,
         "reverse": Unary.REVERSE,
         "cross": Unary.CROSS,
-        "high": Unary.HIGH,
-        "repetition_two": Unary.REPETITION_TWO,
-        "repetition_four": Unary.REPETITION_FOUR,
+        "high": Unary.Position.HIGH,
+        "repetition_two": Unary.Repetition.REPETITION_TWO,
+        "repetition_four": Unary.Repetition.REPETITION_FOUR,
     }
 
     @staticmethod
@@ -42,6 +47,8 @@ class Pattern:
             patterns["cross"] = True
         if word in Pattern.Unary.HIGH:
             patterns["template"] = "high"
+        if word in Pattern.Unary.RIGHT:
+            patterns["template"] = "right"
         if word in Pattern.Unary.REPETITION_TWO:
             patterns["template"] = "repetition_two"
         if word in Pattern.Unary.REPETITION_FOUR:
