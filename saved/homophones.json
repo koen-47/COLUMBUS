@@ -3119,6 +3119,19 @@
          "four"
       ]
    },
+   "for": {
+      "perfect": [
+         "forr",
+         "faure",
+         "four",
+         "fore"
+      ],
+      "close": [
+         "forr",
+         "faure",
+         "four"
+      ]
+   },
    "hoot": {
       "perfect": [
          "huette",
@@ -6552,13 +6565,11 @@
    "eye": {
       "perfect": [
          "aye",
-         "i.",
          "ay",
          "i"
       ],
       "close": [
          "aye",
-         "i.",
          "ay",
          "i"
       ]

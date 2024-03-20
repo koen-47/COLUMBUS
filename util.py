@@ -12,3 +12,12 @@ def get_node_attributes(graph):
                 node_attrs[node] = {attr: attr_val}
             node_attrs[node][attr] = attr_val
     return node_attrs
+
+
+def get_edges_from_node(graph, node_id):
+    in_edges, out_edges = {}, {}
+    for edge in graph.in_edges(node_id, keys=True):
+        in_edges[edge] = nx.get_edge_attributes(graph, "rule")[edge]
+    for edge in graph.out_edges(node_id, keys=True):
+        out_edges[edge] = nx.get_edge_attributes(graph, "rule")[edge]
+    return [in_edges, out_edges]

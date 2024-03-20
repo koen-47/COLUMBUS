@@ -1,7 +1,9 @@
 from itertools import cycle
 
 import networkx as nx
+import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 from matplotlib.patches import ConnectionPatch
 
 from util import get_node_attributes
@@ -35,18 +37,19 @@ class RebusImageConverter:
         ax.axis('off')
 
     def _render_text(self, ax, element, attrs):
-        (x, y), size, (rotation, ha) = element[:2], element[2] * 40, element[3:5]
-        text = self._apply_reverse_rule(attrs)
+        (x, y), size = element[:2], element[2] * 40
+        text = attrs["text"]
+        text = self._apply_direction_rule(text, attrs)
         color = self._apply_color_rule(attrs)
+        ha = self._apply_position_ha_rule(attrs)
+        size = self._apply_size_rule(size, attrs)
         ax.text(x, y, text, fontsize=size, fontweight="bold", fontfamily="Consolas", color=color, ha=ha,
                 va="center")
         self._apply_cross_rule(attrs, ax, text, x, y, size)
+        self._apply_highlight_rule(attrs, ax, text, x, y, size)
 
     def _apply_color_rule(self, attrs):
         return "black" if "color" not in attrs else attrs["color"]
-
-    def _apply_reverse_rule(self, attrs):
-        return attrs["text"] if "reverse" not in attrs else attrs["text"][::-1]
 
     def _apply_cross_rule(self, attrs, ax, text, x, y, size):
         if "cross" in attrs:
@@ -54,3 +57,61 @@ class RebusImageConverter:
             line = ConnectionPatch((line_x1, y), (line_x2, y), "axes fraction", "axes fraction",
                                    color="black", lw=2)
             ax.add_artist(line)
+
+    def _apply_position_ha_rule(self, attrs):
+        if "position" in attrs:
+            if attrs["position"] == "left":
+                return "left"
+            if attrs["position"] == "right":
+                return "right"
+        return "center"
+
+    def _apply_direction_rule(self, text, attrs):
+        if "direction" in attrs:
+            if attrs["direction"] == "reverse":
+                return text[::-1]
+            if attrs["direction"] == "down":
+                return "\n".join(text)
+            if attrs["direction"] == "up":
+                return "\n".join(text)[::-1]
+        return text
+
+    def _apply_size_rule(self, size, attrs):
+        if "size" in attrs:
+            if attrs["size"] == "big":
+                return size * 2
+            if attrs["size"] == "small":
+                return size * 0.25
+        return size
+
+    def _apply_highlight_rule(self, attrs, ax, text, x, y, size):
+        if "highlight" in attrs:
+            if attrs["highlight"] == "after":
+                pos = x + (0.0035 * size * (len(text) / 2))
+                arrow_top = np.rot90(plt.imread("./saved/resources/arrow_right.png"), 3)
+                imagebox = OffsetImage(arrow_top, zoom=0.025)
+                ab = AnnotationBbox(imagebox, (pos, y + 0.15), frameon=False)
+                ax.add_artist(ab)
+                arrow_bottom = np.rot90(plt.imread("./saved/resources/arrow_right.png"), 1)
+                imagebox = OffsetImage(arrow_bottom, zoom=0.025)
+                ab = AnnotationBbox(imagebox, (pos, y - 0.12), frameon=False)
+                ax.add_artist(ab)
+            if attrs["highlight"] == "before":
+                pos = x - (0.004 * size * (len(text) / 2))
+                arrow_top = np.rot90(plt.imread("./saved/resources/arrow_right.png"), 3)
+                imagebox = OffsetImage(arrow_top, zoom=0.025)
+                ab = AnnotationBbox(imagebox, (pos, y + 0.15), frameon=False)
+                ax.add_artist(ab)
+                arrow_bottom = np.rot90(plt.imread("./saved/resources/arrow_right.png"), 1)
+                imagebox = OffsetImage(arrow_bottom, zoom=0.025)
+                ab = AnnotationBbox(imagebox, (pos, y - 0.12), frameon=False)
+                ax.add_artist(ab)
+            if attrs["highlight"] == "middle":
+                arrow_top = np.rot90(plt.imread("./saved/resources/arrow_right.png"), 3)
+                imagebox = OffsetImage(arrow_top, zoom=0.025)
+                ab = AnnotationBbox(imagebox, (x, y + 0.15), frameon=False)
+                ax.add_artist(ab)
+                arrow_bottom = np.rot90(plt.imread("./saved/resources/arrow_right.png"), 1)
+                imagebox = OffsetImage(arrow_bottom, zoom=0.025)
+                ab = AnnotationBbox(imagebox, (x, y - 0.12), frameon=False)
+                ax.add_artist(ab)
