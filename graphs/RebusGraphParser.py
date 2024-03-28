@@ -55,10 +55,8 @@ class RebusGraphParser:
         return None
 
     def parse_idiom(self, idiom):
-        ignore_regex_1 = "|".join([f" {word} " for word in Pattern.IGNORE])
-        ignore_regex_2 = "|".join([f"^({word}) | ({word})$" for word in Pattern.IGNORE])
-        idiom = re.sub(ignore_regex_1, " ", idiom)
-        idiom = re.sub(ignore_regex_2, "", idiom)
+        idiom_words = [word for word in idiom.split() if word not in Pattern.IGNORE]
+        idiom = " ".join(idiom_words)
 
         idiom_edges = [(i+1, i+2) for i in range(len(idiom.split())-1)]
 
@@ -66,7 +64,7 @@ class RebusGraphParser:
         graph.add_node(1, text=idiom.split()[0])
         for (i, word), edge in zip(enumerate(idiom.split()[1:]), idiom_edges):
             graph.add_node(i+2, text=word)
-            graph.add_edge(edge[0], edge[1], rule="NEXT-TO")
+            graph.add_edge(edge[0], edge[1], rule=None)
 
         words = nx.get_node_attributes(graph, "text")
         relational_keywords = Pattern.get_all_relational(as_dict=False)
@@ -83,7 +81,17 @@ class RebusGraphParser:
                     break
             words = nx.get_node_attributes(graph, "text")
 
-        print(graph)
+        # print(graph)
+        paths = self.filter_paths(graph)
+        # print(paths)
+        for path in paths:
+            graph = graph.merge_nodes(path)
+        graph = nx.convert_node_labels_to_integers(graph, first_label=1)
+        graph.graph["template"] = self._select_template(graph)
+        for node in graph.nodes:
+            graph.nodes[node]["is_plural"] = False
+
+        return graph
 
 
     def _select_template(self, graph):
@@ -106,3 +114,31 @@ class RebusGraphParser:
             if "repeat" in node_attrs and node_attrs["repeat"] == 4:
                 return {"name": Template.SingleNode.REPETITION_FOUR.name, "obj": Template.SingleNode.REPETITION_FOUR}
             return {"name": Template.BASE_HORIZONTAL.name, "obj": Template.BASE_HORIZONTAL}
+        return {"name": Template.BASE_HORIZONTAL.name, "obj": Template.BASE_HORIZONTAL}
+
+    def filter_paths(self, G):
+        filtered_paths = []
+        for source in G.nodes():
+            for target in G.nodes():
+                if source != target:
+                    paths = nx.all_simple_paths(G, source, target)
+                    for path in paths:
+                        # print(G.e)
+                        if all(G.edges[u, v, k].get("rule") is None for u, v, k in
+                               zip(path, path[1:], [0] * (len(path)-1))):
+                            if not any(set(path) < set(existing_path) for existing_path in filtered_paths):
+                                filtered_paths.append(path)
+
+        def remove_sublists(list_of_lists):
+            result = []
+            for sublist in list_of_lists:
+                is_superlist = True
+                for other_sublist in list_of_lists:
+                    if sublist != other_sublist and set(sublist).issubset(set(other_sublist)):
+                        is_superlist = False
+                        break
+                if is_superlist:
+                    result.append(sublist)
+            return result
+
+        return remove_sublists(filtered_paths)

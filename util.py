@@ -21,3 +21,15 @@ def get_edges_from_node(graph, node_id):
     for edge in graph.out_edges(node_id, keys=True):
         out_edges[edge] = nx.get_edge_attributes(graph, "rule")[edge]
     return [in_edges, out_edges]
+
+
+def get_edge_information(graph):
+    node_attrs = get_node_attributes(graph)
+    edge_attrs = nx.get_edge_attributes(graph, "rule")
+    edge_info = {}
+    for edge in graph.edges:
+        rule = edge_attrs[edge]
+        source = node_attrs[edge[0]]
+        target = node_attrs[edge[1]]
+        edge_info[edge] = (source, rule, target)
+    return edge_info

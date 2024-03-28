@@ -27,6 +27,7 @@ class Pattern:
         INSIDE = ["in", "inside"]
         OUTSIDE = ["out", "outside"]
         ABOVE = ["above", "over", "on", "upon"]
+        NEXT_TO = ["next"]
 
     class Individual:
         COLOR = ["black", "blue", "orange", "green", "red", "purple", "brown", "pink", "gray", "yellow"]
@@ -60,7 +61,7 @@ class Pattern:
 
     ALL_RULES = ["color", "reverse", "cross", "high", "repeat", "position", "direction", "size", "sound", "highlight"]
 
-    IGNORE = ["the", "a", "of", "is"]
+    IGNORE = ["the", "a", "of", "is", "let"]
 
     @staticmethod
     def find_all(word):

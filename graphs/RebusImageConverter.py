@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 from matplotlib.patches import ConnectionPatch
 
-from util import get_node_attributes
+from util import get_node_attributes, get_edges_from_node, get_edge_information
 from .templates.Template import Template
 
 
@@ -115,3 +115,35 @@ class RebusImageConverter:
                 imagebox = OffsetImage(arrow_bottom, zoom=0.025)
                 ab = AnnotationBbox(imagebox, (x, y - 0.12), frameon=False)
                 ax.add_artist(ab)
+
+    def render_inside_rule_puzzle(self, graph):
+        edge_attrs = list(get_edge_information(graph).values())[0]
+        text_inside = edge_attrs[0]["text"].upper()
+        text_outside = edge_attrs[2]["text"].upper()
+        text_outside_left, text_outside_right = "", ""
+        if len(text_outside) % 2 == 1:
+            text_outside_left = text_outside
+            text_outside_right = text_outside
+        else:
+            text_outside_left = text_outside[:int(len(text_outside)/2)]
+            text_outside_right = text_outside[int(len(text_outside)/2):]
+
+        fig, ax = plt.subplots(figsize=(self.BASE_SIZE[0] / 100, self.BASE_SIZE[1] / 100))
+        template = graph.graph["template"]["obj"]
+        (x, y), size = template.elements[0]["singular"][:2], template.elements[0]["singular"][2] * 40
+        text = ax.text(x, y, text_inside, color="black", ha="center", va="center", weight="bold",
+                       fontsize=size, fontfamily="Consolas")
+        ax.annotate(text_outside_left, xycoords=text, xy=(0, 0), va="bottom", ha="right", color="black", weight="bold", fontsize=size,
+                    fontfamily="Consolas")
+        ax.annotate(text_outside_right, xycoords=text, xy=(1, 0), va="bottom", color="black", weight="bold", fontsize=size,
+                    fontfamily="Consolas")
+        ax.set_xlim(0, 1)
+        ax.set_ylim(0, 1)
+        ax.axis('off')
+
+        plt.show()
+        # if save_path != "":
+        #     plt.savefig(save_path)
+        # if show:
+        #     plt.show()
+        # plt.close(fig)

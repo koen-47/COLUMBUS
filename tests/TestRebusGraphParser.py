@@ -33,3 +33,10 @@ class TestRebusGraphParser(unittest.TestCase):
         correct_graph.add_node(1, text="BASE")
         correct_graph.add_node(2, text="BERRY", color="blue")
         self.assertTrue(nx.utils.graphs_equal(graph, correct_graph))
+
+    def test_rebus_parser_merge_1(self):
+        self.parser.parse_idiom("knight in shining armour")
+        self.parser.parse_idiom("go down in flames")
+
+    def test_rebus_parser_merge_2(self):
+        self.parser.parse_idiom("standing so I outside dont have on to sit")
