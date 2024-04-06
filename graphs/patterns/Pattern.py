@@ -12,17 +12,6 @@ with open("./saved/homophones.json", "r") as file:
 
 
 class Pattern:
-    class Structural:
-        class Position:
-            HIGH = ["high"]
-            RIGHT = ["right"]
-            LEFT = ["left"]
-            LOW = ["low"]
-
-        class Repetition:
-            TWO = ["two", "double"]
-            FOUR = ["four",  "quarter"]
-
     class Relational:
         INSIDE = ["in", "inside"]
         OUTSIDE = ["out", "outside"]
@@ -49,28 +38,37 @@ class Pattern:
                 BEFORE = ["before", "begin", "start"]
                 MIDDLE = ["middle", "mid"]
 
+        class Position:
+            HIGH = ["high"]
+            RIGHT = ["right"]
+            LEFT = ["left"]
+            LOW = ["low"]
+
+        class Repetition:
+            TWO = ["two", "double", "to"]
+            FOUR = ["four",  "quarter"]
+
     ALL_KEYWORDS = {
         "color": Individual.COLOR,
         "reverse": Individual.Direction.REVERSE,
         "cross": Individual.CROSS,
-        "position_high": Structural.Position.HIGH,
-        "position_right": Structural.Position.RIGHT,
-        "repetition_two": Structural.Repetition.TWO,
-        "repetition_four": Structural.Repetition.FOUR,
+        "position_high": Individual.Position.HIGH,
+        "position_right": Individual.Position.RIGHT,
+        "repetition_two": Individual.Repetition.TWO,
+        "repetition_four": Individual.Repetition.FOUR,
     }
 
     ALL_RULES = ["color", "reverse", "cross", "high", "repeat", "position", "direction", "size", "sound", "highlight"]
 
-    IGNORE = ["the", "a", "of", "is", "let"]
+    IGNORE = ["the", "a", "of", "is", "let", "my", "and"]
 
     @staticmethod
-    def find_all(word):
+    def find_all(word, is_plural):
         homophones_overlap = {}
         if word in homophones:
             homophones_ = set(homophones[word]["perfect"]).union(set(homophones[word]["close"]))
             homophones_overlap = {rule: list(homophones_.intersection(set(keyword))) for rule, keyword in
                                   Pattern.ALL_KEYWORDS.items() if len(homophones_.intersection(set(keyword))) > 0}
-
         word_singular = inflect.singular_noun(word)
         if word_singular in homophones:
             homophones_ = set(homophones[word_singular]["perfect"]).union(set(homophones[word_singular]["close"]))
@@ -78,7 +76,6 @@ class Pattern:
                                   Pattern.ALL_KEYWORDS.items() if len(homophones_.intersection(set(keyword))) > 0}
 
         patterns = {}
-
         # INDIVIDUAL PATTERNS
         if word in Pattern.Individual.COLOR:
             patterns["color"] = word
@@ -102,17 +99,19 @@ class Pattern:
             patterns["highlight"] = "middle"
 
         # STRUCTURAL PATTERNS
-        if word in Pattern.Structural.Position.HIGH:
+        if word in Pattern.Individual.Position.HIGH:
             patterns["position"] = "high"
-        if word in Pattern.Structural.Position.RIGHT:
+        if word in Pattern.Individual.Position.RIGHT:
             patterns["position"] = "right"
-        if word in Pattern.Structural.Position.LEFT:
+        if word in Pattern.Individual.Position.LEFT:
             patterns["position"] = "left"
-        if word in Pattern.Structural.Position.LOW:
+        if word in Pattern.Individual.Position.LOW:
             patterns["position"] = "low"
-        if word in Pattern.Structural.Repetition.TWO:
+        if not is_plural:
+            patterns["repeat"] = 1
+        if word in Pattern.Individual.Repetition.TWO or is_plural:
             patterns["repeat"] = 2
-        if word in Pattern.Structural.Repetition.FOUR:
+        if word in Pattern.Individual.Repetition.FOUR:
             patterns["repeat"] = 4
 
         # INCLUDE SOUND PATTERNS
@@ -125,6 +124,7 @@ class Pattern:
         if "position_right" in homophones_overlap:
             patterns["position"] = "right"
             patterns["sound"] = {word: homophones_overlap["position_right"]}
+        # print(word, patterns)
         return patterns
 
     @staticmethod

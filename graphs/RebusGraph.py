@@ -19,9 +19,9 @@ class RebusGraph(nx.MultiDiGraph):
         next_node_id = list(out_edges.keys())[0][1]
         self.remove_node(node_id)
         self.add_edge(prev_node_id, next_node_id, rule=rule)
-        for in_edge, rule in {**in_edges, **out_edges}.items():
-            if {"rule": rule} not in list(self[prev_node_id][next_node_id].values()) and rule is not None:
-                self.add_edge(prev_node_id, next_node_id, rule=rule)
+        # for in_edge, rule in {**in_edges, **out_edges}.items():
+        #     if {"rule": rule} not in list(self[prev_node_id][next_node_id].values()) and rule is not None:
+        #         self.add_edge(prev_node_id, next_node_id, rule=rule)
 
     def merge_nodes(self, path):
         new_node = path[0]

@@ -59,9 +59,9 @@ fig, ax = plt.subplots()
 
 ax.set_xlim(0, 1)
 ax.set_ylim(0, 1)
-# ax.axis('off')
+ax.axis('off')
 
-plt.axvline(x=0.5)
+# plt.axvline(x=0.5)
 
 # inside_word = "MOOOOOOOOOOOOOOON"
 # outside_word = "ONCE"
@@ -71,9 +71,35 @@ plt.axvline(x=0.5)
 # text = ax.annotate(inside_word, xycoords=text, xy=(1, 0), verticalalignment="bottom", color="blue", weight="bold")
 # text = ax.annotate("CE", xycoords=text, xy=(1, 0), verticalalignment="bottom", color="black", weight="bold")
 
-text = ax.text(0.5, 0.5, "MOOOOOOOOOOOOOOOOON", color="blue", ha="center", va="center", weight="bold", fontsize=20, fontfamily="Consolas")
-ax.annotate("ALL", xycoords=text, xy=(0, 0), va="bottom", ha="right", color="black", weight="bold", fontsize=20, fontfamily="Consolas")
-ax.annotate("ALL", xycoords=text, xy=(1, 0), va="bottom", color="black", weight="bold", fontsize=20, fontfamily="Consolas")
+# text = ax.text(0.5, 0.5, "MOOOOOOOOOOOOOOOOON", color="blue", ha="center", va="center", weight="bold", fontsize=20, fontfamily="Consolas")
+# ax.annotate("ALL", xycoords=text, xy=(0, 0), va="bottom", ha="right", color="black", weight="bold", fontsize=20, fontfamily="Consolas")
+# ax.annotate("ALL", xycoords=text, xy=(1, 0), va="bottom", color="black", weight="bold", fontsize=20, fontfamily="Consolas")
+#
+#
+# plt.show()
+
+# text = "EFFECT → ___ ←"
+# text = " ↓ \nA I R\n ↑ \n ↓ \nA I R\n ↑ "
+# text = "→ SECRET\n  SECRET\n  SECRET"
+# text = "+---------+\n" + "| CHATTER |\n" + "+---------+\n"
+# text = "PUNCH\n" \
+#        "───────────\n" \
+#        "1111 WEIGHT\n"
+#
+# # text = "N\nE\nA\nL\nC"
+#
+#
+# ax.text(0.5, 0.5, text, color="black", ha="center", va="center", weight="bold", fontsize=40, fontfamily="Consolas")
+# plt.show()
 
 
+import numpy as np
+
+points = np.linspace(0.25, 0.75, 1).tolist()
+print(points)
+for p in points:
+    ax.text(0.5, p, "TEST", color="black", ha="center", va="center", weight="bold", fontsize=40, fontfamily="Consolas")
 plt.show()
+
+
+

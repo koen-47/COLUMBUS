@@ -25,30 +25,30 @@ class RebusGraphParser:
             c1, c2 = compound_info["c1"].values[0], compound_info["c2"].values[0]
             is_plural = bool(compound_info["isPlural"].values[0])
 
-        patterns_c1 = Pattern.find_all(c1)
-        patterns_c2 = Pattern.find_all(c2)
+        patterns_c1 = Pattern.find_all(c1, is_plural)
+        patterns_c2 = Pattern.find_all(c2, is_plural)
 
         if graph is None:
             graph = RebusGraph()
         new_node_id = len(graph.nodes) + 1
 
-        if len(patterns_c1) > 0 and len(patterns_c2) > 0:
+        if len(patterns_c1) > 1 and len(patterns_c2) > 1:
             graph_1, graph_2 = copy.deepcopy(graph), copy.deepcopy(graph)
             text_1 = inflect.singular_noun(c2).upper() if is_plural else c2.upper()
-            graph_1.add_node(new_node_id, text=text_1, is_plural=is_plural, **patterns_c1)
-            graph_2.add_node(new_node_id, text=c1.upper(), is_plural=is_plural, **patterns_c2)
+            graph_1.add_node(new_node_id, text=text_1, **patterns_c1)
+            graph_2.add_node(new_node_id, text=c1.upper(), **patterns_c2)
             graph_1.graph["template"] = self._select_template(graph_1)
             graph_2.graph["template"] = self._select_template(graph_2)
             return [graph_1, graph_2]
 
-        if len(patterns_c1) > 0:
+        if len(patterns_c1) > 1:
             text = inflect.singular_noun(c2).upper() if is_plural else c2.upper()
-            graph.add_node(new_node_id, text=text, is_plural=is_plural, **patterns_c1)
+            graph.add_node(new_node_id, text=text, **patterns_c1)
             graph.graph["template"] = self._select_template(graph)
             return [graph]
 
-        if len(patterns_c2) > 0:
-            graph.add_node(new_node_id, text=c1.upper(), is_plural=is_plural, **patterns_c2)
+        if len(patterns_c2) > 1:
+            graph.add_node(new_node_id, text=c1.upper(), **patterns_c2)
             graph.graph["template"] = self._select_template(graph)
             return [graph]
 
@@ -66,6 +66,28 @@ class RebusGraphParser:
             graph.add_node(i+2, text=word)
             graph.add_edge(edge[0], edge[1], rule=None)
 
+        node_attrs = list(get_node_attributes(graph).items())
+        skip = False
+        for i in range(len(node_attrs)-1):
+            if skip:
+                skip = False
+                continue
+            attrs_1, attrs_2 = node_attrs[i][1], node_attrs[i+1][1]
+            node = self.parse_compound(c1=attrs_1["text"], c2=attrs_2["text"], is_plural=False)
+            if node is not None:
+                node = node[0]
+                graph.remove_node(i+1)
+                graph.remove_node(i+2)
+                graph.add_node(i+1, **get_node_attributes(node)[1])
+                if i == 1:
+                    graph.add_edge(i, i + 1, rule="NEXT-TO")
+                elif i > 0:
+                    graph.add_edge(i-1, i+1, rule="NEXT-TO")
+                if len(graph.nodes) > 1 and i+3 in graph:
+                    graph.add_edge(i+1, i+3, rule="NEXT-TO")
+                skip = True
+
+        graph = nx.convert_node_labels_to_integers(graph, first_label=1)
         words = nx.get_node_attributes(graph, "text")
         relational_keywords = Pattern.get_all_relational(as_dict=False)
         while len(set(list(words.values())).intersection(set(relational_keywords))) > 0:
@@ -81,40 +103,38 @@ class RebusGraphParser:
                     break
             words = nx.get_node_attributes(graph, "text")
 
-        # print(graph)
         paths = self.filter_paths(graph)
-        # print(paths)
         for path in paths:
             graph = graph.merge_nodes(path)
         graph = nx.convert_node_labels_to_integers(graph, first_label=1)
         graph.graph["template"] = self._select_template(graph)
+
         for node in graph.nodes:
-            graph.nodes[node]["is_plural"] = False
+            if "repeat" not in graph.nodes[node]:
+                graph.nodes[node]["repeat"] = 1
+            graph.nodes[node]["text"] = graph.nodes[node]["text"].upper()
+
+        mapping = {node_2: node_1 for node_1, node_2 in zip(range(1, len(graph.nodes)+1), nx.topological_sort(graph))}
+        graph = nx.relabel_nodes(graph, mapping)
 
         return graph
 
-
     def _select_template(self, graph):
         node_attrs = get_node_attributes(graph)
-        if len(node_attrs) == 1:
+        inside_count = sum(1 for u, v, attrs in graph.edges(data=True) if
+                           all(attrs.get(attr) == value for attr, value in {"rule": "INSIDE"}.items()))
+        n_nodes = len(node_attrs) - inside_count
+
+        if n_nodes == 1:
             node_attrs = node_attrs[1]
-            # Check structural rules
             if "highlight" in node_attrs and (node_attrs["highlight"] == "begin" or node_attrs["highlight"] == "after"):
-                return {"name": Template.BASE_VERTICAL.name, "obj": Template.BASE_VERTICAL}
+                return {"name": Template.BASE.name, "obj": Template.BASE}
             if "size" in node_attrs and node_attrs["size"] == "big":
-                return {"name": Template.BASE_VERTICAL.name, "obj": Template.BASE_VERTICAL}
-            if "position" in node_attrs and node_attrs["position"] == "high":
-                return {"name": Template.SingleNode.HIGH.name, "obj": Template.SingleNode.HIGH}
-            if "position" in node_attrs and node_attrs["position"] == "right":
-                return {"name": Template.SingleNode.RIGHT.name, "obj": Template.SingleNode.RIGHT}
-            if "position" in node_attrs and node_attrs["position"] == "left":
-                return {"name": Template.SingleNode.LEFT.name, "obj": Template.SingleNode.LEFT}
-            if "position" in node_attrs and node_attrs["position"] == "low":
-                return {"name": Template.SingleNode.LOW.name, "obj": Template.SingleNode.LOW}
-            if "repeat" in node_attrs and node_attrs["repeat"] == 4:
-                return {"name": Template.SingleNode.REPETITION_FOUR.name, "obj": Template.SingleNode.REPETITION_FOUR}
-            return {"name": Template.BASE_HORIZONTAL.name, "obj": Template.BASE_HORIZONTAL}
-        return {"name": Template.BASE_HORIZONTAL.name, "obj": Template.BASE_HORIZONTAL}
+                return {"name": Template.BASE.name, "obj": Template.BASE}
+            return {"name": Template.BASE.name, "obj": Template.BASE}
+        if n_nodes == 2:
+            return {"name": Template.BASE_TWO.name, "obj": Template.BASE_TWO}
+        return {"name": Template.BASE_THREE.name, "obj": Template.BASE_THREE}
 
     def filter_paths(self, G):
         filtered_paths = []

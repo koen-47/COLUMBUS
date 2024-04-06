@@ -3124,12 +3124,14 @@
          "forr",
          "faure",
          "four",
-         "fore"
+         "fore",
+         "4"
       ],
       "close": [
          "forr",
          "faure",
-         "four"
+         "four",
+         "4"
       ]
    },
    "hoot": {
@@ -13501,18 +13503,38 @@
          "shutt"
       ]
    },
-   "two": {
+   "to": {
       "perfect": [
          "tu",
          "thuy",
          "too",
-         "tue"
+         "tue",
+         "2",
+         "two"
       ],
       "close": [
          "tu",
          "thuy",
          "too",
-         "tue"
+         "tue",
+         "2",
+         "two"
+      ]
+   },
+   "two": {
+      "perfect": [
+         "tu",
+         "thuy",
+         "too",
+         "tue",
+         "2"
+      ],
+      "close": [
+         "tu",
+         "thuy",
+         "too",
+         "tue",
+         "2"
       ]
    },
    "cuttle": {

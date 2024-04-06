@@ -1,0 +1,3057 @@
+{
+   "backache": [
+      "headache",
+      "earache",
+      "heartache"
+   ],
+   "backaches": [
+      "headache",
+      "earache",
+      "heartache"
+   ],
+   "hereafter": [
+      "somewhere",
+      "workfellow",
+      "checkout"
+   ],
+   "midafternoon": [
+      "midday",
+      "noonday",
+      "afternoon"
+   ],
+   "hereafters": [
+      "somewhere",
+      "workfellow",
+      "checkout"
+   ],
+   "midair": [
+      "airman",
+      "airhead",
+      "airway"
+   ],
+   "razorback": [
+      "razorbill",
+      "razorblade",
+      "spokeshave"
+   ],
+   "dieback": [
+      "diemaker",
+      "diestock",
+      "diehard"
+   ],
+   "crookback": [
+      "crookneck",
+      "cabdriver",
+      "moneylender"
+   ],
+   "prickleback": [
+      "cockleburr",
+      "rubdown",
+      "ticktack"
+   ],
+   "slingback": [
+      "slingshot",
+      "gunslinger",
+      "mudslinger"
+   ],
+   "throwback": [
+      "overthrow",
+      "throwaway",
+      "blowball"
+   ],
+   "canvasback": [
+      "silkscreen",
+      "drawnwork",
+      "paintbox"
+   ],
+   "paperback": [
+      "paperwork",
+      "paperboard",
+      "flypaper"
+   ],
+   "clawback": [
+      "clawfoot",
+      "catclaw",
+      "clawhammer"
+   ],
+   "feedback": [
+      "feedstock",
+      "feedbag",
+      "chickenfeed"
+   ],
+   "humpback": [
+      "chapman",
+      "hummingbird",
+      "catnip"
+   ],
+   "fullback": [
+      "stillroom",
+      "wholesale",
+      "overmuch"
+   ],
+   "kickback": [
+      "sidekick",
+      "kickoff",
+      "kickstand"
+   ],
+   "flashback": [
+      "flashover",
+      "flashboard",
+      "flashlight"
+   ],
+   "halfback": [
+      "halftime",
+      "halfpenny",
+      "halftone"
+   ],
+   "greyback": [
+      "greyhound",
+      "greyhen",
+      "greybeard"
+   ],
+   "greenback": [
+      "greenwood",
+      "greenhouse",
+      "greenweed"
+   ],
+   "fatback": [
+      "fathead",
+      "butterfat",
+      "heavyweight"
+   ],
+   "buyback": [
+      "buyout",
+      "wholesale",
+      "selloff"
+   ],
+   "lobsterback": [
+      "lobsterman",
+      "crabmeat",
+      "crabapple"
+   ],
+   "blowback": [
+      "blowfish",
+      "blowball",
+      "blowfly"
+   ],
+   "tieback": [
+      "crosstie",
+      "tiepin",
+      "necktie"
+   ],
+   "hardback": [
+      "hardwood",
+      "hardboard",
+      "hardball"
+   ],
+   "hunchback": [
+      "nosebag",
+      "dugout",
+      "stinkweed"
+   ],
+   "quarterback": [
+      "quarterlight",
+      "quartermaster",
+      "hindquarter"
+   ],
+   "outback": [
+      "workout",
+      "handout",
+      "blackout"
+   ],
+   "fallback": [
+      "fallboard",
+      "landfall",
+      "waterfall"
+   ],
+   "touchback": [
+      "touchwood",
+      "touchstone",
+      "touchdown"
+   ],
+   "cutback": [
+      "woodcut",
+      "cutwork",
+      "undercut"
+   ],
+   "rollback": [
+      "rollover",
+      "bedroll",
+      "payroll"
+   ],
+   "horseback": [
+      "horseman",
+      "horsefish",
+      "horsehead"
+   ],
+   "cornerback": [
+      "cornerstone",
+      "curbside",
+      "sidewall"
+   ],
+   "drawback": [
+      "drawbar",
+      "drawbridge",
+      "drawstring"
+   ],
+   "hatchback": [
+      "hatchway",
+      "crosshatch",
+      "nuthatch"
+   ],
+   "callback": [
+      "overcall",
+      "birdcall",
+      "catcall"
+   ],
+   "saddleback": [
+      "sidesaddle",
+      "saddlebill",
+      "saddlebag"
+   ],
+   "diamondback": [
+      "gemstone",
+      "goldstone",
+      "jewelweed"
+   ],
+   "leatherback": [
+      "leatherfish",
+      "leatherwood",
+      "leatherwork"
+   ],
+   "piggyback": [
+      "pigman",
+      "pigsty",
+      "pigtail"
+   ],
+   "payback": [
+      "payday",
+      "payoff",
+      "paymaster"
+   ],
+   "grayback": [
+      "grayhen",
+      "graybeard",
+      "graylag"
+   ],
+   "hogback": [
+      "hogfish",
+      "hogweed",
+      "hogwash"
+   ],
+   "playback": [
+      "playhouse",
+      "playbook",
+      "horseplay"
+   ],
+   "tailback": [
+      "tailboard",
+      "tailwort",
+      "blacktail"
+   ],
+   "setback": [
+      "headset",
+      "handset",
+      "sunset"
+   ],
+   "wingback": [
+      "wingman",
+      "underwing",
+      "bluewing"
+   ],
+   "mossback": [
+      "spikemoss",
+      "ditchmoss",
+      "woodfern"
+   ],
+   "finback": [
+      "tailfin",
+      "bluefin",
+      "bowfin"
+   ],
+   "pullback": [
+      "pullover",
+      "bellpull",
+      "pushover"
+   ],
+   "softback": [
+      "softwood",
+      "softball",
+      "software"
+   ],
+   "silverback": [
+      "silverfish",
+      "silverwork",
+      "silverweed"
+   ],
+   "halfbacks": [
+      "halftime",
+      "halfpenny",
+      "halftone"
+   ],
+   "callbacks": [
+      "overcall",
+      "birdcall",
+      "catcall"
+   ],
+   "piggybacks": [
+      "pigman",
+      "pigsty",
+      "pigtail"
+   ],
+   "tiebacks": [
+      "crosstie",
+      "tiepin",
+      "necktie"
+   ],
+   "tailbacks": [
+      "tailboard",
+      "tailwort",
+      "blacktail"
+   ],
+   "cutbacks": [
+      "woodcut",
+      "cutwork",
+      "undercut"
+   ],
+   "humpbacks": [
+      "chapman",
+      "hummingbird",
+      "catnip"
+   ],
+   "hogbacks": [
+      "hogfish",
+      "hogweed",
+      "hogwash"
+   ],
+   "playbacks": [
+      "playhouse",
+      "playbook",
+      "horseplay"
+   ],
+   "quarterbacks": [
+      "quarterlight",
+      "quartermaster",
+      "hindquarter"
+   ],
+   "hardbacks": [
+      "hardwood",
+      "hardboard",
+      "hardball"
+   ],
+   "fullbacks": [
+      "stillroom",
+      "wholesale",
+      "overmuch"
+   ],
+   "paybacks": [
+      "payday",
+      "payoff",
+      "paymaster"
+   ],
+   "greenbacks": [
+      "greenwood",
+      "greenhouse",
+      "greenweed"
+   ],
+   "diamondbacks": [
+      "gemstone",
+      "goldstone",
+      "jewelweed"
+   ],
+   "razorbacks": [
+      "razorbill",
+      "razorblade",
+      "spokeshave"
+   ],
+   "outbacks": [
+      "workout",
+      "handout",
+      "blackout"
+   ],
+   "hunchbacks": [
+      "nosebag",
+      "dugout",
+      "stinkweed"
+   ],
+   "rollbacks": [
+      "rollover",
+      "bedroll",
+      "payroll"
+   ],
+   "pullbacks": [
+      "pullover",
+      "bellpull",
+      "pushover"
+   ],
+   "flashbacks": [
+      "flashover",
+      "flashboard",
+      "flashlight"
+   ],
+   "kickbacks": [
+      "sidekick",
+      "kickoff",
+      "kickstand"
+   ],
+   "canvasbacks": [
+      "silkscreen",
+      "drawnwork",
+      "paintbox"
+   ],
+   "mossbacks": [
+      "spikemoss",
+      "ditchmoss",
+      "woodfern"
+   ],
+   "hatchbacks": [
+      "hatchway",
+      "crosshatch",
+      "nuthatch"
+   ],
+   "drawbacks": [
+      "drawbar",
+      "drawbridge",
+      "drawstring"
+   ],
+   "paperbacks": [
+      "paperwork",
+      "paperboard",
+      "flypaper"
+   ],
+   "buybacks": [
+      "buyout",
+      "wholesale",
+      "selloff"
+   ],
+   "highball": [
+      "handball",
+      "fireball",
+      "football"
+   ],
+   "blackball": [
+      "handball",
+      "fireball",
+      "football"
+   ],
+   "highballs": [
+      "handball",
+      "fireball",
+      "football"
+   ],
+   "blackballs": [
+      "handball",
+      "fireball",
+      "football"
+   ],
+   "backband": [
+      "headband",
+      "bandbox",
+      "bandsaw"
+   ],
+   "crossbar": [
+      "barman",
+      "barberry",
+      "sidebar"
+   ],
+   "crossbars": [
+      "barman",
+      "barberry",
+      "sidebar"
+   ],
+   "crossbeam": [
+      "sunbeam",
+      "moonbeam",
+      "hornbeam"
+   ],
+   "crossbeams": [
+      "sunbeam",
+      "moonbeam",
+      "hornbeam"
+   ],
+   "graybeard": [
+      "longbeard",
+      "greybeard",
+      "goatsbeard"
+   ],
+   "graybeards": [
+      "longbeard",
+      "greybeard",
+      "goatsbeard"
+   ],
+   "downbeat": [
+      "backbeat",
+      "heartbeat",
+      "deadbeat"
+   ],
+   "backbeat": [
+      "downbeat",
+      "heartbeat",
+      "deadbeat"
+   ],
+   "downbeats": [
+      "backbeat",
+      "heartbeat",
+      "deadbeat"
+   ],
+   "blackbeetle": [
+      "beetleweed",
+      "ladybeetle",
+      "bugbear"
+   ],
+   "bluebell": [
+      "bellman",
+      "handbell",
+      "bellbird"
+   ],
+   "bluebells": [
+      "bellman",
+      "handbell",
+      "bellbird"
+   ],
+   "redbelly": [
+      "underbelly",
+      "potbelly",
+      "bellyband"
+   ],
+   "greenbelt": [
+      "beltway",
+      "seatbelt",
+      "shelterbelt"
+   ],
+   "greenbelts": [
+      "beltway",
+      "seatbelt",
+      "shelterbelt"
+   ],
+   "backbench": [
+      "workbench",
+      "crossbench",
+      "benchmark"
+   ],
+   "crossbench": [
+      "backbench",
+      "workbench",
+      "benchmark"
+   ],
+   "backbenches": [
+      "workbench",
+      "crossbench",
+      "benchmark"
+   ],
+   "backbend": [
+      "bentwood",
+      "overstrain",
+      "turnround"
+   ],
+   "blackberries": [
+      "sunberry",
+      "sandberry",
+      "snowberry"
+   ],
+   "blueberries": [
+      "sunberry",
+      "blackberry",
+      "sandberry"
+   ],
+   "blueberry": [
+      "sunberry",
+      "blackberry",
+      "sandberry"
+   ],
+   "redberry": [
+      "sunberry",
+      "blackberry",
+      "sandberry"
+   ],
+   "blackberry": [
+      "sunberry",
+      "sandberry",
+      "snowberry"
+   ],
+   "crossbill": [
+      "billfish",
+      "billboard",
+      "handbill"
+   ],
+   "bluebill": [
+      "billfish",
+      "billboard",
+      "handbill"
+   ],
+   "highbinder": [
+      "bookbinder",
+      "spellbinder",
+      "bookbindery"
+   ],
+   "yellowbird": [
+      "birdhouse",
+      "firebird",
+      "waterbird"
+   ],
+   "bluebird": [
+      "birdhouse",
+      "firebird",
+      "waterbird"
+   ],
+   "blackbird": [
+      "birdhouse",
+      "firebird",
+      "waterbird"
+   ],
+   "redbird": [
+      "birdhouse",
+      "firebird",
+      "waterbird"
+   ],
+   "blackbirds": [
+      "birdhouse",
+      "firebird",
+      "waterbird"
+   ],
+   "redbirds": [
+      "birdhouse",
+      "firebird",
+      "waterbird"
+   ],
+   "bluebirds": [
+      "birdhouse",
+      "firebird",
+      "waterbird"
+   ],
+   "afterbirth": [
+      "birthwort",
+      "birthroot",
+      "birthday"
+   ],
+   "afterbirths": [
+      "birthwort",
+      "birthroot",
+      "birthday"
+   ],
+   "backbiter": [
+      "bitewing",
+      "overbite",
+      "biteplate"
+   ],
+   "backbiters": [
+      "bitewing",
+      "overbite",
+      "biteplate"
+   ],
+   "bootblack": [
+      "bootmaker",
+      "jackboot",
+      "bootjack"
+   ],
+   "shoeblack": [
+      "overshoe",
+      "shoebird",
+      "horseshoe"
+   ],
+   "lampblack": [
+      "headlamp",
+      "lamphouse",
+      "sunlamp"
+   ],
+   "backblast": [
+      "sandblast",
+      "blastoff",
+      "plasmablast"
+   ],
+   "blackboard": [
+      "headboard",
+      "backboard",
+      "workboard"
+   ],
+   "backboard": [
+      "headboard",
+      "workboard",
+      "sideboard"
+   ],
+   "highboard": [
+      "headboard",
+      "backboard",
+      "workboard"
+   ],
+   "backboards": [
+      "headboard",
+      "workboard",
+      "sideboard"
+   ],
+   "blackboards": [
+      "headboard",
+      "backboard",
+      "workboard"
+   ],
+   "blackbody": [
+      "bodywork",
+      "underbody",
+      "homebody"
+   ],
+   "backbone": [
+      "fishbone",
+      "bonefish",
+      "bonehead"
+   ],
+   "redbone": [
+      "fishbone",
+      "bonefish",
+      "bonehead"
+   ],
+   "crossbones": [
+      "fishbone",
+      "bonefish",
+      "bonehead"
+   ],
+   "backbones": [
+      "fishbone",
+      "bonefish",
+      "bonehead"
+   ],
+   "bluebonnet": [
+      "bonnethead",
+      "sunbonnet",
+      "crookneck"
+   ],
+   "bluebonnets": [
+      "bonnethead",
+      "sunbonnet",
+      "crookneck"
+   ],
+   "bluebottle": [
+      "greenbottle",
+      "bottleneck",
+      "bottlecap"
+   ],
+   "greenbottle": [
+      "bluebottle",
+      "bottleneck",
+      "bottlecap"
+   ],
+   "bluebottles": [
+      "greenbottle",
+      "bottleneck",
+      "bottlecap"
+   ],
+   "crossbow": [
+      "bowman",
+      "bowhead",
+      "handbow"
+   ],
+   "crossbows": [
+      "bowman",
+      "bowhead",
+      "handbow"
+   ],
+   "lowboy": [
+      "playboy",
+      "potboy",
+      "sandboy"
+   ],
+   "highboy": [
+      "playboy",
+      "potboy",
+      "sandboy"
+   ],
+   "lowboys": [
+      "playboy",
+      "potboy",
+      "sandboy"
+   ],
+   "highboys": [
+      "playboy",
+      "potboy",
+      "sandboy"
+   ],
+   "midbrain": [
+      "birdbrain",
+      "brainpan",
+      "braincase"
+   ],
+   "middlebreaker": [
+      "housebreaker",
+      "windbreaker",
+      "groundbreaker"
+   ],
+   "redbreast": [
+      "breastwork",
+      "breastpin",
+      "breastbone"
+   ],
+   "redbreasts": [
+      "breastwork",
+      "breastpin",
+      "breastbone"
+   ],
+   "crossbreed": [
+      "purebred",
+      "thoroughbred",
+      "crossbreeding"
+   ],
+   "crossbreeding": [
+      "crossbreed",
+      "purebred",
+      "thoroughbred"
+   ],
+   "crossbreeds": [
+      "purebred",
+      "thoroughbred",
+      "crossbreeding"
+   ],
+   "greenbrier": [
+      "brierwood",
+      "bullbrier",
+      "catbrier"
+   ],
+   "middlebrow": [
+      "eyebrow",
+      "highbrow",
+      "lowbrow"
+   ],
+   "highbrow": [
+      "eyebrow",
+      "lowbrow",
+      "middlebrow"
+   ],
+   "lowbrow": [
+      "eyebrow",
+      "highbrow",
+      "middlebrow"
+   ],
+   "highbrows": [
+      "eyebrow",
+      "lowbrow",
+      "middlebrow"
+   ],
+   "lowbrows": [
+      "eyebrow",
+      "highbrow",
+      "middlebrow"
+   ],
+   "middlebrows": [
+      "eyebrow",
+      "highbrow",
+      "lowbrow"
+   ],
+   "redbrush": [
+      "brushwood",
+      "brushwork",
+      "underbrush"
+   ],
+   "blackbuck": [
+      "buckboard",
+      "waterbuck",
+      "buckeye"
+   ],
+   "redbud": [
+      "rosebud",
+      "tastebud",
+      "headsman"
+   ],
+   "redbug": [
+      "firebug",
+      "bedbug",
+      "ladybug"
+   ],
+   "afterburner": [
+      "barnburner",
+      "flamethrower",
+      "firecracker"
+   ],
+   "afterburners": [
+      "barnburner",
+      "flamethrower",
+      "firecracker"
+   ],
+   "yellowcake": [
+      "cakehole",
+      "teacake",
+      "seedcake"
+   ],
+   "blackcap": [
+      "capstone",
+      "snowcap",
+      "nightcap"
+   ],
+   "redcap": [
+      "capstone",
+      "blackcap",
+      "snowcap"
+   ],
+   "redcaps": [
+      "capstone",
+      "blackcap",
+      "snowcap"
+   ],
+   "aftercare": [
+      "haircare",
+      "daycare",
+      "skincare"
+   ],
+   "downcast": [
+      "overcast",
+      "wormcast",
+      "newscast"
+   ],
+   "highchair": [
+      "chairman",
+      "chairwoman",
+      "wheelchair"
+   ],
+   "highchairs": [
+      "chairman",
+      "chairwoman",
+      "wheelchair"
+   ],
+   "backchat": [
+      "stonechat",
+      "chatroom",
+      "whinchat"
+   ],
+   "crosscheck": [
+      "checkbook",
+      "checkout",
+      "checkroom"
+   ],
+   "crosschecks": [
+      "checkbook",
+      "checkout",
+      "checkroom"
+   ],
+   "backcloth": [
+      "horsecloth",
+      "haircloth",
+      "washcloth"
+   ],
+   "backcloths": [
+      "horsecloth",
+      "haircloth",
+      "washcloth"
+   ],
+   "redcoat": [
+      "overcoat",
+      "housecoat",
+      "undercoat"
+   ],
+   "bluecoat": [
+      "overcoat",
+      "housecoat",
+      "undercoat"
+   ],
+   "redcoats": [
+      "overcoat",
+      "housecoat",
+      "undercoat"
+   ],
+   "testcross": [
+      "quizmaster",
+      "checkpoint",
+      "mockernut"
+   ],
+   "crosscut": [
+      "cutback",
+      "woodcut",
+      "cutwork"
+   ],
+   "crosscuts": [
+      "cutback",
+      "woodcut",
+      "cutwork"
+   ],
+   "blackdamp": [
+      "firedamp",
+      "afterdamp",
+      "chokedamp"
+   ],
+   "afterdamp": [
+      "firedamp",
+      "blackdamp",
+      "chokedamp"
+   ],
+   "midday": [
+      "workday",
+      "daybook",
+      "daybed"
+   ],
+   "backdoor": [
+      "doorman",
+      "doorway",
+      "doorpost"
+   ],
+   "meltdown": [
+      "meltwater",
+      "overheating",
+      "icecream"
+   ],
+   "touchdown": [
+      "touchback",
+      "touchwood",
+      "touchstone"
+   ],
+   "countdown": [
+      "headcount",
+      "nosecount",
+      "countinghouse"
+   ],
+   "closedown": [
+      "closeout",
+      "shutdown",
+      "shutout"
+   ],
+   "turndown": [
+      "overturn",
+      "turnover",
+      "turnstone"
+   ],
+   "lookdown": [
+      "overlook",
+      "lookout",
+      "checkout"
+   ],
+   "knockdown": [
+      "knockout",
+      "knockoff",
+      "knockabout"
+   ],
+   "crackdown": [
+      "crackpot",
+      "wisecrack",
+      "cracksman"
+   ],
+   "takedown": [
+      "takeover",
+      "takeout",
+      "stocktake"
+   ],
+   "clampdown": [
+      "clotbur",
+      "crampfish",
+      "smallholder"
+   ],
+   "standdown": [
+      "headstand",
+      "handstand",
+      "newsstand"
+   ],
+   "rubdown": [
+      "waxberry",
+      "prickleback",
+      "waxwork"
+   ],
+   "shutdown": [
+      "shutout",
+      "shuteye",
+      "closeout"
+   ],
+   "letdown": [
+      "giveaway",
+      "putout",
+      "putoff"
+   ],
+   "spelldown": [
+      "spellbinder",
+      "fingerspelling",
+      "witchcraft"
+   ],
+   "slowdown": [
+      "slowworm",
+      "slowcoach",
+      "slowpoke"
+   ],
+   "showdown": [
+      "showman",
+      "sideshow",
+      "horseshow"
+   ],
+   "breakdown": [
+      "firebreak",
+      "breakstone",
+      "breakwater"
+   ],
+   "rundown": [
+      "overrun",
+      "runway",
+      "runoff"
+   ],
+   "comedown": [
+      "newcomer",
+      "knockabout",
+      "shutout"
+   ],
+   "backdown": [
+      "backboard",
+      "backhand",
+      "backfire"
+   ],
+   "splashdown": [
+      "splashboard",
+      "wetland",
+      "waterfront"
+   ],
+   "lockdown": [
+      "lockman",
+      "headlock",
+      "handlock"
+   ],
+   "eiderdown": [
+      "doeskin",
+      "ebbtide",
+      "skinhead"
+   ],
+   "sundown": [
+      "sunfish",
+      "sunstone",
+      "sunberry"
+   ],
+   "shakedown": [
+      "headshake",
+      "handshake",
+      "shakeout"
+   ],
+   "thistledown": [
+      "frostweed",
+      "velvetweed",
+      "chickweed"
+   ],
+   "comedowns": [
+      "newcomer",
+      "knockabout",
+      "shutout"
+   ],
+   "letdowns": [
+      "giveaway",
+      "putout",
+      "putoff"
+   ],
+   "countdowns": [
+      "headcount",
+      "nosecount",
+      "countinghouse"
+   ],
+   "eiderdowns": [
+      "doeskin",
+      "ebbtide",
+      "skinhead"
+   ],
+   "splashdowns": [
+      "splashboard",
+      "wetland",
+      "waterfront"
+   ],
+   "crackdowns": [
+      "crackpot",
+      "wisecrack",
+      "cracksman"
+   ],
+   "spelldowns": [
+      "spellbinder",
+      "fingerspelling",
+      "witchcraft"
+   ],
+   "rubdowns": [
+      "waxberry",
+      "prickleback",
+      "waxwork"
+   ],
+   "shakedowns": [
+      "headshake",
+      "handshake",
+      "shakeout"
+   ],
+   "breakdowns": [
+      "firebreak",
+      "breakstone",
+      "breakwater"
+   ],
+   "meltdowns": [
+      "meltwater",
+      "overheating",
+      "icecream"
+   ],
+   "clampdowns": [
+      "clotbur",
+      "crampfish",
+      "smallholder"
+   ],
+   "rundowns": [
+      "overrun",
+      "runway",
+      "runoff"
+   ],
+   "slowdowns": [
+      "slowworm",
+      "slowcoach",
+      "slowpoke"
+   ],
+   "sundowns": [
+      "sunfish",
+      "sunstone",
+      "sunberry"
+   ],
+   "touchdowns": [
+      "touchback",
+      "touchwood",
+      "touchstone"
+   ],
+   "downdraft": [
+      "overdraft",
+      "draftsman",
+      "draftsperson"
+   ],
+   "downdrafts": [
+      "overdraft",
+      "draftsman",
+      "draftsperson"
+   ],
+   "backdrop": [
+      "airdrop",
+      "dropline",
+      "dropout"
+   ],
+   "backdrops": [
+      "airdrop",
+      "dropline",
+      "dropout"
+   ],
+   "aftereffect": [
+      "overexposure",
+      "overreaction",
+      "fadeout"
+   ],
+   "aftereffects": [
+      "overexposure",
+      "overreaction",
+      "fadeout"
+   ],
+   "bookend": [
+      "bookman",
+      "workbook",
+      "handbook"
+   ],
+   "weekend": [
+      "workweek",
+      "weeknight",
+      "midweek"
+   ],
+   "weekends": [
+      "workweek",
+      "weeknight",
+      "midweek"
+   ],
+   "bookends": [
+      "bookman",
+      "workbook",
+      "handbook"
+   ],
+   "greeneye": [
+      "eyeball",
+      "redeye",
+      "eyehole"
+   ],
+   "redeye": [
+      "eyeball",
+      "greeneye",
+      "eyehole"
+   ],
+   "pinkeye": [
+      "eyeball",
+      "greeneye",
+      "redeye"
+   ],
+   "bigeye": [
+      "eyeball",
+      "greeneye",
+      "redeye"
+   ],
+   "blackface": [
+      "stoneface",
+      "whiteface",
+      "faceplate"
+   ],
+   "downfall": [
+      "fallback",
+      "fallboard",
+      "landfall"
+   ],
+   "downfalls": [
+      "fallback",
+      "fallboard",
+      "landfall"
+   ],
+   "rightfield": [
+      "backfield",
+      "fieldwork",
+      "fieldhand"
+   ],
+   "leftfield": [
+      "backfield",
+      "fieldwork",
+      "fieldhand"
+   ],
+   "midfield": [
+      "backfield",
+      "fieldwork",
+      "fieldhand"
+   ],
+   "backfield": [
+      "fieldwork",
+      "fieldhand",
+      "fieldstone"
+   ],
+   "backfields": [
+      "fieldwork",
+      "fieldhand",
+      "fieldstone"
+   ],
+   "bluefin": [
+      "finback",
+      "tailfin",
+      "bowfin"
+   ],
+   "yellowfin": [
+      "finback",
+      "tailfin",
+      "bluefin"
+   ],
+   "crossfire": [
+      "fireman",
+      "backfire",
+      "firewood"
+   ],
+   "backfire": [
+      "fireman",
+      "firewood",
+      "firehouse"
+   ],
+   "crossfires": [
+      "fireman",
+      "backfire",
+      "firewood"
+   ],
+   "backfires": [
+      "fireman",
+      "firewood",
+      "firehouse"
+   ],
+   "blackfish": [
+      "headfish",
+      "stonefish",
+      "sunfish"
+   ],
+   "redfish": [
+      "headfish",
+      "stonefish",
+      "sunfish"
+   ],
+   "bluefish": [
+      "headfish",
+      "stonefish",
+      "sunfish"
+   ],
+   "bluefishes": [
+      "headfish",
+      "stonefish",
+      "sunfish"
+   ],
+   "highflier": [
+      "flannelbush",
+      "greenbrier",
+      "snowflake"
+   ],
+   "greenflies": [
+      "flyover",
+      "housefly",
+      "firefly"
+   ],
+   "backflow": [
+      "overflow",
+      "workflow",
+      "airflow"
+   ],
+   "backflowing": [
+      "overflow",
+      "backflow",
+      "airflow"
+   ],
+   "blackfly": [
+      "flyover",
+      "housefly",
+      "firefly"
+   ],
+   "greenfly": [
+      "flyover",
+      "housefly",
+      "firefly"
+   ],
+   "highflyer": [
+      "dobsonfly",
+      "flyways",
+      "flywheel"
+   ],
+   "wherefore": [
+      "somewhere",
+      "whereabouts",
+      "wherewithal"
+   ],
+   "greengage": [
+      "sawmills",
+      "lynchpin",
+      "wireman"
+   ],
+   "endgame": [
+      "gameboard",
+      "ballgame",
+      "gamebag"
+   ],
+   "backgammon": [
+      "gadabout",
+      "garboard",
+      "peachwood"
+   ],
+   "bluegill": [
+      "surfperch",
+      "surffish",
+      "jawfish"
+   ],
+   "bluegills": [
+      "surfperch",
+      "surffish",
+      "jawfish"
+   ],
+   "afterglow": [
+      "glowworm",
+      "candlelight",
+      "firelight"
+   ],
+   "afterglows": [
+      "glowworm",
+      "candlelight",
+      "firelight"
+   ],
+   "downgrade": [
+      "paygrade",
+      "schoolboy",
+      "highschool"
+   ],
+   "downgrades": [
+      "paygrade",
+      "schoolboy",
+      "highschool"
+   ],
+   "bluegrass": [
+      "grassfire",
+      "grassland",
+      "seagrass"
+   ],
+   "midgrass": [
+      "grassfire",
+      "grassland",
+      "seagrass"
+   ],
+   "evergreen": [
+      "everlasting",
+      "overtime",
+      "overages"
+   ],
+   "wintergreen": [
+      "winterberry",
+      "wintertime",
+      "midwinter"
+   ],
+   "greengrocer": [
+      "gristmill",
+      "grandstander",
+      "moviegoer"
+   ],
+   "greengrocers": [
+      "gristmill",
+      "grandstander",
+      "moviegoer"
+   ],
+   "greengrocery": [
+      "breadbasket",
+      "foodstuff",
+      "pantryman"
+   ],
+   "foreground": [
+      "groundfish",
+      "background",
+      "groundwork"
+   ],
+   "background": [
+      "groundfish",
+      "groundwork",
+      "underground"
+   ],
+   "backgrounder": [
+      "groundwork",
+      "backgrounding",
+      "groundbreaking"
+   ],
+   "backgrounders": [
+      "groundwork",
+      "backgrounding",
+      "groundbreaking"
+   ],
+   "backgrounding": [
+      "groundwork",
+      "groundbreaking",
+      "playground"
+   ],
+   "backgrounds": [
+      "groundfish",
+      "groundwork",
+      "underground"
+   ],
+   "blackguard": [
+      "guardhouse",
+      "fireguard",
+      "guardroom"
+   ],
+   "rearguard": [
+      "guardhouse",
+      "fireguard",
+      "blackguard"
+   ],
+   "rearguards": [
+      "guardhouse",
+      "fireguard",
+      "blackguard"
+   ],
+   "blackguards": [
+      "guardhouse",
+      "fireguard",
+      "guardroom"
+   ],
+   "crosshairs": [
+      "hairtail",
+      "hairball",
+      "hairline"
+   ],
+   "yellowhammer": [
+      "hammerhead",
+      "jackhammer",
+      "hammerlock"
+   ],
+   "yellowhammers": [
+      "hammerhead",
+      "jackhammer",
+      "hammerlock"
+   ],
+   "backhand": [
+      "handover",
+      "handwork",
+      "handbook"
+   ],
+   "backhands": [
+      "handover",
+      "handwork",
+      "handbook"
+   ],
+   "crosshatch": [
+      "hatchback",
+      "hatchway",
+      "nuthatch"
+   ],
+   "crosshatches": [
+      "hatchback",
+      "hatchway",
+      "nuthatch"
+   ],
+   "bighead": [
+      "headman",
+      "overhead",
+      "headfish"
+   ],
+   "blackhead": [
+      "headman",
+      "overhead",
+      "headfish"
+   ],
+   "forehead": [
+      "headman",
+      "overhead",
+      "headfish"
+   ],
+   "crosshead": [
+      "headman",
+      "overhead",
+      "headfish"
+   ],
+   "redhead": [
+      "headman",
+      "overhead",
+      "headfish"
+   ],
+   "bluehead": [
+      "headman",
+      "overhead",
+      "headfish"
+   ],
+   "redheader": [
+      "doubleheader",
+      "letterhead",
+      "headpiece"
+   ],
+   "crossheading": [
+      "redheader",
+      "forehead",
+      "bonnethead"
+   ],
+   "blackheads": [
+      "headman",
+      "overhead",
+      "headfish"
+   ],
+   "bigheads": [
+      "headman",
+      "overhead",
+      "headfish"
+   ],
+   "redheads": [
+      "headman",
+      "overhead",
+      "headfish"
+   ],
+   "blackheart": [
+      "heartwood",
+      "heartland",
+      "heartbreak"
+   ],
+   "grayhen": [
+      "henhouse",
+      "peahen",
+      "henbane"
+   ],
+   "downhill": [
+      "hillside",
+      "foothill",
+      "hilltop"
+   ],
+   "downhills": [
+      "hillside",
+      "foothill",
+      "hilltop"
+   ],
+   "backhoes": [
+      "turnstile",
+      "gadabout",
+      "hobnail"
+   ],
+   "smallholder": [
+      "householder",
+      "landholder",
+      "potholder"
+   ],
+   "smallholders": [
+      "householder",
+      "landholder",
+      "potholder"
+   ],
+   "smallholding": [
+      "landholding",
+      "stockholding",
+      "shareholding"
+   ],
+   "smallholdings": [
+      "landholding",
+      "stockholding",
+      "shareholding"
+   ],
+   "bighorn": [
+      "hornbook",
+      "hornstone",
+      "hornwort"
+   ],
+   "greenhorn": [
+      "hornbook",
+      "hornstone",
+      "hornwort"
+   ],
+   "greenhorns": [
+      "hornbook",
+      "hornstone",
+      "hornwort"
+   ],
+   "bighorns": [
+      "hornbook",
+      "hornstone",
+      "hornwort"
+   ],
+   "redhorse": [
+      "horseman",
+      "horsefish",
+      "horsehead"
+   ],
+   "greenhouse": [
+      "houseman",
+      "housework",
+      "workhouse"
+   ],
+   "greenhouses": [
+      "houseman",
+      "housework",
+      "workhouse"
+   ],
+   "afterimage": [
+      "artwork",
+      "radiophotograph",
+      "piecework"
+   ],
+   "afterimages": [
+      "artwork",
+      "radiophotograph",
+      "piecework"
+   ],
+   "midiron": [
+      "ironman",
+      "ironwood",
+      "ironwork"
+   ],
+   "crossjack": [
+      "blackjack",
+      "jackpot",
+      "jacklight"
+   ],
+   "blackjack": [
+      "jackpot",
+      "crossjack",
+      "jacklight"
+   ],
+   "highjack": [
+      "blackjack",
+      "jackpot",
+      "crossjack"
+   ],
+   "bluejacket": [
+      "leatherjacket",
+      "straightjacket",
+      "straitjacket"
+   ],
+   "bluejackets": [
+      "leatherjacket",
+      "straightjacket",
+      "straitjacket"
+   ],
+   "highjacking": [
+      "carjacking",
+      "cheapjack",
+      "supplejack"
+   ],
+   "blackjacks": [
+      "jackpot",
+      "crossjack",
+      "jacklight"
+   ],
+   "graylag": [
+      "greylag",
+      "speedups",
+      "slowpoke"
+   ],
+   "midland": [
+      "landman",
+      "headland",
+      "woodland"
+   ],
+   "highland": [
+      "landman",
+      "headland",
+      "woodland"
+   ],
+   "lowland": [
+      "landman",
+      "headland",
+      "woodland"
+   ],
+   "lowlands": [
+      "landman",
+      "headland",
+      "woodland"
+   ],
+   "highlands": [
+      "landman",
+      "headland",
+      "woodland"
+   ],
+   "midlands": [
+      "landman",
+      "headland",
+      "woodland"
+   ],
+   "backlash": [
+      "eyelash",
+      "whiplash",
+      "wryneck"
+   ],
+   "backlashes": [
+      "eyelash",
+      "whiplash",
+      "wryneck"
+   ],
+   "blackleg": [
+      "dogleg",
+      "bowleg",
+      "bootleg"
+   ],
+   "yellowlegs": [
+      "blackleg",
+      "dogleg",
+      "bowleg"
+   ],
+   "blacklegs": [
+      "dogleg",
+      "bowleg",
+      "bootleg"
+   ],
+   "highlife": [
+      "lifework",
+      "lifeline",
+      "lifeboat"
+   ],
+   "afterlife": [
+      "lifework",
+      "lifeline",
+      "lifeboat"
+   ],
+   "lowlife": [
+      "lifework",
+      "lifeline",
+      "lifeboat"
+   ],
+   "highlight": [
+      "headlight",
+      "lightwood",
+      "lighthouse"
+   ],
+   "highlighter": [
+      "lighterman",
+      "firelighter",
+      "moonlighter"
+   ],
+   "highlighters": [
+      "lighterman",
+      "firelighter",
+      "moonlighter"
+   ],
+   "backlighting": [
+      "highlighting",
+      "houselights",
+      "flashlights"
+   ],
+   "highlighting": [
+      "backlighting",
+      "houselights",
+      "flashlights"
+   ],
+   "highlights": [
+      "headlight",
+      "lightwood",
+      "lighthouse"
+   ],
+   "midline": [
+      "lineman",
+      "headline",
+      "underline"
+   ],
+   "blacklist": [
+      "playlist",
+      "checklist",
+      "shortlist"
+   ],
+   "blacklists": [
+      "playlist",
+      "checklist",
+      "shortlist"
+   ],
+   "afterlives": [
+      "lifework",
+      "lifeline",
+      "lifeboat"
+   ],
+   "backlog": [
+      "logwood",
+      "logbook",
+      "logjam"
+   ],
+   "backlogs": [
+      "logwood",
+      "logbook",
+      "logjam"
+   ],
+   "redmaids": [
+      "housemaid",
+      "handmaid",
+      "barmaid"
+   ],
+   "blackmail": [
+      "mailman",
+      "airmail",
+      "mailbox"
+   ],
+   "greenmail": [
+      "mailman",
+      "airmail",
+      "blackmail"
+   ],
+   "blackmailer": [
+      "airmailer",
+      "mailsorter",
+      "mailbox"
+   ],
+   "blackmailers": [
+      "airmailer",
+      "mailsorter",
+      "mailbox"
+   ],
+   "blackmails": [
+      "mailman",
+      "airmail",
+      "mailbox"
+   ],
+   "greenmails": [
+      "mailman",
+      "airmail",
+      "blackmail"
+   ],
+   "middleman": [
+      "headman",
+      "woodman",
+      "houseman"
+   ],
+   "greenmarket": [
+      "marketplace",
+      "hypermarkets",
+      "sellout"
+   ],
+   "foremast": [
+      "masthead",
+      "topmast",
+      "mainmast"
+   ],
+   "aftermath": [
+      "schoolwork",
+      "homework",
+      "highschool"
+   ],
+   "aftermaths": [
+      "schoolwork",
+      "homework",
+      "highschool"
+   ],
+   "middlemen": [
+      "headman",
+      "woodman",
+      "houseman"
+   ],
+   "foremilk": [
+      "milkman",
+      "milkweed",
+      "milkwort"
+   ],
+   "largemouth": [
+      "mouthwash",
+      "mouthpiece",
+      "motormouth"
+   ],
+   "smallmouth": [
+      "mouthwash",
+      "mouthpiece",
+      "motormouth"
+   ],
+   "forename": [
+      "nameplate",
+      "filename",
+      "namesake"
+   ],
+   "littleneck": [
+      "neckline",
+      "redneck",
+      "neckband"
+   ],
+   "redneck": [
+      "neckline",
+      "neckband",
+      "neckpiece"
+   ],
+   "rednecks": [
+      "neckline",
+      "neckband",
+      "neckpiece"
+   ],
+   "midnight": [
+      "nightwork",
+      "nightbird",
+      "nighttime"
+   ],
+   "midnights": [
+      "nightwork",
+      "nightbird",
+      "nighttime"
+   ],
+   "afternoon": [
+      "noonday",
+      "noontide",
+      "midafternoon"
+   ],
+   "afternoons": [
+      "noonday",
+      "noontide",
+      "midafternoon"
+   ],
+   "bluenose": [
+      "noseband",
+      "bullnose",
+      "nosebag"
+   ],
+   "bluenoses": [
+      "noseband",
+      "bullnose",
+      "nosebag"
+   ],
+   "blackout": [
+      "outback",
+      "workout",
+      "handout"
+   ],
+   "blackouts": [
+      "outback",
+      "workout",
+      "handout"
+   ],
+   "crossover": [
+      "overhead",
+      "overwork",
+      "handover"
+   ],
+   "leftover": [
+      "overhead",
+      "overwork",
+      "handover"
+   ],
+   "crossovers": [
+      "overhead",
+      "overwork",
+      "handover"
+   ],
+   "backpack": [
+      "packman",
+      "packhorse",
+      "packsaddle"
+   ],
+   "backpacker": [
+      "packman",
+      "packsack",
+      "backpack"
+   ],
+   "backpackers": [
+      "packman",
+      "packsack",
+      "backpack"
+   ],
+   "backpacking": [
+      "packinghouse",
+      "meatpacking",
+      "postbag"
+   ],
+   "backpacks": [
+      "packman",
+      "packhorse",
+      "packsaddle"
+   ],
+   "afterpains": [
+      "painkiller",
+      "backache",
+      "heartache"
+   ],
+   "crosspatch": [
+      "patchwork",
+      "patchboard",
+      "eyepatch"
+   ],
+   "forepaws": [
+      "southpaw",
+      "catclaw",
+      "clawfoot"
+   ],
+   "crosspieces": [
+      "headpiece",
+      "workpiece",
+      "piecework"
+   ],
+   "midplane": [
+      "airplane",
+      "tailplane",
+      "seaplane"
+   ],
+   "backplate": [
+      "fishplate",
+      "bookplate",
+      "footplate"
+   ],
+   "endplate": [
+      "fishplate",
+      "backplate",
+      "bookplate"
+   ],
+   "bluepoint": [
+      "ballpoint",
+      "gunpoint",
+      "pinpoint"
+   ],
+   "endpoint": [
+      "ballpoint",
+      "bluepoint",
+      "gunpoint"
+   ],
+   "midpoint": [
+      "ballpoint",
+      "bluepoint",
+      "gunpoint"
+   ],
+   "bluepoints": [
+      "ballpoint",
+      "gunpoint",
+      "pinpoint"
+   ],
+   "midpoints": [
+      "ballpoint",
+      "bluepoint",
+      "gunpoint"
+   ],
+   "endpoints": [
+      "ballpoint",
+      "bluepoint",
+      "gunpoint"
+   ],
+   "blackpoll": [
+      "redpoll",
+      "quizmaster",
+      "changeover"
+   ],
+   "redpoll": [
+      "blackpoll",
+      "quizmaster",
+      "changeover"
+   ],
+   "downpour": [
+      "brewpub",
+      "whitecup",
+      "homebrew"
+   ],
+   "downpours": [
+      "brewpub",
+      "whitecup",
+      "homebrew"
+   ],
+   "smallpox": [
+      "cowpox",
+      "poxvirus",
+      "chickenpox"
+   ],
+   "blueprint": [
+      "overprint",
+      "footprint",
+      "printout"
+   ],
+   "blueprints": [
+      "overprint",
+      "footprint",
+      "printout"
+   ],
+   "backrest": [
+      "headrest",
+      "handrest",
+      "footrest"
+   ],
+   "backrests": [
+      "headrest",
+      "handrest",
+      "footrest"
+   ],
+   "midrib": [
+      "ribwort",
+      "ribgrass",
+      "ribband"
+   ],
+   "midribs": [
+      "ribwort",
+      "ribgrass",
+      "ribband"
+   ],
+   "birthright": [
+      "birthwort",
+      "birthroot",
+      "birthday"
+   ],
+   "copyright": [
+      "copybook",
+      "copycat",
+      "copyhold"
+   ],
+   "highroad": [
+      "roadman",
+      "roadhouse",
+      "roadbook"
+   ],
+   "crossroad": [
+      "roadman",
+      "roadhouse",
+      "roadbook"
+   ],
+   "crossroads": [
+      "roadman",
+      "roadhouse",
+      "roadbook"
+   ],
+   "highroads": [
+      "roadman",
+      "roadhouse",
+      "roadbook"
+   ],
+   "greenroom": [
+      "headroom",
+      "backroom",
+      "houseroom"
+   ],
+   "backroom": [
+      "headroom",
+      "houseroom",
+      "workroom"
+   ],
+   "backrooms": [
+      "headroom",
+      "houseroom",
+      "workroom"
+   ],
+   "greenrooms": [
+      "headroom",
+      "backroom",
+      "houseroom"
+   ],
+   "redroot": [
+      "manroot",
+      "stoneroot",
+      "rootstock"
+   ],
+   "pinkroot": [
+      "manroot",
+      "stoneroot",
+      "rootstock"
+   ],
+   "forerunner": [
+      "gunrunner",
+      "roadrunner",
+      "racerunner"
+   ],
+   "greensand": [
+      "sandman",
+      "sandfish",
+      "sandstone"
+   ],
+   "backsaw": [
+      "sawfish",
+      "handsaw",
+      "sawwort"
+   ],
+   "highschool": [
+      "schoolman",
+      "schoolhouse",
+      "schoolwork"
+   ],
+   "backscratcher": [
+      "scratchpad",
+      "safecracker",
+      "beachcomber"
+   ],
+   "backseat": [
+      "countryseat",
+      "loveseat",
+      "seatbelt"
+   ],
+   "backseats": [
+      "countryseat",
+      "loveseat",
+      "seatbelt"
+   ],
+   "midsection": [
+      "underpart",
+      "mainsheet",
+      "underclasses"
+   ],
+   "midsections": [
+      "underpart",
+      "mainsheet",
+      "underclasses"
+   ],
+   "blackseed": [
+      "seedman",
+      "birdseed",
+      "seedbed"
+   ],
+   "redshank": [
+      "greenshank",
+      "sheepshank",
+      "hindshank"
+   ],
+   "greenshank": [
+      "redshank",
+      "sheepshank",
+      "hindshank"
+   ],
+   "downshift": [
+      "redshift",
+      "gearshift",
+      "makeshift"
+   ],
+   "redshift": [
+      "downshift",
+      "gearshift",
+      "makeshift"
+   ],
+   "aftershock": [
+      "airburst",
+      "backblast",
+      "deathblow"
+   ],
+   "aftershocks": [
+      "airburst",
+      "backblast",
+      "deathblow"
+   ],
+   "greensickness": [
+      "airsickness",
+      "seasickness",
+      "homesickness"
+   ],
+   "backside": [
+      "underside",
+      "sideboard",
+      "fireside"
+   ],
+   "downside": [
+      "backside",
+      "underside",
+      "sideboard"
+   ],
+   "backsides": [
+      "underside",
+      "sideboard",
+      "fireside"
+   ],
+   "downsides": [
+      "backside",
+      "underside",
+      "sideboard"
+   ],
+   "downsizing": [
+      "shirtsleeve",
+      "shirtwaist",
+      "footwear"
+   ],
+   "backslapper": [
+      "slapstick",
+      "whippersnapper",
+      "slapshot"
+   ],
+   "backslappers": [
+      "slapstick",
+      "whippersnapper",
+      "slapshot"
+   ],
+   "backslider": [
+      "slideway",
+      "rockslide",
+      "landslide"
+   ],
+   "backsliders": [
+      "slideway",
+      "rockslide",
+      "landslide"
+   ],
+   "backsliding": [
+      "slideway",
+      "landslide",
+      "mudslide"
+   ],
+   "downslope": [
+      "foothills",
+      "baseline",
+      "downhill"
+   ],
+   "blacksmith": [
+      "gunsmith",
+      "locksmith",
+      "silversmith"
+   ],
+   "blacksmiths": [
+      "gunsmith",
+      "locksmith",
+      "silversmith"
+   ],
+   "blacksnake": [
+      "snakefish",
+      "snakehead",
+      "snakewood"
+   ],
+   "blacksnakes": [
+      "snakefish",
+      "snakehead",
+      "snakewood"
+   ],
+   "backspace": [
+      "spaceman",
+      "headspace",
+      "workspace"
+   ],
+   "backspacer": [
+      "spaceman",
+      "spacefaring",
+      "spacecraft"
+   ],
+   "backspaces": [
+      "spaceman",
+      "headspace",
+      "workspace"
+   ],
+   "downspin": [
+      "backspin",
+      "tailspin",
+      "topspin"
+   ],
+   "backspin": [
+      "tailspin",
+      "downspin",
+      "topspin"
+   ],
+   "backstage": [
+      "stagehand",
+      "downstage",
+      "offstage"
+   ],
+   "downstage": [
+      "backstage",
+      "stagehand",
+      "offstage"
+   ],
+   "backstairs": [
+      "stairhead",
+      "stairway",
+      "staircase"
+   ],
+   "jumpstart": [
+      "jumpsuit",
+      "showjumping",
+      "flypast"
+   ],
+   "redstart": [
+      "redfish",
+      "redhead",
+      "redwood"
+   ],
+   "backstay": [
+      "staysail",
+      "mainstay",
+      "lockdown"
+   ],
+   "bluestem": [
+      "brainstem",
+      "marrowbone",
+      "groundnut"
+   ],
+   "backstitch": [
+      "stitchwort",
+      "lockstitch",
+      "whipstitch"
+   ],
+   "bluestocking": [
+      "stocktaking",
+      "stocktake",
+      "stockholding"
+   ],
+   "bluestockings": [
+      "stocktaking",
+      "stocktake",
+      "stockholding"
+   ],
+   "brownstone": [
+      "stonefish",
+      "headstone",
+      "stonework"
+   ],
+   "bluestone": [
+      "stonefish",
+      "headstone",
+      "stonework"
+   ],
+   "brownstones": [
+      "stonefish",
+      "headstone",
+      "stonework"
+   ],
+   "backstop": [
+      "stopover",
+      "doorstop",
+      "stoplight"
+   ],
+   "backstops": [
+      "stopover",
+      "doorstop",
+      "stoplight"
+   ],
+   "midstream": [
+      "headstream",
+      "airstream",
+      "streambed"
+   ],
+   "downstroke": [
+      "backstroke",
+      "sidestroke",
+      "sunstroke"
+   ],
+   "backstroke": [
+      "sidestroke",
+      "sunstroke",
+      "downstroke"
+   ],
+   "backstrokes": [
+      "sidestroke",
+      "sunstroke",
+      "downstroke"
+   ],
+   "midsummer": [
+      "summerhouse",
+      "summertime",
+      "summerset"
+   ],
+   "greensward": [
+      "boatswain",
+      "pigswill",
+      "swagman"
+   ],
+   "backswimmer": [
+      "swimsuit",
+      "swimwear",
+      "waterman"
+   ],
+   "downswing": [
+      "golfcart",
+      "batwing",
+      "volleyball"
+   ],
+   "downswings": [
+      "golfcart",
+      "batwing",
+      "volleyball"
+   ],
+   "backsword": [
+      "swordfish",
+      "swordtail",
+      "swordplay"
+   ],
+   "blacktail": [
+      "tailback",
+      "tailboard",
+      "tailwort"
+   ],
+   "browntail": [
+      "tailback",
+      "tailboard",
+      "tailwort"
+   ],
+   "redtail": [
+      "tailback",
+      "tailboard",
+      "tailwort"
+   ],
+   "yellowtail": [
+      "tailback",
+      "tailboard",
+      "tailwort"
+   ],
+   "crosstalk": [
+      "backtalk",
+      "babytalk",
+      "whinchat"
+   ],
+   "backtalk": [
+      "crosstalk",
+      "babytalk",
+      "whinchat"
+   ],
+   "aftertaste": [
+      "tastebud",
+      "foretastes",
+      "bittersweet"
+   ],
+   "aftertastes": [
+      "tastebud",
+      "foretastes",
+      "bittersweet"
+   ],
+   "foretastes": [
+      "aftertaste",
+      "tastebud",
+      "bittersweet"
+   ],
+   "midterm": [
+      "crossword",
+      "catchword",
+      "buzzword"
+   ],
+   "midterms": [
+      "crossword",
+      "catchword",
+      "buzzword"
+   ],
+   "blackthorn": [
+      "firethorn",
+      "boxthorn",
+      "thornbill"
+   ],
+   "blackthorns": [
+      "firethorn",
+      "boxthorn",
+      "thornbill"
+   ],
+   "afterthought": [
+      "doublethink",
+      "groupthink",
+      "mindset"
+   ],
+   "afterthoughts": [
+      "doublethink",
+      "groupthink",
+      "mindset"
+   ],
+   "yellowthroat": [
+      "throatwort",
+      "bluethroat",
+      "cutthroat"
+   ],
+   "bluethroat": [
+      "throatwort",
+      "cutthroat",
+      "whitethroat"
+   ],
+   "bluetick": [
+      "tickweed",
+      "downtick",
+      "tickseed"
+   ],
+   "downtick": [
+      "tickweed",
+      "bluetick",
+      "tickseed"
+   ],
+   "crosstie": [
+      "tieback",
+      "tiepin",
+      "necktie"
+   ],
+   "downtime": [
+      "overtime",
+      "timework",
+      "bedtime"
+   ],
+   "bluetongue": [
+      "tonguefish",
+      "tongueflower",
+      "earthtongue"
+   ],
+   "blacktop": [
+      "housetop",
+      "topside",
+      "flattop"
+   ],
+   "blacktopping": [
+      "icecream",
+      "carrottop",
+      "housetops"
+   ],
+   "blacktops": [
+      "housetop",
+      "topside",
+      "flattop"
+   ],
+   "downtown": [
+      "cowtown",
+      "hometown",
+      "shantytown"
+   ],
+   "downturn": [
+      "overturn",
+      "turnover",
+      "turnstone"
+   ],
+   "downturns": [
+      "overturn",
+      "turnover",
+      "turnstone"
+   ],
+   "speedups": [
+      "airspeed",
+      "speedway",
+      "speedboat"
+   ],
+   "grownups": [
+      "undergrowth",
+      "overgrowth",
+      "pumpkinseed"
+   ],
+   "lockups": [
+      "lockman",
+      "headlock",
+      "handlock"
+   ],
+   "pileups": [
+      "woodpile",
+      "pilewort",
+      "sandpile"
+   ],
+   "makeups": [
+      "makeover",
+      "makeweight",
+      "makeshift"
+   ],
+   "checkups": [
+      "checkbook",
+      "checkout",
+      "checkroom"
+   ],
+   "pickups": [
+      "icepick",
+      "toothpick",
+      "pickpocket"
+   ],
+   "breakups": [
+      "firebreak",
+      "breakstone",
+      "breakwater"
+   ],
+   "stickups": [
+      "stickweed",
+      "stickball",
+      "nightstick"
+   ],
+   "startups": [
+      "redstart",
+      "jumpstart",
+      "runabout"
+   ],
+   "lineups": [
+      "lineman",
+      "headline",
+      "underline"
+   ],
+   "buildups": [
+      "homebuilder",
+      "housebuilder",
+      "bodybuilder"
+   ],
+   "hookups": [
+      "fishhook",
+      "hookworm",
+      "pothook"
+   ],
+   "markups": [
+      "markweed",
+      "landmark",
+      "bookmark"
+   ],
+   "midvein": [
+      "bloodline",
+      "bloodstream",
+      "hemline"
+   ],
+   "crosswalk": [
+      "walkover",
+      "boardwalk",
+      "sidewalk"
+   ],
+   "crosswalks": [
+      "walkover",
+      "boardwalk",
+      "sidewalk"
+   ],
+   "backwash": [
+      "washhouse",
+      "washboard",
+      "blackwash"
+   ],
+   "blackwash": [
+      "backwash",
+      "washhouse",
+      "washboard"
+   ],
+   "midwatch": [
+      "watchman",
+      "watchmaker",
+      "dogwatch"
+   ],
+   "blackwater": [
+      "waterman",
+      "headwater",
+      "backwater"
+   ],
+   "highwater": [
+      "waterman",
+      "headwater",
+      "backwater"
+   ],
+   "backwater": [
+      "waterman",
+      "headwater",
+      "waterweed"
+   ],
+   "backwaters": [
+      "waterman",
+      "headwater",
+      "waterweed"
+   ],
+   "crossway": [
+      "headway",
+      "waterway",
+      "airway"
+   ],
+   "greenway": [
+      "headway",
+      "waterway",
+      "airway"
+   ],
+   "midway": [
+      "headway",
+      "waterway",
+      "airway"
+   ],
+   "highway": [
+      "headway",
+      "waterway",
+      "airway"
+   ],
+   "highways": [
+      "headway",
+      "waterway",
+      "airway"
+   ],
+   "midways": [
+      "headway",
+      "waterway",
+      "airway"
+   ],
+   "greenweed": [
+      "fireweed",
+      "waterweed",
+      "horseweed"
+   ],
+   "blueweed": [
+      "fireweed",
+      "waterweed",
+      "horseweed"
+   ],
+   "midweek": [
+      "workweek",
+      "weeknight",
+      "weekday"
+   ],
+   "midweeks": [
+      "workweek",
+      "weeknight",
+      "weekday"
+   ],
+   "middleweight": [
+      "overweight",
+      "flyweight",
+      "lightweight"
+   ],
+   "middleweights": [
+      "overweight",
+      "flyweight",
+      "lightweight"
+   ],
+   "midwife": [
+      "fishwife",
+      "housewife",
+      "alewife"
+   ],
+   "bigwig": [
+      "wigmaker",
+      "earwig",
+      "hairpiece"
+   ],
+   "bigwigs": [
+      "wigmaker",
+      "earwig",
+      "hairpiece"
+   ],
+   "crosswind": [
+      "headwind",
+      "woodwind",
+      "tailwind"
+   ],
+   "crosswinds": [
+      "headwind",
+      "woodwind",
+      "tailwind"
+   ],
+   "redwing": [
+      "wingman",
+      "wingback",
+      "underwing"
+   ],
+   "greenwing": [
+      "wingman",
+      "wingback",
+      "underwing"
+   ],
+   "bluewing": [
+      "wingman",
+      "wingback",
+      "underwing"
+   ],
+   "midwinter": [
+      "winterberry",
+      "wintertime",
+      "wintergreen"
+   ],
+   "midwives": [
+      "fishwife",
+      "housewife",
+      "alewife"
+   ],
+   "yellowwood": [
+      "woodman",
+      "woodwork",
+      "underwood"
+   ],
+   "blackwood": [
+      "woodman",
+      "woodwork",
+      "underwood"
+   ],
+   "orangewood": [
+      "woodman",
+      "woodwork",
+      "underwood"
+   ],
+   "greenwood": [
+      "woodman",
+      "woodwork",
+      "underwood"
+   ],
+   "redwood": [
+      "woodman",
+      "woodwork",
+      "underwood"
+   ],
+   "redwoods": [
+      "woodman",
+      "woodwork",
+      "underwood"
+   ],
+   "backwoods": [
+      "woodman",
+      "woodwork",
+      "underwood"
+   ],
+   "crossword": [
+      "headword",
+      "wordbook",
+      "wordplay"
+   ],
+   "crosswords": [
+      "headword",
+      "wordbook",
+      "wordplay"
+   ],
+   "afterworld": [
+      "underworld",
+      "dreamworld",
+      "netherworld"
+   ],
+   "waggonwright": [
+      "wagtail",
+      "whinstone",
+      "whitlowwort"
+   ],
+   "ploughwright": [
+      "ploughman",
+      "ploughland",
+      "snowplough"
+   ],
+   "playwright": [
+      "playback",
+      "playhouse",
+      "playbook"
+   ],
+   "shipwright": [
+      "airship",
+      "shipside",
+      "shipway"
+   ],
+   "millwright": [
+      "millwork",
+      "millboard",
+      "millstone"
+   ],
+   "wainwright": [
+      "wolfman",
+      "nitpicker",
+      "hindshank"
+   ],
+   "cartwright": [
+      "handcart",
+      "carthorse",
+      "dogcart"
+   ],
+   "wagonwright": [
+      "bandwagon",
+      "milkwagon",
+      "battlewagon"
+   ],
+   "plowwright": [
+      "plowman",
+      "plowland",
+      "snowplow"
+   ],
+   "wheelwright": [
+      "wheelhouse",
+      "wheelwork",
+      "handwheel"
+   ],
+   "wheelwrights": [
+      "wheelhouse",
+      "wheelwork",
+      "handwheel"
+   ],
+   "millwrights": [
+      "millwork",
+      "millboard",
+      "millstone"
+   ],
+   "shipwrights": [
+      "airship",
+      "shipside",
+      "shipway"
+   ],
+   "wainwrights": [
+      "wolfman",
+      "nitpicker",
+      "hindshank"
+   ],
+   "playwrights": [
+      "playback",
+      "playhouse",
+      "playbook"
+   ],
+   "backyard": [
+      "yardman",
+      "yardbird",
+      "boatyard"
+   ],
+   "backyards": [
+      "yardman",
+      "yardbird",
+      "boatyard"
+   ]
+}

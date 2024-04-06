@@ -22,19 +22,17 @@ from scraping.WiktionaryIdiomsWebScraper import WiktionaryIdiomsWebScraper
 
 rebus_parser = RebusGraphParser("./saved/ladec_raw_small.csv")
 image_converter = RebusImageConverter()
-#
+
 # graph = rebus_parser.parse_idiom("all in time")
 # print(graph)
-# # image_converter.render_inside_rule_puzzle(graph)
+# image_converter.render_inside_rule_puzzle(graph)
 # graph = rebus_parser.parse_idiom("all in all")
 # print(graph)
-# # image_converter.render_inside_rule_puzzle(graph)
-
-
+# image_converter.render_inside_rule_puzzle(graph)
 
 # graph = rebus_parser.parse_compound("foreground")[0]
 # graph.visualize()
-#
+
 # image_converter.convert_graph_to_image(graph, show=True)
 
 # image_converter.render_inside_rule_puzzle(graph)
@@ -53,16 +51,20 @@ image_converter = RebusImageConverter()
 # rebus_parser.parse_idiom("when in Rome, do as the Romans")
 # rebus_parser.parse_idiom("Rome, do as the Romans")
 
-with open("./saved/theidioms_raw.json", "r") as file:
-    idioms = pd.DataFrame(json.load(file))
+with open("./saved/idioms_raw.json", "r") as file:
+    idioms = json.load(file)
 
 counter = 0
-for idiom in idioms["idiom"]:
+for idiom in idioms:
     if "in" in idiom.split() and "in" != idiom.split()[0] and "in" != idiom.split()[-1]:
-        graph = rebus_parser.parse_idiom(idiom)
-        image_converter.render_inside_rule_puzzle(graph)
-        counter += 1
-print(counter)
+        try:
+            print(idiom)
+            graph = rebus_parser.parse_idiom(idiom)
+            image_converter.render_inside_rule_puzzle(graph, save_path=f"./results/idioms/{'_'.join(idiom.split())}")
+            counter += 1
+        except:
+            pass
+# print(counter)
 
 
 # import matplotlib.pyplot as plt
