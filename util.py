@@ -35,3 +35,16 @@ def get_edge_information(graph):
         target = node_attrs[edge[1]]
         edge_info[edge] = (source, rule, target)
     return edge_info
+
+
+def remove_duplicate_graphs(graphs):
+    unique_graphs = []
+    for graph in graphs:
+        is_duplicate = False
+        for unique_graph in unique_graphs:
+            if nx.utils.graphs_equal(graph, unique_graph):
+                is_duplicate = True
+                break
+        if not is_duplicate:
+            unique_graphs.append(graph)
+    return unique_graphs

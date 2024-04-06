@@ -29,7 +29,7 @@ class Rule:
 
         class Highlight:
             AFTER = ["after", "end"]
-            BEFORE = ["before", "begin", "start"]
+            BEFORE = ["before", "begin", "start", "left"]
             MIDDLE = ["middle", "mid"]
 
         class Position:
@@ -43,11 +43,10 @@ class Rule:
             FOUR = ["four"]
 
     ALL_RULES = ["color", "reverse", "cross", "high", "repeat", "position", "direction", "size", "sound", "highlight"]
-    IGNORE = ["the", "a", "of", "is", "let", "my", "and"]
 
     @staticmethod
     def find_all(word, is_plural):
-        conflicts = [rule for rule, keyword in Rule.get_all_rules().items() if word in keyword]
+        conflicts = [rule for rule, keyword in Rule.get_all_rules()["individual"].items() if word in keyword]
         word_singular = inflect.singular_noun(word)
         rules = {}
 
@@ -97,46 +96,41 @@ class Rule:
         homophones = homophones[word]
         if "4" in homophones:
             rules["repeat"] = 4
+            rules["sound"] = {word: homophones}
         if "2" in homophones:
             rules["repeat"] = 2
+            rules["sound"] = {word: homophones}
         if "right" in homophones:
             rules["position"] = "right"
+            rules["sound"] = {word: homophones}
 
-        rules["sound"] = {word: homophones}
         return rules, conflicts
-
-    @staticmethod
-    def get_all_relational(as_dict=True):
-        if not as_dict:
-            return Rule.Relational.INSIDE + Rule.Relational.OUTSIDE + Rule.Relational.ABOVE
-
-        return {
-            "inside": Rule.Relational.INSIDE,
-            "outside": Rule.Relational.OUTSIDE,
-            "above": Rule.Relational.ABOVE
-        }
 
     @staticmethod
     def get_all_rules():
         return {
-            "inside": Rule.Relational.INSIDE,
-            "outside": Rule.Relational.OUTSIDE,
-            "above": Rule.Relational.ABOVE,
-            "next_to": Rule.Relational.NEXT_TO,
-            "direction_up": Rule.Individual.Direction.UP,
-            "direction_down": Rule.Individual.Direction.DOWN,
-            "direction_reverse": Rule.Individual.Direction.REVERSE,
-            "color": Rule.Individual.Style.COLOR,
-            "cross": Rule.Individual.Style.CROSS,
-            "size_big": Rule.Individual.Style.Size.BIG,
-            "size_small": Rule.Individual.Style.Size.SMALL,
-            "highlight_after": Rule.Individual.Highlight.AFTER,
-            "highlight_middle": Rule.Individual.Highlight.MIDDLE,
-            "highlight_before": Rule.Individual.Highlight.BEFORE,
-            "position_high": Rule.Individual.Position.HIGH,
-            "position_low": Rule.Individual.Position.LOW,
-            "position_left": Rule.Individual.Position.LEFT,
-            "position_right": Rule.Individual.Position.RIGHT,
-            "repetition_two": Rule.Individual.Repetition.TWO,
-            "repetition_four": Rule.Individual.Repetition.FOUR,
+            "relational": {
+                "inside": Rule.Relational.INSIDE,
+                "outside": Rule.Relational.OUTSIDE,
+                "above": Rule.Relational.ABOVE,
+                "next_to": Rule.Relational.NEXT_TO,
+            },
+            "individual": {
+                "direction_up": Rule.Individual.Direction.UP,
+                "direction_down": Rule.Individual.Direction.DOWN,
+                "direction_reverse": Rule.Individual.Direction.REVERSE,
+                "color": Rule.Individual.Style.COLOR,
+                "cross": Rule.Individual.Style.CROSS,
+                "size_big": Rule.Individual.Style.Size.BIG,
+                "size_small": Rule.Individual.Style.Size.SMALL,
+                "highlight_after": Rule.Individual.Highlight.AFTER,
+                "highlight_middle": Rule.Individual.Highlight.MIDDLE,
+                "highlight_before": Rule.Individual.Highlight.BEFORE,
+                "position_high": Rule.Individual.Position.HIGH,
+                "position_low": Rule.Individual.Position.LOW,
+                "position_left": Rule.Individual.Position.LEFT,
+                "position_right": Rule.Individual.Position.RIGHT,
+                "repetition_two": Rule.Individual.Repetition.TWO,
+                "repetition_four": Rule.Individual.Repetition.FOUR
+            }
         }

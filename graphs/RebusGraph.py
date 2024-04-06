@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from util import get_node_attributes, get_edges_from_node
 
 
-class RebusGraph(nx.MultiDiGraph):
+class RebusGraph(nx.DiGraph):
     def __init__(self, **attr):
         super().__init__(**attr)
 
@@ -13,35 +13,35 @@ class RebusGraph(nx.MultiDiGraph):
             raise ValueError("Node must have attribute: text")
         super().add_node(node_for_adding, **attr)
 
-    def update_graph_with_rule(self, node_id, rule):
-        in_edges, out_edges = get_edges_from_node(self, node_id)
-        prev_node_id = list(in_edges.keys())[0][0]
-        next_node_id = list(out_edges.keys())[0][1]
-        self.remove_node(node_id)
-        self.add_edge(prev_node_id, next_node_id, rule=rule)
+    # def update_graph_with_rule(self, node_id, rule):
+    #     in_edges, out_edges = get_edges_from_node(self, node_id)
+    #     prev_node_id = list(in_edges.keys())[0][0]
+    #     next_node_id = list(out_edges.keys())[0][1]
+    #     self.remove_node(node_id)
+    #     self.add_edge(prev_node_id, next_node_id, rule=rule)
         # for in_edge, rule in {**in_edges, **out_edges}.items():
         #     if {"rule": rule} not in list(self[prev_node_id][next_node_id].values()) and rule is not None:
         #         self.add_edge(prev_node_id, next_node_id, rule=rule)
 
-    def merge_nodes(self, path):
-        new_node = path[0]
-        concatenated_text = " ".join(self.nodes[n]["text"] for n in path)
-        combined_attrs = {k: [] for k in self.nodes[path[0]].keys()}
-        for u, v in zip(path[:-1], path[1:]):
-            self = nx.contracted_nodes(self, path[0], v, self_loops=False)
-            # print(u, v)
-            # print(self)
-            for key in combined_attrs:
-                if key != "text":
-                    combined_attrs[key].append(self.nodes[u][key])
-
-        # print(self)
-        self = nx.relabel_nodes(self, {path[0]: new_node})
-        for key in combined_attrs:
-            if key != "text":
-                self.nodes[new_node][key] = ''.join(combined_attrs[key])
-        self.nodes[new_node]["text"] = concatenated_text
-        return self
+    # def merge_nodes(self, path):
+    #     new_node = path[0]
+    #     concatenated_text = " ".join(self.nodes[n]["text"] for n in path)
+    #     combined_attrs = {k: [] for k in self.nodes[path[0]].keys()}
+    #     for u, v in zip(path[:-1], path[1:]):
+    #         self = nx.contracted_nodes(self, path[0], v, self_loops=False)
+    #         # print(u, v)
+    #         # print(self)
+    #         for key in combined_attrs:
+    #             if key != "text":
+    #                 combined_attrs[key].append(self.nodes[u][key])
+    #
+    #     # print(self)
+    #     self = nx.relabel_nodes(self, {path[0]: new_node})
+    #     for key in combined_attrs:
+    #         if key != "text":
+    #             self.nodes[new_node][key] = ''.join(combined_attrs[key])
+    #     self.nodes[new_node]["text"] = concatenated_text
+    #     return self
 
     def visualize(self, attr_offset=0.):
         pos = nx.nx_agraph.graphviz_layout(self)
