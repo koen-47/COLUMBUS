@@ -15,7 +15,7 @@ compounds = pd.read_csv("./saved/ladec_raw.csv")
 
 parser = CompoundRebusGraphParser()
 generator = RebusImageConverter()
-graphs = parser.parse("fore", "front", False)
+graphs = parser.parse("one's", "weight", False)
 
 print(f"Number of graphs generated: {len(graphs)}")
 for graph in graphs:

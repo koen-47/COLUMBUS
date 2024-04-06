@@ -60,9 +60,9 @@ class CompoundRebusGraphParser:
 
         # Generate graph by putting the two constituent words next to each other
         if word_2 is not None:
-            word_1_homophone = self._parse_homophones(word_1)
-            word_2_homophone = self._parse_homophones(word_2)
-            if (word_1 is None and word_2 is None) or (word_1 == word_1_homophone and word_2 == word_2_homophone):
+            word_1_homophone = self._parse_homophones(word_1).upper()
+            word_2_homophone = self._parse_homophones(word_2).upper()
+            if word_1 == word_1_homophone and word_2 == word_2_homophone:
                 return []
             graph.add_node(1, text=word_1 if word_1 == word_1_homophone else word_1_homophone)
             graph.add_node(2, text=word_2 if word_2 == word_2_homophone else word_2_homophone)
