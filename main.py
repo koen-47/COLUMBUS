@@ -1,13 +1,7 @@
 import json
 
-import networkx as nx
-import inflect
-import pandas as pd
-
-from graphs.RebusGraphParser import RebusGraphParser
+from graphs.parsers.RebusGraphParser import RebusGraphParser
 from graphs.RebusImageConverter import RebusImageConverter
-from util import get_edge_information
-from scraping.WiktionaryIdiomsWebScraper import WiktionaryIdiomsWebScraper
 
 # scraper = WiktionaryIdiomsWebScraper()
 # scraper.scrape()

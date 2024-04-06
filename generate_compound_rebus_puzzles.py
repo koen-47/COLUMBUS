@@ -1,7 +1,7 @@
 import pandas as pd
 from tqdm import tqdm
 
-from graphs.RebusGraphParser import RebusGraphParser
+from graphs.parsers.RebusGraphParser import RebusGraphParser
 from graphs.RebusImageConverter import RebusImageConverter
 
 compounds = pd.read_csv("./saved/ladec_raw_small.csv")

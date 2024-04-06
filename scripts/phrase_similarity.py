@@ -12,7 +12,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from tqdm import tqdm
 
-from graphs.RebusGraphParser import RebusGraphParser
+from graphs.parsers.RebusGraphParser import RebusGraphParser
 from util import get_node_attributes
 
 inflect = inflect.engine()

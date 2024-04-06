@@ -5,9 +5,9 @@ import pandas as pd
 import inflect
 import networkx as nx
 
-from .RebusGraph import RebusGraph
-from .patterns.Pattern import Pattern
-from .templates.Template import Template
+from graphs.RebusGraph import RebusGraph
+from graphs.patterns.Rule import Rule
+from graphs.templates.Template import Template
 from util import get_node_attributes, get_edges_from_node
 
 inflect = inflect.engine()
@@ -25,8 +25,8 @@ class RebusGraphParser:
             c1, c2 = compound_info["c1"].values[0], compound_info["c2"].values[0]
             is_plural = bool(compound_info["isPlural"].values[0])
 
-        patterns_c1 = Pattern.find_all(c1, is_plural)
-        patterns_c2 = Pattern.find_all(c2, is_plural)
+        patterns_c1 = Rule.find_all(c1, is_plural)
+        patterns_c2 = Rule.find_all(c2, is_plural)
 
         if graph is None:
             graph = RebusGraph()
@@ -55,7 +55,7 @@ class RebusGraphParser:
         return None
 
     def parse_idiom(self, idiom):
-        idiom_words = [word for word in idiom.split() if word not in Pattern.IGNORE]
+        idiom_words = [word for word in idiom.split() if word not in Rule.IGNORE]
         idiom = " ".join(idiom_words)
 
         idiom_edges = [(i+1, i+2) for i in range(len(idiom.split())-1)]
@@ -89,16 +89,16 @@ class RebusGraphParser:
 
         graph = nx.convert_node_labels_to_integers(graph, first_label=1)
         words = nx.get_node_attributes(graph, "text")
-        relational_keywords = Pattern.get_all_relational(as_dict=False)
+        relational_keywords = Rule.get_all_relational(as_dict=False)
         while len(set(list(words.values())).intersection(set(relational_keywords))) > 0:
             for node_id, word in words.items():
-                if word in Pattern.Relational.OUTSIDE:
+                if word in Rule.Relational.OUTSIDE:
                     graph.update_graph_with_rule(node_id, rule="OUTSIDE")
                     break
-                elif word in Pattern.Relational.INSIDE:
+                elif word in Rule.Relational.INSIDE:
                     graph.update_graph_with_rule(node_id, rule="INSIDE")
                     break
-                elif word in Pattern.Relational.ABOVE:
+                elif word in Rule.Relational.ABOVE:
                     graph.update_graph_with_rule(node_id, rule="ABOVE")
                     break
             words = nx.get_node_attributes(graph, "text")

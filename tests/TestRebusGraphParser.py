@@ -3,7 +3,7 @@ import unittest
 import networkx as nx
 
 from graphs.RebusGraph import RebusGraph
-from graphs.RebusGraphParser import RebusGraphParser
+from graphs.parsers.RebusGraphParser import RebusGraphParser
 
 
 class TestRebusGraphParser(unittest.TestCase):

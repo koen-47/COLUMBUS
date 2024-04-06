@@ -1,6 +1,7 @@
+import json
+
 import networkx as nx
 
-from graphs.patterns.Pattern import Pattern
 
 
 def get_node_attributes(graph):
