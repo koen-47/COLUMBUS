@@ -2,10 +2,11 @@ import json
 
 import networkx as nx
 
+from graphs.patterns.Rule import Rule
 
 
 def get_node_attributes(graph):
-    attrs = {attr: nx.get_node_attributes(graph, attr) for attr in ["text", "is_plural"] + Pattern.ALL_RULES}
+    attrs = {attr: nx.get_node_attributes(graph, attr) for attr in ["text", "is_plural"] + Rule.ALL_RULES}
     node_attrs = {}
     for attr, nodes in attrs.items():
         for node, attr_val in nodes.items():
