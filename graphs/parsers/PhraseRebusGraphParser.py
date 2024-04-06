@@ -14,7 +14,8 @@ class PhraseRebusGraphParser:
         phrase = " ".join(phrase_words)
         print(phrase)
 
-        self._divide_text(phrase)
+        divided_words = self._divide_text(phrase)
+        print(divided_words)
 
     def _divide_text(self, phrase):
         relational_keywords = [x for xs in Rule.get_all_rules()["relational"].values() for x in xs]
@@ -31,6 +32,7 @@ class PhraseRebusGraphParser:
                 i = 0
             i += 1
         divided_words += [phrase_words]
+        return divided_words
 
     def _preprocess_text_for_compounds(self, phrase):
         compound_parser = CompoundRebusGraphParser()

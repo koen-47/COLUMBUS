@@ -8,12 +8,14 @@ import util
 
 # parser = PhraseRebusGraphParser()
 # graph = parser.parse("punch above one's weight outside of the box")
+# graph = parser.parse("go back in time")
+# graph = parser.parse("cross my heart and hope to die")
 
 compounds = pd.read_csv("./saved/ladec_raw.csv")
 
 parser = CompoundRebusGraphParser()
 generator = RebusImageConverter()
-graphs = parser.parse("red", "red", False)
+graphs = parser.parse("fore", "front", False)
 
 print(f"Number of graphs generated: {len(graphs)}")
 for graph in graphs:
