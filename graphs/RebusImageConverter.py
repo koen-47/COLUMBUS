@@ -133,6 +133,9 @@ class RebusImageConverter:
                 ab = AnnotationBbox(imagebox, (x, y - 0.12), frameon=False)
                 ax.add_artist(ab)
 
+    def _apply_inside_rule(self, attrs, element):
+        pass
+
     def render_inside_rule_puzzle(self, graph, show=False, save_path=""):
         edge_attrs = list(get_edge_information(graph).values())[0]
         text_inside = edge_attrs[0]["text"].upper()

@@ -48,3 +48,9 @@ def remove_duplicate_graphs(graphs):
         if not is_duplicate:
             unique_graphs.append(graph)
     return unique_graphs
+
+
+def count_relational_rules(phrase):
+    relational_keywords = [x for xs in Rule.get_all_rules()["relational"].values() for x in xs]
+    return sum([1 for word in phrase.split() if word in relational_keywords])
+

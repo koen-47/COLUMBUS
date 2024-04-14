@@ -60,12 +60,20 @@ class CompoundRebusGraphParser:
 
         # Generate graph by putting the two constituent words next to each other
         if word_2 is not None:
-            word_1_homophone = self._parse_homophones(word_1).upper()
-            word_2_homophone = self._parse_homophones(word_2).upper()
+            word_1_homophone = self._parse_homophones(word_1)
+            word_2_homophone = self._parse_homophones(word_2)
             if word_1 == word_1_homophone and word_2 == word_2_homophone:
                 return []
-            graph.add_node(1, text=word_1 if word_1 == word_1_homophone else word_1_homophone)
-            graph.add_node(2, text=word_2 if word_2 == word_2_homophone else word_2_homophone)
+            node_1_attrs = {"text": word_1.upper() if word_1 == word_1_homophone else word_1_homophone.upper(),
+                            "repeat": 1}
+            if word_1_homophone != word_1:
+                node_1_attrs["sound"] = {word_1: word_1_homophone}
+            node_2_attrs = {"text": word_2.upper() if word_2 == word_2_homophone else word_2_homophone.upper(),
+                            "repeat": 1}
+            if word_2_homophone != word_2:
+                node_2_attrs["sound"] = {word_2: word_2_homophone}
+            graph.add_node(1, **node_1_attrs)
+            graph.add_node(2, **node_2_attrs)
             graph.add_edge(1, 2, rule="NEXT-TO")
             graph.graph["template"] = self._select_template(graph)
             return [graph]
@@ -97,5 +105,4 @@ class CompoundRebusGraphParser:
         if n_nodes == 2:
             return {"name": Template.BASE_TWO.name, "obj": Template.BASE_TWO}
         return {"name": Template.BASE_THREE.name, "obj": Template.BASE_THREE}
-
 
