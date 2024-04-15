@@ -8,40 +8,29 @@ random.seed(42)
 
 class PromptManager:
     def __init__(self):
-        self.template = "Question: Which word/phrase best describes this image?\n" \
-                        "(A) {}\n" \
-                        "(B) {}\n" \
-                        "(C) {}\n" \
-                        "(D) {}\n" \
-                        "Answer:"
+        compound_images_dir = f"{os.path.dirname(__file__)}/../results/compounds/saved/*"
+        compound_distractors_path = f"{os.path.dirname(__file__)}/../saved/compound_distractors_final.json"
+        with open(compound_distractors_path, "r") as file:
+            compound_distractors = json.load(file)
+            compound_images = {file: os.path.basename(file).split(".")[0].split("_")[0] for file in glob.glob(compound_images_dir)}
+        self.compounds = self._format_questions(compound_images, compound_distractors)
 
-        with open(f"{os.path.dirname(__file__)}/../saved/compound_distractors_final.json", "r") as file:
-            self.compound_distractors = json.load(file)
-            self.compound_images = {file: os.path.basename(file).split(".")[0].split("_")[0] for file in
-                                    glob.glob(f"{os.path.dirname(__file__)}/../results/compounds/saved/*")}
-            self.compounds = {file: {"options": self.compound_distractors[file_base] + [file_base], "answer": file_base}
-                              for file, file_base in self.compound_images.items() if
-                              file_base in self.compound_distractors}
-            self.compounds = {file: {"options": random.sample(answers["options"], len(answers["options"])),
-                                     "answer": answers["answer"]} for file, answers in self.compounds.items()}
+        phrases_images_dir = f"{os.path.dirname(__file__)}/../results/idioms/all/*"
+        phrases_distractors_path = f"{os.path.dirname(__file__)}/../saved/idiom_distractors_final.json"
+        with open(phrases_distractors_path, "r") as file:
+            phrase_distractors = json.load(file)
+            phrase_images = {file: " ".join(os.path.basename(file).split(".")[0].split("_")) for file in
+                             glob.glob(phrases_images_dir)}
+        self.phrases = self._format_questions(phrase_images, phrase_distractors)
 
-        with open(f"{os.path.dirname(__file__)}/../saved/idiom_distractors_final.json", "r") as file:
-            self.phrase_distractors = json.load(file)
-            self.phrase_images = {file: " ".join(os.path.basename(file).split(".")[0].split("_")) for file in
-                                  glob.glob(f"{os.path.dirname(__file__)}/../results/idioms/all/*")}
-            self.phrases = {file: {"options": self.phrase_distractors[file_base] + [file_base], "answer": file_base} for
-                            file, file_base in self.phrase_images.items() if file_base in self.phrase_distractors}
-            self.phrases = {file: {"options": random.sample(answers["options"], len(answers["options"])),
-                                   "answer": answers["answer"]} for file, answers in self.phrases.items()}
+    def _format_questions(self, images, distractors):
+        questions = {file: {"options": distractors[file_base] + [file_base], "answer": file_base} for file, file_base in images.items() if file_base in distractors}
+        questions = {file: {"options": random.sample(answers["options"], len(answers["options"])), "answer": answers["answer"]} for file, answers in questions.items()}
+        questions = {file: {"options": {letter: option for letter, option in zip(["A", "B", "C", "D"], question["options"])}, "correct": {["A", "B", "C", "D"][question["options"].index(question["answer"])]: question["answer"]}} for file, question in questions.items()}
 
-        self.compound_image_question_pairs = []
-        for image, question in self.compounds.items():
-            options = [option.capitalize() for option in question["options"]]
-            prompt = self.template.format(*options)
-            self.compound_image_question_pairs.append({"image": image, "question": prompt, "correct": question["answer"].capitalize()})
+        image_questions = []
+        for file, question in questions.items():
+            question["image"] = file
+            image_questions.append(question)
 
-        self.phrase_image_question_pairs = []
-        for image, question in self.phrases.items():
-            options = [option.capitalize() for option in question["options"]]
-            prompt = self.template.format(*options)
-            self.phrase_image_question_pairs.append({"image": image, "question": prompt, "correct": question["answer"].capitalize()})
+        return image_questions
