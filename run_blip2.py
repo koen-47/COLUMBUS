@@ -12,4 +12,4 @@ from models.PromptManager import PromptManager
 from models.BLIP2Experiment import BLIP2Experiment
 
 blip2 = BLIP2Experiment()
-blip2.run_on_benchmark("./test_compounds.json")
+blip2.run_on_benchmark(f"{os.path.dirname(__file__)}/../results/experiments")
