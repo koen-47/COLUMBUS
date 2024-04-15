@@ -1,0 +1,686 @@
+[
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\all_in_all.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) At all\n(B) After all\n(C) One and all\n(D) All in all\nAnswer:",
+      "correct": "All in all",
+      "output": "(A) At all"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\arm_in_arm.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Arm in arm\n(B) Twist arm\n(C) Arm up\n(D) Long arm\nAnswer:",
+      "correct": "Arm in arm",
+      "output": "(D) Long arm"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\arrive_in_a_body.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Warm body\n(B) Arrive at\n(C) Arrive in a body\n(D) Move one's body\nAnswer:",
+      "correct": "Arrive in a body",
+      "output": "(B) Arrive at"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\a_bird_in_the_hand.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) On hand\n(B) In hand\n(C) A bird in the hand\n(D) Hand in hand\nAnswer:",
+      "correct": "A bird in the hand",
+      "output": "(D) Hand in hand"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\a_shot_in_the_dark.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Stab in the dark\n(B) In the dark\n(C) Whistle in the dark\n(D) A shot in the dark\nAnswer:",
+      "correct": "A shot in the dark",
+      "output": "(D) A shot in the dark"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\babe_in_arms.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Up in arms\n(B) Babe in the woods\n(C) Babe magnet\n(D) Babe in arms\nAnswer:",
+      "correct": "Babe in arms",
+      "output": "(D) Babe in arms"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\babies_in_the_eyes.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Bat one's eyes\n(B) Babies in the eyes\n(C) A sight for sore eyes\n(D) Snake eyes\nAnswer:",
+      "correct": "Babies in the eyes",
+      "output": "(B) Babies in the eyes"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\bear_in_mind.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Bear in mind\n(B) Have in mind\n(C) Put someone in mind of\n(D) Spring to mind\nAnswer:",
+      "correct": "Bear in mind",
+      "output": "(B) Have in mind"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\bee_in_bonnet.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Bee in bonnet\n(B) Put the bee on\n(C) Queen bee\n(D) Blast out\nAnswer:",
+      "correct": "Bee in bonnet",
+      "output": "(B) Put the bee on"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\being_in_love.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Play for love\n(B) Fall in love\n(C) Labor of love\n(D) Being in love\nAnswer:",
+      "correct": "Being in love",
+      "output": "(B) Labor of love"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\be_in_luck.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Ride one's luck\n(B) Be in luck\n(C) Push one's luck\n(D) Out of luck\nAnswer:",
+      "correct": "Be in luck",
+      "output": "(B) Be in luck"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\bone_in_the_throat.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Bone-shaking\n(B) Bone in her teeth\n(C) Bone-idle\n(D) Bone in the throat\nAnswer:",
+      "correct": "Bone in the throat",
+      "output": "(B) Bone-idle"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\born_in_a_barn.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Born and bred\n(B) Born in a barn\n(C) Born yesterday\n(D) Pony in the barn\nAnswer:",
+      "correct": "Born in a barn",
+      "output": "(B) Born in a barn"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\boy_in_the_boat.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) In the same boat\n(B) Boy in the boat\n(C) Row in the same boat\n(D) Rock the boat\nAnswer:",
+      "correct": "Boy in the boat",
+      "output": "(B) Boy in the boat"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\breed_in_the_bone.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Breed in the bone\n(B) Bred-in-the-bone\n(C) To the bone\n(D) Bone-dry\nAnswer:",
+      "correct": "Breed in the bone",
+      "output": "(B) Bred-in-the-bone"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\bring_out_in_a_rash.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Bring out in a rash\n(B) Rid out\n(C) Bring up\n(D) Rough out\nAnswer:",
+      "correct": "Bring out in a rash",
+      "output": "(B) Rid out"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\broad_in_the_beam.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Broad-beamed\n(B) Broad shoulders\n(C) Broad in the beam\n(D) Broad-brush\nAnswer:",
+      "correct": "Broad in the beam",
+      "output": "(B) Broad shoulders"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\bump_in_the_road.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Bump and grind\n(B) Bump in the road\n(C) Bump into\n(D) Bump up\nAnswer:",
+      "correct": "Bump in the road",
+      "output": "(B) Bump and grind"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\bun_in_the_oven.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) In a bake\n(B) Bun in the oven\n(C) In the can\n(D) Bun fight\nAnswer:",
+      "correct": "Bun in the oven",
+      "output": "(B) In a bake"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\bury_head_in_the_sand.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Bury head in the sand\n(B) Stick one's head in the sand\n(C) In one's head\n(D) Bury the lead\nAnswer:",
+      "correct": "Bury head in the sand",
+      "output": "(B) Bury head in the sand"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\candle_in_the_wind.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Willow in the wind\n(B) Candle in the wind\n(C) Spit in the wind\n(D) Whistle in the wind\nAnswer:",
+      "correct": "Candle in the wind",
+      "output": "(B) Candle in the wind"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\cap_in_hand.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Hand in hand\n(B) In hand\n(C) Bust a cap\n(D) Cap in hand\nAnswer:",
+      "correct": "Cap in hand",
+      "output": "(D) Cap in hand"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\cat_in_the_sack.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Get the sack\n(B) Give the sack\n(C) Cat in the sack\n(D) In the sack\nAnswer:",
+      "correct": "Cat in the sack",
+      "output": "(D) In the sack"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\check_is_in_the_mail.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Check through\n(B) Check is in the mail\n(C) Carry the mail\n(D) Mail it in\nAnswer:",
+      "correct": "Check is in the mail",
+      "output": "(D) Mail it in"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\chink_in_the_armour.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) In the pink\n(B) Knight in shining armour\n(C) Ink in\n(D) Chirk up\nAnswer:",
+      "correct": "Chink in the armour",
+      "output": "(A) In the pink"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\cock_in_the_henhouse.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Cock of the roost\n(B) In a hen's hiney\n(C) Cock in the henhouse\n(D) Fox in the henhouse\nAnswer:",
+      "correct": "Cock in the henhouse",
+      "output": "(D) Fox in the henhouse"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\cold_day_in_Hell.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Day out\n(B) Cold day in hell\n(C) To hell\n(D) Rot in hell\nAnswer:",
+      "correct": "Cold day in hell",
+      "output": "(D) Rot in hell"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\come_in_from_the_cold.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Come in from the cold\n(B) Out cold\n(C) Catch a cold\n(D) Left out in the cold\nAnswer:",
+      "correct": "Come in from the cold",
+      "output": "(B) Out cold"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\come_out_in_the_wash.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Come out of the broom closet\n(B) Come out\n(C) Wash out\n(D) Come out in the wash\nAnswer:",
+      "correct": "Come out in the wash",
+      "output": "(D) Come out in the wash"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\dog_in_the_hunt.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Dog in the manger\n(B) Dog-tired\n(C) Dog in the hunt\n(D) Dog eat dog\nAnswer:",
+      "correct": "Dog in the hunt",
+      "output": "(D) Dog eat dog"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\dog_in_the_manger.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Dog in the manger\n(B) Dog's life\n(C) Wag the dog\n(D) Dog in the hunt\nAnswer:",
+      "correct": "Dog in the manger",
+      "output": "(D) Dog in the hunt"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\drop_in_the_bucket.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Drop in the bucket\n(B) Drool bucket\n(C) Light bucket\n(D) Drop in\nAnswer:",
+      "correct": "Drop in the bucket",
+      "output": "(B) Drool bucket"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\drop_in_the_pond.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Drop in the ocean\n(B) Drop in the sea\n(C) Drop in the bucket\n(D) Drop in the pond\nAnswer:",
+      "correct": "Drop in the pond",
+      "output": "(B) Drop in the sea"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\drop_in_the_sea.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Drop in the pond\n(B) Drop in\n(C) Drop in the ocean\n(D) Drop in the sea\nAnswer:",
+      "correct": "Drop in the sea",
+      "output": "(B) Drop in the pond"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\dyed_in_the_wool.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Spin a yarn\n(B) Wrap in cotton wool\n(C) Pull the wool over eyes\n(D) Dyed in the wool\nAnswer:",
+      "correct": "Dyed in the wool",
+      "output": "(D) Dyed in the wool"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\elephant_in_the_room.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) White elephant\n(B) Work the room\n(C) Elephant in the room\n(D) Gorilla in the room\nAnswer:",
+      "correct": "Elephant in the room",
+      "output": "(D) Gorilla in the room"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\fall_in_line.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) End of the line\n(B) Fall in line\n(C) Out of line\n(D) Cross the line\nAnswer:",
+      "correct": "Fall in line",
+      "output": "(D) Cross the line"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\fall_in_love.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Being in love\n(B) Fall in love\n(C) Fall out\n(D) Labor of love\nAnswer:",
+      "correct": "Fall in love",
+      "output": "(D) Labor of love"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\finger_in_the_pie.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Humble pie\n(B) Piece of the pie\n(C) Apple pie order\n(D) Finger in the pie\nAnswer:",
+      "correct": "Finger in the pie",
+      "output": "(D) Finger in the pie"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\flash_in_the_pan.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Flash back\n(B) In a flash\n(C) Go down the pan\n(D) Flash in the pan\nAnswer:",
+      "correct": "Flash in the pan",
+      "output": "(B) In a flash"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\fly_in_the_face_of.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Fly off\n(B) Fly in the ointment\n(C) Fly in the face of\n(D) Fly by\nAnswer:",
+      "correct": "Fly in the face of",
+      "output": "(D) Fly by"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\fly_in_the_ointment.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Fly blind\n(B) Fly by\n(C) Fly in the face of\n(D) Fly in the ointment\nAnswer:",
+      "correct": "Fly in the ointment",
+      "output": "(D) Fly in the ointment"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\foot_in_the_door.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Show the door\n(B) Get the door\n(C) Foot in the door\n(D) Back door\nAnswer:",
+      "correct": "Foot in the door",
+      "output": "(D) Back door"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\fox_in_the_henhouse.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Fox sleep\n(B) Fox in the henhouse\n(C) Mother hen\n(D) In a hen's hiney\nAnswer:",
+      "correct": "Fox in the henhouse",
+      "output": "(B) Fox in the henhouse"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\get_in_the_boat_and_row.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Rock the boat\n(B) Get in the boat and row\n(C) Row in the same boat\n(D) Push the boat out\nAnswer:",
+      "correct": "Get in the boat and row",
+      "output": "(B) Get in the boat and row"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\God_is_in_the_detail.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) God is in the detail\n(B) The devil is in the detail\n(C) Into detail\n(D) In detail\nAnswer:",
+      "correct": "God is in the detail",
+      "output": "(A) God is in the detail"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\gorilla_in_the_room.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Get a room\n(B) Rubber room\n(C) Work the room\n(D) Gorilla in the room\nAnswer:",
+      "correct": "Gorilla in the room",
+      "output": "(D) Gorilla in the room"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\go_back_in_time.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Flash back\n(B) Way back when\n(C) Go back in time\n(D) Roll back the years\nAnswer:",
+      "correct": "Go back in time",
+      "output": "(B) Way back when"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\go_down_in_flames.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Fan the flames\n(B) Go up in smoke\n(C) Go down in flames\n(D) Go up in flames\nAnswer:",
+      "correct": "Go down in flames",
+      "output": "(D) Go up in flames"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\go_in_the_out_door.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Go in the out door\n(B) Show the door\n(C) Get the door\n(D) Leave the door open\nAnswer:",
+      "correct": "Go in the out door",
+      "output": "(D) Leave the door open"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\go_in_with.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Go in with\n(B) Go out with\n(C) Go along with\n(D) Go with\nAnswer:",
+      "correct": "Go in with",
+      "output": "(B) go in with"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\go_jump_in_the_lake.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Go jump in the lake\n(B) Jump salty\n(C) Jump on\n(D) Jump out\nAnswer:",
+      "correct": "Go jump in the lake",
+      "output": "(D) Jump out"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\go_up_in_flames.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Go down in flames\n(B) Fan the flames\n(C) Go up in smoke\n(D) Go up in flames\nAnswer:",
+      "correct": "Go up in flames",
+      "output": "(D) Go up in flames"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\hand_in_hand.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Hand over hand\n(B) On hand\n(C) In hand\n(D) Hand in hand\nAnswer:",
+      "correct": "Hand in hand",
+      "output": "(D) Hand in hand"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\hat_in_hand.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Hat in hand\n(B) Hand in hand\n(C) In hand\n(D) On hand\nAnswer:",
+      "correct": "Hat in hand",
+      "output": "(D) On hand"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\have_in_mind.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Spring to mind\n(B) Put someone in mind of\n(C) Have in mind\n(D) Bear in mind\nAnswer:",
+      "correct": "Have in mind",
+      "output": "(B) put someone in mind of"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\head_in_the_clouds.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Head in the clouds\n(B) Head above water\n(C) Under a cloud\n(D) Headwind\nAnswer:",
+      "correct": "Head in the clouds",
+      "output": "(D) Headwind"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\hole_in_one.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) In the hole\n(B) Dig oneself in a hole\n(C) One on one\n(D) Hole in one\nAnswer:",
+      "correct": "Hole in one",
+      "output": "(B) Dig oneself in a hole"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\honor_in_the_breach.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Badge of honor\n(B) Honor in the breach\n(C) Honorable mention\n(D) Under erasure\nAnswer:",
+      "correct": "Honor in the breach",
+      "output": "(B) Honor in the breach"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\irons_in_the_fire.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) On fire\n(B) Tire fire\n(C) Irons in the fire\n(D) Line of fire\nAnswer:",
+      "correct": "Irons in the fire",
+      "output": "(D) Line of fire"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\just_in_case.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Just a second\n(B) In order\n(C) Just deserts\n(D) Just in case\nAnswer:",
+      "correct": "Just in case",
+      "output": "(C) Just in case"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\left_out_in_the_cold.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Catch a cold\n(B) Come in from the cold\n(C) Out cold\n(D) Left out in the cold\nAnswer:",
+      "correct": "Left out in the cold",
+      "output": "(D) Left out in the cold"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\line_in_the_sand.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Pound sand\n(B) Rope of sand\n(C) Line in the sand\n(D) In line\nAnswer:",
+      "correct": "Line in the sand",
+      "output": "(D) In line"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\live_in_sin.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Live and let live\n(B) Live in sin\n(C) Live and breathe\n(D) Live on\nAnswer:",
+      "correct": "Live in sin",
+      "output": "(B) Live in sin"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\live_in_the_past.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Live in the shadow of\n(B) Live in the past\n(C) Live on\n(D) Blast from the past\nAnswer:",
+      "correct": "Live in the past",
+      "output": "(B) Live in the past"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\live_in_the_shadow_of.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Cast a shadow\n(B) Live on the edge\n(C) Live in the past\n(D) Live in the shadow of\nAnswer:",
+      "correct": "Live in the shadow of",
+      "output": "(B) Live on the edge"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\man_in_the_street.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Man on the street\n(B) Man in the street\n(C) Up someone's street\n(D) On the street\nAnswer:",
+      "correct": "Man in the street",
+      "output": "(B) Man in the street"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\nail_in_the_coffin.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Nail in the coffin\n(B) Nail biter\n(C) Nail down\n(D) Tooth-and-nail\nAnswer:",
+      "correct": "Nail in the coffin",
+      "output": "(C) Nail down"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\nip_in_the_bud.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) In the nip\n(B) Nip in the bud\n(C) Nip at\n(D) Nip and tuck\nAnswer:",
+      "correct": "Nip in the bud",
+      "output": "(B) Nip in the bud"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\pain_in_the_neck.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Neck and neck\n(B) Pain in the neck\n(C) Yoke around one's neck\n(D) Brass neck\nAnswer:",
+      "correct": "Pain in the neck",
+      "output": "(B) Pain in the neck"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\pie_in_the_sky.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Finger in the pie\n(B) Piece of the pie\n(C) Reach for the sky\n(D) Pie in the sky\nAnswer:",
+      "correct": "Pie in the sky",
+      "output": "(D) Pie in the sky"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\pig_in_a_poke.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) In a pig's patoot\n(B) Pull one's pud\n(C) Pitch in\n(D) Pig in a poke\nAnswer:",
+      "correct": "Pig in a poke",
+      "output": "(D) Pig in a poke"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\pill_in_the_pocket.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Pill in the pocket\n(B) Chill pill\n(C) Pocket-sized\n(D) On the pill\nAnswer:",
+      "correct": "Pill in the pocket",
+      "output": "(D) On the pill"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\play_in_Peoria.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Play in peoria\n(B) Play along\n(C) Play to the gallery\n(D) Run of play\nAnswer:",
+      "correct": "Play in peoria",
+      "output": "(B) Play in peoria"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\poetry_in_motion.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Set in motion\n(B) Poetry in motion\n(C) Brownian motion\n(D) Poison pen\nAnswer:",
+      "correct": "Poetry in motion",
+      "output": "(B) Poetry in motion"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\pony_in_the_barn.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Pony in the barn\n(B) Born in a barn\n(C) Fox in the henhouse\n(D) Smell the barn\nAnswer:",
+      "correct": "Pony in the barn",
+      "output": "(B) Born in a barn"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\put_a_sock_in_it.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Pull one's socks up\n(B) Put your foot in it\n(C) Put a sock in it\n(D) Put one's foot in it\nAnswer:",
+      "correct": "Put a sock in it",
+      "output": "(D) Put one's foot in it"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\put_in_pledge.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Put in with\n(B) Sign in\n(C) Put in pledge\n(D) Put into practice\nAnswer:",
+      "correct": "Put in pledge",
+      "output": "(D) Put into practice"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\put_in_the_ground.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Soften the ground\n(B) Lose ground\n(C) Put in the ground\n(D) Ear to the ground\nAnswer:",
+      "correct": "Put in the ground",
+      "output": "(D) Ear to the ground"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\put_in_with.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Put down\n(B) Put in with\n(C) Put up with\n(D) Put out\nAnswer:",
+      "correct": "Put in with",
+      "output": "(B) put down"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\rod_in_pickle.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Rod in pickle\n(B) Tickle someone's pickle\n(C) In a pickle\n(D) Bone to pick\nAnswer:",
+      "correct": "Rod in pickle",
+      "output": "(B) Tickle someone's pickle"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\rolling_in_it.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Rolling in it\n(B) Push it\n(C) Rolling stone\n(D) Get amongst it\nAnswer:",
+      "correct": "Rolling in it",
+      "output": "(D) Get amongst it"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\roll_in_the_aisles.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Call roll\n(B) Roll the pitch\n(C) On a roll\n(D) Roll in the aisles\nAnswer:",
+      "correct": "Roll in the aisles",
+      "output": "(D) Roll in the aisles"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\roll_in_wealth.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Roll in wealth\n(B) Spend a fortune\n(C) Rags to riches\n(D) Embarrassment of riches\nAnswer:",
+      "correct": "Roll in wealth",
+      "output": "(D) Embarrassment of riches"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\rot_in_hell.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) To hell\n(B) Rot in hell\n(C) Give hell\n(D) Raise hell\nAnswer:",
+      "correct": "Rot in hell",
+      "output": "(D) Raise hell"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\row_in_the_same_boat.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) In a row\n(B) In the same boat\n(C) Row in the same boat\n(D) Get in the boat and row\nAnswer:",
+      "correct": "Row in the same boat",
+      "output": "(B) In a row"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\run_in_the_family.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Run in the family\n(B) Keep it in the family\n(C) Run with\n(D) Run on\nAnswer:",
+      "correct": "Run in the family",
+      "output": "(B) Keep it in the family"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\set_in_motion.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Set in motion\n(B) Set in ways\n(C) Set straight\n(D) Set the wheels in motion\nAnswer:",
+      "correct": "Set in motion",
+      "output": "(B) Set in ways"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\set_in_stone.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Heart of stone\n(B) Set in stone\n(C) Carved in stone\n(D) Set in ways\nAnswer:",
+      "correct": "Set in stone",
+      "output": "(B) Set in stone"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\set_in_ways.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Set in one's ways\n(B) Set in stone\n(C) Set in ways\n(D) Set in motion\nAnswer:",
+      "correct": "Set in ways",
+      "output": "(B) Set in stone"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\shot_in_the_arm.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Shot in the dark\n(B) Twist arm\n(C) Arm in arm\n(D) Shot in the arm\nAnswer:",
+      "correct": "Shot in the arm",
+      "output": "(D) Shot in the arm"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\shot_in_the_dark.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Shot in the dark\n(B) Shot in the arm\n(C) In the dark\n(D) Stab in the dark\nAnswer:",
+      "correct": "Shot in the dark",
+      "output": "(D) Stab in the dark"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\skin_in_the_game.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) On the game\n(B) In the game\n(C) Skin in the game\n(D) Thick skin\nAnswer:",
+      "correct": "Skin in the game",
+      "output": "(B) In the game"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\spit_in_the_wind.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Spit in the wind\n(B) Twist in the wind\n(C) In the wind\n(D) Spit on\nAnswer:",
+      "correct": "Spit in the wind",
+      "output": "(B) Twist in the wind"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\stab_in_the_dark.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Have a stab\n(B) Stab in the back\n(C) Shot in the dark\n(D) Stab in the dark\nAnswer:",
+      "correct": "Stab in the dark",
+      "output": "(D) Stab in the dark"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\stand_in_the_gap.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Stand behind\n(B) Stand in the gap\n(C) Bridge the gap\n(D) Stand in for\nAnswer:",
+      "correct": "Stand in the gap",
+      "output": "(B) Stand behind"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\stand_in_the_gate.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Stand by\n(B) Out of the gate\n(C) Break gates\n(D) Stand in the gate\nAnswer:",
+      "correct": "Stand in the gate",
+      "output": "(D) Stand in the gate"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\stick_in_the_mud.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Name is mud\n(B) Stick in the mud\n(C) Stuck in the mud\n(D) Drag through the mud\nAnswer:",
+      "correct": "Stick in the mud",
+      "output": "(A) Name is mud"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\storm_in_a_teacup.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Weather the storm\n(B) Tempest in a teapot\n(C) Storm in a teacup\n(D) Storm off\nAnswer:",
+      "correct": "Storm in a teacup",
+      "output": "(D) Storm off"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\stuck_in_the_mud.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Stuck on\n(B) Stuck in the mud\n(C) Stuck up\n(D) Stick in the mud\nAnswer:",
+      "correct": "Stuck in the mud",
+      "output": "(A) Stuck on"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\tall_in_the_saddle.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Tall in the saddle\n(B) Tall story\n(C) Tall tale\n(D) Ride tall in the saddle\nAnswer:",
+      "correct": "Tall in the saddle",
+      "output": "(D) Ride tall in the saddle"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\the_devil_is_in_the_detail.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) The devil is in the detail\n(B) The devil a one\n(C) God is in the detail\n(D) The devil\nAnswer:",
+      "correct": "The devil is in the detail",
+      "output": "(D) The devil is in the detail"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\throw_in_with.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Throw out\n(B) Throw in with\n(C) Throw in\n(D) Throw in at the deep end\nAnswer:",
+      "correct": "Throw in with",
+      "output": "(D) Throw in at the deep end"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\tie_in_with.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Tie up\n(B) Tie one on\n(C) Tie in\n(D) Tie in with\nAnswer:",
+      "correct": "Tie in with",
+      "output": "(C) Tie in with"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\twist_in_the_wind.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Spit in the wind\n(B) Twist in the wind\n(C) Twist of fate\n(D) In the wind\nAnswer:",
+      "correct": "Twist in the wind",
+      "output": "(D) In the wind"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\walk_in_the_park.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Park that thought\n(B) Walk through\n(C) Walk free\n(D) Walk in the park\nAnswer:",
+      "correct": "Walk in the park",
+      "output": "(D) Walk in the park"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\walk_in_the_snow.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Walk in on\n(B) Walk through\n(C) Walk over\n(D) Walk in the snow\nAnswer:",
+      "correct": "Walk in the snow",
+      "output": "(D) Walk in the snow"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\what_in_time.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) What of it\n(B) What's what\n(C) Why in time\n(D) What in time\nAnswer:",
+      "correct": "What in time",
+      "output": "(D) What in time"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\when_in_Rome.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Rome wasn't built in a day\n(B) All roads lead to rome\n(C) Fiddle while rome burns\n(D) When in rome\nAnswer:",
+      "correct": "When in rome",
+      "output": "(B) All roads lead to rome"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\whistle_in_the_dark.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Whistle for\n(B) Whistle in the dark\n(C) Whistle in the wind\n(D) In the dark\nAnswer:",
+      "correct": "Whistle in the dark",
+      "output": "(A) Whistle for"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\whistle_in_the_wind.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Whistle in the wind\n(B) Whistle for\n(C) Whistle walk\n(D) Whistle in the dark\nAnswer:",
+      "correct": "Whistle in the wind",
+      "output": "(B) Whistle for"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\why_in_time.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Why in the world\n(B) Come to time\n(C) What in time\n(D) Why in time\nAnswer:",
+      "correct": "Why in time",
+      "output": "(D) Why in time"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\willow_in_the_wind.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Spit in the wind\n(B) In the wind\n(C) Willow in the wind\n(D) Will o' the wisp\nAnswer:",
+      "correct": "Willow in the wind",
+      "output": "(B) In the wind"
+   },
+   {
+      "image": "C:\\Users\\koenk\\PycharmProjects\\rebus-puzzles\\models/../results/idioms/all\\wrap_in_the_flag.png",
+      "question": "Question: Which word/phrase best describes this image?\n(A) Fly the flag\n(B) Wrap in the flag\n(C) Red flag\n(D) Show the flag\nAnswer:",
+      "correct": "Wrap in the flag",
+      "output": "(B) Wrap in the flag"
+   }
+]

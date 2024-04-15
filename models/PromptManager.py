@@ -8,7 +8,7 @@ random.seed(42)
 
 class PromptManager:
     def __init__(self):
-        self.template = "Question: What is the correct answer to the question from the following choices?\n" \
+        self.template = "Question: Which word/phrase best describes this image?\n" \
                         "(A) {}\n" \
                         "(B) {}\n" \
                         "(C) {}\n" \
