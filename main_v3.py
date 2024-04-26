@@ -7,8 +7,11 @@ from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
 from graphs.RebusImageConverter import RebusImageConverter
 from graphs.patterns.Rule import Rule
 from util import count_relational_rules
+from graphs.RebusImageConverterV2 import RebusImageConverterV2
 
 parser = PhraseRebusGraphParser()
+generator = RebusImageConverterV2()
+
 # graph = parser.parse("punch one's hippo lion tiger above weight")
 # graph = parser.parse("cross roads")
 # graph = parser.parse("wind back the clock")
@@ -21,10 +24,17 @@ parser = PhraseRebusGraphParser()
 # graph = parser.parse("car up in the air")
 # graph = parser.parse("for good and all")
 # graph = parser.parse("up a height")
+
+graph = parser.parse("clean up one's act")
+print(graph[0])
+
+# generator.generate(graph[0])
+
 # graph = parser.parse("stars in one's eyes")
-# graph = parser.parse("clean up one's act")
+# generator.generate(graph)
+
 # graph = parser.parse("once in a blue moon")
-# graph = parser.parse("once in a blue moon")
+# generator.generate(graph)
 
 # compounds = pd.read_csv("./saved/ladec_raw.csv")
 

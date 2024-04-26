@@ -1,0 +1,572 @@
+{
+   "all in all": [
+      "at all",
+      "one and all",
+      "after all"
+   ],
+   "arm in arm": [
+      "twist arm",
+      "long arm",
+      "arm up"
+   ],
+   "arrive in a body": [
+      "arrive at",
+      "move one's body",
+      "warm body"
+   ],
+   "a bird in the hand": [
+      "hand in hand",
+      "in hand",
+      "on hand"
+   ],
+   "a shot in the dark": [
+      "in the dark",
+      "whistle in the dark",
+      "stab in the dark"
+   ],
+   "babe in arms": [
+      "babe magnet",
+      "babe in the woods",
+      "up in arms"
+   ],
+   "babies in the eyes": [
+      "snake eyes",
+      "bat one's eyes",
+      "a sight for sore eyes"
+   ],
+   "bear in mind": [
+      "have in mind",
+      "put someone in mind of",
+      "spring to mind"
+   ],
+   "bee in bonnet": [
+      "put the bee on",
+      "queen bee",
+      "blast out"
+   ],
+   "being in love": [
+      "fall in love",
+      "labor of love",
+      "play for love"
+   ],
+   "be in luck": [
+      "ride one's luck",
+      "push one's luck",
+      "out of luck"
+   ],
+   "bone in the throat": [
+      "bone-idle",
+      "bone-shaking",
+      "bone in her teeth"
+   ],
+   "born in a barn": [
+      "pony in the barn",
+      "born and bred",
+      "born yesterday"
+   ],
+   "boy in the boat": [
+      "row in the same boat",
+      "in the same boat",
+      "rock the boat"
+   ],
+   "breed in the bone": [
+      "to the bone",
+      "bred-in-the-bone",
+      "bone-dry"
+   ],
+   "bring out in a rash": [
+      "rough out",
+      "bring up",
+      "rid out"
+   ],
+   "broad in the beam": [
+      "broad-beamed",
+      "broad-brush",
+      "broad shoulders"
+   ],
+   "bump in the road": [
+      "bump into",
+      "bump up",
+      "bump and grind"
+   ],
+   "bun in the oven": [
+      "bun fight",
+      "in a bake",
+      "in the can"
+   ],
+   "bury head in the sand": [
+      "stick one's head in the sand",
+      "in one's head",
+      "bury the lead"
+   ],
+   "candle in the wind": [
+      "whistle in the wind",
+      "spit in the wind",
+      "willow in the wind"
+   ],
+   "cap in hand": [
+      "hand in hand",
+      "in hand",
+      "bust a cap"
+   ],
+   "cat in the sack": [
+      "in the sack",
+      "get the sack",
+      "give the sack"
+   ],
+   "check is in the mail": [
+      "carry the mail",
+      "check through",
+      "mail it in"
+   ],
+   "chink in the armour": [
+      "knight in shining armour",
+      "ink in",
+      "chirk up"
+   ],
+   "cock in the henhouse": [
+      "fox in the henhouse",
+      "cock of the roost",
+      "in a hen's hiney"
+   ],
+   "cold day in Hell": [
+      "to hell",
+      "day out",
+      "rot in hell"
+   ],
+   "come in from the cold": [
+      "catch a cold",
+      "out cold",
+      "left out in the cold"
+   ],
+   "come out in the wash": [
+      "wash out",
+      "come out",
+      "come out of the broom closet"
+   ],
+   "dog in the hunt": [
+      "dog in the manger",
+      "dog-tired",
+      "dog eat dog"
+   ],
+   "dog in the manger": [
+      "dog in the hunt",
+      "wag the dog",
+      "dog's life"
+   ],
+   "drop in the bucket": [
+      "drop in",
+      "drool bucket",
+      "light bucket"
+   ],
+   "drop in the pond": [
+      "drop in the sea",
+      "drop in the ocean",
+      "drop in the bucket"
+   ],
+   "drop in the sea": [
+      "drop in",
+      "drop in the ocean",
+      "drop in the pond"
+   ],
+   "dyed in the wool": [
+      "wrap in cotton wool",
+      "pull the wool over eyes",
+      "spin a yarn"
+   ],
+   "elephant in the room": [
+      "white elephant",
+      "gorilla in the room",
+      "work the room"
+   ],
+   "fall in line": [
+      "out of line",
+      "cross the line",
+      "end of the line"
+   ],
+   "fall in love": [
+      "fall out",
+      "being in love",
+      "labor of love"
+   ],
+   "finger in the pie": [
+      "piece of the pie",
+      "apple pie order",
+      "humble pie"
+   ],
+   "flash in the pan": [
+      "in a flash",
+      "go down the pan",
+      "flash back"
+   ],
+   "fly in the face of": [
+      "fly in the ointment",
+      "fly off",
+      "fly by"
+   ],
+   "fly in the ointment": [
+      "fly in the face of",
+      "fly blind",
+      "fly by"
+   ],
+   "foot in the door": [
+      "get the door",
+      "show the door",
+      "back door"
+   ],
+   "fox in the henhouse": [
+      "in a hen's hiney",
+      "fox sleep",
+      "mother hen"
+   ],
+   "get in the boat and row": [
+      "row in the same boat",
+      "push the boat out",
+      "rock the boat"
+   ],
+   "God is in the detail": [
+      "the devil is in the detail",
+      "into detail",
+      "in detail"
+   ],
+   "gorilla in the room": [
+      "rubber room",
+      "get a room",
+      "work the room"
+   ],
+   "go back in time": [
+      "roll back the years",
+      "flash back",
+      "way back when"
+   ],
+   "go down in flames": [
+      "go up in flames",
+      "fan the flames",
+      "go up in smoke"
+   ],
+   "go in the out door": [
+      "get the door",
+      "show the door",
+      "leave the door open"
+   ],
+   "go in with": [
+      "go with",
+      "go along with",
+      "go out with"
+   ],
+   "go jump in the lake": [
+      "jump out",
+      "jump salty",
+      "jump on"
+   ],
+   "go up in flames": [
+      "go down in flames",
+      "go up in smoke",
+      "fan the flames"
+   ],
+   "hand in hand": [
+      "hand over hand",
+      "in hand",
+      "on hand"
+   ],
+   "hat in hand": [
+      "hand in hand",
+      "in hand",
+      "on hand"
+   ],
+   "have in mind": [
+      "bear in mind",
+      "put someone in mind of",
+      "spring to mind"
+   ],
+   "head in the clouds": [
+      "under a cloud",
+      "head above water",
+      "headwind"
+   ],
+   "hole in one": [
+      "in the hole",
+      "one on one",
+      "dig oneself in a hole"
+   ],
+   "honor in the breach": [
+      "badge of honor",
+      "honorable mention",
+      "under erasure"
+   ],
+   "irons in the fire": [
+      "on fire",
+      "tire fire",
+      "line of fire"
+   ],
+   "just in case": [
+      "in order",
+      "just deserts",
+      "just a second"
+   ],
+   "left out in the cold": [
+      "out cold",
+      "come in from the cold",
+      "catch a cold"
+   ],
+   "line in the sand": [
+      "rope of sand",
+      "pound sand",
+      "in line"
+   ],
+   "live in sin": [
+      "live and breathe",
+      "live and let live",
+      "live on"
+   ],
+   "live in the past": [
+      "live in the shadow of",
+      "live on",
+      "blast from the past"
+   ],
+   "live in the shadow of": [
+      "live in the past",
+      "cast a shadow",
+      "live on the edge"
+   ],
+   "man in the street": [
+      "man on the street",
+      "up someone's street",
+      "on the street"
+   ],
+   "nail in the coffin": [
+      "nail down",
+      "tooth-and-nail",
+      "nail biter"
+   ],
+   "nip in the bud": [
+      "in the nip",
+      "nip at",
+      "nip and tuck"
+   ],
+   "pain in the neck": [
+      "neck and neck",
+      "yoke around one's neck",
+      "brass neck"
+   ],
+   "pie in the sky": [
+      "piece of the pie",
+      "reach for the sky",
+      "finger in the pie"
+   ],
+   "pig in a poke": [
+      "pull one's pud",
+      "in a pig's patoot",
+      "pitch in"
+   ],
+   "pill in the pocket": [
+      "pocket-sized",
+      "chill pill",
+      "on the pill"
+   ],
+   "play in Peoria": [
+      "run of play",
+      "play to the gallery",
+      "play along"
+   ],
+   "poetry in motion": [
+      "set in motion",
+      "poison pen",
+      "Brownian motion"
+   ],
+   "pony in the barn": [
+      "smell the barn",
+      "born in a barn",
+      "fox in the henhouse"
+   ],
+   "put a sock in it": [
+      "put your foot in it",
+      "pull one's socks up",
+      "put one's foot in it"
+   ],
+   "put in pledge": [
+      "put into practice",
+      "put in with",
+      "sign in"
+   ],
+   "put in the ground": [
+      "lose ground",
+      "ear to the ground",
+      "soften the ground"
+   ],
+   "put in with": [
+      "put up with",
+      "put out",
+      "put down"
+   ],
+   "rod in pickle": [
+      "in a pickle",
+      "tickle someone's pickle",
+      "bone to pick"
+   ],
+   "rolling in it": [
+      "rolling stone",
+      "get amongst it",
+      "push it"
+   ],
+   "roll in the aisles": [
+      "on a roll",
+      "roll the pitch",
+      "call roll"
+   ],
+   "roll in wealth": [
+      "rags to riches",
+      "spend a fortune",
+      "embarrassment of riches"
+   ],
+   "rot in hell": [
+      "to hell",
+      "raise hell",
+      "give hell"
+   ],
+   "row in the same boat": [
+      "in the same boat",
+      "get in the boat and row",
+      "in a row"
+   ],
+   "run in the family": [
+      "run on",
+      "run with",
+      "keep it in the family"
+   ],
+   "set in motion": [
+      "set the wheels in motion",
+      "set straight",
+      "set in ways"
+   ],
+   "set in stone": [
+      "carved in stone",
+      "heart of stone",
+      "set in ways"
+   ],
+   "set in ways": [
+      "set in one's ways",
+      "set in motion",
+      "set in stone"
+   ],
+   "shot in the arm": [
+      "arm in arm",
+      "twist arm",
+      "shot in the dark"
+   ],
+   "shot in the dark": [
+      "in the dark",
+      "stab in the dark",
+      "shot in the arm"
+   ],
+   "skin in the game": [
+      "in the game",
+      "on the game",
+      "thick skin"
+   ],
+   "spit in the wind": [
+      "in the wind",
+      "spit on",
+      "twist in the wind"
+   ],
+   "stab in the dark": [
+      "stab in the back",
+      "have a stab",
+      "shot in the dark"
+   ],
+   "stand in the gap": [
+      "stand behind",
+      "bridge the gap",
+      "stand in for"
+   ],
+   "stand in the gate": [
+      "out of the gate",
+      "break gates",
+      "stand by"
+   ],
+   "stick in the mud": [
+      "stuck in the mud",
+      "drag through the mud",
+      "name is mud"
+   ],
+   "storm in a teacup": [
+      "storm off",
+      "tempest in a teapot",
+      "weather the storm"
+   ],
+   "stuck in the mud": [
+      "stuck up",
+      "stick in the mud",
+      "stuck on"
+   ],
+   "tall in the saddle": [
+      "ride tall in the saddle",
+      "tall tale",
+      "tall story"
+   ],
+   "the devil is in the detail": [
+      "God is in the detail",
+      "the devil",
+      "the devil a one"
+   ],
+   "throw in with": [
+      "throw in",
+      "throw out",
+      "throw in at the deep end"
+   ],
+   "tie in with": [
+      "tie in",
+      "tie up",
+      "tie one on"
+   ],
+   "twist in the wind": [
+      "spit in the wind",
+      "in the wind",
+      "twist of fate"
+   ],
+   "walk in the park": [
+      "walk free",
+      "walk through",
+      "park that thought"
+   ],
+   "walk in the snow": [
+      "walk in on",
+      "walk over",
+      "walk through"
+   ],
+   "what in time": [
+      "what's what",
+      "why in time",
+      "what of it"
+   ],
+   "when in Rome": [
+      "all roads lead to Rome",
+      "fiddle while Rome burns",
+      "Rome wasn't built in a day"
+   ],
+   "whistle in the dark": [
+      "whistle for",
+      "in the dark",
+      "whistle in the wind"
+   ],
+   "whistle in the wind": [
+      "whistle for",
+      "whistle walk",
+      "whistle in the dark"
+   ],
+   "why in time": [
+      "what in time",
+      "come to time",
+      "why in the world"
+   ],
+   "willow in the wind": [
+      "spit in the wind",
+      "in the wind",
+      "will o' the wisp"
+   ],
+   "wrap in the flag": [
+      "red flag",
+      "show the flag",
+      "fly the flag"
+   ]
+}

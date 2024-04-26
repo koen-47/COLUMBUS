@@ -1,13 +1,7 @@
-import json
-import os
-
-from PIL import Image
-import requests
 from transformers import Blip2Processor, Blip2ForConditionalGeneration, BitsAndBytesConfig
 import torch
-from tqdm import tqdm
 
-from .ModelExperiment import ModelExperiment
+from scripts.models.ModelExperiment import ModelExperiment
 
 
 class BLIP2Experiment(ModelExperiment):

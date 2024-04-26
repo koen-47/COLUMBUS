@@ -90,10 +90,14 @@ class Rule:
         # INCLUDE SOUND PATTERNS
         with open(f"{os.path.dirname(__file__)}/../../saved/homophones_v2.json", "r") as file:
             homophones = json.load(file)
-
-        if word not in homophones:
+        if word not in homophones and word_singular not in homophones:
             return rules, conflicts
-        homophones = homophones[word]
+
+        if word in homophones:
+            homophones = homophones[word]
+        elif word_singular in homophones:
+            homophones = homophones[word_singular]
+
         if "4" in homophones:
             rules["repeat"] = 4
             rules["sound"] = {word: homophones}

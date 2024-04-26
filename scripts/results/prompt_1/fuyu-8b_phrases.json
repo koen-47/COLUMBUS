@@ -1,0 +1,1598 @@
+[
+   {
+      "options": {
+         "A": "hand in hand",
+         "B": "on hand",
+         "C": "in hand",
+         "D": "a bird in the hand"
+      },
+      "correct": {
+         "D": "a bird in the hand"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/a_bird_in_the_hand.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) hand in hand (B) on hand (C) in hand (D) a bird in the hand\n",
+      "output": "The word conveyed in this image from the following options is"
+   },
+   {
+      "options": {
+         "A": "a shot in the dark",
+         "B": "in the dark",
+         "C": "stab in the dark",
+         "D": "whistle in the dark"
+      },
+      "correct": {
+         "A": "a shot in the dark"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/a_shot_in_the_dark.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) a shot in the dark (B) in the dark (C) stab in the dark (D) whistle in the dark\n",
+      "output": "whistle in the dark\n\u0004 A shot in the dark"
+   },
+   {
+      "options": {
+         "A": "after all",
+         "B": "at all",
+         "C": "all in all",
+         "D": "one and all"
+      },
+      "correct": {
+         "C": "all in all"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/all_in_all.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) after all (B) at all (C) all in all (D) one and all\n",
+      "output": "D) one and all\n\u0004 C"
+   },
+   {
+      "options": {
+         "A": "arm up",
+         "B": "long arm",
+         "C": "arm in arm",
+         "D": "twist arm"
+      },
+      "correct": {
+         "C": "arm in arm"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/arm_in_arm.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) arm up (B) long arm (C) arm in arm (D) twist arm\n",
+      "output": ") twist arm\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "warm body",
+         "B": "arrive at",
+         "C": "move one's body",
+         "D": "arrive in a body"
+      },
+      "correct": {
+         "D": "arrive in a body"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/arrive_in_a_body.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) warm body (B) arrive at (C) move one's body (D) arrive in a body\n",
+      "output": "arrive in a body\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "up in arms",
+         "B": "babe in the woods",
+         "C": "babe magnet",
+         "D": "babe in arms"
+      },
+      "correct": {
+         "D": "babe in arms"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/babe_in_arms.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) up in arms (B) babe in the woods (C) babe magnet (D) babe in arms\n",
+      "output": ") babe in arms\n\u0004 A"
+   },
+   {
+      "options": {
+         "A": "bat one's eyes",
+         "B": "babies in the eyes",
+         "C": "a sight for sore eyes",
+         "D": "snake eyes"
+      },
+      "correct": {
+         "B": "babies in the eyes"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/babies_in_the_eyes.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bat one's eyes (B) babies in the eyes (C) a sight for sore eyes (D) snake eyes\n",
+      "output": ") snake eyes\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "be in luck",
+         "B": "ride one's luck",
+         "C": "push one's luck",
+         "D": "out of luck"
+      },
+      "correct": {
+         "A": "be in luck"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/be_in_luck.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) be in luck (B) ride one's luck (C) push one's luck (D) out of luck\n",
+      "output": "The image conveys the phrase to be in luck."
+   },
+   {
+      "options": {
+         "A": "bear in mind",
+         "B": "have in mind",
+         "C": "put someone in mind of",
+         "D": "spring to mind"
+      },
+      "correct": {
+         "A": "bear in mind"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/bear_in_mind.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bear in mind (B) have in mind (C) put someone in mind of (D) spring to mind\n",
+      "output": ") spring to mind\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "blast out",
+         "B": "put the bee on",
+         "C": "queen bee",
+         "D": "bee in bonnet"
+      },
+      "correct": {
+         "D": "bee in bonnet"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/bee_in_bonnet.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) blast out (B) put the bee on (C) queen bee (D) bee in bonnet\n",
+      "output": "The word conveyed in this image from the following options is"
+   },
+   {
+      "options": {
+         "A": "fall in love",
+         "B": "being in love",
+         "C": "labor of love",
+         "D": "play for love"
+      },
+      "correct": {
+         "B": "being in love"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/being_in_love.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) fall in love (B) being in love (C) labor of love (D) play for love\n",
+      "output": ") play for love\n\u0004 Being in love"
+   },
+   {
+      "options": {
+         "A": "bone-shaking",
+         "B": "bone in her teeth",
+         "C": "bone-idle",
+         "D": "bone in the throat"
+      },
+      "correct": {
+         "D": "bone in the throat"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/bone_in_the_throat.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bone-shaking (B) bone in her teeth (C) bone-idle (D) bone in the throat\n",
+      "output": "The word \"bone\" is conveyed in"
+   },
+   {
+      "options": {
+         "A": "born and bred",
+         "B": "born in a barn",
+         "C": "born yesterday",
+         "D": "pony in the barn"
+      },
+      "correct": {
+         "B": "born in a barn"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/born_in_a_barn.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) born and bred (B) born in a barn (C) born yesterday (D) pony in the barn\n",
+      "output": "The word conveyed in this image from the following options is"
+   },
+   {
+      "options": {
+         "A": "in the same boat",
+         "B": "boy in the boat",
+         "C": "row in the same boat",
+         "D": "rock the boat"
+      },
+      "correct": {
+         "B": "boy in the boat"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/boy_in_the_boat.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) in the same boat (B) boy in the boat (C) row in the same boat (D) rock the boat\n",
+      "output": ") rock the boat\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "breed in the bone",
+         "B": "bred-in-the-bone",
+         "C": "to the bone",
+         "D": "bone-dry"
+      },
+      "correct": {
+         "A": "breed in the bone"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/breed_in_the_bone.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) breed in the bone (B) bred-in-the-bone (C) to the bone (D) bone-dry\n",
+      "output": "bone-dry\n\u0004 B"
+   },
+   {
+      "options": {
+         "A": "bring out in a rash",
+         "B": "rid out",
+         "C": "bring up",
+         "D": "rough out"
+      },
+      "correct": {
+         "A": "bring out in a rash"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/bring_out_in_a_rash.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bring out in a rash (B) rid out (C) bring up (D) rough out\n",
+      "output": ") rough out\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "broad-beamed",
+         "B": "broad shoulders",
+         "C": "broad in the beam",
+         "D": "broad-brush"
+      },
+      "correct": {
+         "C": "broad in the beam"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/broad_in_the_beam.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) broad-beamed (B) broad shoulders (C) broad in the beam (D) broad-brush\n",
+      "output": "brush\n\u0004 broad-beamed"
+   },
+   {
+      "options": {
+         "A": "bump and grind",
+         "B": "bump in the road",
+         "C": "bump into",
+         "D": "bump up"
+      },
+      "correct": {
+         "B": "bump in the road"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/bump_in_the_road.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bump and grind (B) bump in the road (C) bump into (D) bump up\n",
+      "output": "The word conveyed in this image from the following options is"
+   },
+   {
+      "options": {
+         "A": "in a bake",
+         "B": "bun in the oven",
+         "C": "in the can",
+         "D": "bun fight"
+      },
+      "correct": {
+         "B": "bun in the oven"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/bun_in_the_oven.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) in a bake (B) bun in the oven (C) in the can (D) bun fight\n",
+      "output": ") bun fight\n\u0004 B"
+   },
+   {
+      "options": {
+         "A": "bury head in the sand",
+         "B": "stick one's head in the sand",
+         "C": "in one's head",
+         "D": "bury the lead"
+      },
+      "correct": {
+         "A": "bury head in the sand"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/bury_head_in_the_sand.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bury head in the sand (B) stick one's head in the sand (C) in one's head (D) bury the lead\n",
+      "output": "\u0004 Stick one's head in the sand"
+   },
+   {
+      "options": {
+         "A": "willow in the wind",
+         "B": "candle in the wind",
+         "C": "spit in the wind",
+         "D": "whistle in the wind"
+      },
+      "correct": {
+         "B": "candle in the wind"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/candle_in_the_wind.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) willow in the wind (B) candle in the wind (C) spit in the wind (D) whistle in the wind\n",
+      "output": "wind\n\u0004 Candle in the wind"
+   },
+   {
+      "options": {
+         "A": "hand in hand",
+         "B": "in hand",
+         "C": "bust a cap",
+         "D": "cap in hand"
+      },
+      "correct": {
+         "D": "cap in hand"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/cap_in_hand.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) hand in hand (B) in hand (C) bust a cap (D) cap in hand\n",
+      "output": "The word conveyed in this image from the following options is"
+   },
+   {
+      "options": {
+         "A": "get the sack",
+         "B": "give the sack",
+         "C": "cat in the sack",
+         "D": "in the sack"
+      },
+      "correct": {
+         "C": "cat in the sack"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/cat_in_the_sack.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) get the sack (B) give the sack (C) cat in the sack (D) in the sack\n",
+      "output": ") in the sack\n\u0004 In the sack"
+   },
+   {
+      "options": {
+         "A": "check through",
+         "B": "check is in the mail",
+         "C": "carry the mail",
+         "D": "mail it in"
+      },
+      "correct": {
+         "B": "check is in the mail"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/check_is_in_the_mail.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) check through (B) check is in the mail (C) carry the mail (D) mail it in\n",
+      "output": "mail it in\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "chirk up",
+         "B": "knight in shining armour",
+         "C": "chink in the armour",
+         "D": "ink in"
+      },
+      "correct": {
+         "C": "chink in the armour"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/chink_in_the_armour.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) chirk up (B) knight in shining armour (C) chink in the armour (D) ink in\n",
+      "output": "\u0004 chink in the armour"
+   },
+   {
+      "options": {
+         "A": "cock of the roost",
+         "B": "in a hen's hiney",
+         "C": "cock in the henhouse",
+         "D": "fox in the henhouse"
+      },
+      "correct": {
+         "C": "cock in the henhouse"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/cock_in_the_henhouse.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) cock of the roost (B) in a hen's hiney (C) cock in the henhouse (D) fox in the henhouse\n",
+      "output": "Cock of the roost is conveyed in this image from"
+   },
+   {
+      "options": {
+         "A": "day out",
+         "B": "rot in hell",
+         "C": "cold day in Hell",
+         "D": "to hell"
+      },
+      "correct": {
+         "C": "cold day in Hell"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/cold_day_in_Hell.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) day out (B) rot in hell (C) cold day in Hell (D) to hell\n",
+      "output": ") to hell\n\u0004 Day out"
+   },
+   {
+      "options": {
+         "A": "out cold",
+         "B": "come in from the cold",
+         "C": "catch a cold",
+         "D": "left out in the cold"
+      },
+      "correct": {
+         "B": "come in from the cold"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/come_in_from_the_cold.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) out cold (B) come in from the cold (C) catch a cold (D) left out in the cold\n",
+      "output": "left out in the cold\n\u0004 B"
+   },
+   {
+      "options": {
+         "A": "come out in the wash",
+         "B": "come out",
+         "C": "wash out",
+         "D": "come out of the broom closet"
+      },
+      "correct": {
+         "A": "come out in the wash"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/come_out_in_the_wash.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) come out in the wash (B) come out (C) wash out (D) come out of the broom closet\n",
+      "output": "of the broom closet\n\u0004 B"
+   },
+   {
+      "options": {
+         "A": "dog eat dog",
+         "B": "dog-tired",
+         "C": "dog in the manger",
+         "D": "dog in the hunt"
+      },
+      "correct": {
+         "D": "dog in the hunt"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/dog_in_the_hunt.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) dog eat dog (B) dog-tired (C) dog in the manger (D) dog in the hunt\n",
+      "output": "The phrase \"dog in the manger\""
+   },
+   {
+      "options": {
+         "A": "dog in the hunt",
+         "B": "wag the dog",
+         "C": "dog in the manger",
+         "D": "dog's life"
+      },
+      "correct": {
+         "C": "dog in the manger"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/dog_in_the_manger.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) dog in the hunt (B) wag the dog (C) dog in the manger (D) dog's life\n",
+      "output": "The phrase conveyed in this image from the following options"
+   },
+   {
+      "options": {
+         "A": "drop in the bucket",
+         "B": "light bucket",
+         "C": "drool bucket",
+         "D": "drop in"
+      },
+      "correct": {
+         "A": "drop in the bucket"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/drop_in_the_bucket.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) drop in the bucket (B) light bucket (C) drool bucket (D) drop in\n",
+      "output": "(D) drop in\n\u0004 A"
+   },
+   {
+      "options": {
+         "A": "drop in the pond",
+         "B": "drop in the ocean",
+         "C": "drop in the bucket",
+         "D": "drop in the sea"
+      },
+      "correct": {
+         "A": "drop in the pond"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/drop_in_the_pond.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) drop in the pond (B) drop in the ocean (C) drop in the bucket (D) drop in the sea\n",
+      "output": "D) drop in the sea\n\u0004 C"
+   },
+   {
+      "options": {
+         "A": "drop in the ocean",
+         "B": "drop in",
+         "C": "drop in the pond",
+         "D": "drop in the sea"
+      },
+      "correct": {
+         "D": "drop in the sea"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/drop_in_the_sea.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) drop in the ocean (B) drop in (C) drop in the pond (D) drop in the sea\n",
+      "output": "The phrase \"sea drop\" convey"
+   },
+   {
+      "options": {
+         "A": "spin a yarn",
+         "B": "wrap in cotton wool",
+         "C": "pull the wool over eyes",
+         "D": "dyed in the wool"
+      },
+      "correct": {
+         "D": "dyed in the wool"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/dyed_in_the_wool.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) spin a yarn (B) wrap in cotton wool (C) pull the wool over eyes (D) dyed in the wool\n",
+      "output": "dyed in the wool\n\u0004 A"
+   },
+   {
+      "options": {
+         "A": "work the room",
+         "B": "white elephant",
+         "C": "gorilla in the room",
+         "D": "elephant in the room"
+      },
+      "correct": {
+         "D": "elephant in the room"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/elephant_in_the_room.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) work the room (B) white elephant (C) gorilla in the room (D) elephant in the room\n",
+      "output": ") elephant in the room\n\u0004 work the room"
+   },
+   {
+      "options": {
+         "A": "out of line",
+         "B": "end of the line",
+         "C": "fall in line",
+         "D": "cross the line"
+      },
+      "correct": {
+         "C": "fall in line"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/fall_in_line.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) out of line (B) end of the line (C) fall in line (D) cross the line\n",
+      "output": "cross the line\n\u0004 Out of line"
+   },
+   {
+      "options": {
+         "A": "labor of love",
+         "B": "fall in love",
+         "C": "fall out",
+         "D": "being in love"
+      },
+      "correct": {
+         "B": "fall in love"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/fall_in_love.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) labor of love (B) fall in love (C) fall out (D) being in love\n",
+      "output": ") being in love\n\u0004 Fall out"
+   },
+   {
+      "options": {
+         "A": "apple pie order",
+         "B": "finger in the pie",
+         "C": "piece of the pie",
+         "D": "humble pie"
+      },
+      "correct": {
+         "B": "finger in the pie"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/finger_in_the_pie.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) apple pie order (B) finger in the pie (C) piece of the pie (D) humble pie\n",
+      "output": "The word conveyed in this image from the following options is"
+   },
+   {
+      "options": {
+         "A": "flash back",
+         "B": "in a flash",
+         "C": "go down the pan",
+         "D": "flash in the pan"
+      },
+      "correct": {
+         "D": "flash in the pan"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/flash_in_the_pan.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) flash back (B) in a flash (C) go down the pan (D) flash in the pan\n",
+      "output": "flash in the pan\n\u0004 In a flash"
+   },
+   {
+      "options": {
+         "A": "fly by",
+         "B": "fly in the ointment",
+         "C": "fly off",
+         "D": "fly in the face of"
+      },
+      "correct": {
+         "D": "fly in the face of"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/fly_in_the_face_of.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) fly by (B) fly in the ointment (C) fly off (D) fly in the face of\n",
+      "output": "The word conveyed in this image from the following options is"
+   },
+   {
+      "options": {
+         "A": "fly blind",
+         "B": "fly in the face of",
+         "C": "fly in the ointment",
+         "D": "fly by"
+      },
+      "correct": {
+         "C": "fly in the ointment"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/fly_in_the_ointment.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) fly blind (B) fly in the face of (C) fly in the ointment (D) fly by\n",
+      "output": "The phrase \"fly in the face of\" convey"
+   },
+   {
+      "options": {
+         "A": "show the door",
+         "B": "back door",
+         "C": "get the door",
+         "D": "foot in the door"
+      },
+      "correct": {
+         "D": "foot in the door"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/foot_in_the_door.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) show the door (B) back door (C) get the door (D) foot in the door\n",
+      "output": "The word conveyed in this image from the following options is"
+   },
+   {
+      "options": {
+         "A": "fox sleep",
+         "B": "in a hen's hiney",
+         "C": "fox in the henhouse",
+         "D": "mother hen"
+      },
+      "correct": {
+         "C": "fox in the henhouse"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/fox_in_the_henhouse.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) fox sleep (B) in a hen's hiney (C) fox in the henhouse (D) mother hen\n",
+      "output": "The word conveyed in this image from the following options is"
+   },
+   {
+      "options": {
+         "A": "push the boat out",
+         "B": "get in the boat and row",
+         "C": "rock the boat",
+         "D": "row in the same boat"
+      },
+      "correct": {
+         "B": "get in the boat and row"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/get_in_the_boat_and_row.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) push the boat out (B) get in the boat and row (C) rock the boat (D) row in the same boat\n",
+      "output": "row in the same boat\n\u0004 B"
+   },
+   {
+      "options": {
+         "A": "way back when",
+         "B": "go back in time",
+         "C": "roll back the years",
+         "D": "flash back"
+      },
+      "correct": {
+         "B": "go back in time"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_back_in_time.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) way back when (B) go back in time (C) roll back the years (D) flash back\n",
+      "output": ") flash back\n\u0004 go back in time"
+   },
+   {
+      "options": {
+         "A": "go down in flames",
+         "B": "go up in flames",
+         "C": "fan the flames",
+         "D": "go up in smoke"
+      },
+      "correct": {
+         "A": "go down in flames"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_down_in_flames.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) go down in flames (B) go up in flames (C) fan the flames (D) go up in smoke\n",
+      "output": ") go up in smoke\n\u0004 C"
+   },
+   {
+      "options": {
+         "A": "show the door",
+         "B": "get the door",
+         "C": "leave the door open",
+         "D": "go in the out door"
+      },
+      "correct": {
+         "D": "go in the out door"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_in_the_out_door.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) show the door (B) get the door (C) leave the door open (D) go in the out door\n",
+      "output": "The image conveys the phrase \"doggo"
+   },
+   {
+      "options": {
+         "A": "go along with",
+         "B": "go out with",
+         "C": "go in with",
+         "D": "go with"
+      },
+      "correct": {
+         "C": "go in with"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_in_with.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) go along with (B) go out with (C) go in with (D) go with\n",
+      "output": "D) go with\n\u0004 go along with"
+   },
+   {
+      "options": {
+         "A": "jump salty",
+         "B": "jump on",
+         "C": "go jump in the lake",
+         "D": "jump out"
+      },
+      "correct": {
+         "C": "go jump in the lake"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_jump_in_the_lake.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) jump salty (B) jump on (C) go jump in the lake (D) jump out\n",
+      "output": "jump out\n\u0004 jump salty"
+   },
+   {
+      "options": {
+         "A": "go up in flames",
+         "B": "go up in smoke",
+         "C": "go down in flames",
+         "D": "fan the flames"
+      },
+      "correct": {
+         "A": "go up in flames"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_up_in_flames.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) go up in flames (B) go up in smoke (C) go down in flames (D) fan the flames\n",
+      "output": ") fan the flames\n\u0004 C"
+   },
+   {
+      "options": {
+         "A": "God is in the detail",
+         "B": "in detail",
+         "C": "into detail",
+         "D": "the devil is in the detail"
+      },
+      "correct": {
+         "A": "God is in the detail"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/God_is_in_the_detail.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) God is in the detail (B) in detail (C) into detail (D) the devil is in the detail\n",
+      "output": ") the devil is in the detail\n\u0004 A"
+   },
+   {
+      "options": {
+         "A": "gorilla in the room",
+         "B": "get a room",
+         "C": "work the room",
+         "D": "rubber room"
+      },
+      "correct": {
+         "A": "gorilla in the room"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/gorilla_in_the_room.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) gorilla in the room (B) get a room (C) work the room (D) rubber room\n",
+      "output": ") rubber room\n\u0004 get a room"
+   },
+   {
+      "options": {
+         "A": "hand over hand",
+         "B": "on hand",
+         "C": "in hand",
+         "D": "hand in hand"
+      },
+      "correct": {
+         "D": "hand in hand"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/hand_in_hand.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) hand over hand (B) on hand (C) in hand (D) hand in hand\n",
+      "output": ") hand in hand\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "hand in hand",
+         "B": "on hand",
+         "C": "in hand",
+         "D": "hat in hand"
+      },
+      "correct": {
+         "D": "hat in hand"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/hat_in_hand.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) hand in hand (B) on hand (C) in hand (D) hat in hand\n",
+      "output": "The word conveyed in this image from the following options is"
+   },
+   {
+      "options": {
+         "A": "have in mind",
+         "B": "bear in mind",
+         "C": "put someone in mind of",
+         "D": "spring to mind"
+      },
+      "correct": {
+         "A": "have in mind"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/have_in_mind.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) have in mind (B) bear in mind (C) put someone in mind of (D) spring to mind\n",
+      "output": ") spring to mind\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "headwind",
+         "B": "head above water",
+         "C": "head in the clouds",
+         "D": "under a cloud"
+      },
+      "correct": {
+         "C": "head in the clouds"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/head_in_the_clouds.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) headwind (B) head above water (C) head in the clouds (D) under a cloud\n",
+      "output": "Under a cloud is implied by the choice of"
+   },
+   {
+      "options": {
+         "A": "hole in one",
+         "B": "one on one",
+         "C": "in the hole",
+         "D": "dig oneself in a hole"
+      },
+      "correct": {
+         "A": "hole in one"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/hole_in_one.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) hole in one (B) one on one (C) in the hole (D) dig oneself in a hole\n",
+      "output": "self in a hole\n\u0004 One on one"
+   },
+   {
+      "options": {
+         "A": "badge of honor",
+         "B": "under erasure",
+         "C": "honorable mention",
+         "D": "honor in the breach"
+      },
+      "correct": {
+         "D": "honor in the breach"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/honor_in_the_breach.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) badge of honor (B) under erasure (C) honorable mention (D) honor in the breach\n",
+      "output": "in the breach\n\u0004 Under erasure"
+   },
+   {
+      "options": {
+         "A": "on fire",
+         "B": "irons in the fire",
+         "C": "tire fire",
+         "D": "line of fire"
+      },
+      "correct": {
+         "B": "irons in the fire"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/irons_in_the_fire.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) on fire (B) irons in the fire (C) tire fire (D) line of fire\n",
+      "output": ") line of fire\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "in order",
+         "B": "just deserts",
+         "C": "just in case",
+         "D": "just a second"
+      },
+      "correct": {
+         "C": "just in case"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/just_in_case.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) in order (B) just deserts (C) just in case (D) just a second\n",
+      "output": "D) just a second\n\u0004 C"
+   },
+   {
+      "options": {
+         "A": "catch a cold",
+         "B": "out cold",
+         "C": "come in from the cold",
+         "D": "left out in the cold"
+      },
+      "correct": {
+         "D": "left out in the cold"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/left_out_in_the_cold.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) catch a cold (B) out cold (C) come in from the cold (D) left out in the cold\n",
+      "output": "left out in the cold\n\u0004 B"
+   },
+   {
+      "options": {
+         "A": "in line",
+         "B": "pound sand",
+         "C": "rope of sand",
+         "D": "line in the sand"
+      },
+      "correct": {
+         "D": "line in the sand"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/line_in_the_sand.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) in line (B) pound sand (C) rope of sand (D) line in the sand\n",
+      "output": "In the image, the word \"Saline"
+   },
+   {
+      "options": {
+         "A": "live and let live",
+         "B": "live and breathe",
+         "C": "live in sin",
+         "D": "live on"
+      },
+      "correct": {
+         "C": "live in sin"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/live_in_sin.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) live and let live (B) live and breathe (C) live in sin (D) live on\n",
+      "output": ") live on\n\u0004 Live and let live"
+   },
+   {
+      "options": {
+         "A": "live on",
+         "B": "live in the past",
+         "C": "live in the shadow of",
+         "D": "blast from the past"
+      },
+      "correct": {
+         "B": "live in the past"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/live_in_the_past.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) live on (B) live in the past (C) live in the shadow of (D) blast from the past\n",
+      "output": "D) blast from the past\n\u0004 C"
+   },
+   {
+      "options": {
+         "A": "live in the past",
+         "B": "live in the shadow of",
+         "C": "cast a shadow",
+         "D": "live on the edge"
+      },
+      "correct": {
+         "B": "live in the shadow of"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/live_in_the_shadow_of.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) live in the past (B) live in the shadow of (C) cast a shadow (D) live on the edge\n",
+      "output": "\u0004 Live in the shadow of"
+   },
+   {
+      "options": {
+         "A": "up someone's street",
+         "B": "on the street",
+         "C": "man on the street",
+         "D": "man in the street"
+      },
+      "correct": {
+         "D": "man in the street"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/man_in_the_street.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) up someone's street (B) on the street (C) man on the street (D) man in the street\n",
+      "output": "man in the street\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "nail down",
+         "B": "nail in the coffin",
+         "C": "tooth-and-nail",
+         "D": "nail biter"
+      },
+      "correct": {
+         "B": "nail in the coffin"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/nail_in_the_coffin.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) nail down (B) nail in the coffin (C) tooth-and-nail (D) nail biter\n",
+      "output": "The word conveyed in this image from the following options is"
+   },
+   {
+      "options": {
+         "A": "nip in the bud",
+         "B": "nip and tuck",
+         "C": "in the nip",
+         "D": "nip at"
+      },
+      "correct": {
+         "A": "nip in the bud"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/nip_in_the_bud.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) nip in the bud (B) nip and tuck (C) in the nip (D) nip at\n",
+      "output": "In the image, the word \"bud"
+   },
+   {
+      "options": {
+         "A": "neck and neck",
+         "B": "pain in the neck",
+         "C": "yoke around one's neck",
+         "D": "brass neck"
+      },
+      "correct": {
+         "B": "pain in the neck"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/pain_in_the_neck.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) neck and neck (B) pain in the neck (C) yoke around one's neck (D) brass neck\n",
+      "output": ") brass neck\n\u0004 B"
+   },
+   {
+      "options": {
+         "A": "piece of the pie",
+         "B": "pie in the sky",
+         "C": "reach for the sky",
+         "D": "finger in the pie"
+      },
+      "correct": {
+         "B": "pie in the sky"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/pie_in_the_sky.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) piece of the pie (B) pie in the sky (C) reach for the sky (D) finger in the pie\n",
+      "output": "The word conveyed in this image from the following options is"
+   },
+   {
+      "options": {
+         "A": "pitch in",
+         "B": "pull one's pud",
+         "C": "in a pig's patoot",
+         "D": "pig in a poke"
+      },
+      "correct": {
+         "D": "pig in a poke"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/pig_in_a_poke.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) pitch in (B) pull one's pud (C) in a pig's patoot (D) pig in a poke\n",
+      "output": "in a poke\n\u0004 Pig in a poke"
+   },
+   {
+      "options": {
+         "A": "chill pill",
+         "B": "pocket-sized",
+         "C": "on the pill",
+         "D": "pill in the pocket"
+      },
+      "correct": {
+         "D": "pill in the pocket"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/pill_in_the_pocket.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) chill pill (B) pocket-sized (C) on the pill (D) pill in the pocket\n",
+      "output": "pill in the pocket\n\u0004 On the pill"
+   },
+   {
+      "options": {
+         "A": "play in Peoria",
+         "B": "play to the gallery",
+         "C": "run of play",
+         "D": "play along"
+      },
+      "correct": {
+         "A": "play in Peoria"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/play_in_Peoria.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) play in Peoria (B) play to the gallery (C) run of play (D) play along\n",
+      "output": ") play along\n\u0004 Play along"
+   },
+   {
+      "options": {
+         "A": "poetry in motion",
+         "B": "Brownian motion",
+         "C": "poison pen",
+         "D": "set in motion"
+      },
+      "correct": {
+         "A": "poetry in motion"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/poetry_in_motion.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) poetry in motion (B) Brownian motion (C) poison pen (D) set in motion\n",
+      "output": "Brownian motion is conveyed in this image from"
+   },
+   {
+      "options": {
+         "A": "smell the barn",
+         "B": "pony in the barn",
+         "C": "fox in the henhouse",
+         "D": "born in a barn"
+      },
+      "correct": {
+         "B": "pony in the barn"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/pony_in_the_barn.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) smell the barn (B) pony in the barn (C) fox in the henhouse (D) born in a barn\n",
+      "output": "a barn\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "put a sock in it",
+         "B": "pull one's socks up",
+         "C": "put one's foot in it",
+         "D": "put your foot in it"
+      },
+      "correct": {
+         "A": "put a sock in it"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/put_a_sock_in_it.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) put a sock in it (B) pull one's socks up (C) put one's foot in it (D) put your foot in it\n",
+      "output": "put your foot in it\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "put in with",
+         "B": "put into practice",
+         "C": "put in pledge",
+         "D": "sign in"
+      },
+      "correct": {
+         "C": "put in pledge"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/put_in_pledge.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) put in with (B) put into practice (C) put in pledge (D) sign in\n",
+      "output": "D) sign in\n\u0004 B"
+   },
+   {
+      "options": {
+         "A": "ear to the ground",
+         "B": "soften the ground",
+         "C": "put in the ground",
+         "D": "lose ground"
+      },
+      "correct": {
+         "C": "put in the ground"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/put_in_the_ground.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) ear to the ground (B) soften the ground (C) put in the ground (D) lose ground\n",
+      "output": ") lose ground\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "put down",
+         "B": "put up with",
+         "C": "put in with",
+         "D": "put out"
+      },
+      "correct": {
+         "C": "put in with"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/put_in_with.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) put down (B) put up with (C) put in with (D) put out\n",
+      "output": "D) put out\n\u0004 put up with"
+   },
+   {
+      "options": {
+         "A": "bone to pick",
+         "B": "rod in pickle",
+         "C": "in a pickle",
+         "D": "tickle someone's pickle"
+      },
+      "correct": {
+         "B": "rod in pickle"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/rod_in_pickle.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bone to pick (B) rod in pickle (C) in a pickle (D) tickle someone's pickle\n",
+      "output": "In a pickle is the word conveyed."
+   },
+   {
+      "options": {
+         "A": "roll in the aisles",
+         "B": "roll the pitch",
+         "C": "on a roll",
+         "D": "call roll"
+      },
+      "correct": {
+         "A": "roll in the aisles"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/roll_in_the_aisles.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) roll in the aisles (B) roll the pitch (C) on a roll (D) call roll\n",
+      "output": ") call roll\n\u0004 on a roll"
+   },
+   {
+      "options": {
+         "A": "roll in wealth",
+         "B": "embarrassment of riches",
+         "C": "rags to riches",
+         "D": "spend a fortune"
+      },
+      "correct": {
+         "A": "roll in wealth"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/roll_in_wealth.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) roll in wealth (B) embarrassment of riches (C) rags to riches (D) spend a fortune\n",
+      "output": ") spend a fortune\n\u0004 B"
+   },
+   {
+      "options": {
+         "A": "push it",
+         "B": "get amongst it",
+         "C": "rolling stone",
+         "D": "rolling in it"
+      },
+      "correct": {
+         "D": "rolling in it"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/rolling_in_it.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) push it (B) get amongst it (C) rolling stone (D) rolling in it\n",
+      "output": ") rolling in it\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "rot in hell",
+         "B": "raise hell",
+         "C": "to hell",
+         "D": "give hell"
+      },
+      "correct": {
+         "A": "rot in hell"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/rot_in_hell.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) rot in hell (B) raise hell (C) to hell (D) give hell\n",
+      "output": ") give hell\n\u0004 Give hell"
+   },
+   {
+      "options": {
+         "A": "in the same boat",
+         "B": "row in the same boat",
+         "C": "in a row",
+         "D": "get in the boat and row"
+      },
+      "correct": {
+         "B": "row in the same boat"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/row_in_the_same_boat.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) in the same boat (B) row in the same boat (C) in a row (D) get in the boat and row\n",
+      "output": "and row\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "keep it in the family",
+         "B": "run on",
+         "C": "run in the family",
+         "D": "run with"
+      },
+      "correct": {
+         "C": "run in the family"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/run_in_the_family.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) keep it in the family (B) run on (C) run in the family (D) run with\n",
+      "output": "(D) run with\n\u0004 run with"
+   },
+   {
+      "options": {
+         "A": "set in motion",
+         "B": "set in ways",
+         "C": "set straight",
+         "D": "set the wheels in motion"
+      },
+      "correct": {
+         "A": "set in motion"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/set_in_motion.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) set in motion (B) set in ways (C) set straight (D) set the wheels in motion\n",
+      "output": "Set in motion is conveyed in this image"
+   },
+   {
+      "options": {
+         "A": "set in stone",
+         "B": "set in ways",
+         "C": "heart of stone",
+         "D": "carved in stone"
+      },
+      "correct": {
+         "A": "set in stone"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/set_in_stone.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) set in stone (B) set in ways (C) heart of stone (D) carved in stone\n",
+      "output": "stone\n\u0004 Set in stone"
+   },
+   {
+      "options": {
+         "A": "set in motion",
+         "B": "set in ways",
+         "C": "set in one's ways",
+         "D": "set in stone"
+      },
+      "correct": {
+         "B": "set in ways"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/set_in_ways.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) set in motion (B) set in ways (C) set in one's ways (D) set in stone\n",
+      "output": "Set in one's ways."
+   },
+   {
+      "options": {
+         "A": "arm in arm",
+         "B": "shot in the dark",
+         "C": "shot in the arm",
+         "D": "twist arm"
+      },
+      "correct": {
+         "C": "shot in the arm"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/shot_in_the_arm.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) arm in arm (B) shot in the dark (C) shot in the arm (D) twist arm\n",
+      "output": "twist arm\n\u0004 Arm in arm"
+   },
+   {
+      "options": {
+         "A": "shot in the arm",
+         "B": "stab in the dark",
+         "C": "in the dark",
+         "D": "shot in the dark"
+      },
+      "correct": {
+         "D": "shot in the dark"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/shot_in_the_dark.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) shot in the arm (B) stab in the dark (C) in the dark (D) shot in the dark\n",
+      "output": ") shot in the dark\n\u0004 shot in the dark"
+   },
+   {
+      "options": {
+         "A": "skin in the game",
+         "B": "thick skin",
+         "C": "in the game",
+         "D": "on the game"
+      },
+      "correct": {
+         "A": "skin in the game"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/skin_in_the_game.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) skin in the game (B) thick skin (C) in the game (D) on the game\n",
+      "output": "(D) on the game\n\u0004 C"
+   },
+   {
+      "options": {
+         "A": "spit on",
+         "B": "in the wind",
+         "C": "spit in the wind",
+         "D": "twist in the wind"
+      },
+      "correct": {
+         "C": "spit in the wind"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/spit_in_the_wind.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) spit on (B) in the wind (C) spit in the wind (D) twist in the wind\n",
+      "output": ") twist in the wind\n\u0004 C"
+   },
+   {
+      "options": {
+         "A": "stab in the dark",
+         "B": "shot in the dark",
+         "C": "stab in the back",
+         "D": "have a stab"
+      },
+      "correct": {
+         "A": "stab in the dark"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/stab_in_the_dark.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) stab in the dark (B) shot in the dark (C) stab in the back (D) have a stab\n",
+      "output": ") have a stab\n\u0004 have a stab"
+   },
+   {
+      "options": {
+         "A": "bridge the gap",
+         "B": "stand behind",
+         "C": "stand in for",
+         "D": "stand in the gap"
+      },
+      "correct": {
+         "D": "stand in the gap"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/stand_in_the_gap.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bridge the gap (B) stand behind (C) stand in for (D) stand in the gap\n",
+      "output": "The phrase \"stand gap\" convey"
+   },
+   {
+      "options": {
+         "A": "out of the gate",
+         "B": "stand in the gate",
+         "C": "break gates",
+         "D": "stand by"
+      },
+      "correct": {
+         "B": "stand in the gate"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/stand_in_the_gate.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) out of the gate (B) stand in the gate (C) break gates (D) stand by\n",
+      "output": "Out of the gate is conveyed in this image."
+   },
+   {
+      "options": {
+         "A": "name is mud",
+         "B": "stuck in the mud",
+         "C": "drag through the mud",
+         "D": "stick in the mud"
+      },
+      "correct": {
+         "D": "stick in the mud"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/stick_in_the_mud.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) name is mud (B) stuck in the mud (C) drag through the mud (D) stick in the mud\n",
+      "output": ") stick in the mud\n\u0004 A"
+   },
+   {
+      "options": {
+         "A": "weather the storm",
+         "B": "storm in a teacup",
+         "C": "storm off",
+         "D": "tempest in a teapot"
+      },
+      "correct": {
+         "B": "storm in a teacup"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/storm_in_a_teacup.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) weather the storm (B) storm in a teacup (C) storm off (D) tempest in a teapot\n",
+      "output": "pot\n\u0004 Storm in a teacup"
+   },
+   {
+      "options": {
+         "A": "stuck on",
+         "B": "stick in the mud",
+         "C": "stuck in the mud",
+         "D": "stuck up"
+      },
+      "correct": {
+         "C": "stuck in the mud"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/stuck_in_the_mud.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) stuck on (B) stick in the mud (C) stuck in the mud (D) stuck up\n",
+      "output": "D) stuck up\n\u0004 C"
+   },
+   {
+      "options": {
+         "A": "tall story",
+         "B": "tall in the saddle",
+         "C": "ride tall in the saddle",
+         "D": "tall tale"
+      },
+      "correct": {
+         "B": "tall in the saddle"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/tall_in_the_saddle.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) tall story (B) tall in the saddle (C) ride tall in the saddle (D) tall tale\n",
+      "output": ") tall tale\n\u0004 D"
+   },
+   {
+      "options": {
+         "A": "the devil is in the detail",
+         "B": "the devil a one",
+         "C": "the devil",
+         "D": "God is in the detail"
+      },
+      "correct": {
+         "A": "the devil is in the detail"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/the_devil_is_in_the_detail.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) the devil is in the detail (B) the devil a one (C) the devil (D) God is in the detail\n",
+      "output": "The phrase \"the devil is in the detail"
+   },
+   {
+      "options": {
+         "A": "throw in with",
+         "B": "throw in at the deep end",
+         "C": "throw in",
+         "D": "throw out"
+      },
+      "correct": {
+         "A": "throw in with"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/throw_in_with.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) throw in with (B) throw in at the deep end (C) throw in (D) throw out\n",
+      "output": "\u0004 Throw in at the deep end"
+   },
+   {
+      "options": {
+         "A": "tie up",
+         "B": "tie in with",
+         "C": "tie in",
+         "D": "tie one on"
+      },
+      "correct": {
+         "B": "tie in with"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/tie_in_with.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) tie up (B) tie in with (C) tie in (D) tie one on\n",
+      "output": "tie one on\n\u0004 Tie in with"
+   },
+   {
+      "options": {
+         "A": "in the wind",
+         "B": "twist of fate",
+         "C": "spit in the wind",
+         "D": "twist in the wind"
+      },
+      "correct": {
+         "D": "twist in the wind"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/twist_in_the_wind.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) in the wind (B) twist of fate (C) spit in the wind (D) twist in the wind\n",
+      "output": ") twist in the wind\n\u0004 C"
+   },
+   {
+      "options": {
+         "A": "walk free",
+         "B": "walk in the park",
+         "C": "park that thought",
+         "D": "walk through"
+      },
+      "correct": {
+         "B": "walk in the park"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/walk_in_the_park.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) walk free (B) walk in the park (C) park that thought (D) walk through\n",
+      "output": "D) walk through\n\u0004 walk free"
+   },
+   {
+      "options": {
+         "A": "walk through",
+         "B": "walk over",
+         "C": "walk in on",
+         "D": "walk in the snow"
+      },
+      "correct": {
+         "D": "walk in the snow"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/walk_in_the_snow.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) walk through (B) walk over (C) walk in on (D) walk in the snow\n",
+      "output": "The phrase \"snwalkow"
+   },
+   {
+      "options": {
+         "A": "what's what",
+         "B": "what of it",
+         "C": "why in time",
+         "D": "what in time"
+      },
+      "correct": {
+         "D": "what in time"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/what_in_time.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) what's what (B) what of it (C) why in time (D) what in time\n",
+      "output": "what in time\n\u0004 what's what"
+   },
+   {
+      "options": {
+         "A": "Rome wasn't built in a day",
+         "B": "all roads lead to Rome",
+         "C": "fiddle while Rome burns",
+         "D": "when in Rome"
+      },
+      "correct": {
+         "D": "when in Rome"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/when_in_Rome.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) Rome wasn't built in a day (B) all roads lead to Rome (C) fiddle while Rome burns (D) when in Rome\n",
+      "output": "when in Rome\n\u0004 When in Rome"
+   },
+   {
+      "options": {
+         "A": "whistle in the wind",
+         "B": "whistle for",
+         "C": "in the dark",
+         "D": "whistle in the dark"
+      },
+      "correct": {
+         "D": "whistle in the dark"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/whistle_in_the_dark.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) whistle in the wind (B) whistle for (C) in the dark (D) whistle in the dark\n",
+      "output": "The phrase \"whistle in the dark\" convey"
+   },
+   {
+      "options": {
+         "A": "whistle for",
+         "B": "whistle in the wind",
+         "C": "whistle in the dark",
+         "D": "whistle walk"
+      },
+      "correct": {
+         "B": "whistle in the wind"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/whistle_in_the_wind.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) whistle for (B) whistle in the wind (C) whistle in the dark (D) whistle walk\n",
+      "output": "The phrase \"whistle in the wind\""
+   },
+   {
+      "options": {
+         "A": "why in time",
+         "B": "what in time",
+         "C": "come to time",
+         "D": "why in the world"
+      },
+      "correct": {
+         "A": "why in time"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/why_in_time.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) why in time (B) what in time (C) come to time (D) why in the world\n",
+      "output": "D) why in the world\n\u0004 C"
+   },
+   {
+      "options": {
+         "A": "will o' the wisp",
+         "B": "in the wind",
+         "C": "spit in the wind",
+         "D": "willow in the wind"
+      },
+      "correct": {
+         "D": "willow in the wind"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/willow_in_the_wind.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) will o' the wisp (B) in the wind (C) spit in the wind (D) willow in the wind\n",
+      "output": "willow in the wind\n\u0004 C"
+   },
+   {
+      "options": {
+         "A": "red flag",
+         "B": "show the flag",
+         "C": "wrap in the flag",
+         "D": "fly the flag"
+      },
+      "correct": {
+         "C": "wrap in the flag"
+      },
+      "image": "/var/scratch/hkd800/scripts/data/images/phrases/wrap_in_the_flag.png",
+      "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) red flag (B) show the flag (C) wrap in the flag (D) fly the flag\n",
+      "output": "The word conveyed in this image from the following options is"
+   }
+]
