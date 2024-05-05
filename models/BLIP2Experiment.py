@@ -1,7 +1,7 @@
 from transformers import Blip2Processor, Blip2ForConditionalGeneration, BitsAndBytesConfig
 import torch
 
-from scripts.models.ModelExperiment import ModelExperiment
+from das6.models.ModelExperiment import ModelExperiment
 
 
 class BLIP2Experiment(ModelExperiment):

@@ -5,7 +5,7 @@ from PIL import Image
 from transformers import FuyuProcessor, FuyuForCausalLM, BitsAndBytesConfig
 import torch
 
-from scripts.models.ModelExperiment import ModelExperiment
+from das6.models.ModelExperiment import ModelExperiment
 
 
 class FuyuExperiment(ModelExperiment):

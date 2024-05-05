@@ -8,9 +8,18 @@ from graphs.RebusImageConverter import RebusImageConverter
 from graphs.patterns.Rule import Rule
 from util import count_relational_rules
 from graphs.RebusImageConverterV2 import RebusImageConverterV2
+from results.analysis.AnalysisReport import AnalysisReport
 
-parser = PhraseRebusGraphParser()
-generator = RebusImageConverterV2()
+# parser = PhraseRebusGraphParser()
+# generator = RebusImageConverterV2()
+
+report = AnalysisReport()
+# report.generate_all()
+
+report.generate(puzzle_type="compounds", model_type="mistral-7b", prompt_type="2")
+report.generate(puzzle_type="phrases", model_type="mistral-7b", prompt_type="1", mistral_type="nodes")
+report.generate(puzzle_type="phrases", model_type="mistral-7b", prompt_type="1", mistral_type="nodes_and_edges")
+
 
 # graph = parser.parse("punch one's hippo lion tiger above weight")
 # graph = parser.parse("cross roads")
@@ -25,8 +34,8 @@ generator = RebusImageConverterV2()
 # graph = parser.parse("for good and all")
 # graph = parser.parse("up a height")
 
-graph = parser.parse("clean up one's act")
-print(graph[0])
+# graph = parser.parse("clean up one's act")
+# print(graph[0])
 
 # generator.generate(graph[0])
 

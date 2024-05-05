@@ -11,7 +11,6 @@ def standardize_result(result):
         letter = output.split()[0][1]
         answer = " ".join(output.split()[1:])
         is_correct = {letter: answer} == result["correct"]
-        # print({letter: answer}, result["correct"])
         result["is_correct"] = is_correct
     elif re.match(r"[A-D]\)\s.+", output):
         letter = output.split()[0][0]
@@ -30,7 +29,6 @@ def standardize_result(result):
             is_correct = {letter: output} == result["correct"]
             result["is_correct"] = is_correct
         else:
-            # print(output, result["options"], result["correct"])
             result["is_correct"] = False
 
 
