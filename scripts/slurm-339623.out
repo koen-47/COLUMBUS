@@ -1,9 +1,0 @@
-Running experiment... (model: instruct-blip)
-Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:06<00:19,  6.35s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:11<00:11,  5.70s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:16<00:05,  5.32s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:17<00:00,  3.68s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:17<00:00,  4.41s/it]
-/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:497: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
-  warnings.warn(
-Starting experiment: InstructBLIP
-Number of compounds: 625
-Number of phrases: 114
-Results save directory: /var/scratch/hkd800/scripts/results
-The unusual aspect of this image is that a man is ironing clothes on the back of a yellow SUV, which is parked in the middle of a busy city street. This is an unconventional approach to ironing clothes, as it requires the man to balance himself and his ironing equipment on top of the vehicle while navigating through traffic. Additionally, the presence of taxis and other vehicles in the scene further emphasizes the unusual nature of this situation.

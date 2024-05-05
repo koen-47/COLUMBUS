@@ -1,0 +1,1609 @@
+{
+   "metadata": {
+      "experiment": "InstructBLIP",
+      "includes_description": true,
+      "prompt_template": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) {} (B) {} (C) {} (D) {}. Short answer:",
+      "n_compounds": 621,
+      "n_phrases": 114,
+      "save_dir": "/var/scratch/hkd800/scripts/results/prompt_2",
+      "models_dir": "/var/scratch/hkd800/scripts/models/downloads"
+   },
+   "results": [
+      {
+         "options": {
+            "A": "all in all",
+            "B": "at all",
+            "C": "one and all",
+            "D": "after all"
+         },
+         "correct": {
+            "A": "all in all"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/all_in_all.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) all in all (B) at all (C) one and all (D) after all. Short answer:",
+         "output": "(A) all in all"
+      },
+      {
+         "options": {
+            "A": "arm in arm",
+            "B": "arm up",
+            "C": "long arm",
+            "D": "twist arm"
+         },
+         "correct": {
+            "A": "arm in arm"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/arm_in_arm.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) arm in arm (B) arm up (C) long arm (D) twist arm. Short answer:",
+         "output": "(A) arm in arm"
+      },
+      {
+         "options": {
+            "A": "warm body",
+            "B": "arrive in a body",
+            "C": "arrive at",
+            "D": "move one's body"
+         },
+         "correct": {
+            "B": "arrive in a body"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/arrive_in_a_body.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) warm body (B) arrive in a body (C) arrive at (D) move one's body. Short answer:",
+         "output": "(D) move one's body"
+      },
+      {
+         "options": {
+            "A": "in hand",
+            "B": "on hand",
+            "C": "a bird in the hand",
+            "D": "hand in hand"
+         },
+         "correct": {
+            "C": "a bird in the hand"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/a_bird_in_the_hand.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) in hand (B) on hand (C) a bird in the hand (D) hand in hand. Short answer:",
+         "output": "(C) a bird in the hand"
+      },
+      {
+         "options": {
+            "A": "in the dark",
+            "B": "stab in the dark",
+            "C": "whistle in the dark",
+            "D": "a shot in the dark"
+         },
+         "correct": {
+            "D": "a shot in the dark"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/a_shot_in_the_dark.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) in the dark (B) stab in the dark (C) whistle in the dark (D) a shot in the dark. Short answer:",
+         "output": "(D) a shot in the dark"
+      },
+      {
+         "options": {
+            "A": "babe in arms",
+            "B": "babe magnet",
+            "C": "up in arms",
+            "D": "babe in the woods"
+         },
+         "correct": {
+            "A": "babe in arms"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/babe_in_arms.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) babe in arms (B) babe magnet (C) up in arms (D) babe in the woods. Short answer:",
+         "output": "(D) babe in the woods"
+      },
+      {
+         "options": {
+            "A": "a sight for sore eyes",
+            "B": "snake eyes",
+            "C": "babies in the eyes",
+            "D": "bat one's eyes"
+         },
+         "correct": {
+            "C": "babies in the eyes"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/babies_in_the_eyes.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) a sight for sore eyes (B) snake eyes (C) babies in the eyes (D) bat one's eyes. Short answer:",
+         "output": "(D) bat one's eyes"
+      },
+      {
+         "options": {
+            "A": "spring to mind",
+            "B": "put someone in mind of",
+            "C": "bear in mind",
+            "D": "have in mind"
+         },
+         "correct": {
+            "C": "bear in mind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bear_in_mind.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) spring to mind (B) put someone in mind of (C) bear in mind (D) have in mind. Short answer:",
+         "output": "(D) have in mind"
+      },
+      {
+         "options": {
+            "A": "blast out",
+            "B": "put the bee on",
+            "C": "queen bee",
+            "D": "bee in bonnet"
+         },
+         "correct": {
+            "D": "bee in bonnet"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bee_in_bonnet.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) blast out (B) put the bee on (C) queen bee (D) bee in bonnet. Short answer:",
+         "output": "(D) bee in bonnet"
+      },
+      {
+         "options": {
+            "A": "play for love",
+            "B": "labor of love",
+            "C": "fall in love",
+            "D": "being in love"
+         },
+         "correct": {
+            "D": "being in love"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/being_in_love.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) play for love (B) labor of love (C) fall in love (D) being in love. Short answer:",
+         "output": "(D) being in love"
+      },
+      {
+         "options": {
+            "A": "push one's luck",
+            "B": "be in luck",
+            "C": "out of luck",
+            "D": "ride one's luck"
+         },
+         "correct": {
+            "B": "be in luck"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/be_in_luck.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) push one's luck (B) be in luck (C) out of luck (D) ride one's luck. Short answer:",
+         "output": "(D) ride one's luck"
+      },
+      {
+         "options": {
+            "A": "bone in the throat",
+            "B": "bone-idle",
+            "C": "bone-shaking",
+            "D": "bone in her teeth"
+         },
+         "correct": {
+            "A": "bone in the throat"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bone_in_the_throat.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) bone in the throat (B) bone-idle (C) bone-shaking (D) bone in her teeth. Short answer:",
+         "output": "(A) bone in the throat"
+      },
+      {
+         "options": {
+            "A": "born in a barn",
+            "B": "pony in the barn",
+            "C": "born and bred",
+            "D": "born yesterday"
+         },
+         "correct": {
+            "A": "born in a barn"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/born_in_a_barn.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) born in a barn (B) pony in the barn (C) born and bred (D) born yesterday. Short answer:",
+         "output": "(C) born and bred"
+      },
+      {
+         "options": {
+            "A": "rock the boat",
+            "B": "row in the same boat",
+            "C": "in the same boat",
+            "D": "boy in the boat"
+         },
+         "correct": {
+            "D": "boy in the boat"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/boy_in_the_boat.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) rock the boat (B) row in the same boat (C) in the same boat (D) boy in the boat. Short answer:",
+         "output": "(C) in the same boat"
+      },
+      {
+         "options": {
+            "A": "to the bone",
+            "B": "breed in the bone",
+            "C": "bred-in-the-bone",
+            "D": "bone-dry"
+         },
+         "correct": {
+            "B": "breed in the bone"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/breed_in_the_bone.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) to the bone (B) breed in the bone (C) bred-in-the-bone (D) bone-dry. Short answer:",
+         "output": "(C) bred-in-the-bone"
+      },
+      {
+         "options": {
+            "A": "bring up",
+            "B": "rid out",
+            "C": "rough out",
+            "D": "bring out in a rash"
+         },
+         "correct": {
+            "D": "bring out in a rash"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bring_out_in_a_rash.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) bring up (B) rid out (C) rough out (D) bring out in a rash. Short answer:",
+         "output": "(D) bring out in a rash"
+      },
+      {
+         "options": {
+            "A": "broad-brush",
+            "B": "broad in the beam",
+            "C": "broad shoulders",
+            "D": "broad-beamed"
+         },
+         "correct": {
+            "B": "broad in the beam"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/broad_in_the_beam.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) broad-brush (B) broad in the beam (C) broad shoulders (D) broad-beamed. Short answer:",
+         "output": "(D) broad-beamed"
+      },
+      {
+         "options": {
+            "A": "bump up",
+            "B": "bump in the road",
+            "C": "bump into",
+            "D": "bump and grind"
+         },
+         "correct": {
+            "B": "bump in the road"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bump_in_the_road.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) bump up (B) bump in the road (C) bump into (D) bump and grind. Short answer:",
+         "output": "(A) bump up"
+      },
+      {
+         "options": {
+            "A": "bun in the oven",
+            "B": "in a bake",
+            "C": "bun fight",
+            "D": "in the can"
+         },
+         "correct": {
+            "A": "bun in the oven"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bun_in_the_oven.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) bun in the oven (B) in a bake (C) bun fight (D) in the can. Short answer:",
+         "output": "(A) bun in the oven"
+      },
+      {
+         "options": {
+            "A": "bury head in the sand",
+            "B": "bury the lead",
+            "C": "in one's head",
+            "D": "stick one's head in the sand"
+         },
+         "correct": {
+            "A": "bury head in the sand"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bury_head_in_the_sand.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) bury head in the sand (B) bury the lead (C) in one's head (D) stick one's head in the sand. Short answer:",
+         "output": "(D) stick one's head in the sand"
+      },
+      {
+         "options": {
+            "A": "whistle in the wind",
+            "B": "willow in the wind",
+            "C": "candle in the wind",
+            "D": "spit in the wind"
+         },
+         "correct": {
+            "C": "candle in the wind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/candle_in_the_wind.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) whistle in the wind (B) willow in the wind (C) candle in the wind (D) spit in the wind. Short answer:",
+         "output": "(C) candle in the wind"
+      },
+      {
+         "options": {
+            "A": "bust a cap",
+            "B": "cap in hand",
+            "C": "hand in hand",
+            "D": "in hand"
+         },
+         "correct": {
+            "B": "cap in hand"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/cap_in_hand.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) bust a cap (B) cap in hand (C) hand in hand (D) in hand. Short answer:",
+         "output": "(A) bust a cap"
+      },
+      {
+         "options": {
+            "A": "get the sack",
+            "B": "cat in the sack",
+            "C": "give the sack",
+            "D": "in the sack"
+         },
+         "correct": {
+            "B": "cat in the sack"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/cat_in_the_sack.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) get the sack (B) cat in the sack (C) give the sack (D) in the sack. Short answer:",
+         "output": "(D) in the sack"
+      },
+      {
+         "options": {
+            "A": "check is in the mail",
+            "B": "carry the mail",
+            "C": "check through",
+            "D": "mail it in"
+         },
+         "correct": {
+            "A": "check is in the mail"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/check_is_in_the_mail.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) check is in the mail (B) carry the mail (C) check through (D) mail it in. Short answer:",
+         "output": "(D) mail it in"
+      },
+      {
+         "options": {
+            "A": "chirk up",
+            "B": "chink in the armour",
+            "C": "ink in",
+            "D": "knight in shining armour"
+         },
+         "correct": {
+            "B": "chink in the armour"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/chink_in_the_armour.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) chirk up (B) chink in the armour (C) ink in (D) knight in shining armour. Short answer:",
+         "output": "(B) chink in the armour"
+      },
+      {
+         "options": {
+            "A": "fox in the henhouse",
+            "B": "cock of the roost",
+            "C": "in a hen's hiney",
+            "D": "cock in the henhouse"
+         },
+         "correct": {
+            "D": "cock in the henhouse"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/cock_in_the_henhouse.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) fox in the henhouse (B) cock of the roost (C) in a hen's hiney (D) cock in the henhouse. Short answer:",
+         "output": "(D) cock in the henhouse"
+      },
+      {
+         "options": {
+            "A": "day out",
+            "B": "rot in hell",
+            "C": "cold day in Hell",
+            "D": "to hell"
+         },
+         "correct": {
+            "C": "cold day in Hell"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/cold_day_in_Hell.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) day out (B) rot in hell (C) cold day in Hell (D) to hell. Short answer:",
+         "output": "(D) to hell"
+      },
+      {
+         "options": {
+            "A": "out cold",
+            "B": "come in from the cold",
+            "C": "catch a cold",
+            "D": "left out in the cold"
+         },
+         "correct": {
+            "B": "come in from the cold"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/come_in_from_the_cold.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) out cold (B) come in from the cold (C) catch a cold (D) left out in the cold. Short answer:",
+         "output": "(B) come in from the cold"
+      },
+      {
+         "options": {
+            "A": "come out of the broom closet",
+            "B": "wash out",
+            "C": "come out in the wash",
+            "D": "come out"
+         },
+         "correct": {
+            "C": "come out in the wash"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/come_out_in_the_wash.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) come out of the broom closet (B) wash out (C) come out in the wash (D) come out. Short answer:",
+         "output": "(A) come out of the broom closet"
+      },
+      {
+         "options": {
+            "A": "dog-tired",
+            "B": "dog eat dog",
+            "C": "dog in the hunt",
+            "D": "dog in the manger"
+         },
+         "correct": {
+            "C": "dog in the hunt"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/dog_in_the_hunt.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) dog-tired (B) dog eat dog (C) dog in the hunt (D) dog in the manger. Short answer:",
+         "output": "(D) dog in the manger"
+      },
+      {
+         "options": {
+            "A": "wag the dog",
+            "B": "dog's life",
+            "C": "dog in the manger",
+            "D": "dog in the hunt"
+         },
+         "correct": {
+            "C": "dog in the manger"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/dog_in_the_manger.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) wag the dog (B) dog's life (C) dog in the manger (D) dog in the hunt. Short answer:",
+         "output": "(A) wag the dog"
+      },
+      {
+         "options": {
+            "A": "drool bucket",
+            "B": "drop in the bucket",
+            "C": "drop in",
+            "D": "light bucket"
+         },
+         "correct": {
+            "B": "drop in the bucket"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/drop_in_the_bucket.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) drool bucket (B) drop in the bucket (C) drop in (D) light bucket. Short answer:",
+         "output": "(B) drop in the bucket"
+      },
+      {
+         "options": {
+            "A": "drop in the pond",
+            "B": "drop in the ocean",
+            "C": "drop in the sea",
+            "D": "drop in the bucket"
+         },
+         "correct": {
+            "A": "drop in the pond"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/drop_in_the_pond.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) drop in the pond (B) drop in the ocean (C) drop in the sea (D) drop in the bucket. Short answer:",
+         "output": "(D) drop in the bucket"
+      },
+      {
+         "options": {
+            "A": "drop in the pond",
+            "B": "drop in the ocean",
+            "C": "drop in",
+            "D": "drop in the sea"
+         },
+         "correct": {
+            "D": "drop in the sea"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/drop_in_the_sea.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) drop in the pond (B) drop in the ocean (C) drop in (D) drop in the sea. Short answer:",
+         "output": "(D) drop in the sea"
+      },
+      {
+         "options": {
+            "A": "wrap in cotton wool",
+            "B": "pull the wool over eyes",
+            "C": "dyed in the wool",
+            "D": "spin a yarn"
+         },
+         "correct": {
+            "C": "dyed in the wool"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/dyed_in_the_wool.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) wrap in cotton wool (B) pull the wool over eyes (C) dyed in the wool (D) spin a yarn. Short answer:",
+         "output": "(D) spin a yarn"
+      },
+      {
+         "options": {
+            "A": "elephant in the room",
+            "B": "work the room",
+            "C": "gorilla in the room",
+            "D": "white elephant"
+         },
+         "correct": {
+            "A": "elephant in the room"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/elephant_in_the_room.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) elephant in the room (B) work the room (C) gorilla in the room (D) white elephant. Short answer:",
+         "output": "(D) white elephant"
+      },
+      {
+         "options": {
+            "A": "fall in line",
+            "B": "cross the line",
+            "C": "end of the line",
+            "D": "out of line"
+         },
+         "correct": {
+            "A": "fall in line"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/fall_in_line.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) fall in line (B) cross the line (C) end of the line (D) out of line. Short answer:",
+         "output": "(A) fall in line"
+      },
+      {
+         "options": {
+            "A": "being in love",
+            "B": "fall out",
+            "C": "labor of love",
+            "D": "fall in love"
+         },
+         "correct": {
+            "D": "fall in love"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/fall_in_love.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) being in love (B) fall out (C) labor of love (D) fall in love. Short answer:",
+         "output": "(D) fall in love"
+      },
+      {
+         "options": {
+            "A": "humble pie",
+            "B": "piece of the pie",
+            "C": "apple pie order",
+            "D": "finger in the pie"
+         },
+         "correct": {
+            "D": "finger in the pie"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/finger_in_the_pie.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) humble pie (B) piece of the pie (C) apple pie order (D) finger in the pie. Short answer:",
+         "output": "(D) finger in the pie"
+      },
+      {
+         "options": {
+            "A": "flash back",
+            "B": "in a flash",
+            "C": "go down the pan",
+            "D": "flash in the pan"
+         },
+         "correct": {
+            "D": "flash in the pan"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/flash_in_the_pan.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) flash back (B) in a flash (C) go down the pan (D) flash in the pan. Short answer:",
+         "output": "(D) flash in the pan"
+      },
+      {
+         "options": {
+            "A": "fly in the ointment",
+            "B": "fly by",
+            "C": "fly in the face of",
+            "D": "fly off"
+         },
+         "correct": {
+            "C": "fly in the face of"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/fly_in_the_face_of.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) fly in the ointment (B) fly by (C) fly in the face of (D) fly off. Short answer:",
+         "output": "(A) fly in the ointment"
+      },
+      {
+         "options": {
+            "A": "fly by",
+            "B": "fly in the ointment",
+            "C": "fly in the face of",
+            "D": "fly blind"
+         },
+         "correct": {
+            "B": "fly in the ointment"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/fly_in_the_ointment.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) fly by (B) fly in the ointment (C) fly in the face of (D) fly blind. Short answer:",
+         "output": "(B) fly in the ointment"
+      },
+      {
+         "options": {
+            "A": "show the door",
+            "B": "foot in the door",
+            "C": "get the door",
+            "D": "back door"
+         },
+         "correct": {
+            "B": "foot in the door"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/foot_in_the_door.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) show the door (B) foot in the door (C) get the door (D) back door. Short answer:",
+         "output": "(D) back door"
+      },
+      {
+         "options": {
+            "A": "mother hen",
+            "B": "in a hen's hiney",
+            "C": "fox sleep",
+            "D": "fox in the henhouse"
+         },
+         "correct": {
+            "D": "fox in the henhouse"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/fox_in_the_henhouse.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) mother hen (B) in a hen's hiney (C) fox sleep (D) fox in the henhouse. Short answer:",
+         "output": "(D) fox in the henhouse"
+      },
+      {
+         "options": {
+            "A": "rock the boat",
+            "B": "row in the same boat",
+            "C": "push the boat out",
+            "D": "get in the boat and row"
+         },
+         "correct": {
+            "D": "get in the boat and row"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/get_in_the_boat_and_row.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) rock the boat (B) row in the same boat (C) push the boat out (D) get in the boat and row. Short answer:",
+         "output": "(D) get in the boat and row"
+      },
+      {
+         "options": {
+            "A": "into detail",
+            "B": "the devil is in the detail",
+            "C": "God is in the detail",
+            "D": "in detail"
+         },
+         "correct": {
+            "C": "God is in the detail"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/God_is_in_the_detail.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) into detail (B) the devil is in the detail (C) God is in the detail (D) in detail. Short answer:",
+         "output": "(D) in detail"
+      },
+      {
+         "options": {
+            "A": "get a room",
+            "B": "work the room",
+            "C": "rubber room",
+            "D": "gorilla in the room"
+         },
+         "correct": {
+            "D": "gorilla in the room"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/gorilla_in_the_room.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) get a room (B) work the room (C) rubber room (D) gorilla in the room. Short answer:",
+         "output": "(D) gorilla in the room"
+      },
+      {
+         "options": {
+            "A": "flash back",
+            "B": "roll back the years",
+            "C": "go back in time",
+            "D": "way back when"
+         },
+         "correct": {
+            "C": "go back in time"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_back_in_time.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) flash back (B) roll back the years (C) go back in time (D) way back when. Short answer:",
+         "output": "(D) way back when"
+      },
+      {
+         "options": {
+            "A": "fan the flames",
+            "B": "go down in flames",
+            "C": "go up in smoke",
+            "D": "go up in flames"
+         },
+         "correct": {
+            "B": "go down in flames"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_down_in_flames.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) fan the flames (B) go down in flames (C) go up in smoke (D) go up in flames. Short answer:",
+         "output": "(D) go up in flames"
+      },
+      {
+         "options": {
+            "A": "leave the door open",
+            "B": "go in the out door",
+            "C": "get the door",
+            "D": "show the door"
+         },
+         "correct": {
+            "B": "go in the out door"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_in_the_out_door.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) leave the door open (B) go in the out door (C) get the door (D) show the door. Short answer:",
+         "output": "(D) show the door"
+      },
+      {
+         "options": {
+            "A": "go in with",
+            "B": "go with",
+            "C": "go along with",
+            "D": "go out with"
+         },
+         "correct": {
+            "A": "go in with"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_in_with.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) go in with (B) go with (C) go along with (D) go out with. Short answer:",
+         "output": "(A) go in with"
+      },
+      {
+         "options": {
+            "A": "jump salty",
+            "B": "jump out",
+            "C": "jump on",
+            "D": "go jump in the lake"
+         },
+         "correct": {
+            "D": "go jump in the lake"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_jump_in_the_lake.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) jump salty (B) jump out (C) jump on (D) go jump in the lake. Short answer:",
+         "output": "(D) go jump in the lake"
+      },
+      {
+         "options": {
+            "A": "go up in smoke",
+            "B": "fan the flames",
+            "C": "go up in flames",
+            "D": "go down in flames"
+         },
+         "correct": {
+            "C": "go up in flames"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_up_in_flames.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) go up in smoke (B) fan the flames (C) go up in flames (D) go down in flames. Short answer:",
+         "output": "(D) go down in flames"
+      },
+      {
+         "options": {
+            "A": "in hand",
+            "B": "on hand",
+            "C": "hand in hand",
+            "D": "hand over hand"
+         },
+         "correct": {
+            "C": "hand in hand"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/hand_in_hand.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) in hand (B) on hand (C) hand in hand (D) hand over hand. Short answer:",
+         "output": "(C) hand in hand"
+      },
+      {
+         "options": {
+            "A": "hat in hand",
+            "B": "in hand",
+            "C": "hand in hand",
+            "D": "on hand"
+         },
+         "correct": {
+            "A": "hat in hand"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/hat_in_hand.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) hat in hand (B) in hand (C) hand in hand (D) on hand. Short answer:",
+         "output": "(D) on hand"
+      },
+      {
+         "options": {
+            "A": "have in mind",
+            "B": "spring to mind",
+            "C": "put someone in mind of",
+            "D": "bear in mind"
+         },
+         "correct": {
+            "A": "have in mind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/have_in_mind.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) have in mind (B) spring to mind (C) put someone in mind of (D) bear in mind. Short answer:",
+         "output": "(D) bear in mind"
+      },
+      {
+         "options": {
+            "A": "head in the clouds",
+            "B": "head above water",
+            "C": "headwind",
+            "D": "under a cloud"
+         },
+         "correct": {
+            "A": "head in the clouds"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/head_in_the_clouds.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) head in the clouds (B) head above water (C) headwind (D) under a cloud. Short answer:",
+         "output": "(A) head in the clouds"
+      },
+      {
+         "options": {
+            "A": "in the hole",
+            "B": "dig oneself in a hole",
+            "C": "one on one",
+            "D": "hole in one"
+         },
+         "correct": {
+            "D": "hole in one"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/hole_in_one.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) in the hole (B) dig oneself in a hole (C) one on one (D) hole in one. Short answer:",
+         "output": "(D) hole in one"
+      },
+      {
+         "options": {
+            "A": "badge of honor",
+            "B": "under erasure",
+            "C": "honorable mention",
+            "D": "honor in the breach"
+         },
+         "correct": {
+            "D": "honor in the breach"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/honor_in_the_breach.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) badge of honor (B) under erasure (C) honorable mention (D) honor in the breach. Short answer:",
+         "output": "(D) honor in the breach"
+      },
+      {
+         "options": {
+            "A": "irons in the fire",
+            "B": "on fire",
+            "C": "tire fire",
+            "D": "line of fire"
+         },
+         "correct": {
+            "A": "irons in the fire"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/irons_in_the_fire.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) irons in the fire (B) on fire (C) tire fire (D) line of fire. Short answer:",
+         "output": "(D) line of fire"
+      },
+      {
+         "options": {
+            "A": "just a second",
+            "B": "just deserts",
+            "C": "just in case",
+            "D": "in order"
+         },
+         "correct": {
+            "C": "just in case"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/just_in_case.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) just a second (B) just deserts (C) just in case (D) in order. Short answer:",
+         "output": "(D) in order"
+      },
+      {
+         "options": {
+            "A": "left out in the cold",
+            "B": "come in from the cold",
+            "C": "out cold",
+            "D": "catch a cold"
+         },
+         "correct": {
+            "A": "left out in the cold"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/left_out_in_the_cold.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) left out in the cold (B) come in from the cold (C) out cold (D) catch a cold. Short answer:",
+         "output": "(D) catch a cold"
+      },
+      {
+         "options": {
+            "A": "rope of sand",
+            "B": "in line",
+            "C": "pound sand",
+            "D": "line in the sand"
+         },
+         "correct": {
+            "D": "line in the sand"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/line_in_the_sand.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) rope of sand (B) in line (C) pound sand (D) line in the sand. Short answer:",
+         "output": "(D) line in the sand"
+      },
+      {
+         "options": {
+            "A": "live and breathe",
+            "B": "live in sin",
+            "C": "live and let live",
+            "D": "live on"
+         },
+         "correct": {
+            "B": "live in sin"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/live_in_sin.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) live and breathe (B) live in sin (C) live and let live (D) live on. Short answer:",
+         "output": "(B) live in sin"
+      },
+      {
+         "options": {
+            "A": "live in the shadow of",
+            "B": "live on",
+            "C": "live in the past",
+            "D": "blast from the past"
+         },
+         "correct": {
+            "C": "live in the past"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/live_in_the_past.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) live in the shadow of (B) live on (C) live in the past (D) blast from the past. Short answer:",
+         "output": "(D) blast from the past"
+      },
+      {
+         "options": {
+            "A": "live on the edge",
+            "B": "live in the past",
+            "C": "cast a shadow",
+            "D": "live in the shadow of"
+         },
+         "correct": {
+            "D": "live in the shadow of"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/live_in_the_shadow_of.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) live on the edge (B) live in the past (C) cast a shadow (D) live in the shadow of. Short answer:",
+         "output": "(D) live in the shadow of"
+      },
+      {
+         "options": {
+            "A": "on the street",
+            "B": "up someone's street",
+            "C": "man on the street",
+            "D": "man in the street"
+         },
+         "correct": {
+            "D": "man in the street"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/man_in_the_street.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) on the street (B) up someone's street (C) man on the street (D) man in the street. Short answer:",
+         "output": "(D) man in the street"
+      },
+      {
+         "options": {
+            "A": "tooth-and-nail",
+            "B": "nail down",
+            "C": "nail in the coffin",
+            "D": "nail biter"
+         },
+         "correct": {
+            "C": "nail in the coffin"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/nail_in_the_coffin.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) tooth-and-nail (B) nail down (C) nail in the coffin (D) nail biter. Short answer:",
+         "output": "(A) tooth-and-nail"
+      },
+      {
+         "options": {
+            "A": "nip at",
+            "B": "nip in the bud",
+            "C": "in the nip",
+            "D": "nip and tuck"
+         },
+         "correct": {
+            "B": "nip in the bud"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/nip_in_the_bud.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) nip at (B) nip in the bud (C) in the nip (D) nip and tuck. Short answer:",
+         "output": "(B) nip in the bud"
+      },
+      {
+         "options": {
+            "A": "neck and neck",
+            "B": "pain in the neck",
+            "C": "yoke around one's neck",
+            "D": "brass neck"
+         },
+         "correct": {
+            "B": "pain in the neck"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/pain_in_the_neck.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) neck and neck (B) pain in the neck (C) yoke around one's neck (D) brass neck. Short answer:",
+         "output": "(D) brass neck"
+      },
+      {
+         "options": {
+            "A": "reach for the sky",
+            "B": "finger in the pie",
+            "C": "piece of the pie",
+            "D": "pie in the sky"
+         },
+         "correct": {
+            "D": "pie in the sky"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/pie_in_the_sky.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) reach for the sky (B) finger in the pie (C) piece of the pie (D) pie in the sky. Short answer:",
+         "output": "(D) pie in the sky"
+      },
+      {
+         "options": {
+            "A": "pull one's pud",
+            "B": "pig in a poke",
+            "C": "in a pig's patoot",
+            "D": "pitch in"
+         },
+         "correct": {
+            "B": "pig in a poke"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/pig_in_a_poke.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) pull one's pud (B) pig in a poke (C) in a pig's patoot (D) pitch in. Short answer:",
+         "output": "(B) pig in a poke"
+      },
+      {
+         "options": {
+            "A": "pill in the pocket",
+            "B": "on the pill",
+            "C": "pocket-sized",
+            "D": "chill pill"
+         },
+         "correct": {
+            "A": "pill in the pocket"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/pill_in_the_pocket.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) pill in the pocket (B) on the pill (C) pocket-sized (D) chill pill. Short answer:",
+         "output": "(D) chill pill"
+      },
+      {
+         "options": {
+            "A": "run of play",
+            "B": "play in Peoria",
+            "C": "play to the gallery",
+            "D": "play along"
+         },
+         "correct": {
+            "B": "play in Peoria"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/play_in_Peoria.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) run of play (B) play in Peoria (C) play to the gallery (D) play along. Short answer:",
+         "output": "(D) play along"
+      },
+      {
+         "options": {
+            "A": "set in motion",
+            "B": "poetry in motion",
+            "C": "poison pen",
+            "D": "Brownian motion"
+         },
+         "correct": {
+            "B": "poetry in motion"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/poetry_in_motion.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) set in motion (B) poetry in motion (C) poison pen (D) Brownian motion. Short answer:",
+         "output": "(B) poetry in motion"
+      },
+      {
+         "options": {
+            "A": "fox in the henhouse",
+            "B": "smell the barn",
+            "C": "born in a barn",
+            "D": "pony in the barn"
+         },
+         "correct": {
+            "D": "pony in the barn"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/pony_in_the_barn.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) fox in the henhouse (B) smell the barn (C) born in a barn (D) pony in the barn. Short answer:",
+         "output": "(D) pony in the barn"
+      },
+      {
+         "options": {
+            "A": "pull one's socks up",
+            "B": "put your foot in it",
+            "C": "put one's foot in it",
+            "D": "put a sock in it"
+         },
+         "correct": {
+            "D": "put a sock in it"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/put_a_sock_in_it.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) pull one's socks up (B) put your foot in it (C) put one's foot in it (D) put a sock in it. Short answer:",
+         "output": "(D) put a sock in it"
+      },
+      {
+         "options": {
+            "A": "put in pledge",
+            "B": "put in with",
+            "C": "put into practice",
+            "D": "sign in"
+         },
+         "correct": {
+            "A": "put in pledge"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/put_in_pledge.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) put in pledge (B) put in with (C) put into practice (D) sign in. Short answer:",
+         "output": "(A) put in pledge"
+      },
+      {
+         "options": {
+            "A": "put in the ground",
+            "B": "soften the ground",
+            "C": "ear to the ground",
+            "D": "lose ground"
+         },
+         "correct": {
+            "A": "put in the ground"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/put_in_the_ground.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) put in the ground (B) soften the ground (C) ear to the ground (D) lose ground. Short answer:",
+         "output": "(D) lose ground"
+      },
+      {
+         "options": {
+            "A": "put up with",
+            "B": "put in with",
+            "C": "put down",
+            "D": "put out"
+         },
+         "correct": {
+            "B": "put in with"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/put_in_with.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) put up with (B) put in with (C) put down (D) put out. Short answer:",
+         "output": "(D) put out"
+      },
+      {
+         "options": {
+            "A": "rod in pickle",
+            "B": "tickle someone's pickle",
+            "C": "bone to pick",
+            "D": "in a pickle"
+         },
+         "correct": {
+            "A": "rod in pickle"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/rod_in_pickle.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) rod in pickle (B) tickle someone's pickle (C) bone to pick (D) in a pickle. Short answer:",
+         "output": "(D) in a pickle"
+      },
+      {
+         "options": {
+            "A": "get amongst it",
+            "B": "rolling stone",
+            "C": "rolling in it",
+            "D": "push it"
+         },
+         "correct": {
+            "C": "rolling in it"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/rolling_in_it.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) get amongst it (B) rolling stone (C) rolling in it (D) push it. Short answer:",
+         "output": "(D) push it"
+      },
+      {
+         "options": {
+            "A": "roll the pitch",
+            "B": "call roll",
+            "C": "roll in the aisles",
+            "D": "on a roll"
+         },
+         "correct": {
+            "C": "roll in the aisles"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/roll_in_the_aisles.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) roll the pitch (B) call roll (C) roll in the aisles (D) on a roll. Short answer:",
+         "output": "(C) roll in the aisles"
+      },
+      {
+         "options": {
+            "A": "embarrassment of riches",
+            "B": "rags to riches",
+            "C": "roll in wealth",
+            "D": "spend a fortune"
+         },
+         "correct": {
+            "C": "roll in wealth"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/roll_in_wealth.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) embarrassment of riches (B) rags to riches (C) roll in wealth (D) spend a fortune. Short answer:",
+         "output": "(D) spend a fortune"
+      },
+      {
+         "options": {
+            "A": "give hell",
+            "B": "rot in hell",
+            "C": "to hell",
+            "D": "raise hell"
+         },
+         "correct": {
+            "B": "rot in hell"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/rot_in_hell.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) give hell (B) rot in hell (C) to hell (D) raise hell. Short answer:",
+         "output": "(D) raise hell"
+      },
+      {
+         "options": {
+            "A": "row in the same boat",
+            "B": "get in the boat and row",
+            "C": "in the same boat",
+            "D": "in a row"
+         },
+         "correct": {
+            "A": "row in the same boat"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/row_in_the_same_boat.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) row in the same boat (B) get in the boat and row (C) in the same boat (D) in a row. Short answer:",
+         "output": "(C) in the same boat"
+      },
+      {
+         "options": {
+            "A": "run in the family",
+            "B": "keep it in the family",
+            "C": "run on",
+            "D": "run with"
+         },
+         "correct": {
+            "A": "run in the family"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/run_in_the_family.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) run in the family (B) keep it in the family (C) run on (D) run with. Short answer:",
+         "output": "(A) run in the family"
+      },
+      {
+         "options": {
+            "A": "set in ways",
+            "B": "set straight",
+            "C": "set the wheels in motion",
+            "D": "set in motion"
+         },
+         "correct": {
+            "D": "set in motion"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/set_in_motion.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) set in ways (B) set straight (C) set the wheels in motion (D) set in motion. Short answer:",
+         "output": "(D) set in motion"
+      },
+      {
+         "options": {
+            "A": "set in stone",
+            "B": "heart of stone",
+            "C": "carved in stone",
+            "D": "set in ways"
+         },
+         "correct": {
+            "A": "set in stone"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/set_in_stone.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) set in stone (B) heart of stone (C) carved in stone (D) set in ways. Short answer:",
+         "output": "(A) set in stone"
+      },
+      {
+         "options": {
+            "A": "set in one's ways",
+            "B": "set in ways",
+            "C": "set in stone",
+            "D": "set in motion"
+         },
+         "correct": {
+            "B": "set in ways"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/set_in_ways.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) set in one's ways (B) set in ways (C) set in stone (D) set in motion. Short answer:",
+         "output": "(D) set in motion"
+      },
+      {
+         "options": {
+            "A": "shot in the dark",
+            "B": "arm in arm",
+            "C": "shot in the arm",
+            "D": "twist arm"
+         },
+         "correct": {
+            "C": "shot in the arm"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/shot_in_the_arm.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) shot in the dark (B) arm in arm (C) shot in the arm (D) twist arm. Short answer:",
+         "output": "(C) shot in the arm"
+      },
+      {
+         "options": {
+            "A": "shot in the dark",
+            "B": "shot in the arm",
+            "C": "stab in the dark",
+            "D": "in the dark"
+         },
+         "correct": {
+            "A": "shot in the dark"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/shot_in_the_dark.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) shot in the dark (B) shot in the arm (C) stab in the dark (D) in the dark. Short answer:",
+         "output": "(D) in the dark"
+      },
+      {
+         "options": {
+            "A": "skin in the game",
+            "B": "thick skin",
+            "C": "on the game",
+            "D": "in the game"
+         },
+         "correct": {
+            "A": "skin in the game"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/skin_in_the_game.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) skin in the game (B) thick skin (C) on the game (D) in the game. Short answer:",
+         "output": "(D) in the game"
+      },
+      {
+         "options": {
+            "A": "spit on",
+            "B": "spit in the wind",
+            "C": "in the wind",
+            "D": "twist in the wind"
+         },
+         "correct": {
+            "B": "spit in the wind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/spit_in_the_wind.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) spit on (B) spit in the wind (C) in the wind (D) twist in the wind. Short answer:",
+         "output": "(D) twist in the wind"
+      },
+      {
+         "options": {
+            "A": "stab in the back",
+            "B": "shot in the dark",
+            "C": "stab in the dark",
+            "D": "have a stab"
+         },
+         "correct": {
+            "C": "stab in the dark"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/stab_in_the_dark.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) stab in the back (B) shot in the dark (C) stab in the dark (D) have a stab. Short answer:",
+         "output": "(D) have a stab"
+      },
+      {
+         "options": {
+            "A": "stand in for",
+            "B": "bridge the gap",
+            "C": "stand behind",
+            "D": "stand in the gap"
+         },
+         "correct": {
+            "D": "stand in the gap"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/stand_in_the_gap.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) stand in for (B) bridge the gap (C) stand behind (D) stand in the gap. Short answer:",
+         "output": "(D) stand in the gap"
+      },
+      {
+         "options": {
+            "A": "stand in the gate",
+            "B": "stand by",
+            "C": "out of the gate",
+            "D": "break gates"
+         },
+         "correct": {
+            "A": "stand in the gate"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/stand_in_the_gate.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) stand in the gate (B) stand by (C) out of the gate (D) break gates. Short answer:",
+         "output": "(D) break gates"
+      },
+      {
+         "options": {
+            "A": "drag through the mud",
+            "B": "stuck in the mud",
+            "C": "stick in the mud",
+            "D": "name is mud"
+         },
+         "correct": {
+            "C": "stick in the mud"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/stick_in_the_mud.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) drag through the mud (B) stuck in the mud (C) stick in the mud (D) name is mud. Short answer:",
+         "output": "(D) name is mud"
+      },
+      {
+         "options": {
+            "A": "storm in a teacup",
+            "B": "weather the storm",
+            "C": "storm off",
+            "D": "tempest in a teapot"
+         },
+         "correct": {
+            "A": "storm in a teacup"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/storm_in_a_teacup.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) storm in a teacup (B) weather the storm (C) storm off (D) tempest in a teapot. Short answer:",
+         "output": "(A) storm in a teacup"
+      },
+      {
+         "options": {
+            "A": "stick in the mud",
+            "B": "stuck up",
+            "C": "stuck on",
+            "D": "stuck in the mud"
+         },
+         "correct": {
+            "D": "stuck in the mud"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/stuck_in_the_mud.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) stick in the mud (B) stuck up (C) stuck on (D) stuck in the mud. Short answer:",
+         "output": "(D) stuck in the mud"
+      },
+      {
+         "options": {
+            "A": "ride tall in the saddle",
+            "B": "tall in the saddle",
+            "C": "tall tale",
+            "D": "tall story"
+         },
+         "correct": {
+            "B": "tall in the saddle"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/tall_in_the_saddle.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) ride tall in the saddle (B) tall in the saddle (C) tall tale (D) tall story. Short answer:",
+         "output": "(D) tall story"
+      },
+      {
+         "options": {
+            "A": "the devil a one",
+            "B": "God is in the detail",
+            "C": "the devil",
+            "D": "the devil is in the detail"
+         },
+         "correct": {
+            "D": "the devil is in the detail"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/the_devil_is_in_the_detail.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) the devil a one (B) God is in the detail (C) the devil (D) the devil is in the detail. Short answer:",
+         "output": "(D) the devil is in the detail"
+      },
+      {
+         "options": {
+            "A": "throw in at the deep end",
+            "B": "throw in with",
+            "C": "throw in",
+            "D": "throw out"
+         },
+         "correct": {
+            "B": "throw in with"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/throw_in_with.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) throw in at the deep end (B) throw in with (C) throw in (D) throw out. Short answer:",
+         "output": "(A) throw in at the deep end"
+      },
+      {
+         "options": {
+            "A": "tie one on",
+            "B": "tie up",
+            "C": "tie in with",
+            "D": "tie in"
+         },
+         "correct": {
+            "C": "tie in with"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/tie_in_with.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) tie one on (B) tie up (C) tie in with (D) tie in. Short answer:",
+         "output": "(D) tie in"
+      },
+      {
+         "options": {
+            "A": "twist of fate",
+            "B": "twist in the wind",
+            "C": "spit in the wind",
+            "D": "in the wind"
+         },
+         "correct": {
+            "B": "twist in the wind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/twist_in_the_wind.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) twist of fate (B) twist in the wind (C) spit in the wind (D) in the wind. Short answer:",
+         "output": "(A) twist of fate"
+      },
+      {
+         "options": {
+            "A": "walk in the park",
+            "B": "park that thought",
+            "C": "walk through",
+            "D": "walk free"
+         },
+         "correct": {
+            "A": "walk in the park"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/walk_in_the_park.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) walk in the park (B) park that thought (C) walk through (D) walk free. Short answer:",
+         "output": "(A) walk in the park"
+      },
+      {
+         "options": {
+            "A": "walk in the snow",
+            "B": "walk through",
+            "C": "walk in on",
+            "D": "walk over"
+         },
+         "correct": {
+            "A": "walk in the snow"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/walk_in_the_snow.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) walk in the snow (B) walk through (C) walk in on (D) walk over. Short answer:",
+         "output": "(D) walk over"
+      },
+      {
+         "options": {
+            "A": "why in time",
+            "B": "what in time",
+            "C": "what's what",
+            "D": "what of it"
+         },
+         "correct": {
+            "B": "what in time"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/what_in_time.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) why in time (B) what in time (C) what's what (D) what of it. Short answer:",
+         "output": "(C) what's what"
+      },
+      {
+         "options": {
+            "A": "fiddle while Rome burns",
+            "B": "Rome wasn't built in a day",
+            "C": "all roads lead to Rome",
+            "D": "when in Rome"
+         },
+         "correct": {
+            "D": "when in Rome"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/when_in_Rome.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) fiddle while Rome burns (B) Rome wasn't built in a day (C) all roads lead to Rome (D) when in Rome. Short answer:",
+         "output": "(D) when in Rome"
+      },
+      {
+         "options": {
+            "A": "whistle for",
+            "B": "whistle in the dark",
+            "C": "whistle in the wind",
+            "D": "in the dark"
+         },
+         "correct": {
+            "B": "whistle in the dark"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/whistle_in_the_dark.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) whistle for (B) whistle in the dark (C) whistle in the wind (D) in the dark. Short answer:",
+         "output": "(B) whistle in the dark"
+      },
+      {
+         "options": {
+            "A": "whistle in the dark",
+            "B": "whistle walk",
+            "C": "whistle for",
+            "D": "whistle in the wind"
+         },
+         "correct": {
+            "D": "whistle in the wind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/whistle_in_the_wind.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) whistle in the dark (B) whistle walk (C) whistle for (D) whistle in the wind. Short answer:",
+         "output": "(D) whistle in the wind"
+      },
+      {
+         "options": {
+            "A": "what in time",
+            "B": "why in the world",
+            "C": "come to time",
+            "D": "why in time"
+         },
+         "correct": {
+            "D": "why in time"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/why_in_time.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) what in time (B) why in the world (C) come to time (D) why in time. Short answer:",
+         "output": "(D) why in time"
+      },
+      {
+         "options": {
+            "A": "will o' the wisp",
+            "B": "spit in the wind",
+            "C": "in the wind",
+            "D": "willow in the wind"
+         },
+         "correct": {
+            "D": "willow in the wind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/willow_in_the_wind.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) will o' the wisp (B) spit in the wind (C) in the wind (D) willow in the wind. Short answer:",
+         "output": "(D) willow in the wind"
+      },
+      {
+         "options": {
+            "A": "fly the flag",
+            "B": "red flag",
+            "C": "show the flag",
+            "D": "wrap in the flag"
+         },
+         "correct": {
+            "D": "wrap in the flag"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/wrap_in_the_flag.png",
+         "prompt": "<Image> Question: You are given a rebus puzzle. It consists of text that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? Options: (A) fly the flag (B) red flag (C) show the flag (D) wrap in the flag. Short answer:",
+         "output": "(D) wrap in the flag"
+      }
+   ]
+}

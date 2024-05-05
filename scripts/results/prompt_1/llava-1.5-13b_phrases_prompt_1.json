@@ -165,7 +165,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/phrases/bone_in_the_throat.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bone-shaking (B) bone in her teeth (C) bone-idle (D) bone in the throat\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bone-shaking (B) bone in her teeth (C) bone-idle (D) bone in the throat\nASSISTANT: B) bone in her teeth"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bone-shaking (B) bone in her teeth (C) bone-idle (D) bone in the throat\nASSISTANT: B"
    },
    {
       "options": {
@@ -221,7 +221,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/phrases/bring_out_in_a_rash.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bring out in a rash (B) rid out (C) bring up (D) rough out\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bring out in a rash (B) rid out (C) bring up (D) rough out\nASSISTANT: A) bring out in a rash"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bring out in a rash (B) rid out (C) bring up (D) rough out\nASSISTANT: A"
    },
    {
       "options": {
@@ -249,7 +249,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/phrases/bump_in_the_road.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bump and grind (B) bump in the road (C) bump into (D) bump up\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bump and grind (B) bump in the road (C) bump into (D) bump up\nASSISTANT: Bump in the road"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bump and grind (B) bump in the road (C) bump into (D) bump up\nASSISTANT: D"
    },
    {
       "options": {
@@ -529,7 +529,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/phrases/fall_in_love.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) labor of love (B) fall in love (C) fall out (D) being in love\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) labor of love (B) fall in love (C) fall out (D) being in love\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) labor of love (B) fall in love (C) fall out (D) being in love\nASSISTANT: B"
    },
    {
       "options": {
@@ -809,7 +809,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/phrases/hole_in_one.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) hole in one (B) one on one (C) in the hole (D) dig oneself in a hole\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) hole in one (B) one on one (C) in the hole (D) dig oneself in a hole\nASSISTANT: A) hole in one"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) hole in one (B) one on one (C) in the hole (D) dig oneself in a hole\nASSISTANT: A"
    },
    {
       "options": {
@@ -823,7 +823,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/phrases/honor_in_the_breach.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) badge of honor (B) under erasure (C) honorable mention (D) honor in the breach\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) badge of honor (B) under erasure (C) honorable mention (D) honor in the breach\nASSISTANT: A) badge of honor"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) badge of honor (B) under erasure (C) honorable mention (D) honor in the breach\nASSISTANT: A"
    },
    {
       "options": {
@@ -837,7 +837,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/phrases/irons_in_the_fire.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) on fire (B) irons in the fire (C) tire fire (D) line of fire\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) on fire (B) irons in the fire (C) tire fire (D) line of fire\nASSISTANT: B"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) on fire (B) irons in the fire (C) tire fire (D) line of fire\nASSISTANT: D"
    },
    {
       "options": {
@@ -1047,7 +1047,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/phrases/poetry_in_motion.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) poetry in motion (B) Brownian motion (C) poison pen (D) set in motion\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) poetry in motion (B) Brownian motion (C) poison pen (D) set in motion\nASSISTANT: A) poetry in motion"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) poetry in motion (B) Brownian motion (C) poison pen (D) set in motion\nASSISTANT: A"
    },
    {
       "options": {
@@ -1075,7 +1075,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/phrases/put_a_sock_in_it.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) put a sock in it (B) pull one's socks up (C) put one's foot in it (D) put your foot in it\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) put a sock in it (B) pull one's socks up (C) put one's foot in it (D) put your foot in it\nASSISTANT: A) put a sock in it"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) put a sock in it (B) pull one's socks up (C) put one's foot in it (D) put your foot in it\nASSISTANT: A"
    },
    {
       "options": {
@@ -1243,7 +1243,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/phrases/set_in_stone.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) set in stone (B) set in ways (C) heart of stone (D) carved in stone\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) set in stone (B) set in ways (C) heart of stone (D) carved in stone\nASSISTANT: A) set in stone"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) set in stone (B) set in ways (C) heart of stone (D) carved in stone\nASSISTANT: A"
    },
    {
       "options": {
@@ -1299,7 +1299,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/phrases/skin_in_the_game.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) skin in the game (B) thick skin (C) in the game (D) on the game\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) skin in the game (B) thick skin (C) in the game (D) on the game\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) skin in the game (B) thick skin (C) in the game (D) on the game\nASSISTANT: A"
    },
    {
       "options": {
@@ -1313,7 +1313,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/phrases/spit_in_the_wind.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) spit on (B) in the wind (C) spit in the wind (D) twist in the wind\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) spit on (B) in the wind (C) spit in the wind (D) twist in the wind\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) spit on (B) in the wind (C) spit in the wind (D) twist in the wind\nASSISTANT: B"
    },
    {
       "options": {
@@ -1495,7 +1495,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/phrases/walk_in_the_snow.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) walk through (B) walk over (C) walk in on (D) walk in the snow\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) walk through (B) walk over (C) walk in on (D) walk in the snow\nASSISTANT: D"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) walk through (B) walk over (C) walk in on (D) walk in the snow\nASSISTANT: B"
    },
    {
       "options": {

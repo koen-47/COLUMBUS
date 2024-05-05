@@ -7,9 +7,9 @@ import pandas as pd
 import inflect
 import networkx as nx
 
-from graphs.RebusGraph import RebusGraph
-from graphs.patterns.Rule import Rule
-from graphs.templates.Template import Template
+from parsers.RebusGraph import RebusGraph
+from parsers.patterns.Rule import Rule
+from parsers.templates.Template import Template
 from util import get_node_attributes, get_edges_from_node
 
 inflect = inflect.engine()
@@ -18,7 +18,7 @@ inflect = inflect.engine()
 class RebusGraphParser:
     def __init__(self, compound_words_file_path):
         self._compound_words = pd.read_csv(compound_words_file_path)
-        with open(f"{os.path.dirname(__file__)}/../data/answers/ignore_words.json", "r") as file:
+        with open(f"{os.path.dirname(__file__)}/../data/misc/ignore_words.json", "r") as file:
             self._ignore_words = json.load(file)
 
     def parse_compound(self, compound=None, graph=None, c1=None, c2=None, is_plural=None):

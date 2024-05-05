@@ -1,15 +1,16 @@
-import json
 import os
 import shutil
 
 import torch
-from tqdm import tqdm
-from PIL import Image
 
 
 class ModelExperiment:
-    def __init__(self):
+    def __init__(self, include_description):
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
+        self.models_dir = f"{os.path.dirname(__file__)}/downloads"
+        self.include_description = include_description
+        self.name = ""
+        self.prompt = ""
         
     def run_on_benchmark(self, save_dir):
         pass
@@ -26,4 +27,16 @@ class ModelExperiment:
                     shutil.rmtree(file_path)
             except Exception as e:
                 print(f"Failed to remove: {file_path}. Reason: {e}")
+
+    def get_metadata(self, benchmark, save_dir):
+        compounds, phrases = benchmark.get_puzzles()
+        return {
+            "experiment": self.name,
+            "includes_description": self.include_description,
+            "prompt_template": self.prompt,
+            "n_compounds": len(compounds),
+            "n_phrases": len(phrases),
+            "save_dir": save_dir,
+            "models_dir": self.models_dir
+        }
 

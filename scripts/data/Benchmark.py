@@ -28,7 +28,7 @@ class Benchmark:
         self._phrases = self._format_questions(phrase_images, phrase_distractors)
 
         if with_metadata:
-            parser = RebusGraphParser(f"{os.path.dirname(__file__)}/answers/ladec_raw_small.csv")
+            parser = RebusGraphParser(f"{os.path.dirname(__file__)}/misc/ladec_raw_small.csv")
             for compound in self._compounds:
                 correct, image = list(compound["correct"].values())[0], compound["image"]
                 graphs = parser.parse_compound(compound=correct)
@@ -45,7 +45,10 @@ class Benchmark:
                 graph = parser.parse_idiom(correct)
                 graph.graph = {}
                 metadata = "\n".join(graph.__str__().split("\n")[1:])
-                phrase["metadata"] = metadata
+                phrase["metadata"] = {
+                    "nodes_and_edges": metadata,
+                    "nodes": "\n".join([element for element in metadata.split("\n") if "->" not in element])
+                }
 
     def get_puzzles(self):
         return self._compounds, self._phrases

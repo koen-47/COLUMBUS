@@ -39,7 +39,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/yellowtail.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) yellowtail (B) tailback (C) tailwort (D) tailboard\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) yellowtail (B) tailback (C) tailwort (D) tailboard\nASSISTANT: A) yellowtail"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) yellowtail (B) tailback (C) tailwort (D) tailboard\nASSISTANT: A"
    },
    {
       "options": {
@@ -53,7 +53,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/yellowlegs.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) dogleg (B) blackleg (C) bowleg (D) yellowlegs\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) dogleg (B) blackleg (C) bowleg (D) yellowlegs\nASSISTANT: A) dogleg"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) dogleg (B) blackleg (C) bowleg (D) yellowlegs\nASSISTANT: A"
    },
    {
       "options": {
@@ -347,7 +347,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/tiebacks.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) tiepin (B) crosstie (C) tiebacks (D) necktie\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) tiepin (B) crosstie (C) tiebacks (D) necktie\nASSISTANT: B"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) tiepin (B) crosstie (C) tiebacks (D) necktie\nASSISTANT: D"
    },
    {
       "options": {
@@ -389,7 +389,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/thistledown.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) thistledown (B) chickweed (C) velvetweed (D) frostweed\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) thistledown (B) chickweed (C) velvetweed (D) frostweed\nASSISTANT: A) thistledown"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) thistledown (B) chickweed (C) velvetweed (D) frostweed\nASSISTANT: A"
    },
    {
       "options": {
@@ -445,7 +445,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/tailback.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) tailwort (B) blacktail (C) tailboard (D) tailback\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) tailwort (B) blacktail (C) tailboard (D) tailback\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) tailwort (B) blacktail (C) tailboard (D) tailback\nASSISTANT: D"
    },
    {
       "options": {
@@ -823,7 +823,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/shipwrights.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) airship (B) shipside (C) shipway (D) shipwrights\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) airship (B) shipside (C) shipway (D) shipwrights\nASSISTANT: B"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) airship (B) shipside (C) shipway (D) shipwrights\nASSISTANT: D"
    },
    {
       "options": {
@@ -977,7 +977,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/rollback.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) rollback (B) bedroll (C) rollover (D) payroll\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) rollback (B) bedroll (C) rollover (D) payroll\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) rollback (B) bedroll (C) rollover (D) payroll\nASSISTANT: A"
    },
    {
       "options": {
@@ -991,7 +991,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/rightfield.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) rightfield (B) fieldhand (C) backfield (D) fieldwork\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) rightfield (B) fieldhand (C) backfield (D) fieldwork\nASSISTANT: A) rightfield"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) rightfield (B) fieldhand (C) backfield (D) fieldwork\nASSISTANT: A"
    },
    {
       "options": {
@@ -1145,7 +1145,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/redpoll.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) redpoll (B) newspaper (C) millboard (D) blackpoll\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) redpoll (B) newspaper (C) millboard (D) blackpoll\nASSISTANT: A) redpoll"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) redpoll (B) newspaper (C) millboard (D) blackpoll\nASSISTANT: A"
    },
    {
       "options": {
@@ -1621,7 +1621,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/pullbacks.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) pullover (B) pullbacks (C) bellpull (D) pushpin\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) pullover (B) pullbacks (C) bellpull (D) pushpin\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) pullover (B) pullbacks (C) bellpull (D) pushpin\nASSISTANT: A"
    },
    {
       "options": {
@@ -1649,7 +1649,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/prickleback.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) sicklepod (B) chickpea (C) prickleback (D) pushpin\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) sicklepod (B) chickpea (C) prickleback (D) pushpin\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) sicklepod (B) chickpea (C) prickleback (D) pushpin\nASSISTANT: D"
    },
    {
       "options": {
@@ -1677,7 +1677,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/ploughwright.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) ploughwright (B) snowplough (C) ploughland (D) ploughman\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) ploughwright (B) snowplough (C) ploughland (D) ploughman\nASSISTANT: D"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) ploughwright (B) snowplough (C) ploughland (D) ploughman\nASSISTANT: B"
    },
    {
       "options": {
@@ -1747,7 +1747,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/pinkroot.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) manroot (B) pinkroot (C) rootstock (D) stoneroot\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) manroot (B) pinkroot (C) rootstock (D) stoneroot\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) manroot (B) pinkroot (C) rootstock (D) stoneroot\nASSISTANT: A"
    },
    {
       "options": {
@@ -1831,7 +1831,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/paybacks.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) paybacks (B) payoff (C) payday (D) paymaster\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) paybacks (B) payoff (C) payday (D) paymaster\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) paybacks (B) payoff (C) payday (D) paymaster\nASSISTANT: A"
    },
    {
       "options": {
@@ -1943,7 +1943,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/mossback.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) mossback (B) ditchmoss (C) dosshouse (D) spikemoss\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) mossback (B) ditchmoss (C) dosshouse (D) spikemoss\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) mossback (B) ditchmoss (C) dosshouse (D) spikemoss\nASSISTANT: D) spikemoss"
    },
    {
       "options": {
@@ -1971,7 +1971,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/millwright.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) millstone (B) millwork (C) millwright (D) millboard\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) millstone (B) millwork (C) millwright (D) millboard\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) millstone (B) millwork (C) millwright (D) millboard\nASSISTANT: D"
    },
    {
       "options": {
@@ -2069,7 +2069,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/midway.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) waterway (B) headway (C) airway (D) midway\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) waterway (B) headway (C) airway (D) midway\nASSISTANT: D"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) waterway (B) headway (C) airway (D) midway\nASSISTANT: B"
    },
    {
       "options": {
@@ -2195,7 +2195,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/midribs.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) ribgrass (B) midribs (C) ribband (D) ribwort\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) ribgrass (B) midribs (C) ribband (D) ribwort\nASSISTANT: B"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) ribgrass (B) midribs (C) ribband (D) ribwort\nASSISTANT: A"
    },
    {
       "options": {
@@ -2461,7 +2461,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/middlebreaker.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) middlebreaker (B) windbreaker (C) groundbreaker (D) housebreaker\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) middlebreaker (B) windbreaker (C) groundbreaker (D) housebreaker\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) middlebreaker (B) windbreaker (C) groundbreaker (D) housebreaker\nASSISTANT: D"
    },
    {
       "options": {
@@ -2559,7 +2559,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/markups.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) markups (B) landmark (C) markweed (D) bookmark\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) markups (B) landmark (C) markweed (D) bookmark\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) markups (B) landmark (C) markweed (D) bookmark\nASSISTANT: D"
    },
    {
       "options": {
@@ -2573,7 +2573,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/makeups.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) makeweight (B) makeshift (C) makeover (D) makeups\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) makeweight (B) makeshift (C) makeover (D) makeups\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) makeweight (B) makeshift (C) makeover (D) makeups\nASSISTANT: B"
    },
    {
       "options": {
@@ -2671,7 +2671,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/lowboy.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) potboy (B) lowboy (C) playboy (D) sandboy\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) potboy (B) lowboy (C) playboy (D) sandboy\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) potboy (B) lowboy (C) playboy (D) sandboy\nASSISTANT: D"
    },
    {
       "options": {
@@ -2727,7 +2727,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/lobsterback.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) lobsterman (B) crabapple (C) lobsterback (D) crabmeat\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) lobsterman (B) crabapple (C) lobsterback (D) crabmeat\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) lobsterman (B) crabapple (C) lobsterback (D) crabmeat\nASSISTANT: D"
    },
    {
       "options": {
@@ -2797,7 +2797,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/leftover.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) overhead (B) overwork (C) handover (D) leftover\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) overhead (B) overwork (C) handover (D) leftover\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) overhead (B) overwork (C) handover (D) leftover\nASSISTANT: C"
    },
    {
       "options": {
@@ -2965,7 +2965,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/humpback.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) lumpsucker (B) humpback (C) goosebump (D) hummingbird\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) lumpsucker (B) humpback (C) goosebump (D) hummingbird\nASSISTANT: B"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) lumpsucker (B) humpback (C) goosebump (D) hummingbird\nASSISTANT: C"
    },
    {
       "options": {
@@ -3035,7 +3035,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/highways.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) headway (B) waterway (C) airway (D) highways\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) headway (B) waterway (C) airway (D) highways\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) headway (B) waterway (C) airway (D) highways\nASSISTANT: A"
    },
    {
       "options": {
@@ -3357,7 +3357,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/highboy.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) sandboy (B) highboy (C) playboy (D) potboy\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) sandboy (B) highboy (C) playboy (D) potboy\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) sandboy (B) highboy (C) playboy (D) potboy\nASSISTANT: C"
    },
    {
       "options": {
@@ -3567,7 +3567,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/greenwood.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) underwood (B) greenwood (C) woodwork (D) woodman\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) underwood (B) greenwood (C) woodwork (D) woodman\nASSISTANT: B"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) underwood (B) greenwood (C) woodwork (D) woodman\nASSISTANT: A"
    },
    {
       "options": {
@@ -3581,7 +3581,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/greenwing.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) greenwing (B) wingman (C) underwing (D) wingback\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) greenwing (B) wingman (C) underwing (D) wingback\nASSISTANT: A) greenwing"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) greenwing (B) wingman (C) underwing (D) wingback\nASSISTANT: A"
    },
    {
       "options": {
@@ -3609,7 +3609,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/greenway.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) greenway (B) headway (C) waterway (D) airway\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) greenway (B) headway (C) waterway (D) airway\nASSISTANT: B"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) greenway (B) headway (C) waterway (D) airway\nASSISTANT: A"
    },
    {
       "options": {
@@ -3623,7 +3623,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/greensward.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) greensward (B) wardroom (C) southpaw (D) wardrobes\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) greensward (B) wardroom (C) southpaw (D) wardrobes\nASSISTANT: A) greensward"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) greensward (B) wardroom (C) southpaw (D) wardrobes\nASSISTANT: A"
    },
    {
       "options": {
@@ -3693,7 +3693,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/greenroom.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) headroom (B) backroom (C) houseroom (D) greenroom\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) headroom (B) backroom (C) houseroom (D) greenroom\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) headroom (B) backroom (C) houseroom (D) greenroom\nASSISTANT: D"
    },
    {
       "options": {
@@ -3931,7 +3931,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/greenbelts.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) seatbelt (B) shelterbelt (C) greenbelts (D) beltway\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) seatbelt (B) shelterbelt (C) greenbelts (D) beltway\nASSISTANT: A) seatbelt"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) seatbelt (B) shelterbelt (C) greenbelts (D) beltway\nASSISTANT: A"
    },
    {
       "options": {
@@ -4141,7 +4141,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/foretastes.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) aftertaste (B) wasteweir (C) tastebud (D) foretastes\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) aftertaste (B) wasteweir (C) tastebud (D) foretastes\nASSISTANT: A) aftertaste"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) aftertaste (B) wasteweir (C) tastebud (D) foretastes\nASSISTANT: A"
    },
    {
       "options": {
@@ -4155,7 +4155,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/forerunner.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) gunrunner (B) racerunner (C) roadrunner (D) forerunner\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) gunrunner (B) racerunner (C) roadrunner (D) forerunner\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) gunrunner (B) racerunner (C) roadrunner (D) forerunner\nASSISTANT: D"
    },
    {
       "options": {
@@ -4239,7 +4239,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/foreground.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) foreground (B) groundwork (C) groundfish (D) background\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) foreground (B) groundwork (C) groundfish (D) background\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) foreground (B) groundwork (C) groundfish (D) background\nASSISTANT: D"
    },
    {
       "options": {
@@ -4267,7 +4267,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/flashback.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) flashlight (B) flashboard (C) flashover (D) flashback\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) flashlight (B) flashboard (C) flashover (D) flashback\nASSISTANT: D"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) flashlight (B) flashboard (C) flashover (D) flashback\nASSISTANT: A"
    },
    {
       "options": {
@@ -4281,7 +4281,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/finback.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bluefin (B) bowfin (C) finback (D) tailfin\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bluefin (B) bowfin (C) finback (D) tailfin\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bluefin (B) bowfin (C) finback (D) tailfin\nASSISTANT: B"
    },
    {
       "options": {
@@ -4407,7 +4407,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/eiderdowns.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) miterwort (B) eiderdowns (C) angledozer (D) spiderwort\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) miterwort (B) eiderdowns (C) angledozer (D) spiderwort\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) miterwort (B) eiderdowns (C) angledozer (D) spiderwort\nASSISTANT: B"
    },
    {
       "options": {
@@ -4421,7 +4421,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/eiderdown.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) spiderwort (B) eiderdown (C) angledozer (D) miterwort\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) spiderwort (B) eiderdown (C) angledozer (D) miterwort\nASSISTANT: B) eiderdown"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) spiderwort (B) eiderdown (C) angledozer (D) miterwort\nASSISTANT: B"
    },
    {
       "options": {
@@ -4449,7 +4449,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/drawback.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) drawbridge (B) drawback (C) drawstring (D) drawbar\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) drawbridge (B) drawback (C) drawstring (D) drawbar\nASSISTANT: B"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) drawbridge (B) drawback (C) drawstring (D) drawbar\nASSISTANT: A"
    },
    {
       "options": {
@@ -4575,7 +4575,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/downstage.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) stagehand (B) downstage (C) offstage (D) backstage\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) stagehand (B) downstage (C) offstage (D) backstage\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) stagehand (B) downstage (C) offstage (D) backstage\nASSISTANT: D"
    },
    {
       "options": {
@@ -4701,7 +4701,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/downhills.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) downhills (B) hilltop (C) foothill (D) hillside\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) downhills (B) hilltop (C) foothill (D) hillside\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) downhills (B) hilltop (C) foothill (D) hillside\nASSISTANT: D"
    },
    {
       "options": {
@@ -4799,7 +4799,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/downdraft.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) overdraft (B) draftsman (C) downdraft (D) draftsperson\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) overdraft (B) draftsman (C) downdraft (D) draftsperson\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) overdraft (B) draftsman (C) downdraft (D) draftsperson\nASSISTANT: D"
    },
    {
       "options": {
@@ -4855,7 +4855,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/dieback.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) diehard (B) diemaker (C) diestock (D) dieback\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) diehard (B) diemaker (C) diestock (D) dieback\nASSISTANT: D"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) diehard (B) diemaker (C) diestock (D) dieback\nASSISTANT: A"
    },
    {
       "options": {
@@ -5037,7 +5037,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/crosstalk.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) babytalk (B) crosstalk (C) whinchat (D) backtalk\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) babytalk (B) crosstalk (C) whinchat (D) backtalk\nASSISTANT: D"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) babytalk (B) crosstalk (C) whinchat (D) backtalk\nASSISTANT: B"
    },
    {
       "options": {
@@ -5079,7 +5079,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/crosspieces.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) crosspieces (B) workpiece (C) piecework (D) headpiece\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) crosspieces (B) workpiece (C) piecework (D) headpiece\nASSISTANT: A) crosspieces"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) crosspieces (B) workpiece (C) piecework (D) headpiece\nASSISTANT: A"
    },
    {
       "options": {
@@ -5177,7 +5177,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/crosshatches.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) hatchback (B) hatchway (C) nuthatch (D) crosshatches\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) hatchback (B) hatchway (C) nuthatch (D) crosshatches\nASSISTANT: A) hatchback"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) hatchback (B) hatchway (C) nuthatch (D) crosshatches\nASSISTANT: A"
    },
    {
       "options": {
@@ -5233,7 +5233,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/crossfire.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) crossfire (B) firewood (C) fireman (D) backfire\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) crossfire (B) firewood (C) fireman (D) backfire\nASSISTANT: D"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) crossfire (B) firewood (C) fireman (D) backfire\nASSISTANT: A"
    },
    {
       "options": {
@@ -5289,7 +5289,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/crosscheck.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) checkroom (B) checkbook (C) crosscheck (D) checkout\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) checkroom (B) checkbook (C) crosscheck (D) checkout\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) checkroom (B) checkbook (C) crosscheck (D) checkout\nASSISTANT: D"
    },
    {
       "options": {
@@ -5639,7 +5639,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/clampdown.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) clampdown (B) lamppost (C) lampblack (D) lamphouse\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) clampdown (B) lamppost (C) lampblack (D) lamphouse\nASSISTANT: A) clampdown"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) clampdown (B) lamppost (C) lampblack (D) lamphouse\nASSISTANT: A"
    },
    {
       "options": {
@@ -5653,7 +5653,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/checkups.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) checkroom (B) checkups (C) checkout (D) checkbook\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) checkroom (B) checkups (C) checkout (D) checkbook\nASSISTANT: D"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) checkroom (B) checkups (C) checkout (D) checkbook\nASSISTANT: C"
    },
    {
       "options": {
@@ -5737,7 +5737,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/buybacks.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) selloff (B) checkout (C) buyout (D) buybacks\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) selloff (B) checkout (C) buyout (D) buybacks\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) selloff (B) checkout (C) buyout (D) buybacks\nASSISTANT: D"
    },
    {
       "options": {
@@ -5961,7 +5961,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/bluethroat.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) whitethroat (B) bluethroat (C) throatwort (D) cutthroat\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) whitethroat (B) bluethroat (C) throatwort (D) cutthroat\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) whitethroat (B) bluethroat (C) throatwort (D) cutthroat\nASSISTANT: D"
    },
    {
       "options": {
@@ -6059,7 +6059,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/bluepoints.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) pinpoint (B) bluepoints (C) ballpoint (D) gunpoint\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) pinpoint (B) bluepoints (C) ballpoint (D) gunpoint\nASSISTANT: A) pinpoint"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) pinpoint (B) bluepoints (C) ballpoint (D) gunpoint\nASSISTANT: A"
    },
    {
       "options": {
@@ -6213,7 +6213,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/bluefish.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) stonefish (B) bluefish (C) headfish (D) sunfish\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) stonefish (B) bluefish (C) headfish (D) sunfish\nASSISTANT: B"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) stonefish (B) bluefish (C) headfish (D) sunfish\nASSISTANT: A"
    },
    {
       "options": {
@@ -6269,7 +6269,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/bluebottle.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bottleneck (B) greenbottle (C) bluebottle (D) bottlecap\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bottleneck (B) greenbottle (C) bluebottle (D) bottlecap\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bottleneck (B) greenbottle (C) bluebottle (D) bottlecap\nASSISTANT: D"
    },
    {
       "options": {
@@ -6283,7 +6283,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/bluebonnets.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bluebonnets (B) sunbonnet (C) network (D) bonnethead\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bluebonnets (B) sunbonnet (C) network (D) bonnethead\nASSISTANT: A) bluebonnets"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bluebonnets (B) sunbonnet (C) network (D) bonnethead\nASSISTANT: A"
    },
    {
       "options": {
@@ -6339,7 +6339,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/bluebill.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) handbill (B) bluebill (C) billfish (D) billboard\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) handbill (B) bluebill (C) billfish (D) billboard\nASSISTANT: D"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) handbill (B) bluebill (C) billfish (D) billboard\nASSISTANT: A"
    },
    {
       "options": {
@@ -6479,7 +6479,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/blacktopping.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) setoff (B) blacktopping (C) tiptop (D) rooftop\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) setoff (B) blacktopping (C) tiptop (D) rooftop\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) setoff (B) blacktopping (C) tiptop (D) rooftop\nASSISTANT: D"
    },
    {
       "options": {
@@ -6521,7 +6521,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/blackthorn.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) firethorn (B) boxthorn (C) thornbill (D) blackthorn\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) firethorn (B) boxthorn (C) thornbill (D) blackthorn\nASSISTANT: D"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) firethorn (B) boxthorn (C) thornbill (D) blackthorn\nASSISTANT: A"
    },
    {
       "options": {
@@ -6843,7 +6843,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/blackguards.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) blackguards (B) guardhouse (C) guardroom (D) fireguard\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) blackguards (B) guardhouse (C) guardroom (D) fireguard\nASSISTANT: D"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) blackguards (B) guardhouse (C) guardroom (D) fireguard\nASSISTANT: A"
    },
    {
       "options": {
@@ -6941,7 +6941,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/blackbuck.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) buckeye (B) waterbuck (C) blackbuck (D) buckboard\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) buckeye (B) waterbuck (C) blackbuck (D) buckboard\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) buckeye (B) waterbuck (C) blackbuck (D) buckboard\nASSISTANT: C"
    },
    {
       "options": {
@@ -7081,7 +7081,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/blackball.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) football (B) blackball (C) handball (D) fireball\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) football (B) blackball (C) handball (D) fireball\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) football (B) blackball (C) handball (D) fireball\nASSISTANT: D"
    },
    {
       "options": {
@@ -7291,7 +7291,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/backtalk.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) whinchat (B) crosstalk (C) backtalk (D) babytalk\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) whinchat (B) crosstalk (C) backtalk (D) babytalk\nASSISTANT: C"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) whinchat (B) crosstalk (C) backtalk (D) babytalk\nASSISTANT: B"
    },
    {
       "options": {
@@ -7403,7 +7403,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/backstay.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) staysail (B) mainstay (C) barkeep (D) backstay\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) staysail (B) mainstay (C) barkeep (D) backstay\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) staysail (B) mainstay (C) barkeep (D) backstay\nASSISTANT: D"
    },
    {
       "options": {
@@ -7543,7 +7543,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/backslappers.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) backslappers (B) whippersnapper (C) slapstick (D) slapshot\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) backslappers (B) whippersnapper (C) slapstick (D) slapshot\nASSISTANT: B"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) backslappers (B) whippersnapper (C) slapstick (D) slapshot\nASSISTANT: A"
    },
    {
       "options": {
@@ -7613,7 +7613,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/backseat.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) loveseat (B) backseat (C) countryseat (D) seatbelt\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) loveseat (B) backseat (C) countryseat (D) seatbelt\nASSISTANT: D"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) loveseat (B) backseat (C) countryseat (D) seatbelt\nASSISTANT: A"
    },
    {
       "options": {
@@ -7669,7 +7669,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/backroom.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) workroom (B) headroom (C) backroom (D) houseroom\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) workroom (B) headroom (C) backroom (D) houseroom\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) workroom (B) headroom (C) backroom (D) houseroom\nASSISTANT: B"
    },
    {
       "options": {
@@ -8145,7 +8145,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/backdoor.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) doorman (B) dooryard (C) backdoor (D) doorway\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) doorman (B) dooryard (C) backdoor (D) doorway\nASSISTANT: A"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) doorman (B) dooryard (C) backdoor (D) doorway\nASSISTANT: D"
    },
    {
       "options": {
@@ -8215,7 +8215,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/backbone.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bonehead (B) fishbone (C) backbone (D) bonefish\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bonehead (B) fishbone (C) backbone (D) bonefish\nASSISTANT: B) fishbone"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) bonehead (B) fishbone (C) backbone (D) bonefish\nASSISTANT: B"
    },
    {
       "options": {
@@ -8383,7 +8383,7 @@
       },
       "image": "/var/scratch/hkd800/scripts/data/images/compounds/backache.png",
       "prompt": "USER: <image>\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) headache (B) backache (C) earache (D) heartache\nASSISTANT:",
-      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) headache (B) backache (C) earache (D) heartache\nASSISTANT: D"
+      "output": "ER:  \nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? (A) headache (B) backache (C) earache (D) heartache\nASSISTANT: A"
    },
    {
       "options": {
