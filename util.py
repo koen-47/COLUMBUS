@@ -37,6 +37,17 @@ def get_edge_information(graph):
     return edge_info
 
 
+def get_graph_as_sequence(graph):
+    node_attrs = get_node_attributes(graph)
+    edge_attrs = nx.get_edge_attributes(graph, "rule")
+    sequence = []
+    for node, attrs in node_attrs.items():
+        if (node-1, node) in edge_attrs and edge_attrs[(node-1, node)] != "NEXT-TO":
+            sequence.append(edge_attrs[(node-1, node)])
+        sequence.append(attrs)
+    return sequence
+
+
 def remove_duplicate_graphs(graphs):
     unique_graphs = []
     for graph in graphs:

@@ -12,9 +12,25 @@ class PhraseRebusGraphParser:
         with open(f"{os.path.dirname(__file__)}/../../saved/ignore_words.json", "r") as file:
             self._ignore_words = json.load(file)
 
+    def _is_valid(self, phrase):
+        if phrase == "":
+            return False
+        relational_keywords = [x for xs in Rule.get_all_rules()["relational"].values() for x in xs]
+        phrase_parts = phrase.split()
+        n_rel_keywords = [word for word in phrase_parts if word in relational_keywords]
+        if len(n_rel_keywords) > 1:
+            return False
+        if phrase_parts[0].lower() in relational_keywords:
+            return False
+        if phrase_parts[-1].lower() in relational_keywords:
+            return False
+        return True
+
     def parse(self, phrase):
         phrase_words = [word for word in phrase.split() if word not in self._ignore_words]
         phrase = " ".join(phrase_words)
+        if not self._is_valid(phrase):
+            return None
 
         graphs_per_word = self._get_all_graphs_per_word(phrase)
         combinations = list(itertools.product(*graphs_per_word))

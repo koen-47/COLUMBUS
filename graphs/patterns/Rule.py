@@ -30,7 +30,7 @@ class Rule:
         class Highlight:
             AFTER = ["after", "end"]
             BEFORE = ["before", "begin", "start", "left"]
-            MIDDLE = ["middle", "mid"]
+            MIDDLE = ["middle", "mid", "my"]
 
         class Position:
             HIGH = ["high"]

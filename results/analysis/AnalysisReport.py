@@ -6,6 +6,8 @@ from itertools import product
 import wordfreq
 import matplotlib.pyplot as plt
 
+from graphs.parsers.RebusGraphParser import RebusGraphParser
+
 
 class AnalysisReport:
     def __init__(self):
@@ -63,8 +65,12 @@ class AnalysisReport:
         print(f"\n=== ANALYSIS {model_type.upper()} ===")
         print(f"Puzzle type: {puzzle_type}")
         print(f"Prompt includes description: {prompt_type == '2'}")
-        self.analyze_basic_models(results, puzzle_type=puzzle_type)
+        # self.analyze_basic_models(results, puzzle_type=puzzle_type)
+        self.analyze_by_rule(results, puzzle_type=puzzle_type)
 
+    def analyze_by_rule(self, results, puzzle_type):
+        if puzzle_type == "compounds":
+            print(results[0])
 
     def analyze_basic_models(self, results, puzzle_type):
         def compute_accuracy(results):
@@ -99,7 +105,6 @@ class AnalysisReport:
             results_top10 = [result for result in results if list(result["correct"].values())[0] in compound_freq_top10]
             print(f"Top 50% accuracy: {compute_accuracy(results_top50):.2f}")
             print(f"Top 10% accuracy: {compute_accuracy(results_top10):.2f}")
-
 
 
     def _standardize_general_result(self, result, mistral_type=None):
