@@ -1,19 +1,14 @@
-import json
-
-import pandas as pd
-
-from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
 from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
-from graphs.RebusImageConverter import RebusImageConverter
-from graphs.patterns.Rule import Rule
-from util import count_relational_rules
 from graphs.RebusImageConverterV2 import RebusImageConverterV2
-from results.analysis.AnalysisReport import AnalysisReport
+from results.benchmark.PuzzleAnalysisReport import PuzzleAnalysisReport
 
 parser = PhraseRebusGraphParser()
 generator = RebusImageConverterV2()
 
-AnalysisReport().generate(puzzle_type="compounds", model_type="instructblip", prompt_type=1)
+# AnalysisReport().generate(puzzle_type="compounds", model_type="blip-2_opt-6.7b", prompt_type=3)
+# AnalysisReport().generate_all()
+
+PuzzleAnalysisReport().generate_final()
 
 # graph = parser.parse("punch one's hippo lion tiger above weight")
 # graph = parser.parse("cross roads")
@@ -60,8 +55,13 @@ AnalysisReport().generate(puzzle_type="compounds", model_type="instructblip", pr
 # print(graph)
 # generator.generate(graph)
 
-# graph = parser.parse("once in a blue moon")
-# generator.generate(graph)
+# graph = parser.parse("once in a blue moon")[0]
+# print(graph)
+# generator.generate_inside(graph, show=True)
+
+# graph = parser.parse("for hell in a handbasket")[0]
+# print(graph)
+# generator.generate_inside(graph, show=True)
 
 # compounds = pd.read_csv("./saved/ladec_raw.csv")
 

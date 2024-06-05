@@ -5,8 +5,11 @@ from itertools import product
 
 import wordfreq
 import matplotlib.pyplot as plt
+from tqdm import tqdm
 
-from graphs.parsers.RebusGraphParser import RebusGraphParser
+from graphs.legacy.RebusGraphParser import RebusGraphParser
+from graphs.patterns.Rule import Rule
+from util import get_node_attributes
 
 
 class AnalysisReport:
@@ -14,42 +17,32 @@ class AnalysisReport:
         self.results_dir = f"{os.path.dirname(__file__)}/results"
 
     def generate_all(self):
-        with open(f"{self.results_dir}/clip_compounds.json", "r") as file:
-            results = json.load(file)
-            correct_answers = [list(result["correct"].keys())[0] for result in results]
-            correct_freq = {}
-            for answer in correct_answers:
-                if answer not in correct_freq:
-                    correct_freq[answer] = 0
-                correct_freq[answer] += 1
-
-            correct_freq = {answer: freq/sum(correct_freq.values()) for answer, freq in correct_freq.items()}
-            plt.pie(list(correct_freq.values()), labels=list(correct_freq.keys()), autopct='%1.1f%%', startangle=90)
-            plt.show()
-
         self.generate("compounds", "clip", prompt_type="")
         self.generate("phrases", "clip", prompt_type="")
 
         puzzle_types = ["compounds", "phrases"]
         model_types = ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "blip-2_flan-t5-xxl",
-                       "fuyu-8b", "instructblip", "llava-1.5-13b"]
-        prompt_types = ["1", "2"]
+                       "fuyu-8b", "instructblip", "llava-1.5-13b", "cogvlm", "qwenvl"]
+        prompt_types = ["1", "2", "3", "4"]
 
         for puzzle, model, prompt in product(*[puzzle_types, model_types, prompt_types]):
+            if puzzle == "compounds" and prompt == "4":
+                continue
+            if (model == "fuyu-8b" or model == "llava-1.5-13b") and prompt == "4":
+                continue
             self.generate(puzzle, model, prompt)
 
     def generate(self, puzzle_type, model_type, prompt_type, mistral_type=None):
         if model_type == "clip":
             with open(f"{self.results_dir}/{model_type}_{puzzle_type}.json", "r") as file:
-                results = json.load(file)
+                results = json.load(file)["results"]
         elif model_type == "mistral-7b":
             with open(f"{self.results_dir}/{model_type}_{puzzle_type}.json", "r") as file:
                 results = json.load(file)["results"]
         else:
             with open(f"{self.results_dir}/prompt_{prompt_type}/{model_type}_{puzzle_type}_prompt_{prompt_type}.json", "r") as file:
-                results = json.load(file)
-                if prompt_type == "2":
-                    results = results["results"]
+                # print(model_type, prompt_type, puzzle_type)
+                results = json.load(file)["results"]
 
         counter = 0
         for result in results:
@@ -57,6 +50,10 @@ class AnalysisReport:
                 result = self._preprocess_llava_result(result)
             if model_type == "fuyu-8b":
                 result, counter = self._preprocess_fuyu_result(result, counter)
+            if model_type == "cogvlm":
+                result, counter = self._preprocess_cogvlm_result(result, counter)
+            if model_type == "qwenvl":
+                result, counter = self._preprocess_qwenvl_result(result, counter)
             elif model_type == "mistral-7b":
                 is_phrase = puzzle_type == "phrases"
                 result, counter = self._preprocess_mistral_result(result, counter, is_phrase=is_phrase)
@@ -64,13 +61,50 @@ class AnalysisReport:
 
         print(f"\n=== ANALYSIS {model_type.upper()} ===")
         print(f"Puzzle type: {puzzle_type}")
-        print(f"Prompt includes description: {prompt_type == '2'}")
-        # self.analyze_basic_models(results, puzzle_type=puzzle_type)
-        self.analyze_by_rule(results, puzzle_type=puzzle_type)
+        print(f"Prompt type: {prompt_type}")
+        self.analyze_basic_models(results, puzzle_type=puzzle_type)
+        # self.analyze_by_rule(results, puzzle_type=puzzle_type)
 
     def analyze_by_rule(self, results, puzzle_type):
+        rules = list(Rule.get_all_rules()["individual"].keys()) + ["sound"]
+        print(rules)
         if puzzle_type == "compounds":
-            print(results[0])
+            rules_freq = {}
+            for result in tqdm(results):
+                parser = RebusGraphParser(f"{os.path.dirname(__file__)}/../../saved/ladec_raw_small.csv")
+                correct = list(result["correct"].values())[0]
+                graph = parser.parse_compound(compound=correct)[0]
+                node_attrs = get_node_attributes(graph)
+                for node, attrs in node_attrs.items():
+                    attrs_ = attrs.copy()
+                    del attrs_["text"]
+                    if attrs_["repeat"] == 1:
+                        del attrs_["repeat"]
+                    for rule, value in attrs_.items():
+                        if value == 2:
+                            value = "two"
+                        if value == 4:
+                            value = "four"
+                        if rule == "repeat":
+                            rule = "repetition"
+                        if rule in rules:
+                            if rule not in rules_freq:
+                                rules_freq[rule] = []
+                            if result["is_correct"]:
+                                rules_freq[rule].append(1)
+                            else:
+                                rules_freq[rule].append(0)
+                        if f"{rule}_{value}" in rules:
+                            if f"{rule}_{value}" not in rules_freq:
+                                rules_freq[f"{rule}_{value}"] = []
+                            if result["is_correct"]:
+                                rules_freq[f"{rule}_{value}"].append(1)
+                            else:
+                                rules_freq[f"{rule}_{value}"].append(0)
+            for rule, freq in rules_freq.items():
+                rules_freq[rule] = (round((sum(freq) / len(freq)) * 100, 2), len(freq))
+            print(len(rules_freq))
+            print(json.dumps(rules_freq, indent=3))
 
     def analyze_basic_models(self, results, puzzle_type):
         def compute_accuracy(results):
@@ -86,7 +120,9 @@ class AnalysisReport:
                 answers_freq[answer] += 1
 
             answers_freq = {answer: freq/sum(answers_freq.values()) for answer, freq in answers_freq.items()}
-            return {max(answers_freq, key=answers_freq.get): round(answers_freq[max(answers_freq, key=answers_freq.get)] * 100, 2)}
+            if answers_freq != {}:
+                return {max(answers_freq, key=answers_freq.get): round(answers_freq[max(answers_freq, key=answers_freq.get)] * 100, 2)}
+            return None
 
         accuracy = compute_accuracy(results)
         max_answer_occurrence = compute_max_answer_occurrence(results)
@@ -105,7 +141,6 @@ class AnalysisReport:
             results_top10 = [result for result in results if list(result["correct"].values())[0] in compound_freq_top10]
             print(f"Top 50% accuracy: {compute_accuracy(results_top50):.2f}")
             print(f"Top 10% accuracy: {compute_accuracy(results_top10):.2f}")
-
 
     def _standardize_general_result(self, result, mistral_type=None):
         output = result["output"]
@@ -185,3 +220,21 @@ class AnalysisReport:
             return result, counter
         return result, counter
 
+    def _preprocess_cogvlm_result(self, result, counter):
+        output = result["output"]
+        output = output.replace("</s>", "")
+        result["output"] = output
+        return result, counter
+
+    def _preprocess_qwenvl_result(self, result, counter):
+        output = result["output"]
+        if len(re.findall(r'\(\((.*?)\)\)', output)) > 0:
+            result["output"] = re.findall(r'\(\((.*?)\)\)', output)[0]
+        elif len(re.findall(r"is \"(.*?)\".", output)) > 0:
+            result["output"] = re.findall(r"is \"(.*?)\".", output)[0]
+        elif len(re.findall(r"is \"(.*?).\"", output)) > 0:
+            result["output"] = re.findall(r"is \"(.*?).\"", output)[0]
+        # else:
+        #     print(output)
+
+        return result, counter

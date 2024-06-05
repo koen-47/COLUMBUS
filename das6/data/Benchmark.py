@@ -11,7 +11,7 @@ random.seed(42)
 
 
 class Benchmark:
-    def __init__(self, with_metadata=False):
+    def __init__(self, with_metadata=True):
         compound_images_dir = f"{os.path.dirname(__file__)}/images/compounds/*"
         compound_distractors_path = f"{os.path.dirname(__file__)}/distractors/compound_distractors_final.json"
         with open(compound_distractors_path, "r") as file:
@@ -47,7 +47,7 @@ class Benchmark:
                 metadata = "\n".join(graph.__str__().split("\n")[1:])
                 phrase["metadata"] = {
                     "nodes_and_edges": metadata,
-                    "nodes": "\n".join([element for element in metadata.split("\n") if "->" not in element])
+                    "nodes": "\n".join([element for element in metadata.split("\n") if "rule:" not in element])
                 }
 
     def get_puzzles(self):

@@ -1,14 +1,13 @@
 import copy
-import re
 
 import pandas as pd
 import inflect
 import networkx as nx
 
-from graphs.RebusGraph import RebusGraph
+from das6.parsers.RebusGraph import RebusGraph
 from graphs.patterns.Rule import Rule
 from graphs.templates.Template import Template
-from util import get_node_attributes, get_edges_from_node
+from util import get_node_attributes
 
 inflect = inflect.engine()
 

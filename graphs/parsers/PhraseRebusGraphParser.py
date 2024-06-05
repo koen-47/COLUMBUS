@@ -1,9 +1,8 @@
 import itertools
 import json
 import os
-import copy
 
-from ..RebusGraph import RebusGraph
+from das6.parsers.RebusGraph import RebusGraph
 from ..patterns.Rule import Rule
 from .CompoundRebusGraphParser import CompoundRebusGraphParser
 
@@ -27,13 +26,22 @@ class PhraseRebusGraphParser:
         return True
 
     def parse(self, phrase):
+        answer = phrase
         phrase_words = [word for word in phrase.split() if word not in self._ignore_words]
         phrase = " ".join(phrase_words)
         if not self._is_valid(phrase):
             return None
 
         graphs_per_word = self._get_all_graphs_per_word(phrase)
-        combinations = list(itertools.product(*graphs_per_word))
+        all_graphs = self._get_all_combinations(graphs_per_word)
+
+        for graph in all_graphs:
+            graph.graph["answer"] = answer
+
+        return all_graphs
+
+    def _get_all_combinations(self, graphs_per_words):
+        combinations = list(itertools.product(*graphs_per_words))
 
         all_graphs = []
         for c in combinations:
@@ -44,10 +52,10 @@ class PhraseRebusGraphParser:
                 if isinstance(sub_graph, RebusGraph):
                     n_nodes += len(sub_graph.nodes)
                     for node in sub_graph.nodes(data=True):
-                        graph.add_node(len(graph.nodes)+1, **node[1])
-                        graph.add_edge(len(graph.nodes)-1, len(graph.nodes), rule="NEXT-TO")
+                        graph.add_node(len(graph.nodes) + 1, **node[1])
+                        graph.add_edge(len(graph.nodes) - 1, len(graph.nodes), rule="NEXT-TO")
                 else:
-                    relational_nodes.append((sub_graph, n_nodes, n_nodes+1))
+                    relational_nodes.append((sub_graph, n_nodes, n_nodes + 1))
             all_graphs.append(graph)
             for edge in relational_nodes:
                 graph[edge[1]][edge[2]]["rule"] = edge[0]
@@ -69,9 +77,30 @@ class PhraseRebusGraphParser:
             if skip:
                 skip = False
                 continue
+            if len(words) == 1:
+                graph = RebusGraph()
+                homophone = compound_parser.parse_homophones(words[0])
+                icon = compound_parser.parse_icon(words[0])
+                node_attrs = {"text": words[0].upper(), "repeat": 1}
+                if words[0] != homophone:
+                    node_attrs["text"] = homophone.upper()
+                    node_attrs["sound"] = {words[0]: homophone}
+                if words[0] != icon:
+                    node_attrs["icon"] = {words[0]: icon}
+                if "sound" in node_attrs and "icon" in node_attrs:
+                    graph_1, graph_2 = RebusGraph(), RebusGraph()
+                    node_attrs_1 = {rule: value for rule, value in node_attrs.copy().items() if rule != "icon"}
+                    node_attrs_2 = {rule: value for rule, value in node_attrs.copy().items() if rule != "sound"}
+                    graph_1.add_node(1, **node_attrs_1)
+                    graph_2.add_node(1, **node_attrs_2)
+                    graphs_per_word.append([graph_1, graph_2])
+                    continue
+                graph.add_node(1, **node_attrs)
+                graphs_per_word.append([graph])
+                continue
             i = 0
             while i < len(words) - 1:
-                graphs = compound_parser.parse(c1=words[i], c2=words[i + 1], is_plural=False)
+                graphs = compound_parser.parse(c1=words[i], c2=words[i+1], is_plural=False)
                 if len(graphs) > 0:
                     graphs_per_word.append(graphs)
                     words.pop(i)
@@ -84,9 +113,24 @@ class PhraseRebusGraphParser:
                 i += 1
             if i < len(words):
                 graph = RebusGraph()
-                graph.add_node(1, text=words[i].upper(), repeat=1)
-                graphs_per_word.append([graph])
-
+                homophone = compound_parser.parse_homophones(words[i])
+                icon = compound_parser.parse_icon(words[i])
+                node_attrs = {"text": words[i].upper(), "repeat": 1}
+                if words[i] != homophone:
+                    node_attrs["text"] = homophone.upper()
+                    node_attrs["sound"] = {words[i]: homophone}
+                if words[i] != icon:
+                    node_attrs["icon"] = {words[i]: icon}
+                if "sound" in node_attrs and "icon" in node_attrs:
+                    graph_1, graph_2 = RebusGraph(), RebusGraph()
+                    node_attrs_1 = {rule: value for rule, value in node_attrs.copy().items() if rule != "icon"}
+                    node_attrs_2 = {rule: value for rule, value in node_attrs.copy().items() if rule != "sound"}
+                    graph_1.add_node(1, **node_attrs_1)
+                    graph_2.add_node(1, **node_attrs_2)
+                    graphs_per_word.append([graph_1, graph_2])
+                else:
+                    graph.add_node(1, **node_attrs)
+                    graphs_per_word.append([graph])
         return graphs_per_word
 
     def _divide_text(self, phrase):

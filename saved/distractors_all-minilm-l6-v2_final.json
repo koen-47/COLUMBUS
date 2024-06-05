@@ -1,0 +1,3437 @@
+{
+   "about_to_1": [
+      "up and about",
+      "just about",
+      "run about"
+   ],
+   "according_to_1": [
+      "true to form",
+      "when it comes to",
+      "to speak of"
+   ],
+   "account_for_1": [
+      "on account of",
+      "good account of",
+      "call to account"
+   ],
+   "after_all": [
+      "all in all",
+      "at all",
+      "first of all"
+   ],
+   "after_blood": [
+      "new blood",
+      "young blood",
+      "shed blood"
+   ],
+   "after_dark_1": [
+      "in the dark",
+      "dark cloud",
+      "shot in the dark"
+   ],
+   "after_one's_own_heart_1": [
+      "have one's heart in",
+      "cross one's heart",
+      "put one's heart in"
+   ],
+   "after_the_storm_1": [
+      "storm off",
+      "weather the storm",
+      "perfect storm"
+   ],
+   "armed_to_the_teeth_1": [
+      "bare one's teeth",
+      "show one's teeth",
+      "kick in the teeth"
+   ],
+   "arrow_in_the_quiver": [
+      "make one's bow",
+      "draw the long bow",
+      "arrowheads"
+   ],
+   "as_for_1": [
+      "as in",
+      "as to",
+      "as of"
+   ],
+   "as_to_1": [
+      "as for",
+      "as of",
+      "as in"
+   ],
+   "at_the_end_of_the_day": [
+      "the other day",
+      "day after day",
+      "at the last minute"
+   ],
+   "at_the_receiving_end": [
+      "on the receiving end",
+      "at loose ends",
+      "from beginning to end"
+   ],
+   "a_bird_in_the_hand": [
+      "a bird in the hand is worth two in the bush",
+      "bird in the bosom",
+      "early bird"
+   ],
+   "a_bit_too_much_1": [
+      "a bit much",
+      "quite a bit",
+      "much less"
+   ],
+   "a_drop_in_the_ocean": [
+      "spit in the ocean",
+      "cross the ocean",
+      "drop in the pond"
+   ],
+   "a_fish_out_of_water": [
+      "other fish in the sea",
+      "big fish in a small pond",
+      "fish in troubled waters"
+   ],
+   "a_little_bird_told_me_1": [
+      "early bird",
+      "bird in the bosom",
+      "bird of one's own brain"
+   ],
+   "a_lot_on_my_plate_1": [
+      "step up to the plate",
+      "a bit too much",
+      "platelayer"
+   ],
+   "a_small_cog_in_a_big_wheel_1": [
+      "big wheel",
+      "cogwheel",
+      "cogwheels"
+   ],
+   "a_small_step_for_man_1": [
+      "one step at a time",
+      "giant step",
+      "step on someone's toes"
+   ],
+   "a_small_world_1": [
+      "across the world",
+      "small world syndrome",
+      "outside world"
+   ],
+   "a_trip_to_the_sun_1": [
+      "catch the sun",
+      "under the sun",
+      "the sun sets on something"
+   ],
+   "babies_in_the_eyes_1": [
+      "newborn",
+      "eyelids",
+      "stars in one's eyes"
+   ],
+   "babies_in_the_eyes_2": [
+      "newborn",
+      "stars in one's eyes",
+      "raccoon eyes"
+   ],
+   "baby_blue_1": [
+      "feel blue",
+      "rainbow baby",
+      "black and blue"
+   ],
+   "back_against_the_wall": [
+      "back to the wall",
+      "up the wall",
+      "go to the wall"
+   ],
+   "back_down_2": [
+      "back up",
+      "back off",
+      "back in"
+   ],
+   "back_office": [
+      "backroom",
+      "backwater",
+      "back door"
+   ],
+   "back_of_one's_hand_2": [
+      "make one's hand",
+      "have one's hand out",
+      "hold someone's hand"
+   ],
+   "back_the_wrong_horse": [
+      "horse around",
+      "dark horse",
+      "high horse"
+   ],
+   "back_to_square_one_2": [
+      "square one",
+      "square away",
+      "square on"
+   ],
+   "back_to_the_wall_2": [
+      "back against the wall",
+      "go to the wall",
+      "up the wall"
+   ],
+   "back_up_2": [
+      "back down",
+      "put someone's back up",
+      "back off"
+   ],
+   "balls_to_the_wall_1": [
+      "bust one's balls",
+      "grow some balls",
+      "have someone by the balls"
+   ],
+   "bang_down_the_door_1": [
+      "bang out",
+      "bang away",
+      "bang up"
+   ],
+   "bearing_the_cross": [
+      "off one's cross",
+      "cross to bear",
+      "cross to take up"
+   ],
+   "bee_in_bonnet": [
+      "bee in one's bonnet",
+      "queen bee",
+      "put the bee on"
+   ],
+   "beforehand_1": [
+      "before someone's time",
+      "before one's time",
+      "at first"
+   ],
+   "before_one's_eyes_1": [
+      "before one's time",
+      "before someone's time",
+      "under one's very eyes"
+   ],
+   "before_one's_eyes_2": [
+      "before one's time",
+      "before someone's time",
+      "set eyes on"
+   ],
+   "before_one's_time_1": [
+      "before someone's time",
+      "time after time",
+      "before one's eyes"
+   ],
+   "before_the_bell_rings_1": [
+      "ring a bell",
+      "ring someone's bell",
+      "saved by the bell"
+   ],
+   "before_the_ship_sails_1": [
+      "under sail",
+      "steady the ship",
+      "sinking ship"
+   ],
+   "begin_at_the_beginning_1": [
+      "from beginning to end",
+      "from start to finish",
+      "starting point"
+   ],
+   "beg_to_differ_1": [
+      "beg off",
+      "beggarman",
+      "go begging"
+   ],
+   "belly_up_to_the_bar_1": [
+      "belly up",
+      "raise the bar",
+      "prop up the bar"
+   ],
+   "belly_up_to_the_bar_3": [
+      "belly up",
+      "prop up the bar",
+      "raise the bar"
+   ],
+   "bent_out_of_shape": [
+      "out of shape",
+      "get bent",
+      "bent on"
+   ],
+   "better_for_it_1": [
+      "in for it",
+      "nothing for it",
+      "better off"
+   ],
+   "be_in_for": [
+      "be in and out",
+      "in for it",
+      "sit in for"
+   ],
+   "be_in_the_same_boat": [
+      "in the same boat",
+      "row in the same boat",
+      "rock the boat"
+   ],
+   "be_left_at_the_post_1": [
+      "far post",
+      "near post",
+      "in the post"
+   ],
+   "be_left_at_the_post_2": [
+      "far post",
+      "near post",
+      "in the post"
+   ],
+   "be_on_to": [
+      "be there",
+      "be around",
+      "be supposed to"
+   ],
+   "bigger_fish_to_fry_1": [
+      "fish to fry",
+      "have other fish to fry",
+      "big fish"
+   ],
+   "bigger_fish_to_fry_2": [
+      "fish to fry",
+      "have other fish to fry",
+      "big fish"
+   ],
+   "big_brother": [
+      "everybody and their brother",
+      "everyone and their brother",
+      "big talk"
+   ],
+   "big_deal": [
+      "great deal",
+      "good grief",
+      "real deal"
+   ],
+   "big_fish_in_a_small_pond_1": [
+      "big fish",
+      "a fish out of water",
+      "bigger fish to fry"
+   ],
+   "big_man_on_campus_1": [
+      "main man",
+      "big girl",
+      "big name"
+   ],
+   "big_ol'": [
+      "big ole",
+      "big shot",
+      "big name"
+   ],
+   "big_picture": [
+      "mixed picture",
+      "big boy",
+      "big shot"
+   ],
+   "big_shoes_to_fill_1": [
+      "fill someone's shoes",
+      "fill one's boots",
+      "pair of shoes"
+   ],
+   "big_spender": [
+      "last of the big spenders",
+      "spendthrift",
+      "spendthrifts"
+   ],
+   "bird_in_the_bosom": [
+      "bird of passage",
+      "ghetto bird",
+      "early bird"
+   ],
+   "blood_in_the_water": [
+      "blood is thicker than water",
+      "dead in the water",
+      "shed blood"
+   ],
+   "blow_out_of_the_water": [
+      "blow away",
+      "blow off",
+      "dry up and blow away"
+   ],
+   "blow_up_in_one's_face_1": [
+      "blow over",
+      "body blow",
+      "blow someone's mind"
+   ],
+   "blue_blood": [
+      "new blood",
+      "bad blood",
+      "young blood"
+   ],
+   "blue_collar_work": [
+      "blue-collar",
+      "work like a dog",
+      "bluewing"
+   ],
+   "blue_eyed_boy_1": [
+      "baby blue",
+      "blue-eyed",
+      "fair-haired boy"
+   ],
+   "blue_state": [
+      "green state",
+      "yellow state",
+      "bluebill"
+   ],
+   "blue_wall_of_silence_1": [
+      "wall of silence",
+      "pact of silence",
+      "silence is golden"
+   ],
+   "bogged_down_1": [
+      "bog off",
+      "bogeyman",
+      "throw down"
+   ],
+   "bone_in_her_teeth": [
+      "bone in the throat",
+      "funny bone",
+      "arm to the teeth"
+   ],
+   "bone_in_the_throat": [
+      "bone in her teeth",
+      "funny bone",
+      "lump in one's throat"
+   ],
+   "bone_to_pick_1": [
+      "funny bone",
+      "throw a bone to",
+      "to the bone"
+   ],
+   "boogie_on_down": [
+      "full tilt boogie",
+      "peg down",
+      "play down"
+   ],
+   "boy_in_the_boat": [
+      "turn the boat",
+      "push the boat out",
+      "miss the boat"
+   ],
+   "break_down_barriers_1": [
+      "break cover",
+      "break open",
+      "break gates"
+   ],
+   "break_into_a_run": [
+      "run with",
+      "take a run at",
+      "run off"
+   ],
+   "break_the_back_of": [
+      "break one's back",
+      "break one's neck",
+      "break someone's back"
+   ],
+   "break_up_1": [
+      "break down",
+      "break into",
+      "break out"
+   ],
+   "breed_in_the_bone": [
+      "bred-in-the-bone",
+      "bone hard",
+      "bone to pick"
+   ],
+   "brick_in_one's_hat": [
+      "drop a brick",
+      "brick in",
+      "bang one's head against a brick wall"
+   ],
+   "bring_down_the_hammer_1": [
+      "bring to the hammer",
+      "put the hammer down",
+      "hammer home"
+   ],
+   "bring_down_the_house_1": [
+      "keep house",
+      "move house",
+      "bring home"
+   ],
+   "bring_to_bear_1": [
+      "poke the bear",
+      "cross to bear",
+      "loaded for bear"
+   ],
+   "bring_to_heel_1": [
+      "turn on one's heel",
+      "Achilles heel",
+      "down at heel"
+   ],
+   "bring_to_light_1": [
+      "come to light",
+      "give a light",
+      "make a light"
+   ],
+   "bring_to_the_hammer_1": [
+      "bring down the hammer",
+      "put the hammer down",
+      "nail the hammer on the head"
+   ],
+   "brown_bread_1": [
+      "burn bread",
+      "bread and butter",
+      "bread of life"
+   ],
+   "buckle_to_1": [
+      "buckle down",
+      "buckle up",
+      "tighten belt"
+   ],
+   "build_up_1": [
+      "buildups",
+      "team up",
+      "run up"
+   ],
+   "butterfly_upon_a_wheel": [
+      "butterfly",
+      "wheel within a wheel",
+      "wheel away"
+   ],
+   "candle_in_the_wind": [
+      "candlelight",
+      "candlepower",
+      "burn the candle at both ends"
+   ],
+   "cap_in_hand": [
+      "bust a cap",
+      "set one's cap at",
+      "hat in hand"
+   ],
+   "carved_in_stone": [
+      "set in stone",
+      "heart of stone",
+      "stone dead"
+   ],
+   "cash_in_one's_chips": [
+      "have had one's chips",
+      "cash in",
+      "let the chips fall where they may"
+   ],
+   "cash_on_the_barrelhead": [
+      "cash in",
+      "cash up",
+      "over a barrel"
+   ],
+   "castles_in_the_air": [
+      "in the air",
+      "castle in the air",
+      "king of the castle"
+   ],
+   "castle_in_the_air": [
+      "castles in the air",
+      "in the air",
+      "king of the castle"
+   ],
+   "catch_up_1": [
+      "caught up",
+      "catch on",
+      "catch eye"
+   ],
+   "cat_in_the_sack": [
+      "the cat's out of the bag",
+      "the cat's pajamas",
+      "in the sack"
+   ],
+   "chalk_up_to_1": [
+      "chalk off",
+      "chalk something up to experience",
+      "drum up"
+   ],
+   "check_is_in_the_mail": [
+      "check through",
+      "take check",
+      "blank check"
+   ],
+   "child_cross_guard_1": [
+      "child crossing guard",
+      "take guard",
+      "love child"
+   ],
+   "chill_to_the_bone_1": [
+      "chill to the marrow",
+      "to the bone",
+      "chill pill"
+   ],
+   "chinaman_on_one's_back_2": [
+      "behind someone's back",
+      "Chinaman's chance",
+      "Chinese puzzle"
+   ],
+   "chip_on_one's_shoulder": [
+      "chip on shoulder",
+      "chip shot",
+      "chip away"
+   ],
+   "chum_in_the_water": [
+      "chum up",
+      "out of the chute",
+      "straight out of the chute"
+   ],
+   "circle_back": [
+      "full circle",
+      "swing round the circle",
+      "inner circle"
+   ],
+   "click_into_gear": [
+      "find another gear",
+      "second gear",
+      "fourth gear"
+   ],
+   "close_on_the_heels_of": [
+      "on the heels of",
+      "head over heels",
+      "dig heels in"
+   ],
+   "close_to_home_1": [
+      "hit too close to home",
+      "home away from home",
+      "at home"
+   ],
+   "come_back_from_the_dead": [
+      "stop dead",
+      "come alive",
+      "come to grief"
+   ],
+   "come_down_1": [
+      "come down to",
+      "come down with",
+      "come down to us"
+   ],
+   "come_down_in_stair_rods_1": [
+      "staircase",
+      "come down",
+      "stairwells"
+   ],
+   "come_down_to_earth_1": [
+      "down to earth",
+      "come down",
+      "come down to us"
+   ],
+   "come_down_to_earth_2": [
+      "down to earth",
+      "come down",
+      "come down to us"
+   ],
+   "come_down_to_earth_3": [
+      "down to earth",
+      "come down",
+      "come down to"
+   ],
+   "come_down_to_us_1": [
+      "come down to",
+      "come down",
+      "come down with"
+   ],
+   "come_down_to_us_2": [
+      "come down to",
+      "come down",
+      "come down with"
+   ],
+   "come_down_to_us_3": [
+      "come down to",
+      "come down",
+      "come down with"
+   ],
+   "come_into_one's_own": [
+      "go one's own way",
+      "come to oneself",
+      "do one's own thing"
+   ],
+   "come_into_the_world": [
+      "coming into the world",
+      "come to life",
+      "come down to earth"
+   ],
+   "come_to_an_end_1": [
+      "put an end to",
+      "most an end",
+      "end of"
+   ],
+   "come_to_a_close_1": [
+      "come to",
+      "come to an end",
+      "close call"
+   ],
+   "come_to_a_head_1": [
+      "give head",
+      "go to someone's head",
+      "lose head"
+   ],
+   "come_to_life_1": [
+      "come alive",
+      "get a life",
+      "come to"
+   ],
+   "come_to_light_1": [
+      "bring to light",
+      "give a light",
+      "see the light"
+   ],
+   "coming_into_the_world": [
+      "come into the world",
+      "make the world go around",
+      "come to life"
+   ],
+   "cover_up_1": [
+      "take cover",
+      "run for cover",
+      "from cover to cover"
+   ],
+   "cross_a_bridge_too_far_1": [
+      "cross the bridge",
+      "cross that bridge when one comes to it",
+      "go too far"
+   ],
+   "cross_fingers_for_luck_1": [
+      "down on one's luck",
+      "push one's luck",
+      "stroke of luck"
+   ],
+   "cross_one's_heart_1": [
+      "cross my heart",
+      "cross my heart and hope to die",
+      "have one's heart in"
+   ],
+   "cross_one's_legs_1": [
+      "have legs",
+      "on one's last legs",
+      "open one's legs"
+   ],
+   "cross_one's_mind_1": [
+      "on one's mind",
+      "of one mind",
+      "lose one's mind"
+   ],
+   "cross_paths": [
+      "cross someone's path",
+      "crosswalks",
+      "crosswalk"
+   ],
+   "cross_swords_1": [
+      "swordsmanship",
+      "swordsmen",
+      "beats one's swords into plowshares"
+   ],
+   "cross_the_aisle": [
+      "roll in the aisles",
+      "cross one's legs",
+      "cross the line"
+   ],
+   "cross_the_ocean_1": [
+      "drop in the ocean",
+      "motion of someone's ocean",
+      "a drop in the ocean"
+   ],
+   "cross_the_rhine": [
+      "cross the Rhine",
+      "cross the Thames",
+      "crossbench"
+   ],
+   "cross_the_rubicon": [
+      "cross the line",
+      "cross to bear",
+      "bearing the cross"
+   ],
+   "cross_the_t's_and_dot_the_i's": [
+      "dot the i's and cross the t's",
+      "off one's dot",
+      "on the dot"
+   ],
+   "cross_the_thames": [
+      "cross the Rhine",
+      "set the Thames on fire",
+      "cross the bridge"
+   ],
+   "cross_to_take_up_1": [
+      "cross off",
+      "cross out",
+      "off one's cross"
+   ],
+   "cross_to_take_up_2": [
+      "cross off",
+      "cross out",
+      "off one's cross"
+   ],
+   "cross_to_take_up_3": [
+      "cross off",
+      "cross out",
+      "off one's cross"
+   ],
+   "cry_in_one's_beer": [
+      "cry one's eyes out",
+      "small beer",
+      "cry someone a river"
+   ],
+   "dance_on_nothing": [
+      "song and dance",
+      "dance to tune",
+      "tap dance"
+   ],
+   "dance_to_tune_1": [
+      "tune in",
+      "tune out",
+      "tune up"
+   ],
+   "dead_end_1": [
+      "dead end job",
+      "dead last",
+      "dead loss"
+   ],
+   "dead_end_job_1": [
+      "dead end",
+      "dead last",
+      "dead loss"
+   ],
+   "dead_in_the_water": [
+      "dead fish",
+      "dead inside",
+      "dead and buried"
+   ],
+   "dead_to_rights_1": [
+      "dead last",
+      "dead of night",
+      "dead and buried"
+   ],
+   "deer_in_the_headlights": [
+      "headlights",
+      "deerstalkers",
+      "deerskins"
+   ],
+   "devil_in_disguise": [
+      "the devil",
+      "devil lies in the details",
+      "devil is in the details"
+   ],
+   "devil_is_in_the_details": [
+      "devil in disguise",
+      "speak of the devil",
+      "talk of the devil"
+   ],
+   "dial_back": [
+      "dial down",
+      "reset the dial",
+      "shift the dial"
+   ],
+   "dial_down_1": [
+      "dial back",
+      "shift the dial",
+      "reset the dial"
+   ],
+   "diamond_in_the_rough": [
+      "rough diamond",
+      "diamond is forever",
+      "rough out"
+   ],
+   "dig_in_one's_heels": [
+      "dig one's heels in",
+      "dig heels in",
+      "take to one's heels"
+   ],
+   "dig_out_of_a_hole": [
+      "dig oneself in a hole",
+      "dig deep",
+      "blow a hole through"
+   ],
+   "dog_in_the_hunt": [
+      "dog around",
+      "snipe hunt",
+      "dog eat dog"
+   ],
+   "dog_in_the_manger": [
+      "see a man about a dog",
+      "mantiger",
+      "dog around"
+   ],
+   "done_for_1": [
+      "done in",
+      "done deal",
+      "well done"
+   ],
+   "double_back": [
+      "double over",
+      "on the double",
+      "double take"
+   ],
+   "down_for_the_count_2": [
+      "take the count",
+      "put down for",
+      "down but not out"
+   ],
+   "down_in_the_dumps": [
+      "down the drain",
+      "down the toilet",
+      "down in the mouth"
+   ],
+   "down_in_the_mouth": [
+      "down under",
+      "down in the dumps",
+      "down the toilet"
+   ],
+   "down_on_one's_luck": [
+      "push one's luck",
+      "ride one's luck",
+      "cross fingers for luck"
+   ],
+   "down_the_line_1": [
+      "over the line",
+      "on the line",
+      "out of line"
+   ],
+   "down_the_tubes_1": [
+      "go down the tubes",
+      "pipe down",
+      "down to the wire"
+   ],
+   "down_to_earth_2": [
+      "come down to earth",
+      "down the road",
+      "down under"
+   ],
+   "down_to_the_wire_2": [
+      "under the wire",
+      "down the line",
+      "down under"
+   ],
+   "dressed_to_the_nines_1": [
+      "to the nines",
+      "dressed to kill",
+      "nightmare dressed like a daydream"
+   ],
+   "dress_to_kill_1": [
+      "in for the kill",
+      "dress down",
+      "make a killing"
+   ],
+   "drop_in_the_bucket": [
+      "bucket down",
+      "kick the bucket",
+      "drop in the pond"
+   ],
+   "drop_in_the_pond": [
+      "drop in the ocean",
+      "drop in the sea",
+      "drop in the bucket"
+   ],
+   "drop_in_the_sea": [
+      "drop dead",
+      "drop in the pond",
+      "at sea"
+   ],
+   "ear_to_the_ground_1": [
+      "give ear",
+      "up on one's ear",
+      "play by ear"
+   ],
+   "easy_on_the_eyes_1": [
+      "easy on the eye",
+      "hard on the eyes",
+      "take one's eyes off"
+   ],
+   "easy_on_the_eyes_2": [
+      "easy on the eye",
+      "hard on the eyes",
+      "take one's eyes off"
+   ],
+   "easy_on_the_eye_1": [
+      "easy on the eyes",
+      "hard on the eyes",
+      "roving eye"
+   ],
+   "easy_on_the_eye_2": [
+      "easy on the eyes",
+      "hard on the eyes",
+      "roving eye"
+   ],
+   "eat_for_two_1": [
+      "two for two",
+      "eat one's young",
+      "eat one's own"
+   ],
+   "elephant_in_the_room": [
+      "baby elephant in the room",
+      "pink elephant",
+      "white elephant"
+   ],
+   "endtime_1": [
+      "end times",
+      "end of",
+      "endgame"
+   ],
+   "end_of_one's_rope_1": [
+      "jump rope",
+      "give someone enough rope",
+      "skip rope"
+   ],
+   "end_of_the_rainbow_1": [
+      "rainbow",
+      "rainbow baby",
+      "chase a rainbow"
+   ],
+   "end_of_the_world_1": [
+      "not the end of the world",
+      "the world over",
+      "end of"
+   ],
+   "end_up_2": [
+      "end of",
+      "come to an end",
+      "put an end to"
+   ],
+   "err_on_the_side_of_caution": [
+      "err on the side of",
+      "throw caution to the wind",
+      "throw caution to the winds"
+   ],
+   "exit_stage_left_2": [
+      "stage right",
+      "set the stage",
+      "hold the stage"
+   ],
+   "eyes_on_the_prize_1": [
+      "booby prize",
+      "prizefight",
+      "no prize for guessing"
+   ],
+   "eyes_on_the_prize_2": [
+      "booby prize",
+      "prizefight",
+      "no prize for guessing"
+   ],
+   "eye_for_an_eye_1": [
+      "have an eye for",
+      "see eye to eye",
+      "one in the eye for"
+   ],
+   "eye_for_an_eye_2": [
+      "have an eye for",
+      "see eye to eye",
+      "one in the eye for"
+   ],
+   "eye_for_an_eye_3": [
+      "have an eye for",
+      "see eye to eye",
+      "one in the eye for"
+   ],
+   "eye_for_an_eye_4": [
+      "have an eye for",
+      "see eye to eye",
+      "bat an eye"
+   ],
+   "face_to_face_1": [
+      "lose face",
+      "face down",
+      "give face"
+   ],
+   "fall_for_1": [
+      "fall into",
+      "fall in love",
+      "take the fall"
+   ],
+   "fall_into_one's_lap": [
+      "land in someone's lap",
+      "lap up",
+      "with one's jaw in one's lap"
+   ],
+   "fall_on_one's_face": [
+      "fall on someone's neck",
+      "fall around",
+      "fall over"
+   ],
+   "fall_on_one's_sword": [
+      "put to the sword",
+      "flesh one's maiden sword",
+      "sword and sorcery"
+   ],
+   "fall_out_with": [
+      "fall out",
+      "falling out",
+      "fall into"
+   ],
+   "feather_in_one's_cap": [
+      "feather in your cap",
+      "birds of a feather",
+      "feather one's nest"
+   ],
+   "feel_for_1": [
+      "feel out",
+      "feel up",
+      "feel free"
+   ],
+   "finger_in_the_pie": [
+      "the finger",
+      "have one's fingers in many pies",
+      "piece of the pie"
+   ],
+   "fire_in_anger": [
+      "fight fire with fire",
+      "draw fire",
+      "escape fire"
+   ],
+   "fire_in_the_belly": [
+      "draw fire",
+      "pull out of the fire",
+      "line of fire"
+   ],
+   "fish_out_of_water": [
+      "other fish in the sea",
+      "fish out",
+      "fish in troubled waters"
+   ],
+   "fish_to_fry_1": [
+      "bigger fish to fry",
+      "fry up",
+      "go fish"
+   ],
+   "flat_on_one's_back_2": [
+      "flat out",
+      "knock someone flat",
+      "flatbed"
+   ],
+   "flea_in_one's_ear": [
+      "put a bug in someone's ear",
+      "earworm",
+      "not hurt a fly or flea"
+   ],
+   "fly_in_the_face_of": [
+      "fly on the wall",
+      "fly by",
+      "hurt a fly"
+   ],
+   "fly_on_the_wall": [
+      "fly by",
+      "fly in the face of",
+      "fly off"
+   ],
+   "fly_too_close_to_the_sun_1": [
+      "catch the sun",
+      "fly low",
+      "a trip to the sun"
+   ],
+   "foot_in_the_door": [
+      "get one's foot in the door",
+      "get the door",
+      "at someone's door"
+   ],
+   "for_all_the_world_1": [
+      "for all the world to see",
+      "not for the world",
+      "in the world"
+   ],
+   "for_all_the_world_to_see_1": [
+      "for all the world",
+      "there for everyone to see",
+      "not for the world"
+   ],
+   "for_a_fact_1": [
+      "for real and for true",
+      "fact is",
+      "as a matter of fact"
+   ],
+   "for_a_while_1": [
+      "once in a while",
+      "long time",
+      "for once"
+   ],
+   "for_chrissake_1": [
+      "for show",
+      "what for",
+      "for crying out loud"
+   ],
+   "for_crying_out_loud_1": [
+      "for the love of",
+      "out loud",
+      "for reasons"
+   ],
+   "for_good_1": [
+      "for good and all",
+      "good and",
+      "for good measure"
+   ],
+   "for_keeps_1": [
+      "earn one's keep",
+      "hold out for",
+      "for once"
+   ],
+   "for_my_money_1": [
+      "for the love of",
+      "for the love of me",
+      "on the money"
+   ],
+   "for_once_1": [
+      "for this once",
+      "once and for all",
+      "once again"
+   ],
+   "for_real_and_for_true_1": [
+      "for a fact",
+      "for good and all",
+      "for the asking"
+   ],
+   "for_real_and_for_true_2": [
+      "for a fact",
+      "for good and all",
+      "for the asking"
+   ],
+   "for_reasons_1": [
+      "for XYZ reasons",
+      "on purpose",
+      "for crying out loud"
+   ],
+   "for_show_1": [
+      "what for",
+      "show off",
+      "make for"
+   ],
+   "for_the_ages_1": [
+      "ages",
+      "of age",
+      "for the book"
+   ],
+   "for_the_love_of_me_1": [
+      "for the love of",
+      "of all loves",
+      "love of life"
+   ],
+   "for_the_most_part_1": [
+      "on the whole",
+      "for a fact",
+      "for real and for true"
+   ],
+   "four_sheets_to_the_wind_1": [
+      "three sheets to the wind",
+      "get wind",
+      "wind at one's back"
+   ],
+   "fox_in_the_henhouse": [
+      "henhouse",
+      "cock in the henhouse",
+      "fox sleep"
+   ],
+   "fresh_start": [
+      "get fresh",
+      "fresh out of",
+      "fresh legs"
+   ],
+   "from_beginning_to_end_2": [
+      "from start to finish",
+      "from time to time",
+      "begin at the beginning"
+   ],
+   "from_start_to_finish_1": [
+      "from beginning to end",
+      "begin at the beginning",
+      "from scratch"
+   ],
+   "from_time_to_time_1": [
+      "time after time",
+      "from beginning to end",
+      "come to time"
+   ],
+   "gavel_to_order_1": [
+      "in order",
+      "buy to let",
+      "out of order"
+   ],
+   "get_down_to_bedrock_1": [
+      "bedrock",
+      "bedrocks",
+      "underground"
+   ],
+   "get_down_to_business_1": [
+      "take care of business",
+      "sell down",
+      "out of business"
+   ],
+   "get_down_to_cases_1": [
+      "build a case",
+      "caseworkers",
+      "put case"
+   ],
+   "get_out_of_dodge": [
+      "artful dodger",
+      "dodge a bullet",
+      "drive out"
+   ],
+   "get_out_of_my_face_1": [
+      "lose face",
+      "out of one's face",
+      "pull a face"
+   ],
+   "get_to_the_fireworks_factory_1": [
+      "fireworks",
+      "firework",
+      "firecrackers"
+   ],
+   "get_to_the_point_1": [
+      "get the point",
+      "take the point",
+      "to the point"
+   ],
+   "giant_killer": [
+      "silent killer",
+      "sleeping giant",
+      "killer instinct"
+   ],
+   "giant_step": [
+      "step lively",
+      "step over",
+      "a small step for man"
+   ],
+   "give_what_for_1": [
+      "give someone what for",
+      "give someone what-for",
+      "what for"
+   ],
+   "gold_opportunity": [
+      "black gold",
+      "land of opportunity",
+      "go for the gold"
+   ],
+   "gorilla_in_the_room": [
+      "elephant in the room",
+      "baby elephant in the room",
+      "naked ape"
+   ],
+   "go_back_in_time": [
+      "live in the past",
+      "behind time",
+      "time after time"
+   ],
+   "go_back_on_one's_word": [
+      "the word is go",
+      "from the word go",
+      "say the word"
+   ],
+   "go_down_in_flames_1": [
+      "go up in flames",
+      "go down on",
+      "go up in smoke"
+   ],
+   "go_into_one's_shell": [
+      "come out of one's shell",
+      "go one's own way",
+      "go out of one's way"
+   ],
+   "go_over_someone's_head": [
+      "go to someone's head",
+      "talk over someone's head",
+      "hold over someone's head"
+   ],
+   "go_over_to_the_majority_1": [
+      "vast majority",
+      "go to the polls",
+      "go over"
+   ],
+   "go_to_bat_1": [
+      "bat five hundred",
+      "bat for the other team",
+      "off one's own bat"
+   ],
+   "go_to_sea_1": [
+      "at sea",
+      "go fish",
+      "go places"
+   ],
+   "go_to_the_ends_of_the_earth_1": [
+      "run to earth",
+      "edge of the earth",
+      "move heaven and earth"
+   ],
+   "go_to_the_wall_1": [
+      "back to the wall",
+      "drive up the wall",
+      "up the wall"
+   ],
+   "go_up_in_flames_1": [
+      "go down in flames",
+      "go up in smoke",
+      "flame up"
+   ],
+   "go_up_in_smoke_1": [
+      "smoke out",
+      "blow smoke",
+      "go up in flames"
+   ],
+   "grand_finale": [
+      "grand total",
+      "final cut",
+      "grandad"
+   ],
+   "gray_hat_1": [
+      "white hat",
+      "hat hair",
+      "old hat"
+   ],
+   "green_around_the_gills_1": [
+      "green about the gills",
+      "stuffed to the gills",
+      "packed to the gills"
+   ],
+   "green_handshake_1": [
+      "handshake",
+      "golden handshake",
+      "handshaking"
+   ],
+   "green_light_1": [
+      "red light",
+      "yellow light",
+      "long green"
+   ],
+   "handwriting_on_the_wall": [
+      "handwriting",
+      "writing on the wall",
+      "pen picture"
+   ],
+   "hand_in_glove": [
+      "hand in hand",
+      "hand over hand",
+      "in hand"
+   ],
+   "hand_in_hand": [
+      "in hand",
+      "hand in glove",
+      "hand over hand"
+   ],
+   "hand_over_fist": [
+      "hand over hand",
+      "hand over",
+      "hand in hand"
+   ],
+   "hand_over_hand": [
+      "hand over",
+      "hand over fist",
+      "hand in hand"
+   ],
+   "hand_over_head": [
+      "hand over",
+      "hand over hand",
+      "hand someone his head"
+   ],
+   "hand_to_god_1": [
+      "hand over hand",
+      "hand in hand",
+      "hand to mouth"
+   ],
+   "hand_to_mouth_1": [
+      "hand over hand",
+      "hand in hand",
+      "hand to God"
+   ],
+   "hang_out_to_dry_1": [
+      "dry out",
+      "suck dry",
+      "hang out"
+   ],
+   "hang_over_one's_head": [
+      "hold over someone's head",
+      "hang up one's hat",
+      "hang one's hat"
+   ],
+   "hang_up_one's_hat_1": [
+      "hang one's hat",
+      "tip one's hat",
+      "hang over one's head"
+   ],
+   "hard_on_the_eyes_1": [
+      "easy on the eyes",
+      "easy on the eye",
+      "painful on the eyes"
+   ],
+   "hard_on_the_eyes_2": [
+      "easy on the eyes",
+      "easy on the eye",
+      "painful on the eyes"
+   ],
+   "harp_on_one_string": [
+      "harp on the same string",
+      "harp on",
+      "string up"
+   ],
+   "hat_in_hand": [
+      "hand someone his hat",
+      "put a hat on a hat",
+      "pick out of a hat"
+   ],
+   "have_a_bone_to_pick_1": [
+      "bone to pick",
+      "throw a bone to",
+      "take one's pick"
+   ],
+   "have_a_mountain_to_climb_1": [
+      "make a mountain out of a molehill",
+      "climb down",
+      "move mountains"
+   ],
+   "have_blood_on_one's_hands": [
+      "blood on hands",
+      "have someone's blood on one's head",
+      "wash one's hands"
+   ],
+   "have_time_on_one's_hands": [
+      "have one's hands full",
+      "have time on one's side",
+      "have one's hand out"
+   ],
+   "head_above_water": [
+      "water over the dam",
+      "head and shoulders above",
+      "headwater"
+   ],
+   "head_in_the_clouds": [
+      "head of steam",
+      "in one's head",
+      "lose head"
+   ],
+   "head_over_heels": [
+      "dig heels in",
+      "take to one's heels",
+      "kick up one's heels"
+   ],
+   "head_start_2": [
+      "come to a head",
+      "head to toe",
+      "head-on"
+   ],
+   "head_to_toe_1": [
+      "toe the line",
+      "head over heels",
+      "lose head"
+   ],
+   "hear_on_the_grapevine": [
+      "hear through the grapevine",
+      "grapevine",
+      "grapevines"
+   ],
+   "hell_on_earth": [
+      "to hell",
+      "paradise on earth",
+      "give hell"
+   ],
+   "high_up_2": [
+      "get high",
+      "high ground",
+      "run high"
+   ],
+   "hit_above_one's_weight": [
+      "hit below one's weight",
+      "punch above one's weight",
+      "punch below one's weight"
+   ],
+   "hit_the_nail_on_the_head": [
+      "nail the hammer on the head",
+      "nail in the coffin",
+      "nail down"
+   ],
+   "hit_too_close_to_home_1": [
+      "hit home",
+      "close to home",
+      "home away from home"
+   ],
+   "hold_out_for": [
+      "hold out",
+      "hold off",
+      "hold down"
+   ],
+   "hold_up_one's_end_1": [
+      "hold over",
+      "hold off",
+      "hold one's own"
+   ],
+   "hole_in_one": [
+      "in the hole",
+      "drinking hole",
+      "dig out of a hole"
+   ],
+   "hunker_down_1": [
+      "hunchback",
+      "hurler on the ditch",
+      "face down"
+   ],
+   "icing_on_the_cake": [
+      "a piece of cake",
+      "take the cake",
+      "cake crumbs"
+   ],
+   "irons_in_the_fire": [
+      "bad iron",
+      "ironwork",
+      "draw fire"
+   ],
+   "jewel_in_the_crown": [
+      "crownwork",
+      "necklace",
+      "crowning glory"
+   ],
+   "jot_down_1": [
+      "jot and tittle",
+      "jot or tittle",
+      "jog on"
+   ],
+   "jumbo_jet": [
+      "jetliners",
+      "jet set",
+      "jet-setter"
+   ],
+   "jump_in_one's_skin": [
+      "get underneath someone's skin",
+      "get under someone's skin",
+      "get under skin"
+   ],
+   "keep_one's_head_down_1": [
+      "keep one's head",
+      "hold one's head high",
+      "lose one's head"
+   ],
+   "keep_someone_on_ice": [
+      "keep one's stick on the ice",
+      "on ice",
+      "break the ice"
+   ],
+   "keep_up_1": [
+      "keep it up",
+      "stay up",
+      "keep watch"
+   ],
+   "kick_in_the_teeth": [
+      "pull teeth",
+      "armed to the teeth",
+      "kick in"
+   ],
+   "knock_on_wood": [
+      "knock out",
+      "knock together",
+      "knock down"
+   ],
+   "knock_out_the_park": [
+      "knock out",
+      "walk in the park",
+      "knock down"
+   ],
+   "land_on_one's_feet": [
+      "on one's feet",
+      "out on one's feet",
+      "put one's feet up"
+   ],
+   "laugh_out_of_court": [
+      "hold court",
+      "laugh all the way to the bank",
+      "laugh one's head off"
+   ],
+   "left_high_and_dry_1": [
+      "high and dry",
+      "leave someone high and dry",
+      "on the dry"
+   ],
+   "left_high_and_dry_2": [
+      "high and dry",
+      "leave someone high and dry",
+      "on the dry"
+   ],
+   "left_holding_the_baby_1": [
+      "throw the baby out with the bathwater",
+      "leave someone holding the baby",
+      "left holding the bag"
+   ],
+   "left_holding_the_bag_1": [
+      "give someone the bag",
+      "in the bag",
+      "bag and baggage"
+   ],
+   "left_of_center_2": [
+      "front and center",
+      "center field",
+      "dead center"
+   ],
+   "let_the_cat_out_of_the_bag": [
+      "left holding the bag",
+      "cat in the sack",
+      "give someone the bag"
+   ],
+   "level_to_the_ground_1": [
+      "high ground",
+      "from the ground up",
+      "go to ground"
+   ],
+   "lightning_in_a_bottle": [
+      "lightning fast",
+      "bottle away",
+      "bottle up"
+   ],
+   "light_in_the_loafers": [
+      "make a light",
+      "loaf about",
+      "light up"
+   ],
+   "like_a_duck_to_water_1": [
+      "break one's duck",
+      "like water off a duck's back",
+      "sitting duck"
+   ],
+   "liquor_up_1": [
+      "bottle up",
+      "hold one's liquor",
+      "worse for liquor"
+   ],
+   "little_old": [
+      "big old",
+      "some old",
+      "old school"
+   ],
+   "living_in_a_small_bubble": [
+      "bubble over",
+      "on the bubble",
+      "burst someone's bubble"
+   ],
+   "living_on_borrowed_time": [
+      "borrowed time",
+      "time of one's life",
+      "make time"
+   ],
+   "long_in_the_tooth": [
+      "long finger",
+      "spicy tooth",
+      "hen's tooth"
+   ],
+   "look_for_a_dog_to_kick_1": [
+      "kick a dog when it's down",
+      "kick at an open door",
+      "kick someone when they are down"
+   ],
+   "look_over_one's_shoulder": [
+      "put one's shoulder into",
+      "straight from the shoulder",
+      "stand on someone's shoulders"
+   ],
+   "look_to_1": [
+      "look into",
+      "look here",
+      "look out"
+   ],
+   "make_for_1": [
+      "make happen",
+      "make do",
+      "make over"
+   ],
+   "man_in_the_street": [
+      "man on the street",
+      "word on the street",
+      "up someone's street"
+   ],
+   "man_on_the_street": [
+      "man in the street",
+      "word on the street",
+      "up someone's street"
+   ],
+   "means_to_an_end_1": [
+      "put an end to",
+      "come to an end",
+      "most an end"
+   ],
+   "meant_to_1": [
+      "about to",
+      "used to",
+      "as to"
+   ],
+   "measure_up_1": [
+      "last full measure",
+      "measure the drapes",
+      "for good measure"
+   ],
+   "meat_on_one's_bones": [
+      "meat on the bones",
+      "chew the meat and spit out the bones",
+      "in one's bones"
+   ],
+   "melt_in_the_mouth": [
+      "melt into",
+      "butter wouldn't melt in someone's mouth",
+      "run at the mouth"
+   ],
+   "microchips_1": [
+      "hardware",
+      "chipboard",
+      "chip in"
+   ],
+   "middle_class_value": [
+      "class act",
+      "good value",
+      "class clown"
+   ],
+   "middle_distance_runner": [
+      "front runner",
+      "runners and riders",
+      "make the running"
+   ],
+   "middle_east": [
+      "middlemen",
+      "northeast",
+      "southeast"
+   ],
+   "middle_ground": [
+      "common ground",
+      "high ground",
+      "middle ground strategy"
+   ],
+   "middle_of_nowhere": [
+      "out of nowhere",
+      "arse end of nowhere",
+      "nowhere near"
+   ],
+   "middle_of_the_night_1": [
+      "bank night",
+      "night out",
+      "nighttime"
+   ],
+   "middle_of_the_road": [
+      "high road",
+      "low road",
+      "roadside"
+   ],
+   "midgame_1": [
+      "midwatch",
+      "midpoint",
+      "midline"
+   ],
+   "mid_air_collision": [
+      "collision course",
+      "midair",
+      "catch air"
+   ],
+   "mid_life_crisis": [
+      "get a life",
+      "prime of life",
+      "fail at life"
+   ],
+   "miniature_version_of_the_truth": [
+      "nugget of truth",
+      "grain of truth",
+      "stretch the truth"
+   ],
+   "mirror_image": [
+      "spitting image",
+      "do with mirrors",
+      "thumbnail"
+   ],
+   "miss_the_wood_for_the_trees_1": [
+      "see the trees through the forest",
+      "knock on wood",
+      "see the forest for the trees"
+   ],
+   "moment_in_the_sun": [
+      "moment of truth",
+      "catch the sun",
+      "in the heat of the moment"
+   ],
+   "money_for_jam_1": [
+      "jam today",
+      "jam tomorrow",
+      "jampot"
+   ],
+   "move_up_in_the_world_1": [
+      "move heaven and earth",
+      "move out",
+      "come into the world"
+   ],
+   "my_bad": [
+      "too bad",
+      "good grief",
+      "it's all good"
+   ],
+   "nail_down_1": [
+      "nail biter",
+      "nail in the coffin",
+      "the nail that sticks out gets hammered down"
+   ],
+   "nail_in_the_coffin": [
+      "last nail in the coffin",
+      "final nail in the coffin",
+      "nail down"
+   ],
+   "nail_the_hammer_on_the_head": [
+      "put the hammer down",
+      "hit the nail on the head",
+      "bring to the hammer"
+   ],
+   "needless_to_say_1": [
+      "to say the least",
+      "to be honest",
+      "the hell you say"
+   ],
+   "new_kid_on_the_block": [
+      "kid around",
+      "gapers' block",
+      "what's new"
+   ],
+   "nose_out_of_joint": [
+      "button nose",
+      "turn up one's nose",
+      "keep one's nose clean"
+   ],
+   "notch_on_one's_bedpost": [
+      "bedpost",
+      "bedposts",
+      "take down a notch"
+   ],
+   "not_for_the_world_1": [
+      "for all the world",
+      "too good for this world",
+      "in the world"
+   ],
+   "offer_up_1": [
+      "do up",
+      "buy up",
+      "done deal"
+   ],
+   "off_on_the_wrong_foot": [
+      "off the back foot",
+      "start off on the wrong foot",
+      "put a foot wrong"
+   ],
+   "off_to_a_good_start_1": [
+      "from start to finish",
+      "get started",
+      "fresh start"
+   ],
+   "of_two_minds_1": [
+      "of one mind",
+      "read minds",
+      "meeting of the minds"
+   ],
+   "once_in_a_blue_moon": [
+      "once in a purple moon",
+      "blue moon",
+      "over the moon"
+   ],
+   "once_in_a_purple_moon": [
+      "once in a blue moon",
+      "blue moon",
+      "over the moon"
+   ],
+   "once_in_a_while": [
+      "once or twice",
+      "for a while",
+      "once and for all"
+   ],
+   "one_after_another_1": [
+      "one at a time",
+      "one on one",
+      "put one over"
+   ],
+   "one_in_the_eye_for_1": [
+      "eye for an eye",
+      "have an eye for",
+      "in the blink of an eye"
+   ],
+   "one_on_one": [
+      "one at a time",
+      "one and the same",
+      "one and all"
+   ],
+   "ox_is_in_the_ditch": [
+      "hurler on the ditch",
+      "itch the ditch",
+      "keep it between the ditches"
+   ],
+   "packed_to_the_gills_1": [
+      "stuffed to the gills",
+      "to the gills",
+      "full to the gills"
+   ],
+   "painful_on_the_eyes_1": [
+      "hard on the eyes",
+      "a sight for sore eyes",
+      "sight for sore eyes"
+   ],
+   "painful_on_the_eyes_2": [
+      "hard on the eyes",
+      "a sight for sore eyes",
+      "sight for sore eyes"
+   ],
+   "paint_the_town_red": [
+      "turn a number of shades of red",
+      "paint the wagon",
+      "town and gown"
+   ],
+   "paradise_on_earth": [
+      "trouble in paradise",
+      "fool's paradise",
+      "hell on earth"
+   ],
+   "par_for_the_course_1": [
+      "below par",
+      "due course",
+      "pare down"
+   ],
+   "patch_up_1": [
+      "patchwork",
+      "rough patch",
+      "pea patch"
+   ],
+   "pedal_to_the_metal_1": [
+      "crank the handle",
+      "metalwork",
+      "metalworking"
+   ],
+   "pennies_on_the_dollar": [
+      "two pennies' worth",
+      "pretty penny",
+      "two pennies to rub together"
+   ],
+   "pick_one's_nose": [
+      "turn up one's nose",
+      "nose-pick",
+      "thumb one's nose"
+   ],
+   "pick_out_of_a_hat": [
+      "pull out of the hat",
+      "take one's hat off to",
+      "put a hat on a hat"
+   ],
+   "pie_in_the_sky": [
+      "finger in the pie",
+      "piece of the pie",
+      "humble pie"
+   ],
+   "piffy_on_a_rock_bun": [
+      "bun fight",
+      "rock hound",
+      "bun in the oven"
+   ],
+   "pig_in_a_poke": [
+      "wrestle with a pig",
+      "in a pig's eye",
+      "in a pig's patoot"
+   ],
+   "pill_in_the_pocket": [
+      "on the pill",
+      "pill mill",
+      "in someone's pocket"
+   ],
+   "pink_elephant_1": [
+      "white elephant",
+      "elephant in the room",
+      "baby elephant in the room"
+   ],
+   "pip_to_the_post_1": [
+      "piping hot",
+      "like a chicken with the pip",
+      "piping times"
+   ],
+   "play_for_love_1": [
+      "play up",
+      "play for time",
+      "play along"
+   ],
+   "play_for_time_1": [
+      "make time",
+      "buy time",
+      "play to win"
+   ],
+   "play_to_win_1": [
+      "win over",
+      "play for time",
+      "play ball"
+   ],
+   "pocket_up_1": [
+      "out of pocket",
+      "pocket dial",
+      "in someone's pocket"
+   ],
+   "pour_fuel_on_the_fire": [
+      "pour gasoline on the fire",
+      "add fuel to the flames",
+      "feed the fire"
+   ],
+   "pour_oil_on_troubled_waters": [
+      "troubled waters",
+      "oil and water",
+      "fish in troubled waters"
+   ],
+   "preach_in_the_desert": [
+      "preach to the choir",
+      "just deserts",
+      "preach to deaf ears"
+   ],
+   "pressed_for_time_1": [
+      "time after time",
+      "waiting time",
+      "buy time"
+   ],
+   "prone_to_1": [
+      "doomed if you do, doomed if you don't",
+      "forward-leaning",
+      "falling out"
+   ],
+   "prop_up_1": [
+      "prop up the bar",
+      "propman",
+      "gear up"
+   ],
+   "pull_in_one's_horns": [
+      "lock horns",
+      "grab the bull by the horns",
+      "take the bull by the horns"
+   ],
+   "pull_out_of_the_fire": [
+      "put out a fire",
+      "pull out",
+      "open fire"
+   ],
+   "pull_out_of_the_hat": [
+      "pick out of a hat",
+      "take one's hat off to",
+      "put a hat on a hat"
+   ],
+   "pull_the_wool_over_eyes_1": [
+      "dyed in the wool",
+      "more cry than wool",
+      "wrap in cotton wool"
+   ],
+   "pull_the_wool_over_eyes_2": [
+      "dyed in the wool",
+      "more cry than wool",
+      "wrap in cotton wool"
+   ],
+   "punch_above_one's_weight": [
+      "punch below one's weight",
+      "hit above one's weight",
+      "hit below one's weight"
+   ],
+   "put_a_hat_on_a_hat": [
+      "put one's name in the hat",
+      "pass the hat",
+      "pick out of a hat"
+   ],
+   "put_butter_on_one's_bread": [
+      "bread and butter",
+      "butter one's bread on both sides",
+      "have one's bread buttered for life"
+   ],
+   "put_cards_on_the_table": [
+      "put one's cards on the table",
+      "hold the cards",
+      "put food on the table"
+   ],
+   "put_lipstick_on_a_pig": [
+      "lipstick",
+      "lipsticks",
+      "make a pig of oneself"
+   ],
+   "put_on_the_dog": [
+      "dog around",
+      "put someone on to",
+      "put off"
+   ],
+   "put_on_the_red_light_1": [
+      "red light",
+      "run a red light",
+      "put someone's lights out"
+   ],
+   "put_out_a_fire": [
+      "pull out of the fire",
+      "feed the fire",
+      "catch fire"
+   ],
+   "put_someone_on_to": [
+      "put someone under",
+      "put someone in their place",
+      "put someone to their trumps"
+   ],
+   "put_to_bed_1": [
+      "bed in",
+      "go to sleep",
+      "sleep on"
+   ],
+   "quick_on_one's_feet": [
+      "on one's feet",
+      "at one's feet",
+      "out on one's feet"
+   ],
+   "rain_on_one's_parade": [
+      "rain check",
+      "parade passed someone by",
+      "make it rain"
+   ],
+   "rear_one's_head_2": [
+      "in one's head",
+      "use one's head",
+      "bring up the rear"
+   ],
+   "red_herring": [
+      "neither fish, flesh, nor good red herring",
+      "herringbone",
+      "herringbones"
+   ],
+   "red_letter_day": [
+      "day of days",
+      "day after day",
+      "day lark"
+   ],
+   "red_light_1": [
+      "run a red light",
+      "put on the red light",
+      "green light"
+   ],
+   "red_tape": [
+      "cut red tape",
+      "play the same tape",
+      "tapeline"
+   ],
+   "rest_on_one's_laurels": [
+      "laurelwood",
+      "at rest",
+      "rest easy"
+   ],
+   "reverse_engineer": [
+      "reverse psychology",
+      "down tools",
+      "software"
+   ],
+   "reverse_psychology": [
+      "reverse course",
+      "reverse engineer",
+      "go into reverse"
+   ],
+   "rip_to_shreds_1": [
+      "rip into",
+      "give a rip",
+      "rip off"
+   ],
+   "rod_for_one's_back_2": [
+      "rod in pickle",
+      "double back",
+      "have someone's back"
+   ],
+   "roll_in_wealth": [
+      "call roll",
+      "on a roll",
+      "rollover"
+   ],
+   "roll_out_the_red_carpet": [
+      "red carpet treatment",
+      "roll in the aisles",
+      "under the carpet"
+   ],
+   "roof_over_one's_head": [
+      "raise the roof",
+      "hit the roof",
+      "through the roof"
+   ],
+   "row_back": [
+      "in a row",
+      "skid row",
+      "row in the same boat"
+   ],
+   "row_in_the_same_boat": [
+      "get in the boat and row",
+      "rowboat",
+      "row back"
+   ],
+   "run_for_cover_1": [
+      "take cover",
+      "cover up",
+      "from cover to cover"
+   ],
+   "run_for_one's_life_1": [
+      "run for one's money",
+      "run with",
+      "fight for one's life"
+   ],
+   "run_for_one's_money_1": [
+      "run for one's life",
+      "make a run for it",
+      "run with"
+   ],
+   "run_for_the_hills_1": [
+      "head for the hills",
+      "take to the hills",
+      "old as the hills"
+   ],
+   "run_for_the_roses_1": [
+      "stop and smell the roses",
+      "come up roses",
+      "a bed of roses"
+   ],
+   "run_into_a_brick_wall": [
+      "talk to a brick wall",
+      "brick in",
+      "drop a brick"
+   ],
+   "run_into_the_ground": [
+      "hit the ground running",
+      "go to ground",
+      "put in the ground"
+   ],
+   "run_in_the_family": [
+      "start a family",
+      "run with",
+      "run for one's life"
+   ],
+   "run_on_empty": [
+      "dummy run",
+      "run on",
+      "run with"
+   ],
+   "run_on_fumes": [
+      "run through",
+      "run with",
+      "run riot"
+   ],
+   "run_out_of_luck": [
+      "luck out",
+      "run out",
+      "out of luck"
+   ],
+   "run_out_of_steam": [
+      "blow off steam",
+      "under one's own steam",
+      "head of steam"
+   ],
+   "run_out_of_town": [
+      "run out",
+      "out on the town",
+      "run off"
+   ],
+   "run_out_the_clock": [
+      "run down the clock",
+      "run the clock down",
+      "beat the clock"
+   ],
+   "run_to_1": [
+      "run with",
+      "run past",
+      "run about"
+   ],
+   "run_to_earth_1": [
+      "run into the ground",
+      "run to",
+      "come down to earth"
+   ],
+   "salt_in_the_wound": [
+      "old salt",
+      "salt of the earth",
+      "Attic salt"
+   ],
+   "scared_green": [
+      "run scared",
+      "green light",
+      "scared to death"
+   ],
+   "see_eye_to_eye_1": [
+      "eye for an eye",
+      "catch the eye",
+      "blink of an eye"
+   ],
+   "see_eye_to_eye_2": [
+      "eye for an eye",
+      "catch the eye",
+      "catch someone's eye"
+   ],
+   "see_eye_to_eye_5": [
+      "eye for an eye",
+      "catch the eye",
+      "catch someone's eye"
+   ],
+   "see_eye_to_eye_6": [
+      "eye for an eye",
+      "catch the eye",
+      "eye up"
+   ],
+   "send_away_for_1": [
+      "send away",
+      "give the game away",
+      "throw away"
+   ],
+   "serve_up_1": [
+      "serve time",
+      "serve someone right",
+      "serve the turn"
+   ],
+   "settle_for_1": [
+      "settle in",
+      "settle upon",
+      "settle into"
+   ],
+   "set_for_life_1": [
+      "change of life",
+      "set to work",
+      "set in ways"
+   ],
+   "set_in_one's_ways": [
+      "set in ways",
+      "make one's way",
+      "mend one's ways"
+   ],
+   "set_in_stone": [
+      "carved in stone",
+      "stone dead",
+      "rolling stone"
+   ],
+   "set_the_thames_on_fire": [
+      "put out a fire",
+      "cross the Thames",
+      "set the world on fire"
+   ],
+   "set_the_world_on_fire": [
+      "put out a fire",
+      "on fire",
+      "play with fire"
+   ],
+   "shimmy_on_down": [
+      "face down",
+      "down at heel",
+      "hunker down"
+   ],
+   "shoot_down_1": [
+      "shoot off",
+      "shoot holes",
+      "shoot 'em up"
+   ],
+   "sick_to_the_back_teeth_2": [
+      "pull teeth",
+      "arm to the teeth",
+      "backache"
+   ],
+   "sit_in_for": [
+      "sit in",
+      "sit with",
+      "sit on"
+   ],
+   "sit_on_one's_hands": [
+      "sit on",
+      "sit on one's ass",
+      "sit one's ass down"
+   ],
+   "skate_on_thin_ice": [
+      "get one's skates on",
+      "on thin ice",
+      "skate over"
+   ],
+   "skeleton_in_the_closet": [
+      "out of the closet",
+      "skeleton in the cupboard",
+      "skeleton crew"
+   ],
+   "skeleton_in_the_cupboard": [
+      "cupboard",
+      "skeleton in the closet",
+      "cupboard love"
+   ],
+   "slip_back_to_old_ways_1": [
+      "parting of the ways",
+      "old habits die hard",
+      "roll back the years"
+   ],
+   "small_beer_1": [
+      "beer muscles",
+      "beer goggles",
+      "beer and skittles"
+   ],
+   "small_change": [
+      "loose change",
+      "change over",
+      "for a change"
+   ],
+   "small_fortune": [
+      "spend a fortune",
+      "fortune favours the bold",
+      "tell fortunes"
+   ],
+   "small_piece_of_the_puzzle": [
+      "a piece of cake",
+      "piece of cake",
+      "of a piece"
+   ],
+   "small_price_to_pay_1": [
+      "small fortune",
+      "price is right",
+      "smallholders"
+   ],
+   "small_talk": [
+      "big talk",
+      "talk the talk",
+      "sex talk"
+   ],
+   "small_window_of_time_1": [
+      "matter of time",
+      "window on the world",
+      "make time"
+   ],
+   "small_wonder": [
+      "one-hit wonder",
+      "two-hit wonder",
+      "no-hit wonder"
+   ],
+   "somewhere_over_the_rainbow": [
+      "rainbow",
+      "end of the rainbow",
+      "rainbow baby"
+   ],
+   "spanner_in_the_works": [
+      "throw a spanner in the works",
+      "spick and span",
+      "spick-and-span"
+   ],
+   "speak_for_1": [
+      "speak to",
+      "to speak of",
+      "speak for oneself"
+   ],
+   "speak_out_of_turn": [
+      "talk out of turn",
+      "speak out",
+      "speak up"
+   ],
+   "speak_too_soon_1": [
+      "speak soon",
+      "speak up",
+      "speak to"
+   ],
+   "speak_up_1": [
+      "speak out",
+      "speak to",
+      "talk up"
+   ],
+   "spit_in_the_ocean": [
+      "spit in the wind",
+      "spit into the wind",
+      "spit on"
+   ],
+   "split_on_a_rock": [
+      "split one's sides",
+      "split up",
+      "rockslide"
+   ],
+   "spring_for_1": [
+      "spring to life",
+      "spring to mind",
+      "Pierian spring"
+   ],
+   "spring_in_one's_step": [
+      "one step at a time",
+      "spring for",
+      "spring to life"
+   ],
+   "square_one": [
+      "back to square one",
+      "square on",
+      "start at square one"
+   ],
+   "stall_for_time_1": [
+      "waiting time",
+      "pressed for time",
+      "lockout"
+   ],
+   "stand_for_1": [
+      "stand in for",
+      "stand with",
+      "stand up"
+   ],
+   "stand_in_for": [
+      "stand for",
+      "stand with",
+      "stand out"
+   ],
+   "stand_on_one's_head": [
+      "hold one's head high",
+      "keep one's head",
+      "with one's head held high"
+   ],
+   "stand_to_reason_1": [
+      "stands to reason",
+      "stand by",
+      "stand up"
+   ],
+   "stars_in_one's_eyes_1": [
+      "see stars",
+      "written in the stars",
+      "stars align"
+   ],
+   "stars_in_one's_eyes_2": [
+      "see stars",
+      "written in the stars",
+      "believe one's eyes"
+   ],
+   "start_at_square_one_1": [
+      "square one",
+      "on the square",
+      "back to square one"
+   ],
+   "start_a_family_1": [
+      "run in the family",
+      "keep it in the family",
+      "family jewels"
+   ],
+   "start_date": [
+      "to date",
+      "double date",
+      "sell-by date"
+   ],
+   "start_from_scratch": [
+      "from scratch",
+      "get started",
+      "begin at the beginning"
+   ],
+   "start_line": [
+      "lead the line",
+      "in line",
+      "hold the line"
+   ],
+   "start_off_on_the_wrong_foot": [
+      "start off on the right foot",
+      "off on the wrong foot",
+      "put a foot wrong"
+   ],
+   "start_with_a_bang": [
+      "bang out",
+      "go out with a bang",
+      "bang up"
+   ],
+   "stay_in_one's_lane": [
+      "skate one's lane",
+      "in the fast lane",
+      "memory lane"
+   ],
+   "steady_hand_on_the_tiller": [
+      "have one's hand in the till",
+      "lay hands on",
+      "on the gripping hand"
+   ],
+   "step_up_to_the_plate_1": [
+      "step up",
+      "step down",
+      "step over"
+   ],
+   "step_up_to_the_plate_2": [
+      "step up",
+      "step down",
+      "step up your game"
+   ],
+   "step_up_to_the_plate_3": [
+      "step up",
+      "step up your game",
+      "step down"
+   ],
+   "stick_it_to_1": [
+      "stick to",
+      "put it to",
+      "stick it to the man"
+   ],
+   "stink_on_ice": [
+      "on ice",
+      "on thin ice",
+      "ice cool"
+   ],
+   "storm_in_a_teacup": [
+      "teacup",
+      "whip up a storm",
+      "tempest in a teapot"
+   ],
+   "storm_out_of_the_blocks": [
+      "storm off",
+      "whip up a storm",
+      "after the storm"
+   ],
+   "stuck_in_the_stone_age": [
+      "stuck in the Stone Age",
+      "stone dead",
+      "set in stone"
+   ],
+   "suit_down_to_the_ground_1": [
+      "run into the ground",
+      "go to ground",
+      "put in the ground"
+   ],
+   "takes_two_to_tango_1": [
+      "it takes two to tango",
+      "horizontal tango",
+      "turn two"
+   ],
+   "take_a_back_seat": [
+      "take the front seat",
+      "have a seat",
+      "sit back"
+   ],
+   "take_on_water": [
+      "hold water",
+      "walk on water",
+      "hold one's water"
+   ],
+   "take_to_one's_heels_1": [
+      "kick one's heels",
+      "kick up one's heels",
+      "dig one's heels in"
+   ],
+   "take_to_the_bank_1": [
+      "break the bank",
+      "bank night",
+      "laugh all the way to the bank"
+   ],
+   "take_to_the_grave_1": [
+      "take someone to the grave",
+      "turn in one's grave",
+      "dig one's own grave"
+   ],
+   "take_to_the_hills_1": [
+      "run for the hills",
+      "head for the hills",
+      "over the hills and far away"
+   ],
+   "take_up_the_cudgel_for_1": [
+      "chew the cud",
+      "take the mick",
+      "pack fudge"
+   ],
+   "talk_over_someone's_head": [
+      "go over someone's head",
+      "hold over someone's head",
+      "go to someone's head"
+   ],
+   "tamp_down_1": [
+      "duck down",
+      "put down",
+      "do down"
+   ],
+   "tempest_in_a_teapot": [
+      "teapot",
+      "chocolate teapot",
+      "storm in a teacup"
+   ],
+   "ten_to_one_1": [
+      "one at a time",
+      "nine times out of ten",
+      "five will get you ten"
+   ],
+   "the_ball_is_in_your_court": [
+      "the ball is in someone's court",
+      "leave the ball in someone's court",
+      "play ball"
+   ],
+   "the_big_bucks_1": [
+      "bighorns",
+      "bucksaws",
+      "buckskin"
+   ],
+   "the_big_cheese_in_the_company_1": [
+      "big cheese",
+      "hard cheese",
+      "say cheese"
+   ],
+   "the_big_guns_1": [
+      "big gun",
+      "guns blazing",
+      "big shot"
+   ],
+   "the_big_house_on_the_hill_1": [
+      "king of the hill",
+      "over the hill",
+      "hill to die on"
+   ],
+   "the_calm_before_the_storm": [
+      "weather the storm",
+      "after the storm",
+      "perfect storm"
+   ],
+   "the_devil_is_in_the_detail": [
+      "talk of the devil",
+      "speak of the devil and he appears",
+      "the devil is a liar"
+   ],
+   "the_genie's_out_of_the_bottle": [
+      "put the genie back in the bottle",
+      "bottle away",
+      "bottle up"
+   ],
+   "the_shoe_is_on_the_other_foot": [
+      "which foot the shoe is on",
+      "wait for the other shoe to drop",
+      "kick with the other foot"
+   ],
+   "the_sun_sets_on_something": [
+      "catch the sun",
+      "a trip to the sun",
+      "sunlight"
+   ],
+   "think_on_one's_feet": [
+      "on one's feet",
+      "find one's feet",
+      "at one's feet"
+   ],
+   "think_out_loud": [
+      "think aloud",
+      "think back",
+      "think up"
+   ],
+   "ticket_to_ride_1": [
+      "take the ride",
+      "take for a ride",
+      "free ride"
+   ],
+   "tickled_pink": [
+      "tickle pink",
+      "tickseed",
+      "tick over"
+   ],
+   "tie_in_with": [
+      "tie in",
+      "tie up",
+      "tie one on"
+   ],
+   "time_after_time_1": [
+      "what in time",
+      "time flies",
+      "make time"
+   ],
+   "time_out_of_mind": [
+      "out of mind",
+      "time out",
+      "out of one's mind"
+   ],
+   "tone_down_1": [
+      "tune out",
+      "lighten up",
+      "turn down"
+   ],
+   "tongue_in_cheek": [
+      "turn the other cheek",
+      "bite tongue",
+      "hold tongue"
+   ],
+   "too_bad_1": [
+      "bad news",
+      "good grief",
+      "not half bad"
+   ],
+   "too_big_for_one's_boots_1": [
+      "fill one's boots",
+      "kicking boots",
+      "hang up one's boots"
+   ],
+   "too_big_for_one's_boots_3": [
+      "fill one's boots",
+      "kicking boots",
+      "hang up one's boots"
+   ],
+   "too_close_to_call_1": [
+      "close call",
+      "call out",
+      "come to a close"
+   ],
+   "too_good_for_this_world_1": [
+      "not long for this world",
+      "out of this world",
+      "not for the world"
+   ],
+   "too_good_to_be_true_1": [
+      "truth be told",
+      "true to form",
+      "up to no good"
+   ],
+   "too_hot_to_hold_1": [
+      "hot hand",
+      "hot and heavy",
+      "hot off the presses"
+   ],
+   "too_rich_for_one's_blood_1": [
+      "out for blood",
+      "one's blood is up",
+      "bad blood"
+   ],
+   "to_a_fault_1": [
+      "find fault",
+      "faultfinding",
+      "blame game"
+   ],
+   "to_a_t_1": [
+      "from A to Z",
+      "to a turn",
+      "to the letter"
+   ],
+   "to_boot_1": [
+      "get the boot",
+      "put the boot in",
+      "give someone the boot"
+   ],
+   "to_date_1": [
+      "out of date",
+      "blind date",
+      "double date"
+   ],
+   "to_die_for_1": [
+      "die",
+      "to the death",
+      "what for"
+   ],
+   "to_go_1": [
+      "go places",
+      "go towards",
+      "go far"
+   ],
+   "to_hell_in_a_handbasket_1": [
+      "raise hell",
+      "handbasket",
+      "to hell"
+   ],
+   "to_high_heaven_1": [
+      "high up",
+      "get high",
+      "high summer"
+   ],
+   "to_pieces_1": [
+      "cut to pieces",
+      "bits and pieces",
+      "of a piece"
+   ],
+   "to_say_the_least_1": [
+      "in the least",
+      "at the very least",
+      "not in the least"
+   ],
+   "to_spare_1": [
+      "have time to spare",
+      "spare tyre",
+      "spare tire"
+   ],
+   "to_the_bone_1": [
+      "bone to pick",
+      "chill to the bone",
+      "throw a bone to"
+   ],
+   "try_on_for_size_1": [
+      "size up",
+      "try it on",
+      "have it large"
+   ],
+   "turn_back": [
+      "turn back on",
+      "turn down",
+      "turn over"
+   ],
+   "turn_back_the_clock": [
+      "wind back the clock",
+      "put the clock back",
+      "run the clock down"
+   ],
+   "turn_in_one's_grave": [
+      "take to the grave",
+      "take someone to the grave",
+      "dig one's own grave"
+   ],
+   "turn_on_its_head": [
+      "turn someone's head",
+      "turn heads",
+      "use one's head"
+   ],
+   "turn_on_one's_heel": [
+      "bring to heel",
+      "kick one's heels",
+      "kick up one's heels"
+   ],
+   "turn_to_dust_1": [
+      "collect dust",
+      "catch dust",
+      "dust settles"
+   ],
+   "turn_up_for_the_book_1": [
+      "write the book",
+      "throw the book at",
+      "make book"
+   ],
+   "turn_up_for_the_book_3": [
+      "turn up",
+      "throw the book at",
+      "write the book"
+   ],
+   "twenty_to_the_dozen_1": [
+      "decimal dozen",
+      "a dime a dozen",
+      "cheaper by the dozen"
+   ],
+   "two_for_two_2": [
+      "eat for two",
+      "turn two",
+      "put two and two together"
+   ],
+   "two_left_feet_1": [
+      "two left hands",
+      "feet first",
+      "at one's feet"
+   ],
+   "two_left_hands_1": [
+      "two left feet",
+      "change hands",
+      "extra pair of hands"
+   ],
+   "two_peas_in_a_pod_1": [
+      "seedpods",
+      "seedpod",
+      "full of beans"
+   ],
+   "two_thumbs_up_1": [
+      "thumbstall",
+      "thumbscrew",
+      "thumbscrews"
+   ],
+   "up_against_1": [
+      "tell against",
+      "turn against",
+      "pit against"
+   ],
+   "up_for_2": [
+      "up on",
+      "do up",
+      "all up"
+   ],
+   "up_for_grabs_2": [
+      "up for",
+      "up on",
+      "all up"
+   ],
+   "up_in_arms": [
+      "arm up",
+      "up in the air",
+      "babe in arms"
+   ],
+   "up_in_the_air": [
+      "in the air",
+      "up in arms",
+      "beat the air"
+   ],
+   "up_on_one's_ear": [
+      "up to one's ears",
+      "ear to the ground",
+      "prick up ears"
+   ],
+   "up_to_eleven_2": [
+      "up to something",
+      "average up",
+      "ten to one"
+   ],
+   "up_to_here_2": [
+      "up to something",
+      "put up to",
+      "up for"
+   ],
+   "up_to_one's_ears_2": [
+      "up on one's ear",
+      "all ears",
+      "believe one's ears"
+   ],
+   "vouch_for_1": [
+      "what for",
+      "make for",
+      "for the love of"
+   ],
+   "wait_for_the_ball_to_drop_1": [
+      "drop the ball",
+      "carry the ball",
+      "have a ball"
+   ],
+   "walking_on_air": [
+      "take air",
+      "catch air",
+      "in the air"
+   ],
+   "walk_in_the_park": [
+      "take a walk",
+      "in a walk",
+      "knock out the park"
+   ],
+   "walk_in_the_snow": [
+      "snow out",
+      "snow under",
+      "snow job"
+   ],
+   "walk_on_broken_glass": [
+      "turn down a glass",
+      "glass ceiling",
+      "glasswork"
+   ],
+   "walk_on_eggshells": [
+      "cake walk",
+      "eggshells",
+      "eggshell"
+   ],
+   "walk_on_the_wild_side": [
+      "run wild",
+      "call of the wild",
+      "go wild"
+   ],
+   "walk_on_water": [
+      "take on water",
+      "carry someone's water",
+      "take a walk"
+   ],
+   "water_over_the_dam": [
+      "water under the bridge",
+      "head above water",
+      "water down"
+   ],
+   "water_to_one's_mill_1": [
+      "trouble at mill",
+      "go through the mill",
+      "millwork"
+   ],
+   "welcome_to_my_world_1": [
+      "come into the world",
+      "coming into the world",
+      "mean the world to"
+   ],
+   "what's_in_it_for_me_1": [
+      "what's it to you",
+      "nothing for it",
+      "in for it"
+   ],
+   "what_for_1": [
+      "give what for",
+      "what with",
+      "for show"
+   ],
+   "what_in_time": [
+      "why in time",
+      "time after time",
+      "matter of time"
+   ],
+   "whip_up_a_storm_1": [
+      "cook up a storm",
+      "storm off",
+      "take by storm"
+   ],
+   "why_in_the_world": [
+      "why on Earth",
+      "in the world",
+      "why in time"
+   ],
+   "why_in_time": [
+      "what in time",
+      "time after time",
+      "why in the world"
+   ],
+   "why_on_earth": [
+      "why in time",
+      "why in the world",
+      "hell on earth"
+   ],
+   "window_on_the_world": [
+      "out the window",
+      "outside world",
+      "the world over"
+   ],
+   "wind_back_the_clock": [
+      "turn back the clock",
+      "turn the clock back",
+      "put the clock back"
+   ],
+   "wind_up_1": [
+      "wind down",
+      "get the wind up",
+      "wind off"
+   ],
+   "with_a_view_to_1": [
+      "in view of",
+      "with an eye to",
+      "with an eye towards"
+   ],
+   "woman_on_the_street": [
+      "outdoorswoman",
+      "man on the street",
+      "woman among women"
+   ],
+   "writing_on_the_wall": [
+      "handwriting on the wall",
+      "piece of writing",
+      "handwriting"
+   ],
+   "written_all_over_someone's_face": [
+      "have one's name written all over",
+      "save someone's face",
+      "out of one's face"
+   ],
+   "written_in_the_stars": [
+      "see stars",
+      "stars in one's eyes",
+      "stars align"
+   ],
+   "yellow_bellied": [
+      "see yellow",
+      "yellow light",
+      "yellow streak"
+   ],
+   "zip_up_1": [
+      "zip it",
+      "zip past",
+      "zip one's lip"
+   ],
+   "aftereffect": [
+      "aftereffects",
+      "aftercare",
+      "afterburner"
+   ],
+   "afterglows": [
+      "afterglow",
+      "afterimage",
+      "afterimages"
+   ],
+   "afterlife": [
+      "living death",
+      "good life",
+      "graveyard"
+   ],
+   "afterlives": [
+      "afterthoughts",
+      "aftertastes",
+      "afterthought"
+   ],
+   "aftermath": [
+      "aftermaths",
+      "tear up",
+      "after the storm"
+   ],
+   "afternoon": [
+      "afternoons",
+      "high noon",
+      "noonday"
+   ],
+   "aftershocks": [
+      "aftershock",
+      "snowshoes",
+      "snowshoe"
+   ],
+   "aftertastes": [
+      "aftertaste",
+      "foretastes",
+      "afterlives"
+   ],
+   "backdrops": [
+      "backdrop",
+      "backgrounds",
+      "backgrounding"
+   ],
+   "backgammon": [
+      "backbeat",
+      "backchat",
+      "backswimmer"
+   ],
+   "backpacking": [
+      "backpack",
+      "backpacks",
+      "backpackers"
+   ],
+   "backrests": [
+      "backrest",
+      "armrests",
+      "footrests"
+   ],
+   "backrooms": [
+      "backroom",
+      "playrooms",
+      "showrooms"
+   ],
+   "backspaces": [
+      "backspace",
+      "backspacer",
+      "space out"
+   ],
+   "backwoods": [
+      "backwoodsmen",
+      "backwoodsman",
+      "softwoods"
+   ],
+   "bigwigs": [
+      "bigwig",
+      "earwigs",
+      "bigheads"
+   ],
+   "blueberries": [
+      "blueberry",
+      "blackberries",
+      "strawberries"
+   ],
+   "blueprints": [
+      "blueprint",
+      "offprints",
+      "small print"
+   ],
+   "bookend": [
+      "bookends",
+      "book in",
+      "bookstall"
+   ],
+   "crossbars": [
+      "crossbar",
+      "sidebars",
+      "handlebars"
+   ],
+   "crossbows": [
+      "crossbow",
+      "bowstrings",
+      "shot across the bow"
+   ],
+   "crossbow_1": [
+      "crossbows",
+      "shot across the bow",
+      "take a bow"
+   ],
+   "crossbreeding": [
+      "crossbreeds",
+      "crossbreed",
+      "offspring"
+   ],
+   "crossfire_1": [
+      "crossfires",
+      "caught in the crossfire",
+      "escape fire"
+   ],
+   "crosshairs": [
+      "in the crosshairs",
+      "wirehairs",
+      "wirehair"
+   ],
+   "crossover": [
+      "crossovers",
+      "overcrossing",
+      "cross the bridge"
+   ],
+   "crossovers": [
+      "crossover",
+      "overcrossing",
+      "crosscuts"
+   ],
+   "crossroads": [
+      "low road",
+      "high road",
+      "crossway"
+   ],
+   "crosstie_1": [
+      "crosspatch",
+      "crosshead",
+      "crosshatch"
+   ],
+   "crosswalks_1": [
+      "crosswalk",
+      "cross paths",
+      "catwalks"
+   ],
+   "crosswinds": [
+      "crosswind",
+      "break wind",
+      "sidewinders"
+   ],
+   "crossword": [
+      "crosswords",
+      "headword",
+      "backsword"
+   ],
+   "crosswords": [
+      "crossword",
+      "headwords",
+      "watchwords"
+   ],
+   "grandchildren": [
+      "grandparents",
+      "granddaughters",
+      "grandsons"
+   ],
+   "grandparents": [
+      "grandchildren",
+      "grandmothers",
+      "grandpas"
+   ],
+   "greenhouse_1": [
+      "greenhouses",
+      "sunlight",
+      "grassland"
+   ],
+   "leftover_1": [
+      "holdovers",
+      "handover",
+      "stopover"
+   ],
+   "leftover_2": [
+      "holdovers",
+      "handover",
+      "stopover"
+   ],
+   "microchips": [
+      "hardware",
+      "chipboard",
+      "chip in"
+   ],
+   "microcosm": [
+      "micromanagement",
+      "pill mill",
+      "microeconomics"
+   ],
+   "microeconomics": [
+      "hypermarkets",
+      "micromanagement",
+      "economical with the truth"
+   ],
+   "micromanagement": [
+      "talent management",
+      "microeconomics",
+      "microcosm"
+   ],
+   "microscopes": [
+      "under the microscope",
+      "eyepieces",
+      "eyepiece"
+   ],
+   "microsecond": [
+      "zero hour",
+      "midday",
+      "small window of time"
+   ],
+   "midafternoon": [
+      "midrib",
+      "midribs",
+      "midpoint"
+   ],
+   "midbrain_1": [
+      "midvein",
+      "midribs",
+      "midrib"
+   ],
+   "middleman_1": [
+      "middlemen",
+      "main man",
+      "midshipman"
+   ],
+   "middlemen": [
+      "middleman",
+      "midshipmen",
+      "middlebrows"
+   ],
+   "midlands": [
+      "heathland",
+      "midland",
+      "moorland"
+   ],
+   "midpoint_1": [
+      "midpoints",
+      "midgame",
+      "midline"
+   ],
+   "midsections": [
+      "midsection",
+      "midribs",
+      "midbrain"
+   ],
+   "midterms": [
+      "midterm",
+      "midribs",
+      "midpoints"
+   ],
+   "midwatch_1": [
+      "midgame",
+      "stopwatch",
+      "deathwatch"
+   ],
+   "redcoat_1": [
+      "redcoats",
+      "turncoat",
+      "bluecoat"
+   ],
+   "smallpox": [
+      "outbreak",
+      "measles",
+      "poxvirus"
+   ]
+}

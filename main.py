@@ -1,7 +1,7 @@
 import json
 
 from graphs.parsers.RebusGraphParser import RebusGraphParser
-from graphs.RebusImageConverter import RebusImageConverter
+from graphs.legacy.RebusImageConverter import RebusImageConverter
 
 # scraper = WiktionaryIdiomsWebScraper()
 # scraper.scrape()

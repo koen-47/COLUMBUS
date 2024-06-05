@@ -8,7 +8,7 @@ inflect = inflect.engine()
 
 class Rule:
     class Relational:
-        INSIDE = ["in", "inside"]
+        INSIDE = ["in", "inside", "into"]
         OUTSIDE = ["out", "outside"]
         ABOVE = ["above", "over", "on", "upon"]
         NEXT_TO = ["next"]
@@ -17,20 +17,20 @@ class Rule:
         class Direction:
             UP = ["up"]
             DOWN = ["down"]
-            REVERSE = ["reverse", "back", "mirror", "inverse", "rear", "left"]
+            REVERSE = ["reverse", "back", "mirror", "inverse", "rear", "left", "flip"]
 
         class Style:
-            COLOR = ["black", "blue", "orange", "green", "red", "purple", "brown", "pink", "gray", "yellow"]
-            CROSS = ["cross"]
+            COLOR = ["black", "blue", "orange", "green", "red", "purple", "brown", "pink", "gray", "yellow", "gold"]
+            CROSS = ["cross", "crossed", "crossing"]
 
             class Size:
-                BIG = ["big", "large"]
-                SMALL = ["small", "little"]
+                BIG = ["big", "large", "grand", "bigger", "biggest", "jumbo", "giant"]
+                SMALL = ["small", "little", "micro", "smaller", "smallest", "miniature"]
 
         class Highlight:
-            AFTER = ["after", "end"]
-            BEFORE = ["before", "begin", "start", "left"]
-            MIDDLE = ["middle", "mid"]
+            AFTER = ["after", "end", "behind"]
+            BEFORE = ["before", "begin", "start", "left", "starting", "beginning"]
+            MIDDLE = ["middle", "mid", "my"]
 
         class Position:
             HIGH = ["high"]
@@ -42,12 +42,12 @@ class Rule:
             TWO = ["two", "double", "to"]
             FOUR = ["four"]
 
-    ALL_RULES = ["color", "reverse", "cross", "high", "repeat", "position", "direction", "size", "sound", "highlight"]
+    ALL_RULES = ["color", "reverse", "cross", "high", "repeat", "position", "direction", "size", "sound", "highlight", "icon"]
 
     @staticmethod
     def find_all(word, is_plural):
         conflicts = [rule for rule, keyword in Rule.get_all_rules()["individual"].items() if word in keyword]
-        word_singular = inflect.singular_noun(word)
+        word_singular = inflect.singular_noun(word) if word is not None else word
         rules = {}
 
         # INDIVIDUAL PATTERNS
@@ -88,8 +88,9 @@ class Rule:
             rules["repeat"] = 4
 
         # INCLUDE SOUND PATTERNS
-        with open(f"{os.path.dirname(__file__)}/../../data/misc/homophones_v2.json", "r") as file:
+        with open(f"{os.path.dirname(__file__)}/../../saved/homophones_v2.json", "r") as file:
             homophones = json.load(file)
+
         if word not in homophones and word_singular not in homophones:
             return rules, conflicts
 

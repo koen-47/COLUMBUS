@@ -13,10 +13,13 @@ from sklearn.metrics.pairwise import cosine_similarity
 from tqdm import tqdm
 
 from graphs.parsers.RebusGraphParser import RebusGraphParser
-from util import get_node_attributes
+from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
+from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
+from util import get_node_attributes, get_answer_graph_pairs
 
 inflect = inflect.engine()
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model_name = "all-MiniLM-L6-v2"
+model = SentenceTransformer(model_name)
 
 
 def most_similar_tfidf(input_phrase, phrase_set, num_results=50):
@@ -34,28 +37,42 @@ def most_similar_tfidf(input_phrase, phrase_set, num_results=50):
     return dict(phrase_similarities)
 
 
+def most_similar_jaccard(input_phrase, visible_phrase, phrase_set, split_phrase_set):
+    def _jaccard_sim(phrase_1, phrase_2):
+        phrase_1, phrase_2 = set(phrase_1.split()), set(phrase_2.split())
+        return len(phrase_1 & phrase_2) / len(phrase_1 | phrase_2)
+
+    similarities = {phrase: _jaccard_sim(split_phrase, visible_phrase) for phrase, split_phrase in
+                    zip(phrase_set, split_phrase_set)}
+    similarities = sorted(similarities.items(), key=lambda x: x[1], reverse=True)
+    return dict(similarities)
+
+
 def get_bert_encodings(phrases):
     return [model.encode(phrase) for phrase in tqdm(phrases, desc="Encoding with BERT")]
 
 
-def most_similar_bert(input_phrase, phrase_set, num_results=50, encodings=None):
+def most_similar_bert(input_phrase, phrase_set, encodings=None):
     input_embedding = model.encode(input_phrase)
-    if encodings is not None:
-        similarities = np.array([enc.dot(input_embedding) for enc in encodings])
-    else:
-        similarities = np.array([model.encode(s).dot(input_embedding) for s in tqdm(phrase_set, desc="Encoding with BERT")])
+    similarities = np.array([enc.dot(input_embedding) for enc in encodings])
     similarities = (similarities - similarities.min()) / (similarities.max() - similarities.min())
-    phrase_similarities = sorted(dict(zip(phrase_set, similarities)).items(), key=lambda x: x[1], reverse=True)[:num_results]
+    phrase_similarities = sorted(dict(zip(phrase_set, similarities)).items(), key=lambda x: x[1], reverse=True)
     return dict(phrase_similarities)
 
+    # if encodings is not None:
+    #     similarities = np.array([enc.dot(input_embedding) for enc in encodings])
+    # else:
+    #     similarities = np.array([model.encode(s).dot(input_embedding) for s in
+    #     tqdm(phrase_set, desc="Encoding with BERT")])
 
-def most_similar_avg(similar_tfidf, similar_bert, alpha=0.85, num_results=10):
+
+def most_similar_avg(similar_tfidf, similar_bert, alpha=0.8, num_results=10):
     for phrase_tfidf, similarity_tfidf in similar_tfidf.items():
         similarity_bert = similar_bert[phrase_tfidf]
         similarity_avg = alpha * similarity_bert + (1 - alpha) * similarity_tfidf
         similar_bert[phrase_tfidf] = [similarity_bert, similarity_tfidf, similarity_avg]
     most_similar = similar_bert.copy()
-    most_similar = sorted(most_similar.items(), key=lambda x: x[1][2], reverse=True)[:num_results]
+    most_similar = sorted(list(most_similar.items()), key=lambda x: x[1][-1], reverse=True)
     return dict(most_similar)
 
 
@@ -105,29 +122,46 @@ def generate_compound_distractors():
         json.dump(answer_to_distractors, file, indent=3)
 
 
-def generate_idiom_distractors():
-    generated_idioms = [" ".join(os.path.basename(file).split(".")[0].split("_"))
-                        for file in glob.glob("../results/idioms/all/*")]
+def generate_idiom_distractors(phrase_graphs):
     with open("../saved/idioms_raw.json", "r") as file:
-        idioms = json.load(file)
+        phrases = json.load(file)
+    with open("../saved/custom_phrases.json", "r") as file:
+        phrases += json.load(file)
+    compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in pd.read_csv("../saved/ladec_raw_small.csv").iterrows()}
+    custom_compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in pd.read_csv("../saved/custom_compounds.csv").iterrows()}
+    compounds.update(custom_compounds)
+    phrases = phrases + list(compounds.keys())
+    split_phrases = phrases + list(compounds.values())
 
-    rebus_parser = RebusGraphParser("../saved/ladec_raw_small.csv")
-    bert_encodings = get_bert_encodings(idioms)
+    bert_encodings = get_bert_encodings(phrases)
     answer_to_distractors = {}
 
-    for idiom in generated_idioms:
-        # try:
-        graph = rebus_parser.parse_idiom(idiom)
-        visible_words = " ".join([node["text"].lower() for node in list(get_node_attributes(graph).values())])
-        similar_bert = most_similar_bert(idiom, idioms, num_results=len(idioms), encodings=bert_encodings)
-        similar_tfidf = most_similar_tfidf(visible_words, idioms, num_results=len(idioms))
-        most_similar = most_similar_avg(similar_tfidf, similar_bert, num_results=11)
-        most_similar = [idiom_ for idiom_ in most_similar.keys() if idiom_ != idiom]
-        answer_to_distractors[idiom] = most_similar
+    for phrase, graph in list(phrase_graphs.items()):
+        visible_words = " ".join([node["text"].lower() if "icon" not in node else list(node["icon"].keys())[0].lower()
+                                  for node in list(get_node_attributes(graph).values())])
+        phrase_parts = phrase.split("_")
+        if phrase_parts[-1].isnumeric():
+            phrase_parts = phrase_parts[:-1]
+        phrase_ = " ".join(phrase_parts)
 
-    with open("../saved/idiom_distractors_v2.json", "w") as file:
+        # print(f"{phrase_}, {visible_words}")
+        similar_jaccard = most_similar_jaccard(phrase_, visible_words, phrases, split_phrases)
+        similar_bert = most_similar_bert(phrase_, phrases, encodings=bert_encodings)
+        most_similar = most_similar_avg(similar_jaccard, similar_bert)
+        most_similar = [p for p in most_similar.keys() if p != phrase_][:10]
+        most_similar_top3 = most_similar[:3]
+        answer_to_distractors[phrase] = [{"visible": visible_words}, most_similar_top3, most_similar[3:]]
+
+    with open(f"../saved/distractors_{model_name.lower()}.json", "w") as file:
         json.dump(answer_to_distractors, file, indent=3)
 
 
-generate_compound_distractors()
-generate_idiom_distractors()
+# phrase_graphs, compound_graphs = get_answer_graph_pairs()
+# phrase_graphs.update(compound_graphs)
+# generate_idiom_distractors(phrase_graphs)
+
+with open(f"../saved/distractors_{model_name.lower()}.json", "r") as file:
+    distractors = json.load(file)
+    with open(f"../saved/distractors_{model_name.lower()}_final.json", "w") as file_2:
+        distractors = {phrase: distractor[1] for phrase, distractor in distractors.items()}
+        json.dump(distractors, file_2, indent=3)

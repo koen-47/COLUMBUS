@@ -2,7 +2,7 @@ import unittest
 
 import networkx as nx
 
-from graphs.RebusGraph import RebusGraph
+from das6.parsers.RebusGraph import RebusGraph
 from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
 from graphs.templates.Template import Template
 

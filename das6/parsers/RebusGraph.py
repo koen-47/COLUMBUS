@@ -2,9 +2,10 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 from util import get_node_attributes, get_edges_from_node
+from graphs.patterns.Rule import Rule
 
 
-class RebusGraph(nx.MultiDiGraph):
+class RebusGraph(nx.DiGraph):
     def __init__(self, **attr):
         super().__init__(**attr)
 
@@ -60,11 +61,28 @@ class RebusGraph(nx.MultiDiGraph):
         plt.margins(0.3)
         plt.show()
 
+    def compute_difficulty(self, adjust_for_size=True):
+        n_ind_rules = 0
+        n_rel_rules = 0
+        node_attrs = get_node_attributes(self)
+        for node, attrs in node_attrs.items():
+            attrs_ = attrs.copy()
+            del attrs_["text"]
+            if attrs_["repeat"] == 1:
+                del attrs_["repeat"]
+            n_ind_rules += len(attrs_)
+        for edge, rule in nx.get_edge_attributes(self, "rule").items():
+            if rule != "NEXT-TO":
+                n_rel_rules += 1
+        if adjust_for_size:
+            return n_ind_rules / len(node_attrs), n_rel_rules
+        return n_ind_rules, n_rel_rules
+
     def __str__(self):
         final_str = f"Graph: {self.graph}\n"
         node_attrs = get_node_attributes(self)
         for node, attrs in node_attrs.items():
-            final_str += f"Node {node} (attributes: {str(attrs)})\n"
-        for i, (edge, rule) in enumerate(nx.get_edge_attributes(self, "rule").items()):
-            final_str += f"Edge {i+1}: node {edge[0]} -{'-' if rule is None else '-(' + rule + ')-'}> node {edge[1]}\n"
+            final_str += f"Node {node}: {str(attrs)}\n"
+        for edge, rule in nx.get_edge_attributes(self, "rule").items():
+            final_str += f"Node {edge[0]} -{'-' if rule is None else '-(' + rule + ')-'}> Node {edge[1]}\n"
         return final_str

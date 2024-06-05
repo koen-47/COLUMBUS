@@ -4,43 +4,132 @@ import os
 from tqdm import tqdm
 from PIL import Image
 import torch
-from transformers import AutoProcessor, LlavaForConditionalGeneration, BitsAndBytesConfig
+from transformers import AutoProcessor, LlavaForConditionalGeneration, LlavaNextProcessor, LlavaNextForConditionalGeneration, BitsAndBytesConfig
 
 from models.ModelExperiment import ModelExperiment
 from data.Benchmark import Benchmark
 
 
 class LlavaExperiment(ModelExperiment):
-    def __init__(self, include_description=False):
-        super().__init__(include_description)
-        self.name = "Llava-1.5-13b"
-        if self.include_description:
-            self.prompt = "USER: <image>\n" \
-                          "You are given a rebus puzzle. " \
-                          "It consists of text that is used to convey a word or phrase. " \
-                          "It needs to be solved through creative thinking. " \
-                          "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? " \
-                          "(A) {} (B) {} (C) {} (D) {}\n" \
-                          "ASSISTANT:"
+    def __init__(self, model_type, prompt_type=1):
+        super().__init__(prompt_type)
+        self.model_type = model_type
+        if model_type == "13b":
+            self.name = "Llava-1.5-13b"
+            if self.prompt_type == 1:
+                self.prompt = "USER: <image>\n" \
+                              "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? " \
+                              "(A) {} (B) {} (C) {} (D) {}\n" \
+                              "ASSISTANT:"
+            elif self.prompt_type == 2:
+                self.prompt = "USER: <image>\n" \
+                              "You are given an image of a rebus puzzle. " \
+                              "It consists of text that is used to convey a word or phrase. " \
+                              "It needs to be solved through creative thinking. " \
+                              "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? " \
+                              "(A) {} (B) {} (C) {} (D) {}\n" \
+                              "ASSISTANT:"
+            elif self.prompt_type == 3:
+                self.prompt = "USER: <image>\n" \
+                              "You are given an image of a rebus puzzle. " \
+                              "It consists of text that is used to convey a word or phrase. " \
+                              "It needs to be solved through creative thinking. " \
+                              "You are also given a description of the graph representation of the puzzle. " \
+                              "The nodes are elements that contain text that are manipulated through its attributes. " \
+                              "The description is as follows:\n" \
+                              "{}\n" \
+                              "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
+                              "(A) {} (B) {} (C) {} (D) {}\n" \
+                              "ASSISTANT:"
+            elif self.prompt_type == 4:
+                self.prompt = "USER: <image>\n" \
+                              "You are given an image of a rebus puzzle. " \
+                              "It consists of text that is used to convey a word or phrase. " \
+                              "It needs to be solved through creative thinking. " \
+                              "You are also given a description of the graph representation of the puzzle. " \
+                              "The nodes are elements that contain text that are manipulated through its attributes. " \
+                              "The edges define relationships between the elements." \
+                              "The description is as follows:\n" \
+                              "{}\n" \
+                              "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
+                              "(A) {} (B) {} (C) {} (D) {}\n" \
+                              "ASSISTANT:"
         else:
-            self.prompt = "USER: <image>\n" \
-                          "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? " \
-                          "(A) {} (B) {} (C) {} (D) {}\n" \
-                          "ASSISTANT:"
+            self.name = "Llava-1.6-34b"
+            if self.prompt_type == 1:
+                self.prompt = "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\n" \
+                              "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? " \
+                              "(A) {} (B) {} (C) {} (D) {}\n" \
+                              "<|im_end|><|im_start|>assistant\n"
+            elif self.prompt_type == 2:
+                self.prompt = "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\n" \
+                              "You are given an image of a rebus puzzle. " \
+                              "It consists of text that is used to convey a word or phrase. " \
+                              "It needs to be solved through creative thinking. " \
+                              "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)? " \
+                              "(A) {} (B) {} (C) {} (D) {}\n" \
+                              "<|im_end|><|im_start|>assistant\n"
+            elif self.prompt_type == 3:
+                self.prompt = "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\n" \
+                              "You are given an image of a rebus puzzle. " \
+                              "It consists of text that is used to convey a word or phrase. " \
+                              "It needs to be solved through creative thinking. " \
+                              "You are also given a description of the graph representation of the puzzle. " \
+                              "The nodes are elements that contain text that are manipulated through its attributes. " \
+                              "The description is as follows:\n" \
+                              "{}\n" \
+                              "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
+                              "(A) {} (B) {} (C) {} (D) {}\n" \
+                              "<|im_end|><|im_start|>assistant\n"
+            elif self.prompt_type == 4:
+                self.prompt = "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\n" \
+                              "You are given an image of a rebus puzzle. " \
+                              "It consists of text that is used to convey a word or phrase. " \
+                              "It needs to be solved through creative thinking. " \
+                              "You are also given a description of the graph representation of the puzzle. " \
+                              "The nodes are elements that contain text that are manipulated through its attributes. " \
+                              "The edges define relationships between the elements." \
+                              "The description is as follows:\n" \
+                              "{}\n" \
+                              "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
+                              "(A) {} (B) {} (C) {} (D) {}\n" \
+                              "<|im_end|><|im_start|>assistant\n"
+
         self._load_model()
 
     def _load_model(self):
-        self.model = LlavaForConditionalGeneration.from_pretrained(
-            "llava-hf/llava-1.5-13b-hf",
-            cache_dir=self.models_dir,
-            torch_dtype=torch.float16,
-            low_cpu_mem_usage=True
-        ).to(self.device)
+        if self.model_type == "13b":
+            self.model = LlavaForConditionalGeneration.from_pretrained(
+                "llava-hf/llava-1.5-13b-hf",
+                cache_dir=self.models_dir,
+                torch_dtype=torch.float16,
+                low_cpu_mem_usage=True
+            ).to(self.device)
 
-        self.processor = AutoProcessor.from_pretrained(
-            "llava-hf/llava-1.5-13b-hf",
-            cache_dir=self.models_dir
-        )
+            self.processor = AutoProcessor.from_pretrained(
+                "llava-hf/llava-1.5-13b-hf",
+                cache_dir=self.models_dir
+            )
+        elif self.model_type == "34b":
+            bnb_config = BitsAndBytesConfig(
+                load_in_4bit=True,
+                bnb_4bit_use_double_quant=True,
+                bnb_4bit_quant_type="nf4",
+                bnb_4bit_compute_dtype=torch.bfloat16
+            )
+
+            self.model = LlavaNextForConditionalGeneration.from_pretrained(
+                "llava-hf/llava-v1.6-34b-hf",
+                cache_dir=self.models_dir,
+                torch_dtype=torch.float16,
+                low_cpu_mem_usage=True,
+                quantization_config=bnb_config
+            )
+
+            self.processor = LlavaNextProcessor.from_pretrained(
+                "llava-hf/llava-v1.6-34b-hf",
+                cache_dir=self.models_dir
+            )
 
     def run_on_benchmark(self, save_dir):
         benchmark = Benchmark()
@@ -49,38 +138,55 @@ class LlavaExperiment(ModelExperiment):
         metadata = self.get_metadata(benchmark, save_dir)
         print(json.dumps(metadata, indent=3))
 
-        for puzzle in tqdm(compounds, desc=f"Prompting {self.name} (compounds)"):
-            image = Image.open(puzzle["image"]).convert("RGB")
-            options = puzzle["options"]
-            prompt = self.prompt.format(*options.values())
-            puzzle["prompt"] = prompt
-            inputs = self.processor(prompt, image, return_tensors='pt').to(device=self.device,
-                                                                           dtype=torch.float16)
-            output = self.model.generate(**inputs, max_new_tokens=200, do_sample=False)
-            generated_text = self.processor.decode(output[0][2:], skip_special_tokens=True)
-            puzzle["output"] = generated_text
+        if self.prompt_type != 4:
+            for puzzle in tqdm(compounds, desc=f"Prompting {self.name} (compounds)"):
+                image = Image.open(puzzle["image"]).convert("RGB")
+                options = puzzle["options"]
+                prompt_format = list(options.values())
+                if self.prompt_type == 3 or self.prompt_type == 4:
+                    prompt_format = [puzzle["metadata"]] + list(options.values())
+                prompt = self.prompt.format(*prompt_format)
+                puzzle["prompt"] = prompt
+                inputs = self.processor(prompt, image, return_tensors='pt').to(device=self.device,
+                                                                               dtype=torch.float16)
+                output = self.model.generate(**inputs, max_new_tokens=200, do_sample=False)
+                if self.model_type == "13b":
+                    generated_text = self.processor.decode(output[0][2:], skip_special_tokens=True)
+                else:
+                    generated_text = self.processor.decode(output[0], skip_special_tokens=True)
+                puzzle["output"] = generated_text
 
-        with open(f"{save_dir}/{'_'.join(self.name.lower().split())}_compounds_prompt_{int(self.include_description) + 1}.json", "w+") as file:
-            json.dump({
-                "metadata": metadata,
-                "results": compounds
-            }, file, indent=3)
+            with open(f"{save_dir}/{'_'.join(self.name.lower().split())}_compounds_prompt_{self.prompt_type}.json",
+                      "w+") as file:
+                json.dump({
+                    "metadata": metadata,
+                    "results": compounds
+                }, file, indent=3)
 
         for puzzle in tqdm(phrases, desc=f"Prompting {self.name} (phrases)"):
             image = Image.open(puzzle["image"]).convert("RGB")
             options = puzzle["options"]
-            prompt = self.prompt.format(*options.values())
+            prompt_format = list(options.values())
+            if self.prompt_type == 3:
+                prompt_format = [puzzle["metadata"]["nodes"]] + list(options.values())
+            elif self.prompt_type == 4:
+                prompt_format = [puzzle["metadata"]["nodes_and_edges"]] + list(options.values())
+            prompt = self.prompt.format(*prompt_format)
             puzzle["prompt"] = prompt
             inputs = self.processor(prompt, image, return_tensors='pt').to(device=self.device,
                                                                            dtype=torch.float16)
             output = self.model.generate(**inputs, max_new_tokens=200, do_sample=False)
-            generated_text = self.processor.decode(output[0][2:], skip_special_tokens=True)
+            if self.model_type == "13b":
+                generated_text = self.processor.decode(output[0][2:], skip_special_tokens=True)
+            else:
+                generated_text = self.processor.decode(output[0], skip_special_tokens=True)
             puzzle["output"] = generated_text
 
-        with open(f"{save_dir}/{'_'.join(self.name.lower().split())}_phrases_prompt_{int(self.include_description) + 1}.json", "w+") as file:
+        with open(f"{save_dir}/{'_'.join(self.name.lower().split())}_phrases_prompt_{self.prompt_type}.json",
+                  "w+") as file:
             json.dump({
                 "metadata": metadata,
                 "results": phrases
             }, file, indent=3)
 
-        self.delete_downloads()
+        # self.delete_downloads()

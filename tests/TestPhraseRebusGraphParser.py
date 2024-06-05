@@ -1,8 +1,6 @@
 import unittest
 
-from graphs.RebusGraph import RebusGraph
 from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
-from graphs.templates.Template import Template
 
 
 class TestPhraseRebusGraphParser(unittest.TestCase):
@@ -22,3 +20,41 @@ class TestPhraseRebusGraphParser(unittest.TestCase):
     def test_take_a_bite_out_of(self):
         graphs = self.parser.parse("beat the stuffing out of")
         print(graphs)
+
+    def test_whats_in_it_for_me(self):
+        graphs = self.parser.parse("what's in it for me")
+        print(graphs)
+
+    def test_cross_my_heart_and_hope_to_die(self):
+        graphs = self.parser.parse("cross my heart and hope to die")
+        print(graphs)
+
+    def test_go_big_or_go_home(self):
+        graphs = self.parser.parse("go big or go home")
+        for graph in graphs:
+            print(graph)
+
+    def test_off_ones_cross(self):
+        graphs = self.parser.parse("cross one's heart")
+        for graph in graphs:
+            print(graph)
+
+    def test_stars_in_ones_eyes(self):
+        graphs = self.parser.parse("stars in one's eyes")
+        for graph in graphs:
+            print(graph)
+
+    def test_eyes_on_the_prize(self):
+        graphs = self.parser.parse("eyes on the prize")
+        for graph in graphs:
+            print(graph)
+
+    def test_put_on_a_red_light(self):
+        graphs = self.parser.parse("put on a red light")
+        for graph in graphs:
+            print(graph)
+
+    def test_to_the_stars(self):
+        graphs = self.parser.parse("to the stars")
+        for graph in graphs:
+            print(graph)

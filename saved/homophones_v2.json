@@ -7,10 +7,21 @@
    "two": ["2"],
    "2": ["2"],
    "wright": ["right"],
+   "one": ["1"],
    "one's": ["1111"],
    "once": ["1111"],
-   "you": ["u"],
    "eye": ["i"],
    "eye's": ["iiii"],
-   "eyes": ["iiii"]
+   "eyes": ["iiii"],
+   "easy": ["ez"],
+   "three": ["3"],
+   "five": ["5"],
+   "six": ["6"],
+   "seven": ["7"],
+   "eight": ["ate"],
+   "nine": ["9"],
+   "ten": ["10"],
+   "nines": ["999"],
+   "twenty": ["20"],
+   "dozen": ["12"]
 }

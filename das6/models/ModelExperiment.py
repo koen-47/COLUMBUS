@@ -5,10 +5,10 @@ import torch
 
 
 class ModelExperiment:
-    def __init__(self, include_description):
+    def __init__(self, prompt_type):
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.models_dir = f"{os.path.dirname(__file__)}/downloads"
-        self.include_description = include_description
+        self.prompt_type = prompt_type
         self.name = ""
         self.prompt = ""
         
@@ -32,11 +32,12 @@ class ModelExperiment:
         compounds, phrases = benchmark.get_puzzles()
         return {
             "experiment": self.name,
-            "includes_description": self.include_description,
+            "prompt_type": self.prompt_type,
             "prompt_template": self.prompt,
             "n_compounds": len(compounds),
             "n_phrases": len(phrases),
             "save_dir": save_dir,
-            "models_dir": self.models_dir
+            "models_dir": self.models_dir,
+            "device": self.device
         }
 

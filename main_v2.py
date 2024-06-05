@@ -1,5 +1,5 @@
-from graphs.RebusGraphParser import RebusGraphParser
-from graphs.RebusImageConverter import RebusImageConverter
+from graphs.legacy.RebusGraphParser import RebusGraphParser
+from graphs.legacy.RebusImageConverter import RebusImageConverter
 
 rebus_parser = RebusGraphParser("./saved/ladec_raw_small.csv")
 image_converter = RebusImageConverter()

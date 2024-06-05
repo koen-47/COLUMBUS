@@ -1,0 +1,2066 @@
+{
+   "metadata": {
+      "experiment": "BLIP-2 opt-2.7b",
+      "prompt_type": 4,
+      "prompt_template": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\n{}\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) {} (B) {} (C) {} (D) {} Answer:",
+      "n_compounds": 621,
+      "n_phrases": 114,
+      "save_dir": "/var/scratch/hkd800/scripts/results/prompt_4",
+      "models_dir": "/var/scratch/hkd800/scripts/models/downloads",
+      "device": "cuda"
+   },
+   "results": [
+      {
+         "options": {
+            "A": "all in all",
+            "B": "at all",
+            "C": "one and all",
+            "D": "after all"
+         },
+         "correct": {
+            "A": "all in all"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/all_in_all.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'ALL', 'repeat': 1})\nNode 2 (attributes: {'text': 'ALL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'ALL', 'repeat': 1})\nNode 2 (attributes: {'text': 'ALL', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'ALL', 'repeat': 1})\nNode 2 (attributes: {'text': 'ALL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) all in all (B) at all (C) one and all (D) after all Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "arm in arm",
+            "B": "arm up",
+            "C": "long arm",
+            "D": "twist arm"
+         },
+         "correct": {
+            "A": "arm in arm"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/arm_in_arm.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'ARM', 'repeat': 1})\nNode 2 (attributes: {'text': 'ARM', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'ARM', 'repeat': 1})\nNode 2 (attributes: {'text': 'ARM', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'ARM', 'repeat': 1})\nNode 2 (attributes: {'text': 'ARM', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) arm in arm (B) arm up (C) long arm (D) twist arm Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "warm body",
+            "B": "arrive in a body",
+            "C": "arrive at",
+            "D": "move one's body"
+         },
+         "correct": {
+            "B": "arrive in a body"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/arrive_in_a_body.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'ARRIVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'BODY', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'ARRIVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'BODY', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'ARRIVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'BODY', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) warm body (B) arrive in a body (C) arrive at (D) move one's body Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "in hand",
+            "B": "on hand",
+            "C": "a bird in the hand",
+            "D": "hand in hand"
+         },
+         "correct": {
+            "C": "a bird in the hand"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/a_bird_in_the_hand.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BIRD', 'repeat': 1})\nNode 2 (attributes: {'text': 'HAND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BIRD', 'repeat': 1})\nNode 2 (attributes: {'text': 'HAND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BIRD', 'repeat': 1})\nNode 2 (attributes: {'text': 'HAND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) in hand (B) on hand (C) a bird in the hand (D) hand in hand Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "in the dark",
+            "B": "stab in the dark",
+            "C": "whistle in the dark",
+            "D": "a shot in the dark"
+         },
+         "correct": {
+            "D": "a shot in the dark"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/a_shot_in_the_dark.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'SHOT', 'repeat': 1})\nNode 2 (attributes: {'text': 'DARK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'SHOT', 'repeat': 1})\nNode 2 (attributes: {'text': 'DARK', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'SHOT', 'repeat': 1})\nNode 2 (attributes: {'text': 'DARK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) in the dark (B) stab in the dark (C) whistle in the dark (D) a shot in the dark Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "babe in arms",
+            "B": "babe magnet",
+            "C": "up in arms",
+            "D": "babe in the woods"
+         },
+         "correct": {
+            "A": "babe in arms"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/babe_in_arms.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BABE', 'repeat': 1})\nNode 2 (attributes: {'text': 'ARMS', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BABE', 'repeat': 1})\nNode 2 (attributes: {'text': 'ARMS', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BABE', 'repeat': 1})\nNode 2 (attributes: {'text': 'ARMS', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) babe in arms (B) babe magnet (C) up in arms (D) babe in the woods Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "a sight for sore eyes",
+            "B": "snake eyes",
+            "C": "babies in the eyes",
+            "D": "bat one's eyes"
+         },
+         "correct": {
+            "C": "babies in the eyes"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/babies_in_the_eyes.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BABIES', 'repeat': 1})\nNode 2 (attributes: {'text': 'EYES', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BABIES', 'repeat': 1})\nNode 2 (attributes: {'text': 'EYES', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BABIES', 'repeat': 1})\nNode 2 (attributes: {'text': 'EYES', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) a sight for sore eyes (B) snake eyes (C) babies in the eyes (D) bat one's eyes Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "spring to mind",
+            "B": "put someone in mind of",
+            "C": "bear in mind",
+            "D": "have in mind"
+         },
+         "correct": {
+            "C": "bear in mind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bear_in_mind.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BEAR', 'repeat': 1})\nNode 2 (attributes: {'text': 'MIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BEAR', 'repeat': 1})\nNode 2 (attributes: {'text': 'MIND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BEAR', 'repeat': 1})\nNode 2 (attributes: {'text': 'MIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) spring to mind (B) put someone in mind of (C) bear in mind (D) have in mind Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "blast out",
+            "B": "put the bee on",
+            "C": "queen bee",
+            "D": "bee in bonnet"
+         },
+         "correct": {
+            "D": "bee in bonnet"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bee_in_bonnet.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BEE', 'repeat': 1})\nNode 2 (attributes: {'text': 'BONNET', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BEE', 'repeat': 1})\nNode 2 (attributes: {'text': 'BONNET', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BEE', 'repeat': 1})\nNode 2 (attributes: {'text': 'BONNET', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) blast out (B) put the bee on (C) queen bee (D) bee in bonnet Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "play for love",
+            "B": "labor of love",
+            "C": "fall in love",
+            "D": "being in love"
+         },
+         "correct": {
+            "D": "being in love"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/being_in_love.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BEING', 'repeat': 1})\nNode 2 (attributes: {'text': 'LOVE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BEING', 'repeat': 1})\nNode 2 (attributes: {'text': 'LOVE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BEING', 'repeat': 1})\nNode 2 (attributes: {'text': 'LOVE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) play for love (B) labor of love (C) fall in love (D) being in love Answer:",
+         "output": "B"
+      },
+      {
+         "options": {
+            "A": "push one's luck",
+            "B": "be in luck",
+            "C": "out of luck",
+            "D": "ride one's luck"
+         },
+         "correct": {
+            "B": "be in luck"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/be_in_luck.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BE', 'repeat': 1})\nNode 2 (attributes: {'text': 'LUCK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BE', 'repeat': 1})\nNode 2 (attributes: {'text': 'LUCK', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BE', 'repeat': 1})\nNode 2 (attributes: {'text': 'LUCK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) push one's luck (B) be in luck (C) out of luck (D) ride one's luck Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "bone in the throat",
+            "B": "bone-idle",
+            "C": "bone-shaking",
+            "D": "bone in her teeth"
+         },
+         "correct": {
+            "A": "bone in the throat"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bone_in_the_throat.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BONE', 'repeat': 1})\nNode 2 (attributes: {'text': 'THROAT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BONE', 'repeat': 1})\nNode 2 (attributes: {'text': 'THROAT', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BONE', 'repeat': 1})\nNode 2 (attributes: {'text': 'THROAT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) bone in the throat (B) bone-idle (C) bone-shaking (D) bone in her teeth Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "born in a barn",
+            "B": "pony in the barn",
+            "C": "born and bred",
+            "D": "born yesterday"
+         },
+         "correct": {
+            "A": "born in a barn"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/born_in_a_barn.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BORN', 'repeat': 1})\nNode 2 (attributes: {'text': 'BARN', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BORN', 'repeat': 1})\nNode 2 (attributes: {'text': 'BARN', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BORN', 'repeat': 1})\nNode 2 (attributes: {'text': 'BARN', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) born in a barn (B) pony in the barn (C) born and bred (D) born yesterday Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "rock the boat",
+            "B": "row in the same boat",
+            "C": "in the same boat",
+            "D": "boy in the boat"
+         },
+         "correct": {
+            "D": "boy in the boat"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/boy_in_the_boat.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BOY', 'repeat': 1})\nNode 2 (attributes: {'text': 'BOAT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BOY', 'repeat': 1})\nNode 2 (attributes: {'text': 'BOAT', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BOY', 'repeat': 1})\nNode 2 (attributes: {'text': 'BOAT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) rock the boat (B) row in the same boat (C) in the same boat (D) boy in the boat Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "to the bone",
+            "B": "breed in the bone",
+            "C": "bred-in-the-bone",
+            "D": "bone-dry"
+         },
+         "correct": {
+            "B": "breed in the bone"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/breed_in_the_bone.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BREED', 'repeat': 1})\nNode 2 (attributes: {'text': 'BONE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BREED', 'repeat': 1})\nNode 2 (attributes: {'text': 'BONE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BREED', 'repeat': 1})\nNode 2 (attributes: {'text': 'BONE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) to the bone (B) breed in the bone (C) bred-in-the-bone (D) bone-dry Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "bring up",
+            "B": "rid out",
+            "C": "rough out",
+            "D": "bring out in a rash"
+         },
+         "correct": {
+            "D": "bring out in a rash"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bring_out_in_a_rash.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BRING', 'repeat': 1})\nNode 2 (attributes: {'text': 'RASH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 1 to node 2 (rule: OUTSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BRING', 'repeat': 1})\nNode 2 (attributes: {'text': 'RASH', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BRING', 'repeat': 1})\nNode 2 (attributes: {'text': 'RASH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 1 to node 2 (rule: OUTSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) bring up (B) rid out (C) rough out (D) bring out in a rash Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "broad-brush",
+            "B": "broad in the beam",
+            "C": "broad shoulders",
+            "D": "broad-beamed"
+         },
+         "correct": {
+            "B": "broad in the beam"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/broad_in_the_beam.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BROAD', 'repeat': 1})\nNode 2 (attributes: {'text': 'BEAM', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BROAD', 'repeat': 1})\nNode 2 (attributes: {'text': 'BEAM', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BROAD', 'repeat': 1})\nNode 2 (attributes: {'text': 'BEAM', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) broad-brush (B) broad in the beam (C) broad shoulders (D) broad-beamed Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "bump up",
+            "B": "bump in the road",
+            "C": "bump into",
+            "D": "bump and grind"
+         },
+         "correct": {
+            "B": "bump in the road"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bump_in_the_road.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BUMP', 'repeat': 1})\nNode 2 (attributes: {'text': 'ROAD', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BUMP', 'repeat': 1})\nNode 2 (attributes: {'text': 'ROAD', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BUMP', 'repeat': 1})\nNode 2 (attributes: {'text': 'ROAD', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) bump up (B) bump in the road (C) bump into (D) bump and grind Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "bun in the oven",
+            "B": "in a bake",
+            "C": "bun fight",
+            "D": "in the can"
+         },
+         "correct": {
+            "A": "bun in the oven"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bun_in_the_oven.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BUN', 'repeat': 1})\nNode 2 (attributes: {'text': 'OVEN', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BUN', 'repeat': 1})\nNode 2 (attributes: {'text': 'OVEN', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BUN', 'repeat': 1})\nNode 2 (attributes: {'text': 'OVEN', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) bun in the oven (B) in a bake (C) bun fight (D) in the can Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "bury head in the sand",
+            "B": "bury the lead",
+            "C": "in one's head",
+            "D": "stick one's head in the sand"
+         },
+         "correct": {
+            "A": "bury head in the sand"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/bury_head_in_the_sand.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'BURY HEAD', 'repeat': 1})\nNode 2 (attributes: {'text': 'SAND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'BURY HEAD', 'repeat': 1})\nNode 2 (attributes: {'text': 'SAND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'BURY HEAD', 'repeat': 1})\nNode 2 (attributes: {'text': 'SAND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) bury head in the sand (B) bury the lead (C) in one's head (D) stick one's head in the sand Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "whistle in the wind",
+            "B": "willow in the wind",
+            "C": "candle in the wind",
+            "D": "spit in the wind"
+         },
+         "correct": {
+            "C": "candle in the wind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/candle_in_the_wind.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'CANDLE', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'CANDLE', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'CANDLE', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) whistle in the wind (B) willow in the wind (C) candle in the wind (D) spit in the wind Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "bust a cap",
+            "B": "cap in hand",
+            "C": "hand in hand",
+            "D": "in hand"
+         },
+         "correct": {
+            "B": "cap in hand"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/cap_in_hand.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'CAP', 'repeat': 1})\nNode 2 (attributes: {'text': 'HAND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'CAP', 'repeat': 1})\nNode 2 (attributes: {'text': 'HAND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'CAP', 'repeat': 1})\nNode 2 (attributes: {'text': 'HAND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) bust a cap (B) cap in hand (C) hand in hand (D) in hand Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "get the sack",
+            "B": "cat in the sack",
+            "C": "give the sack",
+            "D": "in the sack"
+         },
+         "correct": {
+            "B": "cat in the sack"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/cat_in_the_sack.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'CAT', 'repeat': 1})\nNode 2 (attributes: {'text': 'SACK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'CAT', 'repeat': 1})\nNode 2 (attributes: {'text': 'SACK', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'CAT', 'repeat': 1})\nNode 2 (attributes: {'text': 'SACK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) get the sack (B) cat in the sack (C) give the sack (D) in the sack Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "check is in the mail",
+            "B": "carry the mail",
+            "C": "check through",
+            "D": "mail it in"
+         },
+         "correct": {
+            "A": "check is in the mail"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/check_is_in_the_mail.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'CHECK', 'repeat': 1})\nNode 2 (attributes: {'text': 'MAIL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'CHECK', 'repeat': 1})\nNode 2 (attributes: {'text': 'MAIL', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'CHECK', 'repeat': 1})\nNode 2 (attributes: {'text': 'MAIL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) check is in the mail (B) carry the mail (C) check through (D) mail it in Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "chirk up",
+            "B": "chink in the armour",
+            "C": "ink in",
+            "D": "knight in shining armour"
+         },
+         "correct": {
+            "B": "chink in the armour"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/chink_in_the_armour.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'CHINK', 'repeat': 1})\nNode 2 (attributes: {'text': 'ARMOUR', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'CHINK', 'repeat': 1})\nNode 2 (attributes: {'text': 'ARMOUR', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'CHINK', 'repeat': 1})\nNode 2 (attributes: {'text': 'ARMOUR', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) chirk up (B) chink in the armour (C) ink in (D) knight in shining armour Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "fox in the henhouse",
+            "B": "cock of the roost",
+            "C": "in a hen's hiney",
+            "D": "cock in the henhouse"
+         },
+         "correct": {
+            "D": "cock in the henhouse"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/cock_in_the_henhouse.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'COCK', 'repeat': 1})\nNode 2 (attributes: {'text': 'HENHOUSE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'COCK', 'repeat': 1})\nNode 2 (attributes: {'text': 'HENHOUSE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'COCK', 'repeat': 1})\nNode 2 (attributes: {'text': 'HENHOUSE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) fox in the henhouse (B) cock of the roost (C) in a hen's hiney (D) cock in the henhouse Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "day out",
+            "B": "rot in hell",
+            "C": "cold day in Hell",
+            "D": "to hell"
+         },
+         "correct": {
+            "C": "cold day in Hell"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/cold_day_in_Hell.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'COLD DAY', 'repeat': 1})\nNode 2 (attributes: {'text': 'HELL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'COLD DAY', 'repeat': 1})\nNode 2 (attributes: {'text': 'HELL', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'COLD DAY', 'repeat': 1})\nNode 2 (attributes: {'text': 'HELL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) day out (B) rot in hell (C) cold day in Hell (D) to hell Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "out cold",
+            "B": "come in from the cold",
+            "C": "catch a cold",
+            "D": "left out in the cold"
+         },
+         "correct": {
+            "B": "come in from the cold"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/come_in_from_the_cold.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'COME', 'repeat': 1})\nNode 2 (attributes: {'text': 'FROM COLD', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'COME', 'repeat': 1})\nNode 2 (attributes: {'text': 'FROM COLD', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'COME', 'repeat': 1})\nNode 2 (attributes: {'text': 'FROM COLD', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) out cold (B) come in from the cold (C) catch a cold (D) left out in the cold Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "come out of the broom closet",
+            "B": "wash out",
+            "C": "come out in the wash",
+            "D": "come out"
+         },
+         "correct": {
+            "C": "come out in the wash"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/come_out_in_the_wash.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'COME', 'repeat': 1})\nNode 2 (attributes: {'text': 'WASH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 1 to node 2 (rule: OUTSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'COME', 'repeat': 1})\nNode 2 (attributes: {'text': 'WASH', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'COME', 'repeat': 1})\nNode 2 (attributes: {'text': 'WASH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 1 to node 2 (rule: OUTSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) come out of the broom closet (B) wash out (C) come out in the wash (D) come out Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "dog-tired",
+            "B": "dog eat dog",
+            "C": "dog in the hunt",
+            "D": "dog in the manger"
+         },
+         "correct": {
+            "C": "dog in the hunt"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/dog_in_the_hunt.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'DOG', 'repeat': 1})\nNode 2 (attributes: {'text': 'HUNT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'DOG', 'repeat': 1})\nNode 2 (attributes: {'text': 'HUNT', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'DOG', 'repeat': 1})\nNode 2 (attributes: {'text': 'HUNT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) dog-tired (B) dog eat dog (C) dog in the hunt (D) dog in the manger Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "wag the dog",
+            "B": "dog's life",
+            "C": "dog in the manger",
+            "D": "dog in the hunt"
+         },
+         "correct": {
+            "C": "dog in the manger"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/dog_in_the_manger.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'DOG', 'repeat': 1})\nNode 2 (attributes: {'text': 'MANGER', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'DOG', 'repeat': 1})\nNode 2 (attributes: {'text': 'MANGER', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'DOG', 'repeat': 1})\nNode 2 (attributes: {'text': 'MANGER', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) wag the dog (B) dog's life (C) dog in the manger (D) dog in the hunt Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "drool bucket",
+            "B": "drop in the bucket",
+            "C": "drop in",
+            "D": "light bucket"
+         },
+         "correct": {
+            "B": "drop in the bucket"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/drop_in_the_bucket.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'DROP', 'repeat': 1})\nNode 2 (attributes: {'text': 'BUCKET', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'DROP', 'repeat': 1})\nNode 2 (attributes: {'text': 'BUCKET', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'DROP', 'repeat': 1})\nNode 2 (attributes: {'text': 'BUCKET', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) drool bucket (B) drop in the bucket (C) drop in (D) light bucket Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "drop in the pond",
+            "B": "drop in the ocean",
+            "C": "drop in the sea",
+            "D": "drop in the bucket"
+         },
+         "correct": {
+            "A": "drop in the pond"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/drop_in_the_pond.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'DROP', 'repeat': 1})\nNode 2 (attributes: {'text': 'POND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'DROP', 'repeat': 1})\nNode 2 (attributes: {'text': 'POND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'DROP', 'repeat': 1})\nNode 2 (attributes: {'text': 'POND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) drop in the pond (B) drop in the ocean (C) drop in the sea (D) drop in the bucket Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "drop in the pond",
+            "B": "drop in the ocean",
+            "C": "drop in",
+            "D": "drop in the sea"
+         },
+         "correct": {
+            "D": "drop in the sea"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/drop_in_the_sea.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'DROP', 'repeat': 1})\nNode 2 (attributes: {'text': 'SEA', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'DROP', 'repeat': 1})\nNode 2 (attributes: {'text': 'SEA', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'DROP', 'repeat': 1})\nNode 2 (attributes: {'text': 'SEA', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) drop in the pond (B) drop in the ocean (C) drop in (D) drop in the sea Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "wrap in cotton wool",
+            "B": "pull the wool over eyes",
+            "C": "dyed in the wool",
+            "D": "spin a yarn"
+         },
+         "correct": {
+            "C": "dyed in the wool"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/dyed_in_the_wool.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'DYED', 'repeat': 1})\nNode 2 (attributes: {'text': 'WOOL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'DYED', 'repeat': 1})\nNode 2 (attributes: {'text': 'WOOL', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'DYED', 'repeat': 1})\nNode 2 (attributes: {'text': 'WOOL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) wrap in cotton wool (B) pull the wool over eyes (C) dyed in the wool (D) spin a yarn Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "elephant in the room",
+            "B": "work the room",
+            "C": "gorilla in the room",
+            "D": "white elephant"
+         },
+         "correct": {
+            "A": "elephant in the room"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/elephant_in_the_room.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'ELEPHANT', 'repeat': 1})\nNode 2 (attributes: {'text': 'ROOM', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'ELEPHANT', 'repeat': 1})\nNode 2 (attributes: {'text': 'ROOM', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'ELEPHANT', 'repeat': 1})\nNode 2 (attributes: {'text': 'ROOM', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) work the room (C) gorilla in the room (D) white elephant Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "fall in line",
+            "B": "cross the line",
+            "C": "end of the line",
+            "D": "out of line"
+         },
+         "correct": {
+            "A": "fall in line"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/fall_in_line.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'FALL', 'repeat': 1})\nNode 2 (attributes: {'text': 'LINE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'FALL', 'repeat': 1})\nNode 2 (attributes: {'text': 'LINE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'FALL', 'repeat': 1})\nNode 2 (attributes: {'text': 'LINE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) fall in line (B) cross the line (C) end of the line (D) out of line Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "being in love",
+            "B": "fall out",
+            "C": "labor of love",
+            "D": "fall in love"
+         },
+         "correct": {
+            "D": "fall in love"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/fall_in_love.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'FALL', 'repeat': 1})\nNode 2 (attributes: {'text': 'LOVE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'FALL', 'repeat': 1})\nNode 2 (attributes: {'text': 'LOVE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'FALL', 'repeat': 1})\nNode 2 (attributes: {'text': 'LOVE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) being in love (B) fall out (C) labor of love (D) fall in love Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "humble pie",
+            "B": "piece of the pie",
+            "C": "apple pie order",
+            "D": "finger in the pie"
+         },
+         "correct": {
+            "D": "finger in the pie"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/finger_in_the_pie.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'FINGER', 'repeat': 1})\nNode 2 (attributes: {'text': 'PIE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'FINGER', 'repeat': 1})\nNode 2 (attributes: {'text': 'PIE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'FINGER', 'repeat': 1})\nNode 2 (attributes: {'text': 'PIE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) humble pie (B) piece of the pie (C) apple pie order (D) finger in the pie Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "flash back",
+            "B": "in a flash",
+            "C": "go down the pan",
+            "D": "flash in the pan"
+         },
+         "correct": {
+            "D": "flash in the pan"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/flash_in_the_pan.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'FLASH', 'repeat': 1})\nNode 2 (attributes: {'text': 'PAN', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'FLASH', 'repeat': 1})\nNode 2 (attributes: {'text': 'PAN', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'FLASH', 'repeat': 1})\nNode 2 (attributes: {'text': 'PAN', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) flash back (B) in a flash (C) go down the pan (D) flash in the pan Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "fly in the ointment",
+            "B": "fly by",
+            "C": "fly in the face of",
+            "D": "fly off"
+         },
+         "correct": {
+            "C": "fly in the face of"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/fly_in_the_face_of.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'FLY', 'repeat': 1})\nNode 2 (attributes: {'text': 'FACE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'FLY', 'repeat': 1})\nNode 2 (attributes: {'text': 'FACE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'FLY', 'repeat': 1})\nNode 2 (attributes: {'text': 'FACE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) fly in the ointment (B) fly by (C) fly in the face of (D) fly off Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "fly by",
+            "B": "fly in the ointment",
+            "C": "fly in the face of",
+            "D": "fly blind"
+         },
+         "correct": {
+            "B": "fly in the ointment"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/fly_in_the_ointment.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'FLY', 'repeat': 1})\nNode 2 (attributes: {'text': 'OINTMENT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'FLY', 'repeat': 1})\nNode 2 (attributes: {'text': 'OINTMENT', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'FLY', 'repeat': 1})\nNode 2 (attributes: {'text': 'OINTMENT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) fly by (B) fly in the ointment (C) fly in the face of (D) fly blind Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "show the door",
+            "B": "foot in the door",
+            "C": "get the door",
+            "D": "back door"
+         },
+         "correct": {
+            "B": "foot in the door"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/foot_in_the_door.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'FOOT', 'repeat': 1})\nNode 2 (attributes: {'text': 'DOOR', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'FOOT', 'repeat': 1})\nNode 2 (attributes: {'text': 'DOOR', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'FOOT', 'repeat': 1})\nNode 2 (attributes: {'text': 'DOOR', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) show the door (B) foot in the door (C) get the door (D) back door Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "mother hen",
+            "B": "in a hen's hiney",
+            "C": "fox sleep",
+            "D": "fox in the henhouse"
+         },
+         "correct": {
+            "D": "fox in the henhouse"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/fox_in_the_henhouse.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'FOX', 'repeat': 1})\nNode 2 (attributes: {'text': 'HENHOUSE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'FOX', 'repeat': 1})\nNode 2 (attributes: {'text': 'HENHOUSE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'FOX', 'repeat': 1})\nNode 2 (attributes: {'text': 'HENHOUSE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) mother hen (B) in a hen's hiney (C) fox sleep (D) fox in the henhouse Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "rock the boat",
+            "B": "row in the same boat",
+            "C": "push the boat out",
+            "D": "get in the boat and row"
+         },
+         "correct": {
+            "D": "get in the boat and row"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/get_in_the_boat_and_row.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'GET', 'repeat': 1})\nNode 2 (attributes: {'text': 'BOAT ROW', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'GET', 'repeat': 1})\nNode 2 (attributes: {'text': 'BOAT ROW', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'GET', 'repeat': 1})\nNode 2 (attributes: {'text': 'BOAT ROW', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) rock the boat (B) row in the same boat (C) push the boat out (D) get in the boat and row Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "into detail",
+            "B": "the devil is in the detail",
+            "C": "God is in the detail",
+            "D": "in detail"
+         },
+         "correct": {
+            "C": "God is in the detail"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/God_is_in_the_detail.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'GOD', 'repeat': 1})\nNode 2 (attributes: {'text': 'DETAIL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'GOD', 'repeat': 1})\nNode 2 (attributes: {'text': 'DETAIL', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'GOD', 'repeat': 1})\nNode 2 (attributes: {'text': 'DETAIL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) into detail (B) the devil is in the detail (C) God is in the detail (D) in detail Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "get a room",
+            "B": "work the room",
+            "C": "rubber room",
+            "D": "gorilla in the room"
+         },
+         "correct": {
+            "D": "gorilla in the room"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/gorilla_in_the_room.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'GORILLA', 'repeat': 1})\nNode 2 (attributes: {'text': 'ROOM', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'GORILLA', 'repeat': 1})\nNode 2 (attributes: {'text': 'ROOM', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'GORILLA', 'repeat': 1})\nNode 2 (attributes: {'text': 'ROOM', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) get a room (B) work the room (C) rubber room (D) gorilla in the room Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "flash back",
+            "B": "roll back the years",
+            "C": "go back in time",
+            "D": "way back when"
+         },
+         "correct": {
+            "C": "go back in time"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_back_in_time.png",
+         "metadata": {
+            "nodes_and_edges": "Node 2 (attributes: {'text': 'TIME', 'repeat': 1})\nNode 1 (attributes: {'text': 'GO', 'repeat': 1, 'direction': 'reverse'})\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 1 to node 2 (rule: NEXT-TO)\n",
+            "nodes": "Node 2 (attributes: {'text': 'TIME', 'repeat': 1})\nNode 1 (attributes: {'text': 'GO', 'repeat': 1, 'direction': 'reverse'})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 2 (attributes: {'text': 'TIME', 'repeat': 1})\nNode 1 (attributes: {'text': 'GO', 'repeat': 1, 'direction': 'reverse'})\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) flash back (B) roll back the years (C) go back in time (D) way back when Answer:",
+         "output": "A"
+      },
+      {
+         "options": {
+            "A": "fan the flames",
+            "B": "go down in flames",
+            "C": "go up in smoke",
+            "D": "go up in flames"
+         },
+         "correct": {
+            "B": "go down in flames"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_down_in_flames.png",
+         "metadata": {
+            "nodes_and_edges": "Node 2 (attributes: {'text': 'FLAMES', 'repeat': 1})\nNode 1 (attributes: {'text': 'GO', 'repeat': 1, 'direction': 'down'})\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 1 to node 2 (rule: NEXT-TO)\n",
+            "nodes": "Node 2 (attributes: {'text': 'FLAMES', 'repeat': 1})\nNode 1 (attributes: {'text': 'GO', 'repeat': 1, 'direction': 'down'})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 2 (attributes: {'text': 'FLAMES', 'repeat': 1})\nNode 1 (attributes: {'text': 'GO', 'repeat': 1, 'direction': 'down'})\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) fan the flames (B) go down in flames (C) go up in smoke (D) go up in flames Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "leave the door open",
+            "B": "go in the out door",
+            "C": "get the door",
+            "D": "show the door"
+         },
+         "correct": {
+            "B": "go in the out door"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_in_the_out_door.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'GO', 'repeat': 1})\nNode 2 (attributes: {'text': 'DOOR', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: OUTSIDE)\nEdge 2: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'GO', 'repeat': 1})\nNode 2 (attributes: {'text': 'DOOR', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'GO', 'repeat': 1})\nNode 2 (attributes: {'text': 'DOOR', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: OUTSIDE)\nEdge 2: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) leave the door open (B) go in the out door (C) get the door (D) show the door Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "go in with",
+            "B": "go with",
+            "C": "go along with",
+            "D": "go out with"
+         },
+         "correct": {
+            "A": "go in with"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_in_with.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'GO', 'repeat': 1})\nNode 2 (attributes: {'text': 'WITH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'GO', 'repeat': 1})\nNode 2 (attributes: {'text': 'WITH', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'GO', 'repeat': 1})\nNode 2 (attributes: {'text': 'WITH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) go in with (B) go with (C) go along with (D) go out with Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "jump salty",
+            "B": "jump out",
+            "C": "jump on",
+            "D": "go jump in the lake"
+         },
+         "correct": {
+            "D": "go jump in the lake"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_jump_in_the_lake.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'GO JUMP', 'repeat': 1})\nNode 2 (attributes: {'text': 'LAKE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'GO JUMP', 'repeat': 1})\nNode 2 (attributes: {'text': 'LAKE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'GO JUMP', 'repeat': 1})\nNode 2 (attributes: {'text': 'LAKE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) jump salty (B) jump out (C) jump on (D) go jump in the lake Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "go up in smoke",
+            "B": "fan the flames",
+            "C": "go up in flames",
+            "D": "go down in flames"
+         },
+         "correct": {
+            "C": "go up in flames"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/go_up_in_flames.png",
+         "metadata": {
+            "nodes_and_edges": "Node 2 (attributes: {'text': 'FLAMES', 'repeat': 1})\nNode 1 (attributes: {'text': 'GO', 'repeat': 1, 'direction': 'up'})\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 1 to node 2 (rule: NEXT-TO)\n",
+            "nodes": "Node 2 (attributes: {'text': 'FLAMES', 'repeat': 1})\nNode 1 (attributes: {'text': 'GO', 'repeat': 1, 'direction': 'up'})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 2 (attributes: {'text': 'FLAMES', 'repeat': 1})\nNode 1 (attributes: {'text': 'GO', 'repeat': 1, 'direction': 'up'})\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) go up in smoke (B) fan the flames (C) go up in flames (D) go down in flames Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "in hand",
+            "B": "on hand",
+            "C": "hand in hand",
+            "D": "hand over hand"
+         },
+         "correct": {
+            "C": "hand in hand"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/hand_in_hand.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'HAND', 'repeat': 1})\nNode 2 (attributes: {'text': 'HAND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'HAND', 'repeat': 1})\nNode 2 (attributes: {'text': 'HAND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'HAND', 'repeat': 1})\nNode 2 (attributes: {'text': 'HAND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) in hand (B) on hand (C) hand in hand (D) hand over hand Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "hat in hand",
+            "B": "in hand",
+            "C": "hand in hand",
+            "D": "on hand"
+         },
+         "correct": {
+            "A": "hat in hand"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/hat_in_hand.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'HAT', 'repeat': 1})\nNode 2 (attributes: {'text': 'HAND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'HAT', 'repeat': 1})\nNode 2 (attributes: {'text': 'HAND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'HAT', 'repeat': 1})\nNode 2 (attributes: {'text': 'HAND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) hat in hand (B) in hand (C) hand in hand (D) on hand Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "have in mind",
+            "B": "spring to mind",
+            "C": "put someone in mind of",
+            "D": "bear in mind"
+         },
+         "correct": {
+            "A": "have in mind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/have_in_mind.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'HAVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'MIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'HAVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'MIND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'HAVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'MIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) have in mind (B) spring to mind (C) put someone in mind of (D) bear in mind Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "head in the clouds",
+            "B": "head above water",
+            "C": "headwind",
+            "D": "under a cloud"
+         },
+         "correct": {
+            "A": "head in the clouds"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/head_in_the_clouds.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'HEAD', 'repeat': 1})\nNode 2 (attributes: {'text': 'CLOUDS', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'HEAD', 'repeat': 1})\nNode 2 (attributes: {'text': 'CLOUDS', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'HEAD', 'repeat': 1})\nNode 2 (attributes: {'text': 'CLOUDS', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) head in the clouds (B) head above water (C) headwind (D) under a cloud Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "in the hole",
+            "B": "dig oneself in a hole",
+            "C": "one on one",
+            "D": "hole in one"
+         },
+         "correct": {
+            "D": "hole in one"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/hole_in_one.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'HOLE', 'repeat': 1})\nNode 2 (attributes: {'text': 'ONE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'HOLE', 'repeat': 1})\nNode 2 (attributes: {'text': 'ONE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'HOLE', 'repeat': 1})\nNode 2 (attributes: {'text': 'ONE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) in the hole (B) dig oneself in a hole (C) one on one (D) hole in one Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "badge of honor",
+            "B": "under erasure",
+            "C": "honorable mention",
+            "D": "honor in the breach"
+         },
+         "correct": {
+            "D": "honor in the breach"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/honor_in_the_breach.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'HONOR', 'repeat': 1})\nNode 2 (attributes: {'text': 'BREACH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'HONOR', 'repeat': 1})\nNode 2 (attributes: {'text': 'BREACH', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'HONOR', 'repeat': 1})\nNode 2 (attributes: {'text': 'BREACH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) badge of honor (B) under erasure (C) honorable mention (D) honor in the breach Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "irons in the fire",
+            "B": "on fire",
+            "C": "tire fire",
+            "D": "line of fire"
+         },
+         "correct": {
+            "A": "irons in the fire"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/irons_in_the_fire.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'IRONS', 'repeat': 1})\nNode 2 (attributes: {'text': 'FIRE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'IRONS', 'repeat': 1})\nNode 2 (attributes: {'text': 'FIRE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'IRONS', 'repeat': 1})\nNode 2 (attributes: {'text': 'FIRE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) irons in the fire (B) on fire (C) tire fire (D) line of fire Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "just a second",
+            "B": "just deserts",
+            "C": "just in case",
+            "D": "in order"
+         },
+         "correct": {
+            "C": "just in case"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/just_in_case.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'JUST', 'repeat': 1})\nNode 2 (attributes: {'text': 'CASE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'JUST', 'repeat': 1})\nNode 2 (attributes: {'text': 'CASE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'JUST', 'repeat': 1})\nNode 2 (attributes: {'text': 'CASE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) just a second (B) just deserts (C) just in case (D) in order Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "left out in the cold",
+            "B": "come in from the cold",
+            "C": "out cold",
+            "D": "catch a cold"
+         },
+         "correct": {
+            "A": "left out in the cold"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/left_out_in_the_cold.png",
+         "metadata": {
+            "nodes_and_edges": "Node 2 (attributes: {'text': 'COLD', 'repeat': 1})\nNode 1 (attributes: {'text': 'OUT', 'repeat': 1, 'position': 'left', 'direction': 'reverse', 'highlight': 'before'})\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 1 to node 2 (rule: NEXT-TO)\n",
+            "nodes": "Node 2 (attributes: {'text': 'COLD', 'repeat': 1})\nNode 1 (attributes: {'text': 'OUT', 'repeat': 1, 'position': 'left', 'direction': 'reverse', 'highlight': 'before'})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 2 (attributes: {'text': 'COLD', 'repeat': 1})\nNode 1 (attributes: {'text': 'OUT', 'repeat': 1, 'position': 'left', 'direction': 'reverse', 'highlight': 'before'})\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) left out in the cold (B) come in from the cold (C) out cold (D) catch a cold Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "rope of sand",
+            "B": "in line",
+            "C": "pound sand",
+            "D": "line in the sand"
+         },
+         "correct": {
+            "D": "line in the sand"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/line_in_the_sand.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'LINE', 'repeat': 1})\nNode 2 (attributes: {'text': 'SAND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'LINE', 'repeat': 1})\nNode 2 (attributes: {'text': 'SAND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'LINE', 'repeat': 1})\nNode 2 (attributes: {'text': 'SAND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) rope of sand (B) in line (C) pound sand (D) line in the sand Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "live and breathe",
+            "B": "live in sin",
+            "C": "live and let live",
+            "D": "live on"
+         },
+         "correct": {
+            "B": "live in sin"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/live_in_sin.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'LIVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'SIN', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'LIVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'SIN', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'LIVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'SIN', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) live and breathe (B) live in sin (C) live and let live (D) live on Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "live in the shadow of",
+            "B": "live on",
+            "C": "live in the past",
+            "D": "blast from the past"
+         },
+         "correct": {
+            "C": "live in the past"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/live_in_the_past.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'LIVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'PAST', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'LIVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'PAST', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'LIVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'PAST', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) live in the shadow of (B) live on (C) live in the past (D) blast from the past Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "live on the edge",
+            "B": "live in the past",
+            "C": "cast a shadow",
+            "D": "live in the shadow of"
+         },
+         "correct": {
+            "D": "live in the shadow of"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/live_in_the_shadow_of.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'LIVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'SHADOW', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'LIVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'SHADOW', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'LIVE', 'repeat': 1})\nNode 2 (attributes: {'text': 'SHADOW', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) live on the edge (B) live in the past (C) cast a shadow (D) live in the shadow of Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "on the street",
+            "B": "up someone's street",
+            "C": "man on the street",
+            "D": "man in the street"
+         },
+         "correct": {
+            "D": "man in the street"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/man_in_the_street.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'MAN', 'repeat': 1})\nNode 2 (attributes: {'text': 'STREET', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'MAN', 'repeat': 1})\nNode 2 (attributes: {'text': 'STREET', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'MAN', 'repeat': 1})\nNode 2 (attributes: {'text': 'STREET', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) on the street (B) up someone's street (C) man on the street (D) man in the street Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "tooth-and-nail",
+            "B": "nail down",
+            "C": "nail in the coffin",
+            "D": "nail biter"
+         },
+         "correct": {
+            "C": "nail in the coffin"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/nail_in_the_coffin.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'NAIL', 'repeat': 1})\nNode 2 (attributes: {'text': 'COFFIN', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'NAIL', 'repeat': 1})\nNode 2 (attributes: {'text': 'COFFIN', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'NAIL', 'repeat': 1})\nNode 2 (attributes: {'text': 'COFFIN', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) tooth-and-nail (B) nail down (C) nail in the coffin (D) nail biter Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "nip at",
+            "B": "nip in the bud",
+            "C": "in the nip",
+            "D": "nip and tuck"
+         },
+         "correct": {
+            "B": "nip in the bud"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/nip_in_the_bud.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'NIP', 'repeat': 1})\nNode 2 (attributes: {'text': 'BUD', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'NIP', 'repeat': 1})\nNode 2 (attributes: {'text': 'BUD', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'NIP', 'repeat': 1})\nNode 2 (attributes: {'text': 'BUD', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) nip at (B) nip in the bud (C) in the nip (D) nip and tuck Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "neck and neck",
+            "B": "pain in the neck",
+            "C": "yoke around one's neck",
+            "D": "brass neck"
+         },
+         "correct": {
+            "B": "pain in the neck"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/pain_in_the_neck.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'PAIN', 'repeat': 1})\nNode 2 (attributes: {'text': 'NECK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'PAIN', 'repeat': 1})\nNode 2 (attributes: {'text': 'NECK', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'PAIN', 'repeat': 1})\nNode 2 (attributes: {'text': 'NECK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) neck and neck (B) pain in the neck (C) yoke around one's neck (D) brass neck Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "reach for the sky",
+            "B": "finger in the pie",
+            "C": "piece of the pie",
+            "D": "pie in the sky"
+         },
+         "correct": {
+            "D": "pie in the sky"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/pie_in_the_sky.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'PIE', 'repeat': 1})\nNode 2 (attributes: {'text': 'SKY', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'PIE', 'repeat': 1})\nNode 2 (attributes: {'text': 'SKY', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'PIE', 'repeat': 1})\nNode 2 (attributes: {'text': 'SKY', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) reach for the sky (B) finger in the pie (C) piece of the pie (D) pie in the sky Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "pull one's pud",
+            "B": "pig in a poke",
+            "C": "in a pig's patoot",
+            "D": "pitch in"
+         },
+         "correct": {
+            "B": "pig in a poke"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/pig_in_a_poke.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'PIG', 'repeat': 1})\nNode 2 (attributes: {'text': 'POKE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'PIG', 'repeat': 1})\nNode 2 (attributes: {'text': 'POKE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'PIG', 'repeat': 1})\nNode 2 (attributes: {'text': 'POKE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) pull one's pud (B) pig in a poke (C) in a pig's patoot (D) pitch in Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "pill in the pocket",
+            "B": "on the pill",
+            "C": "pocket-sized",
+            "D": "chill pill"
+         },
+         "correct": {
+            "A": "pill in the pocket"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/pill_in_the_pocket.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'PILL', 'repeat': 1})\nNode 2 (attributes: {'text': 'POCKET', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'PILL', 'repeat': 1})\nNode 2 (attributes: {'text': 'POCKET', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'PILL', 'repeat': 1})\nNode 2 (attributes: {'text': 'POCKET', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) pill in the pocket (B) on the pill (C) pocket-sized (D) chill pill Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "run of play",
+            "B": "play in Peoria",
+            "C": "play to the gallery",
+            "D": "play along"
+         },
+         "correct": {
+            "B": "play in Peoria"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/play_in_Peoria.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'PLAY', 'repeat': 1})\nNode 2 (attributes: {'text': 'PEORIA', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'PLAY', 'repeat': 1})\nNode 2 (attributes: {'text': 'PEORIA', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'PLAY', 'repeat': 1})\nNode 2 (attributes: {'text': 'PEORIA', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) run of play (B) play in Peoria (C) play to the gallery (D) play along Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "set in motion",
+            "B": "poetry in motion",
+            "C": "poison pen",
+            "D": "Brownian motion"
+         },
+         "correct": {
+            "B": "poetry in motion"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/poetry_in_motion.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'POETRY', 'repeat': 1})\nNode 2 (attributes: {'text': 'MOTION', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'POETRY', 'repeat': 1})\nNode 2 (attributes: {'text': 'MOTION', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'POETRY', 'repeat': 1})\nNode 2 (attributes: {'text': 'MOTION', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) set in motion (B) poetry in motion (C) poison pen (D) Brownian motion Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "fox in the henhouse",
+            "B": "smell the barn",
+            "C": "born in a barn",
+            "D": "pony in the barn"
+         },
+         "correct": {
+            "D": "pony in the barn"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/pony_in_the_barn.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'PONY', 'repeat': 1})\nNode 2 (attributes: {'text': 'BARN', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'PONY', 'repeat': 1})\nNode 2 (attributes: {'text': 'BARN', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'PONY', 'repeat': 1})\nNode 2 (attributes: {'text': 'BARN', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) fox in the henhouse (B) smell the barn (C) born in a barn (D) pony in the barn Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "pull one's socks up",
+            "B": "put your foot in it",
+            "C": "put one's foot in it",
+            "D": "put a sock in it"
+         },
+         "correct": {
+            "D": "put a sock in it"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/put_a_sock_in_it.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'PUT SOCK', 'repeat': 1})\nNode 2 (attributes: {'text': 'IT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'PUT SOCK', 'repeat': 1})\nNode 2 (attributes: {'text': 'IT', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'PUT SOCK', 'repeat': 1})\nNode 2 (attributes: {'text': 'IT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) pull one's socks up (B) put your foot in it (C) put one's foot in it (D) put a sock in it Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "put in pledge",
+            "B": "put in with",
+            "C": "put into practice",
+            "D": "sign in"
+         },
+         "correct": {
+            "A": "put in pledge"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/put_in_pledge.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'PUT', 'repeat': 1})\nNode 2 (attributes: {'text': 'PLEDGE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'PUT', 'repeat': 1})\nNode 2 (attributes: {'text': 'PLEDGE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'PUT', 'repeat': 1})\nNode 2 (attributes: {'text': 'PLEDGE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) put in pledge (B) put in with (C) put into practice (D) sign in Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "put in the ground",
+            "B": "soften the ground",
+            "C": "ear to the ground",
+            "D": "lose ground"
+         },
+         "correct": {
+            "A": "put in the ground"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/put_in_the_ground.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'PUT', 'repeat': 1})\nNode 2 (attributes: {'text': 'GROUND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'PUT', 'repeat': 1})\nNode 2 (attributes: {'text': 'GROUND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'PUT', 'repeat': 1})\nNode 2 (attributes: {'text': 'GROUND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) put in the ground (B) soften the ground (C) ear to the ground (D) lose ground Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "put up with",
+            "B": "put in with",
+            "C": "put down",
+            "D": "put out"
+         },
+         "correct": {
+            "B": "put in with"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/put_in_with.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'PUT', 'repeat': 1})\nNode 2 (attributes: {'text': 'WITH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'PUT', 'repeat': 1})\nNode 2 (attributes: {'text': 'WITH', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'PUT', 'repeat': 1})\nNode 2 (attributes: {'text': 'WITH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) put up with (B) put in with (C) put down (D) put out Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "rod in pickle",
+            "B": "tickle someone's pickle",
+            "C": "bone to pick",
+            "D": "in a pickle"
+         },
+         "correct": {
+            "A": "rod in pickle"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/rod_in_pickle.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'ROD', 'repeat': 1})\nNode 2 (attributes: {'text': 'PICKLE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'ROD', 'repeat': 1})\nNode 2 (attributes: {'text': 'PICKLE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'ROD', 'repeat': 1})\nNode 2 (attributes: {'text': 'PICKLE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) rod in pickle (B) tickle someone's pickle (C) bone to pick (D) in a pickle Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "get amongst it",
+            "B": "rolling stone",
+            "C": "rolling in it",
+            "D": "push it"
+         },
+         "correct": {
+            "C": "rolling in it"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/rolling_in_it.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'ROLLING', 'repeat': 1})\nNode 2 (attributes: {'text': 'IT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'ROLLING', 'repeat': 1})\nNode 2 (attributes: {'text': 'IT', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'ROLLING', 'repeat': 1})\nNode 2 (attributes: {'text': 'IT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) get amongst it (B) rolling stone (C) rolling in it (D) push it Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "roll the pitch",
+            "B": "call roll",
+            "C": "roll in the aisles",
+            "D": "on a roll"
+         },
+         "correct": {
+            "C": "roll in the aisles"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/roll_in_the_aisles.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'ROLL', 'repeat': 1})\nNode 2 (attributes: {'text': 'AISLES', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'ROLL', 'repeat': 1})\nNode 2 (attributes: {'text': 'AISLES', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'ROLL', 'repeat': 1})\nNode 2 (attributes: {'text': 'AISLES', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) roll the pitch (B) call roll (C) roll in the aisles (D) on a roll Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "embarrassment of riches",
+            "B": "rags to riches",
+            "C": "roll in wealth",
+            "D": "spend a fortune"
+         },
+         "correct": {
+            "C": "roll in wealth"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/roll_in_wealth.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'ROLL', 'repeat': 1})\nNode 2 (attributes: {'text': 'WEALTH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'ROLL', 'repeat': 1})\nNode 2 (attributes: {'text': 'WEALTH', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'ROLL', 'repeat': 1})\nNode 2 (attributes: {'text': 'WEALTH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) embarrassment of riches (B) rags to riches (C) roll in wealth (D) spend a fortune Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "give hell",
+            "B": "rot in hell",
+            "C": "to hell",
+            "D": "raise hell"
+         },
+         "correct": {
+            "B": "rot in hell"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/rot_in_hell.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'ROT', 'repeat': 1})\nNode 2 (attributes: {'text': 'HELL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'ROT', 'repeat': 1})\nNode 2 (attributes: {'text': 'HELL', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'ROT', 'repeat': 1})\nNode 2 (attributes: {'text': 'HELL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) give hell (B) rot in hell (C) to hell (D) raise hell Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "row in the same boat",
+            "B": "get in the boat and row",
+            "C": "in the same boat",
+            "D": "in a row"
+         },
+         "correct": {
+            "A": "row in the same boat"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/row_in_the_same_boat.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'ROW', 'repeat': 1})\nNode 2 (attributes: {'text': 'SAME BOAT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'ROW', 'repeat': 1})\nNode 2 (attributes: {'text': 'SAME BOAT', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'ROW', 'repeat': 1})\nNode 2 (attributes: {'text': 'SAME BOAT', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) row in the same boat (B) get in the boat and row (C) in the same boat (D) in a row Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "run in the family",
+            "B": "keep it in the family",
+            "C": "run on",
+            "D": "run with"
+         },
+         "correct": {
+            "A": "run in the family"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/run_in_the_family.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'RUN', 'repeat': 1})\nNode 2 (attributes: {'text': 'FAMILY', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'RUN', 'repeat': 1})\nNode 2 (attributes: {'text': 'FAMILY', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'RUN', 'repeat': 1})\nNode 2 (attributes: {'text': 'FAMILY', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) run in the family (B) keep it in the family (C) run on (D) run with Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "set in ways",
+            "B": "set straight",
+            "C": "set the wheels in motion",
+            "D": "set in motion"
+         },
+         "correct": {
+            "D": "set in motion"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/set_in_motion.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'SET', 'repeat': 1})\nNode 2 (attributes: {'text': 'MOTION', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'SET', 'repeat': 1})\nNode 2 (attributes: {'text': 'MOTION', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'SET', 'repeat': 1})\nNode 2 (attributes: {'text': 'MOTION', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) set in ways (B) set straight (C) set the wheels in motion (D) set in motion Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "set in stone",
+            "B": "heart of stone",
+            "C": "carved in stone",
+            "D": "set in ways"
+         },
+         "correct": {
+            "A": "set in stone"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/set_in_stone.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'SET', 'repeat': 1})\nNode 2 (attributes: {'text': 'STONE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'SET', 'repeat': 1})\nNode 2 (attributes: {'text': 'STONE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'SET', 'repeat': 1})\nNode 2 (attributes: {'text': 'STONE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) set in stone (B) heart of stone (C) carved in stone (D) set in ways Answer:",
+         "output": "B"
+      },
+      {
+         "options": {
+            "A": "set in one's ways",
+            "B": "set in ways",
+            "C": "set in stone",
+            "D": "set in motion"
+         },
+         "correct": {
+            "B": "set in ways"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/set_in_ways.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'SET', 'repeat': 1})\nNode 2 (attributes: {'text': 'WAYS', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'SET', 'repeat': 1})\nNode 2 (attributes: {'text': 'WAYS', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'SET', 'repeat': 1})\nNode 2 (attributes: {'text': 'WAYS', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) set in one's ways (B) set in ways (C) set in stone (D) set in motion Answer:",
+         "output": "B"
+      },
+      {
+         "options": {
+            "A": "shot in the dark",
+            "B": "arm in arm",
+            "C": "shot in the arm",
+            "D": "twist arm"
+         },
+         "correct": {
+            "C": "shot in the arm"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/shot_in_the_arm.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'SHOT', 'repeat': 1})\nNode 2 (attributes: {'text': 'ARM', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'SHOT', 'repeat': 1})\nNode 2 (attributes: {'text': 'ARM', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'SHOT', 'repeat': 1})\nNode 2 (attributes: {'text': 'ARM', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) shot in the dark (B) arm in arm (C) shot in the arm (D) twist arm Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "shot in the dark",
+            "B": "shot in the arm",
+            "C": "stab in the dark",
+            "D": "in the dark"
+         },
+         "correct": {
+            "A": "shot in the dark"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/shot_in_the_dark.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'SHOT', 'repeat': 1})\nNode 2 (attributes: {'text': 'DARK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'SHOT', 'repeat': 1})\nNode 2 (attributes: {'text': 'DARK', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'SHOT', 'repeat': 1})\nNode 2 (attributes: {'text': 'DARK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) shot in the dark (B) shot in the arm (C) stab in the dark (D) in the dark Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "skin in the game",
+            "B": "thick skin",
+            "C": "on the game",
+            "D": "in the game"
+         },
+         "correct": {
+            "A": "skin in the game"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/skin_in_the_game.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'SKIN', 'repeat': 1})\nNode 2 (attributes: {'text': 'GAME', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'SKIN', 'repeat': 1})\nNode 2 (attributes: {'text': 'GAME', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'SKIN', 'repeat': 1})\nNode 2 (attributes: {'text': 'GAME', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) skin in the game (B) thick skin (C) on the game (D) in the game Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "spit on",
+            "B": "spit in the wind",
+            "C": "in the wind",
+            "D": "twist in the wind"
+         },
+         "correct": {
+            "B": "spit in the wind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/spit_in_the_wind.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'SPIT', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'SPIT', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'SPIT', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) spit on (B) spit in the wind (C) in the wind (D) twist in the wind Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "stab in the back",
+            "B": "shot in the dark",
+            "C": "stab in the dark",
+            "D": "have a stab"
+         },
+         "correct": {
+            "C": "stab in the dark"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/stab_in_the_dark.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'STAB', 'repeat': 1})\nNode 2 (attributes: {'text': 'DARK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'STAB', 'repeat': 1})\nNode 2 (attributes: {'text': 'DARK', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'STAB', 'repeat': 1})\nNode 2 (attributes: {'text': 'DARK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) stab in the back (B) shot in the dark (C) stab in the dark (D) have a stab Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "stand in for",
+            "B": "bridge the gap",
+            "C": "stand behind",
+            "D": "stand in the gap"
+         },
+         "correct": {
+            "D": "stand in the gap"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/stand_in_the_gap.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'STAND', 'repeat': 1})\nNode 2 (attributes: {'text': 'GAP', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'STAND', 'repeat': 1})\nNode 2 (attributes: {'text': 'GAP', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'STAND', 'repeat': 1})\nNode 2 (attributes: {'text': 'GAP', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) stand in for (B) bridge the gap (C) stand behind (D) stand in the gap Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "stand in the gate",
+            "B": "stand by",
+            "C": "out of the gate",
+            "D": "break gates"
+         },
+         "correct": {
+            "A": "stand in the gate"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/stand_in_the_gate.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'STAND', 'repeat': 1})\nNode 2 (attributes: {'text': 'GATE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'STAND', 'repeat': 1})\nNode 2 (attributes: {'text': 'GATE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'STAND', 'repeat': 1})\nNode 2 (attributes: {'text': 'GATE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) stand in the gate (B) stand by (C) out of the gate (D) break gates Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "drag through the mud",
+            "B": "stuck in the mud",
+            "C": "stick in the mud",
+            "D": "name is mud"
+         },
+         "correct": {
+            "C": "stick in the mud"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/stick_in_the_mud.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'STICK', 'repeat': 1})\nNode 2 (attributes: {'text': 'MUD', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'STICK', 'repeat': 1})\nNode 2 (attributes: {'text': 'MUD', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'STICK', 'repeat': 1})\nNode 2 (attributes: {'text': 'MUD', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) drag through the mud (B) stuck in the mud (C) stick in the mud (D) name is mud Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "storm in a teacup",
+            "B": "weather the storm",
+            "C": "storm off",
+            "D": "tempest in a teapot"
+         },
+         "correct": {
+            "A": "storm in a teacup"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/storm_in_a_teacup.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'STORM', 'repeat': 1})\nNode 2 (attributes: {'text': 'TEACUP', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'STORM', 'repeat': 1})\nNode 2 (attributes: {'text': 'TEACUP', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'STORM', 'repeat': 1})\nNode 2 (attributes: {'text': 'TEACUP', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) storm in a teacup (B) weather the storm (C) storm off (D) tempest in a teapot Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "stick in the mud",
+            "B": "stuck up",
+            "C": "stuck on",
+            "D": "stuck in the mud"
+         },
+         "correct": {
+            "D": "stuck in the mud"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/stuck_in_the_mud.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'STUCK', 'repeat': 1})\nNode 2 (attributes: {'text': 'MUD', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'STUCK', 'repeat': 1})\nNode 2 (attributes: {'text': 'MUD', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'STUCK', 'repeat': 1})\nNode 2 (attributes: {'text': 'MUD', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) stick in the mud (B) stuck up (C) stuck on (D) stuck in the mud Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "ride tall in the saddle",
+            "B": "tall in the saddle",
+            "C": "tall tale",
+            "D": "tall story"
+         },
+         "correct": {
+            "B": "tall in the saddle"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/tall_in_the_saddle.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'TALL', 'repeat': 1})\nNode 2 (attributes: {'text': 'SADDLE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'TALL', 'repeat': 1})\nNode 2 (attributes: {'text': 'SADDLE', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'TALL', 'repeat': 1})\nNode 2 (attributes: {'text': 'SADDLE', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) ride tall in the saddle (B) tall in the saddle (C) tall tale (D) tall story Answer:",
+         "output": "C"
+      },
+      {
+         "options": {
+            "A": "the devil a one",
+            "B": "God is in the detail",
+            "C": "the devil",
+            "D": "the devil is in the detail"
+         },
+         "correct": {
+            "D": "the devil is in the detail"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/the_devil_is_in_the_detail.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'DEVIL', 'repeat': 1})\nNode 2 (attributes: {'text': 'DETAIL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'DEVIL', 'repeat': 1})\nNode 2 (attributes: {'text': 'DETAIL', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'DEVIL', 'repeat': 1})\nNode 2 (attributes: {'text': 'DETAIL', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) the devil a one (B) God is in the detail (C) the devil (D) the devil is in the detail Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "throw in at the deep end",
+            "B": "throw in with",
+            "C": "throw in",
+            "D": "throw out"
+         },
+         "correct": {
+            "B": "throw in with"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/throw_in_with.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'THROW', 'repeat': 1})\nNode 2 (attributes: {'text': 'WITH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'THROW', 'repeat': 1})\nNode 2 (attributes: {'text': 'WITH', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'THROW', 'repeat': 1})\nNode 2 (attributes: {'text': 'WITH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) throw in at the deep end (B) throw in with (C) throw in (D) throw out Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "tie one on",
+            "B": "tie up",
+            "C": "tie in with",
+            "D": "tie in"
+         },
+         "correct": {
+            "C": "tie in with"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/tie_in_with.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'TIE', 'repeat': 1})\nNode 2 (attributes: {'text': 'WITH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'TIE', 'repeat': 1})\nNode 2 (attributes: {'text': 'WITH', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'TIE', 'repeat': 1})\nNode 2 (attributes: {'text': 'WITH', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) tie one on (B) tie up (C) tie in with (D) tie in Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "twist of fate",
+            "B": "twist in the wind",
+            "C": "spit in the wind",
+            "D": "in the wind"
+         },
+         "correct": {
+            "B": "twist in the wind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/twist_in_the_wind.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'TWIST', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'TWIST', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'TWIST', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) twist of fate (B) twist in the wind (C) spit in the wind (D) in the wind Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "walk in the park",
+            "B": "park that thought",
+            "C": "walk through",
+            "D": "walk free"
+         },
+         "correct": {
+            "A": "walk in the park"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/walk_in_the_park.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'WALK', 'repeat': 1})\nNode 2 (attributes: {'text': 'PARK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'WALK', 'repeat': 1})\nNode 2 (attributes: {'text': 'PARK', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'WALK', 'repeat': 1})\nNode 2 (attributes: {'text': 'PARK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) walk in the park (B) park that thought (C) walk through (D) walk free Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "walk in the snow",
+            "B": "walk through",
+            "C": "walk in on",
+            "D": "walk over"
+         },
+         "correct": {
+            "A": "walk in the snow"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/walk_in_the_snow.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'WALK', 'repeat': 1})\nNode 2 (attributes: {'text': 'SNOW', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'WALK', 'repeat': 1})\nNode 2 (attributes: {'text': 'SNOW', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'WALK', 'repeat': 1})\nNode 2 (attributes: {'text': 'SNOW', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) walk in the snow (B) walk through (C) walk in on (D) walk over Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "why in time",
+            "B": "what in time",
+            "C": "what's what",
+            "D": "what of it"
+         },
+         "correct": {
+            "B": "what in time"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/what_in_time.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'WHAT', 'repeat': 1})\nNode 2 (attributes: {'text': 'TIME', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'WHAT', 'repeat': 1})\nNode 2 (attributes: {'text': 'TIME', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'WHAT', 'repeat': 1})\nNode 2 (attributes: {'text': 'TIME', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) why in time (B) what in time (C) what's what (D) what of it Answer:",
+         "output": "A"
+      },
+      {
+         "options": {
+            "A": "fiddle while Rome burns",
+            "B": "Rome wasn't built in a day",
+            "C": "all roads lead to Rome",
+            "D": "when in Rome"
+         },
+         "correct": {
+            "D": "when in Rome"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/when_in_Rome.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'WHEN', 'repeat': 1})\nNode 2 (attributes: {'text': 'ROME', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'WHEN', 'repeat': 1})\nNode 2 (attributes: {'text': 'ROME', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'WHEN', 'repeat': 1})\nNode 2 (attributes: {'text': 'ROME', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) fiddle while Rome burns (B) Rome wasn't built in a day (C) all roads lead to Rome (D) when in Rome Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "whistle for",
+            "B": "whistle in the dark",
+            "C": "whistle in the wind",
+            "D": "in the dark"
+         },
+         "correct": {
+            "B": "whistle in the dark"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/whistle_in_the_dark.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'WHISTLE', 'repeat': 1})\nNode 2 (attributes: {'text': 'DARK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'WHISTLE', 'repeat': 1})\nNode 2 (attributes: {'text': 'DARK', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'WHISTLE', 'repeat': 1})\nNode 2 (attributes: {'text': 'DARK', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) whistle for (B) whistle in the dark (C) whistle in the wind (D) in the dark Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "whistle in the dark",
+            "B": "whistle walk",
+            "C": "whistle for",
+            "D": "whistle in the wind"
+         },
+         "correct": {
+            "D": "whistle in the wind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/whistle_in_the_wind.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'WHISTLE', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'WHISTLE', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'WHISTLE', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) whistle in the dark (B) whistle walk (C) whistle for (D) whistle in the wind Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "what in time",
+            "B": "why in the world",
+            "C": "come to time",
+            "D": "why in time"
+         },
+         "correct": {
+            "D": "why in time"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/why_in_time.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'WHY', 'repeat': 1})\nNode 2 (attributes: {'text': 'TIME', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'WHY', 'repeat': 1})\nNode 2 (attributes: {'text': 'TIME', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'WHY', 'repeat': 1})\nNode 2 (attributes: {'text': 'TIME', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) what in time (B) why in the world (C) come to time (D) why in time Answer:",
+         "output": "A"
+      },
+      {
+         "options": {
+            "A": "will o' the wisp",
+            "B": "spit in the wind",
+            "C": "in the wind",
+            "D": "willow in the wind"
+         },
+         "correct": {
+            "D": "willow in the wind"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/willow_in_the_wind.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'WILLOW', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'WILLOW', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'WILLOW', 'repeat': 1})\nNode 2 (attributes: {'text': 'WIND', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) will o' the wisp (B) spit in the wind (C) in the wind (D) willow in the wind Answer:",
+         "output": "D"
+      },
+      {
+         "options": {
+            "A": "fly the flag",
+            "B": "red flag",
+            "C": "show the flag",
+            "D": "wrap in the flag"
+         },
+         "correct": {
+            "D": "wrap in the flag"
+         },
+         "image": "/var/scratch/hkd800/scripts/data/images/phrases/wrap_in_the_flag.png",
+         "metadata": {
+            "nodes_and_edges": "Node 1 (attributes: {'text': 'WRAP', 'repeat': 1})\nNode 2 (attributes: {'text': 'FLAG', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n",
+            "nodes": "Node 1 (attributes: {'text': 'WRAP', 'repeat': 1})\nNode 2 (attributes: {'text': 'FLAG', 'repeat': 1})\n"
+         },
+         "prompt": "Question: You are given a description of a graph that is used to convey a word or phrase. The nodes are elements that contain text that are manipulated through its attributes. The edges define relationships between the nodes. The description is as follows:\nNode 1 (attributes: {'text': 'WRAP', 'repeat': 1})\nNode 2 (attributes: {'text': 'FLAG', 'repeat': 1})\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) fly the flag (B) red flag (C) show the flag (D) wrap in the flag Answer:",
+         "output": "D"
+      }
+   ]
+}
