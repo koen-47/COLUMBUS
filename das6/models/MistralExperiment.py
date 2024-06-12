@@ -8,21 +8,27 @@ from data.Benchmark import Benchmark
 
 
 class MistralExperiment(ModelExperiment):
-    def __init__(self):
-        super().__init__(include_description=False)
+    def __init__(self, prompt_type=3):
+        super().__init__(prompt_type)
         self.name = "Mistral-7b"
-        self.prompt_nodes_edges = "You are given a description of a graph that is used to convey a word or phrase. " \
-                                  "The nodes are elements that contain text that are manipulated through its attributes. " \
-                                  "The edges define relationships between the nodes. The description is as follows:\n" \
-                                  "{}\n" \
-                                  "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                                  "(A) {} (B) {} (C) {} (D) {}"
-        self.prompt_nodes = "You are given a description of a graph that is used to convey a word or phrase. " \
-                            "The nodes are elements that contain text that are manipulated through its attributes. " \
-                            "The description is as follows:\n" \
-                            "{}\n" \
-                            "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                            "(A) {} (B) {} (C) {} (D) {}"
+        self.prompt_type = prompt_type
+        if prompt_type == 3:
+            self.prompt = "You are given a description of a graph that is used to convey a word or phrase. " \
+                                "It needs to be solved through creative thinking. " \
+                                "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. " \
+                                "The description is as follows:\n" \
+                                "{}\n" \
+                                "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
+                                "(A) {} (B) {} (C) {} (D) {}"
+        elif prompt_type == 4:
+            self.prompt = "You are given a description of a graph that is used to convey a word or phrase. " \
+                          "It needs to be solved through creative thinking. " \
+                          "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. " \
+                          "The edges define spatial relationships between these elements. The description is as follows:\n" \
+                          "{}\n" \
+                          "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
+                          "(A) {} (B) {} (C) {} (D) {}"
+
         self._load_model()
 
     def _load_model(self):
@@ -40,68 +46,32 @@ class MistralExperiment(ModelExperiment):
 
     def run_on_benchmark(self, save_dir):
         benchmark = Benchmark(with_metadata=True)
-        compounds, phrases = benchmark.get_puzzles()
+        puzzles = benchmark.get_puzzles()
 
         metadata = self.get_metadata(benchmark, save_dir)
         print(json.dumps(metadata, indent=3))
 
-        for puzzle in tqdm(compounds, desc=f"Prompting {self.name} (compounds)"):
-            options = list(puzzle["options"].values())
-            format_prompt_nodes = [puzzle["metadata"]] + options
-            prompt_nodes = self.prompt_nodes.format(*format_prompt_nodes)
+        for puzzle in tqdm(puzzles, desc=f"Prompting {self.name}"):
+            options = puzzle["options"]
+            prompt_format = list(options.values())
+            if self.prompt_type == 3:
+                prompt_format = [puzzle["metadata"]["nodes"]] + list(options.values())
+            elif self.prompt_type == 4:
+                prompt_format = [puzzle["metadata"]["nodes_and_edges"]] + list(options.values())
+            prompt = self.prompt.format(*prompt_format)
+            puzzle["prompt"] = prompt
 
             messages = [
-                {"role": "user", "content": prompt_nodes}
+                {"role": "user", "content": prompt}
             ]
 
             model_inputs = self.tokenizer.apply_chat_template(messages, return_tensors="pt").to("cuda")
             generated_ids = self.model.generate(model_inputs, max_new_tokens=100, do_sample=True)
-            nodes_generated_text = self.tokenizer.batch_decode(generated_ids)[0]
-            puzzle["prompt"] = prompt_nodes
-            puzzle["output"] = nodes_generated_text
+            generated_text = self.tokenizer.batch_decode(generated_ids)[0]
+            puzzle["output"] = generated_text
 
-        with open(f"{save_dir}/{'_'.join(self.name.lower().split())}_compounds.json", "w+") as file:
+        with open(f"{save_dir}/{'_'.join(self.name.lower().split())}_prompt_{self.prompt_type}.json", "w+") as file:
             json.dump({
                 "metadata": metadata,
-                "results": compounds
-            }, file, indent=3)
-
-        for puzzle in tqdm(phrases, desc=f"Prompting {self.name} (phrases)"):
-            options = list(puzzle["options"].values())
-            format_prompt_nodes_edges = [puzzle["metadata"]["nodes_and_edges"]] + options
-            prompt_nodes_edges = self.prompt_nodes_edges.format(*format_prompt_nodes_edges)
-
-            messages = [
-                {"role": "user", "content": prompt_nodes_edges}
-            ]
-
-            model_inputs = self.tokenizer.apply_chat_template(messages, return_tensors="pt").to("cuda")
-            generated_ids = self.model.generate(model_inputs, max_new_tokens=100, do_sample=True)
-            node_edges_generated_text = self.tokenizer.batch_decode(generated_ids)[0]
-
-            format_prompt_nodes = [puzzle["metadata"]["nodes"]] + options
-            prompt_nodes = self.prompt_nodes.format(*format_prompt_nodes)
-
-            messages = [
-                {"role": "user", "content": prompt_nodes}
-            ]
-
-            model_inputs = self.tokenizer.apply_chat_template(messages, return_tensors="pt").to("cuda")
-            generated_ids = self.model.generate(model_inputs, max_new_tokens=100, do_sample=True)
-            nodes_generated_text = self.tokenizer.batch_decode(generated_ids)[0]
-
-            puzzle["prompt"] = {
-                "nodes_and_edges": prompt_nodes_edges,
-                "nodes": prompt_nodes
-            }
-
-            puzzle["output"] = {
-                "nodes_and_edges": node_edges_generated_text,
-                "nodes": nodes_generated_text
-            }
-
-        with open(f"{save_dir}/{'_'.join(self.name.lower().split())}_phrases.json", "w+") as file:
-            json.dump({
-                "metadata": metadata,
-                "results": phrases
+                "results": puzzles
             }, file, indent=3)

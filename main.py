@@ -1,90 +1,119 @@
-import json
+from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
+from graphs.RebusImageConverterV2 import RebusImageConverterV2
+from results.benchmark.PuzzleAnalysisReport import PuzzleAnalysisReport
 
-from graphs.parsers.RebusGraphParser import RebusGraphParser
-from graphs.legacy.RebusImageConverter import RebusImageConverter
+parser = PhraseRebusGraphParser()
+generator = RebusImageConverterV2()
 
-# scraper = WiktionaryIdiomsWebScraper()
-# scraper.scrape()
+# AnalysisReport().generate(puzzle_type="compounds", model_type="blip-2_opt-6.7b", prompt_type=3)
+# AnalysisReport().generate_all()
 
-# with open("./saved/theidioms_raw.json", "r") as file:
-#     theidioms = [idiom["idiom"] for idiom in json.load(file)]
-# with open("./saved/wiktionary_idioms_raw.json", "r") as file:
-#     wiktionary = json.load(file)
-# with open("./saved/idioms_raw.json", "w") as file:
-#     idioms = list(set(theidioms + wiktionary))
-#     json.dump(idioms, file)
+PuzzleAnalysisReport().generate_final()
 
-rebus_parser = RebusGraphParser("./saved/ladec_raw_small.csv")
-image_converter = RebusImageConverter()
+# graph = parser.parse("punch one's hippo lion tiger above weight")
+# graph = parser.parse("cross roads")
+# graph = parser.parse("wind back the clock")
+# graph = parser.parse("cross my heart and hope to die")
+# graph = parser.parse("cross my heart and hope to die chilling cold")
+# graph = parser.parse("in the mood")
+# graph = parser.parse("in and through the mood")
+# graph = parser.parse("through out of the mood")
+# graph = parser.parse("once the car was inside")
+# graph = parser.parse("car up in the air")
+# graph = parser.parse("for good and all")
+# graph = parser.parse("up a height")
 
-# graph = rebus_parser.parse_idiom("all in time")
+# graph = parser.parse("beauty is in the eye of the beholder")[0]
 # print(graph)
-# image_converter.render_inside_rule_puzzle(graph)
-# graph = rebus_parser.parse_idiom("all in all")
+# generator.generate_inside(graph)
+
+# graph = parser.parse("before dawn")[0]
 # print(graph)
-# image_converter.render_inside_rule_puzzle(graph)
+# generator.generate(graph, show=True)
 
-# graph = rebus_parser.parse_compound("foreground")[0]
-# graph.visualize()
+# graph = parser.parse("put two and two together")[0]
+# print(graph)
+# generator.generate(graph, show=True)
 
-# image_converter.convert_graph_to_image(graph, show=True)
+# graph = parser.parse("used to")[0]
+# print(graph)
+# generator.generate(graph, show=True)
 
-# image_converter.render_inside_rule_puzzle(graph)
+# graph = parser.parse("stand for")[0]
+# print(graph)
+# generator.generate(graph, show=True)
 
-# image_converter.convert_graph_to_image(graph, show=True)
+# graph = parser.parse("clean up one's act")[0]
+# print(graph)
+# generator.generate(graph, show=True)
 
-# rebus_parser.parse_idiom("out of sight")
-# rebus_parser.parse_idiom("bent out of shape")
-# rebus_parser.parse_idiom("go out on a limb")
-# rebus_parser.parse_idiom("a fish out of water")
-# rebus_parser.parse_idiom("left out in the cold")
-# rebus_parser.parse_idiom("once in a blue moon")
+# graph = parser.parse("wind back the clock")[0]
+# print(graph)
+# generator.generate(graph, show=True)
 
-# rebus_parser.parse_idiom("knight in shining armour")
-# rebus_parser.parse_idiom("standing so I do")
-# rebus_parser.parse_idiom("when in Rome, do as the Romans")
-# rebus_parser.parse_idiom("Rome, do as the Romans")
+# graph = parser.parse("stars in one's eyes")
+# print(graph)
+# generator.generate(graph)
 
-with open("./saved/idioms_raw.json", "r") as file:
-    idioms = json.load(file)
+# graph = parser.parse("once in a blue moon")[0]
+# print(graph)
+# generator.generate_inside(graph, show=True)
 
-counter = 0
-for idiom in idioms:
-    if "in" in idiom.split() and "in" != idiom.split()[0] and "in" != idiom.split()[-1]:
-        try:
-            print(idiom)
-            graph = rebus_parser.parse_idiom(idiom)
-            image_converter.render_inside_rule_puzzle(graph, save_path=f"./results/idioms/{'_'.join(idiom.split())}")
-            counter += 1
-        except:
-            pass
-# print(counter)
+# graph = parser.parse("for hell in a handbasket")[0]
+# print(graph)
+# generator.generate_inside(graph, show=True)
 
+# compounds = pd.read_csv("./saved/ladec_raw.csv")
 
-# import matplotlib.pyplot as plt
-# import numpy as np
+# parser = CompoundRebusGraphParser()
+# generator = RebusImageConverter()
+# graphs = parser.parse("hope", "to", True)
+
+# print(f"Number of graphs generated: {len(graphs)}")
+# for graph in graphs:
+#     print(graph)
+#     generator.convert_graph_to_image(graph, show=True)
+
+# relational_keywords = [x for xs in Rule.get_all_rules()["relational"].values() for x in xs]
+# with open("./saved/idioms_raw.json", "r") as file:
+#     idioms = json.load(file)
+#     counter = 0
+#     for idiom in idioms:
+#         if count_relational_rules(idiom) <= 1 and idiom.split()[0] not in relational_keywords and idiom.split()[-1] not in relational_keywords:
+#             counter += 1
+#             # print(idiom)
+#     print(print(len(idioms)), counter)
+
+# relational_keywords = [x for xs in Rule.get_all_rules()["relational"].values() for x in xs]
+# with open("./saved/idioms_raw.json", "r") as file:
+#     idioms = json.load(file)
+#     counter = 0
+#     for idiom in idioms:
+#         if count_relational_rules(idiom) > 1:
+#             counter += 1
+#             # print(idiom)
+#     print(counter)
+#     print(counter/len(idioms))
+#     print((counter/len(idioms))*100)
+
+# individual_keywords = [x for xs in Rule.get_all_rules()["individual"].values() for x in xs]
+# with open("./saved/idioms_raw.json", "r") as file:
+#     idioms = json.load(file)
+#     counter = 0
+#     for idiom in idioms:
+#         words = idiom.split()
+#         for i in range(len(words)):
+#             pass
 #
+#     print(counter)
+
+# with open("./saved/idioms_raw.json", "r") as file:
+#     idioms = json.load(file)
+#     counter = 0
+#     for idiom in idioms:
+#         words = idiom.split()
+#         for i in range(len(words)):
+#             pass
 #
-# def text_circle(text, radius, fontsize=12, ax=None):
-#     if ax is None:
-#         fig, ax = plt.subplots(figsize=(4, 4))
-#
-#     num_chars = len(text)
-#     angles = np.linspace(0, 2*np.pi, num_chars, endpoint=False)
-#
-#     for angle, char in zip(angles, text):
-#         x = 0.5 + radius * np.cos(angle)
-#         y = 0.5 + radius * np.sin(angle)
-#         print(x, y)
-#         ax.text(x, y, char, ha='center', va='center', fontsize=fontsize)
-#
-#     ax.set_xlim(0, 1)
-#     ax.set_ylim(0, 1)
-#     ax.axis('off')
-#
-#     return ax
-#
-# # Example usage:
-# text = "abcd"
-# text_circle(text, radius=0.1, fontsize=20)
-# plt.show()
+#     print(counter)
+

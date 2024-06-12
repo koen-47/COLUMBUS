@@ -57,11 +57,14 @@ def main():
         qwenvl_experiment = QwenVLModel(prompt_type=prompt_type)
         qwenvl_experiment.run_on_benchmark(save_dir=save_dir)
     elif model == "mistral":
-        mistral_experiment = MistralExperiment()
+        mistral_experiment = MistralExperiment(prompt_type=prompt_type)
         mistral_experiment.run_on_benchmark(save_dir=f"{os.path.dirname(__file__)}/results")
     else:
         print("Error: specified model does not exist")
 
 
 if __name__ == "__main__":
+    # benchmark = Benchmark(with_metadata=True)
+    # puzzles = benchmark.get_puzzles()
+
     main()

@@ -88,7 +88,7 @@ class Rule:
             rules["repeat"] = 4
 
         # INCLUDE SOUND PATTERNS
-        with open(f"{os.path.dirname(__file__)}/../../saved/homophones_v2.json", "r") as file:
+        with open(f"{os.path.dirname(__file__)}/../../data/misc/homophones_v2.json", "r") as file:
             homophones = json.load(file)
 
         if word not in homophones and word_singular not in homophones:

@@ -13,8 +13,8 @@ from data.Benchmark import Benchmark
 
 
 class CLIPExperiment(ModelExperiment):
-    def __init__(self):
-        super().__init__()
+    def __init__(self, prompt_type=1):
+        super().__init__(prompt_type)
         self.name = "CLIP"
         self._load_model()
 
@@ -30,13 +30,13 @@ class CLIPExperiment(ModelExperiment):
         )
 
     def run_on_benchmark(self, save_dir):
-        benchmark = Benchmark()
-        compounds, phrases = benchmark.get_puzzles()
+        benchmark = Benchmark(with_metadata=True)
+        puzzles = benchmark.get_puzzles()
 
         metadata = self.get_metadata(benchmark, save_dir)
         print(json.dumps(metadata, indent=3))
 
-        for puzzle in tqdm(compounds, desc=f"Prompting {self.name} (compounds)"):
+        for puzzle in tqdm(puzzles, desc=f"Prompting {self.name} (phrases)"):
             image = Image.open(puzzle["image"]).convert("RGB")
             options = list(puzzle["options"].values())
             inputs = self.processor(text=options, images=image, return_tensors="pt", padding=True).to(self.device)
@@ -46,26 +46,10 @@ class CLIPExperiment(ModelExperiment):
             generated_answer = options[np.argmax(probs)]
             puzzle["output"] = generated_answer
 
-        with open(f"{save_dir}/{'_'.join(self.name.lower().split())}_compounds.json", "w+") as file:
+        with open(f"{save_dir}/{'_'.join(self.name.lower().split())}.json", "w+") as file:
             json.dump({
                 "metadata": metadata,
-                "results": compounds
+                "results": puzzles
             }, file, indent=3)
 
-        for puzzle in tqdm(phrases, desc=f"Prompting {self.name} (phrases)"):
-            image = Image.open(puzzle["image"]).convert("RGB")
-            options = list(puzzle["options"].values())
-            inputs = self.processor(text=options, images=image, return_tensors="pt", padding=True).to(self.device)
-            outputs = self.model(**inputs)
-            logits_per_image = outputs.logits_per_image
-            probs = logits_per_image.softmax(dim=1).detach().cpu().numpy()[0]
-            generated_answer = options[np.argmax(probs)]
-            puzzle["output"] = generated_answer
-
-        with open(f"{save_dir}/{'_'.join(self.name.lower().split())}_phrases.json", "w+") as file:
-            json.dump({
-                "metadata": metadata,
-                "results": phrases
-            }, file, indent=3)
-
-        self.delete_downloads()
+        # self.delete_downloads()

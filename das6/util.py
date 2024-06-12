@@ -1,6 +1,9 @@
+import glob
 import json
+import os
 
 import networkx as nx
+import pandas as pd
 
 from parsers.patterns.Rule import Rule
 
@@ -54,3 +57,41 @@ def count_relational_rules(phrase):
     relational_keywords = [x for xs in Rule.get_all_rules()["relational"].values() for x in xs]
     return sum([1 for word in phrase.split() if word in relational_keywords])
 
+
+def get_answer_graph_pairs():
+    from parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
+    from parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
+
+    phrases = [os.path.basename(file).split(".")[0]
+               for file in glob.glob(f"{os.path.dirname(__file__)}/data/images/*")]
+    ladec = pd.read_csv(f"{os.path.dirname(__file__)}/data/misc/ladec_raw_small.csv")
+    custom_compounds = pd.read_csv(f"{os.path.dirname(__file__)}/data/misc/custom_compounds.csv")
+
+    compound_parser = CompoundRebusGraphParser()
+    phrase_parser = PhraseRebusGraphParser()
+    phrase_to_graph = {}
+    compound_to_graph = {}
+    for phrase in phrases:
+        parts = phrase.split("_")
+        index = 0
+        # print(parts, ladec["stim"])
+        if (parts[0] in ladec["stim"].tolist() and len(parts) == 2) or len(parts) == 1:
+            if parts[-1].isnumeric():
+                index = int(parts[-1]) - 1
+                parts = parts[:-1]
+            phrase_ = " ".join(parts)
+            row = ladec.loc[ladec["stim"] == phrase_].values.flatten().tolist()
+            if len(row) == 0:
+                row = custom_compounds.loc[custom_compounds["stim"] == phrase_].values.flatten().tolist()
+            c1, c2, is_plural = row[0], row[1], bool(row[2])
+            graphs = compound_parser.parse(c1, c2, is_plural)
+            compound_to_graph[phrase] = graphs[index]
+        else:
+            if parts[-1].isnumeric():
+                index = int(parts[-1]) - 1
+                parts = parts[:-1]
+            phrase_ = " ".join(parts)
+            graphs = phrase_parser.parse(phrase_)
+            phrase_to_graph[phrase] = graphs[index]
+
+    return phrase_to_graph, compound_to_graph

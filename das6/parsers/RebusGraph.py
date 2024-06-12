@@ -2,7 +2,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 from util import get_node_attributes, get_edges_from_node
-from graphs.patterns.Rule import Rule
+from parsers.patterns.Rule import Rule
 
 
 class RebusGraph(nx.DiGraph):
@@ -80,9 +80,21 @@ class RebusGraph(nx.DiGraph):
 
     def __str__(self):
         final_str = f"Graph: {self.graph}\n"
-        node_attrs = get_node_attributes(self)
+        node_attrs = get_node_attributes(self).copy()
         for node, attrs in node_attrs.items():
-            final_str += f"Node {node}: {str(attrs)}\n"
-        for edge, rule in nx.get_edge_attributes(self, "rule").items():
-            final_str += f"Node {edge[0]} -{'-' if rule is None else '-(' + rule + ')-'}> Node {edge[1]}\n"
+            if "icon" in attrs:
+                attrs["text"] = list(attrs["icon"].values())[0]
+            attr_str = [f"{rule}: {value}" for rule, value in attrs.items() if rule != "icon" and rule != "sound"]
+            if "icon" in attrs:
+                attr_str += [f"icon: ({list(attrs['icon'].keys())[0]}: {list(attrs['icon'].values())[0]})"]
+            if "sound" in attrs:
+                sound_rule = list(attrs['sound'].keys())[0]
+                sound_value = list(attrs['sound'].values())[0]
+                if isinstance(sound_value, list):
+                    sound_value = sound_value[0]
+                attr_str += [f"sound: ({sound_rule}: {sound_value})"]
+            attr_str = ", ".join(attr_str)
+            final_str += f"Node {node} attributes: ({attr_str})\n"
+        for i, (edge, rule) in enumerate(nx.get_edge_attributes(self, "rule").items()):
+            final_str += f"Edge {i+1}: node {edge[0]} to node {edge[1]} (rule: {rule})\n"
         return final_str

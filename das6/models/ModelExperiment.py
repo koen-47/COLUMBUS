@@ -29,13 +29,12 @@ class ModelExperiment:
                 print(f"Failed to remove: {file_path}. Reason: {e}")
 
     def get_metadata(self, benchmark, save_dir):
-        compounds, phrases = benchmark.get_puzzles()
+        puzzles = benchmark.get_puzzles()
         return {
             "experiment": self.name,
             "prompt_type": self.prompt_type,
             "prompt_template": self.prompt,
-            "n_compounds": len(compounds),
-            "n_phrases": len(phrases),
+            "n_puzzles": len(puzzles),
             "save_dir": save_dir,
             "models_dir": self.models_dir,
             "device": self.device

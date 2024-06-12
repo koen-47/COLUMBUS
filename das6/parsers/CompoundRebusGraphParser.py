@@ -4,8 +4,8 @@ import ast
 
 import inflect
 
-from graphs.patterns.Rule import Rule
-from das6.parsers.RebusGraph import RebusGraph
+from parsers.patterns.Rule import Rule
+from parsers.RebusGraph import RebusGraph
 from util import remove_duplicate_graphs
 
 inflect = inflect.engine()
@@ -14,10 +14,10 @@ inflect = inflect.engine()
 class CompoundRebusGraphParser:
     def __init__(self):
         # Load homophones
-        with open(f"{os.path.dirname(__file__)}/../../saved/homophones_v2.json", "r") as file:
+        with open(f"{os.path.dirname(__file__)}/../data/misc/homophones_v2.json", "r") as file:
             self._homophones = json.load(file)
         # Load icons
-        with open(f"{os.path.dirname(__file__)}/../../saved/icons_v2.json", "r") as file:
+        with open(f"{os.path.dirname(__file__)}/../data/misc/icons_v2.json", "r") as file:
             self._icons = {ast.literal_eval(labels): icon for labels, icon in json.load(file).items()}
 
     def parse(self, c1, c2, is_plural):

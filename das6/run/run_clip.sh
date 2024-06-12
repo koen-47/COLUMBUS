@@ -11,4 +11,4 @@ module load cuda11.7/toolkit
 source $HOME/.bashrc
 conda activate
 
-python /var/scratch/hkd800/scripts/main.py clip
+python /var/scratch/hkd800/scripts/main.py clip 1

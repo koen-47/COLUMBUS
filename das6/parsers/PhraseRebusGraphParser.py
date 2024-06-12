@@ -3,13 +3,13 @@ import json
 import os
 import copy
 
-from ..RebusGraph import RebusGraph
-from ..patterns.Rule import Rule
-from .CompoundRebusGraphParser import CompoundRebusGraphParser
+from parsers.RebusGraph import RebusGraph
+from parsers.patterns.Rule import Rule
+from parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
 
 class PhraseRebusGraphParser:
     def __init__(self):
-        with open(f"{os.path.dirname(__file__)}/../../saved/ignore_words.json", "r") as file:
+        with open(f"{os.path.dirname(__file__)}/../data/misc/ignore_words.json", "r") as file:
             self._ignore_words = json.load(file)
 
     def _is_valid(self, phrase):
