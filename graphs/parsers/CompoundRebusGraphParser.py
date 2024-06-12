@@ -5,7 +5,7 @@ import ast
 import inflect
 
 from graphs.patterns.Rule import Rule
-from das6.parsers.RebusGraph import RebusGraph
+from graphs.RebusGraph import RebusGraph
 from util import remove_duplicate_graphs
 
 inflect = inflect.engine()
@@ -24,6 +24,9 @@ class CompoundRebusGraphParser:
         # Check for patterns for either constituent word
         patterns_c1, conflicts_c1 = Rule.find_all(c1, is_plural)
         patterns_c2, conflicts_c2 = Rule.find_all(c2, is_plural)
+
+        # print(patterns_c1)
+        # print(patterns_c2)
 
         # Format patterns such that all mutually exclusive rules are handled individually
         if len(conflicts_c1) > 1:

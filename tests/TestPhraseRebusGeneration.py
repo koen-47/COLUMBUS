@@ -38,6 +38,10 @@ class TestPhraseRebusGeneration(unittest.TestCase):
         graphs = self.parser.parse(phrase)
         for graph in graphs:
             self.generator.generate(graph, show=True)
+        phrase = "cross fingers for luck"
+        graphs = self.parser.parse(phrase)
+        for graph in graphs:
+            self.generator.generate(graph, show=True)
 
     def test_birds_eye_view(self):
         phrase = "bird's eye view"

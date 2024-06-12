@@ -19,7 +19,7 @@ with open("../saved/unicode_emojis.txt", "r", encoding="utf-8") as file:
                     # print(emoji, label.lower())
 
 print(emojis)
-with open("../saved/icons_v2.json", "w") as file:
+with open("../das6/data/misc/icons_v2.json", "w") as file:
     emojis = {str(labels): emoji for labels, emoji in emojis.items()}
     json.dump(emojis, file, indent=3)
 

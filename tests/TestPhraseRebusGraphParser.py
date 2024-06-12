@@ -58,3 +58,11 @@ class TestPhraseRebusGraphParser(unittest.TestCase):
         graphs = self.parser.parse("to the stars")
         for graph in graphs:
             print(graph)
+
+    def test_blow_up_in_ones_face(self):
+        graphs = self.parser.parse("blow up in one's face")
+        for graph in graphs:
+            print(graph)
+
+    # def test_leftovers(self):
+    #     graphs = self.parser.parse()

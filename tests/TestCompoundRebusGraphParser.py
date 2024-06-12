@@ -2,7 +2,7 @@ import unittest
 
 import networkx as nx
 
-from das6.parsers.RebusGraph import RebusGraph
+from graphs.RebusGraph import RebusGraph
 from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
 from graphs.templates.Template import Template
 
@@ -34,12 +34,14 @@ class TestCompoundRebusGraphParser(unittest.TestCase):
 
     def test_rebus_parse_style_color(self):
         compound = ["red", "coat", False]
+        for graph in self.parser.parse(*compound):
+            print(graph)
         graph = self.parser.parse(*compound)[0]
         correct_graph = RebusGraph(template={"name": "base", "obj": Template.BASE})
         correct_graph.add_node(1, text="COAT", color="red", repeat=1)
         self.assertTrue(nx.utils.graphs_equal(graph, correct_graph))
 
-    def test_rebus_parse_style_color(self):
+    def test_rebus_parse_style_color_2(self):
         compound = ["red", "coats", True]
         graph = self.parser.parse(*compound)[0]
         correct_graph = RebusGraph(template={"name": "base", "obj": Template.BASE})

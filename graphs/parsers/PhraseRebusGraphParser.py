@@ -2,7 +2,7 @@ import itertools
 import json
 import os
 
-from das6.parsers.RebusGraph import RebusGraph
+from graphs.RebusGraph import RebusGraph
 from ..patterns.Rule import Rule
 from .CompoundRebusGraphParser import CompoundRebusGraphParser
 
