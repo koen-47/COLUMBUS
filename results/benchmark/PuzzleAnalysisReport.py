@@ -3,12 +3,13 @@ import os
 import glob
 
 import networkx as nx
+import numpy as np
 import pandas as pd
 
 from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
 from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
 from graphs.patterns.Rule import Rule
-from util import get_node_attributes
+from util import get_node_attributes, get_answer_graph_pairs
 
 
 class PuzzleAnalysisReport:
@@ -140,3 +141,91 @@ class PuzzleAnalysisReport:
         print(f"Total rule frequency: {sum(rules_freq_icon.values())}")
         print(json.dumps(rules_freq_icon, indent=3))
         print(json.dumps(edge_freq_icon, indent=3))
+
+    def compute_basic_statistics(self):
+        phrase_graphs, compound_graphs = get_answer_graph_pairs()
+        graphs = {}
+        graphs.update(compound_graphs)
+        graphs.update(phrase_graphs)
+
+        def calculate_number_of_graphs_n_nodes(graphs, n):
+            return np.array([1 for graph in graphs if graph.number_of_nodes() == n]).sum()
+
+        graphs_no_icons, graphs_icons = {}, {}
+        for answer, graph in graphs.items():
+            contains_icons = sum([1 if "icon" in attr else 0 for attr in get_node_attributes(graph).values()]) > 0
+            if contains_icons:
+                graphs_icons[answer] = graph
+            else:
+                graphs_no_icons[answer] = graph
+
+        answers = [" ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(answer.split("_"))
+                   for answer in graphs.keys()]
+        avg_answer_len = np.array([len(answer.split()) for answer in answers]).mean()
+
+        avg_n_nodes = np.array([graph.number_of_nodes() for graph in graphs.values()]).mean()
+        avg_n_edges = np.array([graph.number_of_edges() for graph in graphs.values()]).mean()
+        n_single_node_graphs = calculate_number_of_graphs_n_nodes(graphs.values(), n=1)
+        n_double_node_graphs = calculate_number_of_graphs_n_nodes(graphs.values(), n=2)
+        n_triple_node_graphs = calculate_number_of_graphs_n_nodes(graphs.values(), n=3)
+
+        avg_n_nodes_no_icon = np.array([graph.number_of_nodes() for graph in graphs_no_icons.values()]).mean()
+        avg_n_edges_no_icon = np.array([graph.number_of_edges() for graph in graphs_no_icons.values()]).mean()
+        n_single_node_graphs_no_icons = calculate_number_of_graphs_n_nodes(graphs_no_icons.values(), n=1)
+        n_double_node_graphs_no_icons = calculate_number_of_graphs_n_nodes(graphs_no_icons.values(), n=2)
+        n_triple_node_graphs_no_icons = calculate_number_of_graphs_n_nodes(graphs_no_icons.values(), n=3)
+
+        avg_n_nodes_icon = np.array([graph.number_of_nodes() for graph in graphs_icons.values()]).mean()
+        avg_n_edges_icon = np.array([graph.number_of_edges() for graph in graphs_icons.values()]).mean()
+        n_single_node_graphs_icons = calculate_number_of_graphs_n_nodes(graphs_icons.values(), n=1)
+        n_double_node_graphs_icons = calculate_number_of_graphs_n_nodes(graphs_icons.values(), n=2)
+        n_triple_node_graphs_icons = calculate_number_of_graphs_n_nodes(graphs_icons.values(), n=3)
+
+        print("\n=== BENCHMARK STATISTICS (overall) ===")
+        print("Number of puzzles:", len(graphs))
+        print("Number of single node graphs:", n_single_node_graphs)
+        print("Number of double node graphs:", n_double_node_graphs)
+        print("Number of triple node graphs:", n_triple_node_graphs)
+        print("Avg. number of nodes per graph:", avg_n_nodes)
+        print("Avg. number of edges per graph", avg_n_edges)
+
+        print("\n=== BENCHMARK STATISTICS (no icons) ===")
+        print("Number of puzzles (no icons):", len(graphs_no_icons))
+        print("Number of single node graphs (no icons):", n_single_node_graphs_no_icons)
+        print("Number of double node graphs (no icons):", n_double_node_graphs_no_icons)
+        print("Number of triple node graphs (no icons):", n_triple_node_graphs_no_icons)
+        print("Avg. number of nodes per graph (no icons):", avg_n_nodes_no_icon)
+        print("Avg. number of edges per graph (no icons)", avg_n_edges_no_icon)
+
+        print("\n=== BENCHMARK STATISTICS (icons) ===")
+        print("Number of puzzles (icons):", len(graphs_icons))
+        print("Number of single node graphs (icons):", n_single_node_graphs_icons)
+        print("Number of double node graphs (icons):", n_double_node_graphs_icons)
+        print("Number of triple node graphs (icons):", n_triple_node_graphs_icons)
+        print("Avg. number of nodes per graph (icons):", avg_n_nodes_icon)
+        print("Avg. number of edges per graph (icons)", avg_n_edges_icon)
+
+        with open("./saved/distractors_all-minilm-l6-v2_final.json", "r") as file:
+            distractors = json.load(file)
+            visible_words = {answer: " ".join([node["text"].lower() for node in get_node_attributes(graph).values()]) for answer, graph in graphs.items()}
+            print(len(distractors), distractors)
+            print(len(visible_words), visible_words)
+
+            compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in pd.read_csv("./saved/ladec_raw_small.csv").iterrows()}
+            custom_compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in pd.read_csv("./saved/custom_compounds.csv").iterrows()}
+            compounds.update(custom_compounds)
+
+            print(len(visible_words), visible_words)
+
+            distractors = {compounds[answer]: distractor for answer, distractor in distractors.items() if answer in compounds}
+            # distractors = {(" ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(answer.split("_"))): distractor
+            #                for answer, distractor in distractors.items()}
+
+
+
+        # print("Number of compounds:", len(compound_graphs))
+        # print("Number of phrases:", len(phrase_graphs))
+        # print("Avg. answer length:", avg_answer_len)
+        # print(f"Number of nodes in a graph: [1: {n_single_node_graphs}, 2: {n_two_node_graphs}, "
+        #       f"3: {n_three_node_graphs}, 4: {n_four_node_graphs}]")
+

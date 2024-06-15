@@ -23,24 +23,27 @@ class AnalysisReport:
 
     def generate_all(self, verbose=False):
         model_types = ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "blip-2_flan-t5-xxl",
-                       "fuyu-8b", "instructblip", "llava-1.5-13b", "llava-1.6-34b", "cogvlm", "qwenvl"]
+                       "fuyu-8b", "instructblip", "llava-1.5-13b", "llava-1.6-34b", "cogvlm", "qwenvl", "mistral-7b"]
         prompt_types = ["1", "2", "3", "4"]
         all_basic_results = {prompt: {model: None} for model, prompt in product(*[model_types, prompt_types])}
         all_rule_results = {prompt: {model: None} for model, prompt in product(*[model_types, prompt_types])}
 
         self.generate("clip", prompt_type="N/A")
         for model, prompt in product(*[model_types, prompt_types]):
+            if model == "mistral-7b" and (prompt == "1" or prompt == "2"):
+                continue
+
             if verbose:
                 print(f"\n=== ANALYSIS {model.upper()} ===")
                 print(f"Prompt type: {prompt}")
 
             basic_results, rule_results = self.generate(model, prompt, verbose=verbose)
-            all_basic_results[prompt][model] = basic_results
-            all_rule_results[prompt][model] = rule_results
+            if model != "blip-2_opt-2.7b" and model != "blip-2_opt-6.7b" and model != "instructblip" and model != "mistral-7b":
+                all_basic_results[prompt][model] = basic_results
+                all_rule_results[prompt][model] = rule_results
 
-        # print(all_basic_results)
-        # print(all_rule_results)
-
+        print(all_basic_results)
+        print(all_rule_results)
         self.analyze_overall(all_basic_results, all_rule_results)
 
     def generate(self, model_type, prompt_type, mistral_type=None, verbose=False):
@@ -48,7 +51,7 @@ class AnalysisReport:
             with open(f"{self.results_dir}/{model_type}.json", "r") as file:
                 results = json.load(file)["results"]
         elif model_type == "mistral-7b":
-            with open(f"{self.results_dir}/{model_type}.json", "r") as file:
+            with open(f"{self.results_dir}/{model_type}_prompt_{prompt_type}.json", "r") as file:
                 results = json.load(file)["results"]
         else:
             with open(f"{self.results_dir}/prompt_{prompt_type}/{model_type}_prompt_{prompt_type}.json", "r") as file:
@@ -257,7 +260,7 @@ class AnalysisReport:
             return averages
 
         for prompt in ["1", "2", "3", "4"]:
-            results = list(rule_results[prompt].values())
+            results = [result for result in list(rule_results[prompt].values()) if result is not None]
             rules_freq_text = calculate_averages(np.array(results)[:, 0].tolist())
             edge_freq_text = calculate_averages(np.array(results)[:, 1].tolist())
             rules_freq_icon = calculate_averages(np.array(results)[:, 2].tolist())
