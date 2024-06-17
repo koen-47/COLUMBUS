@@ -17,11 +17,11 @@ from data.Benchmark import Benchmark
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("model", type=str)
-    parser.add_argument("prompt_type", type=int)
+    parser.add_argument("prompt_type", type=str)
 
     args = parser.parse_args()
     model = args.model
-    prompt_type = int(args.prompt_type)
+    prompt_type = args.prompt_type
 
     save_dir = f"{os.path.dirname(__file__)}/results/prompt_{prompt_type}"
 
@@ -64,7 +64,4 @@ def main():
 
 
 if __name__ == "__main__":
-    # benchmark = Benchmark(with_metadata=True)
-    # puzzles = benchmark.get_puzzles()
-
     main()

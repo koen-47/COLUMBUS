@@ -12,22 +12,7 @@ class MistralExperiment(ModelExperiment):
         super().__init__(prompt_type)
         self.name = "Mistral-7b"
         self.prompt_type = prompt_type
-        if prompt_type == 3:
-            self.prompt = "You are given a description of a graph that is used to convey a word or phrase. " \
-                                "It needs to be solved through creative thinking. " \
-                                "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. " \
-                                "The description is as follows:\n" \
-                                "{}\n" \
-                                "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                                "(A) {} (B) {} (C) {} (D) {}"
-        elif prompt_type == 4:
-            self.prompt = "You are given a description of a graph that is used to convey a word or phrase. " \
-                          "It needs to be solved through creative thinking. " \
-                          "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. " \
-                          "The edges define spatial relationships between these elements. The description is as follows:\n" \
-                          "{}\n" \
-                          "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                          "(A) {} (B) {} (C) {} (D) {}"
+        self.prompt = self.prompt_templates["mistral"][self.prompt_type]
 
         self._load_model()
 

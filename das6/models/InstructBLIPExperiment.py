@@ -14,33 +14,10 @@ class InstructBLIPExperiment(ModelExperiment):
     def __init__(self, prompt_type=1):
         super().__init__(prompt_type)
         self.name = "InstructBLIP"
-        if self.prompt_type == 1:
-            self.prompt = "<Image> " \
-                          "Question: Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n" \
-                          "Options: (A) {} (B) {} (C) {} (D) {}. Short answer:"
-        if self.prompt_type == 2:
-            self.prompt = "<Image> " \
-                          "Question: You are given a rebus puzzle. " \
-                          "It consists of text that is used to convey a word or phrase. " \
-                          "It needs to be solved through creative thinking. " \
-                          "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n" \
-                          "Options: (A) {} (B) {} (C) {} (D) {}. Short answer:"
-        elif self.prompt_type == 3:
-            self.prompt = "<Image> " \
-                          "Question: You are given a description of a graph that is used to convey a word or phrase. " \
-                          "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. " \
-                          "The description is as follows:\n" \
-                          "{}\n" \
-                          "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                          "Options: (A) {} (B) {} (C) {} (D) {}. Short answer:"
-        elif self.prompt_type == 4:
-            self.prompt = "<Image> " \
-                          "Question: You are given a description of a graph that is used to convey a word or phrase. " \
-                          "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node." \
-                          "The edges define spatial relationships between these elements. The description is as follows:\n" \
-                          "{}\n" \
-                          "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                          "Options: (A) {} (B) {} (C) {} (D) {}. Short answer:"
+        prompt_format = [self.prompt_templates["instructblip"][self.prompt_type],
+                         "(A) {} (B) {} (C) {} (D) {}"]
+        self.prompt_boilerplate = "<Image> Question: {} Options: {}. Short answer:"
+        self.prompt = self.prompt_boilerplate.format(*prompt_format)
 
         self._load_model()
 

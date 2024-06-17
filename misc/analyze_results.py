@@ -136,6 +136,12 @@ def analyze_new_results():
     prompt_3_icon = np.array([21.45, 23.26, 90.18, 42.89, 56.33, 62.79, 65.63, 69.25])
     prompt_4_icon = np.array([24.55, 24.29, 90.96, 41.6, 49.35, 58.91, 62.53, 70.28])
 
+    prompt_2_small = np.array([21.33, 24.33, 58.33, 29.67, 44.0, 45.67, 48.0, 50.67])
+    prompt_2_small_icon = np.array([24.03, 23.36, 73.13, 35.4, 51.94, 56.07, 58.4, 54.01])
+
+    print(prompt_2.mean())
+    print(prompt_2_icon.mean())
+
     def calculate_avg_diff(arr_1, arr_2):
         return np.array([np.absolute(x1 - x2) for x1, x2 in zip(arr_1, arr_2)]).mean()
 
@@ -143,24 +149,33 @@ def analyze_new_results():
         sm.qqplot(arr, line="45")
         pylab.show()
 
-    avg_diff_prompt_1_3 = calculate_avg_diff(prompt_1, prompt_3)
+    avg_diff_prompt_1_2_small = calculate_avg_diff(prompt_1, prompt_2_small)
+    avg_diff_prompt_2_3 = calculate_avg_diff(prompt_2, prompt_3)
+    avg_diff_prompt_2_3_small = calculate_avg_diff(prompt_2_small, prompt_3)
     avg_diff_prompt_3_4 = calculate_avg_diff(prompt_3, prompt_4)
-    avg_diff_prompt_1_3_icon = calculate_avg_diff(prompt_1_icon, prompt_3_icon)
+
+    avg_diff_prompt_1_2_small_icon = calculate_avg_diff(prompt_1_icon, prompt_2_small_icon)
+    avg_diff_prompt_2_3_icon = calculate_avg_diff(prompt_2_icon, prompt_3_icon)
+    avg_diff_prompt_2_3_small_icon = calculate_avg_diff(prompt_2_small_icon, prompt_3_icon)
     avg_diff_prompt_3_4_icon = calculate_avg_diff(prompt_3_icon, prompt_4_icon)
     avg_diff_prompt_2_2_icon = calculate_avg_diff(prompt_2, prompt_2_icon)
 
+    print(avg_diff_prompt_1_2_small, avg_diff_prompt_1_2_small_icon)
     print(avg_diff_prompt_2_2_icon)
-    print(avg_diff_prompt_1_3, avg_diff_prompt_3_4)
-    print(avg_diff_prompt_1_3_icon, avg_diff_prompt_3_4_icon)
+    print(avg_diff_prompt_2_3_small, avg_diff_prompt_2_3_small_icon)
+    print(avg_diff_prompt_2_3, avg_diff_prompt_2_3_icon)
+    print(avg_diff_prompt_3_4, avg_diff_prompt_3_4_icon)
 
     # generate_qqplot(np.absolute(prompt_3 - prompt_1))
     # generate_qqplot(np.absolute(prompt_4 - prompt_3))
     # generate_qqplot(np.absolute(prompt_3_icon - prompt_1_icon))
     # generate_qqplot(np.absolute(prompt_4_icon - prompt_3_icon))
 
-    print(wilcoxon(prompt_1, prompt_3))
+    print(wilcoxon(prompt_1, prompt_2_small))
+    print(wilcoxon(prompt_1_icon, prompt_2_small_icon))
+    print(wilcoxon(prompt_2_small, prompt_3))
+    print(wilcoxon(prompt_2_small_icon, prompt_3_icon))
     print(wilcoxon(prompt_3, prompt_4))
-    print(wilcoxon(prompt_1_icon, prompt_3_icon))
     print(wilcoxon(prompt_3_icon, prompt_4_icon))
 
     individual_prompt_1 = np.array([39.68, 52.86, 27.14, 45.06, 30.95, 46.82, 51.19, 30.77, 59.82, 38.35])

@@ -152,16 +152,22 @@ class PuzzleAnalysisReport:
             return np.array([1 for graph in graphs if graph.number_of_nodes() == n]).sum()
 
         graphs_no_icons, graphs_icons = {}, {}
+        answers_no_icons, answers_icons = [], []
         for answer, graph in graphs.items():
+            answer_ = " ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(answer.split("_"))
             contains_icons = sum([1 if "icon" in attr else 0 for attr in get_node_attributes(graph).values()]) > 0
             if contains_icons:
                 graphs_icons[answer] = graph
+                answers_icons.append(answer_)
             else:
                 graphs_no_icons[answer] = graph
-
+                answers_no_icons.append(answer_)
         answers = [" ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(answer.split("_"))
                    for answer in graphs.keys()]
+
         avg_answer_len = np.array([len(answer.split()) for answer in answers]).mean()
+        avg_answer_len_no_icon = np.array([len(answer.split()) for answer in answers_no_icons]).mean()
+        avg_answer_len_icon = np.array([len(answer.split()) for answer in answers_icons]).mean()
 
         avg_n_nodes = np.array([graph.number_of_nodes() for graph in graphs.values()]).mean()
         avg_n_edges = np.array([graph.number_of_edges() for graph in graphs.values()]).mean()
@@ -183,6 +189,7 @@ class PuzzleAnalysisReport:
 
         print("\n=== BENCHMARK STATISTICS (overall) ===")
         print("Number of puzzles:", len(graphs))
+        print(f"Avg. answer length", avg_answer_len)
         print("Number of single node graphs:", n_single_node_graphs)
         print("Number of double node graphs:", n_double_node_graphs)
         print("Number of triple node graphs:", n_triple_node_graphs)
@@ -191,6 +198,7 @@ class PuzzleAnalysisReport:
 
         print("\n=== BENCHMARK STATISTICS (no icons) ===")
         print("Number of puzzles (no icons):", len(graphs_no_icons))
+        print(f"Avg. answer length (no icons)", avg_answer_len_no_icon)
         print("Number of single node graphs (no icons):", n_single_node_graphs_no_icons)
         print("Number of double node graphs (no icons):", n_double_node_graphs_no_icons)
         print("Number of triple node graphs (no icons):", n_triple_node_graphs_no_icons)
@@ -199,6 +207,7 @@ class PuzzleAnalysisReport:
 
         print("\n=== BENCHMARK STATISTICS (icons) ===")
         print("Number of puzzles (icons):", len(graphs_icons))
+        print(f"Avg. answer length (icon)", avg_answer_len_icon)
         print("Number of single node graphs (icons):", n_single_node_graphs_icons)
         print("Number of double node graphs (icons):", n_double_node_graphs_icons)
         print("Number of triple node graphs (icons):", n_triple_node_graphs_icons)

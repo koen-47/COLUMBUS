@@ -16,30 +16,7 @@ class QwenVLModel(ModelExperiment):
     def __init__(self, prompt_type=1):
         super().__init__(prompt_type)
         self.name = f"QwenVL"
-        if self.prompt_type == 1:
-            self.prompt = "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n" \
-                          "(A) {} (B) {} (C) {} (D) {}"
-        if self.prompt_type == 2:
-            self.prompt = "You are given a rebus puzzle. " \
-                          "It consists of text that is used to convey a word or phrase. " \
-                          "It needs to be solved through creative thinking. " \
-                          "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n" \
-                          "(A) {} (B) {} (C) {} (D) {}"
-        elif self.prompt_type == 3:
-            self.prompt = "You are given a description of a graph that is used to convey a word or phrase. " \
-                          "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. " \
-                          "The description is as follows:\n" \
-                          "{}\n" \
-                          "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                          "(A) {} (B) {} (C) {} (D) {}"
-        elif self.prompt_type == 4:
-            self.prompt = "You are given a description of a graph that is used to convey a word or phrase. " \
-                          "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. " \
-                          "The edges define relationships between these elements. " \
-                          "The description is as follows:\n" \
-                          "{}\n" \
-                          "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                          "(A) {} (B) {} (C) {} (D) {}"
+        self.prompt = self.prompt_templates["base"][self.prompt_type]
 
         self._load_model()
 

@@ -15,34 +15,10 @@ class BLIP2Experiment(ModelExperiment):
         super().__init__(prompt_type)
         self.model_type = model_type
         self.name = f"BLIP-2 {model_type}"
-        if self.prompt_type == 1:
-            self.prompt = "Question: Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n" \
-                          "(A) {} (B) {} (C) {} (D) {} Answer:"
-        if self.prompt_type == 2:
-            self.prompt = "Question: You are given a rebus puzzle. " \
-                          "It consists of text that is used to convey a word or phrase. " \
-                          "It needs to be solved through creative thinking. " \
-                          "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n" \
-                          "(A) {} (B) {} (C) {} (D) {} " \
-                          "Answer:"
-        elif self.prompt_type == 3:
-            self.prompt = "Question: You are given a description of a graph that is used to convey a word or phrase. " \
-                          "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. " \
-                          "The description is as follows:\n" \
-                          "{}\n" \
-                          "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                          "(A) {} (B) {} (C) {} (D) {} " \
-                          "Answer:"
-        elif self.prompt_type == 4:
-            self.prompt = "Question: You are given a description of a graph that is used to convey a word or phrase. " \
-                          "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. " \
-                          "The edges define spatial relationships between these elements. The description is as follows:\n" \
-                          "{}\n" \
-                          "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                          "(A) {} (B) {} (C) {} (D) {} " \
-                          "Answer:"
+        self.prompt_boilerplate = "Question: {} Answer:"
+        self.prompt = self.prompt_boilerplate.format(self.prompt_templates["base"][self.prompt_type])
 
-        # self._load_model()
+        self._load_model()
 
     def _load_model(self):
         self.processor = Blip2Processor.from_pretrained(

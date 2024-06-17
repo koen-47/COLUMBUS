@@ -14,86 +14,16 @@ class LlavaExperiment(ModelExperiment):
     def __init__(self, model_type, prompt_type=1):
         super().__init__(prompt_type)
         self.model_type = model_type
+
         if model_type == "13b":
             self.name = "Llava-1.5-13b"
-            if self.prompt_type == 1:
-                self.prompt = "USER: <image>\n" \
-                              "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n" \
-                              "(A) {} (B) {} (C) {} (D) {}\n" \
-                              "ASSISTANT:"
-            elif self.prompt_type == 2:
-                self.prompt = "USER: <image>\n" \
-                              "You are given an image of a rebus puzzle. " \
-                              "It consists of text that is used to convey a word or phrase. " \
-                              "It needs to be solved through creative thinking. " \
-                              "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n" \
-                              "(A) {} (B) {} (C) {} (D) {}\n" \
-                              "ASSISTANT:"
-            elif self.prompt_type == 3:
-                self.prompt = "USER: <image>\n" \
-                              "You are given an image of a rebus puzzle. " \
-                              "It consists of text that is used to convey a word or phrase. " \
-                              "It needs to be solved through creative thinking. " \
-                              "You are also given a description of the graph representation of the puzzle. " \
-                              "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. " \
-                              "The description is as follows:\n" \
-                              "{}\n" \
-                              "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                              "(A) {} (B) {} (C) {} (D) {}\n" \
-                              "ASSISTANT:"
-            elif self.prompt_type == 4:
-                self.prompt = "USER: <image>\n" \
-                              "You are given an image of a rebus puzzle. " \
-                              "It consists of text that is used to convey a word or phrase. " \
-                              "It needs to be solved through creative thinking. " \
-                              "You are also given a description of the graph representation of the puzzle. " \
-                              "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. " \
-                              "The edges define spatial relationships between these elements." \
-                              "The description is as follows:\n" \
-                              "{}\n" \
-                              "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                              "(A) {} (B) {} (C) {} (D) {}\n" \
-                              "ASSISTANT:"
-        else:
+            self.prompt_boilerplate = "USER: <image>\n{}\nASSISTANT:"
+            self.prompt = self.prompt_boilerplate.format(self.prompt_templates["base"][self.prompt_type])
+        elif model_type == "34b":
             self.name = "Llava-1.6-34b"
-            if self.prompt_type == 1:
-                self.prompt = "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\n" \
-                              "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n" \
-                              "(A) {} (B) {} (C) {} (D) {}\n" \
-                              "<|im_end|><|im_start|>assistant\n"
-            elif self.prompt_type == 2:
-                self.prompt = "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\n" \
-                              "You are given an image of a rebus puzzle. " \
-                              "It consists of text that is used to convey a word or phrase. " \
-                              "It needs to be solved through creative thinking. " \
-                              "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n" \
-                              "(A) {} (B) {} (C) {} (D) {}\n" \
-                              "<|im_end|><|im_start|>assistant\n"
-            elif self.prompt_type == 3:
-                self.prompt = "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\n" \
-                              "You are given an image of a rebus puzzle. " \
-                              "It consists of text that is used to convey a word or phrase. " \
-                              "It needs to be solved through creative thinking. " \
-                              "You are also given a description of the graph representation of the puzzle. " \
-                              "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. " \
-                              "The description is as follows:\n" \
-                              "{}\n" \
-                              "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                              "(A) {} (B) {} (C) {} (D) {}\n" \
-                              "<|im_end|><|im_start|>assistant\n"
-            elif self.prompt_type == 4:
-                self.prompt = "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\n" \
-                              "You are given an image of a rebus puzzle. " \
-                              "It consists of text that is used to convey a word or phrase. " \
-                              "It needs to be solved through creative thinking. " \
-                              "You are also given a description of the graph representation of the puzzle. " \
-                              "The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. " \
-                              "The edges define spatial relationships between the elements." \
-                              "The description is as follows:\n" \
-                              "{}\n" \
-                              "Which word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n" \
-                              "(A) {} (B) {} (C) {} (D) {}\n" \
-                              "<|im_end|><|im_start|>assistant\n"
+            self.prompt_boilerplate = "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n" \
+                                      "<image>\n{}\n<|im_end|><|im_start|>assistant\n"
+            self.prompt = self.prompt_boilerplate.format(self.prompt_templates["base"][self.prompt_type])
 
         self._load_model()
 
