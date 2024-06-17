@@ -26,7 +26,7 @@ All files relating to puzzle generation can be found under [graphs](https://gith
 
 All files used to prompt the models in our experiments can be found under the [DAS-6](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/das6) folder. This is a duplicated, smaller version of this repository to use on the DAS-6 cluster. The file used to prompt each model is as follows:
 
-- [CLIP](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/das6) (baseline)
+- [CLIP](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/CLIPExperiment.py) (baseline)
 - [BLIP-2](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/BLIP2Experiment.py) (OPT 2.7b, OPT 6.7b, Flan-T5-XXL-11b)
 - [InstructBLIP](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/InstructBLIPExperiment.py)
 - [Fuyu](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/FuyuExperiment.py)
