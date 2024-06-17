@@ -5,8 +5,6 @@ This repository has been submitted in conjunction with a thesis for the VU Maste
 
 ## Data Selection and Collection
 
----
-
 The following files consist of the raw data scraped, downloaded or manually collected (custom) to be used as input for our puzzle generation pipeline:
 - Compound words: [source](https://era.library.ualberta.ca/items/dc3b9033-14d0-48d7-b6fa-6398a30e61e4) + [custom](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/saved/custom_compounds.csv) 
 - Idioms/phrases: [source](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/saved/idioms_raw.json) + [custom](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/saved/custom_phrases.json)
