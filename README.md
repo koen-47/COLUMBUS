@@ -16,11 +16,21 @@ The following files consist of the raw data scraped, downloaded or manually coll
 
 ##  Puzzle Generation
 
---- 
-
-All files relating to puzzle generation can be found under [graphs](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/graphs).
-
+All files relating to puzzle generation can be found under [graphs](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/graphs). The main ones are as follows:
+- [Compound graph parser](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/graphs/parsers/CompoundRebusGraphParser.py): parses a compound word into its graph representation.
+- [Phrase graph parser](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/graphs/parsers/PhraseRebusGraphParser.py): parses an idiom/phrase into its graph representation. 
+- [Image generation](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/graphs/RebusImageConverterV2.py): generates a rebus puzzle from its graph representation.
+- [Distractor generation](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/misc/phrase_similarity.py): generates three distractors for each question given the correct answer.
 
 ## Results
 
----
+All files used to prompt the models in our experiments can be found under the [DAS-6](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/das6) folder. This is a duplicated, smaller version of this repository to use on the DAS-6 cluster. The file used to prompt each model is as follows:
+
+- [CLIP](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/das6) (baseline)
+- [BLIP-2](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/BLIP2Experiment.py) (OPT 2.7b, OPT 6.7b, Flan-T5-XXL-11b)
+- [InstructBLIP](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/InstructBLIPExperiment.py)
+- [Fuyu](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/FuyuExperiment.py)
+- [QwenVL](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/QwenVLModel.py)
+- [CogVLM](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/CogVLMModel.py)
+- [Llava](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/LlavaExperiment.py) (1.5-13b, 1.6-34b)
+- [Mistral](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/MistralExperiment.py)
