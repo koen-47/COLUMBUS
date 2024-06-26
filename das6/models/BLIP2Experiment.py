@@ -16,7 +16,7 @@ class BLIP2Experiment(ModelExperiment):
         self.model_type = model_type
         self.name = f"BLIP-2 {model_type}"
         self.prompt_boilerplate = "Question: {} Answer:"
-        self.prompt = self.prompt_boilerplate.format(self.prompt_templates["base"][self.prompt_type])
+        self.prompt = self.prompt_boilerplate.format(self.prompt_templates["base"][str(self.prompt_type)])
 
         self._load_model()
 
@@ -52,7 +52,7 @@ class BLIP2Experiment(ModelExperiment):
             puzzle["prompt"] = prompt
             inputs = self.processor(images=image, text=prompt, return_tensors="pt").to(device=self.device,
                                                                                        dtype=torch.float16)
-            generated_ids = self.model.generate(**inputs, max_length=256)
+            generated_ids = self.model.generate(**inputs, max_length=512)
             generated_text = self.processor.batch_decode(generated_ids, skip_special_tokens=True)[0].strip()
             puzzle["output"] = generated_text
 

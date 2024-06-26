@@ -69,7 +69,7 @@ def count_relational_rules(phrase):
     return sum([1 for word in phrase.split() if word in relational_keywords])
 
 
-def get_answer_graph_pairs():
+def get_answer_graph_pairs(combine=False):
     from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
     from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
 
@@ -103,6 +103,12 @@ def get_answer_graph_pairs():
             phrase_ = " ".join(parts)
             graphs = phrase_parser.parse(phrase_)
             phrase_to_graph[phrase] = graphs[index]
+
+    if combine:
+        graphs = {}
+        graphs.update(phrase_to_graph)
+        graphs.update(compound_to_graph)
+        return graphs
 
     return phrase_to_graph, compound_to_graph
 

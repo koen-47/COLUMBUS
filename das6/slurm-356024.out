@@ -1,0 +1,71 @@
+Running experiment... (model: blip2-opt-2.7b, prompt type: 4)
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.97s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.32s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.57s/it]
+{
+   "experiment": "BLIP-2 opt-2.7b",
+   "prompt_type": 4,
+   "prompt_template": "Question: You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\n{}\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) {} (B) {} (C) {} (D) {} Answer:",
+   "n_puzzles": 682,
+   "save_dir": "/var/scratch/hkd800/scripts/results/prompt_4",
+   "models_dir": "/var/scratch/hkd800/scripts/models/downloads",
+   "device": "cuda"
+}
+Prompting BLIP-2 opt-2.7b:   0%|          | 0/682 [00:00<?, ?it/s]Prompting BLIP-2 opt-2.7b:   0%|          | 1/682 [00:02<25:52,  2.28s/it]Prompting BLIP-2 opt-2.7b:   0%|          | 2/682 [00:02<14:19,  1.26s/it]Prompting BLIP-2 opt-2.7b:   0%|          | 3/682 [00:03<09:00,  1.26it/s]Prompting BLIP-2 opt-2.7b:   1%|          | 4/682 [00:03<06:30,  1.74it/s]Prompting BLIP-2 opt-2.7b:   1%|          | 4/682 [00:03<09:27,  1.19it/s]
+Question: You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:
+Node 1 attributes: (text: 💧, repeat: 1, icon: (drop: 💧))
+Node 2 attributes: (text: 🌊, repeat: 1, icon: (ocean: 🌊))
+Edge 1: node 1 to node 2 (rule: INSIDE)
+
+Which word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?
+(A) spit in the ocean (B) a drop in the ocean (C) cross the ocean (D) drop in the pond Answer:
+Question: You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:
+Node 1 attributes: (text: 🐦, repeat: 1, icon: (bird: 🐦))
+Node 2 attributes: (text: 🤚, repeat: 1, icon: (hand: 🤚))
+Edge 1: node 1 to node 2 (rule: INSIDE)
+
+Which word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?
+(A) bird in the bosom (B) a bird in the hand is worth two in the bush (C) early bird (D) a bird in the hand Answer:
+Question: You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:
+Node 1 attributes: (text: BIT, repeat: 2, sound: (too: 2))
+Node 2 attributes: (text: MUCH, repeat: 1)
+Edge 1: node 1 to node 2 (rule: NEXT-TO)
+
+Which word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?
+(A) a bit too much (B) a bit much (C) much less (D) quite a bit Answer:
+Question: You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:
+Node 1 attributes: (text: 🐟, repeat: 1, icon: (fish: 🐟))
+Node 2 attributes: (text: 🌊, repeat: 1, icon: (water: 🌊))
+Edge 1: node 1 to node 2 (rule: OUTSIDE)
+
+Which word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?
+(A) big fish in a small pond (B) other fish in the sea (C) fish in troubled waters (D) a fish out of water Answer:
+Question: You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:
+Node 1 attributes: (text: 🐦, repeat: 1, size: small, icon: (bird: 🐦))
+Node 2 attributes: (text: TOLD, repeat: 1)
+Node 3 attributes: (text: 🕛🕛, repeat: 1, icon: (me: 🕛🕛))
+Edge 1: node 1 to node 2 (rule: NEXT-TO)
+Edge 2: node 2 to node 3 (rule: NEXT-TO)
+
+Which word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?
+(A) a little bird told me (B) early bird (C) bird in the bosom (D) bird of one's own brain Answer:
+Traceback (most recent call last):
+  File "/var/scratch/hkd800/scripts/main.py", line 67, in <module>
+    main()
+  File "/var/scratch/hkd800/scripts/main.py", line 31, in main
+    blip2_experiment.run_on_benchmark(save_dir=save_dir)
+  File "/var/scratch/hkd800/scripts/models/BLIP2Experiment.py", line 56, in run_on_benchmark
+    generated_ids = self.model.generate(**inputs, max_length=256)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/models/blip_2/modeling_blip_2.py", line 1835, in generate
+    outputs = self.language_model.generate(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/generation/utils.py", line 1449, in generate
+    self._validate_generated_length(generation_config, input_ids_length, has_default_max_length)
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/generation/utils.py", line 1140, in _validate_generated_length
+    raise ValueError(
+ValueError: Input length of input_ids is 0, but `max_length` is set to -1. This can lead to unexpected behavior. You should consider increasing `max_length` or, better yet, setting `max_new_tokens`.

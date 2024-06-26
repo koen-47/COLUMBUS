@@ -1,3 +1,4 @@
+import glob
 import json
 import os
 import re
@@ -5,6 +6,7 @@ from itertools import product
 
 import networkx as nx
 import numpy as np
+import pandas as pd
 import wordfreq
 import matplotlib.pyplot as plt
 from tqdm import tqdm
@@ -18,8 +20,7 @@ from util import get_node_attributes, get_answer_graph_pairs
 class AnalysisReport:
     def __init__(self):
         self.results_dir = f"{os.path.dirname(__file__)}/results_v2"
-        self._graph_answer_pairs, compound_graphs = get_answer_graph_pairs()
-        self._graph_answer_pairs.update(compound_graphs)
+        self._graph_answer_pairs = get_answer_graph_pairs(combine=True)
 
     def generate_all(self, verbose=False):
         model_types = ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "blip-2_flan-t5-xxl",
@@ -28,23 +29,36 @@ class AnalysisReport:
         all_basic_results = {prompt: {model: None} for model, prompt in product(*[model_types, prompt_types])}
         all_rule_results = {prompt: {model: None} for model, prompt in product(*[model_types, prompt_types])}
 
+        all_basic_results["1"]["mistral-7b"] = ["-"] * 4
+        all_basic_results["2"]["mistral-7b"] = ["-"] * 4
+        all_basic_results["1"]["human"] = ["-"] * 4
+        all_basic_results["3"]["human"] = ["-"] * 4
+        all_basic_results["4"]["human"] = ["-"] * 4
+
         self.generate("clip", prompt_type="N/A")
         for model, prompt in product(*[model_types, prompt_types]):
             if model == "mistral-7b" and (prompt == "1" or prompt == "2"):
                 continue
 
             if verbose:
-                print(f"\n=== ANALYSIS {model.upper()} ===")
+                print(f"\n=== MODEL EVALUATION ANALYSIS ({model.upper()}) ===")
                 print(f"Prompt type: {prompt}")
 
             basic_results, rule_results = self.generate(model, prompt, verbose=verbose)
+            all_basic_results[prompt][model] = basic_results
             if model != "blip-2_opt-2.7b" and model != "blip-2_opt-6.7b" and model != "instructblip" and model != "mistral-7b":
-                all_basic_results[prompt][model] = basic_results
                 all_rule_results[prompt][model] = rule_results
 
-        print(all_basic_results)
-        print(all_rule_results)
-        self.analyze_overall(all_basic_results, all_rule_results)
+        human_results = []
+        for file_path in glob.glob(f"{self.results_dir}/human/*"):
+            with open(file_path, "r") as file:
+                results = json.load(file)
+            for result in results:
+                self._standardize_general_result(result)
+            human_results = self.analyze_basic(results)
+        all_basic_results["2"]["human"] = human_results
+
+        self.analyze_overall(all_basic_results, all_rule_results, verbose=True)
 
     def generate(self, model_type, prompt_type, mistral_type=None, verbose=False):
         if model_type == "clip":
@@ -73,7 +87,7 @@ class AnalysisReport:
                 result, counter = self._preprocess_mistral_result(result, counter)
             result = self._standardize_general_result(result, mistral_type=mistral_type)
 
-        basic_results = self.analyze_basic_models(results, verbose=verbose)
+        basic_results = self.analyze_basic(results, verbose=verbose)
         rule_results = self.analyze_by_rule(results)
         return basic_results, rule_results
 
@@ -177,7 +191,7 @@ class AnalysisReport:
 
         return rules_freq_text, edge_freq_text, rules_freq_icon, edge_freq_icon
 
-    def analyze_basic_models(self, results, verbose=False):
+    def analyze_basic(self, results, verbose=False):
         def compute_accuracy(results):
             n_correct, n_correct_icons = 0, 0
             n_puzzles, n_puzzles_icon = 0, 0
@@ -231,22 +245,10 @@ class AnalysisReport:
             print(f"Accuracy (icons): {accuracy_icons:.2f}")
             print(f"Most common answer (icon): {most_common_answer_icon}")
 
-        return accuracy, accuracy_icons, most_common_answer, most_common_answer_icon
+        return round(accuracy, 2), most_common_answer, round(accuracy_icons, 2), most_common_answer_icon
 
-        # if puzzle_type == "compounds":
-        #     compound_freqs = {}
-        #     for result in results:
-        #         correct = list(result["correct"].values())[0]
-        #         compound_freqs[correct] = wordfreq.word_frequency(correct, "en", wordlist="best", minimum=0.0)
-        #     compound_freqs = dict(sorted(compound_freqs.items(), key=lambda item: item[1], reverse=True))
-        #     compound_freq_top50 = list(compound_freqs.keys())[:int(len(compound_freqs) * 0.5)]
-        #     compound_freq_top10 = list(compound_freqs.keys())[:int(len(compound_freqs) * 0.1)]
-        #     results_top50 = [result for result in results if list(result["correct"].values())[0] in compound_freq_top50]
-        #     results_top10 = [result for result in results if list(result["correct"].values())[0] in compound_freq_top10]
-        #     print(f"Top 50% accuracy: {compute_accuracy(results_top50):.2f}")
-        #     print(f"Top 10% accuracy: {compute_accuracy(results_top10):.2f}")
 
-    def analyze_overall(self, basic_results, rule_results):
+    def analyze_overall(self, basic_results, rule_results, verbose=False):
         def calculate_averages(freqs):
             sums_counts = {}
             for freq in freqs:
@@ -259,18 +261,48 @@ class AnalysisReport:
             averages = {rule: round(sums_counts[rule][0] / sums_counts[rule][1], 2) for rule in sums_counts}
             return averages
 
+        table_all_prompts = {}
+        for prompt in ["1", "2", "3", "4"]:
+            results_no_icon = {model: result[0] for model, result in basic_results[prompt].items() if result is not None}
+            results_icon = {model: result[2] for model, result in basic_results[prompt].items() if result is not None}
+            table_all_prompts[f"no_icon_prompt_{prompt}"] = results_no_icon
+            table_all_prompts[f"icon_prompt_{prompt}"] = results_icon
+
+        table_rules_per_prompt = {}
         for prompt in ["1", "2", "3", "4"]:
             results = [result for result in list(rule_results[prompt].values()) if result is not None]
             rules_freq_text = calculate_averages(np.array(results)[:, 0].tolist())
             edge_freq_text = calculate_averages(np.array(results)[:, 1].tolist())
             rules_freq_icon = calculate_averages(np.array(results)[:, 2].tolist())
             edge_freq_icon = calculate_averages(np.array(results)[:, 3].tolist())
+            rules_freq_icon = {rule: ("-" if str(rule).startswith("direction") else freq) for rule, freq in
+                               rules_freq_icon.items()}
+            table_rules_per_prompt[f"no_icon_prompt_{prompt}"] = rules_freq_text
+            table_rules_per_prompt[f"no_icon_prompt_{prompt}"].update(edge_freq_text)
+            table_rules_per_prompt[f"icon_prompt_{prompt}"] = rules_freq_icon
+            table_rules_per_prompt[f"icon_prompt_{prompt}"].update(edge_freq_icon)
 
-            print("\nPrompt", prompt)
-            print(f"Rule frequency (no icons):", json.dumps(rules_freq_text, indent=3))
-            print(f"Edge rule frequency (no icons):", json.dumps(edge_freq_text, indent=3))
-            print(f"Rule frequency (icons):", json.dumps(rules_freq_icon, indent=3))
-            print(f"Edge rule frequency (icons):", json.dumps(edge_freq_icon, indent=3))
+        table_prompt_2 = pd.DataFrame(basic_results["2"]).transpose().drop(["mistral-7b"])
+        table_prompt_2 = table_prompt_2.rename(columns={0: "accuracy (%)", 1: "most common answer (%)",
+                                                        2: "accuracy (%)", 3: "most common answer (%)"})
+        multi_columns = pd.MultiIndex.from_tuples(
+            [('Without icons', 'accuracy (%)'), ('Without icons', 'most common answer (%)'),
+             ('With icons', 'accuracy (%)'), ('With icons', 'most common answer (%)')]
+        )
+
+        table_prompt_2.columns = multi_columns
+        if verbose:
+            print(table_prompt_2)
+
+        table_rules_per_prompt = pd.DataFrame(table_rules_per_prompt)
+        if verbose:
+            print("\nAccuracy per puzzle including a specified rule (Individual + Relational + Modifier)")
+            print(table_rules_per_prompt)
+
+        table_all_prompts = pd.DataFrame.from_dict(table_all_prompts)
+        if verbose:
+            print("\nAccuracy per prompt")
+            print(table_all_prompts)
 
     def _standardize_general_result(self, result, mistral_type=None):
         output = result["output"]
@@ -337,37 +369,9 @@ class AnalysisReport:
             counter += 1
             return result, counter
 
-        # if re.match(r"^\) [A-z ]*\n", output):
-        #     result["output"] = " ".join(output.split("\n")[0].split()[1:])
-        #     counter += 1
-        # elif re.match(r"[A-z -]*\n", output):
-        #     result["output"] = output.split("\n")[0]
-        #     counter += 1
-        # elif re.match(r"^([A-D]\)) [A-z ]*\n", output):
-        #     result["output"] = output.split("\n")[0]
-        #     counter += 1
-        # elif re.match(r"^\([A-D]\) [A-z ]*\n", output):
-        #     result["output"] = output.split("\n")[0]
-        #     counter += 1
-        # elif re.match(r"^(\u0004) [A-z ]*", output):
-        #     result["output"] = " ".join(output.split("\n")[0].split()[1:])
-        #     counter += 1
         return result, counter
 
     def _preprocess_mistral_result(self, result, counter, is_phrase=False):
-        # if is_phrase:
-        #     output_nodes_edges = result["output"]["nodes_and_edges"]
-        #     output_nodes = result["output"]["nodes"]
-        #     match_nodes_edges = re.search(r"\(\((.*?)\)\)", output_nodes_edges)
-        #     match_nodes = re.search(r"\(\((.*?)\)\)", output_nodes)
-        #     if match_nodes_edges:
-        #         result["output"]["nodes_and_edges"] = match_nodes_edges.group(1)
-        #         counter += 1
-        #     if match_nodes:
-        #         result["output"]["nodes"] = match_nodes.group(1)
-        #         counter += 1
-        #     return result, counter
-
         output = result["output"]
         match = re.search(r"\(\((.*?)\)\)", output)
         if match:
@@ -390,7 +394,5 @@ class AnalysisReport:
             result["output"] = re.findall(r"is \"(.*?)\".", output)[0]
         elif len(re.findall(r"is \"(.*?).\"", output)) > 0:
             result["output"] = re.findall(r"is \"(.*?).\"", output)[0]
-        # else:
-        #     print(output)
 
         return result, counter

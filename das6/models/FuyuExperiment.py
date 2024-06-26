@@ -15,8 +15,7 @@ class FuyuExperiment(ModelExperiment):
     def __init__(self, prompt_type=1):
         super().__init__(prompt_type)
         self.name = "Fuyu-8b"
-        self.prompt = self.prompt_templates["base"][self.prompt_type]
-
+        self.prompt = self.prompt_templates["base"][str(self.prompt_type)]
         self._load_model()
 
     def _load_model(self):

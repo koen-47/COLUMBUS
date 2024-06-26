@@ -14,7 +14,7 @@ class InstructBLIPExperiment(ModelExperiment):
     def __init__(self, prompt_type=1):
         super().__init__(prompt_type)
         self.name = "InstructBLIP"
-        prompt_format = [self.prompt_templates["instructblip"][self.prompt_type],
+        prompt_format = [self.prompt_templates["instructblip"][str(self.prompt_type)],
                          "(A) {} (B) {} (C) {} (D) {}"]
         self.prompt_boilerplate = "<Image> Question: {} Options: {}. Short answer:"
         self.prompt = self.prompt_boilerplate.format(*prompt_format)

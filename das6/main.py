@@ -2,6 +2,10 @@ import json
 import os
 import argparse
 
+import numpy
+from PIL import Image
+from matplotlib import pyplot as plt
+from tqdm import tqdm
 
 from models.BLIP2Experiment import BLIP2Experiment
 from models.FuyuExperiment import FuyuExperiment
@@ -17,11 +21,15 @@ from data.Benchmark import Benchmark
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("model", type=str)
-    parser.add_argument("prompt_type", type=str)
+    parser.add_argument("prompt_type", type=int)
 
     args = parser.parse_args()
     model = args.model
-    prompt_type = args.prompt_type
+    prompt_type = int(args.prompt_type)
+
+    if model == "mistral" and (prompt_type == 1 or prompt_type == 2):
+        print(f"Unable to run {model} with prompt {prompt_type}")
+        return -1
 
     save_dir = f"{os.path.dirname(__file__)}/results/prompt_{prompt_type}"
 

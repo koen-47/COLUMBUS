@@ -12,7 +12,7 @@ class MistralExperiment(ModelExperiment):
         super().__init__(prompt_type)
         self.name = "Mistral-7b"
         self.prompt_type = prompt_type
-        self.prompt = self.prompt_templates["mistral"][self.prompt_type]
+        self.prompt = self.prompt_templates["mistral"][str(self.prompt_type)]
 
         self._load_model()
 

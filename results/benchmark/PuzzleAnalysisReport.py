@@ -17,50 +17,9 @@ class PuzzleAnalysisReport:
         self._compound_parser = CompoundRebusGraphParser()
         self._phrase_parser = PhraseRebusGraphParser()
 
-    def generate_final(self):
-        phrases = [os.path.basename(file).split(".")[0]
-                   for file in glob.glob(f"{os.path.dirname(__file__)}/final/*")]
-        ladec = pd.read_csv(f"{os.path.dirname(__file__)}/../../saved/ladec_raw_small.csv")
-        custom_compounds = pd.read_csv(f"{os.path.dirname(__file__)}/../../saved/custom_compounds.csv")
-        phrase_to_graph = {}
-        for phrase in phrases:
-            phrase_parts = phrase.split("_")
-            phrase_index = 0
-            if (phrase_parts[0] in ladec["stim"].tolist() and len(phrase_parts) == 2) or len(phrase_parts) == 1:
-                if phrase_parts[-1].isnumeric():
-                    phrase_index = int(phrase_parts[-1]) - 1
-                    phrase_parts = phrase_parts[:-1]
-                phrase_ = " ".join(phrase_parts)
-                row = ladec.loc[ladec["stim"] == phrase_].values.flatten().tolist()
-                if len(row) == 0:
-                    row = custom_compounds.loc[custom_compounds["stim"] == phrase_].values.flatten().tolist()
-                c1, c2, is_plural = row[0], row[1], bool(row[2])
-                graphs = self._compound_parser.parse(c1, c2, is_plural)
-                phrase_to_graph[phrase] = graphs[phrase_index]
-            else:
-                if phrase_parts[-1].isnumeric():
-                    phrase_index = int(phrase_parts[-1]) - 1
-                    phrase_parts = phrase_parts[:-1]
-                phrase_ = " ".join(phrase_parts)
-                graphs = self._phrase_parser.parse(phrase_)
-                phrase_to_graph[phrase] = graphs[phrase_index]
-        graphs = list(phrase_to_graph.values())
-        self._count_rules(graphs)
-
-    def generate_phrases(self):
-        phrases = [os.path.basename(file).split(".")[0]
-                   for file in glob.glob(f"{os.path.dirname(__file__)}/phrases/*")]
-        phrase_to_graph = {}
-        for phrase in phrases:
-            phrase_parts = phrase.split("_")
-            phrase_index = 0
-            if phrase_parts[-1].isnumeric():
-                phrase_index = int(phrase_parts[-1])-1
-                phrase_parts = phrase_parts[:-1]
-            phrase_ = " ".join(phrase_parts)
-            graphs = self._phrase_parser.parse(phrase_)
-            phrase_to_graph[phrase] = graphs[phrase_index]
-        graphs = list(phrase_to_graph.values())
+    def generate(self):
+        self._compute_basic_statistics()
+        graphs = list(get_answer_graph_pairs(combine=True).values())
         self._count_rules(graphs)
 
     def _count_rules(self, graphs):
@@ -128,21 +87,22 @@ class PuzzleAnalysisReport:
 
         rules_freq_text = dict(sorted(rules_freq_text.items()))
         rules_freq_icon = dict(sorted(rules_freq_icon.items()))
+        rules_freq_icon = {rule: ("-" if str(rule).startswith("direction") else freq) for rule, freq in rules_freq_icon.items()}
         del rules_freq_icon["icon"]
 
-        print("=== BREAKDOWN: PUZZLES (TEXT) ===")
-        print(f"Total puzzle frequency: {n_text_puzzles}")
-        print(f"Total rule frequency: {sum(rules_freq_text.values())}")
-        print(json.dumps(rules_freq_text, indent=3))
-        print(json.dumps(edge_freq, indent=3))
+        print("\n === BREAKDOWN: PUZZLE RULES ===")
+        print(f"Total puzzle frequency (no icons): {n_text_puzzles}")
+        print(f"Total rule frequency (no icons): {sum(rules_freq_text.values())}")
+        print(f"Total puzzle frequency (icons): {n_icon_puzzles}")
+        print(f"Total rule frequency (icons): {sum([freq for freq in rules_freq_icon.values() if freq != '-'])}")
 
-        print(f"=== BREAKDOWN PUZZLES (ICONS) ===")
-        print(f"Total puzzle frequency: {n_icon_puzzles}")
-        print(f"Total rule frequency: {sum(rules_freq_icon.values())}")
-        print(json.dumps(rules_freq_icon, indent=3))
-        print(json.dumps(edge_freq_icon, indent=3))
+        print("\nIndividual + Modifier Rule Frequency Table")
+        print(pd.DataFrame({"no_icons": rules_freq_text, "icons": rules_freq_icon}))
 
-    def compute_basic_statistics(self):
+        print("\nRelational Rule Frequency Table")
+        print(pd.DataFrame({"no_icons": edge_freq, "icons": edge_freq_icon}))
+
+    def _compute_basic_statistics(self):
         phrase_graphs, compound_graphs = get_answer_graph_pairs()
         graphs = {}
         graphs.update(compound_graphs)
@@ -214,19 +174,19 @@ class PuzzleAnalysisReport:
         print("Avg. number of nodes per graph (icons):", avg_n_nodes_icon)
         print("Avg. number of edges per graph (icons)", avg_n_edges_icon)
 
-        with open("./saved/distractors_all-minilm-l6-v2_final.json", "r") as file:
-            distractors = json.load(file)
-            visible_words = {answer: " ".join([node["text"].lower() for node in get_node_attributes(graph).values()]) for answer, graph in graphs.items()}
-            print(len(distractors), distractors)
-            print(len(visible_words), visible_words)
+        # with open("./saved/distractors_all-minilm-l6-v2_final.json", "r") as file:
+        #     distractors = json.load(file)
+        #     visible_words = {answer: " ".join([node["text"].lower() for node in get_node_attributes(graph).values()]) for answer, graph in graphs.items()}
+        #     print(len(distractors), distractors)
+        #     print(len(visible_words), visible_words)
+        #
+        #     compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in pd.read_csv("./saved/ladec_raw_small.csv").iterrows()}
+        #     custom_compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in pd.read_csv("./saved/custom_compounds.csv").iterrows()}
+        #     compounds.update(custom_compounds)
+        #
+        #     print(len(visible_words), visible_words)
 
-            compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in pd.read_csv("./saved/ladec_raw_small.csv").iterrows()}
-            custom_compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in pd.read_csv("./saved/custom_compounds.csv").iterrows()}
-            compounds.update(custom_compounds)
-
-            print(len(visible_words), visible_words)
-
-            distractors = {compounds[answer]: distractor for answer, distractor in distractors.items() if answer in compounds}
+            # distractors = {compounds[answer]: distractor for answer, distractor in distractors.items() if answer in compounds}
             # distractors = {(" ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(answer.split("_"))): distractor
             #                for answer, distractor in distractors.items()}
 

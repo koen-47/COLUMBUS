@@ -9,11 +9,11 @@ class ModelExperiment:
     def __init__(self, prompt_type):
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.models_dir = f"{os.path.dirname(__file__)}/downloads"
-        self.prompt_type = str(prompt_type)
+        self.prompt_type = prompt_type
         self.name = ""
         self.prompt = ""
 
-        with open(f"{os.path.dirname(__file__)}/../data/prompt_templates.json", "r") as file:
+        with open(f"{os.path.dirname(__file__)}/../data/misc/prompt_templates.json", "r") as file:
             self.prompt_templates = json.load(file)
         
     def run_on_benchmark(self, save_dir):

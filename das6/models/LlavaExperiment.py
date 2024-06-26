@@ -18,12 +18,12 @@ class LlavaExperiment(ModelExperiment):
         if model_type == "13b":
             self.name = "Llava-1.5-13b"
             self.prompt_boilerplate = "USER: <image>\n{}\nASSISTANT:"
-            self.prompt = self.prompt_boilerplate.format(self.prompt_templates["base"][self.prompt_type])
+            self.prompt = self.prompt_boilerplate.format(self.prompt_templates["base"][str(self.prompt_type)])
         elif model_type == "34b":
             self.name = "Llava-1.6-34b"
             self.prompt_boilerplate = "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n" \
                                       "<image>\n{}\n<|im_end|><|im_start|>assistant\n"
-            self.prompt = self.prompt_boilerplate.format(self.prompt_templates["base"][self.prompt_type])
+            self.prompt = self.prompt_boilerplate.format(self.prompt_templates["base"][str(self.prompt_type)])
 
         self._load_model()
 
