@@ -50,13 +50,23 @@ class AnalysisReport:
                 all_rule_results[prompt][model] = rule_results
 
         human_results = []
+        n_icon_puzzles, n_non_icon_puzzles = 0, 0
         for file_path in glob.glob(f"{self.results_dir}/human/*"):
             with open(file_path, "r") as file:
                 results = json.load(file)
             for result in results:
                 self._standardize_general_result(result)
+                img = os.path.basename(result["image"]).split(".")[0]
+                node_attrs = get_node_attributes(self._graph_answer_pairs[img])
+                contains_icons = sum([1 if "icon" in attr else 0 for attr in node_attrs.values()]) > 0
+                if contains_icons:
+                    n_icon_puzzles += 1
+                else:
+                    n_non_icon_puzzles += 1
             human_results = self.analyze_basic(results)
         all_basic_results["2"]["human"] = human_results
+
+        # print(n_non_icon_puzzles, n_icon_puzzles)
 
         self.analyze_overall(all_basic_results, all_rule_results, verbose=True)
 
@@ -289,6 +299,8 @@ class AnalysisReport:
             [('Without icons', 'accuracy (%)'), ('Without icons', 'most common answer (%)'),
              ('With icons', 'accuracy (%)'), ('With icons', 'most common answer (%)')]
         )
+
+
 
         table_prompt_2.columns = multi_columns
         if verbose:

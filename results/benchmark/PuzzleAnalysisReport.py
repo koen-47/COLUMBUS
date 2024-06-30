@@ -87,7 +87,8 @@ class PuzzleAnalysisReport:
 
         rules_freq_text = dict(sorted(rules_freq_text.items()))
         rules_freq_icon = dict(sorted(rules_freq_icon.items()))
-        rules_freq_icon = {rule: ("-" if str(rule).startswith("direction") else freq) for rule, freq in rules_freq_icon.items()}
+        rules_freq_icon = {rule: ("-" if str(rule).startswith("direction") else freq) for rule, freq in
+                           rules_freq_icon.items()}
         del rules_freq_icon["icon"]
 
         print("\n === BREAKDOWN: PUZZLE RULES ===")
@@ -114,7 +115,8 @@ class PuzzleAnalysisReport:
         graphs_no_icons, graphs_icons = {}, {}
         answers_no_icons, answers_icons = [], []
         for answer, graph in graphs.items():
-            answer_ = " ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(answer.split("_"))
+            answer_ = " ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(
+                answer.split("_"))
             contains_icons = sum([1 if "icon" in attr else 0 for attr in get_node_attributes(graph).values()]) > 0
             if contains_icons:
                 graphs_icons[answer] = graph
@@ -122,8 +124,9 @@ class PuzzleAnalysisReport:
             else:
                 graphs_no_icons[answer] = graph
                 answers_no_icons.append(answer_)
-        answers = [" ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(answer.split("_"))
-                   for answer in graphs.keys()]
+        answers = [
+            " ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(answer.split("_"))
+            for answer in graphs.keys()]
 
         avg_answer_len = np.array([len(answer.split()) for answer in answers]).mean()
         avg_answer_len_no_icon = np.array([len(answer.split()) for answer in answers_no_icons]).mean()
@@ -147,6 +150,68 @@ class PuzzleAnalysisReport:
         n_double_node_graphs_icons = calculate_number_of_graphs_n_nodes(graphs_icons.values(), n=2)
         n_triple_node_graphs_icons = calculate_number_of_graphs_n_nodes(graphs_icons.values(), n=3)
 
+        with open("./saved/distractors_all-minilm-l6-v2_final.json", "r") as file:
+            answer_to_distractors = json.load(file)
+
+            visible_to_distractor = {}
+            for answer, distractors in answer_to_distractors.items():
+                visible_words = []
+                node_attrs = get_node_attributes(graphs[answer])
+                contains_icons = sum([1 if "icon" in attr else 0 for attr in node_attrs.values()]) > 0
+                for attr in node_attrs.values():
+                    word = attr["text"].lower()
+                    if "icon" in attr:
+                        word = list(attr["icon"].keys())[0]
+                    visible_words.append(word)
+                visible_words = " ".join(visible_words)
+                visible_to_distractor[visible_words] = {"distractors": answer_to_distractors[answer],
+                                                        "contains_icon": contains_icons}
+
+            compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in
+                         pd.read_csv("./saved/ladec_raw_small.csv").iterrows()}
+            custom_compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in
+                                pd.read_csv("./saved/custom_compounds.csv").iterrows()}
+            compounds.update(custom_compounds)
+
+            for visible, distractors in visible_to_distractor.items():
+                visible_to_distractor[visible]["distractors"] = [
+                    compounds[distractor] if distractor in compounds else distractor
+                    for distractor in distractors["distractors"]]
+
+            for visible, distractors in visible_to_distractor.items():
+                word_overlaps = []
+                for distractor in distractors["distractors"]:
+                    visible_set, distractor_set = set(visible.split()), set(distractor.split())
+                    overlap = len(visible_set.intersection(distractor_set))
+                    word_overlaps.append(overlap)
+                word_overlaps = np.array(word_overlaps).sum()
+                visible_to_distractor[visible]["word_overlap"] = word_overlaps
+
+            avg_visible_word_overlap = np.array([distractors["word_overlap"] for distractors in
+                                                      visible_to_distractor.values()]).mean()
+
+            pct_contains_visible = np.array([1 if distractors["word_overlap"] > 0 else 0 for distractors
+                                                  in visible_to_distractor.values()]).sum() / len(visible_to_distractor)
+
+            avg_visible_word_overlap_no_icon = np.array([distractors["word_overlap"] for distractors in
+                                                         visible_to_distractor.values() if not
+                                                         distractors["contains_icon"]]).mean()
+
+            pct_contains_visible_no_icon = np.array([1 if distractors["word_overlap"] > 0 else 0 for
+                                                     distractors in visible_to_distractor.values() if
+                                                     not distractors["contains_icon"]]).sum() / len(graphs_no_icons)
+
+            avg_visible_word_overlap_icon = np.array([distractors["word_overlap"] for distractors in
+                                                      visible_to_distractor.values() if
+                                                      distractors["contains_icon"]]).mean()
+
+            pct_contains_visible_icon = np.array([1 if distractors["word_overlap"] > 0 else 0 for distractors
+                                                  in visible_to_distractor.values() if
+                                                  distractors["contains_icon"]]).sum() / len(graphs_icons)
+
+            print(f"Avg. visible word overlap: {avg_visible_word_overlap_no_icon}")
+            print(f"% of distractors that contain at least one visible word: {pct_contains_visible_no_icon}")
+
         print("\n=== BENCHMARK STATISTICS (overall) ===")
         print("Number of puzzles:", len(graphs))
         print(f"Avg. answer length", avg_answer_len)
@@ -155,6 +220,8 @@ class PuzzleAnalysisReport:
         print("Number of triple node graphs:", n_triple_node_graphs)
         print("Avg. number of nodes per graph:", avg_n_nodes)
         print("Avg. number of edges per graph", avg_n_edges)
+        print(f"Avg. visible word overlap: {avg_visible_word_overlap}")
+        print(f"% of distractors that contain at least one visible word (no icons): {pct_contains_visible}")
 
         print("\n=== BENCHMARK STATISTICS (no icons) ===")
         print("Number of puzzles (no icons):", len(graphs_no_icons))
@@ -164,6 +231,8 @@ class PuzzleAnalysisReport:
         print("Number of triple node graphs (no icons):", n_triple_node_graphs_no_icons)
         print("Avg. number of nodes per graph (no icons):", avg_n_nodes_no_icon)
         print("Avg. number of edges per graph (no icons)", avg_n_edges_no_icon)
+        print(f"Avg. visible word overlap (no icons): {avg_visible_word_overlap_no_icon}")
+        print(f"% of distractors that contain at least one visible word (no icons): {pct_contains_visible_no_icon}")
 
         print("\n=== BENCHMARK STATISTICS (icons) ===")
         print("Number of puzzles (icons):", len(graphs_icons))
@@ -173,28 +242,5 @@ class PuzzleAnalysisReport:
         print("Number of triple node graphs (icons):", n_triple_node_graphs_icons)
         print("Avg. number of nodes per graph (icons):", avg_n_nodes_icon)
         print("Avg. number of edges per graph (icons)", avg_n_edges_icon)
-
-        # with open("./saved/distractors_all-minilm-l6-v2_final.json", "r") as file:
-        #     distractors = json.load(file)
-        #     visible_words = {answer: " ".join([node["text"].lower() for node in get_node_attributes(graph).values()]) for answer, graph in graphs.items()}
-        #     print(len(distractors), distractors)
-        #     print(len(visible_words), visible_words)
-        #
-        #     compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in pd.read_csv("./saved/ladec_raw_small.csv").iterrows()}
-        #     custom_compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in pd.read_csv("./saved/custom_compounds.csv").iterrows()}
-        #     compounds.update(custom_compounds)
-        #
-        #     print(len(visible_words), visible_words)
-
-            # distractors = {compounds[answer]: distractor for answer, distractor in distractors.items() if answer in compounds}
-            # distractors = {(" ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(answer.split("_"))): distractor
-            #                for answer, distractor in distractors.items()}
-
-
-
-        # print("Number of compounds:", len(compound_graphs))
-        # print("Number of phrases:", len(phrase_graphs))
-        # print("Avg. answer length:", avg_answer_len)
-        # print(f"Number of nodes in a graph: [1: {n_single_node_graphs}, 2: {n_two_node_graphs}, "
-        #       f"3: {n_three_node_graphs}, 4: {n_four_node_graphs}]")
-
+        print(f"Avg. visible word overlap (icons): {avg_visible_word_overlap_icon}")
+        print(f"% of distractors that contain at least one visible word (icons): {pct_contains_visible_icon}")

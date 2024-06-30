@@ -160,11 +160,16 @@ def analyze_new_results():
     avg_diff_prompt_3_4_icon = calculate_avg_diff(prompt_3_icon, prompt_4_icon)
     avg_diff_prompt_2_2_icon = calculate_avg_diff(prompt_2, prompt_2_icon)
 
+    avg_diff_prompt_3_3_icon = calculate_avg_diff(prompt_3, prompt_3_icon)
+    avg_diff_prompt_4_4_icon = calculate_avg_diff(prompt_4, prompt_4_icon)
+
     print(avg_diff_prompt_1_2_small, avg_diff_prompt_1_2_small_icon)
-    print(avg_diff_prompt_2_2_icon)
+    print(f"Diff prompt 2 vs. prompt 2 icon:", avg_diff_prompt_2_2_icon)
     print(avg_diff_prompt_2_3_small, avg_diff_prompt_2_3_small_icon)
     print(avg_diff_prompt_2_3, avg_diff_prompt_2_3_icon)
     print(avg_diff_prompt_3_4, avg_diff_prompt_3_4_icon)
+    print(f"icon presence: {avg_diff_prompt_3_3_icon}, {avg_diff_prompt_4_4_icon}")
+    print(f"icon presence diff: {avg_diff_prompt_2_3 - avg_diff_prompt_2_3_icon}")
 
     # generate_qqplot(np.absolute(prompt_3 - prompt_1))
     # generate_qqplot(np.absolute(prompt_4 - prompt_3))
@@ -177,6 +182,7 @@ def analyze_new_results():
     print(wilcoxon(prompt_2_small_icon, prompt_3_icon))
     print(wilcoxon(prompt_3, prompt_4))
     print(wilcoxon(prompt_3_icon, prompt_4_icon))
+    print("Wilcoxon prompt 2 vs prompt 2 icon:", wilcoxon(prompt_2, prompt_2_icon))
 
     individual_prompt_1 = np.array([39.68, 52.86, 27.14, 45.06, 30.95, 46.82, 51.19, 30.77, 59.82, 38.35])
     individual_prompt_2 = np.array([36.51, 52.14, 23.57, 43.96, 51.19, 44.44, 46.43, 36.26, 62.50, 42.11])
@@ -194,28 +200,36 @@ def analyze_new_results():
     modifier_prompt_4 = np.array([56.05, 50.06, 54.01])
 
     print("Non-icon statistics")
-    print(np.array([individual_prompt_1.mean() - relational_prompt_1.mean(),
-                    individual_prompt_2.mean() - relational_prompt_2.mean(),
-                    individual_prompt_3.mean() - relational_prompt_3.mean(),
-                    individual_prompt_4.mean() - relational_prompt_4.mean()]).mean())
+    # print(np.array([individual_prompt_1.mean() - relational_prompt_1.mean(),
+    #                 individual_prompt_2.mean() - relational_prompt_2.mean(),
+    #                 individual_prompt_3.mean() - relational_prompt_3.mean(),
+    #                 individual_prompt_4.mean() - relational_prompt_4.mean()]).mean())
+    #
+    # print(np.array([individual_prompt_1.std(),
+    #                 individual_prompt_2.std(),
+    #                 individual_prompt_3.std(),
+    #                 individual_prompt_4.std()]).mean())
+    #
+    # print(np.array([relational_prompt_1.std(),
+    #                 relational_prompt_2.std(),
+    #                 relational_prompt_3.std(),
+    #                 relational_prompt_4.std()]).mean())
+    #
+    # print(np.array([individual_prompt_1, individual_prompt_2, individual_prompt_3, individual_prompt_4]).mean())
+    # print(np.array([modifier_prompt_1, modifier_prompt_2, modifier_prompt_3, modifier_prompt_4]).mean())
+    #
+    # print(np.array([relational_prompt_3[0] - relational_prompt_4[0],
+    #                 relational_prompt_3[1] - relational_prompt_4[1],
+    #                 relational_prompt_3[2] - relational_prompt_4[2],
+    #                 relational_prompt_3[3] - relational_prompt_4[3]]).mean())
 
-    print(np.array([individual_prompt_1.std(),
-                    individual_prompt_2.std(),
-                    individual_prompt_3.std(),
-                    individual_prompt_4.std()]).mean())
+    print(individual_prompt_2.mean() - relational_prompt_2.mean())
+    print(individual_prompt_2.std())
+    print(relational_prompt_2.std())
 
-    print(np.array([relational_prompt_1.std(),
-                    relational_prompt_2.std(),
-                    relational_prompt_3.std(),
-                    relational_prompt_4.std()]).mean())
-
-    print(np.array([individual_prompt_1, individual_prompt_2, individual_prompt_3, individual_prompt_4]).mean())
-    print(np.array([modifier_prompt_1, modifier_prompt_2, modifier_prompt_3, modifier_prompt_4]).mean())
-
-    print(np.array([relational_prompt_3[0] - relational_prompt_4[0],
-                    relational_prompt_3[1] - relational_prompt_4[1],
-                    relational_prompt_3[2] - relational_prompt_4[2],
-                    relational_prompt_3[3] - relational_prompt_4[3]]).mean())
+    print(individual_prompt_2.mean())
+    print(modifier_prompt_2.mean())
+    print(individual_prompt_2.mean() - modifier_prompt_2.mean())
 
     individual_prompt_1_icon = np.array([34.29, 60.00, 42.86, 40.26, 57.14, 52.14, 38.10])
     individual_prompt_2_icon = np.array([38.57, 61.43, 42.86, 46.75, 61.43, 46.15, 48.81])
@@ -233,28 +247,38 @@ def analyze_new_results():
     modifier_prompt_4_icon = np.array([59.04, 59.60, 62.67])
 
     print(f"Icon statistics")
-    print(np.array([individual_prompt_1_icon.mean() - relational_prompt_1_icon.mean(),
-                    individual_prompt_2_icon.mean() - relational_prompt_2_icon.mean(),
-                    individual_prompt_3_icon.mean() - relational_prompt_3_icon.mean(),
-                    individual_prompt_4_icon.mean() - relational_prompt_4_icon.mean()]).mean())
+    # print(np.array([individual_prompt_1_icon.mean() - relational_prompt_1_icon.mean(),
+    #                 individual_prompt_2_icon.mean() - relational_prompt_2_icon.mean(),
+    #                 individual_prompt_3_icon.mean() - relational_prompt_3_icon.mean(),
+    #                 individual_prompt_4_icon.mean() - relational_prompt_4_icon.mean()]).mean())
+    #
+    # print(np.array([individual_prompt_1_icon.std(),
+    #                 individual_prompt_2_icon.std(),
+    #                 individual_prompt_3_icon.std(),
+    #                 individual_prompt_4_icon.std()]).mean())
+    #
+    # print(np.array([relational_prompt_1_icon.std(),
+    #                 relational_prompt_2_icon.std(),
+    #                 relational_prompt_3_icon.std(),
+    #                 relational_prompt_4_icon.std()]).mean())
+    #
+    # print(np.array([individual_prompt_1_icon, individual_prompt_2_icon, individual_prompt_3_icon, individual_prompt_4_icon]).mean())
+    # print(np.array([modifier_prompt_1_icon, modifier_prompt_2_icon, modifier_prompt_3_icon, modifier_prompt_4_icon]).mean())
+    #
+    # print(np.array([relational_prompt_3_icon[0] - relational_prompt_4_icon[0],
+    #                 relational_prompt_3_icon[1] - relational_prompt_4_icon[1],
+    #                 relational_prompt_3_icon[2] - relational_prompt_4_icon[2],
+    #                 relational_prompt_3_icon[3] - relational_prompt_4_icon[3]]).mean())
 
-    print(np.array([individual_prompt_1_icon.std(),
-                    individual_prompt_2_icon.std(),
-                    individual_prompt_3_icon.std(),
-                    individual_prompt_4_icon.std()]).mean())
+    print(individual_prompt_2_icon.mean() - relational_prompt_2_icon.mean())
+    print(individual_prompt_2_icon.std())
+    print(relational_prompt_2_icon.std())
+    print(individual_prompt_2_icon.mean())
+    print(individual_prompt_2_icon.mean() - modifier_prompt_2_icon.mean())
 
-    print(np.array([relational_prompt_1_icon.std(),
-                    relational_prompt_2_icon.std(),
-                    relational_prompt_3_icon.std(),
-                    relational_prompt_4_icon.std()]).mean())
-
-    print(np.array([individual_prompt_1_icon, individual_prompt_2_icon, individual_prompt_3_icon, individual_prompt_4_icon]).mean())
-    print(np.array([modifier_prompt_1_icon, modifier_prompt_2_icon, modifier_prompt_3_icon, modifier_prompt_4_icon]).mean())
-
-    print(np.array([relational_prompt_3_icon[0] - relational_prompt_4_icon[0],
-                    relational_prompt_3_icon[1] - relational_prompt_4_icon[1],
-                    relational_prompt_3_icon[2] - relational_prompt_4_icon[2],
-                    relational_prompt_3_icon[3] - relational_prompt_4_icon[3]]).mean())
+    print("Comparing non-icon vs. icon")
+    print(np.array([prompt_1.mean(), prompt_2.mean(), prompt_3.mean(), prompt_4.mean()]).mean() -
+          np.array([prompt_1_icon.mean(), prompt_2_icon.mean(), prompt_3_icon.mean(), prompt_4_icon.mean()]).mean())
 
 
 def analyze_rule_results():

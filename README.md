@@ -5,43 +5,46 @@ This repository has been submitted in conjunction with a thesis for the VU Maste
 
 ## Installation
 
-Create a conda environment with a name of your choice and then activate it using the following:
+Create a conda environment with a name of your choice with Python version 3.11.5:
 
-``
-conda create --name <env_name> --file requirements.txt
-``
 
-``
-conda activate <env_name>
-``
+```python
+conda create -n <env_name> python=3.11.5
+```
+
+Activate it and install all necessary libraries:
+
+```python
+pip install -r requirements.txt
+```
 
 ### Displaying the benchmark
 
 To display the benchmark, run the following command. This will loop over the benchmark and present each puzzle and its respective distractors. 
 
-``
+```python
 python main.py --show-benchmark
-``
+```
 
 ### Displaying the results
 
 Running either of the following commands to display the results for the puzzle and model analysis, respectively. This will display the tables from the thesis.
 
-``
+```python
 python main.py --show-analysis puzzles
-``
+```
 
-``
+```python
 python main.py --show-analysis models
-``
+```
 
 ### Evaluating the benchmark
 
 Run the following command to run a specified model with a specified prompt on the benchmark.
 
-``
+```python
 python das6/main.py [model] [prompt]
-``
+```
 
 The model arguments are either: `blip2-opt-2.7b`, `blip2-opt-6.7b`, `blip2-flan-t5`, `instruct-blip`, `fuyu`, `llava-1.5-13b`, `llava-1.6-34b`, `clip`, `cogvlm`, `qwenvl`, or `mistral`.
 
