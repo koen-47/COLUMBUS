@@ -1,4 +1,5 @@
-# A Benchmark to Evaluate the Lateral Thinking Skills of Visual Question Answering Models through Rebus Puzzles
+# CoLUMBUS: A Visual Question Answering Benchmark to Evaluate Cognitive Lateral Understanding through Multiple-choice Rebuses
+
 This repository presents a benchmark of rebus puzzles designed to challenge the lateral thinking skills of visual question answering (VQA) models. 
 
 This repository has been submitted in conjunction with a thesis for the VU Master of Science degree in Artificial Intelligence. The draft version of the thesis can be found [here](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/thesis_draft.pdf).
@@ -25,6 +26,8 @@ To display the benchmark, run the following command. This will loop over the ben
 ```python
 python main.py --show-benchmark
 ```
+
+The benchmark can be found [here](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/results/benchmark/final). Use the ``benchmark.json`` file in the root folder of this repository to navigate it. 
 
 ### Displaying the results
 

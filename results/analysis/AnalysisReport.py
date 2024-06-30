@@ -300,21 +300,19 @@ class AnalysisReport:
              ('With icons', 'accuracy (%)'), ('With icons', 'most common answer (%)')]
         )
 
-
-
         table_prompt_2.columns = multi_columns
         if verbose:
             print(table_prompt_2)
-
-        table_rules_per_prompt = pd.DataFrame(table_rules_per_prompt)
-        if verbose:
-            print("\nAccuracy per puzzle including a specified rule (Individual + Relational + Modifier)")
-            print(table_rules_per_prompt)
 
         table_all_prompts = pd.DataFrame.from_dict(table_all_prompts)
         if verbose:
             print("\nAccuracy per prompt")
             print(table_all_prompts)
+
+        table_rules_per_prompt = pd.DataFrame(table_rules_per_prompt)
+        if verbose:
+            print("\nAccuracy per puzzle including a specified rule (Individual + Relational + Modifier)")
+            print(table_rules_per_prompt)
 
     def _standardize_general_result(self, result, mistral_type=None):
         output = result["output"]
