@@ -24,7 +24,7 @@ class AnalysisReport:
 
     def generate_all(self, verbose=False):
         model_types = ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "blip-2_flan-t5-xxl",
-                       "fuyu-8b", "instructblip", "llava-1.5-13b", "llava-1.6-34b", "cogvlm", "qwenvl", "mistral-7b"]
+                       "fuyu-8b", "instructblip", "llava-1.5-13b", "cogvlm", "qwenvl", "mistral-7b"]
         prompt_types = ["1", "2", "3", "4"]
         all_basic_results = {prompt: {model: None} for model, prompt in product(*[model_types, prompt_types])}
         all_rule_results = {prompt: {model: None} for model, prompt in product(*[model_types, prompt_types])}
@@ -66,7 +66,6 @@ class AnalysisReport:
             human_results = self.analyze_basic(results)
         all_basic_results["2"]["human"] = human_results
 
-        # print(n_non_icon_puzzles, n_icon_puzzles)
 
         self.analyze_overall(all_basic_results, all_rule_results, verbose=True)
 

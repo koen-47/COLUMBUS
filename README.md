@@ -1,4 +1,4 @@
-# CoLUMBUS: A Visual Question Answering Benchmark to Evaluate Cognitive Lateral Understanding through Multiple-choice Rebuses
+# COLUMBUS: A Visual Question Answering Benchmark to Evaluate <ins>CO</ins>gnitive <ins>L</ins>ateral <ins>U</ins>nderstanding through <ins>M</ins>ultiple-choice re<ins>BUS</ins>es
 
 This repository presents a benchmark of rebus puzzles designed to challenge the lateral thinking skills of visual question answering (VQA) models. 
 
