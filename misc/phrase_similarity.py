@@ -59,12 +59,6 @@ def most_similar_bert(input_phrase, phrase_set, encodings=None):
     phrase_similarities = sorted(dict(zip(phrase_set, similarities)).items(), key=lambda x: x[1], reverse=True)
     return dict(phrase_similarities)
 
-    # if encodings is not None:
-    #     similarities = np.array([enc.dot(input_embedding) for enc in encodings])
-    # else:
-    #     similarities = np.array([model.encode(s).dot(input_embedding) for s in
-    #     tqdm(phrase_set, desc="Encoding with BERT")])
-
 
 def most_similar_avg(similar_tfidf, similar_bert, alpha=0.8, num_results=10):
     for phrase_tfidf, similarity_tfidf in similar_tfidf.items():
@@ -76,53 +70,7 @@ def most_similar_avg(similar_tfidf, similar_bert, alpha=0.8, num_results=10):
     return dict(most_similar)
 
 
-def generate_compound_distractors():
-    compounds = pd.read_csv("../saved/ladec_raw_small.csv")
-    compounds_separate = [f"{row['c1']} {row['c2']}" for _, row in compounds.iterrows()]
-    rebus_parser = RebusGraphParser("../saved/ladec_raw_small.csv")
-    bert_encodings = get_bert_encodings(compounds_separate)
-
-    answer_to_distractors = {}
-
-    for _, row in compounds.iterrows():
-        c1, c2, compound = row["c1"], row["c2"], row["stim"]
-        try:
-            graphs = rebus_parser.parse_compound(compound)
-            if graphs is not None:
-                for graph in graphs:
-                    visible_word = graph.nodes[1]["text"].lower()
-                    similar_tfidf = most_similar_tfidf(visible_word, compounds_separate, num_results=10)
-                    similar_tfidf = {d: sim*10 for d, sim in similar_tfidf.items()}
-                    similar_bert = most_similar_bert(visible_word, compounds_separate, num_results=10, encodings=bert_encodings)
-                    most_similar = {key: max(similar_tfidf.get(key, 0), similar_bert.get(key, 0)) for
-                                    key in set(similar_tfidf) | set(similar_bert)}
-                    most_similar = dict(sorted(most_similar.items(), key=lambda x: x[1], reverse=True))
-
-                    to_remove = []
-                    for distractor in most_similar.keys():
-                        full_distractor = "".join(distractor.split())
-                        if compound == full_distractor:
-                            to_remove.append(distractor)
-                        if inflect.singular_noun(compound) == full_distractor or inflect.singular_noun(full_distractor) == compound:
-                            to_remove.append(distractor)
-                        for distractor_2 in most_similar.keys():
-                            full_distractor_2 = "".join(distractor_2.split())
-                            if full_distractor != full_distractor_2:
-                                if inflect.singular_noun(full_distractor) == full_distractor_2:
-                                    to_remove.append(distractor)
-
-                    most_similar = {k: v for k, v in most_similar.items() if k not in to_remove}
-                    most_similar_top_3 = list(islice(most_similar, 3))
-                    answer_to_distractors[compound] = ["".join(distractor.split()) for distractor in most_similar_top_3]
-
-        except AttributeError:
-            pass
-
-    with open("../saved/compound_distractors_v2.json", "w") as file:
-        json.dump(answer_to_distractors, file, indent=3)
-
-
-def generate_idiom_distractors(phrase_graphs):
+def generate_distractors(phrase_graphs):
     with open("../saved/idioms_raw.json", "r") as file:
         phrases = json.load(file)
     with open("../saved/custom_phrases.json", "r") as file:
@@ -144,7 +92,6 @@ def generate_idiom_distractors(phrase_graphs):
             phrase_parts = phrase_parts[:-1]
         phrase_ = " ".join(phrase_parts)
 
-        # print(f"{phrase_}, {visible_words}")
         similar_jaccard = most_similar_jaccard(phrase_, visible_words, phrases, split_phrases)
         similar_bert = most_similar_bert(phrase_, phrases, encodings=bert_encodings)
         most_similar = most_similar_avg(similar_jaccard, similar_bert)
@@ -159,9 +106,8 @@ def generate_idiom_distractors(phrase_graphs):
 # phrase_graphs, compound_graphs = get_answer_graph_pairs()
 # phrase_graphs.update(compound_graphs)
 # generate_idiom_distractors(phrase_graphs)
-
-with open(f"../saved/distractors_{model_name.lower()}.json", "r") as file:
-    distractors = json.load(file)
-    with open(f"../saved/distractors_{model_name.lower()}_final.json", "w") as file_2:
-        distractors = {phrase: distractor[1] for phrase, distractor in distractors.items()}
-        json.dump(distractors, file_2, indent=3)
+# with open(f"../saved/distractors_{model_name.lower()}.json", "r") as file:
+#     distractors = json.load(file)
+#     with open(f"../saved/distractors_{model_name.lower()}_final.json", "w") as file_2:
+#         distractors = {phrase: distractor[1] for phrase, distractor in distractors.items()}
+#         json.dump(distractors, file_2, indent=3)
