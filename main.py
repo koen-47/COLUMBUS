@@ -37,7 +37,7 @@ def main():
             puzzle_analysis.generate()
         elif analysis == "models":
             model_analysis = AnalysisReport()
-            model_analysis.generate_all()
+            model_analysis.generate_all(verbose=True)
 
 
 if __name__ == "__main__":

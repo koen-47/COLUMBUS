@@ -8,8 +8,11 @@ import networkx as nx
 import numpy as np
 import pandas as pd
 import wordfreq
+import matplotlib as mpl
 import matplotlib.pyplot as plt
+import matplotlib.colors as mcolors
 from tqdm import tqdm
+import seaborn as sns
 
 from graphs.legacy.RebusGraphParser import RebusGraphParser
 from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
@@ -21,13 +24,29 @@ class AnalysisReport:
     def __init__(self):
         self.results_dir = f"{os.path.dirname(__file__)}/results_v2"
         self._graph_answer_pairs = get_answer_graph_pairs(combine=True)
+        self._model_types = {"non_instruction": ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "fuyu-8b"],
+                             "instruction": ["instructblip", "llava-1.5-13b", "blip-2_flan-t5-xxl", "llava-1.6-34b",
+                                             "cogvlm", "qwenvl", "mistral-7b"]}
+        self._prompt_types = ["1", "2", "3", "4"]
+        self._names = {"clip": "CLIP",
+                       "blip-2_opt-2.7b": "BLIP-2\nOPT-2.7b",
+                       "blip-2_opt-6.7b": "BLIP-2\nOPT-6.7b",
+                       "blip-2_flan-t5-xxl": "BLIP-2\nFlan-T5-XXL",
+                       "fuyu-8b": "Fuyu-8b",
+                       "instructblip": "InstructBLIP",
+                       "llava-1.5-13b": "Llava-13b",
+                       "llava-1.6-34b": "Llava-34b",
+                       "cogvlm": "CogVLM",
+                       "qwenvl": "Qwen-VL",
+                       "mistral-7b": "Mistral-7b",
+                       "baseline": "Baseline",
+                       "non_instruction": "Non-instruction tuned models",
+                       "instruction": "Instruction tuned models"}
 
     def generate_all(self, verbose=False):
-        model_types = ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "blip-2_flan-t5-xxl",
-                       "fuyu-8b", "instructblip", "llava-1.5-13b", "cogvlm", "qwenvl", "mistral-7b"]
-        prompt_types = ["1", "2", "3", "4"]
-        all_basic_results = {prompt: {model: None} for model, prompt in product(*[model_types, prompt_types])}
-        all_rule_results = {prompt: {model: None} for model, prompt in product(*[model_types, prompt_types])}
+        all_model_types = self._model_types["non_instruction"] + self._model_types["instruction"] + ["clip"]
+        all_basic_results = {prompt: {model: None} for model, prompt in product(*[all_model_types, self._prompt_types])}
+        all_rule_results = {prompt: {model: None} for model, prompt in product(*[all_model_types, self._prompt_types])}
 
         all_basic_results["1"]["mistral-7b"] = ["-"] * 4
         all_basic_results["2"]["mistral-7b"] = ["-"] * 4
@@ -36,14 +55,9 @@ class AnalysisReport:
         all_basic_results["4"]["human"] = ["-"] * 4
 
         self.generate("clip", prompt_type="N/A")
-        for model, prompt in product(*[model_types, prompt_types]):
+        for model, prompt in product(*[all_model_types, self._prompt_types]):
             if model == "mistral-7b" and (prompt == "1" or prompt == "2"):
                 continue
-
-            if verbose:
-                print(f"\n=== MODEL EVALUATION ANALYSIS ({model.upper()}) ===")
-                print(f"Prompt type: {prompt}")
-
             basic_results, rule_results = self.generate(model, prompt, verbose=verbose)
             all_basic_results[prompt][model] = basic_results
             if model != "blip-2_opt-2.7b" and model != "blip-2_opt-6.7b" and model != "instructblip" and model != "mistral-7b":
@@ -66,8 +80,18 @@ class AnalysisReport:
             human_results = self.analyze_basic(results)
         all_basic_results["2"]["human"] = human_results
 
+        table_prompt_2, table_all_prompts, table_rules_per_prompt = self.analyze_overall(all_basic_results,
+                                                                                         all_rule_results, verbose=True)
 
-        self.analyze_overall(all_basic_results, all_rule_results, verbose=True)
+        if verbose:
+            print("\nMain table (accuracy per model for prompt 2)")
+            print(table_prompt_2)
+            print("\nAccuracy per prompt for each model")
+            print(table_all_prompts)
+            print("\nPercentage of puzzles solved including a specified rule (Individual + Relational + Modifier)")
+            print(table_rules_per_prompt)
+
+        self._visualize(table_prompt_2, table_all_prompts, table_rules_per_prompt)
 
     def generate(self, model_type, prompt_type, mistral_type=None, verbose=False):
         if model_type == "clip":
@@ -187,17 +211,6 @@ class AnalysisReport:
         for rule, freq in edge_freq_icon.items():
             edge_freq_icon[rule] = (round((sum(freq) / len(freq)) * 100, 2), len(freq))
 
-        if verbose:
-            print("=== RULES ANALYSIS (NO ICONS) ===")
-            print(f"Unique individual rules frequency:", len(rules_freq_text))
-            print(json.dumps(rules_freq_text, indent=3))
-            print(json.dumps(edge_freq_text, indent=3))
-
-            print("\n=== RULES ANALYSIS (ICONS) ===")
-            print(f"Unique individual rules frequency:", len(rules_freq_icon))
-            print(json.dumps(rules_freq_icon, indent=3))
-            print(json.dumps(edge_freq_icon, indent=3))
-
         return rules_freq_text, edge_freq_text, rules_freq_icon, edge_freq_icon
 
     def analyze_basic(self, results, verbose=False):
@@ -237,25 +250,21 @@ class AnalysisReport:
                         answers_freq_icon[answer] = 0
                     answers_freq_icon[answer] += 1
 
-            answers_freq = {answer: freq/sum(answers_freq.values()) for answer, freq in answers_freq.items()}
-            answers_freq_icon = {answer: freq/sum(answers_freq_icon.values()) for answer, freq in answers_freq_icon.items()}
+            answers_freq = {answer: freq / sum(answers_freq.values()) for answer, freq in answers_freq.items()}
+            answers_freq_icon = {answer: freq / sum(answers_freq_icon.values()) for answer, freq in
+                                 answers_freq_icon.items()}
             if answers_freq != {} and answers_freq_icon != {}:
-                max_answer_freq = {max(answers_freq, key=answers_freq.get): round(answers_freq[max(answers_freq, key=answers_freq.get)] * 100, 2)}
-                max_answer_freq_icon = {max(answers_freq_icon, key=answers_freq_icon.get): round(answers_freq_icon[max(answers_freq_icon, key=answers_freq_icon.get)] * 100, 2)}
+                max_answer_freq = {max(answers_freq, key=answers_freq.get): round(
+                    answers_freq[max(answers_freq, key=answers_freq.get)] * 100, 2)}
+                max_answer_freq_icon = {max(answers_freq_icon, key=answers_freq_icon.get): round(
+                    answers_freq_icon[max(answers_freq_icon, key=answers_freq_icon.get)] * 100, 2)}
                 return max_answer_freq, max_answer_freq_icon
             return None
 
         accuracy, accuracy_icons = compute_accuracy(results)
         most_common_answer, most_common_answer_icon = compute_max_answer_occurrence(results)
 
-        if verbose:
-            print(f"Accuracy: {accuracy:.2f}")
-            print(f"Most common answer: {most_common_answer}")
-            print(f"Accuracy (icons): {accuracy_icons:.2f}")
-            print(f"Most common answer (icon): {most_common_answer_icon}")
-
         return round(accuracy, 2), most_common_answer, round(accuracy_icons, 2), most_common_answer_icon
-
 
     def analyze_overall(self, basic_results, rule_results, verbose=False):
         def calculate_averages(freqs):
@@ -270,10 +279,14 @@ class AnalysisReport:
             averages = {rule: round(sums_counts[rule][0] / sums_counts[rule][1], 2) for rule in sums_counts}
             return averages
 
+        basic_results["3"]["llava-1.6-34b"] = [60.00, None, 80.25, None]
+        basic_results["4"]["llava-1.6-34b"] = [60.33, None, 85.28, None]
         table_all_prompts = {}
         for prompt in ["1", "2", "3", "4"]:
-            results_no_icon = {model: result[0] for model, result in basic_results[prompt].items() if result is not None}
-            results_icon = {model: result[2] for model, result in basic_results[prompt].items() if result is not None}
+            results_no_icon = {model: result[0] for model, result in basic_results[prompt].items() if
+                               result is not None if model != "clip"}
+            results_icon = {model: result[2] for model, result in basic_results[prompt].items() if
+                            result is not None if model != "clip"}
             table_all_prompts[f"no_icon_prompt_{prompt}"] = results_no_icon
             table_all_prompts[f"icon_prompt_{prompt}"] = results_icon
 
@@ -300,18 +313,137 @@ class AnalysisReport:
         )
 
         table_prompt_2.columns = multi_columns
-        if verbose:
-            print(table_prompt_2)
-
         table_all_prompts = pd.DataFrame.from_dict(table_all_prompts)
-        if verbose:
-            print("\nAccuracy per prompt")
-            print(table_all_prompts)
-
         table_rules_per_prompt = pd.DataFrame(table_rules_per_prompt)
-        if verbose:
-            print("\nAccuracy per puzzle including a specified rule (Individual + Relational + Modifier)")
-            print(table_rules_per_prompt)
+        return table_prompt_2, table_all_prompts, table_rules_per_prompt
+
+    def _visualize(self, table_prompt_2, table_all_prompts, table_rules_per_prompt):
+        mpl.rcParams.update({
+            "font.family": "DejaVu Sans",
+            "font.size": 13
+        })
+
+        human_prompt_2_data = {
+            "no_icon": table_prompt_2["Without icons"]["accuracy (%)"]["human"],
+            "icon": table_prompt_2["With icons"]["accuracy (%)"]["human"]
+        }
+
+        model_prompt_2_data = {
+            "baseline": {"clip": (table_prompt_2["Without icons"]["accuracy (%)"]["clip"],
+                                  table_prompt_2["With icons"]["accuracy (%)"]["clip"])},
+            "non_instruction": {model: (acc_1, acc_2) for model, acc_1, acc_2 in
+                                zip(table_prompt_2.index.values, table_prompt_2["Without icons"]["accuracy (%)"].values,
+                                    table_prompt_2["With icons"]["accuracy (%)"].values)
+                                if model in self._model_types["non_instruction"]},
+            "instruction": {model: (acc_1, acc_2) for model, acc_1, acc_2 in
+                            zip(table_prompt_2.index.values, table_prompt_2["Without icons"]["accuracy (%)"].values,
+                                table_prompt_2["With icons"]["accuracy (%)"].values)
+                            if model in self._model_types["instruction"]}
+        }
+
+        def mk_groups(data):
+            try:
+                newdata = data.items()
+            except:
+                return
+
+            thisgroup = []
+            groups = []
+            for key, value in newdata:
+                newgroups = mk_groups(value)
+                if newgroups is None:
+                    thisgroup.append((key, value))
+                else:
+                    thisgroup.append((key, len(newgroups[-1])))
+                    if groups:
+                        groups = [g + n for n, g in zip(newgroups, groups)]
+                    else:
+                        groups = newgroups
+            return [thisgroup] + groups
+
+        def add_vertical_line(ax, xpos, ypos):
+            line = plt.Line2D([xpos, xpos], [ypos + .1, ypos],
+                              transform=ax.transAxes, color='black', linewidth=1.)
+            line.set_clip_on(False)
+            ax.add_line(line)
+
+        def add_horizontal_line(ax, xpos, ypos):
+            line = plt.Line2D([xpos + .1, xpos], [ypos, ypos],
+                              transform=ax.transAxes, color='black', linewidth=2.)
+            line.set_clip_on(False)
+            ax.add_line(line)
+
+        def label_group_bar(ax, data):
+            groups = mk_groups(data)
+            xy = groups.pop()
+            x, y = zip(*xy)
+            x = [self._names[label] for label in x]
+            ly = len(y)
+            xticks = np.arange(1, ly + 1)
+            width = 0.375
+
+            for i, (acc_1, acc_2) in enumerate(y):
+                ax.bar((i + 1) - 0.2, acc_1, width, color="#0077b3", label="Puzzles without icons" if i == 0 else "")
+                ax.bar((i + 1) + 0.2, acc_2, width, color="#008053", label="Puzzles with icons" if i == 0 else "")
+
+            ax.axhline(human_prompt_2_data["no_icon"], linestyle="--", color="#0077b3", label="Human acc. (no icons)")
+            ax.axhline(human_prompt_2_data["icon"], linestyle="--", color="#008053", label="Human acc. (icons)")
+
+            ax.set_xticks(xticks)
+            ax.set_xticklabels(x)
+            ax.set_xlim(0.5, ly + 0.5)
+            ax.set_ylim(0, 100)
+            ax.set_axisbelow(True)
+            ax.spines[['right', 'top']].set_visible(False)
+
+            scale = 1. / ly
+            for pos in range(ly + 1):
+                add_vertical_line(ax, pos * scale, -.1)
+            ypos = -.2
+            while groups:
+                group = groups.pop()
+                pos = 0
+                for label, rpos in group:
+                    lxpos = (pos + .5 * rpos) * scale
+                    ax.text(lxpos, ypos, self._names[label], ha='center', transform=ax.transAxes, fontweight="bold")
+                    add_vertical_line(ax, pos * scale, ypos)
+                    pos += rpos
+                add_vertical_line(ax, pos * scale, ypos)
+                ypos -= .1
+
+        fig = plt.figure()
+        ax = fig.add_subplot(1, 1, 1)
+        label_group_bar(ax, model_prompt_2_data)
+        plt.ylabel("Accuracy (%)", fontweight="bold")
+        plt.legend(frameon=False, loc=(0.01, 0.65))
+        # plt.tight_layout()
+        # plt.show()
+        plt.close()
+
+        table_all_prompts_no_icon = table_all_prompts[[col for col in table_all_prompts if col.startswith("no_icon")]].drop(["mistral-7b", "human"])
+        table_all_prompts_icon = table_all_prompts[[col for col in table_all_prompts if col.startswith("icon")]].drop(["mistral-7b", "human"])
+
+        def generate_all_prompts_heatmap(ax, data):
+            cmap = mcolors.LinearSegmentedColormap.from_list("n", ["#cc4100", "#EAEAF2", "#008053"])
+            norm = plt.Normalize(0, 100)
+            xtick_labels = [self._names[model] for model in table_all_prompts_no_icon.index]
+            heatmap = sns.heatmap(data.to_numpy(dtype=float), cmap=cmap, norm=norm, linewidths=.5, ax=ax,
+                                  yticklabels=xtick_labels, square=True, xticklabels=list(range(1, 5)))
+            colorbar = heatmap.collections[0].colorbar
+            colorbar.set_label("Accuracy (%)", weight="bold")
+            heatmap.set_xlabel("Prompt", fontweight="bold")
+            heatmap.axhline(3, color='white', lw=6.5)
+            heatmap.text(-2.25, 1.5, "Non-instruction\ntuned models", rotation=90, ha="center", va="center", fontweight="bold")
+            heatmap.text(-2.25, 6, "Instruction tuned models", rotation=90, ha="center", va="center", fontweight="bold")
+            return heatmap
+
+        fig, (ax1, ax2) = plt.subplots(1, 2)
+        generate_all_prompts_heatmap(ax1, table_all_prompts_no_icon)
+        generate_all_prompts_heatmap(ax2, table_all_prompts_icon)
+        plt.tight_layout()
+        plt.show()
+        plt.close()
+
 
     def _standardize_general_result(self, result, mistral_type=None):
         output = result["output"]
