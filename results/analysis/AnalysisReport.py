@@ -411,13 +411,13 @@ class AnalysisReport:
                 add_vertical_line(ax, pos * scale, ypos)
                 ypos -= .1
 
-        fig = plt.figure()
+        fig = plt.figure(figsize=(12.5, 6))
         ax = fig.add_subplot(1, 1, 1)
         label_group_bar(ax, model_prompt_2_data)
         plt.ylabel("Accuracy (%)", fontweight="bold")
         plt.legend(frameon=False, loc=(0.01, 0.65))
-        # plt.tight_layout()
-        # plt.show()
+        plt.tight_layout()
+        plt.savefig(f"{os.path.dirname(__file__)}/../../visualizations/models_prompt_2_results.png")
         plt.close()
 
         table_all_prompts_no_icon = table_all_prompts[[col for col in table_all_prompts if col.startswith("no_icon")]].drop(["mistral-7b", "human"])
@@ -437,11 +437,11 @@ class AnalysisReport:
             heatmap.text(-2.25, 6, "Instruction tuned models", rotation=90, ha="center", va="center", fontweight="bold")
             return heatmap
 
-        fig, (ax1, ax2) = plt.subplots(1, 2)
+        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12.5, 6))
         generate_all_prompts_heatmap(ax1, table_all_prompts_no_icon)
         generate_all_prompts_heatmap(ax2, table_all_prompts_icon)
         plt.tight_layout()
-        plt.show()
+        plt.savefig(f"{os.path.dirname(__file__)}/../../visualizations/models_all_prompts_results.png")
         plt.close()
 
 

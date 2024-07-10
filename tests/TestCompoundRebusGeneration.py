@@ -1,6 +1,6 @@
 import unittest
 
-from graphs.RebusImageConverterV2 import RebusImageConverterV2
+from graphs.RebusImageConverter import RebusImageConverterV2
 from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
 
 

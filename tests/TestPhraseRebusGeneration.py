@@ -3,7 +3,7 @@ import os
 import unittest
 
 from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
-from graphs.RebusImageConverterV2 import RebusImageConverterV2
+from graphs.RebusImageConverter import RebusImageConverterV2
 from graphs.patterns.Rule import Rule
 
 
