@@ -1,21 +1,0 @@
-Running experiment... (model: blip2-opt-2.7b, prompt type: 4)
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.64s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  4.07s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  4.31s/it]
-{
-   "experiment": "BLIP-2 opt-2.7b",
-   "prompt_type": "4",
-   "prompt_template": "Question: You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\n{}\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) {} (B) {} (C) {} (D) {} Answer:",
-   "n_puzzles": 682,
-   "save_dir": "/var/scratch/hkd800/scripts/results/prompt_4",
-   "models_dir": "/var/scratch/hkd800/scripts/models/downloads",
-   "device": "cuda"
-}
-Prompting BLIP-2 opt-2.7b:   0%|          | 0/682 [00:00<?, ?it/s]Prompting BLIP-2 opt-2.7b:   0%|          | 0/682 [00:00<?, ?it/s]
-Traceback (most recent call last):
-  File "/var/scratch/hkd800/scripts/main.py", line 67, in <module>
-    main()
-  File "/var/scratch/hkd800/scripts/main.py", line 31, in main
-    blip2_experiment.run_on_benchmark(save_dir=save_dir)
-  File "/var/scratch/hkd800/scripts/models/BLIP2Experiment.py", line 51, in run_on_benchmark
-    prompt = self.prompt.format(*prompt_format)
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-IndexError: Replacement index 4 out of range for positional args tuple
