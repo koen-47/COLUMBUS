@@ -1,3 +1,4 @@
+import json
 import os
 import copy
 import glob
@@ -39,18 +40,44 @@ def switch_icons():
     print(n_non_icon_puzzles, n_icon_puzzles)
 
 
-def analyze_switched_icon_puzzles():
-    graphs = get_answer_graph_pairs(combine=True)
-    n_non_overlap_puzzles, n_icon_overlap_puzzles = 0, 0,
-    for file in glob.glob(f"{os.path.dirname(__file__)}/../results/benchmark/final_v3/*"):
-        file_name = os.path.basename(file).split(".")[0]
-        if file_name.endswith("icon") or file_name.endswith("non-icon"):
-            n_icon_overlap_puzzles += 1
-        else:
-            n_non_overlap_puzzles += 1
+def rename_distractors():
+    with open(f"{os.path.dirname(__file__)}/../saved/distractors.json", "r") as file:
+        distractors = json.load(file)
+    phrases = [os.path.basename(file).split(".")[0] for file in glob.glob(f"{os.path.dirname(__file__)}/../results/benchmark/final_v3/*")]
+    phrases_to_remove = []
+    for phrase in phrases:
+        if phrase.endswith("_icon") or phrase.endswith("_non-icon"):
+            phrase_ = "_".join(phrase.split("_")[:-1])
+            distractors[phrase] = distractors[phrase_]
+            phrases_to_remove.append(phrase_)
+    phrases_to_remove = set(phrases_to_remove)
+    distractors = {answer: distractors_ for answer, distractors_ in distractors.items() if answer not in phrases_to_remove
+                   and answer not in set(distractors.keys()).difference(phrases)}
 
-    print(n_non_overlap_puzzles)
-    print(n_icon_overlap_puzzles)
+    with open(f"{os.path.dirname(__file__)}/../saved/distractors_v3.json", "w") as file:
+        json.dump(distractors, file, indent=3)
+
+    # print(json.dumps(distractors, indent=3))
+    # print(len(phrases))
+    # print(len(distractors))
+    # print(set(phrases).difference(distractors.keys()))
+    # print()
 
 
-analyze_switched_icon_puzzles()
+rename_distractors()
+
+# def analyze_switched_icon_puzzles():
+#     graphs = get_answer_graph_pairs(combine=True)
+#     n_non_overlap_puzzles, n_icon_overlap_puzzles = 0, 0,
+#     for file in glob.glob(f"{os.path.dirname(__file__)}/../results/benchmark/final_v3/*"):
+#         file_name = os.path.basename(file).split(".")[0]
+#         if file_name.endswith("icon") or file_name.endswith("non-icon"):
+#             n_icon_overlap_puzzles += 1
+#         else:
+#             n_non_overlap_puzzles += 1
+#
+#     print(n_non_overlap_puzzles)
+#     print(n_icon_overlap_puzzles)
+#
+#
+# analyze_switched_icon_puzzles()

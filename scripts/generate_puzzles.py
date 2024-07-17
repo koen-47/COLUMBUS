@@ -6,6 +6,7 @@ import pandas as pd
 from tqdm import tqdm
 from wordfreq import word_frequency
 
+import util
 from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
 from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
 from graphs.RebusImageConverter import RebusImageConverter
@@ -159,5 +160,4 @@ def check_for_duplicates():
 # generate_phrases()
 # generate_compounds()
 # generate_custom_puzzles()
-check_for_duplicates()
-
+# check_for_duplicates()

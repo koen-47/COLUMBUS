@@ -103,9 +103,8 @@ def generate_distractors(phrase_graphs):
         json.dump(answer_to_distractors, file, indent=3)
 
 
-# phrase_graphs, compound_graphs = get_answer_graph_pairs()
-# phrase_graphs.update(compound_graphs)
-# generate_idiom_distractors(phrase_graphs)
+# graphs = get_answer_graph_pairs(combine=True)
+# generate_distractors(graphs)
 # with open(f"../saved/distractors_{model_name.lower()}.json", "r") as file:
 #     distractors = json.load(file)
 #     with open(f"../saved/distractors_{model_name.lower()}_final.json", "w") as file_2:
