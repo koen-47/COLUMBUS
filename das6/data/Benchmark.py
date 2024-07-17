@@ -20,11 +20,8 @@ class Benchmark:
         self._puzzles = self._format_questions(images, distractors)
 
         if with_metadata:
-            phrase_to_graph, compound_to_graph = get_answer_graph_pairs()
-            all_to_graphs = phrase_to_graph.copy()
-            all_to_graphs.update(compound_to_graph)
-
-            for puzzle, graph in all_to_graphs.items():
+            graphs = get_answer_graph_pairs(combine=True)
+            for puzzle, graph in graphs.items():
                 graph.graph = {}
                 metadata = "\n".join(graph.__str__().split("\n")[1:])
                 self._puzzles[puzzle]["metadata"] = {
@@ -36,12 +33,13 @@ class Benchmark:
         return list(self._puzzles.values())
 
     def _format_questions(self, images, distractors):
-        questions = {file: {
-            "options": distractors[file_base] + [" ".join(file_base.split("_")[:-1]) if file_base.split("_")[-1].isnumeric() else " ".join(file_base.split("_"))],
-            "answer": " ".join(file_base.split("_")[:-1]) if file_base.split("_")[-1].isnumeric() else " ".join(file_base.split("_"))}
-            for file, file_base in images.items()
-            if file_base in distractors
-        }
+        questions = {}
+        for file, file_base in images.items():
+            options = distractors[file_base]
+            if file_base.endswith("_icon") or file_base.endswith("_non-icon"):
+                file_base = "_".join(file_base.split("_")[:-1])
+            answer = " ".join(file_base.split("_")[:-1]) if file_base.split("_")[-1].isnumeric() else " ".join(file_base.split("_"))
+            questions[file] = {"options": options + [answer], "answer": answer}
 
         questions = {file: {
             "options": random.sample(answers["options"], len(answers["options"])),

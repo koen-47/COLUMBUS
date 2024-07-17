@@ -102,7 +102,7 @@ def get_answer_graph_pairs(combine=False):
             graphs = compound_parser.parse(c1, c2, is_plural)
             phrase = "_".join(orig_phrase.split())
             if orig_phrase.endswith("non-icon"):
-                compound_to_graph[phrase] = util.remove_icons_from_graph(graphs[index])
+                compound_to_graph[phrase] = remove_icons_from_graph(graphs[index])
             else:
                 compound_to_graph[phrase] = graphs[index]
         else:
@@ -113,7 +113,7 @@ def get_answer_graph_pairs(combine=False):
             graphs = phrase_parser.parse(phrase_)
             phrase = "_".join(orig_phrase.split())
             if orig_phrase.endswith("non-icon"):
-                phrase_to_graph[phrase] = util.remove_icons_from_graph(graphs[index])
+                phrase_to_graph[phrase] = remove_icons_from_graph(graphs[index])
             else:
                 phrase_to_graph[phrase] = graphs[index]
     if combine:

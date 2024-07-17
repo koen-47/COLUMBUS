@@ -1,6 +1,7 @@
 import glob
 import json
 import os
+import copy
 
 import networkx as nx
 import pandas as pd
@@ -58,7 +59,7 @@ def count_relational_rules(phrase):
     return sum([1 for word in phrase.split() if word in relational_keywords])
 
 
-def get_answer_graph_pairs():
+def get_answer_graph_pairs(combine=False):
     from parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
     from parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
 
@@ -72,9 +73,11 @@ def get_answer_graph_pairs():
     phrase_to_graph = {}
     compound_to_graph = {}
     for phrase in phrases:
+        orig_phrase = phrase
+        if phrase.endswith("_icon") or phrase.endswith("_non-icon"):
+            phrase = "_".join(phrase.split("_")[:-1])
         parts = phrase.split("_")
         index = 0
-        # print(parts, ladec["stim"])
         if (parts[0] in ladec["stim"].tolist() and len(parts) == 2) or len(parts) == 1:
             if parts[-1].isnumeric():
                 index = int(parts[-1]) - 1
@@ -85,13 +88,40 @@ def get_answer_graph_pairs():
                 row = custom_compounds.loc[custom_compounds["stim"] == phrase_].values.flatten().tolist()
             c1, c2, is_plural = row[0], row[1], bool(row[2])
             graphs = compound_parser.parse(c1, c2, is_plural)
-            compound_to_graph[phrase] = graphs[index]
+            phrase = "_".join(orig_phrase.split())
+            if orig_phrase.endswith("non-icon"):
+                compound_to_graph[phrase] = remove_icons_from_graph(graphs[index])
+            else:
+                compound_to_graph[phrase] = graphs[index]
         else:
             if parts[-1].isnumeric():
                 index = int(parts[-1]) - 1
                 parts = parts[:-1]
             phrase_ = " ".join(parts)
             graphs = phrase_parser.parse(phrase_)
-            phrase_to_graph[phrase] = graphs[index]
+            phrase = "_".join(orig_phrase.split())
+            if orig_phrase.endswith("non-icon"):
+                phrase_to_graph[phrase] = remove_icons_from_graph(graphs[index])
+            else:
+                phrase_to_graph[phrase] = graphs[index]
+    if combine:
+        graphs = {}
+        graphs.update(phrase_to_graph)
+        graphs.update(compound_to_graph)
+        return graphs
 
     return phrase_to_graph, compound_to_graph
+
+
+def remove_icons_from_graph(graph):
+    graph_no_icon = copy.deepcopy(graph)
+    graph_no_icon_node_attrs = get_node_attributes(graph_no_icon)
+    for attr in graph_no_icon_node_attrs.values():
+        if "icon" in attr:
+            attr["text"] = list(attr["icon"].keys())[0].upper()
+            del attr["icon"]
+
+    for node in graph_no_icon.nodes:
+        graph_no_icon.nodes[node].clear()
+    nx.set_node_attributes(graph_no_icon, graph_no_icon_node_attrs)
+    return graph_no_icon

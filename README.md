@@ -2,13 +2,16 @@
 
 This repository presents a benchmark of rebus puzzles designed to challenge the lateral thinking skills of visual question answering (VQA) models. 
 
+Currently, we are at the third version of the benchmark. The images of the puzzles can be found The benchmark can be found [here](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/results/benchmark/final_v3). Use the ``benchmark_v3.json`` file in the root folder of this repository to navigate it. 
+
+
 ## Installation
 
-Create a conda environment with a name of your choice with Python version 3.11.5:
+Create a conda environment with a name of your choice with Python version 3.11:
 
 
 ```python
-conda create -n <env_name> python=3.11.5
+conda create -n <env_name> python=3.11
 ```
 
 Activate it and install all necessary libraries:
@@ -24,8 +27,6 @@ To display the benchmark, run the following command. This will loop over the ben
 ```python
 python main.py --show-benchmark
 ```
-
-The benchmark can be found [here](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/results/benchmark/final). Use the ``benchmark.json`` file in the root folder of this repository to navigate it. 
 
 ### Displaying the results
 
