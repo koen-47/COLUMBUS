@@ -2,8 +2,6 @@
 
 This repository presents a benchmark of rebus puzzles designed to challenge the lateral thinking skills of visual question answering (VQA) models. 
 
-This repository has been submitted in conjunction with a thesis for the VU Master of Science degree in Artificial Intelligence. The draft version of the thesis can be found [here](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/thesis_draft.pdf).
-
 ## Installation
 
 Create a conda environment with a name of your choice with Python version 3.11.5:

@@ -8,12 +8,12 @@ from wordfreq import word_frequency
 
 from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
 from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
-from graphs.RebusImageConverter import RebusImageConverterV2
+from graphs.RebusImageConverter import RebusImageConverter
 from util import get_node_attributes, get_answer_graph_pairs
 
 phrase_parser = PhraseRebusGraphParser()
 compound_parser = CompoundRebusGraphParser()
-generator = RebusImageConverterV2()
+generator = RebusImageConverter()
 
 
 def sort_compounds_by_frequency(compounds):

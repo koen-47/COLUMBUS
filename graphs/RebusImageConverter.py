@@ -11,7 +11,7 @@ from util import get_node_attributes, get_edge_information, get_graph_as_sequenc
 from .templates.Template import Template
 
 
-class RebusImageConverterV2:
+class RebusImageConverter:
     def __init__(self):
         self.BASE_SIZE = (400, 400)
 
@@ -148,6 +148,8 @@ class RebusImageConverterV2:
                 x, y, _ = x_point
                 if ("highlight" in node_attrs or ("size" in node_attrs and node_attrs["size"] == "big")) and y == 0.65:
                     y += 0.15
+                elif ("highlight" in node_attrs or ("size" in node_attrs and node_attrs["size"] == "big")) and y == 0.35:
+                    y -= 0.15
                 size_ = size * size_multiplier
                 text = node_attrs["text"]
                 text = self._apply_direction_rule(text, node_attrs)
@@ -280,7 +282,7 @@ class RebusImageConverterV2:
 
         y_gap = n_repeats * 0.075
         if "highlight" in attrs or ("size" in attrs and attrs["size"] == "big"):
-            y_gap *= 2.5
+            y_gap *= 2
         # ACROSS Y-DIMENSION
         return list(zip([x] * n_repeats, list(np.linspace(y - y_gap, y + y_gap, n_repeats)), sizes))
 

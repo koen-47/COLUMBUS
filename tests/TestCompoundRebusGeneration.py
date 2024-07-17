@@ -1,13 +1,13 @@
 import unittest
 
-from graphs.RebusImageConverter import RebusImageConverterV2
+from graphs.RebusImageConverter import RebusImageConverter
 from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
 
 
 class TestCompoundRebusGeneration(unittest.TestCase):
     def setUp(self) -> None:
         self.parser = CompoundRebusGraphParser()
-        self.generator = RebusImageConverterV2()
+        self.generator = RebusImageConverter()
 
     def test_color_blue(self):
         self.generate("blue", "berry", is_plural=False)

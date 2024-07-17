@@ -128,6 +128,10 @@ class PuzzleAnalysisReport:
             " ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(answer.split("_"))
             for answer in graphs.keys()]
 
+        # for answer, graph in graphs.items():
+        #     if graph.number_of_nodes() == 4:
+        #         print(answer)
+
         avg_answer_len = np.array([len(answer.split()) for answer in answers]).mean()
         avg_answer_len_no_icon = np.array([len(answer.split()) for answer in answers_no_icons]).mean()
         avg_answer_len_icon = np.array([len(answer.split()) for answer in answers_icons]).mean()
@@ -150,7 +154,7 @@ class PuzzleAnalysisReport:
         n_double_node_graphs_icons = calculate_number_of_graphs_n_nodes(graphs_icons.values(), n=2)
         n_triple_node_graphs_icons = calculate_number_of_graphs_n_nodes(graphs_icons.values(), n=3)
 
-        with open("./saved/distractors_all-minilm-l6-v2_final.json", "r") as file:
+        with open("./saved/distractors.json", "r") as file:
             answer_to_distractors = json.load(file)
 
             visible_to_distractor = {}

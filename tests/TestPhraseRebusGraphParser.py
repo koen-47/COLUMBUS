@@ -12,6 +12,11 @@ class TestPhraseRebusGraphParser(unittest.TestCase):
         for graph in graphs:
             print(graph)
 
+    def test_aftereffects(self):
+        graphs = self.parser.parse("aftereffects")
+        for graph in graphs:
+            print(graph)
+
     def test_pull_wool_over_eyes(self):
         graphs = self.parser.parse("pull wool over eyes")
         for graph in graphs:

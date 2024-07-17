@@ -62,7 +62,7 @@
    "('cash', 'money', 'dollar', 'wealth', 'price')": "\uD83D\uDCB5",
    "('light', 'lightbulb')": "\uD83D\uDCA1",
    "('clock', 'time')": "\uD83D\uDD5B",
-   "('times')": "\uD83D\uDD5B\uD83D\uDD5B",
+   "('times',)": "\uD83D\uDD5B\uD83D\uDD5B",
    "('face', 'head')": "\uD83D\uDE10",
    "('water', 'wave', 'sea', 'ocean')": "\uD83C\uDF0A",
    "('waters', 'waves', 'seas', 'oceans')": "\uD83C\uDF0A\uD83C\uDF0A",

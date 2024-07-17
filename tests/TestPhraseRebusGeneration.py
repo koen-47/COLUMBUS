@@ -3,14 +3,14 @@ import os
 import unittest
 
 from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
-from graphs.RebusImageConverter import RebusImageConverterV2
+from graphs.RebusImageConverter import RebusImageConverter
 from graphs.patterns.Rule import Rule
 
 
 class TestPhraseRebusGeneration(unittest.TestCase):
     def setUp(self) -> None:
         self.parser = PhraseRebusGraphParser()
-        self.generator = RebusImageConverterV2()
+        self.generator = RebusImageConverter()
 
     def test_clean_up_ones_act(self):
         phrase = "clean up one's act"
@@ -127,7 +127,7 @@ class TestPhraseRebusGeneration(unittest.TestCase):
 class TestPhraseGenerationInside(unittest.TestCase):
     def setUp(self) -> None:
         self.parser = PhraseRebusGraphParser()
-        self.generator = RebusImageConverterV2()
+        self.generator = RebusImageConverter()
 
     def test_inside_icon(self):
         phrase = "stars in one's eyes"
@@ -206,7 +206,7 @@ class TestPhraseGenerationInside(unittest.TestCase):
 class TestPhraseGenerationAbove(unittest.TestCase):
     def setUp(self) -> None:
         self.parser = PhraseRebusGraphParser()
-        self.generator = RebusImageConverterV2()
+        self.generator = RebusImageConverter()
 
     def test_above_basic(self):
         phrase = "head above water"
@@ -280,7 +280,7 @@ class TestPhraseGenerationAbove(unittest.TestCase):
 class TestPhraseGenerationOutside(unittest.TestCase):
     def setUp(self) -> None:
         self.parser = PhraseRebusGraphParser()
-        self.generator = RebusImageConverterV2()
+        self.generator = RebusImageConverter()
 
     def test_outside_basic(self):
         phrase = "think outside the box"

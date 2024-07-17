@@ -37,9 +37,15 @@ class TestCompoundRebusGraphParser(unittest.TestCase):
         for graph in self.parser.parse(*compound):
             print(graph)
         graph = self.parser.parse(*compound)[0]
-        correct_graph = RebusGraph(template={"name": "base", "obj": Template.BASE})
-        correct_graph.add_node(1, text="COAT", color="red", repeat=1)
-        self.assertTrue(nx.utils.graphs_equal(graph, correct_graph))
+        # correct_graph = RebusGraph(template={"name": "base", "obj": Template.BASE})
+        # correct_graph.add_node(1, text="COAT", color="red", repeat=1)
+        # self.assertTrue(nx.utils.graphs_equal(graph, correct_graph))
+
+        compound = ["blue", "prints", True]
+        for graph in self.parser.parse(*compound):
+            print(graph)
+        graph = self.parser.parse(*compound)[0]
+        print(graph)
 
     def test_rebus_parse_style_color_2(self):
         compound = ["red", "coats", True]

@@ -106,7 +106,6 @@ class CompoundRebusGraphParser:
             graph.add_node(1, **node_1_attrs)
             graph.add_node(2, **node_2_attrs)
             graph.add_edge(1, 2, rule="NEXT-TO")
-
             return [graph]
 
         # Return empty list if there is no more than 1 rule
