@@ -6,8 +6,7 @@ import os
 import networkx as nx
 import pandas as pd
 
-import util
-from graphs.patterns.Rule import Rule
+from puzzles.patterns.Rule import Rule
 
 
 def get_node_attributes(graph):
@@ -71,12 +70,12 @@ def count_relational_rules(phrase):
     return sum([1 for word in phrase.split() if word in relational_keywords])
 
 
-def get_answer_graph_pairs(combine=False):
-    from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
-    from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
+def get_answer_graph_pairs(version, combine=False):
+    from puzzles.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
+    from puzzles.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
 
     phrases = [os.path.basename(file).split(".")[0]
-               for file in glob.glob(f"{os.path.dirname(__file__)}/results/benchmark/final_v3/*")]
+               for file in glob.glob(f"{os.path.dirname(__file__)}/results/benchmark/final_{version}/*")]
     ladec = pd.read_csv(f"{os.path.dirname(__file__)}/saved/ladec_raw_small.csv")
     custom_compounds = pd.read_csv(f"{os.path.dirname(__file__)}/saved/custom_compounds.csv")
 
@@ -98,13 +97,14 @@ def get_answer_graph_pairs(combine=False):
             row = ladec.loc[ladec["stim"] == phrase_].values.flatten().tolist()
             if len(row) == 0:
                 row = custom_compounds.loc[custom_compounds["stim"] == phrase_].values.flatten().tolist()
-            c1, c2, is_plural = row[0], row[1], bool(row[2])
+            c1, c2, is_plural = row[0], row[1], bool(row[3])
             graphs = compound_parser.parse(c1, c2, is_plural)
             phrase = "_".join(orig_phrase.split())
             if orig_phrase.endswith("non-icon"):
                 compound_to_graph[phrase] = remove_icons_from_graph(graphs[index])
             else:
                 compound_to_graph[phrase] = graphs[index]
+
         else:
             if parts[-1].isnumeric():
                 index = int(parts[-1]) - 1
@@ -137,3 +137,5 @@ def remove_icons_from_graph(graph):
         graph_no_icon.nodes[node].clear()
     nx.set_node_attributes(graph_no_icon, graph_no_icon_node_attrs)
     return graph_no_icon
+
+

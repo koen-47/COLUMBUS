@@ -74,11 +74,6 @@
       "cross to bear",
       "cross to take up"
    ],
-   "beforehand_1": [
-      "before someone's time",
-      "before one's time",
-      "at first"
-   ],
    "before_one's_eyes_1": [
       "before one's time",
       "before someone's time",
@@ -239,11 +234,6 @@
       "come to oneself",
       "do one's own thing"
    ],
-   "come_to_an_end_1": [
-      "put an end to",
-      "most an end",
-      "end of"
-   ],
    "come_to_a_close_1": [
       "come to",
       "come to an end",
@@ -353,11 +343,6 @@
       "two for two",
       "eat one's young",
       "eat one's own"
-   ],
-   "endtime_1": [
-      "end times",
-      "end of",
-      "endgame"
    ],
    "end_up_2": [
       "end of",
@@ -579,11 +564,6 @@
       "easy on the eye",
       "painful on the eyes"
    ],
-   "harp_on_one_string": [
-      "harp on the same string",
-      "harp on",
-      "string up"
-   ],
    "high_up_2": [
       "get high",
       "high ground",
@@ -679,11 +659,6 @@
       "on the bubble",
       "burst someone's bubble"
    ],
-   "look_over_one's_shoulder": [
-      "put one's shoulder into",
-      "straight from the shoulder",
-      "stand on someone's shoulders"
-   ],
    "look_to_1": [
       "look into",
       "look here",
@@ -693,11 +668,6 @@
       "make happen",
       "make do",
       "make over"
-   ],
-   "means_to_an_end_1": [
-      "put an end to",
-      "come to an end",
-      "most an end"
    ],
    "meant_to_1": [
       "about to",
@@ -818,11 +788,6 @@
       "one at a time",
       "one on one",
       "put one over"
-   ],
-   "one_in_the_eye_for_1": [
-      "eye for an eye",
-      "have an eye for",
-      "in the blink of an eye"
    ],
    "one_on_one": [
       "one at a time",
@@ -1079,6 +1044,11 @@
       "double date",
       "sell-by date"
    ],
+   "start_from_scratch": [
+      "from scratch",
+      "get started",
+      "begin at the beginning"
+   ],
    "start_line": [
       "lead the line",
       "in line",
@@ -1169,11 +1139,6 @@
       "hot and heavy",
       "hot off the presses"
    ],
-   "too_rich_for_one's_blood_1": [
-      "out for blood",
-      "one's blood is up",
-      "bad blood"
-   ],
    "to_a_fault_1": [
       "find fault",
       "faultfinding",
@@ -1223,11 +1188,6 @@
       "have time to spare",
       "spare tyre",
       "spare tire"
-   ],
-   "try_on_for_size_1": [
-      "size up",
-      "try it on",
-      "have it large"
    ],
    "twenty_to_the_dozen_1": [
       "decimal dozen",
@@ -1669,11 +1629,6 @@
       "up the wall",
       "go to the wall"
    ],
-   "back_against_the_wall_non-icon": [
-      "back to the wall",
-      "up the wall",
-      "go to the wall"
-   ],
    "back_of_one's_hand_2_icon": [
       "make one's hand",
       "have one's hand out",
@@ -1699,11 +1654,6 @@
       "square away",
       "square on"
    ],
-   "back_to_square_one_2_non-icon": [
-      "square one",
-      "square away",
-      "square on"
-   ],
    "back_to_the_wall_2_icon": [
       "back against the wall",
       "go to the wall",
@@ -1723,11 +1673,6 @@
       "bust one's balls",
       "grow some balls",
       "have someone by the balls"
-   ],
-   "bang_down_the_door_1_icon": [
-      "bang out",
-      "bang away",
-      "bang up"
    ],
    "bang_down_the_door_1_non-icon": [
       "bang out",
@@ -1829,11 +1774,6 @@
       "have other fish to fry",
       "big fish"
    ],
-   "bigger_fish_to_fry_1_non-icon": [
-      "fish to fry",
-      "have other fish to fry",
-      "big fish"
-   ],
    "bigger_fish_to_fry_2_icon": [
       "fish to fry",
       "have other fish to fry",
@@ -1915,11 +1855,6 @@
       "fair-haired boy"
    ],
    "blue_wall_of_silence_1_icon": [
-      "wall of silence",
-      "pact of silence",
-      "silence is golden"
-   ],
-   "blue_wall_of_silence_1_non-icon": [
       "wall of silence",
       "pact of silence",
       "silence is golden"
@@ -2254,11 +2189,6 @@
       "come down",
       "come down to us"
    ],
-   "come_down_to_earth_2_non-icon": [
-      "down to earth",
-      "come down",
-      "come down to us"
-   ],
    "come_down_to_earth_3_icon": [
       "down to earth",
       "come down",
@@ -2365,11 +2295,6 @@
       "go too far"
    ],
    "cross_fingers_for_luck_1_icon": [
-      "down on one's luck",
-      "push one's luck",
-      "stroke of luck"
-   ],
-   "cross_fingers_for_luck_1_non-icon": [
       "down on one's luck",
       "push one's luck",
       "stroke of luck"
@@ -2834,16 +2759,6 @@
       "flesh one's maiden sword",
       "sword and sorcery"
    ],
-   "feather_in_one's_cap_icon": [
-      "feather in your cap",
-      "birds of a feather",
-      "feather one's nest"
-   ],
-   "feather_in_one's_cap_non-icon": [
-      "feather in your cap",
-      "birds of a feather",
-      "feather one's nest"
-   ],
    "finger_in_the_pie_icon": [
       "the finger",
       "have one's fingers in many pies",
@@ -3038,11 +2953,6 @@
       "live in the past",
       "behind time",
       "time after time"
-   ],
-   "go_over_someone's_head_icon": [
-      "go to someone's head",
-      "talk over someone's head",
-      "hold over someone's head"
    ],
    "go_to_bat_1_icon": [
       "bat five hundred",
@@ -3394,11 +3304,6 @@
       "necklace",
       "crowning glory"
    ],
-   "keep_one's_head_down_1_icon": [
-      "keep one's head",
-      "hold one's head high",
-      "lose one's head"
-   ],
    "keep_one's_head_down_1_non-icon": [
       "keep one's head",
       "hold one's head high",
@@ -3488,16 +3393,6 @@
       "break one's duck",
       "like water off a duck's back",
       "sitting duck"
-   ],
-   "living_on_borrowed_time_icon": [
-      "borrowed time",
-      "time of one's life",
-      "make time"
-   ],
-   "living_on_borrowed_time_non-icon": [
-      "borrowed time",
-      "time of one's life",
-      "make time"
    ],
    "long_in_the_tooth_icon": [
       "long finger",
@@ -3869,11 +3764,6 @@
       "waiting time",
       "buy time"
    ],
-   "pressed_for_time_1_non-icon": [
-      "time after time",
-      "waiting time",
-      "buy time"
-   ],
    "pull_out_of_the_fire_icon": [
       "put out a fire",
       "pull out",
@@ -3935,11 +3825,6 @@
       "put food on the table"
    ],
    "put_lipstick_on_a_pig_icon": [
-      "lipstick",
-      "lipsticks",
-      "make a pig of oneself"
-   ],
-   "put_lipstick_on_a_pig_non-icon": [
       "lipstick",
       "lipsticks",
       "make a pig of oneself"
@@ -4514,17 +4399,7 @@
       "step down",
       "step up your game"
    ],
-   "step_up_to_the_plate_2_non-icon": [
-      "step up",
-      "step down",
-      "step up your game"
-   ],
    "step_up_to_the_plate_3_icon": [
-      "step up",
-      "step up your game",
-      "step down"
-   ],
-   "step_up_to_the_plate_3_non-icon": [
       "step up",
       "step up your game",
       "step down"
@@ -4598,11 +4473,6 @@
       "break the bank",
       "bank night",
       "laugh all the way to the bank"
-   ],
-   "talk_over_someone's_head_icon": [
-      "go over someone's head",
-      "hold over someone's head",
-      "go to someone's head"
    ],
    "tempest_in_a_teapot_icon": [
       "teapot",
@@ -4678,11 +4548,6 @@
       "talk of the devil",
       "speak of the devil and he appears",
       "the devil is a liar"
-   ],
-   "the_genie's_out_of_the_bottle_icon": [
-      "put the genie back in the bottle",
-      "bottle away",
-      "bottle up"
    ],
    "the_genie's_out_of_the_bottle_non-icon": [
       "put the genie back in the bottle",
@@ -4774,11 +4639,6 @@
       "out of this world",
       "not for the world"
    ],
-   "too_good_for_this_world_1_non-icon": [
-      "not long for this world",
-      "out of this world",
-      "not for the world"
-   ],
    "to_boot_1_icon": [
       "get the boot",
       "put the boot in",
@@ -4799,20 +4659,10 @@
       "chill to the bone",
       "throw a bone to"
    ],
-   "turn_back_icon": [
-      "turn back on",
-      "turn down",
-      "turn over"
-   ],
    "turn_back_non-icon": [
       "turn back on",
       "turn down",
       "turn over"
-   ],
-   "turn_back_the_clock_icon": [
-      "wind back the clock",
-      "put the clock back",
-      "run the clock down"
    ],
    "turn_back_the_clock_non-icon": [
       "wind back the clock",
@@ -4858,11 +4708,6 @@
       "collect dust",
       "catch dust",
       "dust settles"
-   ],
-   "turn_up_for_the_book_1_icon": [
-      "write the book",
-      "throw the book at",
-      "make book"
    ],
    "turn_up_for_the_book_1_non-icon": [
       "write the book",

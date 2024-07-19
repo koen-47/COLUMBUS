@@ -26,7 +26,7 @@ def main():
             print(f"Correct: {puzzle['correct']}")
             plt.rcParams["figure.figsize"] = (4, 4)
             plt.axis('off')
-            image_path = f"{os.path.dirname(__file__)}/results/benchmark/final_v2/{puzzle['image']}"
+            image_path = f"{os.path.dirname(__file__)}/results/benchmark/final_v3/{puzzle['image']}"
             image = plt.imread(image_path)
             plt.imshow(image)
             plt.tight_layout()

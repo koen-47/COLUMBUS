@@ -4,7 +4,7 @@ import unittest
 
 from tqdm import tqdm
 
-from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
+from puzzles.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
 
 
 class TestRebusGraph(unittest.TestCase):

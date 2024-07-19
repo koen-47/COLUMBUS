@@ -2,9 +2,9 @@ import json
 import os
 import unittest
 
-from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
-from graphs.RebusImageConverter import RebusImageConverter
-from graphs.patterns.Rule import Rule
+from puzzles.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
+from puzzles.RebusImageConverter import RebusImageConverter
+from puzzles.patterns.Rule import Rule
 
 
 class TestPhraseRebusGeneration(unittest.TestCase):
@@ -183,7 +183,7 @@ class TestPhraseGenerationInside(unittest.TestCase):
         for graph in graphs:
             print(graph)
             self.generator.generate_inside(graph, show=True)
-        # best_graph, best_quality = max([(graph, graph.compute_difficulty()) for graph in graphs], key=lambda x: x[1])
+        # best_graph, best_quality = max([(graph, graph.compute_difficulty()) for graph in puzzles], key=lambda x: x[1])
         # print(best_graph, best_quality)
         # self.generator.generate_inside(best_graph, show=True)
 
@@ -248,8 +248,8 @@ class TestPhraseGenerationAbove(unittest.TestCase):
 
     # def test_simple(self):
     #     phrase = "punch above one's weight"
-    #     graphs = self.parser.parse(phrase)[0]
-    #     self.generator.is_simple(graphs)
+    #     puzzles = self.parser.parse(phrase)[0]
+    #     self.generator.is_simple(puzzles)
 
     def test_generate_all(self):
         with open(f"{os.path.dirname(__file__)}/../saved/idioms_raw.json", "r") as file:
@@ -268,7 +268,7 @@ class TestPhraseGenerationAbove(unittest.TestCase):
 
     def generate_phrase(self, phrase):
         graphs = self.parser.parse(phrase)
-        # best_graph, best_quality = max([(graph, graph.compute_difficulty()) for graph in graphs], key=lambda x: x[1])
+        # best_graph, best_quality = max([(graph, graph.compute_difficulty()) for graph in puzzles], key=lambda x: x[1])
         # print(best_graph, best_quality)
         # self.generator.generate_above(best_graph, show=True)
         print(graphs)

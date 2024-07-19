@@ -7,9 +7,9 @@ from tqdm import tqdm
 from wordfreq import word_frequency
 
 import util
-from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
-from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
-from graphs.RebusImageConverter import RebusImageConverter
+from puzzles.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
+from puzzles.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
+from puzzles.RebusImageConverter import RebusImageConverter
 from util import get_node_attributes, get_answer_graph_pairs
 
 phrase_parser = PhraseRebusGraphParser()

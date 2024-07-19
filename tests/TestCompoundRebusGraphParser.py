@@ -2,9 +2,9 @@ import unittest
 
 import networkx as nx
 
-from graphs.RebusGraph import RebusGraph
-from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
-from graphs.templates.Template import Template
+from puzzles.RebusGraph import RebusGraph
+from puzzles.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
+from puzzles.templates.Template import Template
 
 
 class TestCompoundRebusGraphParser(unittest.TestCase):

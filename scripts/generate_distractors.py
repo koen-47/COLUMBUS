@@ -12,9 +12,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from tqdm import tqdm
 
-from graphs.parsers.RebusGraphParser import RebusGraphParser
-from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
-from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
+from puzzles.parsers.RebusGraphParser import RebusGraphParser
+from puzzles.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
+from puzzles.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
 from util import get_node_attributes, get_answer_graph_pairs
 
 inflect = inflect.engine()
@@ -103,8 +103,8 @@ def generate_distractors(phrase_graphs):
         json.dump(answer_to_distractors, file, indent=3)
 
 
-# graphs = get_answer_graph_pairs(combine=True)
-# generate_distractors(graphs)
+# puzzles = get_answer_graph_pairs(combine=True)
+# generate_distractors(puzzles)
 # with open(f"../saved/distractors_{model_name.lower()}.json", "r") as file:
 #     distractors = json.load(file)
 #     with open(f"../saved/distractors_{model_name.lower()}_final.json", "w") as file_2:

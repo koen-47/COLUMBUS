@@ -72,20 +72,20 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # main()
 
-    # benchmark = Benchmark()
-    # puzzles = benchmark.get_puzzles()
-    # benchmark_data = []
-    # for puzzle in puzzles:
-    #     benchmark_data.append({
-    #         "image": os.path.basename(puzzle["image"]),
-    #         "options": puzzle["options"],
-    #         "correct": puzzle["correct"]
-    #     })
-    #
-    # print(json.dumps(benchmark_data, indent=3))
-    # print(len(benchmark_data))
-    # with open("../benchmark_v3.json", "w") as file:
-    #     json.dump(benchmark_data, file, indent=3)
+    benchmark = Benchmark()
+    puzzles = benchmark.get_puzzles()
+    benchmark_data = []
+    for puzzle in puzzles:
+        benchmark_data.append({
+            "image": os.path.basename(puzzle["image"]),
+            "options": puzzle["options"],
+            "correct": puzzle["correct"]
+        })
+
+    print(json.dumps(benchmark_data, indent=3))
+    print(len(benchmark_data))
+    with open("./benchmark_v3.json", "w") as file:
+        json.dump(benchmark_data, file, indent=3)
 

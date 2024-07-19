@@ -1,6 +1,6 @@
 import unittest
 
-from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
+from puzzles.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
 
 
 class TestPhraseRebusGraphParser(unittest.TestCase):

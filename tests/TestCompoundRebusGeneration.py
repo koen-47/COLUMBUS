@@ -1,7 +1,7 @@
 import unittest
 
-from graphs.RebusImageConverter import RebusImageConverter
-from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
+from puzzles.RebusImageConverter import RebusImageConverter
+from puzzles.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
 
 
 class TestCompoundRebusGeneration(unittest.TestCase):

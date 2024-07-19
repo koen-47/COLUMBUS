@@ -6,9 +6,9 @@ import networkx as nx
 import numpy as np
 import pandas as pd
 
-from graphs.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
-from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
-from graphs.patterns.Rule import Rule
+from puzzles.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
+from puzzles.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
+from puzzles.patterns.Rule import Rule
 from util import get_node_attributes, get_answer_graph_pairs
 
 
@@ -19,7 +19,7 @@ class PuzzleAnalysisReport:
 
     def generate(self):
         self._compute_basic_statistics()
-        graphs = list(get_answer_graph_pairs(combine=True).values())
+        graphs = list(get_answer_graph_pairs("v3", combine=True).values())
         self._count_rules(graphs)
 
     def _count_rules(self, graphs):
@@ -104,7 +104,7 @@ class PuzzleAnalysisReport:
         print(pd.DataFrame({"no_icons": edge_freq, "icons": edge_freq_icon}))
 
     def _compute_basic_statistics(self):
-        phrase_graphs, compound_graphs = get_answer_graph_pairs()
+        phrase_graphs, compound_graphs = get_answer_graph_pairs(version="v3")
         graphs = {}
         graphs.update(compound_graphs)
         graphs.update(phrase_graphs)
@@ -128,7 +128,7 @@ class PuzzleAnalysisReport:
             " ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(answer.split("_"))
             for answer in graphs.keys()]
 
-        # for answer, graph in graphs.items():
+        # for answer, graph in puzzles.items():
         #     if graph.number_of_nodes() == 4:
         #         print(answer)
 
@@ -154,7 +154,7 @@ class PuzzleAnalysisReport:
         n_double_node_graphs_icons = calculate_number_of_graphs_n_nodes(graphs_icons.values(), n=2)
         n_triple_node_graphs_icons = calculate_number_of_graphs_n_nodes(graphs_icons.values(), n=3)
 
-        with open("./saved/distractors.json", "r") as file:
+        with open("./saved/distractors_v3.json", "r") as file:
             answer_to_distractors = json.load(file)
 
             visible_to_distractor = {}
@@ -219,9 +219,9 @@ class PuzzleAnalysisReport:
         print("\n=== BENCHMARK STATISTICS (overall) ===")
         print("Number of puzzles:", len(graphs))
         print(f"Avg. answer length", avg_answer_len)
-        print("Number of single node graphs:", n_single_node_graphs)
-        print("Number of double node graphs:", n_double_node_graphs)
-        print("Number of triple node graphs:", n_triple_node_graphs)
+        print("Number of single node puzzles:", n_single_node_graphs)
+        print("Number of double node puzzles:", n_double_node_graphs)
+        print("Number of triple node puzzles:", n_triple_node_graphs)
         print("Avg. number of nodes per graph:", avg_n_nodes)
         print("Avg. number of edges per graph", avg_n_edges)
         print(f"Avg. visible word overlap: {avg_visible_word_overlap}")
@@ -230,9 +230,9 @@ class PuzzleAnalysisReport:
         print("\n=== BENCHMARK STATISTICS (no icons) ===")
         print("Number of puzzles (no icons):", len(graphs_no_icons))
         print(f"Avg. answer length (no icons)", avg_answer_len_no_icon)
-        print("Number of single node graphs (no icons):", n_single_node_graphs_no_icons)
-        print("Number of double node graphs (no icons):", n_double_node_graphs_no_icons)
-        print("Number of triple node graphs (no icons):", n_triple_node_graphs_no_icons)
+        print("Number of single node puzzles (no icons):", n_single_node_graphs_no_icons)
+        print("Number of double node puzzles (no icons):", n_double_node_graphs_no_icons)
+        print("Number of triple node puzzles (no icons):", n_triple_node_graphs_no_icons)
         print("Avg. number of nodes per graph (no icons):", avg_n_nodes_no_icon)
         print("Avg. number of edges per graph (no icons)", avg_n_edges_no_icon)
         print(f"Avg. visible word overlap (no icons): {avg_visible_word_overlap_no_icon}")
@@ -241,9 +241,9 @@ class PuzzleAnalysisReport:
         print("\n=== BENCHMARK STATISTICS (icons) ===")
         print("Number of puzzles (icons):", len(graphs_icons))
         print(f"Avg. answer length (icon)", avg_answer_len_icon)
-        print("Number of single node graphs (icons):", n_single_node_graphs_icons)
-        print("Number of double node graphs (icons):", n_double_node_graphs_icons)
-        print("Number of triple node graphs (icons):", n_triple_node_graphs_icons)
+        print("Number of single node puzzles (icons):", n_single_node_graphs_icons)
+        print("Number of double node puzzles (icons):", n_double_node_graphs_icons)
+        print("Number of triple node puzzles (icons):", n_triple_node_graphs_icons)
         print("Avg. number of nodes per graph (icons):", avg_n_nodes_icon)
         print("Avg. number of edges per graph (icons)", avg_n_edges_icon)
         print(f"Avg. visible word overlap (icons): {avg_visible_word_overlap_icon}")

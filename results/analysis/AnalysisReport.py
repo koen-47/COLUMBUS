@@ -14,9 +14,9 @@ import matplotlib.colors as mcolors
 from tqdm import tqdm
 import seaborn as sns
 
-from graphs.legacy.RebusGraphParser import RebusGraphParser
-from graphs.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
-from graphs.patterns.Rule import Rule
+from puzzles.legacy.RebusGraphParser import RebusGraphParser
+from puzzles.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
+from puzzles.patterns.Rule import Rule
 from util import get_node_attributes, get_answer_graph_pairs
 
 

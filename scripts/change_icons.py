@@ -7,12 +7,12 @@ from tqdm import tqdm
 import networkx as nx
 
 from util import get_answer_graph_pairs, get_node_attributes
-from graphs.RebusImageConverter import RebusImageConverter
+from puzzles.RebusImageConverter import RebusImageConverter
 
 
 def switch_icons():
     image_generator = RebusImageConverter()
-    graphs = get_answer_graph_pairs(combine=True)
+    graphs = get_answer_graph_pairs("v2", combine=True)
     n_icon_puzzles, n_non_icon_puzzles, n_overlap_puzzles = 0, 0, 0
     for answer, graph in tqdm(graphs.items(), desc="Switching icons"):
         graph_no_icon = copy.deepcopy(graph)
@@ -58,16 +58,16 @@ def rename_distractors():
         json.dump(distractors, file, indent=3)
 
     # print(json.dumps(distractors, indent=3))
-    # print(len(phrases))
-    # print(len(distractors))
+    print(len(phrases))
+    print(len(distractors))
     # print(set(phrases).difference(distractors.keys()))
-    # print()
 
 
+# switch_icons()
 rename_distractors()
 
 # def analyze_switched_icon_puzzles():
-#     graphs = get_answer_graph_pairs(combine=True)
+#     puzzles = get_answer_graph_pairs(combine=True)
 #     n_non_overlap_puzzles, n_icon_overlap_puzzles = 0, 0,
 #     for file in glob.glob(f"{os.path.dirname(__file__)}/../results/benchmark/final_v3/*"):
 #         file_name = os.path.basename(file).split(".")[0]

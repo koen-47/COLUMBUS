@@ -31,7 +31,7 @@ class CompoundRebusGraphParser:
         if len(conflicts_c2) > 1:
             patterns_c2 = [{key: value for key, value in patterns_c2.items() if key not in list([conflict_.split("_")[0] for conflict_ in set(conflicts_c2) - {conflict}])} for conflict in conflicts_c2]
 
-        # List to hold all possible generated graphs
+        # List to hold all possible generated puzzles
         graphs = []
 
         # Generate puzzles by combining both words into one
@@ -43,7 +43,7 @@ class CompoundRebusGraphParser:
         # Generate puzzles by placing both words next to each other
         graphs += self._generate_rebus(c1, {}, is_plural, c2)
 
-        # Remove duplicate graphs
+        # Remove duplicate puzzles
         graphs = remove_duplicate_graphs(graphs)
 
         for graph in graphs:
