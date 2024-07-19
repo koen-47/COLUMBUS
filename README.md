@@ -2,7 +2,7 @@
 
 This repository presents a benchmark of rebus puzzles designed to challenge the lateral thinking skills of visual question answering (VQA) models. 
 
-Currently, we are at the third version of the benchmark. The images of the puzzles can be found the benchmark can be found [here](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/results/benchmark/final_v3). The correct answers and distractors can be found [here](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/benchmark_v3.json).
+Currently, we are at the third version of the benchmark. The images of the puzzles can be found [here](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/results/benchmark/final_v3). The correct answers and distractors can be found [here](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/benchmark_v3.json).
 
 
 ## Installation
