@@ -1,0 +1,39 @@
+{
+   "metadata": {
+      "experiment": "Belief Graphs",
+      "model": "gpt-4o",
+      "max_depth": 1,
+      "n_puzzles": 1,
+      "hyperparameters": {
+         "k": 9,
+         "k_entailer": 36,
+         "k_xor": 30,
+         "k_mc": 9,
+         "t_entailer": 1.02,
+         "t_xor": 1.1,
+         "t_mc": 0.98,
+         "m_xor": 0.3,
+         "c_xor": 1.0,
+         "c_mc": 0.5
+      }
+   },
+   "results": [
+      {
+         "options": {
+            "A": "jet set",
+            "B": "jumbo jet",
+            "C": "jetliners",
+            "D": "jet-setter"
+         },
+         "correct": {
+            "B": "jumbo jet"
+         },
+         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\jumbo_jet.png",
+         "metadata": {
+            "nodes": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n",
+            "nodes_and_edges": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n"
+         },
+         "output": "jumbo jet"
+      }
+   ]
+}

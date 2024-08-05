@@ -146,7 +146,7 @@ def is_interesting(graph):
 
 
 def check_for_duplicates():
-    phrase_graphs, compound_graphs = get_answer_graph_pairs()
+    phrase_graphs, compound_graphs = get_answer_graph_pairs("v3")
     for phrase_1, graph_1 in phrase_graphs.items():
         for phrase_2, graph_2 in phrase_graphs.items():
             if phrase_1 != phrase_2 and nx.utils.graphs_equal(graph_1, graph_2):

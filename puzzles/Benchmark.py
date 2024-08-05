@@ -12,15 +12,15 @@ random.seed(42)
 
 class Benchmark:
     def __init__(self, with_metadata=True):
-        images_dir = f"{os.path.dirname(__file__)}/images/*"
-        distractors_path = f"{os.path.dirname(__file__)}/distractors/distractors.json"
+        images_dir = f"{os.path.dirname(__file__)}/../results/benchmark/final_v3/*"
+        distractors_path = f"{os.path.dirname(__file__)}/../saved/distractors_v3.json"
         with open(distractors_path, "r") as file:
             distractors = json.load(file)
             images = {file: os.path.basename(file).split(".")[0] for file in glob.glob(images_dir)}
         self._puzzles = self._format_questions(images, distractors)
 
         if with_metadata:
-            graphs = get_answer_graph_pairs(combine=True)
+            graphs = get_answer_graph_pairs("v3", combine=True)
             for puzzle, graph in graphs.items():
                 graph.graph = {}
                 metadata = "\n".join(graph.__str__().split("\n")[1:])

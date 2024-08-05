@@ -64,20 +64,26 @@ def rename_distractors():
 
 
 # switch_icons()
-rename_distractors()
+# rename_distractors()
 
-# def analyze_switched_icon_puzzles():
-#     puzzles = get_answer_graph_pairs(combine=True)
-#     n_non_overlap_puzzles, n_icon_overlap_puzzles = 0, 0,
-#     for file in glob.glob(f"{os.path.dirname(__file__)}/../results/benchmark/final_v3/*"):
-#         file_name = os.path.basename(file).split(".")[0]
-#         if file_name.endswith("icon") or file_name.endswith("non-icon"):
-#             n_icon_overlap_puzzles += 1
-#         else:
-#             n_non_overlap_puzzles += 1
-#
-#     print(n_non_overlap_puzzles)
-#     print(n_icon_overlap_puzzles)
-#
-#
-# analyze_switched_icon_puzzles()
+def analyze_switched_icon_puzzles():
+    puzzles = get_answer_graph_pairs("v3", combine=True)
+    n_non_icon_puzzles, n_icon_puzzles, n_icon_overlap_puzzles = 0, 0, 0
+    for answer, graph in puzzles.items():
+        node_attrs = get_node_attributes(graph)
+        contains_icons = sum([1 if "icon" in attr else 0 for attr in node_attrs.values()]) > 0
+        if contains_icons:
+            n_icon_puzzles += 1
+        else:
+            n_non_icon_puzzles += 1
+
+        if answer.endswith("icon") or answer.endswith("non-icon"):
+            n_icon_overlap_puzzles += 1
+
+    print("Number of non-icon puzzles:", n_non_icon_puzzles)
+    print("Number of icon puzzles:", n_icon_puzzles)
+    print(f"Number of puzzles with icon and non-icon variant:", n_icon_overlap_puzzles)
+    print(f"Total number of puzzles:", len(puzzles))
+
+
+analyze_switched_icon_puzzles()
