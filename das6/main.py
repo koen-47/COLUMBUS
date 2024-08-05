@@ -2,11 +2,6 @@ import json
 import os
 import argparse
 
-import numpy
-from PIL import Image
-from matplotlib import pyplot as plt
-from tqdm import tqdm
-
 from models.BLIP2Experiment import BLIP2Experiment
 from models.FuyuExperiment import FuyuExperiment
 from models.LlavaExperiment import LlavaExperiment
@@ -72,20 +67,6 @@ def main():
 
 
 if __name__ == "__main__":
-    # main()
+    main()
 
-    benchmark = Benchmark()
-    puzzles = benchmark.get_puzzles()
-    benchmark_data = []
-    for puzzle in puzzles:
-        benchmark_data.append({
-            "image": os.path.basename(puzzle["image"]),
-            "options": puzzle["options"],
-            "correct": puzzle["correct"]
-        })
-
-    print(json.dumps(benchmark_data, indent=3))
-    print(len(benchmark_data))
-    with open("./benchmark_v3.json", "w") as file:
-        json.dump(benchmark_data, file, indent=3)
-
+    # print(json.dumps(Benchmark().get_puzzles(), indent=3))

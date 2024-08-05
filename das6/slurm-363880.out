@@ -1,0 +1,43 @@
+Running experiment... (model: blip2-flan-t5, prompt type: 1)
+Downloading shards:   0%|          | 0/6 [00:00<?, ?it/s]Downloading shards:  17%|█▋        | 1/6 [01:26<07:10, 86.09s/it]Downloading shards:  33%|███▎      | 2/6 [02:57<05:57, 89.34s/it]Downloading shards:  50%|█████     | 3/6 [04:29<04:31, 90.59s/it]Downloading shards:  67%|██████▋   | 4/6 [06:06<03:05, 92.83s/it]Downloading shards:  67%|██████▋   | 4/6 [06:41<03:20, 100.29s/it]
+Traceback (most recent call last):
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/huggingface_hub/file_download.py", line 1492, in hf_hub_download
+    http_get(
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/huggingface_hub/file_download.py", line 538, in http_get
+    temp_file.write(chunk)
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/tempfile.py", line 483, in func_wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 5] Input/output error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/scratch/hkd800/scripts/main.py", line 70, in <module>
+    main()
+  File "/var/scratch/hkd800/scripts/main.py", line 39, in main
+    blip2_experiment = BLIP2Experiment(model_type="flan-t5-xxl", prompt_type=prompt_type)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/scripts/models/BLIP2Experiment.py", line 21, in __init__
+    self._load_model()
+  File "/var/scratch/hkd800/scripts/models/BLIP2Experiment.py", line 29, in _load_model
+    self.model = Blip2ForConditionalGeneration.from_pretrained(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/modeling_utils.py", line 3290, in from_pretrained
+    resolved_archive_file, sharded_metadata = get_checkpoint_shard_files(
+                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/utils/hub.py", line 1038, in get_checkpoint_shard_files
+    cached_filename = cached_file(
+                      ^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/utils/hub.py", line 398, in cached_file
+    resolved_file = hf_hub_download(
+                    ^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/huggingface_hub/utils/_validators.py", line 119, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/huggingface_hub/file_download.py", line 1480, in hf_hub_download
+    with temp_file_manager() as temp_file:
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/tempfile.py", line 501, in __exit__
+    result = self.file.__exit__(exc, value, tb)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 122] Disk quota exceeded
