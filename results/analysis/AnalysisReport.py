@@ -65,8 +65,8 @@ class AnalysisReport:
 
         # print(self.generate("clip", prompt_type="N/A"))
 
-        print(self.generate("belief_graphs_gpt-4o", prompt_type="N/A"))
-        print(self.generate("belief_graphs_gpt-4o-mini", prompt_type="N/A"))
+        print(self.generate("belief_graphs_gpt-4o_v3", prompt_type="N/A"))
+        # print(self.generate("belief_graphs_gpt-4o-mini", prompt_type="N/A"))
 
         # human_results = []
         # n_icon_puzzles, n_non_icon_puzzles = 0, 0
@@ -99,7 +99,7 @@ class AnalysisReport:
         # self._visualize(table_prompt_2, table_all_prompts, table_rules_per_prompt)
 
     def generate(self, model_type, prompt_type, mistral_type=None, verbose=False):
-        if model_type == "clip" or model_type == "belief_graphs_gpt-4o-mini" or model_type == "belief_graphs_gpt-4o":
+        if model_type == "clip" or model_type == "belief_graphs_gpt-4o-mini" or model_type == "belief_graphs_gpt-4o_v3":
             with open(f"{self.results_dir}/{model_type}.json", "r") as file:
                 results = json.load(file)["results"]
         elif model_type == "mistral-7b":

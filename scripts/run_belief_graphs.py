@@ -9,7 +9,7 @@ from puzzles.Benchmark import Benchmark
 
 random.seed(43)
 
-n_puzzles = 1
+n_puzzles = 50
 benchmark = Benchmark()
 puzzles = random.sample(benchmark.get_puzzles(), n_puzzles)
 model = "gpt-4o"
