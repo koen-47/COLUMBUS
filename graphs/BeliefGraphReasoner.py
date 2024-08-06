@@ -1,6 +1,8 @@
+import json
 import math
 import os
 import itertools
+import re
 
 from pysat.examples.rc2 import RC2
 from pysat.formula import WCNF
@@ -70,8 +72,10 @@ class BeliefGraphReasoner:
         for rule_node in graph.nodes:
             node_attrs = graph.nodes[rule_node]
             if node_attrs["type"] == "rule" and not node_attrs["is_xor"]:
-                premise_nodes = {premise: graph.nodes[premise]["value"] == "True" for premise in node_attrs["connected_nodes"]["premises"]}
-                hypothesis_node = {node_attrs["connected_nodes"]["hypothesis"][0]: graph.nodes[node_attrs["connected_nodes"]["hypothesis"][0]]["value"] == "True"}
+                premise_nodes = {premise: graph.nodes[premise]["value"] == "True" for premise in
+                                 node_attrs["connected_nodes"]["premises"]}
+                hypothesis_node = {node_attrs["connected_nodes"]["hypothesis"][0]:
+                                       graph.nodes[node_attrs["connected_nodes"]["hypothesis"][0]]["value"] == "True"}
                 clauses = list([-variable for variable in premise_nodes.keys()]) + list(hypothesis_node.keys())
                 is_satisfied = not all(premise_nodes.values()) or list(hypothesis_node.values())[0]
                 weight = 1. if is_satisfied else math.exp(-node_attrs["confidence"])
@@ -90,7 +94,30 @@ class BeliefGraphReasoner:
         # all_clauses = unit_clauses + xor_clauses + rule_clauses
         return all_clauses
 
-    def remove_inconsistent_rules(self, graph):
-        for node in graph.nodes:
-            pass
+    def get_max_prob_sum(self, graph):
+        graph.visualize(save_path=f"{os.path.dirname(__file__)}/visualizations/graph_before.png")
 
+        def dfs_traversal(graph, node, visited=None):
+            if visited is None:
+                visited = set()
+
+            visited.add(node)
+            for neighbor in graph.neighbors(node):
+                if neighbor not in visited:
+                    dfs_traversal(graph, neighbor, visited)
+
+            return visited
+
+        orig_hypothesis_nodes = graph.get_original_hypotheses()
+        sum_confidences = {h: [] for h in orig_hypothesis_nodes}
+        for orig_hypothesis in orig_hypothesis_nodes:
+            visited = dfs_traversal(graph.to_undirected(), orig_hypothesis)
+            for node in visited:
+                node_attrs = graph.nodes[node]
+                sum_confidences[orig_hypothesis].append(node_attrs["confidence"])
+
+        sum_confidences = {h: sum(c) / len(c) for h, c in sum_confidences.items()}
+        max_confidence = max(sum_confidences, key=sum_confidences.get)
+        answer = graph.nodes[max_confidence]["statement"]
+        answer = re.findall(r'"([^"]*)"', answer)[0]
+        return answer
