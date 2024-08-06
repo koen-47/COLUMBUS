@@ -2,6 +2,7 @@ import json
 import math
 import os
 import itertools
+import re
 
 from pysat.examples.rc2 import RC2
 from pysat.formula import WCNF
@@ -117,4 +118,6 @@ class BeliefGraphReasoner:
 
         sum_confidences = {h: sum(c) / len(c) for h, c in sum_confidences.items()}
         max_confidence = max(sum_confidences, key=sum_confidences.get)
-        return graph.nodes[max_confidence]["statement"]
+        answer = graph.nodes[max_confidence]["statement"]
+        answer = re.findall(r'"([^"]*)"', answer)[0]
+        return answer

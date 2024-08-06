@@ -7,7 +7,8 @@ from graphs.BeliefGraphGenerator import BeliefGraphGenerator
 from graphs.BeliefGraphReasoner import BeliefGraphReasoner
 from puzzles.Benchmark import Benchmark
 
-random.seed(44)
+seed = 43
+random.seed(seed)
 
 n_puzzles = 50
 benchmark = Benchmark()
@@ -54,6 +55,7 @@ with open(f"../results/analysis/results_v3/belief_graphs_{model}_v4.json", "w") 
     metadata = {
         "experiment": "Belief Graphs",
         "model": model,
+        "seed": seed,
         "max_depth": max_depth,
         "n_puzzles": n_puzzles,
         "hyperparameters": hyperparameters
