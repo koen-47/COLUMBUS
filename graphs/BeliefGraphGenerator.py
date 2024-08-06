@@ -82,7 +82,7 @@ class BeliefGraphGenerator:
         text = (f"You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a "
                 f"word or phrase. It needs to be solved through creative thinking."
                 f"You are also given the hypothesis: \"{hypothesis}\". "
-                f"In relation to the given puzzle, generate one or more premises for why this hypothesis is true. "
+                f"In relation to the given puzzle, explain this hypothesis with a 2-step reasoning chain. "
                 f"Keep your response concise and direct and respond in the following format:\n"
                 f"- [premise 1]\n"
                 f"- [premise 2]\n"
