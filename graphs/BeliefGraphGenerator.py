@@ -119,6 +119,7 @@ class BeliefGraphGenerator:
                 f"Respond with either true or false. "
                 f"\n\nPremises: {premises_text}"
                 f"\nHypothesis: {hypothesis}")
+        print(text)
         response = self._prompter.send_prompt(text, image_path=self._image_path, max_tokens=1)
         content = response["choices"][0]["logprobs"]["content"][0]
         prob = 10 ** float(content["logprob"])

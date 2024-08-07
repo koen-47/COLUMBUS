@@ -15,7 +15,7 @@
          "t_mc": 0.98,
          "m_xor": 0.3,
          "c_xor": 1.0,
-         "c_mc": 0.5
+         "c_mc": 1.0
       }
    },
    "results": [
@@ -34,7 +34,7 @@
             "nodes": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n",
             "nodes_and_edges": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n"
          },
-         "output": "jetliners"
+         "output": "jet set"
       },
       {
          "options": {
@@ -68,7 +68,7 @@
             "nodes": "Node 1: {'text': 'HANDSHAKE', 'color': 'green', 'repeat': 1}\n",
             "nodes_and_edges": "Node 1: {'text': 'HANDSHAKE', 'color': 'green', 'repeat': 1}\n"
          },
-         "output": "golden handshake"
+         "output": "handshake"
       },
       {
          "options": {
@@ -102,7 +102,7 @@
             "nodes": "Node 1: {'text': 'PIECE', 'repeat': 1, 'size': 'small'}\nNode 2: {'text': 'PUZZLE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'PIECE', 'repeat': 1, 'size': 'small'}\nNode 2: {'text': 'PUZZLE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
          },
-         "output": "a piece of cake"
+         "output": "small piece of the puzzle"
       },
       {
          "options": {
@@ -119,7 +119,7 @@
             "nodes": "Node 1: {'text': 'RUN', 'repeat': 1}\nNode 2: {'text': 'EMPTY', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'RUN', 'repeat': 1}\nNode 2: {'text': 'EMPTY', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\n"
          },
-         "output": "dummy run"
+         "output": "run on empty"
       },
       {
          "options": {
@@ -136,7 +136,7 @@
             "nodes": "Node 1: {'text': 'AGAINST', 'repeat': 1, 'direction': 'up'}\n",
             "nodes_and_edges": "Node 1: {'text': 'AGAINST', 'repeat': 1, 'direction': 'up'}\n"
          },
-         "output": "tell against"
+         "output": "turn against"
       },
       {
          "options": {
@@ -153,7 +153,7 @@
             "nodes": "Node 1: {'text': 'AFTERNOON', 'repeat': 1, 'highlight': 'middle'}\n",
             "nodes_and_edges": "Node 1: {'text': 'AFTERNOON', 'repeat': 1, 'highlight': 'middle'}\n"
          },
-         "output": "midrib"
+         "output": "midafternoon"
       },
       {
          "options": {
@@ -170,7 +170,7 @@
             "nodes": "Node 1: {'text': 'FINGER', 'repeat': 1}\nNode 2: {'text': 'PIE', 'repeat': 1, 'icon': {'pie': '\ud83e\udd67'}}\nNode 1 --(INSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'FINGER', 'repeat': 1}\nNode 2: {'text': 'PIE', 'repeat': 1, 'icon': {'pie': '\ud83e\udd67'}}\nNode 1 --(INSIDE)-> Node 2\n"
          },
-         "output": "the finger"
+         "output": "finger in the pie"
       },
       {
          "options": {
@@ -187,7 +187,7 @@
             "nodes": "Node 1: {'text': 'OFFICE', 'repeat': 1, 'direction': 'reverse'}\n",
             "nodes_and_edges": "Node 1: {'text': 'OFFICE', 'repeat': 1, 'direction': 'reverse'}\n"
          },
-         "output": "back door"
+         "output": "back office"
       },
       {
          "options": {
@@ -204,7 +204,7 @@
             "nodes": "Node 1: {'text': 'GET', 'repeat': 1}\nNode 2: {'text': '\ud83d\ude10', 'repeat': 1, 'highlight': 'middle', 'icon': {'face': '\ud83d\ude10'}}\nNode 1 --(OUTSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'GET', 'repeat': 1}\nNode 2: {'text': '\ud83d\ude10', 'repeat': 1, 'highlight': 'middle', 'icon': {'face': '\ud83d\ude10'}}\nNode 1 --(OUTSIDE)-> Node 2\n"
          },
-         "output": "pull a face"
+         "output": "get out of my face"
       },
       {
          "options": {
@@ -221,7 +221,7 @@
             "nodes": "Node 1: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}, 'highlight': 'before'}\nNode 2: {'text': 'EYES', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}, 'highlight': 'before'}\nNode 2: {'text': 'EYES', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
          },
-         "output": "before someone's time"
+         "output": "before one's eyes"
       },
       {
          "options": {
@@ -255,7 +255,7 @@
             "nodes": "Node 1: {'text': 'HARD', 'repeat': 1}\nNode 2: {'text': 'IIII', 'repeat': 1, 'icon': {'eyes': '\ud83d\udc40'}}\nNode 1 --(ABOVE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'HARD', 'repeat': 1}\nNode 2: {'text': 'IIII', 'repeat': 1, 'icon': {'eyes': '\ud83d\udc40'}}\nNode 1 --(ABOVE)-> Node 2\n"
          },
-         "output": "easy on the eye"
+         "output": "hard on the eyes"
       },
       {
          "options": {
@@ -272,7 +272,7 @@
             "nodes": "Node 1: {'text': 'LOOK', 'repeat': 4, 'sound': {'for': ['4']}}\nNode 2: {'text': 'DOG', 'repeat': 2, 'sound': {'to': ['2']}}\nNode 3: {'text': 'KICK', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n",
             "nodes_and_edges": "Node 1: {'text': 'LOOK', 'repeat': 4, 'sound': {'for': ['4']}}\nNode 2: {'text': 'DOG', 'repeat': 2, 'sound': {'to': ['2']}}\nNode 3: {'text': 'KICK', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n"
          },
-         "output": "kick at an open door"
+         "output": "kick a dog when it's down"
       },
       {
          "options": {
@@ -306,7 +306,7 @@
             "nodes": "Node 1: {'text': '\ud83d\udde1\ud83d\udde1', 'cross': True, 'repeat': 1, 'icon': {'swords': '\ud83d\udde1\ud83d\udde1'}}\n",
             "nodes_and_edges": "Node 1: {'text': '\ud83d\udde1\ud83d\udde1', 'cross': True, 'repeat': 1, 'icon': {'swords': '\ud83d\udde1\ud83d\udde1'}}\n"
          },
-         "output": "beats one's swords into plowshares"
+         "output": "swordsmanship"
       },
       {
          "options": {
@@ -323,7 +323,7 @@
             "nodes": "Node 1: {'text': 'STARS', 'repeat': 1, 'icon': {'stars': '\ud83c\udf1f\ud83c\udf1f'}}\nNode 2: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}}\nNode 3: {'text': 'IIII', 'repeat': 1, 'sound': {'eyes': 'iiii'}}\nNode 1 --(INSIDE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n",
             "nodes_and_edges": "Node 1: {'text': 'STARS', 'repeat': 1, 'icon': {'stars': '\ud83c\udf1f\ud83c\udf1f'}}\nNode 2: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}}\nNode 3: {'text': 'IIII', 'repeat': 1, 'sound': {'eyes': 'iiii'}}\nNode 1 --(INSIDE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n"
          },
-         "output": "see stars"
+         "output": "written in the stars"
       },
       {
          "options": {
@@ -408,7 +408,7 @@
             "nodes": "Node 1: {'text': 'SHOW', 'repeat': 4, 'sound': {'for': ['4']}}\n",
             "nodes_and_edges": "Node 1: {'text': 'SHOW', 'repeat': 4, 'sound': {'for': ['4']}}\n"
          },
-         "output": "make for"
+         "output": "show off"
       },
       {
          "options": {
@@ -425,7 +425,7 @@
             "nodes": "Node 1: {'text': 'BOOK', 'repeat': 1, 'highlight': 'after'}\n",
             "nodes_and_edges": "Node 1: {'text': 'BOOK', 'repeat': 1, 'highlight': 'after'}\n"
          },
-         "output": "book in"
+         "output": "bookend"
       },
       {
          "options": {
@@ -442,7 +442,7 @@
             "nodes": "Node 1: {'text': 'MIDGAME', 'repeat': 1}\n",
             "nodes_and_edges": "Node 1: {'text': 'MIDGAME', 'repeat': 1}\n"
          },
-         "output": "midwatch"
+         "output": "midgame"
       },
       {
          "options": {
@@ -459,7 +459,7 @@
             "nodes": "Node 1: {'text': 'DAY', 'repeat': 1, 'highlight': 'after'}\n",
             "nodes_and_edges": "Node 1: {'text': 'DAY', 'repeat': 1, 'highlight': 'after'}\n"
          },
-         "output": "at the last minute"
+         "output": "the other day"
       },
       {
          "options": {
@@ -476,7 +476,7 @@
             "nodes": "Node 1: {'text': 'PULL', 'repeat': 1}\nNode 2: {'text': 'FIRE', 'repeat': 1, 'icon': {'fire': '\ud83d\udd25'}}\nNode 1 --(OUTSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'PULL', 'repeat': 1}\nNode 2: {'text': 'FIRE', 'repeat': 1, 'icon': {'fire': '\ud83d\udd25'}}\nNode 1 --(OUTSIDE)-> Node 2\n"
          },
-         "output": "pull out"
+         "output": "put out a fire"
       },
       {
          "options": {
@@ -578,7 +578,7 @@
             "nodes": "Node 1: {'text': '\ud83d\ude10', 'repeat': 2, 'sound': {'to': ['2']}, 'icon': {'head': '\ud83d\ude10'}}\nNode 2: {'text': 'TOE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': '\ud83d\ude10', 'repeat': 2, 'sound': {'to': ['2']}, 'icon': {'head': '\ud83d\ude10'}}\nNode 2: {'text': 'TOE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
          },
-         "output": "head over heels"
+         "output": "head to toe"
       },
       {
          "options": {
@@ -595,7 +595,7 @@
             "nodes": "Node 1: {'text': 'LIGHT', 'color': 'green', 'repeat': 1}\n",
             "nodes_and_edges": "Node 1: {'text': 'LIGHT', 'color': 'green', 'repeat': 1}\n"
          },
-         "output": "long green"
+         "output": "green light"
       },
       {
          "options": {
@@ -612,7 +612,7 @@
             "nodes": "Node 1: {'text': 'HIGH', 'repeat': 1, 'direction': 'up'}\n",
             "nodes_and_edges": "Node 1: {'text': 'HIGH', 'repeat': 1, 'direction': 'up'}\n"
          },
-         "output": "run high"
+         "output": "get high"
       },
       {
          "options": {
@@ -629,7 +629,7 @@
             "nodes": "Node 1: {'text': 'GO', 'repeat': 1, 'direction': 'reverse'}\nNode 2: {'text': 'TIME', 'repeat': 1}\nNode 1 --(INSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'GO', 'repeat': 1, 'direction': 'reverse'}\nNode 2: {'text': 'TIME', 'repeat': 1}\nNode 1 --(INSIDE)-> Node 2\n"
          },
-         "output": "time after time"
+         "output": "go back in time"
       },
       {
          "options": {
@@ -680,7 +680,7 @@
             "nodes": "Node 1: {'text': 'GET', 'repeat': 2, 'sound': {'to': ['2']}}\nNode 2: {'text': 'POINT', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'GET', 'repeat': 2, 'sound': {'to': ['2']}}\nNode 2: {'text': 'POINT', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
          },
-         "output": "take the point"
+         "output": "get the point"
       },
       {
          "options": {
@@ -697,7 +697,7 @@
             "nodes": "Node 1: {'text': 'CLASS', 'repeat': 1, 'highlight': 'middle'}\nNode 2: {'text': 'VALUE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'CLASS', 'repeat': 1, 'highlight': 'middle'}\nNode 2: {'text': 'VALUE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
          },
-         "output": "class act"
+         "output": "middle class value"
       },
       {
          "options": {
@@ -714,7 +714,7 @@
             "nodes": "Node 1: {'text': 'BRING', 'repeat': 2, 'sound': {'to': ['2']}}\nNode 2: {'text': 'LIGHT', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'BRING', 'repeat': 2, 'sound': {'to': ['2']}}\nNode 2: {'text': 'LIGHT', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
          },
-         "output": "make a light"
+         "output": "bring to light"
       },
       {
          "options": {
@@ -731,7 +731,7 @@
             "nodes": "Node 1: {'text': 'LIVING', 'repeat': 1}\nNode 2: {'text': 'BUBBLE', 'repeat': 1, 'size': 'small'}\nNode 1 --(INSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'LIVING', 'repeat': 1}\nNode 2: {'text': 'BUBBLE', 'repeat': 1, 'size': 'small'}\nNode 1 --(INSIDE)-> Node 2\n"
          },
-         "output": "burst someone's bubble"
+         "output": "on the bubble"
       },
       {
          "options": {
@@ -748,7 +748,7 @@
             "nodes": "Node 1: {'text': 'WHILE', 'repeat': 4, 'sound': {'for': ['4']}}\n",
             "nodes_and_edges": "Node 1: {'text': 'WHILE', 'repeat': 4, 'sound': {'for': ['4']}}\n"
          },
-         "output": "for once"
+         "output": "once in a while"
       },
       {
          "options": {
@@ -833,7 +833,7 @@
             "nodes": "Node 1: {'text': 'WALKS', 'cross': True, 'repeat': 2}\n",
             "nodes_and_edges": "Node 1: {'text': 'WALKS', 'cross': True, 'repeat': 2}\n"
          },
-         "output": "crosswalks"
+         "output": "crosswalk"
       },
       {
          "options": {
@@ -850,7 +850,7 @@
             "nodes": "Node 1: {'text': 'WRONG', 'repeat': 1, 'direction': 'reverse'}\nNode 2: {'text': 'HORSE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'WRONG', 'repeat': 1, 'direction': 'reverse'}\nNode 2: {'text': 'HORSE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
          },
-         "output": "high horse"
+         "output": "back the wrong horse"
       },
       {
          "options": {
