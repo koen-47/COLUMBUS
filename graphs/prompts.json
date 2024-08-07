@@ -1,0 +1,38 @@
+{
+    "prompt_templates": {
+        "generate_negation": "Respond concisely and directly. Negate the following statement: {}",
+        "zero_shot": {
+            "preprompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking.",
+            "generate_premises": "{} You are also given the hypothesis: \"{}\". In relation to the given puzzle, explain this hypothesis with a 2-step reasoning chain. Keep your response concise and direct and respond in the following format:\n- [premise 1]\n- [premise 2]\n- etc.",
+            "score_statement": "{} Based on the given puzzle, is the following statement true or false (respond with only either true or false): {}",
+            "score_rule": "{} You are also given a set of premises and a hypothesis. Based on the given puzzle, do you think the following premises accurately explain the following hypothesis? Respond with either true or false. \n\nPremise: {}\nHypothesis: {}"
+        },
+        "few_shot": {
+            "preprompt": {
+                "1": "You are given images of rebus puzzles. They consist of text or icons that are used to convey a word or phrase. They need to be solved through creative thinking. To give you an idea of how these puzzles work, the first image is an example of a rebus puzzle: {}\n\n",
+                "2+": "You are given images of rebus puzzles. They consist of text or icons that are used to convey a word or phrase. They need to be solved through creative thinking. To give you an idea of how these puzzles work, the first {} images are examples of rebus puzzles: {}\n\n"
+            },
+            "generate_premises": "{}Additionally, you are also given a {} puzzle (Image {}) and the hypothesis: \"{}\". In relation to this puzzle (Image {}), explain this hypothesis with a 2-step reasoning chain. Keep your response concise and direct and respond in the following format:\n- [premise 1]\n- [premise 2]\n- etc.",
+            "score_statement": "{}You are now given a {} puzzle (Image {}). Based on this puzzle (Image {}), is the following statement true or false (respond with either true or false): {}",
+            "score_rule": "{}You are also given a {} puzzle (Image {}), a set of premises and a hypothesis. Based on this puzzle (Image {}), do you think the following premises accurately explain the following hypothesis? Respond with either true or false. \n\nPremises: {}\nHypothesis: {}"
+        }
+    },
+    "few_shot_examples": {
+        "1": [
+            {
+                "image": "back_the_wrong_horse_icon.png",
+                "description": "Rebus puzzle for the phrase 'back the wrong horse'."
+            }
+        ],
+        "2": [
+            {
+                "image": "back_the_wrong_horse_icon.png",
+                "description": "Rebus puzzle for the phrase 'back the wrong horse'."
+            },
+            {
+                "image": "down_on_one's_luck_icon.png",
+                "description": "Rebus puzzle for the phrase 'down on one's luck'."
+            }
+        ]
+    }
+}

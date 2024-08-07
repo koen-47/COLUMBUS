@@ -45,10 +45,10 @@ class BeliefGraphReasoner:
         for statement_node in graph.nodes:
             node_attrs = graph.nodes[statement_node]
             if node_attrs["type"] == "statement":
-                # value = node_attrs["value"] == "True"
+                value = node_attrs["value"] == "True"
                 confidence = float(node_attrs["confidence"])
 
-                unit_clause = statement_node
+                unit_clause = statement_node if value else -statement_node
                 unit_clauses.append(
                     ([unit_clause], 1.)
                 )

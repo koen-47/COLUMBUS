@@ -15,7 +15,7 @@
          "t_mc": 0.98,
          "m_xor": 0.3,
          "c_xor": 1.0,
-         "c_mc": 0.5
+         "c_mc": 1.0
       }
    },
    "results": [
@@ -33,8 +33,7 @@
          "metadata": {
             "nodes": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n",
             "nodes_and_edges": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n"
-         },
-         "output": "jet set"
+         }
       }
    ]
 }

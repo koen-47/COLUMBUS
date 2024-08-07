@@ -13,7 +13,7 @@ class Prompter:
         self._model = model
         self._verbose = verbose
 
-    def send_prompt(self, text, image_path=None, max_retries=10, timeout=10, max_tokens=300):
+    def send_prompt(self, text, image_paths=None, max_retries=10, timeout=10, max_tokens=300):
         headers = {
             "Content-Type": "application/json",
             "Authorization": f"Bearer {openai.api_key}"
@@ -37,18 +37,19 @@ class Prompter:
             "logprobs": True
         }
 
-        if image_path is not None:
-            with open(image_path, "rb") as image_file:
-                image = base64.b64encode(image_file.read()).decode("utf-8")
+        if image_paths is not None:
+            for image_path in image_paths:
+                with open(image_path, "rb") as image_file:
+                    image = base64.b64encode(image_file.read()).decode("utf-8")
 
-            payload["messages"][0]["content"].append(
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": f"data:image/png;base64,{image}"
+                payload["messages"][0]["content"].append(
+                    {
+                        "type": "image_url",
+                        "image_url": {
+                            "url": f"data:image/png;base64,{image}"
+                        }
                     }
-                }
-            )
+                )
 
         def _send():
             response_ = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
