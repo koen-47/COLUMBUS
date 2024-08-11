@@ -49,3 +49,13 @@ class TestRebusGraph(unittest.TestCase):
             print("# >=1.25:", len([difficulty for difficulty in idiom_to_difficulty.values() if difficulty >= 1.25]))
             print("# >=1.0:", len([difficulty for difficulty in idiom_to_difficulty.values() if difficulty >= 1.]))
             print(json.dumps(idiom_to_difficulty, indent=3))
+
+            freq_distribution = {}
+            for freq in idiom_to_difficulty.values():
+                if freq not in freq_distribution:
+                    freq_distribution[freq] = 0
+                freq_distribution[freq] += 1
+
+            print(json.dumps(freq_distribution, indent=3))
+            print(f"Total number of puzzles created:", sum(freq_distribution.values()))
+

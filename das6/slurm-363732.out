@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "/var/scratch/hkd800/scripts/main.py", line 72, in <module>
-    print(json.dumps(Benchmark().get_puzzles(), indent=3))
-                     ^^^^^^^^^^^
-  File "/var/scratch/hkd800/scripts/data/Benchmark.py", line 23, in __init__
-    graphs = get_answer_graph_pairs(combine=True)
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TypeError: get_answer_graph_pairs() got an unexpected keyword argument 'combine'

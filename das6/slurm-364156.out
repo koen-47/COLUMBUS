@@ -1,0 +1,28 @@
+Running experiment... (model: mistral, prompt type: 4)
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:02<00:04,  2.38s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:04<00:02,  2.44s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:07<00:00,  2.38s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:07<00:00,  2.39s/it]
+Traceback (most recent call last):
+  File "/var/scratch/hkd800/scripts/main.py", line 70, in <module>
+    main()
+  File "/var/scratch/hkd800/scripts/main.py", line 63, in main
+    mistral_experiment = MistralExperiment(prompt_type=prompt_type)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/scripts/models/MistralExperiment.py", line 17, in __init__
+    self._load_model()
+  File "/var/scratch/hkd800/scripts/models/MistralExperiment.py", line 26, in _load_model
+    self.tokenizer = AutoTokenizer.from_pretrained(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/models/auto/tokenization_auto.py", line 837, in from_pretrained
+    return tokenizer_class.from_pretrained(pretrained_model_name_or_path, *inputs, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2086, in from_pretrained
+    return cls._from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2325, in _from_pretrained
+    tokenizer = cls(*init_inputs, **init_kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/models/llama/tokenization_llama_fast.py", line 133, in __init__
+    super().__init__(
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/tokenization_utils_fast.py", line 111, in __init__
+    fast_tokenizer = TokenizerFast.from_file(fast_tokenizer_file)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Exception: data did not match any variant of untagged enum PyPreTokenizerTypeWrapper at line 40 column 3

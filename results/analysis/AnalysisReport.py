@@ -25,8 +25,9 @@ class AnalysisReport:
         self.results_dir = f"{os.path.dirname(__file__)}/results_v3"
         self._graph_answer_pairs = get_answer_graph_pairs("v3", combine=True)
         self._model_types = {"non_instruction": ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "fuyu-8b"],
-                             "instruction": ["instructblip", "llava-1.5-13b", "blip-2_flan-t5-xxl", "llava-1.6-34b",
+                             "instruction": ["instructblip", "llava-1.5-13b", "blip-2_flan-t5-xxl",
                                              "cogvlm", "qwenvl", "mistral-7b"]}
+        # "llava-1.6-34b"
         self._implemented_models = ["belief_graphs_gpt-4o-mini"]
         self._prompt_types = ["1", "2", "3", "4"]
         self._names = {"clip": "CLIP",
@@ -45,58 +46,58 @@ class AnalysisReport:
                        "instruction": "Instruction tuned models"}
 
     def generate_all(self, verbose=False):
-        # all_model_types = self._model_types["non_instruction"] + self._model_types["instruction"] + ["clip"]
-        # all_basic_results = {prompt: {model: None} for model, prompt in product(*[all_model_types, self._prompt_types])}
-        # all_rule_results = {prompt: {model: None} for model, prompt in product(*[all_model_types, self._prompt_types])}
-        #
-        # all_basic_results["1"]["mistral-7b"] = ["-"] * 4
-        # all_basic_results["2"]["mistral-7b"] = ["-"] * 4
-        # all_basic_results["1"]["human"] = ["-"] * 4
-        # all_basic_results["3"]["human"] = ["-"] * 4
-        # all_basic_results["4"]["human"] = ["-"] * 4
+        all_model_types = self._model_types["non_instruction"] + self._model_types["instruction"] + ["clip"]
+        all_basic_results = {prompt: {model: None} for model, prompt in product(*[all_model_types, self._prompt_types])}
+        all_rule_results = {prompt: {model: None} for model, prompt in product(*[all_model_types, self._prompt_types])}
 
-        # for model, prompt in product(*[all_model_types, self._prompt_types]):
-        #     if model == "mistral-7b" and (prompt == "1" or prompt == "2"):
-        #         continue
-        #     basic_results, rule_results = self.generate(model, prompt, verbose=verbose)
-        #     all_basic_results[prompt][model] = basic_results
-        #     if model != "blip-2_opt-2.7b" and model != "blip-2_opt-6.7b" and model != "instructblip" and model != "mistral-7b":
-        #         all_rule_results[prompt][model] = rule_results
+        all_basic_results["1"]["mistral-7b"] = ["-"] * 4
+        all_basic_results["2"]["mistral-7b"] = ["-"] * 4
+        all_basic_results["1"]["human"] = ["-"] * 4
+        all_basic_results["3"]["human"] = ["-"] * 4
+        all_basic_results["4"]["human"] = ["-"] * 4
 
-        # print(self.generate("clip", prompt_type="N/A"))
+        for model, prompt in product(*[all_model_types, self._prompt_types]):
+            if model == "mistral-7b" and (prompt == "1" or prompt == "2"):
+                continue
+            basic_results, rule_results = self.generate(model, prompt, verbose=verbose)
+            all_basic_results[prompt][model] = basic_results
+            if model != "blip-2_opt-2.7b" and model != "blip-2_opt-6.7b" and model != "instructblip" and model != "mistral-7b":
+                all_rule_results[prompt][model] = rule_results
 
-        print(self.generate("belief_graphs_gpt-4o", prompt_type="N/A"))
-        print(self.generate("belief_graphs_gpt-4o-mini", prompt_type="N/A"))
+        print(self.generate("clip", prompt_type="N/A"))
 
-        # human_results = []
-        # n_icon_puzzles, n_non_icon_puzzles = 0, 0
-        # for file_path in glob.glob(f"{self.results_dir}/human/*"):
-        #     with open(file_path, "r") as file:
-        #         results = json.load(file)
-        #     for result in results:
-        #         self._standardize_general_result(result)
-        #         img = os.path.basename(result["image"]).split(".")[0]
-        #         node_attrs = get_node_attributes(self._graph_answer_pairs[img])
-        #         contains_icons = sum([1 if "icon" in attr else 0 for attr in node_attrs.values()]) > 0
-        #         if contains_icons:
-        #             n_icon_puzzles += 1
-        #         else:
-        #             n_non_icon_puzzles += 1
-        #     human_results = self.analyze_basic(results)
-        # all_basic_results["2"]["human"] = human_results
-        #
-        # table_prompt_2, table_all_prompts, table_rules_per_prompt = self.analyze_overall(all_basic_results,
-        #                                                                                  all_rule_results, verbose=True)
-        #
-        # if verbose:
-        #     print("\nMain table (accuracy per model for prompt 2)")
-        #     print(table_prompt_2)
-        #     print("\nAccuracy per prompt for each model")
-        #     print(table_all_prompts)
-        #     print("\nPercentage of puzzles solved including a specified rule (Individual + Relational + Modifier)")
-        #     print(table_rules_per_prompt)
-        #
-        # self._visualize(table_prompt_2, table_all_prompts, table_rules_per_prompt)
+        # print(self.generate("belief_graphs_gpt-4o", prompt_type="N/A"))
+        # print(self.generate("belief_graphs_gpt-4o-mini", prompt_type="N/A"))
+
+        human_results = []
+        n_icon_puzzles, n_non_icon_puzzles = 0, 0
+        for file_path in glob.glob(f"{self.results_dir}/human/*"):
+            with open(file_path, "r") as file:
+                results = json.load(file)
+            for result in results:
+                self._standardize_general_result(result)
+                img = os.path.basename(result["image"]).split(".")[0]
+                node_attrs = get_node_attributes(self._graph_answer_pairs[img])
+                contains_icons = sum([1 if "icon" in attr else 0 for attr in node_attrs.values()]) > 0
+                if contains_icons:
+                    n_icon_puzzles += 1
+                else:
+                    n_non_icon_puzzles += 1
+            human_results = self.analyze_basic(results)
+        all_basic_results["2"]["human"] = human_results
+
+        table_prompt_2, table_all_prompts, table_rules_per_prompt = self.analyze_overall(all_basic_results,
+                                                                                         all_rule_results, verbose=True)
+
+        if verbose:
+            print("\nMain table (accuracy per model for prompt 2)")
+            print(table_prompt_2)
+            print("\nAccuracy per prompt for each model")
+            print(table_all_prompts)
+            print("\nPercentage of puzzles solved including a specified rule (Individual + Relational + Modifier)")
+            print(table_rules_per_prompt)
+
+        self._visualize(table_prompt_2, table_all_prompts, table_rules_per_prompt)
 
     def generate(self, model_type, prompt_type, mistral_type=None, verbose=False):
         if model_type == "clip" or model_type == "belief_graphs_gpt-4o-mini" or model_type == "belief_graphs_gpt-4o":

@@ -4,7 +4,7 @@ import itertools
 import os
 import inflect
 
-from graphs.Prompter import Prompter
+from graphs.GPTPrompter import Prompter
 from graphs.BeliefGraph import BeliefGraph
 
 p = inflect.engine()

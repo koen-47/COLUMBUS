@@ -7,15 +7,15 @@ from graphs.BeliefGraphGenerator import BeliefGraphGenerator
 from graphs.BeliefGraphReasoner import BeliefGraphReasoner
 from puzzles.Benchmark import Benchmark
 
-seed = 43
+seed = 105
 random.seed(seed)
 
-n_puzzles = 10
+n_puzzles = 1
 benchmark = Benchmark()
 puzzles = random.sample(benchmark.get_puzzles(), n_puzzles)
 model = "gpt-4o"
 max_depth = 1
-n_examples = 1
+n_examples = 2
 verbose = False
 
 hyperparameters = {
@@ -43,25 +43,25 @@ for puzzle in tqdm(puzzles, desc="Running belief graphs"):
     graph, _ = reasoner.fix_graph(graph, verbose=verbose)
     orig_hypotheses = graph.get_original_hypotheses()
     answer_csp = graph.get_answer()
-
     puzzle["output"] = answer_csp
 
+    print(graph)
     print(f"\nOptions:", options)
     print("Correct:", puzzle["correct"])
     print("Answer:", answer_csp)
 
 
-with open(f"../results/analysis/results_v3/belief_graphs_{model}_v8.json", "w") as file:
-    metadata = {
-        "experiment": "Belief Graphs",
-        "model": model,
-        "seed": seed,
-        "max_depth": max_depth,
-        "n_puzzles": n_puzzles,
-        "hyperparameters": hyperparameters
-    }
-
-    json.dump({
-        "metadata": metadata,
-        "results": puzzles
-    }, file, indent=3)
+# with open(f"../results/analysis/results_v3/belief_graphs_{model}_v8.json", "w") as file:
+#     metadata = {
+#         "experiment": "Belief Graphs",
+#         "model": model,
+#         "seed": seed,
+#         "max_depth": max_depth,
+#         "n_puzzles": n_puzzles,
+#         "hyperparameters": hyperparameters
+#     }
+#
+#     json.dump({
+#         "metadata": metadata,
+#         "results": puzzles
+#     }, file, indent=3)

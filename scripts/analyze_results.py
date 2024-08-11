@@ -10,21 +10,18 @@ import pylab
 
 
 def analyze_new_results():
-    prompt_1 = np.array([18.0, 24.67, 54.67, 29.0, 45.33, 25.67, 51.33, 55.33])
-    prompt_2 = np.array([49.33, 21.33, 24.33, 58.33, 29.67, 44.0, 45.67, 48.0, 50.67, 50.0])
-    prompt_3 = np.array([25.33, 24.67, 80.67, 38.33, 48.0, 57.0, 59.0, 64.00])
-    prompt_4 = np.array([25.0, 24.0, 80.0, 36.67, 47.0, 56.33, 59.67, 63.00])
+    prompt_1 = np.array([24.8, 22.4, 25.0, 50.6, 57.8, 64.9, 63.2, 59.9])
+    prompt_2 = np.array([21.8, 24.1, 23.8, 51.3, 57.8, 68.2, 58.0, 59.3])
+    prompt_3 = np.array([18.8, 22.9, 43.0, 42.8, 68.0, 85.1, 71.0, 64.0, 72.3])
+    prompt_4 = np.array([21.5, 23.8, 45.6, 41.9, 68.2, 85.0, 71.2, 64.0, 76.7])
 
-    prompt_1_icon = np.array([23.0, 21.45, 67.18, 34.11, 54.26, 40.83, 57.36, 60.98])
-    prompt_2_icon = np.array([52.71, 24.03, 23.36, 73.13, 35.4, 51.94, 56.07, 58.4, 54.01, 68.99])
-    prompt_3_icon = np.array([21.45, 23.26, 90.18, 42.89, 56.33, 62.79, 65.63, 69.25])
-    prompt_4_icon = np.array([24.55, 24.29, 90.96, 41.6, 49.35, 58.91, 62.53, 70.28])
+    prompt_1_icon = np.array([23.0, 26.0, 25.0, 51.6, 68.9, 67.0, 61.4, 59.5])
+    prompt_2_icon = np.array([24.3, 25.7, 22.2, 51.4, 64.3, 72.2, 58.9, 60.3])
+    prompt_3_icon = np.array([17.0, 22.4, 47.3, 38.4, 73.2, 91.6, 69.4, 64.1, 76.8])
+    prompt_4_icon = np.array([21.4, 21.1, 49.2, 39.2, 72.7, 90.8, 69.2, 64.9, 77.6])
 
-    prompt_2_small = np.array([21.33, 24.33, 58.33, 29.67, 44.0, 45.67, 48.0, 50.67])
-    prompt_2_small_icon = np.array([24.03, 23.36, 73.13, 35.4, 51.94, 56.07, 58.4, 54.01])
-
-    print(prompt_2.mean())
-    print(prompt_2_icon.mean())
+    prompt_2_small = np.array([21.8, 23.8, 57.8, 68.2, 58.0, 59.3])
+    prompt_2_small_icon = np.array([24.3, 22.2, 64.3, 72.2, 58.9, 60.3])
 
     def calculate_avg_diff(arr_1, arr_2):
         return np.array([np.absolute(x1 - x2) for x1, x2 in zip(arr_1, arr_2)]).mean()
@@ -32,6 +29,9 @@ def analyze_new_results():
     def generate_qqplot(arr):
         sm.qqplot(arr, line="45")
         pylab.show()
+
+    print(prompt_2.mean())
+    print(prompt_2_icon.mean())
 
     avg_diff_prompt_1_2_small = calculate_avg_diff(prompt_1, prompt_2_small)
     avg_diff_prompt_2_3 = calculate_avg_diff(prompt_2, prompt_3)
@@ -47,41 +47,26 @@ def analyze_new_results():
     avg_diff_prompt_3_3_icon = calculate_avg_diff(prompt_3, prompt_3_icon)
     avg_diff_prompt_4_4_icon = calculate_avg_diff(prompt_4, prompt_4_icon)
 
-    print(avg_diff_prompt_1_2_small, avg_diff_prompt_1_2_small_icon)
-    print(f"Diff prompt 2 vs. prompt 2 icon:", avg_diff_prompt_2_2_icon)
-    print(avg_diff_prompt_2_3_small, avg_diff_prompt_2_3_small_icon)
-    print(avg_diff_prompt_2_3, avg_diff_prompt_2_3_icon)
-    print(avg_diff_prompt_3_4, avg_diff_prompt_3_4_icon)
-    print(f"icon presence: {avg_diff_prompt_3_3_icon}, {avg_diff_prompt_4_4_icon}")
-    print(f"icon presence diff: {avg_diff_prompt_2_3 - avg_diff_prompt_2_3_icon}")
+    print(f"Diff. prompt 1 and 2 (small):", avg_diff_prompt_1_2_small, avg_diff_prompt_1_2_small_icon)
+    print(f"Diff. prompt 2 vs. prompt 2 icon:", avg_diff_prompt_2_2_icon)
+    print(f"Diff. prompt 2 and 3 (small):", avg_diff_prompt_2_3_small, avg_diff_prompt_2_3_small_icon)
+    print(f"Diff. prompt 2 and 3:", avg_diff_prompt_2_3, avg_diff_prompt_2_3_icon)
+    print(f"Diff. prompt 3 and 4:", avg_diff_prompt_3_4, avg_diff_prompt_3_4_icon)
+    print(f"Diff. prompt 3 (icon vs. no icon):", avg_diff_prompt_3_3_icon)
+    print(f"Diff. prompt 4 (icon vs. no icon):", avg_diff_prompt_4_4_icon)
+    print(f"Diff. prompt 2 and 3 (icon vs. no icon) {avg_diff_prompt_2_3 - avg_diff_prompt_2_3_icon}")
 
-    # generate_qqplot(np.absolute(prompt_3 - prompt_1))
-    # generate_qqplot(np.absolute(prompt_4 - prompt_3))
-    # generate_qqplot(np.absolute(prompt_3_icon - prompt_1_icon))
-    # generate_qqplot(np.absolute(prompt_4_icon - prompt_3_icon))
+    # print(wilcoxon(prompt_1, prompt_2_small))
+    # print(wilcoxon(prompt_1_icon, prompt_2_small_icon))
+    # print(wilcoxon(prompt_2_small, prompt_3))
+    # print(wilcoxon(prompt_2_small_icon, prompt_3_icon))
+    # print(wilcoxon(prompt_3, prompt_4))
+    # print(wilcoxon(prompt_3_icon, prompt_4_icon))
+    # print("Wilcoxon prompt 2 vs prompt 2 icon:", wilcoxon(prompt_2, prompt_2_icon))
 
-    print(wilcoxon(prompt_1, prompt_2_small))
-    print(wilcoxon(prompt_1_icon, prompt_2_small_icon))
-    print(wilcoxon(prompt_2_small, prompt_3))
-    print(wilcoxon(prompt_2_small_icon, prompt_3_icon))
-    print(wilcoxon(prompt_3, prompt_4))
-    print(wilcoxon(prompt_3_icon, prompt_4_icon))
-    print("Wilcoxon prompt 2 vs prompt 2 icon:", wilcoxon(prompt_2, prompt_2_icon))
-
-    individual_prompt_1 = np.array([39.68, 52.86, 27.14, 45.06, 30.95, 46.82, 51.19, 30.77, 59.82, 38.35])
     individual_prompt_2 = np.array([36.51, 52.14, 23.57, 43.96, 51.19, 44.44, 46.43, 36.26, 62.50, 42.11])
-    individual_prompt_3 = np.array([52.91, 65.71, 45.00, 47.25, 47.62, 41.27, 57.14, 39.56, 61.61, 53.38])
-    individual_prompt_4 = np.array([56.08, 65.71, 41.43, 47.25, 46.43, 43.65, 55.95, 41.76, 63.39, 52.63])
-
-    relational_prompt_1 = np.array([60.23, 44.72, 64.28, 61.43])
     relational_prompt_2 = np.array([62.16, 40.37, 60.99, 74.29])
-    relational_prompt_3 = np.array([63.19, 55.28, 61.54, 60.00])
-    relational_prompt_4 = np.array([61.52, 54.04, 54.40, 64.29])
-
-    modifier_prompt_1 = np.array([52.44, 50.59, 45.64])
     modifier_prompt_2 = np.array([55.04, 51.64, 54.01])
-    modifier_prompt_3 = np.array([57.31, 50.33, 53.66])
-    modifier_prompt_4 = np.array([56.05, 50.06, 54.01])
 
     print("Non-icon statistics")
     # print(np.array([individual_prompt_1.mean() - relational_prompt_1.mean(),

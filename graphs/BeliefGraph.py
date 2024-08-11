@@ -126,17 +126,21 @@ class BeliefGraph(nx.DiGraph):
             if node_attrs["type"] != "rule" or node_attrs["is_xor"]:
                 continue
             string += f"\nRULE NODE (id: {i + 1}, confidence: {node_attrs["confidence"]:.2f})"
-            premises = [self.nodes[premise]["statement"] for premise in node_attrs["connected_nodes"]["premises"]]
-            hypothesis = self.nodes[node_attrs["connected_nodes"]["hypothesis"][0]]["statement"]
-            string += "\n\tPremises:\n" + "\n".join([f"\t\t- {statement}" for statement in premises])
-            string += f"\n\tHypothesis:\n\t\t- {hypothesis}\n"
+            premise_nodes = [(premise, self.nodes[premise]) for premise in node_attrs["connected_nodes"]["premises"]]
+            premises = [(node_id, node["statement"], node["value"], node["confidence"]) for node_id, node in premise_nodes]
+            hypothesis_node = self.nodes[node_attrs["connected_nodes"]["hypothesis"][0]]
+            hypothesis = (node_attrs["connected_nodes"]["hypothesis"][0], hypothesis_node["statement"], hypothesis_node["value"], hypothesis_node["confidence"])
+            string += "\n\tPremises:\n" + "\n".join([f"\t\t- (node: {statement[0]}, {statement[2]}, conf. {float(statement[3]):.2f}) {statement[1]}" for statement in premises])
+            string += f"\n\tHypothesis:\n\t\t- (node: {hypothesis[0]}, {hypothesis[2]}, conf. {float(hypothesis[3]):.2f}) {hypothesis[1]}\n"
 
         for i, node in enumerate(self.nodes):
             node_attrs = self.nodes[node]
             if node_attrs["type"] != "rule" or not node_attrs["is_xor"]:
                 continue
-            statements = [self.nodes[statement]["statement"] for statement in node_attrs["connected_nodes"]]
+            statement_nodes = [self.nodes[statement] for statement in node_attrs["connected_nodes"]]
+            statements = [(node, node["statement"], node["value"], node["confidence"]) for node in statement_nodes]
             string += f"\nXOR RULE NODE (id: {i + 1}, confidence: {node_attrs["confidence"]:.2f})"
-            string += f"\n\t- {statements[0]}\n\t- {statements[1]}\n"
+            string += f"\n\t- (node: {statements[0][0]}, {statements[0][2]}, conf. {float(statements[0][3]):.2f}) {statements[0][1]}\n"
+            string += f"\n\t- (node: {statements[1][0]}, {statements[1][2]}, conf. {float(statements[1][3]):.2f}) {statements[1][1]}\n"
 
         return string
