@@ -13,9 +13,9 @@ random.seed(seed)
 n_puzzles = 1
 benchmark = Benchmark()
 puzzles = random.sample(benchmark.get_puzzles(), n_puzzles)
-model = "gpt-4o"
+model = "gemini-1.5-pro"
 max_depth = 1
-n_examples = 2
+n_examples = 0
 verbose = False
 
 hyperparameters = {
@@ -37,18 +37,17 @@ for puzzle in tqdm(puzzles, desc="Running belief graphs"):
     generator = BeliefGraphGenerator(image, n_examples, options, hyperparameters,
                                      max_depth=max_depth, model=model)
     graph = generator.generate_graph()
-
-    reasoner = BeliefGraphReasoner(hyperparameters)
-
-    graph, _ = reasoner.fix_graph(graph, verbose=verbose)
-    orig_hypotheses = graph.get_original_hypotheses()
-    answer_csp = graph.get_answer()
-    puzzle["output"] = answer_csp
-
     print(graph)
-    print(f"\nOptions:", options)
-    print("Correct:", puzzle["correct"])
-    print("Answer:", answer_csp)
+
+    # reasoner = BeliefGraphReasoner(hyperparameters)
+    # graph, _ = reasoner.fix_graph(graph, verbose=verbose)
+    # orig_hypotheses = graph.get_original_hypotheses()
+    # answer_csp = graph.get_answer()
+    # puzzle["output"] = answer_csp
+
+    # print(f"\nOptions:", options)
+    # print("Correct:", puzzle["correct"])
+    # print("Answer:", answer_csp)
 
 
 # with open(f"../results/analysis/results_v3/belief_graphs_{model}_v8.json", "w") as file:

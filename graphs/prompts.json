@@ -5,7 +5,11 @@
             "preprompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking.",
             "generate_premises": "{} You are also given the hypothesis: \"{}\". In relation to the given puzzle, explain this hypothesis with a 2-step reasoning chain. Keep your response concise and direct and respond in the following format:\n- [premise 1]\n- [premise 2]\n- etc.",
             "score_statement": "{} Based on the given puzzle, is the following statement true or false (respond with only either true or false): {}",
-            "score_rule": "{} You are also given a set of premises and a hypothesis. Based on the given puzzle, do you think the following premises accurately explain the following hypothesis? Respond with either true or false. \n\nPremise: {}\nHypothesis: {}"
+            "score_rule": "{} You are also given a set of premises and a hypothesis. Based on the given puzzle, do you think the following premises accurately explain the following hypothesis? Respond with either true or false. \n\nPremise: {}\nHypothesis: {}",
+            "gemini": {
+                "score_statement": "{} Based on the given puzzle, give your confidence (probability between 0 and 1) that the following statement is {} (only respond with the confidence value): {}\",",
+                "score_rule": "{} You are also given a set of premises and a hypothesis. Based on the given puzzle, give a confidence (probability between 0 and 1) that the following premises accurately explain the following hypothesis (only respond with the confidence value). \n\nPremise: {}\nHypothesis: {}"
+            }
         },
         "few_shot": {
             "preprompt": {
