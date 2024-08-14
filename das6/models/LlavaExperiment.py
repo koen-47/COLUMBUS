@@ -131,11 +131,9 @@ class LlavaExperiment(ModelExperiment):
 
             puzzle["output"] = "".join(output)
 
-            with open(f"{save_dir}/{'_'.join(self.name.lower().split())}-api__prompt_{self.prompt_type}.json",
+            with open(f"{save_dir}/{'_'.join(self.name.lower().split())}-api_prompt_{self.prompt_type}.json",
                       "w+") as file:
                 json.dump({
                     "metadata": metadata,
                     "results": puzzles
                 }, file, indent=3)
-
-            break
