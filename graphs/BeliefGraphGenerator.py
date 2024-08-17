@@ -64,23 +64,24 @@ class BeliefGraphGenerator:
 
     def _generate_premise_from_hypothesis(self, hypothesis):
         premises = self._prompter.generate_premise_from_hypothesis(hypothesis)
-        premises = [" ".join(premise.split(" ")[1:]) for premise in premises.split("\n")]
+        premises = [" ".join(premise.split(" ")[1:]).strip() for premise in premises.split("\n")]
+        premises = [premise for premise in premises if premise != ""]
+        print(f"Premises:\n{premises}")
         return premises
 
     def _score_statement(self, statement):
         value, prob = self._prompter.score_statement(statement)
-        # print(value, prob)
-        prob = 10 ** float(prob)
         prob = math.exp(self._hyperparameters["k"] * (prob - 1))
+        print(f"Score statement:", value, prob)
         return value, prob
 
     def _generate_negated_statement(self, statement):
         negated = self._prompter.generate_negated_statement(statement)
+        print("Negated:", negated)
         return negated
 
     def _score_rule(self, premises, hypothesis, is_xor=False, is_mc=False):
         prob = self._prompter.score_rule(premises, hypothesis)
-        prob = 10 ** float(prob)
 
         k_type = self._hyperparameters["k_entailer"]
         if is_xor:
@@ -95,4 +96,5 @@ class BeliefGraphGenerator:
             t_type = self._hyperparameters["t_mc"]
 
         prob = t_type * math.exp(k_type * (prob - 1))
+        print("Score rule:", prob)
         return prob

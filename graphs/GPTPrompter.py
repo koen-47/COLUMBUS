@@ -124,6 +124,7 @@ class GPTPrompter:
         content = response["choices"][0]["logprobs"]["content"][0]
         prob = content["logprob"]
         value = content["token"]
+        prob = 10 ** float(prob)
         return value, prob
 
     def generate_premise_from_hypothesis(self, hypothesis):
@@ -163,4 +164,5 @@ class GPTPrompter:
         response = self.send_prompt(text, image_paths=self._images, max_tokens=1)
         content = response["choices"][0]["logprobs"]["content"][0]
         prob = content["logprob"]
+        prob = 10 ** float(prob)
         return prob

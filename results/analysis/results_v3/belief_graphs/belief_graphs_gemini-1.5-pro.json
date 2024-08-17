@@ -1,0 +1,193 @@
+{
+   "metadata": {
+      "experiment": "Belief Graphs",
+      "model": "gemini-1.5-pro",
+      "seed": 43,
+      "max_depth": 1,
+      "n_puzzles": 10,
+      "hyperparameters": {
+         "k": 9,
+         "k_entailer": 36,
+         "k_xor": 30,
+         "k_mc": 9,
+         "t_entailer": 1.02,
+         "t_xor": 1.1,
+         "t_mc": 0.98,
+         "m_xor": 0.3,
+         "c_xor": 1.0,
+         "c_mc": 1.0
+      }
+   },
+   "results": [
+      {
+         "options": {
+            "A": "jet set",
+            "B": "jumbo jet",
+            "C": "jetliners",
+            "D": "jet-setter"
+         },
+         "correct": {
+            "B": "jumbo jet"
+         },
+         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\jumbo_jet.png",
+         "metadata": {
+            "nodes": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n",
+            "nodes_and_edges": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n"
+         },
+         "output": "jetliners"
+      },
+      {
+         "options": {
+            "A": "easy on the eye",
+            "B": "hard on the eyes",
+            "C": "take one's eyes off",
+            "D": "easy on the eyes"
+         },
+         "correct": {
+            "D": "easy on the eyes"
+         },
+         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\easy_on_the_eyes_2_icon.png",
+         "metadata": {
+            "nodes": "Node 1: {'text': 'EZ', 'repeat': 1, 'sound': {'easy': 'ez'}}\nNode 2: {'text': 'IIII', 'repeat': 1, 'icon': {'eyes': '\ud83d\udc40'}}\nNode 1 --(ABOVE)-> Node 2\n",
+            "nodes_and_edges": "Node 1: {'text': 'EZ', 'repeat': 1, 'sound': {'easy': 'ez'}}\nNode 2: {'text': 'IIII', 'repeat': 1, 'icon': {'eyes': '\ud83d\udc40'}}\nNode 1 --(ABOVE)-> Node 2\n"
+         },
+         "output": "easy on the eye"
+      },
+      {
+         "options": {
+            "A": "golden handshake",
+            "B": "green handshake",
+            "C": "handshake",
+            "D": "handshaking"
+         },
+         "correct": {
+            "B": "green handshake"
+         },
+         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\green_handshake_1_non-icon.png",
+         "metadata": {
+            "nodes": "Node 1: {'text': 'HANDSHAKE', 'color': 'green', 'repeat': 1}\n",
+            "nodes_and_edges": "Node 1: {'text': 'HANDSHAKE', 'color': 'green', 'repeat': 1}\n"
+         },
+         "output": "green handshake"
+      },
+      {
+         "options": {
+            "A": "run wild",
+            "B": "walk on the wild side",
+            "C": "call of the wild",
+            "D": "go wild"
+         },
+         "correct": {
+            "B": "walk on the wild side"
+         },
+         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\walk_on_the_wild_side_icon.png",
+         "metadata": {
+            "nodes": "Node 1: {'text': 'WALK', 'repeat': 1, 'icon': {'walk': '\ud83d\udeb6'}}\nNode 2: {'text': 'WILD', 'repeat': 1}\nNode 3: {'text': 'SIDE', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n",
+            "nodes_and_edges": "Node 1: {'text': 'WALK', 'repeat': 1, 'icon': {'walk': '\ud83d\udeb6'}}\nNode 2: {'text': 'WILD', 'repeat': 1}\nNode 3: {'text': 'SIDE', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n"
+         },
+         "output": "run wild"
+      },
+      {
+         "options": {
+            "A": "of a piece",
+            "B": "small piece of the puzzle",
+            "C": "piece of cake",
+            "D": "a piece of cake"
+         },
+         "correct": {
+            "B": "small piece of the puzzle"
+         },
+         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\small_piece_of_the_puzzle_non-icon.png",
+         "metadata": {
+            "nodes": "Node 1: {'text': 'PIECE', 'repeat': 1, 'size': 'small'}\nNode 2: {'text': 'PUZZLE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
+            "nodes_and_edges": "Node 1: {'text': 'PIECE', 'repeat': 1, 'size': 'small'}\nNode 2: {'text': 'PUZZLE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
+         },
+         "output": "of a piece"
+      },
+      {
+         "options": {
+            "A": "run on",
+            "B": "run with",
+            "C": "dummy run",
+            "D": "run on empty"
+         },
+         "correct": {
+            "D": "run on empty"
+         },
+         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\run_on_empty_non-icon.png",
+         "metadata": {
+            "nodes": "Node 1: {'text': 'RUN', 'repeat': 1}\nNode 2: {'text': 'EMPTY', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\n",
+            "nodes_and_edges": "Node 1: {'text': 'RUN', 'repeat': 1}\nNode 2: {'text': 'EMPTY', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\n"
+         },
+         "output": "dummy run"
+      },
+      {
+         "options": {
+            "A": "pit against",
+            "B": "turn against",
+            "C": "up against",
+            "D": "tell against"
+         },
+         "correct": {
+            "C": "up against"
+         },
+         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\up_against_1.png",
+         "metadata": {
+            "nodes": "Node 1: {'text': 'AGAINST', 'repeat': 1, 'direction': 'up'}\n",
+            "nodes_and_edges": "Node 1: {'text': 'AGAINST', 'repeat': 1, 'direction': 'up'}\n"
+         },
+         "output": "turn against"
+      },
+      {
+         "options": {
+            "A": "midribs",
+            "B": "midpoint",
+            "C": "midafternoon",
+            "D": "midrib"
+         },
+         "correct": {
+            "C": "midafternoon"
+         },
+         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\midafternoon.png",
+         "metadata": {
+            "nodes": "Node 1: {'text': 'AFTERNOON', 'repeat': 1, 'highlight': 'middle'}\n",
+            "nodes_and_edges": "Node 1: {'text': 'AFTERNOON', 'repeat': 1, 'highlight': 'middle'}\n"
+         },
+         "output": "midribs"
+      },
+      {
+         "options": {
+            "A": "piece of the pie",
+            "B": "finger in the pie",
+            "C": "have one's fingers in many pies",
+            "D": "the finger"
+         },
+         "correct": {
+            "B": "finger in the pie"
+         },
+         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\finger_in_the_pie_icon.png",
+         "metadata": {
+            "nodes": "Node 1: {'text': 'FINGER', 'repeat': 1}\nNode 2: {'text': 'PIE', 'repeat': 1, 'icon': {'pie': '\ud83e\udd67'}}\nNode 1 --(INSIDE)-> Node 2\n",
+            "nodes_and_edges": "Node 1: {'text': 'FINGER', 'repeat': 1}\nNode 2: {'text': 'PIE', 'repeat': 1, 'icon': {'pie': '\ud83e\udd67'}}\nNode 1 --(INSIDE)-> Node 2\n"
+         },
+         "output": "piece of the pie"
+      },
+      {
+         "options": {
+            "A": "backwater",
+            "B": "back office",
+            "C": "backroom",
+            "D": "back door"
+         },
+         "correct": {
+            "B": "back office"
+         },
+         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\back_office.png",
+         "metadata": {
+            "nodes": "Node 1: {'text': 'OFFICE', 'repeat': 1, 'direction': 'reverse'}\n",
+            "nodes_and_edges": "Node 1: {'text': 'OFFICE', 'repeat': 1, 'direction': 'reverse'}\n"
+         },
+         "output": "back office"
+      }
+   ]
+}

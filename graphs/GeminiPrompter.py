@@ -1,5 +1,6 @@
 import json
 import time
+import re
 
 import google.generativeai as genai
 import PIL.Image
@@ -67,12 +68,16 @@ class GeminiPrompter:
         prompt_template = self._prompts["prompt_templates"]["zero_shot"]["score_statement"]
         text_value = prompt_template.format(*[self._preprompt, statement])
         response = self.send_prompt(text_value, image_paths=self._images, max_tokens=1)
-        value = response.text
+        value = response.text.lower()
 
         prompt_template = self._prompts["prompt_templates"]["zero_shot"]["gemini"]["score_statement"]
         text_prob = prompt_template.format(*[self._preprompt, value.lower(), statement])
-        response = self.send_prompt(text_prob, image_paths=self._images, max_tokens=3)
-        prob = float(response.text)
+        response = self.send_prompt(text_prob, image_paths=self._images, max_tokens=5)
+        prob = re.findall(r"[-+]?\d*\.\d+", response.text)
+        if len(prob) > 0:
+            prob = float(prob[0])
+        else:
+            prob = 0.
 
         return value, prob
 
@@ -93,7 +98,10 @@ class GeminiPrompter:
         premises_text = "".join([f"\n- {premise}" for premise in premises if premise != ""])
         prompt_template = self._prompts["prompt_templates"]["zero_shot"]["gemini"]["score_rule"]
         text = prompt_template.format(*[self._preprompt, premises_text, hypothesis])
-        response = self.send_prompt(text, image_paths=self._images, max_tokens=3)
-        # print(response.text)
-        return response.text
-
+        response = self.send_prompt(text, image_paths=self._images, max_tokens=5)
+        prob = re.findall(r"[-+]?\d*\.\d+", response.text)
+        if len(prob) > 0:
+            prob = float(prob[0])
+        else:
+            prob = 0.
+        return prob
