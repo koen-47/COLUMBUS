@@ -115,8 +115,12 @@ class PuzzleAnalysisReport:
         graphs_no_icons, graphs_icons = {}, {}
         answers_no_icons, answers_icons = [], []
         for answer, graph in graphs.items():
+            if answer.endswith("icon") or answer.endswith("non-icon"):
+                answer = "_".join(answer.split("_")[:-1])
             answer_ = " ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(
                 answer.split("_"))
+            if answer_.endswith("icon") or answer_.endswith("non-icon"):
+                answer_ = " ".join(answer_.split()[:-1])
             contains_icons = sum([1 if "icon" in attr else 0 for attr in get_node_attributes(graph).values()]) > 0
             if contains_icons:
                 graphs_icons[answer] = graph
@@ -157,7 +161,7 @@ class PuzzleAnalysisReport:
         with open("./saved/distractors_v3.json", "r") as file:
             answer_to_distractors = json.load(file)
 
-            visible_to_distractor = {}
+            visible_to_distractor = []
             for answer, distractors in answer_to_distractors.items():
                 visible_words = []
                 node_attrs = get_node_attributes(graphs[answer])
@@ -168,8 +172,11 @@ class PuzzleAnalysisReport:
                         word = list(attr["icon"].keys())[0]
                     visible_words.append(word)
                 visible_words = " ".join(visible_words)
-                visible_to_distractor[visible_words] = {"distractors": answer_to_distractors[answer],
-                                                        "contains_icon": contains_icons}
+                visible_to_distractor.append({
+                    "visible_words": visible_words,
+                    "distractors": answer_to_distractors[answer],
+                    "contains_icon": contains_icons,
+                })
 
             compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in
                          pd.read_csv("./saved/ladec_raw_small.csv").iterrows()}
@@ -177,41 +184,53 @@ class PuzzleAnalysisReport:
                                 pd.read_csv("./saved/custom_compounds.csv").iterrows()}
             compounds.update(custom_compounds)
 
-            for visible, distractors in visible_to_distractor.items():
-                visible_to_distractor[visible]["distractors"] = [
-                    compounds[distractor] if distractor in compounds else distractor
-                    for distractor in distractors["distractors"]]
+            for puzzle in visible_to_distractor:
+                for i, distractor in enumerate(puzzle["distractors"]):
+                    if distractor in compounds:
+                        puzzle["distractors"][i] = compounds[distractor]
 
-            for visible, distractors in visible_to_distractor.items():
+                # visible_to_distractor[visible]["distractors"] = [
+                #     compounds[distractor] if distractor in compounds else distractor
+                #     for distractor in distractors["distractors"]]
+
+            for puzzle in visible_to_distractor:
                 word_overlaps = []
-                for distractor in distractors["distractors"]:
+                visible = puzzle["visible_words"]
+                for distractor in puzzle["distractors"]:
                     visible_set, distractor_set = set(visible.split()), set(distractor.split())
                     overlap = len(visible_set.intersection(distractor_set))
                     word_overlaps.append(overlap)
                 word_overlaps = np.array(word_overlaps).sum()
-                visible_to_distractor[visible]["word_overlap"] = word_overlaps
+                puzzle["word_overlap"] = word_overlaps
+
+            # avg_visible_word_overlap = np.array([distractors["word_overlap"] for distractors in
+                                                 # visible_to_distractor.values()]).mean()
 
             avg_visible_word_overlap = np.array([distractors["word_overlap"] for distractors in
-                                                      visible_to_distractor.values()]).mean()
+                                                 visible_to_distractor]).mean()
 
             pct_contains_visible = np.array([1 if distractors["word_overlap"] > 0 else 0 for distractors
-                                                  in visible_to_distractor.values()]).sum() / len(visible_to_distractor)
+                                             in visible_to_distractor]).sum() / len(visible_to_distractor)
 
             avg_visible_word_overlap_no_icon = np.array([distractors["word_overlap"] for distractors in
-                                                         visible_to_distractor.values() if not
+                                                         visible_to_distractor if not
                                                          distractors["contains_icon"]]).mean()
 
             pct_contains_visible_no_icon = np.array([1 if distractors["word_overlap"] > 0 else 0 for
-                                                     distractors in visible_to_distractor.values() if
+                                                     distractors in visible_to_distractor if
                                                      not distractors["contains_icon"]]).sum() / len(graphs_no_icons)
 
             avg_visible_word_overlap_icon = np.array([distractors["word_overlap"] for distractors in
-                                                      visible_to_distractor.values() if
+                                                      visible_to_distractor if
                                                       distractors["contains_icon"]]).mean()
 
             pct_contains_visible_icon = np.array([1 if distractors["word_overlap"] > 0 else 0 for distractors
-                                                  in visible_to_distractor.values() if
+                                                  in visible_to_distractor if
                                                   distractors["contains_icon"]]).sum() / len(graphs_icons)
+
+            # print([distractor for distractor in visible_to_distractor.values() if distractor["contains_icon"]])
+            # print(len([distractor for distractor in visible_to_distractor.values() if distractor["contains_icon"]]))
+            # print(len(graphs_icons))
 
             print(f"Avg. visible word overlap: {avg_visible_word_overlap_no_icon}")
             print(f"% of distractors that contain at least one visible word: {pct_contains_visible_no_icon}")
@@ -225,7 +244,7 @@ class PuzzleAnalysisReport:
         print("Avg. number of nodes per graph:", avg_n_nodes)
         print("Avg. number of edges per graph", avg_n_edges)
         print(f"Avg. visible word overlap: {avg_visible_word_overlap}")
-        print(f"% of distractors that contain at least one visible word (no icons): {pct_contains_visible}")
+        print(f"% of distractors that contain at least one visible word: {pct_contains_visible}")
 
         print("\n=== BENCHMARK STATISTICS (no icons) ===")
         print("Number of puzzles (no icons):", len(graphs_no_icons))

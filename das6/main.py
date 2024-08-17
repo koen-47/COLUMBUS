@@ -50,6 +50,9 @@ def main():
     elif model == "llava-1.6-34b":
         llava_experiment = LlavaExperiment(model_type="34b", prompt_type=prompt_type)
         llava_experiment.run_on_benchmark(save_dir=save_dir)
+    elif model == "llava-1.6-34b-replicate":
+        llava_experiment = LlavaExperiment(model_type="34b", prompt_type=prompt_type)
+        llava_experiment.run_on_benchmark_api(save_dir=save_dir)
     elif model == "clip":
         clip_experiment = CLIPExperiment()
         clip_experiment.run_on_benchmark(save_dir=f"{os.path.dirname(__file__)}/results")

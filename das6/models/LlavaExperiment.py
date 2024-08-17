@@ -1,6 +1,8 @@
+import base64
 import json
 import os
 
+import replicate
 from tqdm import tqdm
 from PIL import Image
 import torch
@@ -25,7 +27,7 @@ class LlavaExperiment(ModelExperiment):
                                       "<image>\n{}\n<|im_end|><|im_start|>assistant\n"
             self.prompt = self.prompt_boilerplate.format(self.prompt_templates["base"][str(self.prompt_type)])
 
-        self._load_model()
+        # self._load_model()
 
     def _load_model(self):
         if self.model_type == "13b":
@@ -95,3 +97,43 @@ class LlavaExperiment(ModelExperiment):
             }, file, indent=3)
 
         # self.delete_downloads()
+
+    def run_on_benchmark_api(self, save_dir):
+        benchmark = Benchmark(with_metadata=True)
+        puzzles = benchmark.get_puzzles()
+
+        metadata = self.get_metadata(benchmark, save_dir)
+        print(json.dumps(metadata, indent=3))
+
+        for puzzle in tqdm(puzzles, desc=f"Prompting {self.name} (phrases)"):
+            with open(puzzle["image"], 'rb') as file:
+                data = base64.b64encode(file.read()).decode('utf-8')
+
+            image = f"data:application/octet-stream;base64,{data}"
+            options = puzzle["options"]
+            prompt_format = list(options.values())
+            if self.prompt_type == 3:
+                prompt_format = [puzzle["metadata"]["nodes"]] + list(options.values())
+            elif self.prompt_type == 4:
+                prompt_format = [puzzle["metadata"]["nodes_and_edges"]] + list(options.values())
+            prompt = self.prompt.format(*prompt_format)
+            puzzle["prompt"] = prompt
+
+            input = {
+                "image": image,
+                "prompt": prompt
+            }
+
+            output = replicate.run(
+                "yorickvp/llava-v1.6-34b:41ecfbfb261e6c1adf3ad896c9066ca98346996d7c4045c5bc944a79d430f174",
+                input=input
+            )
+
+            puzzle["output"] = "".join(output)
+
+            with open(f"{save_dir}/{'_'.join(self.name.lower().split())}-api_prompt_{self.prompt_type}.json",
+                      "w+") as file:
+                json.dump({
+                    "metadata": metadata,
+                    "results": puzzles
+                }, file, indent=3)
