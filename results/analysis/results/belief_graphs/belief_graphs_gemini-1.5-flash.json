@@ -29,7 +29,7 @@
          "correct": {
             "B": "jumbo jet"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\jumbo_jet.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\jumbo_jet.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n",
             "nodes_and_edges": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n"
@@ -46,7 +46,7 @@
          "correct": {
             "D": "easy on the eyes"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\easy_on_the_eyes_2_icon.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\easy_on_the_eyes_2_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'EZ', 'repeat': 1, 'sound': {'easy': 'ez'}}\nNode 2: {'text': 'IIII', 'repeat': 1, 'icon': {'eyes': '\ud83d\udc40'}}\nNode 1 --(ABOVE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'EZ', 'repeat': 1, 'sound': {'easy': 'ez'}}\nNode 2: {'text': 'IIII', 'repeat': 1, 'icon': {'eyes': '\ud83d\udc40'}}\nNode 1 --(ABOVE)-> Node 2\n"
@@ -63,7 +63,7 @@
          "correct": {
             "B": "green handshake"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\green_handshake_1_non-icon.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\green_handshake_1_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'HANDSHAKE', 'color': 'green', 'repeat': 1}\n",
             "nodes_and_edges": "Node 1: {'text': 'HANDSHAKE', 'color': 'green', 'repeat': 1}\n"
@@ -80,7 +80,7 @@
          "correct": {
             "B": "walk on the wild side"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\walk_on_the_wild_side_icon.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\walk_on_the_wild_side_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'WALK', 'repeat': 1, 'icon': {'walk': '\ud83d\udeb6'}}\nNode 2: {'text': 'WILD', 'repeat': 1}\nNode 3: {'text': 'SIDE', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n",
             "nodes_and_edges": "Node 1: {'text': 'WALK', 'repeat': 1, 'icon': {'walk': '\ud83d\udeb6'}}\nNode 2: {'text': 'WILD', 'repeat': 1}\nNode 3: {'text': 'SIDE', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n"
@@ -97,7 +97,7 @@
          "correct": {
             "B": "small piece of the puzzle"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\small_piece_of_the_puzzle_non-icon.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\small_piece_of_the_puzzle_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'PIECE', 'repeat': 1, 'size': 'small'}\nNode 2: {'text': 'PUZZLE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'PIECE', 'repeat': 1, 'size': 'small'}\nNode 2: {'text': 'PUZZLE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
@@ -114,7 +114,7 @@
          "correct": {
             "D": "run on empty"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\run_on_empty_non-icon.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\run_on_empty_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'RUN', 'repeat': 1}\nNode 2: {'text': 'EMPTY', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'RUN', 'repeat': 1}\nNode 2: {'text': 'EMPTY', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\n"
@@ -131,7 +131,7 @@
          "correct": {
             "C": "up against"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\up_against_1.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\up_against_1.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'AGAINST', 'repeat': 1, 'direction': 'up'}\n",
             "nodes_and_edges": "Node 1: {'text': 'AGAINST', 'repeat': 1, 'direction': 'up'}\n"
@@ -148,7 +148,7 @@
          "correct": {
             "C": "midafternoon"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\midafternoon.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\midafternoon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'AFTERNOON', 'repeat': 1, 'highlight': 'middle'}\n",
             "nodes_and_edges": "Node 1: {'text': 'AFTERNOON', 'repeat': 1, 'highlight': 'middle'}\n"
@@ -165,7 +165,7 @@
          "correct": {
             "B": "finger in the pie"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\finger_in_the_pie_icon.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\finger_in_the_pie_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'FINGER', 'repeat': 1}\nNode 2: {'text': 'PIE', 'repeat': 1, 'icon': {'pie': '\ud83e\udd67'}}\nNode 1 --(INSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'FINGER', 'repeat': 1}\nNode 2: {'text': 'PIE', 'repeat': 1, 'icon': {'pie': '\ud83e\udd67'}}\nNode 1 --(INSIDE)-> Node 2\n"
@@ -182,7 +182,7 @@
          "correct": {
             "B": "back office"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\back_office.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\back_office.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'OFFICE', 'repeat': 1, 'direction': 'reverse'}\n",
             "nodes_and_edges": "Node 1: {'text': 'OFFICE', 'repeat': 1, 'direction': 'reverse'}\n"
@@ -199,7 +199,7 @@
          "correct": {
             "B": "get out of my face"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\get_out_of_my_face_1_icon.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\get_out_of_my_face_1_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'GET', 'repeat': 1}\nNode 2: {'text': '\ud83d\ude10', 'repeat': 1, 'highlight': 'middle', 'icon': {'face': '\ud83d\ude10'}}\nNode 1 --(OUTSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'GET', 'repeat': 1}\nNode 2: {'text': '\ud83d\ude10', 'repeat': 1, 'highlight': 'middle', 'icon': {'face': '\ud83d\ude10'}}\nNode 1 --(OUTSIDE)-> Node 2\n"
@@ -216,7 +216,7 @@
          "correct": {
             "B": "before one's eyes"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\before_one's_eyes_2_non-icon.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\before_one's_eyes_2_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}, 'highlight': 'before'}\nNode 2: {'text': 'EYES', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}, 'highlight': 'before'}\nNode 2: {'text': 'EYES', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
@@ -233,7 +233,7 @@
          "correct": {
             "C": "before one's time"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\before_one's_time_1_icon.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\before_one's_time_1_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}, 'highlight': 'before'}\nNode 2: {'text': 'TIME', 'repeat': 1, 'icon': {'time': '\ud83d\udd5b'}}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}, 'highlight': 'before'}\nNode 2: {'text': 'TIME', 'repeat': 1, 'icon': {'time': '\ud83d\udd5b'}}\nNode 1 --(NEXT-TO)-> Node 2\n"
@@ -250,7 +250,7 @@
          "correct": {
             "C": "hard on the eyes"
          },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\hard_on_the_eyes_2_icon.png",
+         "image": "C:\\Users\\\\PycharmProjects\\msc-thesis\\puzzles/../results/benchmark/final_v3\\hard_on_the_eyes_2_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'HARD', 'repeat': 1}\nNode 2: {'text': 'IIII', 'repeat': 1, 'icon': {'eyes': '\ud83d\udc40'}}\nNode 1 --(ABOVE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'HARD', 'repeat': 1}\nNode 2: {'text': 'IIII', 'repeat': 1, 'icon': {'eyes': '\ud83d\udc40'}}\nNode 1 --(ABOVE)-> Node 2\n"
