@@ -71,5 +71,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-    # print(json.dumps(Benchmark().get_puzzles(), indent=3))

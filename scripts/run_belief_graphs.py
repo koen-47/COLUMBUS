@@ -1,3 +1,7 @@
+"""
+Script to run our backward chaining approach through belief graphs (see the graphs directory).
+"""
+
 import json
 import random
 
@@ -13,7 +17,7 @@ random.seed(seed)
 n_puzzles = 50
 benchmark = Benchmark()
 puzzles = random.sample(benchmark.get_puzzles(), n_puzzles)
-model = "gemini-1.5-flash"
+model = "gpt-4o"
 max_depth = 1
 n_examples = 0
 verbose = False

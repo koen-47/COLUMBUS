@@ -1,16 +1,20 @@
-import json
+"""
+File to generate a belief graph.
+"""
+
 import math
-import itertools
-import os
 import inflect
 
 from graphs.GPTPrompter import GPTPrompter
-from graphs.GeminiPrompter import GeminiPrompter
 from graphs.BeliefGraph import BeliefGraph
 
 p = inflect.engine()
 
+
 class BeliefGraphGenerator:
+    """
+    Class to generate a belief graph.
+    """
     def __init__(self, puzzle, n_examples, hypotheses, hyperparameters, max_depth=3, model="gpt-4o-mini"):
         self._images = [puzzle]
         self._n_examples = n_examples
@@ -19,12 +23,17 @@ class BeliefGraphGenerator:
         self._max_depth = max_depth
         self._hyperparameters = hyperparameters
 
+        # We only evaluate belief graphs on GPT-4o (mini) because the Gemini API does not produce token probabilities
+        # for its generated responses, which is crucial to evaluate this method fairly (see Table 2 in the paper).
         if model == "gpt-4o" or model == "gpt-4o-mini":
             self._prompter = GPTPrompter(puzzle, n_examples, model=model)
-        elif model == "gemini-1.5-flash" or model == "gemini-1.5-pro":
-            self._prompter = GeminiPrompter(puzzle, n_examples, model=model)
 
     def generate_graph(self, verbose=False):
+        """
+        Generates a belief graph (instantiated BeliefGraph object).
+        :param verbose: flag to denote if intermediate outputs will the printed.
+        :return: generated belief graph.
+        """
         graph = BeliefGraph()
         for hypothesis in self._hypotheses:
             hypothesis = self._hypothesis_template.format(hypothesis)
@@ -35,6 +44,15 @@ class BeliefGraphGenerator:
         return graph
 
     def _extend_graph(self, statement, depth, max_depth, graph):
+        """
+        Recursive function to add new nodes to the belief graph.
+
+        :param statement: string of the statement to evaluate and add.
+        :param depth: current depth of the belief graph.
+        :param max_depth: maximum depth to add new nodes in the belief graph.
+        :param graph: BeliefGraph object to add new nodes to.
+        :return: base case is to return 0 if depth >= max_depth.
+        """
         statement_value, statement_prob = self._score_statement(statement)
         graph.add_statement_node(statement, statement_value, statement_prob, is_orig=depth == 0)
 
@@ -63,24 +81,45 @@ class BeliefGraphGenerator:
             return 0
 
     def _generate_premise_from_hypothesis(self, hypothesis):
+        """
+        Call GPT-4o API to generate premises from a hypothesis.
+        :param hypothesis: string of hypothesis to generate premises for.
+        :return: a list of generated premises (strings).
+        """
         premises = self._prompter.generate_premise_from_hypothesis(hypothesis)
         premises = [" ".join(premise.split(" ")[1:]).strip() for premise in premises.split("\n")]
         premises = [premise for premise in premises if premise != ""]
-        print(f"Premises:\n{premises}")
         return premises
 
     def _score_statement(self, statement):
+        """
+        Scores a statement with the assigned truth value and confidence in this truth value.
+        :param statement: string of statement to score.
+        :return: assigned truth value and confidence in this truth value.
+        """
         value, prob = self._prompter.score_statement(statement)
         prob = math.exp(self._hyperparameters["k"] * (prob - 1))
-        print(f"Score statement:", value, prob)
         return value, prob
 
     def _generate_negated_statement(self, statement):
+        """
+        Generate a negated statement.
+        :param statement: string of statement to negate.
+        :return: a negated statement of the specified statement.
+        """
         negated = self._prompter.generate_negated_statement(statement)
-        print("Negated:", negated)
         return negated
 
     def _score_rule(self, premises, hypothesis, is_xor=False, is_mc=False):
+        """
+        Scores a rule by computing a confidence that the premises imply the hypothesis.
+
+        :param premises: list of premises (strings).
+        :param hypothesis: hypothesis (string).
+        :param is_xor: flag to denote if the rule node to score is an XOR rule node.
+        :param is_mc: flag to denote if the rule to score is a multiple-choice constraint node.
+        :return: confidence (probability) that the premises imply the hypothesis.
+        """
         prob = self._prompter.score_rule(premises, hypothesis)
 
         k_type = self._hyperparameters["k_entailer"]
@@ -96,5 +135,4 @@ class BeliefGraphGenerator:
             t_type = self._hyperparameters["t_mc"]
 
         prob = t_type * math.exp(k_type * (prob - 1))
-        print("Score rule:", prob)
         return prob

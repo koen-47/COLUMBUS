@@ -4,11 +4,17 @@ from .WebScraper import WebScraper
 
 
 class WiktionaryIdiomsWebScraper(WebScraper):
+    """
+    Class to scrape idioms and phrases on Wiktionary.
+    """
     def __init__(self):
         super().__init__()
         self._base_url = "https://en.wiktionary.org/w/index.php?title=Category:English_idioms&from=AA"
 
     def scrape(self):
+        """
+        Start scraping phrases and idioms on Wiktionary.
+        """
         soup = self.create_parser(self._base_url)
         links = soup.find("div", {"id": "mw-pages"}).find_all("a")
         idioms = []
@@ -19,6 +25,3 @@ class WiktionaryIdiomsWebScraper(WebScraper):
             idioms += [element.text for element in links[2:-2]]
         with open("wiktionary_idioms_raw.json", "w") as file:
             json.dump(idioms, file, indent=3)
-
-
-

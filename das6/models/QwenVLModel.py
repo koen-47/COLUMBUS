@@ -13,6 +13,9 @@ from data.Benchmark import Benchmark
 
 
 class QwenVLModel(ModelExperiment):
+    """
+    Class to handle Qwen-VL model experiments.
+    """
     def __init__(self, prompt_type=1):
         super().__init__(prompt_type)
         self.name = f"QwenVL"
@@ -21,6 +24,10 @@ class QwenVLModel(ModelExperiment):
         self._load_model()
 
     def _load_model(self):
+        """
+            Loads the Qwen-VL model
+        """
+
         self.tokenizer = AutoTokenizer.from_pretrained(
             "Qwen/Qwen-VL-Chat",
             cache_dir=self.models_dir,
@@ -35,6 +42,12 @@ class QwenVLModel(ModelExperiment):
         ).eval()
 
     def run_on_benchmark(self, save_dir):
+        """
+        Runs the Qwen-VL model on the benchmark and saves it to a directory. This also deletes the model files at
+        the end of the run.
+
+        :param save_dir: file path to directory where the results will be saved.
+        """
         benchmark = Benchmark(with_metadata=True)
         puzzles = benchmark.get_puzzles()
 
@@ -63,3 +76,5 @@ class QwenVLModel(ModelExperiment):
                 "metadata": metadata,
                 "results": puzzles
             }, file, indent=3)
+
+        self.delete_downloads()

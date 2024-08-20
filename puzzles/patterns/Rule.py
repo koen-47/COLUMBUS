@@ -7,38 +7,56 @@ inflect = inflect.engine()
 
 
 class Rule:
+    """
+    Class that contains the hierarchy of rules used.
+    """
     class Relational:
+        """
+        Class that contains the relational rule keywords.
+        """
         INSIDE = ["in", "inside", "into"]
         OUTSIDE = ["out", "outside"]
         ABOVE = ["above", "over", "on", "upon"]
         NEXT_TO = ["next"]
 
     class Individual:
+        """
+        Class the contains the hierarchy for the individual rules.
+        """
         class Direction:
+            """
+            Class that contains the direction rule keywords.
+            """
             UP = ["up"]
             DOWN = ["down"]
             REVERSE = ["reverse", "back", "mirror", "inverse", "rear", "left", "flip"]
 
         class Style:
+            """
+            Class that contains the style rule keywords.
+            """
             COLOR = ["black", "blue", "orange", "green", "red", "purple", "brown", "pink", "gray", "yellow", "gold"]
             CROSS = ["cross", "crossed", "crossing"]
 
             class Size:
+                """
+                Class that contains the size rule keywords.
+                """
                 BIG = ["big", "large", "grand", "bigger", "biggest", "jumbo", "giant"]
                 SMALL = ["small", "little", "micro", "smaller", "smallest", "miniature"]
 
         class Highlight:
+            """
+            Class that contains the highlight rule keywords.
+            """
             AFTER = ["after", "end", "behind"]
             BEFORE = ["before", "begin", "start", "left", "starting", "beginning"]
             MIDDLE = ["middle", "mid", "my"]
 
-        class Position:
-            HIGH = ["high"]
-            RIGHT = ["right"]
-            LEFT = ["left"]
-            LOW = ["low"]
-
         class Repetition:
+            """
+            Class that contains the repetition rule keywords.
+            """
             TWO = ["two", "double", "to"]
             FOUR = ["four"]
 
@@ -46,7 +64,16 @@ class Rule:
 
     @staticmethod
     def find_all(word, is_plural):
+        """
+        Finds all the rules triggered by the specified word, based on the keywords defined above.
+
+        :param word: specified word to match against the keywords defined above.
+        :param is_plural: flag to denote if the specified word is plural or not.
+        :return: dictionary mapping each rule category to its corresponding value (e.g., direction: up, color: red).
+        """
         conflicts = [rule for rule, keyword in Rule.get_all_rules()["individual"].items() if word in keyword]
+
+        # Singular version of the specified word
         word_singular = inflect.singular_noun(word) if word is not None else word
         rules = {}
 
@@ -71,15 +98,8 @@ class Rule:
             rules["highlight"] = "before"
         if word in Rule.Individual.Highlight.MIDDLE or word_singular in Rule.Individual.Highlight.MIDDLE:
             rules["highlight"] = "middle"
-        if word in Rule.Individual.Position.HIGH:
-            rules["position"] = "high"
-        if word in Rule.Individual.Position.RIGHT:
-            rules["position"] = "right"
-        if word in Rule.Individual.Position.LEFT:
-            rules["position"] = "left"
-        if word in Rule.Individual.Position.LOW:
-            rules["position"] = "low"
 
+        # Set repetition rules based on the plurality of the specified word
         if not is_plural:
             rules["repeat"] = 1
         if word in Rule.Individual.Repetition.TWO or is_plural:
@@ -88,31 +108,35 @@ class Rule:
             rules["repeat"] = 4
 
         # INCLUDE SOUND PATTERNS
-        with open(f"{os.path.dirname(__file__)}/../../saved/homophones_v2.json", "r") as file:
+        with open(f"{os.path.dirname(__file__)}/../../data/misc/homophones_v2.json", "r") as file:
             homophones = json.load(file)
 
+        # If the word is not a homophone, then don't proceed further with anything sound related
         if word not in homophones and word_singular not in homophones:
             return rules, conflicts
 
+        # Check if the word + singular version of the word is a homophone
         if word in homophones:
             homophones = homophones[word]
         elif word_singular in homophones:
             homophones = homophones[word_singular]
 
+        # Change the repetition rule value based on if it is a homophone
         if "4" in homophones:
             rules["repeat"] = 4
             rules["sound"] = {word: homophones}
         if "2" in homophones:
             rules["repeat"] = 2
             rules["sound"] = {word: homophones}
-        if "right" in homophones:
-            rules["position"] = "right"
-            rules["sound"] = {word: homophones}
 
         return rules, conflicts
 
     @staticmethod
     def get_all_rules():
+        """
+        Gets the hierarchy of all rules as a dictionary.
+        :return: hierarchy of rules as a dictionary.
+        """
         return {
             "relational": {
                 "inside": Rule.Relational.INSIDE,
@@ -131,10 +155,6 @@ class Rule:
                 "highlight_after": Rule.Individual.Highlight.AFTER,
                 "highlight_middle": Rule.Individual.Highlight.MIDDLE,
                 "highlight_before": Rule.Individual.Highlight.BEFORE,
-                "position_high": Rule.Individual.Position.HIGH,
-                "position_low": Rule.Individual.Position.LOW,
-                "position_left": Rule.Individual.Position.LEFT,
-                "position_right": Rule.Individual.Position.RIGHT,
                 "repetition_two": Rule.Individual.Repetition.TWO,
                 "repetition_four": Rule.Individual.Repetition.FOUR
             }

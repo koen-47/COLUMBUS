@@ -13,6 +13,9 @@ from data.Benchmark import Benchmark
 
 
 class LlavaExperiment(ModelExperiment):
+    """
+    Class to handle Llava model experiments.
+    """
     def __init__(self, model_type, prompt_type=1):
         super().__init__(prompt_type)
         self.model_type = model_type
@@ -27,9 +30,13 @@ class LlavaExperiment(ModelExperiment):
                                       "<image>\n{}\n<|im_end|><|im_start|>assistant\n"
             self.prompt = self.prompt_boilerplate.format(self.prompt_templates["base"][str(self.prompt_type)])
 
-        # self._load_model()
+        self._load_model()
 
     def _load_model(self):
+        """
+        Loads a Llava model
+        """
+
         if self.model_type == "13b":
             self.model = LlavaForConditionalGeneration.from_pretrained(
                 "llava-hf/llava-1.5-13b-hf",
@@ -64,6 +71,12 @@ class LlavaExperiment(ModelExperiment):
             )
 
     def run_on_benchmark(self, save_dir):
+        """
+        Runs a Llava model on the benchmark and saves it to a directory. This also deletes the model files at
+        the end of the run.
+
+        :param save_dir: file path to directory where the results will be saved.
+        """
         benchmark = Benchmark(with_metadata=True)
         puzzles = benchmark.get_puzzles()
 
@@ -96,9 +109,15 @@ class LlavaExperiment(ModelExperiment):
                 "results": puzzles
             }, file, indent=3)
 
-        # self.delete_downloads()
+        self.delete_downloads()
 
     def run_on_benchmark_api(self, save_dir):
+        """
+        Runs a Llava model on the benchmark through an API and saves it to a directory. This also deletes the model
+        files at the end of the run.
+
+        :param save_dir: file path to directory where the results will be saved.
+        """
         benchmark = Benchmark(with_metadata=True)
         puzzles = benchmark.get_puzzles()
 

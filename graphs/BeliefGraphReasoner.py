@@ -1,18 +1,28 @@
-import json
 import math
 import os
 import itertools
-import re
 
 from pysat.examples.rc2 import RC2
 from pysat.formula import WCNF
 
 
 class BeliefGraphReasoner:
+    """
+    Class that fixes all the conflicts in a belief graph by converting it to a MaxSAT problem and using a SAT solver
+    to compute the optimal amount of truth values to flip.
+    """
     def __init__(self, hyperparameters):
         self._hyperparameters = hyperparameters
 
     def fix_graph(self, graph, verbose=False):
+        """
+        Fixes the logical inconsistencies in a belief graph. These logical inconsistencies are either XOR or implication
+        conflicts (when the given truth assignments result in false for XOR and implication operators).
+
+        :param graph: belief graph (BeliefGraph object) to fix the logical conflicts for.
+        :param verbose: flag to denote if intermediate outputs will be printed.
+        :return: belief graph (BeliefGraph object) with fixed logical conflicts.
+        """
         cnf = self._generate_cnf(graph)
         wcnf = WCNF()
         for clause, weight in cnf:
@@ -41,6 +51,12 @@ class BeliefGraphReasoner:
         return graph, cost
 
     def _generate_cnf(self, graph):
+        """
+        Converts a belief graph to its MaxSAT equivalent.
+
+        :param graph: belief graph (BeliefGraph object) to convert to a MaxSAT problem.
+        :return: list of clauses in the MaxSAT problem.
+        """
         unit_clauses = []
         for statement_node in graph.nodes:
             node_attrs = graph.nodes[statement_node]
@@ -75,7 +91,7 @@ class BeliefGraphReasoner:
                 premise_nodes = {premise: graph.nodes[premise]["value"] == "True" for premise in
                                  node_attrs["connected_nodes"]["premises"]}
                 hypothesis_node = {node_attrs["connected_nodes"]["hypothesis"][0]:
-                                       graph.nodes[node_attrs["connected_nodes"]["hypothesis"][0]]["value"] == "True"}
+                                   graph.nodes[node_attrs["connected_nodes"]["hypothesis"][0]]["value"] == "True"}
                 clauses = list([-variable for variable in premise_nodes.keys()]) + list(hypothesis_node.keys())
                 is_satisfied = not all(premise_nodes.values()) or list(hypothesis_node.values())[0]
                 weight = 1. if is_satisfied else math.exp(-node_attrs["confidence"])
@@ -91,33 +107,4 @@ class BeliefGraphReasoner:
                 mc_clauses.append(soft_constraint)
 
         all_clauses = unit_clauses + xor_clauses + rule_clauses + mc_clauses
-        # all_clauses = unit_clauses + xor_clauses + rule_clauses
         return all_clauses
-
-    def get_max_prob_sum(self, graph):
-        graph.visualize(save_path=f"{os.path.dirname(__file__)}/visualizations/graph_before.png")
-
-        def dfs_traversal(graph, node, visited=None):
-            if visited is None:
-                visited = set()
-
-            visited.add(node)
-            for neighbor in graph.neighbors(node):
-                if neighbor not in visited:
-                    dfs_traversal(graph, neighbor, visited)
-
-            return visited
-
-        orig_hypothesis_nodes = graph.get_original_hypotheses()
-        sum_confidences = {h: [] for h in orig_hypothesis_nodes}
-        for orig_hypothesis in orig_hypothesis_nodes:
-            visited = dfs_traversal(graph.to_undirected(), orig_hypothesis)
-            for node in visited:
-                node_attrs = graph.nodes[node]
-                sum_confidences[orig_hypothesis].append(node_attrs["confidence"])
-
-        sum_confidences = {h: sum(c) / len(c) for h, c in sum_confidences.items()}
-        max_confidence = max(sum_confidences, key=sum_confidences.get)
-        answer = graph.nodes[max_confidence]["statement"]
-        answer = re.findall(r'"([^"]*)"', answer)[0]
-        return answer

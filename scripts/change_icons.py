@@ -1,3 +1,8 @@
+"""
+Scripts used to convert icons in a puzzle to their textual counterpart. NOTE: these scripts no longer work, but are
+still worth including for reproducibility and documentation.
+"""
+
 import json
 import os
 import copy
@@ -11,8 +16,11 @@ from puzzles.RebusImageConverter import RebusImageConverter
 
 
 def switch_icons():
+    """
+    Switches the icons in all puzzles to their textual counterpart.
+    """
     image_generator = RebusImageConverter()
-    graphs = get_answer_graph_pairs("v2", combine=True)
+    graphs = get_answer_graph_pairs(combine=True)
     n_icon_puzzles, n_non_icon_puzzles, n_overlap_puzzles = 0, 0, 0
     for answer, graph in tqdm(graphs.items(), desc="Switching icons"):
         graph_no_icon = copy.deepcopy(graph)
@@ -29,21 +37,23 @@ def switch_icons():
         nx.set_node_attributes(graph_no_icon, graph_no_icon_node_attrs)
 
         if switched_icon:
-            image_generator.generate(graph, save=f"{os.path.dirname(__file__)}/../results/benchmark/final_v3/{answer}_icon.png")
-            image_generator.generate(graph_no_icon, save=f"{os.path.dirname(__file__)}/../results/benchmark/final_v3/{answer}_non-icon.png")
+            image_generator.generate(graph, save=f"{os.path.dirname(__file__)}/../results/benchmark/images/{answer}_icon.png")
+            image_generator.generate(graph_no_icon, save=f"{os.path.dirname(__file__)}/../results/benchmark/images/{answer}_non-icon.png")
             n_icon_puzzles += 1
             n_non_icon_puzzles += 1
         else:
-            image_generator.generate(graph_no_icon, save=f"{os.path.dirname(__file__)}/../results/benchmark/final_v3/{answer}.png")
+            image_generator.generate(graph_no_icon, save=f"{os.path.dirname(__file__)}/../results/benchmark/images/{answer}.png")
             n_non_icon_puzzles += 1
-
-    print(n_non_icon_puzzles, n_icon_puzzles)
 
 
 def rename_distractors():
-    with open(f"{os.path.dirname(__file__)}/../saved/distractors.json", "r") as file:
+    """
+    Renames all distractors of the pre-icon switched puzzles to their new name.
+    """
+    with open(f"{os.path.dirname(__file__)}/../distractors/distractors_v3.json", "r") as file:
         distractors = json.load(file)
-    phrases = [os.path.basename(file).split(".")[0] for file in glob.glob(f"{os.path.dirname(__file__)}/../results/benchmark/final_v3/*")]
+    phrases = [os.path.basename(file).split(".")[0] for file in glob.glob(f"{os.path.dirname(__file__)}/../results/"
+                                                                          f"benchmark/images/*")]
     phrases_to_remove = []
     for phrase in phrases:
         if phrase.endswith("_icon") or phrase.endswith("_non-icon"):
@@ -54,20 +64,15 @@ def rename_distractors():
     distractors = {answer: distractors_ for answer, distractors_ in distractors.items() if answer not in phrases_to_remove
                    and answer not in set(distractors.keys()).difference(phrases)}
 
-    with open(f"{os.path.dirname(__file__)}/../saved/distractors_v3.json", "w") as file:
+    with open(f"{os.path.dirname(__file__)}/../distractors/distractors_v3.json", "w") as file:
         json.dump(distractors, file, indent=3)
 
-    # print(json.dumps(distractors, indent=3))
-    print(len(phrases))
-    print(len(distractors))
-    # print(set(phrases).difference(distractors.keys()))
-
-
-# switch_icons()
-# rename_distractors()
 
 def analyze_switched_icon_puzzles():
-    puzzles = get_answer_graph_pairs("v3", combine=True)
+    """
+    Performs some basic analysis of the new puzzles after they have their icons switched.
+    """
+    puzzles = get_answer_graph_pairs(combine=True)
     n_non_icon_puzzles, n_icon_puzzles, n_icon_overlap_puzzles = 0, 0, 0
     for answer, graph in puzzles.items():
         node_attrs = get_node_attributes(graph)
@@ -84,6 +89,3 @@ def analyze_switched_icon_puzzles():
     print("Number of icon puzzles:", n_icon_puzzles)
     print(f"Number of puzzles with icon and non-icon variant:", n_icon_overlap_puzzles)
     print(f"Total number of puzzles:", len(puzzles))
-
-
-analyze_switched_icon_puzzles()

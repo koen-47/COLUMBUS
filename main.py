@@ -18,7 +18,7 @@ def main():
     analysis = args.show_analysis
 
     if show_benchmark:
-        with open("./benchmark.json", "r") as file:
+        with open("benchmark.json", "r") as file:
             benchmark = json.load(file)
         for i, puzzle in enumerate(benchmark):
             print(f"\n=== Puzzle {i+1} ({puzzle['image']}) ===")
@@ -26,7 +26,7 @@ def main():
             print(f"Correct: {puzzle['correct']}")
             plt.rcParams["figure.figsize"] = (4, 4)
             plt.axis('off')
-            image_path = f"{os.path.dirname(__file__)}/results/benchmark/final_v3/{puzzle['image']}"
+            image_path = f"{os.path.dirname(__file__)}/results/benchmark/images/{puzzle['image']}"
             image = plt.imread(image_path)
             plt.imshow(image)
             plt.tight_layout()
@@ -37,7 +37,7 @@ def main():
             puzzle_analysis.generate()
         elif analysis == "models":
             model_analysis = AnalysisReport()
-            model_analysis.generate_all(verbose=True)
+            model_analysis.generate_all()
 
 
 if __name__ == "__main__":

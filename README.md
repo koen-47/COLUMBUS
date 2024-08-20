@@ -1,8 +1,7 @@
-# COLUMBUS: A Visual Question Answering Benchmark to Evaluate <ins>CO</ins>gnitive <ins>L</ins>ateral <ins>U</ins>nderstanding through <ins>M</ins>ultiple-choice re<ins>BUS</ins>es
+# COLUMBUS: Evaluating <ins>CO</ins>gnitive <ins>L</ins>ateral <ins>U</ins>nderstanding through <ins>M</ins>ultiple-choice re<ins>BUS</ins>es
 
 This repository presents a benchmark of rebus puzzles designed to challenge the lateral thinking skills of visual question answering (VQA) models. 
-
-Currently, we are at the third version of the benchmark. The images of the puzzles can be found [here](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/results/benchmark/final_v3). The correct answers and distractors can be found [here](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/benchmark_v3.json).
+The images of the puzzles can be found [here](./results/benchmark/images). The correct answers and distractors can be found [here](./benchmark.json).
 
 
 ## Installation
@@ -42,7 +41,7 @@ python main.py --show-analysis models
 
 ### Evaluating the benchmark
 
-Run the following command to run a specified model with a specified prompt on the benchmark.
+Run the following command to run a specified model with a specified prompt on the benchmark. This is only applicable to the open-source models.
 
 ```python
 python das6/main.py [model] [prompt]
@@ -52,35 +51,36 @@ The model arguments are either: `blip2-opt-2.7b`, `blip2-opt-6.7b`, `blip2-flan-
 
 The prompt arguments either: `1`, `2`, `3`, or `4`
 
-Running `mistral` with prompts `1` or `2` will throw an error. Prompts for `clip` are ignored. See `das6/main.py` for a clear overview of the arguments and their constraints.
+Running `mistral` with prompts `1` or `2` will throw an error. Prompts for `clip` are ignored. See `das6/main.py` for a clear overview of the arguments and their constraints. Make sure you have the correct API token for Mistral set to the label `MISTRAL_API_KEY`.
 
 
 ## Data Selection and Collection
 
 The following files consist of the raw data scraped, downloaded or manually collected (custom) to be used as input for our puzzle generation pipeline:
-- Compound words: [source](https://era.library.ualberta.ca/items/dc3b9033-14d0-48d7-b6fa-6398a30e61e4) + [custom](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/saved/custom_compounds.csv) 
-- Idioms/phrases: [source](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/saved/idioms_raw.json) + [custom](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/saved/custom_phrases.json)
-- Icons: [source](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/saved/icons_v2.json)
-- Homophones: [source](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/saved/homophones_v2.json)
+- Compound words: [source](https://era.library.ualberta.ca/items/dc3b9033-14d0-48d7-b6fa-6398a30e61e4) + [custom](./data/input/custom_compounds.csv) 
+- Idioms/phrases: [source](./data/input/idioms_raw.json) + [custom](./data/input/custom_phrases.json)
+- Icons: [source](./data/misc/icons_v2.json)
+- Homophones: [source](./data/misc/homophones_v2.json)
 
 
 ##  Puzzle Generation
 
-All files relating to puzzle generation can be found under [graphs](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/graphs). The main ones are as follows:
-- [Compound graph parser](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/graphs/parsers/CompoundRebusGraphParser.py): parses a compound word into its graph representation.
-- [Phrase graph parser](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/graphs/parsers/PhraseRebusGraphParser.py): parses an idiom/phrase into its graph representation. 
-- [Image generation](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/graphs/RebusImageConverterV2.py): generates a rebus puzzle from its graph representation.
-- [Distractor generation](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/misc/phrase_similarity.py): generates three distractors for each question given the correct answer.
+All files relating to puzzle generation can be found under [puzzles](./puzzles). The main ones are as follows:
+- [Rule definition](./puzzles/patterns/Rule.py): defines the rule taxonomy and a function to search for rules given a word.
+- [Compound graph parser](./puzzles/parsers/CompoundRebusGraphParser.py): parses a compound word into its graph representation.
+- [Phrase graph parser](./puzzles/parsers/PhraseRebusGraphParser.py): parses an idiom/phrase into its graph representation. 
+- [Image generation](./puzzles/RebusImageConverter.py): generates a rebus puzzle from its graph representation.
+- [Distractor generation](./scripts/generate_distractors.py): generates three distractors for each question given the correct answer.
 
 ## Results
 
-All files used to prompt the models in our experiments can be found under the [DAS-6](https://github.com/Koen-Kraaijveld/rebus-puzzles/tree/main/das6) folder. This is a duplicated, smaller version of this repository to use on the DAS-6 cluster. The file used to prompt each model is as follows:
+All files used to prompt the models in our experiments can be found under the [DAS-6](./das6) folder. This is a duplicated, smaller version of this repository to use on a local cluster. The file used to prompt each model is as follows:
 
-- [CLIP](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/CLIPExperiment.py) (baseline)
-- [BLIP-2](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/BLIP2Experiment.py) (OPT 2.7b, OPT 6.7b, Flan-T5-XXL-11b)
-- [InstructBLIP](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/InstructBLIPExperiment.py)
-- [Fuyu](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/FuyuExperiment.py)
-- [QwenVL](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/QwenVLModel.py)
-- [CogVLM](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/CogVLMModel.py)
-- [Llava](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/LlavaExperiment.py) (1.5-13b, 1.6-34b)
-- [Mistral](https://github.com/Koen-Kraaijveld/rebus-puzzles/blob/main/das6/models/MistralExperiment.py)
+- [CLIP](./das6/models/CLIPExperiment.py)
+- [BLIP-2](./das6/models/BLIP2Experiment.py) (OPT 2.7b, OPT 6.7b, Flan-T5-XXL-11b)
+- [InstructBLIP](./das6/models/InstructBLIPExperiment.py)
+- [Fuyu](./das6/models/FuyuExperiment.py)
+- [QwenVL](./das6/models/QwenVLModel.py)
+- [CogVLM](./das6/models/CogVLMModel.py)
+- [Llava](./das6/models/LlavaExperiment.py) (1.5-13b, 1.6-34b)
+- [Mistral](./das6/models/MistralExperiment.py)

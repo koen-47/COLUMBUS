@@ -1,15 +1,18 @@
+"""
+Script to generate the 105 puzzle subset used for evaluating human performance.
+"""
+
 import json
 import random
-import matplotlib.pyplot as plt
 
 from util import get_answer_graph_pairs, get_node_attributes
 
 random.seed(42)
 
 
-with open("../benchmark_v3.json", "r") as file:
+with open("../benchmark.json", "r") as file:
     benchmark = json.load(file)
-    puzzles = list(get_answer_graph_pairs("v3", combine=True).items())
+    puzzles = list(get_answer_graph_pairs("v3").items())
     random.shuffle(puzzles)
     puzzles = dict(puzzles)
 
@@ -58,5 +61,5 @@ with open("../benchmark_v3.json", "r") as file:
     print("Number of overlap puzzles:", len(overlap_puzzles_sample))
     print("Total number of puzzles:", len(samples))
 
-    with open("../results/analysis/results_v3/human/benchmark_human.json", "w") as file_:
+    with open("../results/analysis/results/human/benchmark_human.json", "w") as file_:
         json.dump(benchmark_human, file_, indent=3)

@@ -6,12 +6,18 @@ from .WebScraper import WebScraper
 
 
 class RebusesCoWebScraper(WebScraper):
+    """
+    Class to free puzzles scrape www.rebuses.co
+    """
     def __init__(self):
         super().__init__()
         self._base_url = "https://www.rebuses.co/free/"
         self._n_pages = 99
 
     def scrape(self):
+        """
+        Start scraping rebuses.co.
+        """
         rebus_puzzle_data = []
         for i in tqdm(range(1, self._n_pages + 1), desc="Collecting rebus puzzles (rebuses.co)"):
             url = f"{self._base_url}/page/{i}"
@@ -20,6 +26,11 @@ class RebusesCoWebScraper(WebScraper):
             json.dump(rebus_puzzle_data, file, indent=3)
 
     def _scrape_page(self, url):
+        """
+        Get list of URLs containing data on a rebus puzzle.
+        :param url: url to start at.
+        :return: list of URL data pertaining to each rebus puzzle on this page.
+        """
         soup = self.create_parser(url)
         articles = soup.find_all(class_="article-archive")
         rebus_urls = [article.find("a").get("href") for article in articles]
@@ -30,6 +41,11 @@ class RebusesCoWebScraper(WebScraper):
         return page_data
 
     def _scrape_rebus_page(self, url):
+        """
+        Scrape a page containing rebus puzzles.
+        :param url: url of page containing a rebus puzzle.
+        :return: dictionary containing information on a scraped rebus puzzle.
+        """
         soup = self.create_parser(url)
         content = soup.find(class_="content blog-single")
         rebus_img = content.find("img").get("src")

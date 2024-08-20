@@ -1,6 +1,5 @@
 import copy
 import glob
-import json
 import os
 
 import networkx as nx
@@ -10,6 +9,14 @@ from puzzles.patterns.Rule import Rule
 
 
 def get_node_attributes(graph):
+    """
+    Gets the node attributes of the specified graph through a dictionary that maps each node ID to the attributes of
+    that node.
+
+    :param graph: graph to get the node attributes for.
+    :return: a dictionary mapping each node ID in the specified graph to the attributes of that node.
+    """
+
     attrs = {attr: nx.get_node_attributes(graph, attr) for attr in ["text", "is_plural"] + Rule.ALL_RULES}
     node_attrs = {}
     for attr, nodes in attrs.items():
@@ -20,28 +27,13 @@ def get_node_attributes(graph):
     return node_attrs
 
 
-def get_edges_from_node(graph, node_id):
-    in_edges, out_edges = {}, {}
-    for edge in graph.in_edges(node_id, keys=True):
-        in_edges[edge] = nx.get_edge_attributes(graph, "rule")[edge]
-    for edge in graph.out_edges(node_id, keys=True):
-        out_edges[edge] = nx.get_edge_attributes(graph, "rule")[edge]
-    return [in_edges, out_edges]
-
-
-def get_edge_information(graph):
-    node_attrs = get_node_attributes(graph)
-    edge_attrs = nx.get_edge_attributes(graph, "rule")
-    edge_info = {}
-    for edge in graph.edges:
-        rule = edge_attrs[edge]
-        source = node_attrs[edge[0]]
-        target = node_attrs[edge[1]]
-        edge_info[edge] = (source, rule, target)
-    return edge_info
-
-
 def get_graph_as_sequence(graph):
+    """
+    Splits a graph into subgraphs based on the relational rules (edges) in it.
+
+    :param graph: graph to split.
+    :return: a sequence (list) of the nodes in a graph, separated by the relational rules that are not a NEXT-TO rule.
+    """
     node_attrs = get_node_attributes(graph)
     edge_attrs = nx.get_edge_attributes(graph, "rule")
     sequence = []
@@ -53,6 +45,12 @@ def get_graph_as_sequence(graph):
 
 
 def remove_duplicate_graphs(graphs):
+    """
+    Removes duplicate graphs from a list of graphs.
+
+    :param graphs: list of graphs.
+    :return: deduplicated list of graphs.
+    """
     unique_graphs = []
     for graph in graphs:
         is_duplicate = False
@@ -65,24 +63,27 @@ def remove_duplicate_graphs(graphs):
     return unique_graphs
 
 
-def count_relational_rules(phrase):
-    relational_keywords = [x for xs in Rule.get_all_rules()["relational"].values() for x in xs]
-    return sum([1 for word in phrase.split() if word in relational_keywords])
+def get_answer_graph_pairs(combine=False):
+    """
+    Gets the graphs of the answers of each rebus puzzle.
 
-
-def get_answer_graph_pairs(version, combine=False):
+    :param combine: combine graphs belonging to phrases and compounds into one dictionary.
+    :return: a dictionary mapping to answer of a rebus puzzle to its graph.
+    """
     from puzzles.parsers.CompoundRebusGraphParser import CompoundRebusGraphParser
     from puzzles.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
 
+    # Load input data
     phrases = [os.path.basename(file).split(".")[0]
-               for file in glob.glob(f"{os.path.dirname(__file__)}/results/benchmark/final_{version}/*")]
-    ladec = pd.read_csv(f"{os.path.dirname(__file__)}/saved/ladec_raw_small.csv")
-    custom_compounds = pd.read_csv(f"{os.path.dirname(__file__)}/saved/custom_compounds.csv")
+               for file in glob.glob(f"{os.path.dirname(__file__)}/results/benchmark/images/*")]
+    ladec = pd.read_csv(f"{os.path.dirname(__file__)}/data/input/ladec_raw_small.csv")
+    custom_compounds = pd.read_csv(f"{os.path.dirname(__file__)}/data/input/custom_compounds.csv")
 
     compound_parser = CompoundRebusGraphParser()
     phrase_parser = PhraseRebusGraphParser()
     phrase_to_graph = {}
     compound_to_graph = {}
+
     for phrase in phrases:
         orig_phrase = phrase
         if phrase.endswith("_icon") or phrase.endswith("_non-icon"):
@@ -126,6 +127,12 @@ def get_answer_graph_pairs(version, combine=False):
 
 
 def remove_icons_from_graph(graph):
+    """
+    Converts the icons in a graph back to its textual counterpart.
+
+    :param graph: graph containing an icon.
+    :return: graph where all nodes with icon rules have been converted back to their textual counterpart.
+    """
     graph_no_icon = copy.deepcopy(graph)
     graph_no_icon_node_attrs = get_node_attributes(graph_no_icon)
     for attr in graph_no_icon_node_attrs.values():
@@ -137,5 +144,3 @@ def remove_icons_from_graph(graph):
         graph_no_icon.nodes[node].clear()
     nx.set_node_attributes(graph_no_icon, graph_no_icon_node_attrs)
     return graph_no_icon
-
-

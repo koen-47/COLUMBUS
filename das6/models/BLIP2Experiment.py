@@ -11,6 +11,9 @@ from data.Benchmark import Benchmark
 
 
 class BLIP2Experiment(ModelExperiment):
+    """
+    Class to handle BLIP-2 model experiments.
+    """
     def __init__(self, model_type, prompt_type=1):
         super().__init__(prompt_type)
         self.model_type = model_type
@@ -21,6 +24,10 @@ class BLIP2Experiment(ModelExperiment):
         self._load_model()
 
     def _load_model(self):
+        """
+        Loads a BLIP-2 model
+        """
+
         self.processor = Blip2Processor.from_pretrained(
             f"Salesforce/blip2-{self.model_type}",
             cache_dir=self.models_dir
@@ -34,6 +41,12 @@ class BLIP2Experiment(ModelExperiment):
         )
 
     def run_on_benchmark(self, save_dir):
+        """
+        Runs a BLIP-2 model on the benchmark and saves it to a directory. This also deletes the model files at
+        the end of the run.
+
+        :param save_dir: file path to directory where the results will be saved.
+        """
         benchmark = Benchmark(with_metadata=True)
         puzzles = benchmark.get_puzzles()
 
@@ -62,4 +75,4 @@ class BLIP2Experiment(ModelExperiment):
                 "results": puzzles
             }, file, indent=3)
 
-        # self.delete_downloads()
+        self.delete_downloads()

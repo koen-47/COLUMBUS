@@ -1,13 +1,11 @@
-import json
-import math
-import os
+"""
+Class to contain functionality for a belief graph.
+"""
+
 import re
 
 import networkx as nx
-import numpy as np
 from matplotlib import pyplot as plt
-
-from util import get_node_attributes
 
 
 class BeliefGraph(nx.DiGraph):
@@ -15,6 +13,10 @@ class BeliefGraph(nx.DiGraph):
         super().__init__(**attr)
 
     def get_original_hypotheses(self):
+        """
+        Returns the original candidate answers from a question.
+        :return: list of nodes corresponding to each candidate answer.
+        """
         orig_hypothesis_nodes = []
         for node in self.nodes:
             node_attrs = self.nodes[node]
@@ -23,6 +25,16 @@ class BeliefGraph(nx.DiGraph):
         return orig_hypothesis_nodes
 
     def add_statement_node(self, statement, value, confidence, is_orig=False, return_node=False):
+        """
+        Adds a statement node to the belief graph.
+
+        :param statement: string with a specified statement.
+        :param value: the assigned truth value to the statement.
+        :param confidence: the confidence (probability) in the assigned truth value.
+        :param is_orig: flag to denote if the statement is an original candidate answer.
+        :param return_node: flag to denote if the node ID of the added node should be returned.
+        :return: returns the node ID of the added node if return_node is set.
+        """
         node_id = self.number_of_nodes() + 1
         attrs = {"type": "statement", "statement": statement, "value": value, "confidence": confidence,
                  "is_orig": is_orig}
@@ -31,6 +43,17 @@ class BeliefGraph(nx.DiGraph):
             return node_id
 
     def add_rule_node(self, statements, confidence, is_xor=False, is_mc=False, return_node=False):
+        """
+        Adds a rule node to the belief graph.
+
+        :param statements: the statements associated with the new rule node (the statement string of the statement node,
+        not the IDs of the statement node). The last statement is always the hypothesis.
+        :param confidence: the confidence in that the premises imply the hypothesis.
+        :param is_xor: flag to denote if the rule node is an XOR node.
+        :param is_mc: flag to denote if the rule node is a multiple-choice constraint node.
+        :param return_node: flag to denote if the node ID of the rule node will be returned.
+        :return: returns the node ID of the rule node if return_node is set.
+        """
         node_id = self.number_of_nodes() + 1
         attrs = {"type": "rule", "confidence": confidence, "is_xor": is_xor, "statements": statements}
         if not is_xor and not is_mc:
@@ -40,6 +63,10 @@ class BeliefGraph(nx.DiGraph):
             return node_id
 
     def connect_rules_and_statements(self):
+        """
+        Adds edges between statements and their corresponding (XOR) rule nodes. The associated statement string is
+        matched against each statement and rule node ID.
+        """
         for rule_node in self.nodes:
             rule_node_attrs = self.nodes[rule_node]
             if rule_node_attrs["type"] == "rule" and not rule_node_attrs["is_xor"]:
@@ -70,6 +97,14 @@ class BeliefGraph(nx.DiGraph):
                 del rule_node_attrs["statements"]
 
     def visualize(self, show=False, save_path=None):
+        """
+        Visualizes the belief graph. Green/red denotes the truth assignment (green = T, red = F). Square nodes are
+        statement nodes, circle nodes are rule nodes. XOR edge label indicates if the rule node is an XOR node.
+        The multiple-choice constraints are implicit.
+
+        :param show: flag to denote if the belief graph will be shown or not.
+        :param save_path: file path to denote where the png image of this visualization will be saved.
+        """
         pos = nx.nx_agraph.graphviz_layout(self, prog="dot")
         plt.figure(figsize=(12, 12))
 
@@ -103,6 +138,10 @@ class BeliefGraph(nx.DiGraph):
             plt.show()
 
     def get_answer(self):
+        """
+        Returns the computed answer for final, constraint-enforced belief graph.
+        :return: string associated with the selected statement node (candidate answer).
+        """
         orig_hypotheses = self.get_original_hypotheses()
         answers = [(self.nodes[h]["statement"], self.nodes[h]["confidence"])
                    for h in orig_hypotheses if self.nodes[h]["value"] == "True"]
@@ -118,7 +157,8 @@ class BeliefGraph(nx.DiGraph):
             node_attrs = self.nodes[node]
             if node_attrs["type"] != "statement":
                 continue
-            string += f"STATEMENT (id: {i + 1}, value: {node_attrs["value"]}, confidence: {node_attrs["confidence"]:.2f})"
+            string += (f"STATEMENT (id: {i + 1}, value: {node_attrs["value"]}, "
+                       f"confidence: {node_attrs["confidence"]:.2f})")
             string += f" - \"{node_attrs["statement"]}\"\n"
 
         for i, node in enumerate(self.nodes):
@@ -127,11 +167,16 @@ class BeliefGraph(nx.DiGraph):
                 continue
             string += f"\nRULE NODE (id: {i + 1}, confidence: {node_attrs["confidence"]:.2f})"
             premise_nodes = [(premise, self.nodes[premise]) for premise in node_attrs["connected_nodes"]["premises"]]
-            premises = [(node_id, node["statement"], node["value"], node["confidence"]) for node_id, node in premise_nodes]
+            premises = [(node_id, node["statement"], node["value"], node["confidence"])
+                        for node_id, node in premise_nodes]
             hypothesis_node = self.nodes[node_attrs["connected_nodes"]["hypothesis"][0]]
-            hypothesis = (node_attrs["connected_nodes"]["hypothesis"][0], hypothesis_node["statement"], hypothesis_node["value"], hypothesis_node["confidence"])
-            string += "\n\tPremises:\n" + "\n".join([f"\t\t- (node: {statement[0]}, {statement[2]}, conf. {float(statement[3]):.2f}) {statement[1]}" for statement in premises])
-            string += f"\n\tHypothesis:\n\t\t- (node: {hypothesis[0]}, {hypothesis[2]}, conf. {float(hypothesis[3]):.2f}) {hypothesis[1]}\n"
+            hypothesis = (node_attrs["connected_nodes"]["hypothesis"][0], hypothesis_node["statement"],
+                          hypothesis_node["value"], hypothesis_node["confidence"])
+            string += "\n\tPremises:\n" + "\n".join([f"\t\t- (node: {statement[0]}, {statement[2]}, "
+                                                     f"conf. {float(statement[3]):.2f}) {statement[1]}"
+                                                     for statement in premises])
+            string += (f"\n\tHypothesis:\n\t\t- (node: {hypothesis[0]}, {hypothesis[2]}, "
+                       f"conf. {float(hypothesis[3]):.2f}) {hypothesis[1]}\n")
 
         for i, node in enumerate(self.nodes):
             node_attrs = self.nodes[node]
@@ -140,7 +185,9 @@ class BeliefGraph(nx.DiGraph):
             statement_nodes = [self.nodes[statement] for statement in node_attrs["connected_nodes"]]
             statements = [(node, node["statement"], node["value"], node["confidence"]) for node in statement_nodes]
             string += f"\nXOR RULE NODE (id: {i + 1}, confidence: {node_attrs["confidence"]:.2f})"
-            string += f"\n\t- (node: {statements[0][0]}, {statements[0][2]}, conf. {float(statements[0][3]):.2f}) {statements[0][1]}\n"
-            string += f"\n\t- (node: {statements[1][0]}, {statements[1][2]}, conf. {float(statements[1][3]):.2f}) {statements[1][1]}\n"
+            string += (f"\n\t- (node: {statements[0][0]}, {statements[0][2]}, "
+                       f"conf. {float(statements[0][3]):.2f}) {statements[0][1]}\n")
+            string += (f"\n\t- (node: {statements[1][0]}, {statements[1][2]}, "
+                       f"conf. {float(statements[1][3]):.2f}) {statements[1][1]}\n")
 
         return string

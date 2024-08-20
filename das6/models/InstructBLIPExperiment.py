@@ -11,6 +11,9 @@ from data.Benchmark import Benchmark
 
 
 class InstructBLIPExperiment(ModelExperiment):
+    """
+    Class to handle InstructBLIP model experiments.
+    """
     def __init__(self, prompt_type=1):
         super().__init__(prompt_type)
         self.name = "InstructBLIP"
@@ -22,6 +25,10 @@ class InstructBLIPExperiment(ModelExperiment):
         self._load_model()
 
     def _load_model(self):
+        """
+        Loads the InstructBLIP model
+        """
+
         self.model = InstructBlipForConditionalGeneration.from_pretrained(
             "Salesforce/instructblip-vicuna-7b",
             cache_dir=self.models_dir,
@@ -33,6 +40,12 @@ class InstructBLIPExperiment(ModelExperiment):
         )
 
     def run_on_benchmark(self, save_dir):
+        """
+        Runs the InstructBLIP model on the benchmark and saves it to a directory. This also deletes the model files at
+        the end of the run.
+
+        :param save_dir: file path to directory where the results will be saved.
+        """
         benchmark = Benchmark(with_metadata=True)
         puzzles = benchmark.get_puzzles()
 
@@ -73,4 +86,4 @@ class InstructBLIPExperiment(ModelExperiment):
                 "results": puzzles
             }, file, indent=3)
 
-        # self.delete_downloads()
+        self.delete_downloads()

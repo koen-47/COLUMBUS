@@ -13,22 +13,38 @@ from util import get_node_attributes, get_answer_graph_pairs
 
 
 class PuzzleAnalysisReport:
+    """
+    Class to analyze the puzzles in the benchmark.
+    """
     def __init__(self):
         self._compound_parser = CompoundRebusGraphParser()
         self._phrase_parser = PhraseRebusGraphParser()
 
     def generate(self):
+        """
+        Analyzes all puzzles by computing some basic statistics and counting the number of rules globally.
+        """
         self._compute_basic_statistics()
-        graphs = list(get_answer_graph_pairs("v3", combine=True).values())
+        graphs = list(get_answer_graph_pairs(combine=True).values())
         self._count_rules(graphs)
 
     def _count_rules(self, graphs):
+        """
+        Counts the number of rules appearing across all puzzles in the benchmark.
+        :param graphs: list of graphs of each puzzle.
+        """
         rules = list(Rule.get_all_rules()["individual"].keys()) + ["sound"] + ["icon"]
         rules_freq_text, rules_freq_icon = {}, {}
         edge_freq, edge_freq_icon = {}, {}
         n_text_puzzles, n_icon_puzzles = 0, 0
 
         def increment_rule_freq(rule, value, contains_icons):
+            """
+            Increments the number of puzzles solved for each rule (if it is correctly solved).
+            :param rule: rule category (e.g., 'direction , 'highlight').
+            :param value: rule (e.g., 'up', 'down').
+            :param contains_icons: flag to denote if the puzzle contains an icon or not.
+            """
             if contains_icons:
                 if rule in rules:
                     if rule not in rules_freq_icon:
@@ -49,6 +65,11 @@ class PuzzleAnalysisReport:
                     rules_freq_text[f"{rule}_{value}"] += 1
 
         def format_attrs(attrs):
+            """
+            Formats the attributes of a node.
+            :param attrs: attributes of node.
+            :return: reformatted attributes of node.
+            """
             attrs_ = attrs.copy()
             del attrs_["text"]
             if attrs_["repeat"] == 1:
@@ -104,23 +125,35 @@ class PuzzleAnalysisReport:
         print(pd.DataFrame({"no_icons": edge_freq, "icons": edge_freq_icon}))
 
     def _compute_basic_statistics(self):
-        phrase_graphs, compound_graphs = get_answer_graph_pairs(version="v3")
+        """
+        Computes basic statistics on the benchmark and prints them.
+        """
+        phrase_graphs, compound_graphs = get_answer_graph_pairs()
         graphs = {}
         graphs.update(compound_graphs)
         graphs.update(phrase_graphs)
 
         def calculate_number_of_graphs_n_nodes(graphs, n):
+            """
+            Helper function to calculate the number of graphs containing n nodes.
+            :param graphs: list of graphs.
+            :param n: number of nodes to count the frequency of graphs for.
+            :return: integer for the number of graphs with n nodes.
+            """
             return np.array([1 for graph in graphs if graph.number_of_nodes() == n]).sum()
 
         graphs_no_icons, graphs_icons = {}, {}
         answers_no_icons, answers_icons = [], []
         for answer, graph in graphs.items():
+            # Account for overlapping puzzles
             if answer.endswith("icon") or answer.endswith("non-icon"):
                 answer = "_".join(answer.split("_")[:-1])
             answer_ = " ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(
                 answer.split("_"))
             if answer_.endswith("icon") or answer_.endswith("non-icon"):
                 answer_ = " ".join(answer_.split()[:-1])
+
+            # Distinguish between text vs. icon puzzles
             contains_icons = sum([1 if "icon" in attr else 0 for attr in get_node_attributes(graph).values()]) > 0
             if contains_icons:
                 graphs_icons[answer] = graph
@@ -132,35 +165,37 @@ class PuzzleAnalysisReport:
             " ".join(answer.split("_")[:-1]) if answer.split("_")[-1].isnumeric() else " ".join(answer.split("_"))
             for answer in graphs.keys()]
 
-        # for answer, graph in puzzles.items():
-        #     if graph.number_of_nodes() == 4:
-        #         print(answer)
-
+        # Compute average answer lengths (# words)
         avg_answer_len = np.array([len(answer.split()) for answer in answers]).mean()
         avg_answer_len_no_icon = np.array([len(answer.split()) for answer in answers_no_icons]).mean()
         avg_answer_len_icon = np.array([len(answer.split()) for answer in answers_icons]).mean()
 
+        # Compute average number of nodes and frequency of n node graphs (all puzzles)
         avg_n_nodes = np.array([graph.number_of_nodes() for graph in graphs.values()]).mean()
         avg_n_edges = np.array([graph.number_of_edges() for graph in graphs.values()]).mean()
         n_single_node_graphs = calculate_number_of_graphs_n_nodes(graphs.values(), n=1)
         n_double_node_graphs = calculate_number_of_graphs_n_nodes(graphs.values(), n=2)
         n_triple_node_graphs = calculate_number_of_graphs_n_nodes(graphs.values(), n=3)
 
+        # Compute average number of nodes and frequency of n node graphs (text puzzles)
         avg_n_nodes_no_icon = np.array([graph.number_of_nodes() for graph in graphs_no_icons.values()]).mean()
         avg_n_edges_no_icon = np.array([graph.number_of_edges() for graph in graphs_no_icons.values()]).mean()
         n_single_node_graphs_no_icons = calculate_number_of_graphs_n_nodes(graphs_no_icons.values(), n=1)
         n_double_node_graphs_no_icons = calculate_number_of_graphs_n_nodes(graphs_no_icons.values(), n=2)
         n_triple_node_graphs_no_icons = calculate_number_of_graphs_n_nodes(graphs_no_icons.values(), n=3)
 
+        # Compute average number of nodes and frequency of n node graphs (icon puzzles)
         avg_n_nodes_icon = np.array([graph.number_of_nodes() for graph in graphs_icons.values()]).mean()
         avg_n_edges_icon = np.array([graph.number_of_edges() for graph in graphs_icons.values()]).mean()
         n_single_node_graphs_icons = calculate_number_of_graphs_n_nodes(graphs_icons.values(), n=1)
         n_double_node_graphs_icons = calculate_number_of_graphs_n_nodes(graphs_icons.values(), n=2)
         n_triple_node_graphs_icons = calculate_number_of_graphs_n_nodes(graphs_icons.values(), n=3)
 
-        with open("./saved/distractors_v3.json", "r") as file:
+        # Compute statistics for the distractors
+        with open(f"{os.path.dirname(__file__)}/../../data/distractors/distractors_v3.json", "r") as file:
             answer_to_distractors = json.load(file)
 
+            # Compute visible words per distractor
             visible_to_distractor = []
             for answer, distractors in answer_to_distractors.items():
                 visible_words = []
@@ -178,10 +213,11 @@ class PuzzleAnalysisReport:
                     "contains_icon": contains_icons,
                 })
 
+            # Add compounds and custom compounds
             compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in
-                         pd.read_csv("./saved/ladec_raw_small.csv").iterrows()}
+                         pd.read_csv(f"{os.path.dirname(__file__)}/../../data/input/ladec_raw_small.csv").iterrows()}
             custom_compounds = {row["stim"]: f"{row['c1']} {row['c2']}" for _, row in
-                                pd.read_csv("./saved/custom_compounds.csv").iterrows()}
+                                pd.read_csv(f"{os.path.dirname(__file__)}/../../data/input/custom_compounds.csv").iterrows()}
             compounds.update(custom_compounds)
 
             for puzzle in visible_to_distractor:
@@ -189,10 +225,7 @@ class PuzzleAnalysisReport:
                     if distractor in compounds:
                         puzzle["distractors"][i] = compounds[distractor]
 
-                # visible_to_distractor[visible]["distractors"] = [
-                #     compounds[distractor] if distractor in compounds else distractor
-                #     for distractor in distractors["distractors"]]
-
+            # Count the number of times words in each distractor are also visible in a puzzle
             for puzzle in visible_to_distractor:
                 word_overlaps = []
                 visible = puzzle["visible_words"]
@@ -203,34 +236,36 @@ class PuzzleAnalysisReport:
                 word_overlaps = np.array(word_overlaps).sum()
                 puzzle["word_overlap"] = word_overlaps
 
-            # avg_visible_word_overlap = np.array([distractors["word_overlap"] for distractors in
-                                                 # visible_to_distractor.values()]).mean()
-
+            # Compute number of times visible words appear in a distractor for all puzzles
             avg_visible_word_overlap = np.array([distractors["word_overlap"] for distractors in
                                                  visible_to_distractor]).mean()
 
+            # Compute the percentage of questions that contain at least one distractor with at least one visible
+            # word for all puzzles
             pct_contains_visible = np.array([1 if distractors["word_overlap"] > 0 else 0 for distractors
                                              in visible_to_distractor]).sum() / len(visible_to_distractor)
 
+            # Compute number of times visible words appear in a distractor for text puzzles
             avg_visible_word_overlap_no_icon = np.array([distractors["word_overlap"] for distractors in
                                                          visible_to_distractor if not
                                                          distractors["contains_icon"]]).mean()
 
+            # Compute the percentage of questions that contain at least one distractor with at least one visible
+            # word for text puzzles
             pct_contains_visible_no_icon = np.array([1 if distractors["word_overlap"] > 0 else 0 for
                                                      distractors in visible_to_distractor if
                                                      not distractors["contains_icon"]]).sum() / len(graphs_no_icons)
 
+            # Compute number of times visible words appear in a distractor for icon puzzles
             avg_visible_word_overlap_icon = np.array([distractors["word_overlap"] for distractors in
                                                       visible_to_distractor if
                                                       distractors["contains_icon"]]).mean()
 
+            # Compute the percentage of questions that contain at least one distractor with at least one visible
+            # word for icon puzzles
             pct_contains_visible_icon = np.array([1 if distractors["word_overlap"] > 0 else 0 for distractors
                                                   in visible_to_distractor if
                                                   distractors["contains_icon"]]).sum() / len(graphs_icons)
-
-            # print([distractor for distractor in visible_to_distractor.values() if distractor["contains_icon"]])
-            # print(len([distractor for distractor in visible_to_distractor.values() if distractor["contains_icon"]]))
-            # print(len(graphs_icons))
 
             print(f"Avg. visible word overlap: {avg_visible_word_overlap_no_icon}")
             print(f"% of distractors that contain at least one visible word: {pct_contains_visible_no_icon}")

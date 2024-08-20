@@ -12,6 +12,9 @@ from data.Benchmark import Benchmark
 
 
 class FuyuExperiment(ModelExperiment):
+    """
+    Class to handle Fuyu-8b model experiments.
+    """
     def __init__(self, prompt_type=1):
         super().__init__(prompt_type)
         self.name = "Fuyu-8b"
@@ -19,6 +22,10 @@ class FuyuExperiment(ModelExperiment):
         self._load_model()
 
     def _load_model(self):
+        """
+        Loads the Fuyu-8b model
+        """
+
         self.processor = FuyuProcessor.from_pretrained(
             "adept/fuyu-8b",
             cache_dir=self.models_dir
@@ -30,6 +37,12 @@ class FuyuExperiment(ModelExperiment):
         )
 
     def run_on_benchmark(self, save_dir):
+        """
+        Runs the Fuyu-8b model on the benchmark and saves it to a directory. This also deletes the model files at
+        the end of the run.
+
+        :param save_dir: file path to directory where the results will be saved.
+        """
         benchmark = Benchmark(with_metadata=True)
         puzzles = benchmark.get_puzzles()
 
@@ -58,4 +71,4 @@ class FuyuExperiment(ModelExperiment):
                 "results": puzzles
             }, file, indent=3)
 
-        # self.delete_downloads()
+        self.delete_downloads()

@@ -6,6 +6,9 @@ import torch
 
 
 class ModelExperiment:
+    """
+    Base class to handle model experiments.
+    """
     def __init__(self, prompt_type):
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.models_dir = f"{os.path.dirname(__file__)}/downloads"
@@ -17,9 +20,17 @@ class ModelExperiment:
             self.prompt_templates = json.load(file)
         
     def run_on_benchmark(self, save_dir):
+        """
+        Base function for running a model on the benchmark and saveing it to a directory.
+
+        :param save_dir: file path to directory where the results will be saved.
+        """
         pass
 
     def delete_downloads(self):
+        """
+        Deletes all models in the model_dir folder.
+        """
         models_dir = f"{os.path.dirname(__file__)}/downloads"
         for filename in os.listdir(models_dir):
             file_path = os.path.join(models_dir, filename)
@@ -33,6 +44,13 @@ class ModelExperiment:
                 print(f"Failed to remove: {file_path}. Reason: {e}")
 
     def get_metadata(self, benchmark, save_dir):
+        """
+        Returns a dictionary with some metadata relating to the model experiment being run.
+
+        :param benchmark: benchmark object.
+        :param save_dir: file path to directory where the results will be saved.
+        :return: dictionary with metadata.
+        """
         puzzles = benchmark.get_puzzles()
         return {
             "experiment": self.name,

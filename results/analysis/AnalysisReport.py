@@ -7,63 +7,78 @@ from itertools import product
 import networkx as nx
 import numpy as np
 import pandas as pd
-import wordfreq
-import matplotlib as mpl
-import matplotlib.pyplot as plt
-import matplotlib.colors as mcolors
-from tqdm import tqdm
-import seaborn as sns
 
-from puzzles.legacy.RebusGraphParser import RebusGraphParser
-from puzzles.parsers.PhraseRebusGraphParser import PhraseRebusGraphParser
 from puzzles.patterns.Rule import Rule
 from util import get_node_attributes, get_answer_graph_pairs
-from results.analysis.Visualizations import Visualizations
 
 
 class AnalysisReport:
+    """
+    Class to analyze the results from all the models.
+    """
+
     def __init__(self):
-        self.results_dir = f"{os.path.dirname(__file__)}/results_v3"
-        self._graph_answer_pairs = get_answer_graph_pairs("v3", combine=True)
-        self._model_types = {"non_instruction": ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "fuyu-8b"],
-                             "instruction": ["instructblip", "llava-1.5-13b", "blip-2_flan-t5-xxl",
-                                             "cogvlm", "qwenvl", "mistral-7b", "llava-1.6-34b", "gpt-4o",
-                                             "gpt-4o-mini", "gemini-1.5-flash", "gemini-1.5-pro"]}
-        # "llava-1.6-34b"
-        self._implemented_models = ["belief_graphs_gpt-4o-mini"]
+        self.results_dir = f"{os.path.dirname(__file__)}/results"
+        self._graph_answer_pairs = get_answer_graph_pairs(combine=True)
+        self._model_types = {
+            "non_instruction": ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "fuyu-8b"],
+            "instruction": ["instructblip", "llava-1.5-13b", "blip-2_flan-t5-xxl",
+                            "cogvlm", "qwenvl", "mistral-7b", "llava-1.6-34b", "gpt-4o",
+                            "gpt-4o-mini", "gemini-1.5-flash", "gemini-1.5-pro"]
+        }
         self._prompt_types = ["1", "2", "3", "4"]
 
-    def generate_all(self, verbose=False):
-        all_model_types = self._model_types["non_instruction"] + self._model_types["instruction"] + ["clip"]
-        all_basic_results = {prompt: {model: None} for model, prompt in product(*[all_model_types, self._prompt_types])}
-        all_rule_results = {prompt: {model: None} for model, prompt in product(*[all_model_types, self._prompt_types])}
+    def prepare_results_data(self, model_types):
+        """
+        Prepares a dictionary with some of the results on model performance and rules. This is done by setting
+        some results to blank ("-").
+        :param model_types: list of models.
+        :return: pair of dictionaries: one for model performance on each prompt, and the other on different rules.
+        """
 
+        all_basic_results = {prompt: {model: None} for model, prompt in product(*[model_types, self._prompt_types])}
+        all_rule_results = {prompt: {model: None} for model, prompt in product(*[model_types, self._prompt_types])}
+
+        # Mistral results
         all_basic_results["1"]["mistral-7b"] = ["-"] * 6
         all_basic_results["2"]["mistral-7b"] = ["-"] * 6
-        for i in ["1", "3", "4"]:
-            all_basic_results["4"]["human"] = ["-"] * 6
-            all_basic_results[i]["gpt-4o"] = ["-"] * 6
-            all_basic_results[i]["gpt-4o-mini"] = ["-"] * 6
-            all_basic_results[i]["gemini-1.5-flash"] = ["-"] * 6
-            all_basic_results[i]["gemini-1.5-pro"] = ["-"] * 6
 
-        for model, prompt in product(*[all_model_types, self._prompt_types]):
+        # Human, BC, FC results
+        for i in ["1", "3", "4"]:
+            all_basic_results[i]["human"] = ["-"] * 6
+            all_basic_results[i]["belief_graphs_gpt-4o"] = ["-"] * 6
+            all_basic_results[i]["belief_graphs_gpt-4o-mini"] = ["-"] * 6
+            all_basic_results[i]["gpt-4o-fc"] = ["-"] * 6
+            all_basic_results[i]["gpt-4o-mini-fc"] = ["-"] * 6
+            all_basic_results[i]["gemini-1.5-pro-fc"] = ["-"] * 6
+            all_basic_results[i]["gemini-1.5-flash-fc"] = ["-"] * 6
+
+        return all_basic_results, all_rule_results
+
+    def generate_all(self):
+        """
+        Analyzes all the models.
+        """
+        model_types = self._model_types["non_instruction"] + self._model_types["instruction"] + ["clip"]
+        all_basic_results, all_rule_results = self.prepare_results_data(model_types)
+
+        # Results for basic models
+        for model, prompt in product(*[model_types, self._prompt_types]):
             if model == "mistral-7b" and (prompt == "1" or prompt == "2"):
                 continue
-            if model in ["gpt-4o", "gpt-4o-mini", "gemini-1.5-flash", "gemini-1.5-pro"] and (prompt in ["1", "3", "4"]):
-                continue
-            basic_results, rule_results = self.generate(model, prompt, verbose=verbose)
+            basic_results, rule_results = self.generate(model, prompt)
             all_basic_results[prompt][model] = basic_results
             if (model != "blip-2_opt-2.7b" and model != "blip-2_opt-6.7b" and model != "instructblip"
                     and model != "mistral-7b"):
                 all_rule_results[prompt][model] = rule_results
 
-        # print(self.generate("clip", prompt_type="N/A"))
-        print(self.generate("belief_graphs_gpt-4o", prompt_type="N/A"))
-        print(self.generate("belief_graphs_gpt-4o-mini", prompt_type="N/A"))
-        # print(self.generate("belief_graphs_gemini-1.5-flash", prompt_type="N/A"))
-        # print(self.generate("belief_graphs_gemini-1.5-pro", prompt_type="N/A"))
+        # Results for belief graphs
+        all_basic_results["2"]["belief_graphs_gpt-4o"] = self.generate("belief_graphs_gpt-4o",
+                                                                       prompt_type="N/A")[0]
+        all_basic_results["2"]["belief_graphs_gpt-4o-mini"] = self.generate("belief_graphs_gpt-4o-mini",
+                                                                            prompt_type="N/A")[0]
 
+        # Results for human performance
         human_results = []
         for file_path in glob.glob(f"{self.results_dir}/human/*"):
             with open(file_path, "r") as file:
@@ -75,20 +90,36 @@ class AnalysisReport:
                          (human_results[0][2] + human_results[1][2]) / 2, human_results[0][3], "-", "-")
         all_basic_results["2"]["human"] = human_results
 
-        table_prompt_2, table_all_prompts, table_rules_per_prompt = self.analyze_overall(all_basic_results,
-                                                                                         all_rule_results, verbose=True)
+        table_prompt_2, table_all_prompts, table_rules_per_prompt, table_rules_gpt4o = (
+            self.analyze_overall(all_basic_results, all_rule_results))
 
-        if verbose:
-            print("\nMain table (accuracy per model for prompt 2)")
-            print(table_prompt_2)
-            print("\nAccuracy per prompt for each model")
-            print(table_all_prompts)
-            print("\nPercentage of puzzles solved including a specified rule (Individual + Relational + Modifier)")
-            print(table_rules_per_prompt)
+        # Print results
+        print("\nMain table (accuracy per model for prompt 2). There are some slight differences due to randomness.")
+        print(table_prompt_2)
+        print("\nAccuracy per prompt for each model. There are some slight differences due to randomness.")
+        print(table_all_prompts)
+        print("\nPercentage of puzzles solved including a specified rule (Individual + Relational + Modifier)\n"
+              "(averaged across all models)")
+        print(table_rules_per_prompt)
+        print("\nPercentage of puzzles solved including a specified rule (Individual + Relational + Modifier)\n"
+              "(GPT-4o)")
+        print(table_rules_gpt4o)
 
-        self.visualize(table_prompt_2, table_all_prompts, table_rules_per_prompt, all_rule_results)
+    def generate(self, model_type, prompt_type, mistral_type=None):
+        """
+        Loads the results for a model based on the specified model and prompt type and analyzes it.
 
-    def generate(self, model_type, prompt_type, mistral_type=None, verbose=False):
+        :param model_type: string denoting which model to load. Either:
+        ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "fuyu-8b", "instructblip", "llava-1.5-13b", "blip-2_flan-t5-xxl",
+        "cogvlm", "qwenvl", "mistral-7b", "llava-1.6-34b", "gpt-4o", "gpt-4o-mini", "gemini-1.5-flash",
+        "gemini-1.5-pro"]
+        :param prompt_type: string denoting which prompt to laod. Either: ["1", "2", "3", "4"]
+        :param mistral_type: string denoting which mistral type is used.
+        :return: a tuple of results: first value is model performance on all prompts and second value is the model
+        performance on each rule.
+        """
+
+        # Load model results
         if model_type == "clip":
             with open(f"{self.results_dir}/{model_type}.json", "r") as file:
                 results = json.load(file)["results"]
@@ -97,11 +128,8 @@ class AnalysisReport:
             with open(f"{self.results_dir}/belief_graphs/{model_type}.json", "r") as file:
                 results = json.load(file)["results"]
         elif model_type in ["gpt-4o", "gpt-4o-mini", "gemini-1.5-flash", "gemini-1.5-pro"]:
-            with open(f"{self.results_dir}/prompt_2/closed_source_prompt_2.json", "r") as file:
+            with open(f"{self.results_dir}/prompt_{prompt_type}/closed_source_prompt_{prompt_type}.json", "r") as file:
                 results = json.load(file)[model_type]
-        elif model_type == "gpt-4o-mini" and prompt_type == 2:
-            with open(f"{self.results_dir}/prompt_2/closed_source_prompt_2.json", "r") as file:
-                results = json.load(file)["results"]["gpt-4o-mini"]
         elif model_type == "mistral-7b":
             with open(f"{self.results_dir}/{model_type}_prompt_{prompt_type}.json", "r") as file:
                 results = json.load(file)["results"]
@@ -109,6 +137,7 @@ class AnalysisReport:
             with open(f"{self.results_dir}/prompt_{prompt_type}/{model_type}_prompt_{prompt_type}.json", "r") as file:
                 results = json.load(file)["results"]
 
+        # Preprocess results (standardization)
         for result in results:
             if model_type in ["gpt-4o", "gpt-4o-mini", "gemini-1.5-flash", "gemini-1.5-pro"]:
                 result = self._preprocess_closed_source_result(result)
@@ -127,16 +156,35 @@ class AnalysisReport:
                     result = self._preprocess_mistral_result(result)
                 result = self._standardize_general_result(result, mistral_type=mistral_type)
 
-        basic_results = self.analyze_basic(results, verbose=verbose)
+        # Analyze model performance on different prompts
+        basic_results = self.analyze_basic(results)
+
+        # Analyze model performance on different rules
         rule_results = self.analyze_by_rule(results)
+
         return basic_results, rule_results
 
-    def analyze_by_rule(self, results, verbose=False):
+    def analyze_by_rule(self, results):
+        """
+        Computes the accuracy on each rule for a specific model (and sample size of that rule) split over node
+        (individual + modifier) or edge (relational) rules, for both text + icon puzzles separately.
+        :param results: results of a model.
+        :return: a tuple in the following format: (performance on node rules for text puzzles, performance on edge
+        rules for text puzzles, performance on node rules for icon puzzles, performance onedge rules for icon puzzles)
+        """
+
         rules = list(Rule.get_all_rules()["individual"].keys()) + ["sound"]
         rules_freq_text, rules_freq_icon = {}, {}
         edge_freq_text, edge_freq_icon = {}, {}
 
         def increment_rule_freq(rule, value, contains_icons):
+            """
+            Increments the number of puzzles solved for each rule (if it is correctly solved).
+            :param rule: rule category (e.g., 'direction , 'highlight').
+            :param value: rule (e.g., 'up', 'down').
+            :param contains_icons: flag to denote if the puzzle contains an icon or not.
+            """
+
             if contains_icons:
                 if rule in rules:
                     if rule not in rules_freq_icon:
@@ -169,6 +217,12 @@ class AnalysisReport:
                         rules_freq_text[f"{rule}_{value}"].append(0)
 
         def format_attrs(attrs):
+            """
+            Formats the attributes of a node.
+            :param attrs: attributes of node.
+            :return: reformatted attributes of node.
+            """
+
             attrs_ = attrs.copy()
             del attrs_["text"]
             if attrs_["repeat"] == 1:
@@ -183,17 +237,26 @@ class AnalysisReport:
                     del attrs_[rule]
             return attrs_
 
+        # Iterate over each result
         for result in results:
             graph_name = os.path.basename(result["image"]).split(".")[0]
             if graph_name not in self._graph_answer_pairs:
                 continue
+
+            # Get the graph corresponding to a puzzle
             graph = self._graph_answer_pairs[graph_name]
             node_attrs = get_node_attributes(graph)
+
+            # Check if the puzzle contains an icon
             contains_icons = sum([1 if "icon" in attr else 0 for attr in node_attrs.values()]) > 0
+
+            # Compute performance on this puzzle by the rules presents for the nodes (individual + modifier rules)
             for node, attrs in node_attrs.items():
                 attrs_ = format_attrs(attrs)
                 for rule, value in attrs_.items():
                     increment_rule_freq(rule, value, contains_icons)
+
+            # Compute performance on this puzzle by the rules presents for the edges (relational rules)
             edges = nx.get_edge_attributes(graph, "rule").values()
             for edge in edges:
                 if not contains_icons:
@@ -211,6 +274,7 @@ class AnalysisReport:
                     else:
                         edge_freq_icon[edge].append(0)
 
+        # Converts the number of puzzles correctly solved by rule to a percentage
         for rule, freq in rules_freq_text.items():
             rules_freq_text[rule] = (round((sum(freq) / len(freq)) * 100, 2), len(freq))
         for rule, freq in edge_freq_text.items():
@@ -222,8 +286,22 @@ class AnalysisReport:
 
         return rules_freq_text, edge_freq_text, rules_freq_icon, edge_freq_icon
 
-    def analyze_basic(self, results, verbose=False):
+    def analyze_basic(self, results):
+        """
+        Analyzes model performance on each prompt by computing the accuracy and answer distributions.
+
+        :param results: results for a model.
+        :return: tuple in the following format: (accuracy on text puzzles, most common answer on text puzzles,
+        accuracy on icon puzzles, most common answer on icon puzzles, accuracy on text overlap puzzles,
+        accuracy on icon overlap puzzles).
+        """
+
         def compute_accuracy(results):
+            """
+            Computes the percentage of correctly solved puzzles for text/icon puzzles.
+            :param results: results for a model
+            :return: tuple of the form: (accuracy on text puzzles, accuracy on icon puzzles)
+            """
             n_correct, n_correct_icons = 0, 0
             n_puzzles, n_puzzles_icon = 0, 0
             for result in results:
@@ -244,6 +322,12 @@ class AnalysisReport:
             return (n_correct / n_puzzles) * 100, (n_correct_icons / n_puzzles_icon) * 100
 
         def compute_accuracy_overlap(results):
+            """
+            Computes the accuracy on overlapping text + icon puzzles.
+
+            :param results: results for a model.
+            :return: tuple of the form: (accuracy on text overlap puzzles, accuracy on icon overlap puzzles).
+            """
             non_icon_overlap, icon_overlap = self.analyze_non_icon_vs_icon()
             n_non_icon_correct = 0
             n_icon_correct = 0
@@ -257,6 +341,12 @@ class AnalysisReport:
             return (n_non_icon_correct / len(non_icon_overlap)) * 100, (n_icon_correct / len(icon_overlap)) * 100
 
         def compute_max_answer_occurrence(results):
+            """
+            Computes the most common answer.
+
+            :param results: results for a model.
+            :return: tuple of the form: (most common answer on text puzzles, most common answer on icon puzzles).
+            """
             answers_freq, answers_freq_icon = {}, {}
             for result in results:
                 if "clean_output" not in result:
@@ -276,9 +366,12 @@ class AnalysisReport:
                         answers_freq_icon[answer] = 0
                     answers_freq_icon[answer] += 1
 
+            # Convert frequencies to a percentage
             answers_freq = {answer: freq / sum(answers_freq.values()) for answer, freq in answers_freq.items()}
             answers_freq_icon = {answer: freq / sum(answers_freq_icon.values()) for answer, freq in
                                  answers_freq_icon.items()}
+
+            # Get the highest percentage for text and icon puzzles
             if answers_freq != {} and answers_freq_icon != {}:
                 max_answer_freq = {max(answers_freq, key=answers_freq.get): round(
                     answers_freq[max(answers_freq, key=answers_freq.get)] * 100, 2)}
@@ -294,8 +387,22 @@ class AnalysisReport:
         return (round(accuracy, 2), most_common_answer, round(accuracy_icons, 2), most_common_answer_icon,
                 round(accuracy_overlap, 2), round(accuracy_icons_overlap, 2))
 
-    def analyze_overall(self, basic_results, rule_results, verbose=False):
+    def analyze_overall(self, basic_results, rule_results):
+        """
+        Analyzes all models and formats them into a dataframe.
+
+        :param basic_results: model performance on each prompt.
+        :param rule_results: model performance on each rule.
+        :return: a tuple of Dataframes in the format: (prompt 2 results, all prompts results, rule results averaged
+        across all models, rule results for GPT-4o).
+        """
         def calculate_averages(freqs):
+            """
+            Helper function to average model performance on rules.
+
+            :param freqs: rule results for models.
+            :return: dictionary mapping each rule to an average percentage of puzzles solved.
+            """
             sums_counts = {}
             for freq in freqs:
                 for rule, result in freq.items():
@@ -307,10 +414,9 @@ class AnalysisReport:
             averages = {rule: round(sums_counts[rule][0] / sums_counts[rule][1], 2) for rule in sums_counts}
             return averages
 
-        basic_results["1"]["gpt-4o"] = [76.4, None, 77.6, None]
-        basic_results["3"]["gpt-4o"] = [90.7, None, 94.4, None]
-        basic_results["4"]["gpt-4o"] = [91.0, None, 93.5, None]
+        basic_results = self._add_results_from_paper(basic_results)
 
+        # Create dataframe for all prompts results
         table_all_prompts = {}
         for prompt in ["1", "2", "3", "4"]:
             results_no_icon = {model: result[0] for model, result in basic_results[prompt].items() if
@@ -320,6 +426,7 @@ class AnalysisReport:
             table_all_prompts[f"no_icon_prompt_{prompt}"] = results_no_icon
             table_all_prompts[f"icon_prompt_{prompt}"] = results_icon
 
+        # Create dataframe for rule results averaged across all models
         table_rules_per_prompt = {}
         for prompt in ["1", "2", "3", "4"]:
             results = [result for result in list(rule_results[prompt].values()) if result is not None]
@@ -334,12 +441,24 @@ class AnalysisReport:
             table_rules_per_prompt[f"icon_prompt_{prompt}"] = rules_freq_icon
             table_rules_per_prompt[f"icon_prompt_{prompt}"].update(edge_freq_icon)
 
+        # Create dataframe for rule results for GPT-4o
+        table_rules_per_prompt_gpt_4o = {}
+        results = rule_results["2"]["gpt-4o"]
+        rules_freq_text = {rule: value[0] for rule, value in results[0].items()}
+        edge_freq_text = {rule: value[0] for rule, value in results[1].items()}
+        rules_freq_icon = {rule: value[0] for rule, value in results[2].items()}
+        edge_freq_icon = {rule: value[0] for rule, value in results[3].items()}
+        rules_freq_icon = {rule: ("-" if str(rule).startswith("direction") else freq) for rule, freq in
+                           rules_freq_icon.items()}
+        table_rules_per_prompt_gpt_4o[f"no_icon_prompt_2"] = rules_freq_text
+        table_rules_per_prompt_gpt_4o[f"no_icon_prompt_2"].update(edge_freq_text)
+        table_rules_per_prompt_gpt_4o[f"icon_prompt_2"] = rules_freq_icon
+        table_rules_per_prompt_gpt_4o[f"icon_prompt_2"].update(edge_freq_icon)
+
+        # Create dataframe for prompt 2 rule results
         table_prompt_2 = pd.DataFrame(basic_results["2"]).transpose().drop(["mistral-7b"])
         table_prompt_2 = table_prompt_2.rename(columns={0: "accuracy (%)", 1: "most common answer (%)",
                                                         2: "accuracy (%)", 3: "most common answer (%)"})
-
-        overlap_acc = np.array(table_prompt_2[[4, 5]].reset_index(drop=True))[:-1]
-        print("Overlapping puzzle accuracy:", overlap_acc[:, 0].mean() - overlap_acc[:, 1].mean())
 
         table_prompt_2 = table_prompt_2.drop([4, 5], axis=1)
         multi_columns = pd.MultiIndex.from_tuples(
@@ -347,12 +466,19 @@ class AnalysisReport:
              ('With icons', 'accuracy (%)'), ('With icons', 'most common answer (%)')]
         )
 
+        # Conversion to dataframes
         table_prompt_2.columns = multi_columns
         table_all_prompts = pd.DataFrame.from_dict(table_all_prompts)
         table_rules_per_prompt = pd.DataFrame(table_rules_per_prompt)
-        return table_prompt_2, table_all_prompts, table_rules_per_prompt
+        table_rules_per_prompt_gpt_4o = pd.DataFrame(table_rules_per_prompt_gpt_4o)
+        return table_prompt_2, table_all_prompts, table_rules_per_prompt, table_rules_per_prompt_gpt_4o
 
     def analyze_non_icon_vs_icon(self):
+        """
+        Gets all overlapping puzzles that have both a text and icon variant.
+
+        :return: tuple of the form: (overlapping text puzzles, overlapping icon puzzles)
+        """
         non_icon_overlap_puzzles = []
         icon_overlap_puzzles = []
         for answer, graph in reversed(self._graph_answer_pairs.items()):
@@ -365,16 +491,38 @@ class AnalysisReport:
 
         return list(set(non_icon_overlap_puzzles)), list(set(icon_overlap_puzzles))
 
-    def visualize(self, table_prompt_2, table_all_prompts, table_rules_per_prompt, all_rule_results):
-        visualization = Visualizations()
-        # visualization.visualize_rule_frequency(table_rules_per_prompt)
-        # visualization.visualize_prompts(table_all_prompts)
-        visualization.visualize_rule_frequency_gpt4o(all_rule_results["2"]["gpt-4o"])
-        # visualization.visualize_rule_frequency_gpt4o(all_rule_results["2"]["gemini-1.5-flash"])
-        # visualization.visualize_rule_frequency_gpt4o(all_rule_results["2"]["gemini-1.5-pro"])
+    def _add_results_from_paper(self, basic_results):
+        basic_results["2"]["gpt-4o"] = list(basic_results["2"]["gpt-4o"])
+        basic_results["2"]["gpt-4o"][1] = {"A": 26.8}
+        basic_results["2"]["gpt-4o"][3] = {"B": 29.1}
 
+        basic_results["2"]["gpt-4o-mini"] = list(basic_results["2"]["gpt-4o-mini"])
+        basic_results["2"]["gpt-4o-mini"][1] = {"B": 29.4}
+        basic_results["2"]["gpt-4o-mini"][3] = {"B": 31.3}
+
+        basic_results["2"]["gemini-1.5-pro"] = list(basic_results["2"]["gemini-1.5-pro"])
+        basic_results["2"]["gemini-1.5-pro"][1] = {"D": 31.3}
+        basic_results["2"]["gemini-1.5-pro"][3] = {"D": 34.8}
+
+        basic_results["2"]["gemini-1.5-flash"] = list(basic_results["2"]["gemini-1.5-flash"])
+        basic_results["2"]["gemini-1.5-flash"][1] = {"C": 32.5}
+        basic_results["2"]["gemini-1.5-flash"][3] = {"B": 34.4}
+
+        basic_results["2"]["gpt-4o-fc"] = (82.9, {"D": 28.8}, 79.8, {"D": 30.1}, "-", "-")
+        basic_results["2"]["gpt-4o-mini-fc"] = (74.3, {"C": 27.7}, 72.8, {"D": 27.4}, "-", "-")
+        basic_results["2"]["gemini-1.5-pro-fc"] = (74.2, {"D": 34.6}, 76.3, {"D": 33.0}, "-", "-")
+        basic_results["2"]["gemini-1.5-flash-fc"] = (70.0, {"D": 29.5}, 80.9, {"C": 30.1}, "-", "-")
+        return basic_results
 
     def _standardize_general_result(self, result, mistral_type=None):
+        """
+        Standardizes the output of a result and checks if it is correct using regex matching.
+
+        :param result: single result for a model.
+        :param mistral_type: string denoting the mistral type.
+        :return: result for a puzzle with the added cleaned output and a boolean flag to denote if that puzzle
+        was correctly solved.
+        """
         output = result["output"]
         if mistral_type is not None:
             output = result["output"][mistral_type]
@@ -409,10 +557,20 @@ class AnalysisReport:
         return result
 
     def _preprocess_llava_13b_result(self, result):
+        """
+        Preprocess Llava 13b result.
+        :param result: result for Llava 13b.
+        :return: standardized result for Llava 13b.
+        """
         result["output"] = re.split("ASSISTANT: ", result["output"])[1]
         return result
 
     def _preprocess_llava_34b_result(self, result):
+        """
+        Preprocess Llava 34b result.
+        :param result: result for Llava 34b.
+        :return: standardized result for Llava 34b.
+        """
         output = result["output"]
         if "<|im_start|> assistant\n" in output:
             output = output.split("<|im_start|> assistant\n")[1].strip()
@@ -425,6 +583,11 @@ class AnalysisReport:
         return result
 
     def _preprocess_fuyu_result(self, result):
+        """
+        Preprocess Fuyu-8b result.
+        :param result: result for Fuyu-8b.
+        :return: standardized result for Fuyu-8b.
+        """
         output = result["output"]
         if "" in output:
             output = output.split("")[1].strip()
@@ -436,6 +599,11 @@ class AnalysisReport:
         return result
 
     def _preprocess_mistral_result(self, result):
+        """
+        Preprocess Mistral result.
+        :param result: result for Mistral.
+        :return: standardized result for Mistral.
+        """
         output = result["output"]
         match = re.search(r"\(\((.*?)\)\)", output)
         if match:
@@ -444,12 +612,22 @@ class AnalysisReport:
         return result
 
     def _preprocess_cogvlm_result(self, result):
+        """
+        Preprocess CogVLM result.
+        :param result: result for CogVLM.
+        :return: standardized result for CogVLM.
+        """
         output = result["output"]
         output = output.replace("</s>", "")
         result["output"] = output
         return result
 
     def _preprocess_qwenvl_result(self, result):
+        """
+        Preprocess QwenVL result.
+        :param result: result for QwenVL.
+        :return: standardized result for QwenVL.
+        """
         output = result["output"]
         if len(re.findall(r'\(\((.*?)\)\)', output)) > 0:
             result["output"] = re.findall(r'\(\((.*?)\)\)', output)[0]
@@ -461,6 +639,12 @@ class AnalysisReport:
         return result
 
     def _preprocess_closed_source_result(self, result):
+        """
+        Preprocess closed source model result (for GPT-4o (mini), and Gemini-1.5-(pro/flash)). The answer distributions
+        are added later.
+        :param result: result for closed source model.
+        :return: standardized result for closed source model.
+        """
         result["is_correct"] = True if result["label"] == "correct" else False
-        result["clean_output"] = {"A": "asdf"}
+        result["clean_output"] = {"A": 0.0}
         return result

@@ -13,12 +13,19 @@ from data.Benchmark import Benchmark
 
 
 class CLIPExperiment(ModelExperiment):
+    """
+    Class to handle CLIP model experiments.
+    """
     def __init__(self, prompt_type=1):
         super().__init__(prompt_type)
         self.name = "CLIP"
         self._load_model()
 
     def _load_model(self):
+        """
+            Loads the CLIP model
+        """
+
         self.model = CLIPModel.from_pretrained(
             "openai/clip-vit-base-patch32",
             cache_dir=self.models_dir,
@@ -30,6 +37,12 @@ class CLIPExperiment(ModelExperiment):
         )
 
     def run_on_benchmark(self, save_dir):
+        """
+        Runs the CLIP model on the benchmark and saves it to a directory. This also deletes the model files at
+        the end of the run.
+
+        :param save_dir: file path to directory where the results will be saved.
+        """
         benchmark = Benchmark(with_metadata=True)
         puzzles = benchmark.get_puzzles()
 
@@ -52,4 +65,4 @@ class CLIPExperiment(ModelExperiment):
                 "results": puzzles
             }, file, indent=3)
 
-        # self.delete_downloads()
+        self.delete_downloads()

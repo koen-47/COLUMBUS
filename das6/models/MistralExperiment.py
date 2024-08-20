@@ -1,4 +1,5 @@
 import json
+import os
 
 from tqdm import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer
@@ -8,6 +9,9 @@ from data.Benchmark import Benchmark
 
 
 class MistralExperiment(ModelExperiment):
+    """
+    Class to handle Mistral model experiments.
+    """
     def __init__(self, prompt_type=3):
         super().__init__(prompt_type)
         self.name = "Mistral-7b"
@@ -17,19 +21,29 @@ class MistralExperiment(ModelExperiment):
         self._load_model()
 
     def _load_model(self):
+        """
+            Loads the Mistral model
+        """
+
         self.model = AutoModelForCausalLM.from_pretrained(
             "mistralai/Mistral-7B-Instruct-v0.2",
             cache_dir=self.models_dir,
-            token="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"
+            token=os.getenv("MISTRAL_API_KEY")
         ).to(self.device)
 
         self.tokenizer = AutoTokenizer.from_pretrained(
             "mistralai/Mistral-7B-Instruct-v0.2",
             cache_dir=self.models_dir,
-            token="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"
+            token=os.getenv("MISTRAL_API_KEY")
         )
 
     def run_on_benchmark(self, save_dir):
+        """
+        Runs the Mistral model on the benchmark and saves it to a directory. This also deletes the model files at
+        the end of the run.
+
+        :param save_dir: file path to directory where the results will be saved.
+        """
         benchmark = Benchmark(with_metadata=True)
         puzzles = benchmark.get_puzzles()
 
@@ -60,3 +74,5 @@ class MistralExperiment(ModelExperiment):
                 "metadata": metadata,
                 "results": puzzles
             }, file, indent=3)
+
+        self.delete_downloads()

@@ -7,12 +7,18 @@ from .WebScraper import WebScraper
 
 
 class IdiomsWebScraper(WebScraper):
+    """
+    Class to scrape www.theidioms.com"
+    """
     def __init__(self):
         super().__init__()
         self._base_url = "https://www.theidioms.com/list/"
         self._n_pages = 165
 
     def scrape(self):
+        """
+        Start scraping theidioms.com
+        """
         idiom_data = []
         for i in tqdm(range(1, self._n_pages + 1), desc="Collecting idioms (theidioms.com)"):
             url = f"{self._base_url}/page/{i}"
@@ -21,6 +27,11 @@ class IdiomsWebScraper(WebScraper):
             json.dump(idiom_data, file, indent=3)
 
     def _scrape_page(self, url):
+        """
+        Scrape each page that contains information on an idiom.
+        :param url: url of the page containing idioms.
+        :return: list of idioms, their meaning and an example of the idiom being used.
+        """
         soup = self.create_parser(url)
         idioms = soup.find(id="phrase").find_all(class_="idiom")
         idiom_data = [re.split("Meaning:|Example:|Read more", idiom.text)[:-1] for idiom in idioms]
