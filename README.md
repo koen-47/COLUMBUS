@@ -43,8 +43,13 @@ python main.py --show-analysis models
 
 Run the following command to run a specified model with a specified prompt on the benchmark. This is only applicable to the open-source models.
 
+```
+cd das6
+```
+
+
 ```python
-python das6/main.py [model] [prompt]
+python main.py [model] [prompt]
 ```
 
 The model arguments are either: `blip2-opt-2.7b`, `blip2-opt-6.7b`, `blip2-flan-t5`, `instruct-blip`, `fuyu`, `llava-1.5-13b`, `llava-1.6-34b`, `clip`, `cogvlm`, `qwenvl`, or `mistral`.
@@ -84,3 +89,5 @@ All files used to prompt the models in our experiments can be found under the [D
 - [CogVLM](./das6/models/CogVLMModel.py)
 - [Llava](./das6/models/LlavaExperiment.py) (1.5-13b, 1.6-34b)
 - [Mistral](./das6/models/MistralExperiment.py)
+- [Closed-source](./das6/models/close_sourced.ipynb) (also includes forward chaining)
+- [Backward chaining](./scripts/run_belief_graphs.py)
