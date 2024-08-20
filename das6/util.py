@@ -1,12 +1,20 @@
+import base64
 import glob
 import json
 import os
 import copy
+import time
 
 import networkx as nx
 import pandas as pd
+import requests
 
 from parsers.patterns.Rule import Rule
+import google.generativeai as genai
+import PIL.Image
+import os
+
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 
 def get_node_attributes(graph):
@@ -125,3 +133,107 @@ def remove_icons_from_graph(graph):
         graph_no_icon.nodes[node].clear()
     nx.set_node_attributes(graph_no_icon, graph_no_icon_node_attrs)
     return graph_no_icon
+
+
+def encode_image(image_path):
+    with open(image_path, "rb") as image_file:
+        return base64.b64encode(image_file.read()).decode('utf-8')
+
+
+def gpt4v(image_path, system_prompt):
+    base64_image = encode_image(image_path)
+
+    image_contents = [{
+        "type": "image_url",
+        "image_url": {
+            "url": f"data:image/jpeg;base64,{base64_image}",
+            "detail": "low"
+        }
+    }]
+
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {os.getenv("OPENAI_API_KEY")}"
+    }
+
+    payload = {
+        "model": "gpt-4o-2024-05-13",
+        "messages": [
+            {
+                "role": "system",
+                "content": system_prompt,
+            },
+            {
+                "role": "user",
+                "content": image_contents,
+            }
+        ],
+        "max_tokens": 4000,
+        'temperature': 0,
+    }
+
+    start = time.time()
+    response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
+    end = time.time()
+    if end - start < 4:
+        time.sleep(4 - (end - start))
+
+    return response.json()["choices"][0]["message"]["content"]
+
+
+def query_model(puzzle, index, args):
+    prompt_template_dict = {
+        "1": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) {} (B) {} (C) {} (D) {}",
+        "2": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) {} (B) {} (C) {} (D) {}",
+        "3": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\n{}\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) {} (B) {} (C) {} (D) {}",
+        "4": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\n{}\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) {} (B) {} (C) {} (D) {}"
+    }
+
+    try:
+        image_path = puzzle["image"]
+        options = puzzle["options"]
+        if index % 50 == 0:
+            print(f"Processing {index}th image")
+        sub_folder_path = os.path.join(args.folder_path, f"prompt_{args.prompt_type}")
+        json_file_path = os.path.join(sub_folder_path, f'{index}.json')
+        if os.path.exists(json_file_path):
+            print(f"Skipping sub_folder {index} as it already exists")
+        else:
+            prompt_template = prompt_template_dict[args.prompt_type]
+            if args.prompt_type == "3":
+                prompt_options = [puzzle["metadata"]["nodes"]] + list(options.values())
+            elif args.prompt_type == "4":
+                prompt_options = [puzzle["metadata"]["nodes_and_edges"]] + list(options.values())
+            else:
+                prompt_options = list(options.values())
+            prompt = prompt_template.format(*prompt_options)
+            gpt_response = Gemini(image_path, prompt)
+            with open(json_file_path, 'w') as f:
+                json.dump({"gemini_pro_response": gpt_response, 'prompt': prompt, 'answer': puzzle['correct']}, f,
+                          indent=4)
+    except Exception as e:
+        time.sleep(20)
+        print(e)
+
+
+def Gemini(image_path, system_prompt):
+    img = PIL.Image.open(image_path)
+
+    model = genai.GenerativeModel(model_name="gemini-1.5-pro")
+    response = model.generate_content([system_prompt, img])
+    return response.text
+
+
+def query_model_simple_json(data, prompt, index):
+    try:
+        if index % 10 == 0:
+            print(f"Processing {index}th image")
+        image_path = data['image']
+        response = gpt4v(image_path, prompt)
+        data['response'] = response
+        data['prompt'] = prompt
+        json_file_path = os.path.join('./results/GPT/json_result', f'{index}.json')
+        with open(json_file_path, 'w') as f:
+            json.dump(data, f, indent=4)
+    except Exception as e:
+        print(e)

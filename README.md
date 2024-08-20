@@ -61,7 +61,7 @@ Running `mistral` with prompts `1` or `2` will throw an error. Prompts for `clip
 
 ## Data Selection and Collection
 
-The following files consist of the raw data scraped, downloaded or manually collected (custom) to be used as input for our puzzle generation pipeline:
+The following files consist of the raw data scraped, downloaded or manually collected (custom) to be used as input for our puzzle generation pipeline (see Section 4):
 - Compound words: [source](https://era.library.ualberta.ca/items/dc3b9033-14d0-48d7-b6fa-6398a30e61e4) + [custom](./data/input/custom_compounds.csv) 
 - Idioms/phrases: [source](./data/input/idioms_raw.json) + [custom](./data/input/custom_phrases.json)
 - Icons: [source](./data/misc/icons_v2.json)
@@ -71,11 +71,11 @@ The following files consist of the raw data scraped, downloaded or manually coll
 ##  Puzzle Generation
 
 All files relating to puzzle generation can be found under [puzzles](./puzzles). The main ones are as follows:
-- [Rule definition](./puzzles/patterns/Rule.py): defines the rule taxonomy and a function to search for rules given a word.
-- [Compound graph parser](./puzzles/parsers/CompoundRebusGraphParser.py): parses a compound word into its graph representation.
-- [Phrase graph parser](./puzzles/parsers/PhraseRebusGraphParser.py): parses an idiom/phrase into its graph representation. 
-- [Image generation](./puzzles/RebusImageConverter.py): generates a rebus puzzle from its graph representation.
-- [Distractor generation](./scripts/generate_distractors.py): generates three distractors for each question given the correct answer.
+- [Rule definition](./puzzles/patterns/Rule.py): defines the rule taxonomy and a function to search for rules given a word (see Section 3.1).
+- [Compound graph parser](./puzzles/parsers/CompoundRebusGraphParser.py): parses a compound word into its graph representation (see Section 3.2).
+- [Phrase graph parser](./puzzles/parsers/PhraseRebusGraphParser.py): parses an idiom/phrase into its graph representation (see Section 3.2). 
+- [Image generation](./puzzles/RebusImageConverter.py): generates a rebus puzzle from its graph representation (see Section 3.2).
+- [Distractor generation](./scripts/generate_distractors.py): generates three distractors for each question given the correct answer (see Section 3.3).
 
 ## Results
 
@@ -91,3 +91,8 @@ All files used to prompt the models in our experiments can be found under the [D
 - [Mistral](./das6/models/MistralExperiment.py)
 - [Closed-source](./das6/models/close_sourced.ipynb) (also includes forward chaining)
 - [Backward chaining](./scripts/run_belief_graphs.py)
+
+A few files also analyze [model performance](./results/analysis/AnalysisReport.py) and the [benchmark](./results/benchmark/PuzzleAnalysisReport.py). For additional analysis pertaining to computed averages (in Section 6), run the following command:
+```python
+python scripts/analyze_results.py
+```
