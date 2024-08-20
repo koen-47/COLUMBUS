@@ -10,7 +10,7 @@ Create a conda environment with a name of your choice with Python version 3.11:
 
 
 ```python
-conda create -n <env_name> python=3.11
+conda create -n <env_name> python=3.12
 ```
 
 Activate it and install all necessary libraries:
