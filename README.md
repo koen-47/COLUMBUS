@@ -6,7 +6,7 @@ The images of the puzzles can be found [here](./results/benchmark/images). The c
 
 ## Installation
 
-Create a conda environment with a name of your choice with Python version 3.11:
+Create a conda environment with a name of your choice with Python version 3.12:
 
 
 ```python
@@ -44,7 +44,7 @@ python main.py --show-analysis models
 Run the following command to run a specified model with a specified prompt on the benchmark. This is only applicable to the open-source models.
 
 ```
-cd das6
+cd cluster
 ```
 
 
@@ -56,7 +56,7 @@ The model arguments are either: `blip2-opt-2.7b`, `blip2-opt-6.7b`, `blip2-flan-
 
 The prompt arguments either: `1`, `2`, `3`, or `4`
 
-Running `mistral` with prompts `1` or `2` will throw an error. Prompts for `clip` are ignored. See `das6/main.py` for a clear overview of the arguments and their constraints. Make sure you have the correct API token for Mistral set to the label `MISTRAL_API_KEY`.
+Running `mistral` with prompts `1` or `2` will throw an error. Prompts for `clip` are ignored. See `cluster/main.py` for a clear overview of the arguments and their constraints. Make sure you have the correct API token for Mistral set to the label `MISTRAL_API_KEY`.
 
 
 ## Data Selection and Collection
@@ -79,17 +79,17 @@ All files relating to puzzle generation can be found under [puzzles](./puzzles).
 
 ## Results
 
-All files used to prompt the models in our experiments can be found under the [DAS-6](./das6) folder. This is a duplicated, smaller version of this repository to use on a local cluster. The file used to prompt each model is as follows:
+All files used to prompt the models in our experiments can be found under the [cluster](./cluster) folder. This is a duplicated, smaller version of this repository to use on a local cluster. The file used to prompt each model is as follows:
 
-- [CLIP](./das6/models/CLIPExperiment.py)
-- [BLIP-2](./das6/models/BLIP2Experiment.py) (OPT 2.7b, OPT 6.7b, Flan-T5-XXL-11b)
-- [InstructBLIP](./das6/models/InstructBLIPExperiment.py)
-- [Fuyu](./das6/models/FuyuExperiment.py)
-- [QwenVL](./das6/models/QwenVLModel.py)
-- [CogVLM](./das6/models/CogVLMModel.py)
-- [Llava](./das6/models/LlavaExperiment.py) (1.5-13b, 1.6-34b)
-- [Mistral](./das6/models/MistralExperiment.py)
-- [Closed-source](./das6/models/close_sourced.ipynb) (also includes forward chaining)
+- [CLIP](cluster/models/CLIPExperiment.py)
+- [BLIP-2](cluster/models/BLIP2Experiment.py) (OPT 2.7b, OPT 6.7b, Flan-T5-XXL-11b)
+- [InstructBLIP](cluster/models/InstructBLIPExperiment.py)
+- [Fuyu](cluster/models/FuyuExperiment.py)
+- [QwenVL](cluster/models/QwenVLModel.py)
+- [CogVLM](cluster/models/CogVLMModel.py)
+- [Llava](cluster/models/LlavaExperiment.py) (1.5-13b, 1.6-34b)
+- [Mistral](cluster/models/MistralExperiment.py)
+- [Closed-source](cluster/models/close_sourced.ipynb) (also includes forward chaining)
 - [Backward chaining](./scripts/run_belief_graphs.py)
 
 A few files also analyze [model performance](./results/analysis/AnalysisReport.py) and the [benchmark](./results/benchmark/PuzzleAnalysisReport.py). For additional analysis pertaining to computed averages (in Section 6), run the following command:
