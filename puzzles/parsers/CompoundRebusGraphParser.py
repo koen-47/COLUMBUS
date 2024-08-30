@@ -33,6 +33,7 @@ class CompoundRebusGraphParser:
         repetition rules. NOTE: this only applies to compound words, not for pairs of words.
         :return: a list of single-node graphs corresponding to each of the generated graphs.
         """
+
         # Check for patterns for either constituent word
         rules_c1, conflicts_c1 = Rule.find_all(c1, is_plural)
         rules_c2, conflicts_c2 = Rule.find_all(c2, is_plural)

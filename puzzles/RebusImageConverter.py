@@ -66,8 +66,8 @@ class RebusImageConverter:
                     alpha = 0.75 if "icon" in attrs and "cross" in attrs else 1.
                     ax.text(x, y, text, color=color, fontsize=size_, fontweight="bold", fontfamily=font, ha="center",
                             va="center", alpha=alpha)
-                    self._apply_highlight_rule(attrs, ax, text, x, y, size)
-                    self._apply_cross_rule(attrs, ax, text, x, y, _)
+                    self._apply_highlight_rule(attrs, ax, text, x, y)
+                    self._apply_cross_rule(attrs, ax, text, x, y)
 
             ax.set_xlim(0, 1)
             ax.set_ylim(0, 1)
@@ -215,8 +215,8 @@ class RebusImageConverter:
                 text, font = self._apply_icon_rule(text, node_attrs)
                 ax.text(x, y, text, color=color, ha="center", va="center", weight="bold",
                         fontsize=size_, fontfamily=font)
-                self._apply_highlight_rule(node_attrs, ax, text, x, y, _)
-                self._apply_cross_rule(node_attrs, ax, text, x, y, _)
+                self._apply_highlight_rule(node_attrs, ax, text, x, y)
+                self._apply_cross_rule(node_attrs, ax, text, x, y)
             above_text_len = sum([len(attrs["text"]) for attrs in above])
             below_text_len = sum([len(attrs["text"]) for attrs in below])
             divider_len = min(10, max(above_text_len, below_text_len))
@@ -452,32 +452,32 @@ class RebusImageConverter:
         if "highlight" in attrs:
             if attrs["highlight"] == "after":
                 x += (0.11 * (len(text) / 2) * x_offset_multiplier)
-                arrow_top = np.rot90(plt.imread(f"{os.path.dirname(__file__)}../../saved/resources/arrow_right.png"), 3)
+                arrow_top = np.rot90(plt.imread(f"{os.path.dirname(__file__)}../../data/resources/arrow_right.png"), 3)
                 imagebox = OffsetImage(arrow_top, zoom=0.025)
                 ab = AnnotationBbox(imagebox, (x, y + 0.15), frameon=False)
                 ax.add_artist(ab)
-                arrow_bottom = np.rot90(plt.imread(f"{os.path.dirname(__file__)}../../saved/resources/arrow_right.png"),
+                arrow_bottom = np.rot90(plt.imread(f"{os.path.dirname(__file__)}../../data/resources/arrow_right.png"),
                                         1)
                 imagebox = OffsetImage(arrow_bottom, zoom=0.025)
                 ab = AnnotationBbox(imagebox, (x, y - 0.12), frameon=False)
                 ax.add_artist(ab)
             if attrs["highlight"] == "before":
                 x -= (0.11 * (len(text) / 2) * x_offset_multiplier)
-                arrow_top = np.rot90(plt.imread(f"{os.path.dirname(__file__)}../../saved/resources/arrow_right.png"), 3)
+                arrow_top = np.rot90(plt.imread(f"{os.path.dirname(__file__)}../../data/resources/arrow_right.png"), 3)
                 imagebox = OffsetImage(arrow_top, zoom=0.025)
                 ab = AnnotationBbox(imagebox, (x, y + 0.15), frameon=False)
                 ax.add_artist(ab)
-                arrow_bottom = np.rot90(plt.imread(f"{os.path.dirname(__file__)}../../saved/resources/arrow_right.png"),
+                arrow_bottom = np.rot90(plt.imread(f"{os.path.dirname(__file__)}../../data/resources/arrow_right.png"),
                                         1)
                 imagebox = OffsetImage(arrow_bottom, zoom=0.025)
                 ab = AnnotationBbox(imagebox, (x, y - 0.12), frameon=False)
                 ax.add_artist(ab)
             if attrs["highlight"] == "middle":
-                arrow_top = np.rot90(plt.imread(f"{os.path.dirname(__file__)}../../saved/resources/arrow_right.png"), 3)
+                arrow_top = np.rot90(plt.imread(f"{os.path.dirname(__file__)}../../data/resources/arrow_right.png"), 3)
                 imagebox = OffsetImage(arrow_top, zoom=0.025)
                 ab = AnnotationBbox(imagebox, (x, y + 0.15), frameon=False)
                 ax.add_artist(ab)
-                arrow_bottom = np.rot90(plt.imread(f"{os.path.dirname(__file__)}../../saved/resources/arrow_right.png"),
+                arrow_bottom = np.rot90(plt.imread(f"{os.path.dirname(__file__)}../../data/resources/arrow_right.png"),
                                         1)
                 imagebox = OffsetImage(arrow_bottom, zoom=0.025)
                 ab = AnnotationBbox(imagebox, (x, y - 0.12), frameon=False)
