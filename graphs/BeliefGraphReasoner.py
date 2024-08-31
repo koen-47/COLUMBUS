@@ -34,8 +34,6 @@ class BeliefGraphReasoner:
         model = rc2.compute()
         cost = rc2.cost
 
-        graph.visualize(save_path=f"{os.path.dirname(__file__)}/visualizations/graph_before.png")
-
         if verbose:
             print("Model:", model)
             print(f"Cost:", cost)
@@ -47,7 +45,6 @@ class BeliefGraphReasoner:
             if node_attrs["type"] == "statement":
                 node_attrs["value"] = str(instantiation)
 
-        graph.visualize(save_path=f"{os.path.dirname(__file__)}/visualizations/graph_after.png")
         return graph, cost
 
     def _generate_cnf(self, graph):
