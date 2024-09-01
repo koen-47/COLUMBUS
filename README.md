@@ -5,7 +5,7 @@ This repository presents a benchmark of rebus puzzles designed to challenge the 
 
 [📇 Dataset](https://huggingface.co/datasets/koen-47/COLUMBUS) | [📓 Notebooks](./notebooks)
 
-![COLUMBUS puzzle examples](./visualizations/columbus_puzzles_examples.png)
+![COLUMBUS puzzles examples_white](./visualizations/columbus_puzzles_examples_white.png)
 
 </div>
 
