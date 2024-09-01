@@ -1,11 +1,16 @@
-# COLUMBUS: Evaluating <ins>CO</ins>gnitive <ins>L</ins>ateral <ins>U</ins>nderstanding through <ins>M</ins>ultiple-choice re<ins>BUS</ins>es
+<div align="center">
+<h2>COLUMBUS: Evaluating <ins>CO</ins>gnitive <ins>L</ins>ateral <ins>U</ins>nderstanding through <ins>M</ins>ultiple-choice re<ins>BUS</ins>es</h2>
 
 This repository presents a benchmark of rebus puzzles designed to challenge the lateral thinking skills of visual question answering (VQA) models. 
-The images of the puzzles can be found [here](./results/benchmark/images). The correct answers and distractors can be found [here](./benchmark.json).
 
-## Notebooks
+[📇 Dataset](https://huggingface.co/datasets/koen-47/COLUMBUS) | [📓 Notebooks](./notebooks)
 
-There are three [notebooks](./notebooks) that provide a more streamlined experience interacting with COLUMBUS. Alternatively, for a more in-depth and hands-on experience, see the *Installation* section below.
+</div>
+
+[//]: # (## Notebooks)
+
+[//]: # ()
+[//]: # (There are three [notebooks]&#40;./notebooks&#41; that provide a more streamlined experience interacting with COLUMBUS. Alternatively, for a more in-depth and hands-on experience, see the *Installation* section below.)
 
 ## Installation
 
