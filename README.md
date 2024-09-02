@@ -3,11 +3,11 @@
 
 This repository presents a benchmark of rebus puzzles designed to challenge the lateral thinking skills of visual question answering (VQA) models. 
 
-[📇 Dataset](https://huggingface.co/datasets/koen-47/COLUMBUS) | [📓 Notebooks](./notebooks) | [🌐 Website](https://columbus-vqa.github.io/)
+[**🤗 Dataset**](https://huggingface.co/datasets/koen-47/COLUMBUS) | [**📓 Notebooks**](./notebooks) | [**🌐 Website**](https://columbus-vqa.github.io/)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./visualizations/columbus_puzzle_examples_dark.png">
-    <img alt="asdf" src="./visualizations/columbus_puzzle_examples_light.png" />
+    <img alt="" src="./visualizations/columbus_puzzle_examples_light.png" />
 </picture>
 
 [//]: # (![COLUMBUS puzzles examples_white]&#40;./visualizations/columbus_puzzle_examples_dark.png&#41;)
