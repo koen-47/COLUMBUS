@@ -1,6 +1,6 @@
 # Notebooks for COLUMBUS
 
-There are three Jupyter notebooks that can be used to recreate results from COLUMBUS. 
+There are three notebooks that can be used to recreate results from COLUMBUS. 
 These are as follows:
 
 - [Puzzle generation](./generate_puzzles.ipynb): generate puzzles directly from COLUMBUS or generate your own using our pipeline.
@@ -9,4 +9,4 @@ These are as follows:
 
 All model downloads and results will be stored under the [model downloads](./model_downloads) and [model results](./model_results) folders, respectively.
 
-**NOTE:** make sure you have installed all required packages for your conda environment (see the [installation](../README.md) instructions) and that these Jupyter notebooks can see your environment.
+**NOTE:** make sure you have installed all required packages for the conda environment beforehand (see the [installation](../README.md) instructions) and that the notebooks have the environment activated while running.
