@@ -1,7 +1,7 @@
 <div align="center">
 <h1>COLUMBUS: Evaluating <ins>CO</ins>gnitive <ins>L</ins>ateral <ins>U</ins>nderstanding through <ins>M</ins>ultiple-choice re<ins>BUS</ins>es</h1>
 
-Inspired by the demonstration of lateral thinking in the story of *Columbus' Egg*, this repository presents a benchmark of multiple-choice rebus puzzles. These are designed to challenge the creative problem-solving skills of visual question answering (VQA) models. 
+Inspired by the demonstration of creative problem-solving in the story of *Columbus' Egg*, this repository presents a benchmark of multiple-choice rebus puzzles. These are designed to challenge the lateral thinking skills of visual question answering (VQA) models. 
 
 [**🤗 Dataset**](https://huggingface.co/datasets/koen-47/COLUMBUS) | [**📓 Notebooks**](./notebooks) | [**🌐 Website**](https://columbus-vqa.github.io/)
 
