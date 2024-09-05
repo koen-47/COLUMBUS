@@ -26,7 +26,6 @@ seaborn~=0.13.2
 scikit-learn~=1.4.1.post1
 replicate~=0.31.0
 pysat~=3.2.0
-google-generativeai==0.7.2
 accelerate==0.33.0
 google-generativeai==0.7.2
 python-sat==1.8.dev9

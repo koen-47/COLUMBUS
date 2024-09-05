@@ -8,3 +8,5 @@ These are as follows:
 - [Running closed-source models](./run_closed_source_models.ipynb): run four closed-source models (GPT-4o, GPT-4o-mini, Gemini 1.5 Pro + Flash) on COLUMBUS, including their forward and backward chaining variants.  **NOTE**: this does not involve post-processing the results.
 
 All model downloads and results will be stored under the [model downloads](./model_downloads) and [model results](./model_results) folders, respectively.
+
+**NOTE:** make sure you have installed all required packages for your conda environment (see the [installation](../README.md) instructions) and that these Jupyter notebooks can see your environment.
