@@ -1,5 +1,5 @@
-notebooks/model_downloads/*
-notebooks/model_results/*
+#notebooks/model_downloads/*
+#notebooks/model_results/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

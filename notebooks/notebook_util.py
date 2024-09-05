@@ -78,12 +78,6 @@ def prompt_gpt4(prompt, image_path, model, api_key, max_retries=30, timeout=10, 
         'temperature': 0,
     }
 
-    # start = time.time()
-    # response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
-    # end = time.time()
-    # if end - start < 4:
-    #     time.sleep(4 - (end - start))
-
     def _send():
         response_ = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
         return response_.json()
@@ -111,8 +105,8 @@ def prompt_gemini(prompt, image_path, model, api_key, max_retries=30, timeout=10
 
     def _send():
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel(model_name=model)
-        response = model.generate_content([prompt, img])
+        genai_model = genai.GenerativeModel(model_name=model)
+        response = genai_model.generate_content([prompt, img])
         return response
 
     response = None
