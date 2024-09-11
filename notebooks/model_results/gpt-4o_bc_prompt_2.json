@@ -1,0 +1,19 @@
+[
+   {
+      "options": {
+         "A": "jet set",
+         "B": "jumbo jet",
+         "C": "jetliners",
+         "D": "jet-setter"
+      },
+      "correct": {
+         "B": "jumbo jet"
+      },
+      "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\notebooks\\..\\puzzles/../results/benchmark/images\\jumbo_jet.png",
+      "metadata": {
+         "nodes": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n",
+         "nodes_and_edges": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n"
+      },
+      "output": "jet set"
+   }
+]

@@ -119,9 +119,9 @@ python scripts/analyze_results.py
 1. Install `netcdf4` via conda: `conda install -c conda-forge netcdf4`
 2. Run `pip install -r requirements.txt`
 
-## Citation
+## Citation (BibTeX)
 
-If you have found the paper/code useful, please cite us (BibTeX): 
+If you have found COLUMBUS useful, please cite us: 
 
 ```
 @article{kraaijveld2024columbus,
