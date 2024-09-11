@@ -35,6 +35,11 @@ pip install -r requirements.txt
 ```
 
 ## Execution 
+
+### Notebooks
+
+Several [notebooks](./notebooks) are provided that can be used for custom rebus puzzle generation using our methodology, as well as reproducing experiment results with a few open- and closed-source models. These notebooks are intended for a more streamlined interaction with COLUMBUS. For a more hands-on experience, see the remaining subsections below.
+
 ### Displaying the benchmark
 
 To display the benchmark, run the following command. This will loop over the benchmark and present each puzzle and its respective distractors. 
