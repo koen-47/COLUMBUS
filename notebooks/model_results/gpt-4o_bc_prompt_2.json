@@ -9,11 +9,11 @@
       "correct": {
          "B": "jumbo jet"
       },
-      "image": "C:\\Users\\koenk\\PycharmProjects\\msc-thesis\\notebooks\\..\\puzzles/../results/benchmark/images\\jumbo_jet.png",
+      "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\notebooks\\..\\puzzles/../results/benchmark/images\\jumbo_jet.png",
       "metadata": {
          "nodes": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n",
          "nodes_and_edges": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n"
       },
-      "output": "jet set"
+      "output": "jet-setter"
    }
 ]

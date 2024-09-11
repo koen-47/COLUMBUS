@@ -11,10 +11,10 @@ scikit_learn==1.4.1.post1
 scipy==1.14.0
 sentence_transformers==2.6.1
 SoundsLike==0.0.11
-SoundsLike==0.0.11
 spacy==3.7.4
 statsmodels==0.14.2
 tiktoken==0.7.0
+--extra-index-url https://download.pytorch.org/whl/cu118
 torch==2.2.2+cu118
 tqdm==4.66.2
 transformers==4.39.1

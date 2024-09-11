@@ -1,6 +1,3 @@
-#notebooks/model_downloads/*
-#notebooks/model_results/*
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -154,6 +151,10 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Model used for testing notebooks
+notebooks/model_downloads/models--Salesforce--blip2-opt-2.7b
+notebooks/model_downloads/.locks
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
