@@ -3,7 +3,7 @@
 
 Inspired by the demonstration of creative problem-solving in the story of *Columbus' Egg*, this repository presents a benchmark of multiple-choice rebus puzzles. These are designed to challenge the lateral thinking skills of visual question answering (VQA) models. 
 
-[**🤗 Dataset**](https://huggingface.co/datasets/koen-47/COLUMBUS) | [**📓 Notebooks**](./notebooks) | [**🌐 Website**](https://columbus-vqa.github.io/)
+[**📄 Paper**](https://arxiv.org/pdf/2409.04053) | [**📚 arXiv**](https://arxiv.org/abs/2409.04053) | [**🤗 Dataset**](https://huggingface.co/datasets/koen-47/COLUMBUS) | [**📓 Notebooks**](./notebooks) | [**🌐 Website**](https://columbus-vqa.github.io/)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./visualizations/columbus_puzzle_examples_dark.png">
@@ -73,8 +73,9 @@ The prompt arguments either: `1`, `2`, `3`, or `4`
 
 Running `mistral` with prompts `1` or `2` will throw an error. Prompts for `clip` are ignored. See `cluster/main.py` for a clear overview of the arguments and their constraints. Make sure you have the correct API token for Mistral set to the label `MISTRAL_API_KEY`.
 
+## Documentation 
 
-## Data Selection and Collection
+### Data Selection and Collection
 
 The following files consist of the raw data scraped, downloaded or manually collected (custom) to be used as input for our puzzle generation pipeline (see Section 4):
 - Compound words: [source](https://era.library.ualberta.ca/items/dc3b9033-14d0-48d7-b6fa-6398a30e61e4) + [custom](./data/input/custom_compounds.csv) 
@@ -83,7 +84,7 @@ The following files consist of the raw data scraped, downloaded or manually coll
 - Homophones: [source](./data/misc/homophones_v2.json)
 
 
-##  Puzzle Generation
+### Puzzle Generation
 
 All files relating to puzzle generation can be found under [puzzles](./puzzles). The main ones are as follows:
 - [Rule definition](./puzzles/patterns/Rule.py): defines the rule taxonomy and a function to search for rules given a word (see Section 3.1).
@@ -92,7 +93,7 @@ All files relating to puzzle generation can be found under [puzzles](./puzzles).
 - [Image generation](./puzzles/RebusImageConverter.py): generates a rebus puzzle from its graph representation (see Section 3.2).
 - [Distractor generation](./scripts/generate_distractors.py): generates three distractors for each question given the correct answer (see Section 3.3).
 
-## Results
+### Results
 
 All files used to prompt the models in our experiments can be found under the [cluster](./cluster) folder. This is a duplicated, smaller version of this repository to use on a local cluster. The file used to prompt each model is as follows:
 
@@ -110,4 +111,26 @@ All files used to prompt the models in our experiments can be found under the [c
 A few files also analyze [model performance](./results/analysis/AnalysisReport.py) and the [benchmark](./results/benchmark/PuzzleAnalysisReport.py). For additional analysis pertaining to computed averages (in Section 6), run the following command:
 ```python
 python scripts/analyze_results.py
+```
+
+## Troubleshooting
+
+**OSX `netcdf4` error:** this is a known issue on OSX involving the installation of SciPy as part of `requirements.txt`. The fix is as follows:
+1. Install `netcdf4` via conda: `conda install -c conda-forge netcdf4`
+2. Run `pip install -r requirements.txt`
+
+## Citation
+
+If you have found the paper/code useful, please cite us (BibTeX): 
+
+```
+@article{kraaijveld2024columbus,
+      title={COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes}, 
+      author={Koen Kraaijveld and Yifan Jiang and Kaixin Ma and Filip Ilievski},
+      year={2024},
+      eprint={2409.04053},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.04053}, 
+}
 ```
