@@ -34,6 +34,7 @@ Activate it and install all necessary libraries:
 pip install -r requirements.txt
 ```
 
+## Execution 
 ### Displaying the benchmark
 
 To display the benchmark, run the following command. This will loop over the benchmark and present each puzzle and its respective distractors. 
@@ -73,7 +74,7 @@ The prompt arguments either: `1`, `2`, `3`, or `4`
 
 Running `mistral` with prompts `1` or `2` will throw an error. Prompts for `clip` are ignored. See `cluster/main.py` for a clear overview of the arguments and their constraints. Make sure you have the correct API token for Mistral set to the label `MISTRAL_API_KEY`.
 
-## Documentation 
+## Code and Data References 
 
 ### Data Selection and Collection
 
