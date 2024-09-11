@@ -50,7 +50,7 @@ python main.py --show-benchmark
 
 ### Displaying the results
 
-Running either of the following commands to display the results for the puzzle and model analysis, respectively. This will display the tables from the thesis.
+A few files also analyze [model performance](./results/analysis/AnalysisReport.py) and the [benchmark](./results/benchmark/PuzzleAnalysisReport.py). Run either of the following commands to display the results for the puzzle and model analysis, respectively. This will display the tables from the paper.
 
 ```python
 python main.py --show-analysis puzzles
@@ -59,6 +59,12 @@ python main.py --show-analysis puzzles
 ```python
 python main.py --show-analysis models
 ```
+
+For additional analysis pertaining to computed averages (in Section 6), run the following command:
+```python
+python scripts/analyze_results.py
+```
+
 
 ### Evaluating the benchmark
 
@@ -75,9 +81,10 @@ python main.py [model] [prompt]
 
 The model arguments are either: `blip2-opt-2.7b`, `blip2-opt-6.7b`, `blip2-flan-t5`, `instruct-blip`, `fuyu`, `llava-1.5-13b`, `llava-1.6-34b`, `clip`, `cogvlm`, `qwenvl`, or `mistral`.
 
-The prompt arguments either: `1`, `2`, `3`, or `4`
+The prompt arguments are either: `1`, `2`, `3`, or `4`
 
 Running `mistral` with prompts `1` or `2` will throw an error. Prompts for `clip` are ignored. See `cluster/main.py` for a clear overview of the arguments and their constraints. Make sure you have the correct API token for Mistral set to the label `MISTRAL_API_KEY`.
+
 
 ## Code and Data References 
 
@@ -113,11 +120,6 @@ All files used to prompt the models in our experiments can be found under the [c
 - [Mistral](cluster/models/MistralExperiment.py)
 - [Closed-source](cluster/models/close_sourced.ipynb) (also includes forward chaining)
 - [Backward chaining](./scripts/run_belief_graphs.py)
-
-A few files also analyze [model performance](./results/analysis/AnalysisReport.py) and the [benchmark](./results/benchmark/PuzzleAnalysisReport.py). For additional analysis pertaining to computed averages (in Section 6), run the following command:
-```python
-python scripts/analyze_results.py
-```
 
 ## Troubleshooting
 
