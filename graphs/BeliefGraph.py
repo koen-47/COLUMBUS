@@ -157,7 +157,7 @@ class BeliefGraph(nx.DiGraph):
             node_attrs = self.nodes[node]
             if node_attrs["type"] != "statement":
                 continue
-            string += (f"STATEMENT (id: {i + 1}, value: {node_attrs["value"]}, "
+            string += (f"STATEMENT NODE (id: {i + 1}, value: {node_attrs["value"]}, "
                        f"confidence: {node_attrs["confidence"]:.2f})")
             string += f" - \"{node_attrs["statement"]}\"\n"
 
@@ -182,11 +182,11 @@ class BeliefGraph(nx.DiGraph):
             node_attrs = self.nodes[node]
             if node_attrs["type"] != "rule" or not node_attrs["is_xor"]:
                 continue
-            statement_nodes = [self.nodes[statement] for statement in node_attrs["connected_nodes"]]
-            statements = [(node, node["statement"], node["value"], node["confidence"]) for node in statement_nodes]
+            statement_nodes = [(statement, self.nodes[statement]) for statement in node_attrs["connected_nodes"]]
+            statements = [(node, attrs["statement"], attrs["value"], attrs["confidence"]) for node, attrs in statement_nodes]
             string += f"\nXOR RULE NODE (id: {i + 1}, confidence: {node_attrs["confidence"]:.2f})"
             string += (f"\n\t- (node: {statements[0][0]}, {statements[0][2]}, "
-                       f"conf. {float(statements[0][3]):.2f}) {statements[0][1]}\n")
+                       f"conf. {float(statements[0][3]):.2f}) {statements[0][1]}")
             string += (f"\n\t- (node: {statements[1][0]}, {statements[1][2]}, "
                        f"conf. {float(statements[1][3]):.2f}) {statements[1][1]}\n")
 
