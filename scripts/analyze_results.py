@@ -1,3 +1,7 @@
+import json
+import glob
+from pathlib import Path
+
 import numpy as np
 
 
@@ -59,5 +63,48 @@ def analyze_new_results():
           prompt_2_all_models_icon.mean())
 
 
+def analyze_summary():
+    with open("../results/analysis/results/summary_v2.json", "r") as file:
+        summary = json.load(file)
+
+    for model, results in summary.items():
+        for prompt in [f"prompt_{p}" for p in range(1, 5)]:
+            if model == "mistral" and prompt in ["prompt_1", "prompt_2"]:
+                continue
+
+            if not model.startswith("belief_graphs") and model != "clip":
+                text_result = np.array(results[prompt]["text_acc"])
+                icon_result = np.array(results[prompt]["icon_acc"])
+
+                summary[model][prompt]["text_mean"] = text_result.mean()
+                summary[model][prompt]["text_sd"] = text_result.std()
+                summary[model][prompt]["icon_mean"] = icon_result.mean()
+                summary[model][prompt]["icon_sd"] = icon_result.std()
+
+    for model in ["belief_graphs_gpt-40", "belief_graphs_gpt-4o-mini", "clip"]:
+        results = summary[model]
+        text_result = np.array(results["text_acc"])
+        icon_result = np.array(results["icon_acc"])
+
+        summary[model]["text_mean"] = text_result.mean()
+        summary[model]["text_sd"] = text_result.std()
+        summary[model]["icon_mean"] = icon_result.mean()
+        summary[model]["icon_sd"] = icon_result.std()
+
+    with open("../results/analysis/results/summary.json", "w") as file:
+        json.dump(summary, file, indent=3)
+
+
+def remove_faulty_puzzles():
+    for file in Path("../results/analysis/results").rglob("*prompt_[1-4].json"):
+        if "backup" not in str(file) and "human" not in str(file) and "closed_source" not in str(file):
+            with open(file, "r") as results:
+                results = json.load(results)["results"]
+
+
+
+
 if __name__ == "__main__":
-    analyze_new_results()
+    # analyze_new_results()
+    # analyze_summary()
+    remove_faulty_puzzles()

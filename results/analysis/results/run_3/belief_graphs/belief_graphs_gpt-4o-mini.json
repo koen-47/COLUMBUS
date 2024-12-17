@@ -5,7 +5,6 @@
       "seed": 43,
       "max_depth": 1,
       "n_puzzles": 50,
-      "n_examples": 0,
       "hyperparameters": {
          "k": 9,
          "k_entailer": 36,
@@ -30,7 +29,7 @@
          "correct": {
             "B": "jumbo jet"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\jumbo_jet.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\jumbo_jet.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n",
             "nodes_and_edges": "Node 1: {'text': 'JET', 'repeat': 1, 'size': 'big'}\n"
@@ -47,12 +46,12 @@
          "correct": {
             "D": "easy on the eyes"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\easy_on_the_eyes_2_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\easy_on_the_eyes_2_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'EZ', 'repeat': 1, 'sound': {'easy': 'ez'}}\nNode 2: {'text': 'IIII', 'repeat': 1, 'icon': {'eyes': '\ud83d\udc40'}}\nNode 1 --(ABOVE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'EZ', 'repeat': 1, 'sound': {'easy': 'ez'}}\nNode 2: {'text': 'IIII', 'repeat': 1, 'icon': {'eyes': '\ud83d\udc40'}}\nNode 1 --(ABOVE)-> Node 2\n"
          },
-         "output": "easy on the eyes"
+         "output": "easy on the eye"
       },
       {
          "options": {
@@ -64,7 +63,7 @@
          "correct": {
             "B": "green handshake"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\green_handshake_1_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\green_handshake_1_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'HANDSHAKE', 'color': 'green', 'repeat': 1}\n",
             "nodes_and_edges": "Node 1: {'text': 'HANDSHAKE', 'color': 'green', 'repeat': 1}\n"
@@ -81,7 +80,7 @@
          "correct": {
             "B": "walk on the wild side"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\walk_on_the_wild_side_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\walk_on_the_wild_side_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'WALK', 'repeat': 1, 'icon': {'walk': '\ud83d\udeb6'}}\nNode 2: {'text': 'WILD', 'repeat': 1}\nNode 3: {'text': 'SIDE', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n",
             "nodes_and_edges": "Node 1: {'text': 'WALK', 'repeat': 1, 'icon': {'walk': '\ud83d\udeb6'}}\nNode 2: {'text': 'WILD', 'repeat': 1}\nNode 3: {'text': 'SIDE', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n"
@@ -98,7 +97,7 @@
          "correct": {
             "B": "small piece of the puzzle"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\small_piece_of_the_puzzle_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\small_piece_of_the_puzzle_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'PIECE', 'repeat': 1, 'size': 'small'}\nNode 2: {'text': 'PUZZLE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'PIECE', 'repeat': 1, 'size': 'small'}\nNode 2: {'text': 'PUZZLE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
@@ -115,7 +114,7 @@
          "correct": {
             "D": "run on empty"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\run_on_empty_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\run_on_empty_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'RUN', 'repeat': 1}\nNode 2: {'text': 'EMPTY', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'RUN', 'repeat': 1}\nNode 2: {'text': 'EMPTY', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\n"
@@ -132,12 +131,12 @@
          "correct": {
             "C": "up against"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\up_against_1.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\up_against_1.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'AGAINST', 'repeat': 1, 'direction': 'up'}\n",
             "nodes_and_edges": "Node 1: {'text': 'AGAINST', 'repeat': 1, 'direction': 'up'}\n"
          },
-         "output": "pit against"
+         "output": "up against"
       },
       {
          "options": {
@@ -149,7 +148,7 @@
          "correct": {
             "C": "midafternoon"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\midafternoon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\midafternoon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'AFTERNOON', 'repeat': 1, 'highlight': 'middle'}\n",
             "nodes_and_edges": "Node 1: {'text': 'AFTERNOON', 'repeat': 1, 'highlight': 'middle'}\n"
@@ -166,12 +165,12 @@
          "correct": {
             "B": "finger in the pie"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\finger_in_the_pie_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\finger_in_the_pie_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'FINGER', 'repeat': 1}\nNode 2: {'text': 'PIE', 'repeat': 1, 'icon': {'pie': '\ud83e\udd67'}}\nNode 1 --(INSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'FINGER', 'repeat': 1}\nNode 2: {'text': 'PIE', 'repeat': 1, 'icon': {'pie': '\ud83e\udd67'}}\nNode 1 --(INSIDE)-> Node 2\n"
          },
-         "output": "the finger"
+         "output": "finger in the pie"
       },
       {
          "options": {
@@ -183,12 +182,12 @@
          "correct": {
             "B": "back office"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\back_office.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\back_office.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'OFFICE', 'repeat': 1, 'direction': 'reverse'}\n",
             "nodes_and_edges": "Node 1: {'text': 'OFFICE', 'repeat': 1, 'direction': 'reverse'}\n"
          },
-         "output": "back door"
+         "output": "back office"
       },
       {
          "options": {
@@ -200,12 +199,12 @@
          "correct": {
             "B": "get out of my face"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\get_out_of_my_face_1_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\get_out_of_my_face_1_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'GET', 'repeat': 1}\nNode 2: {'text': '\ud83d\ude10', 'repeat': 1, 'highlight': 'middle', 'icon': {'face': '\ud83d\ude10'}}\nNode 1 --(OUTSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'GET', 'repeat': 1}\nNode 2: {'text': '\ud83d\ude10', 'repeat': 1, 'highlight': 'middle', 'icon': {'face': '\ud83d\ude10'}}\nNode 1 --(OUTSIDE)-> Node 2\n"
          },
-         "output": "lose face"
+         "output": "get out of my face"
       },
       {
          "options": {
@@ -217,7 +216,7 @@
          "correct": {
             "B": "before one's eyes"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\before_one's_eyes_2_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\before_one's_eyes_2_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}, 'highlight': 'before'}\nNode 2: {'text': 'EYES', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}, 'highlight': 'before'}\nNode 2: {'text': 'EYES', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
@@ -234,7 +233,7 @@
          "correct": {
             "C": "before one's time"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\before_one's_time_1_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\before_one's_time_1_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}, 'highlight': 'before'}\nNode 2: {'text': 'TIME', 'repeat': 1, 'icon': {'time': '\ud83d\udd5b'}}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}, 'highlight': 'before'}\nNode 2: {'text': 'TIME', 'repeat': 1, 'icon': {'time': '\ud83d\udd5b'}}\nNode 1 --(NEXT-TO)-> Node 2\n"
@@ -251,7 +250,7 @@
          "correct": {
             "C": "hard on the eyes"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\hard_on_the_eyes_2_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\hard_on_the_eyes_2_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'HARD', 'repeat': 1}\nNode 2: {'text': 'IIII', 'repeat': 1, 'icon': {'eyes': '\ud83d\udc40'}}\nNode 1 --(ABOVE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'HARD', 'repeat': 1}\nNode 2: {'text': 'IIII', 'repeat': 1, 'icon': {'eyes': '\ud83d\udc40'}}\nNode 1 --(ABOVE)-> Node 2\n"
@@ -268,7 +267,7 @@
          "correct": {
             "C": "look for a dog to kick"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\look_for_a_dog_to_kick_1_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\look_for_a_dog_to_kick_1_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'LOOK', 'repeat': 4, 'sound': {'for': ['4']}}\nNode 2: {'text': 'DOG', 'repeat': 2, 'sound': {'to': ['2']}}\nNode 3: {'text': 'KICK', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n",
             "nodes_and_edges": "Node 1: {'text': 'LOOK', 'repeat': 4, 'sound': {'for': ['4']}}\nNode 2: {'text': 'DOG', 'repeat': 2, 'sound': {'to': ['2']}}\nNode 3: {'text': 'KICK', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n"
@@ -285,7 +284,7 @@
          "correct": {
             "B": "hunker down"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\hunker_down_1.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\hunker_down_1.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'HUNKER', 'repeat': 1, 'direction': 'down'}\n",
             "nodes_and_edges": "Node 1: {'text': 'HUNKER', 'repeat': 1, 'direction': 'down'}\n"
@@ -302,7 +301,7 @@
          "correct": {
             "A": "cross swords"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\cross_swords_1_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\cross_swords_1_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': '\ud83d\udde1\ud83d\udde1', 'cross': True, 'repeat': 1, 'icon': {'swords': '\ud83d\udde1\ud83d\udde1'}}\n",
             "nodes_and_edges": "Node 1: {'text': '\ud83d\udde1\ud83d\udde1', 'cross': True, 'repeat': 1, 'icon': {'swords': '\ud83d\udde1\ud83d\udde1'}}\n"
@@ -319,12 +318,12 @@
          "correct": {
             "D": "stars in one's eyes"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\stars_in_one's_eyes_1_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\stars_in_one's_eyes_1_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'STARS', 'repeat': 1, 'icon': {'stars': '\ud83c\udf1f\ud83c\udf1f'}}\nNode 2: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}}\nNode 3: {'text': 'IIII', 'repeat': 1, 'sound': {'eyes': 'iiii'}}\nNode 1 --(INSIDE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n",
             "nodes_and_edges": "Node 1: {'text': 'STARS', 'repeat': 1, 'icon': {'stars': '\ud83c\udf1f\ud83c\udf1f'}}\nNode 2: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}}\nNode 3: {'text': 'IIII', 'repeat': 1, 'sound': {'eyes': 'iiii'}}\nNode 1 --(INSIDE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n"
          },
-         "output": "stars align"
+         "output": "see stars"
       },
       {
          "options": {
@@ -336,7 +335,7 @@
          "correct": {
             "D": "up for"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\up_for_2_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\up_for_2_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': '\u2191', 'repeat': 4, 'sound': {'for': ['4']}, 'icon': {'up': '\u2191'}}\n",
             "nodes_and_edges": "Node 1: {'text': '\u2191', 'repeat': 4, 'sound': {'for': ['4']}, 'icon': {'up': '\u2191'}}\n"
@@ -353,7 +352,7 @@
          "correct": {
             "C": "woman on the street"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\woman_on_the_street_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\woman_on_the_street_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'WOMAN', 'repeat': 1, 'icon': {'woman': '\ud83d\udc69'}}\nNode 2: {'text': 'STREET', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'WOMAN', 'repeat': 1, 'icon': {'woman': '\ud83d\udc69'}}\nNode 2: {'text': 'STREET', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\n"
@@ -370,7 +369,7 @@
          "correct": {
             "B": "turn in one's grave"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\turn_in_one's_grave_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\turn_in_one's_grave_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'TURN', 'repeat': 1, 'icon': {'turn': '\ud83d\udd04'}}\nNode 2: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}}\nNode 3: {'text': 'GRAVE', 'repeat': 1}\nNode 1 --(INSIDE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n",
             "nodes_and_edges": "Node 1: {'text': 'TURN', 'repeat': 1, 'icon': {'turn': '\ud83d\udd04'}}\nNode 2: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}}\nNode 3: {'text': 'GRAVE', 'repeat': 1}\nNode 1 --(INSIDE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n"
@@ -387,7 +386,7 @@
          "correct": {
             "D": "hole in one"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\hole_in_one_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\hole_in_one_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'HOLE', 'repeat': 1, 'icon': {'hole': '\ud83d\udd73'}}\nNode 2: {'text': '1', 'repeat': 1, 'sound': {'one': '1'}}\nNode 1 --(INSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'HOLE', 'repeat': 1, 'icon': {'hole': '\ud83d\udd73'}}\nNode 2: {'text': '1', 'repeat': 1, 'sound': {'one': '1'}}\nNode 1 --(INSIDE)-> Node 2\n"
@@ -404,7 +403,7 @@
          "correct": {
             "D": "for show"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\for_show_1.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\for_show_1.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'SHOW', 'repeat': 4, 'sound': {'for': ['4']}}\n",
             "nodes_and_edges": "Node 1: {'text': 'SHOW', 'repeat': 4, 'sound': {'for': ['4']}}\n"
@@ -421,7 +420,7 @@
          "correct": {
             "B": "bookend"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\bookend.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\bookend.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'BOOK', 'repeat': 1, 'highlight': 'after'}\n",
             "nodes_and_edges": "Node 1: {'text': 'BOOK', 'repeat': 1, 'highlight': 'after'}\n"
@@ -438,7 +437,7 @@
          "correct": {
             "D": "midgame"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\midgame_1.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\midgame_1.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'MIDGAME', 'repeat': 1}\n",
             "nodes_and_edges": "Node 1: {'text': 'MIDGAME', 'repeat': 1}\n"
@@ -455,7 +454,7 @@
          "correct": {
             "A": "at the end of the day"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\at_the_end_of_the_day.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\at_the_end_of_the_day.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'DAY', 'repeat': 1, 'highlight': 'after'}\n",
             "nodes_and_edges": "Node 1: {'text': 'DAY', 'repeat': 1, 'highlight': 'after'}\n"
@@ -472,12 +471,12 @@
          "correct": {
             "B": "pull out of the fire"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\pull_out_of_the_fire_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\pull_out_of_the_fire_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'PULL', 'repeat': 1}\nNode 2: {'text': 'FIRE', 'repeat': 1, 'icon': {'fire': '\ud83d\udd25'}}\nNode 1 --(OUTSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'PULL', 'repeat': 1}\nNode 2: {'text': 'FIRE', 'repeat': 1, 'icon': {'fire': '\ud83d\udd25'}}\nNode 1 --(OUTSIDE)-> Node 2\n"
          },
-         "output": "pull out"
+         "output": "pull out of the fire"
       },
       {
          "options": {
@@ -489,7 +488,7 @@
          "correct": {
             "A": "mid life crisis"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\mid_life_crisis.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\mid_life_crisis.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'LIFE', 'repeat': 1, 'highlight': 'middle'}\nNode 2: {'text': 'CRISIS', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'LIFE', 'repeat': 1, 'highlight': 'middle'}\nNode 2: {'text': 'CRISIS', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
@@ -506,7 +505,7 @@
          "correct": {
             "A": "patch up"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\patch_up_1.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\patch_up_1.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'PATCH', 'repeat': 1, 'direction': 'up'}\n",
             "nodes_and_edges": "Node 1: {'text': 'PATCH', 'repeat': 1, 'direction': 'up'}\n"
@@ -523,12 +522,12 @@
          "correct": {
             "B": "down in the mouth"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\down_in_the_mouth_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\down_in_the_mouth_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'DOWN', 'repeat': 1, 'icon': {'down': '\u2193'}}\nNode 2: {'text': 'MOUTH', 'repeat': 1, 'icon': {'mouth': '\ud83d\udc44'}}\nNode 1 --(INSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'DOWN', 'repeat': 1, 'icon': {'down': '\u2193'}}\nNode 2: {'text': 'MOUTH', 'repeat': 1, 'icon': {'mouth': '\ud83d\udc44'}}\nNode 1 --(INSIDE)-> Node 2\n"
          },
-         "output": "down in the mouth"
+         "output": "down in the dumps"
       },
       {
          "options": {
@@ -540,7 +539,7 @@
          "correct": {
             "A": "brick in one's hat"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\brick_in_one's_hat_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\brick_in_one's_hat_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'BRICK', 'repeat': 1}\nNode 2: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}}\nNode 3: {'text': 'HAT', 'repeat': 1}\nNode 1 --(INSIDE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n",
             "nodes_and_edges": "Node 1: {'text': 'BRICK', 'repeat': 1}\nNode 2: {'text': '1111', 'repeat': 1, 'sound': {\"one's\": '1111'}}\nNode 3: {'text': 'HAT', 'repeat': 1}\nNode 1 --(INSIDE)-> Node 2\nNode 2 --(NEXT-TO)-> Node 3\n"
@@ -557,12 +556,12 @@
          "correct": {
             "A": "speak out of turn"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\speak_out_of_turn_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\speak_out_of_turn_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'SPEAK', 'repeat': 1}\nNode 2: {'text': 'TURN', 'repeat': 1}\nNode 1 --(OUTSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'SPEAK', 'repeat': 1}\nNode 2: {'text': 'TURN', 'repeat': 1}\nNode 1 --(OUTSIDE)-> Node 2\n"
          },
-         "output": "speak up"
+         "output": "talk out of turn"
       },
       {
          "options": {
@@ -574,12 +573,12 @@
          "correct": {
             "A": "head to toe"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\head_to_toe_1_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\head_to_toe_1_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': '\ud83d\ude10', 'repeat': 2, 'sound': {'to': ['2']}, 'icon': {'head': '\ud83d\ude10'}}\nNode 2: {'text': 'TOE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': '\ud83d\ude10', 'repeat': 2, 'sound': {'to': ['2']}, 'icon': {'head': '\ud83d\ude10'}}\nNode 2: {'text': 'TOE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
          },
-         "output": "head to toe"
+         "output": "toe the line"
       },
       {
          "options": {
@@ -591,7 +590,7 @@
          "correct": {
             "D": "green light"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\green_light_1_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\green_light_1_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'LIGHT', 'color': 'green', 'repeat': 1}\n",
             "nodes_and_edges": "Node 1: {'text': 'LIGHT', 'color': 'green', 'repeat': 1}\n"
@@ -608,12 +607,12 @@
          "correct": {
             "A": "high up"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\high_up_2.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\high_up_2.png",
          "metadata": {
-            "nodes": "Node 1: {'text': 'HIGH', 'repeat': 1, 'direction': 'up'}\n",
-            "nodes_and_edges": "Node 1: {'text': 'HIGH', 'repeat': 1, 'direction': 'up'}\n"
+            "nodes": "Node 1: {'text': 'HIGH', 'repeat': 1}\nNode 2: {'text': '\u2191', 'repeat': 1, 'icon': {'up': '\u2191'}}\nNode 1 --(NEXT-TO)-> Node 2\n",
+            "nodes_and_edges": "Node 1: {'text': 'HIGH', 'repeat': 1}\nNode 2: {'text': '\u2191', 'repeat': 1, 'icon': {'up': '\u2191'}}\nNode 1 --(NEXT-TO)-> Node 2\n"
          },
-         "output": "high up"
+         "output": "get high"
       },
       {
          "options": {
@@ -625,7 +624,7 @@
          "correct": {
             "A": "go back in time"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\go_back_in_time_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\go_back_in_time_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'GO', 'repeat': 1, 'direction': 'reverse'}\nNode 2: {'text': 'TIME', 'repeat': 1}\nNode 1 --(INSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'GO', 'repeat': 1, 'direction': 'reverse'}\nNode 2: {'text': 'TIME', 'repeat': 1}\nNode 1 --(INSIDE)-> Node 2\n"
@@ -642,12 +641,12 @@
          "correct": {
             "B": "leftover"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\leftover_1.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\leftover_1.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'OVER', 'repeat': 1, 'direction': 'reverse'}\n",
             "nodes_and_edges": "Node 1: {'text': 'OVER', 'repeat': 1, 'direction': 'reverse'}\n"
          },
-         "output": "holdovers"
+         "output": "stopover"
       },
       {
          "options": {
@@ -659,7 +658,7 @@
          "correct": {
             "C": "set the world on fire"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\set_the_world_on_fire_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\set_the_world_on_fire_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'SET', 'repeat': 1}\nNode 2: {'text': '\ud83c\udf0d', 'repeat': 1, 'icon': {'world': '\ud83c\udf0d'}}\nNode 3: {'text': 'FIRE', 'repeat': 1, 'icon': {'fire': '\ud83d\udd25'}}\nNode 1 --(NEXT-TO)-> Node 2\nNode 2 --(ABOVE)-> Node 3\n",
             "nodes_and_edges": "Node 1: {'text': 'SET', 'repeat': 1}\nNode 2: {'text': '\ud83c\udf0d', 'repeat': 1, 'icon': {'world': '\ud83c\udf0d'}}\nNode 3: {'text': 'FIRE', 'repeat': 1, 'icon': {'fire': '\ud83d\udd25'}}\nNode 1 --(NEXT-TO)-> Node 2\nNode 2 --(ABOVE)-> Node 3\n"
@@ -676,7 +675,7 @@
          "correct": {
             "D": "get to the point"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\get_to_the_point_1_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\get_to_the_point_1_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'GET', 'repeat': 2, 'sound': {'to': ['2']}}\nNode 2: {'text': 'POINT', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'GET', 'repeat': 2, 'sound': {'to': ['2']}}\nNode 2: {'text': 'POINT', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
@@ -693,12 +692,12 @@
          "correct": {
             "C": "middle class value"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\middle_class_value.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\middle_class_value.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'CLASS', 'repeat': 1, 'highlight': 'middle'}\nNode 2: {'text': 'VALUE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'CLASS', 'repeat': 1, 'highlight': 'middle'}\nNode 2: {'text': 'VALUE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
          },
-         "output": "class act"
+         "output": "middle class value"
       },
       {
          "options": {
@@ -710,7 +709,7 @@
          "correct": {
             "A": "bring to light"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\bring_to_light_1_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\bring_to_light_1_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'BRING', 'repeat': 2, 'sound': {'to': ['2']}}\nNode 2: {'text': 'LIGHT', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'BRING', 'repeat': 2, 'sound': {'to': ['2']}}\nNode 2: {'text': 'LIGHT', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
@@ -727,7 +726,7 @@
          "correct": {
             "B": "living in a small bubble"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\living_in_a_small_bubble.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\living_in_a_small_bubble.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'LIVING', 'repeat': 1}\nNode 2: {'text': 'BUBBLE', 'repeat': 1, 'size': 'small'}\nNode 1 --(INSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'LIVING', 'repeat': 1}\nNode 2: {'text': 'BUBBLE', 'repeat': 1, 'size': 'small'}\nNode 1 --(INSIDE)-> Node 2\n"
@@ -744,12 +743,12 @@
          "correct": {
             "A": "for a while"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\for_a_while_1.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\for_a_while_1.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'WHILE', 'repeat': 4, 'sound': {'for': ['4']}}\n",
             "nodes_and_edges": "Node 1: {'text': 'WHILE', 'repeat': 4, 'sound': {'for': ['4']}}\n"
          },
-         "output": "long time"
+         "output": "for a while"
       },
       {
          "options": {
@@ -761,12 +760,12 @@
          "correct": {
             "C": "elephant in the room"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\elephant_in_the_room_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\elephant_in_the_room_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'ELEPHANT', 'repeat': 1, 'icon': {'elephant': '\ud83d\udc18'}}\nNode 2: {'text': 'ROOM', 'repeat': 1}\nNode 1 --(INSIDE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'ELEPHANT', 'repeat': 1, 'icon': {'elephant': '\ud83d\udc18'}}\nNode 2: {'text': 'ROOM', 'repeat': 1}\nNode 1 --(INSIDE)-> Node 2\n"
          },
-         "output": "elephant in the room"
+         "output": "baby elephant in the room"
       },
       {
          "options": {
@@ -778,7 +777,7 @@
          "correct": {
             "B": "dead end job"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\dead_end_job_1_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\dead_end_job_1_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': '\ud83d\udc80', 'repeat': 1, 'highlight': 'after', 'icon': {'dead': '\ud83d\udc80'}}\nNode 2: {'text': 'JOB', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': '\ud83d\udc80', 'repeat': 1, 'highlight': 'after', 'icon': {'dead': '\ud83d\udc80'}}\nNode 2: {'text': 'JOB', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
@@ -795,7 +794,7 @@
          "correct": {
             "C": "icing on the cake"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\icing_on_the_cake_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\icing_on_the_cake_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'ICING', 'repeat': 1}\nNode 2: {'text': 'CAKE', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'ICING', 'repeat': 1}\nNode 2: {'text': 'CAKE', 'repeat': 1}\nNode 1 --(ABOVE)-> Node 2\n"
@@ -812,7 +811,7 @@
          "correct": {
             "B": "build up"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\build_up_1.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\build_up_1.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'BUILD', 'repeat': 1, 'direction': 'up'}\n",
             "nodes_and_edges": "Node 1: {'text': 'BUILD', 'repeat': 1, 'direction': 'up'}\n"
@@ -829,7 +828,7 @@
          "correct": {
             "A": "crosswalks"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\crosswalks_1_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\crosswalks_1_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'WALKS', 'cross': True, 'repeat': 2}\n",
             "nodes_and_edges": "Node 1: {'text': 'WALKS', 'cross': True, 'repeat': 2}\n"
@@ -846,7 +845,7 @@
          "correct": {
             "A": "back the wrong horse"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\back_the_wrong_horse_non-icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\back_the_wrong_horse_non-icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'WRONG', 'repeat': 1, 'direction': 'reverse'}\nNode 2: {'text': 'HORSE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'WRONG', 'repeat': 1, 'direction': 'reverse'}\nNode 2: {'text': 'HORSE', 'repeat': 1}\nNode 1 --(NEXT-TO)-> Node 2\n"
@@ -863,7 +862,7 @@
          "correct": {
             "D": "easy on the eye"
          },
-         "image": "C:\\Users\\\\PycharmProjects\\rebus-puzzles\\puzzles/../results/benchmark/final_v3\\easy_on_the_eye_2_icon.png",
+         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\puzzles/../results/benchmark/images\\easy_on_the_eye_2_icon.png",
          "metadata": {
             "nodes": "Node 1: {'text': 'EZ', 'repeat': 1, 'sound': {'easy': 'ez'}}\nNode 2: {'text': 'I', 'repeat': 1, 'icon': {'eye': '\ud83d\udc41'}}\nNode 1 --(ABOVE)-> Node 2\n",
             "nodes_and_edges": "Node 1: {'text': 'EZ', 'repeat': 1, 'sound': {'easy': 'ez'}}\nNode 2: {'text': 'I', 'repeat': 1, 'icon': {'eye': '\ud83d\udc41'}}\nNode 1 --(ABOVE)-> Node 2\n"

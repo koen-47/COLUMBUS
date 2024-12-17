@@ -93,11 +93,11 @@ class Visualizations:
             lines = []
             for i, (model, accuracy) in enumerate(prompt_data.items()):
                 if model == "mistral-7b":
-                    line, = ax.plot(list(range(3, 5)), accuracy, label=model_names[model], marker=markers[i], linewidth=3,
-                            markersize=12)
+                    line, = ax.plot(list(range(3, 5)), accuracy, label=model_names[model], marker=markers[i],
+                                    linewidth=3, markersize=12)
                 else:
-                    line, = ax.plot(list(range(1, 5)), accuracy, label=model_names[model], marker=markers[i], linewidth=3,
-                            markersize=12)
+                    line, = ax.plot(list(range(1, 5)), accuracy, label=model_names[model], marker=markers[i],
+                                    linewidth=3, markersize=12)
                 lines.append(line)
 
             if not is_icon:
@@ -123,3 +123,34 @@ class Visualizations:
 
         fig.legend(lines, labels, loc='lower center', shadow=True, ncol=5, fontsize=24)
         plt.show()
+
+    def visualize_prompts_from_summary(self):
+        plt.rcParams["font.family"] = "Times New Roman"
+        plt.rcParams["font.size"] = 27
+
+        models = ["gpt-4o", "fuyu-8b", "blip-2_flan-t5-xxl", "mistral-7b"]
+        model_names = dict(zip(models, ["GPT-4o", "Fuyu-8b", "BLIP-2 Flan-T5-XXL", "Mistral-7b"]))
+        prompts = [f"prompt_{i}" for i in range(1, 5)]
+
+        with open("../analysis/results/summary.json", "r") as file:
+            summary = json.load(file)
+
+        text_acc, icon_acc = {}, {}
+        for model, results in summary.items():
+            for prompt in range(1, 5):
+                prompt_str = f"prompt_{prompt}"
+                if model == "mistral" and prompt in [1, 2]:
+                    continue
+                if model in models:
+                    result = results[prompt_str]
+                    if model not in text_acc:
+                        text_acc[model] = []
+                    text_acc[model].append(result["text_mean"])
+                    if model not in icon_acc:
+                        icon_acc[model] = []
+                    icon_acc[model].append(result["icon_acc"])
+
+        print(json.dumps(text_acc, indent=3))
+
+
+Visualizations().visualize_prompts_from_summary()
