@@ -1,0 +1,39 @@
+/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/huggingface_hub/file_download.py:797: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/models/llava/configuration_llava.py:103: FutureWarning: The `vocab_size` argument is deprecated and will be removed in v4.42, since it can be inferred from the `text_config`. Passing this argument has no effect
+  warnings.warn(
+Running experiment... (model: llava-1.5-13b, prompt type: 3)
+Downloading shards:   0%|          | 0/6 [00:00<?, ?it/s]Downloading shards:  17%|█▋        | 1/6 [02:01<10:08, 121.77s/it]Downloading shards:  33%|███▎      | 2/6 [04:00<07:59, 119.95s/it]Downloading shards:  50%|█████     | 3/6 [05:56<05:54, 118.33s/it]Downloading shards:  67%|██████▋   | 4/6 [07:54<03:55, 117.88s/it]Downloading shards:  83%|████████▎ | 5/6 [09:52<01:57, 117.91s/it]Downloading shards: 100%|██████████| 6/6 [10:40<00:00, 94.46s/it] Downloading shards: 100%|██████████| 6/6 [10:40<00:00, 106.82s/it]
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [00:00<00:03,  1.35it/s]Loading checkpoint shards:  33%|███▎      | 2/6 [00:01<00:02,  1.46it/s]Loading checkpoint shards:  50%|█████     | 3/6 [00:02<00:01,  1.51it/s]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:02<00:01,  1.52it/s]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:03<00:00,  1.57it/s]Loading checkpoint shards: 100%|██████████| 6/6 [00:03<00:00,  1.86it/s]Loading checkpoint shards: 100%|██████████| 6/6 [00:03<00:00,  1.66it/s]
+Traceback (most recent call last):
+  File "/var/scratch/hkd800/scripts/main.py", line 70, in <module>
+    main()
+  File "/var/scratch/hkd800/scripts/main.py", line 48, in main
+    llava_experiment = LlavaExperiment(model_type="13b", prompt_type=prompt_type)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/scripts/models/LlavaExperiment.py", line 28, in __init__
+    self._load_model()
+  File "/var/scratch/hkd800/scripts/models/LlavaExperiment.py", line 39, in _load_model
+    self.processor = AutoProcessor.from_pretrained(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/models/auto/processing_auto.py", line 314, in from_pretrained
+    return processor_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/processing_utils.py", line 465, in from_pretrained
+    args = cls._get_arguments_from_pretrained(pretrained_model_name_or_path, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/processing_utils.py", line 511, in _get_arguments_from_pretrained
+    args.append(attribute_class.from_pretrained(pretrained_model_name_or_path, **kwargs))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2089, in from_pretrained
+    return cls._from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2311, in _from_pretrained
+    tokenizer = cls(*init_inputs, **init_kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/models/llama/tokenization_llama_fast.py", line 124, in __init__
+    super().__init__(
+  File "/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/tokenization_utils_fast.py", line 111, in __init__
+    fast_tokenizer = TokenizerFast.from_file(fast_tokenizer_file)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Exception: data did not match any variant of untagged enum ModelWrapper at line 277156 column 3

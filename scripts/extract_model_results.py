@@ -65,18 +65,19 @@ def extract_model_result(model_type, output_file_path):
         output_file = json.load(file)
 
     # Prompt used to extract the output
-    prompt_template = ("I have the following text:\n\"{}\"\n\nPlease map this text to any of the following options. "
-                       "Remember that the output can also refer to any of the symbols as well (either A, B, C, D)."
-                       "Respond with 'None' if none of the output doesn't sufficiently match any of the options."
+    prompt_template = ("I have the following text:\n\"{}\"\n\nPlease extract the answer being given in this text. "
+                       "Remember that the answer can also refer to any of the symbols as well (either A, B, C, D). "
+                       "Respond with 'None' if the text doesn't sufficiently match any of the options. "
+                       "Respond with a comma-separated list of answers if you think there is more than one suitable answer. "
                        "Respond with only these options:{}")
 
-    for result in tqdm(output_file["results"][:1], desc=f"Extracting results (model: {model_type})"):
+    for result in tqdm(output_file["results"], desc=f"Extracting results (model: {model_type})"):
         options = "".join([f"\n{symbol}) {option}" for symbol, option in result["options"].items()])
 
         # Different output extraction method used depending on the model
         if model_type == "llava-1.6-34b":
             output = get_llava_34b_output(result["output"])
-        elif model_type == "mistral-7b":
+        if model_type == "mistral-7b":
             output = get_mistral_output(result["output"])
         else:
             output = result["output"]
@@ -84,6 +85,8 @@ def extract_model_result(model_type, output_file_path):
         result["raw_output"] = result["output"]
         response = make_safe_prompt(prompt)
         result["output"] = response
+        if response == "None":
+            result["output"] = result["raw_output"]
     return output_file
 
 
@@ -109,21 +112,25 @@ def extract_llava_34b_results():
     """
     Extract results for Llava-34b.
     """
-    llava_file = f"../results/analysis/results/prompt_1/llava-1.6-34b_prompt_1.json"
-    results = extract_model_result("llava-1.6-34b", llava_file)
-    with open(llava_file, "w") as file:
-        json.dump(results, file, indent=3)
+    for num_prompt in range(2, 5):
+        for num_run in range(1, 2):
+            llava_file = (f"../results/analysis/results/run_{num_run}/prompt_{num_prompt}/"
+                          f"llava-1.6-34b_prompt_{num_prompt}.json")
+            results = extract_model_result("llava-1.6-34b", llava_file)
+            with open(llava_file, "w") as file:
+                json.dump(results, file, indent=3)
 
 
 def extract_qwenvl_results():
     """
     Extract results for QwenVL.
     """
-    for num_prompt in range(1, 5):
-        qwenvl_file = f"../results/analysis/results/prompt_{num_prompt}/qwenvl_prompt_{num_prompt}.json"
-        results = extract_model_result("qwenvl", qwenvl_file)
-        with open(qwenvl_file, "w") as file:
-            json.dump(results, file, indent=3)
+    for num_prompt in range(4, 5):
+        for num_run in range(1, 4):
+            qwenvl_file = f"../results/analysis/results/run_{num_run}/prompt_{num_prompt}/qwenvl_prompt_{num_prompt}.json"
+            results = extract_model_result("qwenvl", qwenvl_file)
+            with open(qwenvl_file, "w") as file:
+                json.dump(results, file, indent=3)
 
 
 def extract_mistral_results():
@@ -131,7 +138,11 @@ def extract_mistral_results():
     Extract results for Mistral.
     """
     for num_prompt in range(3, 5):
-        mistral_file = f"../results/analysis/results/mistral-7b_prompt_{num_prompt}.json"
-        results = extract_model_result("mistral-7b", mistral_file)
-        with open(mistral_file, "w") as file:
-            json.dump(results, file, indent=3)
+        for num_run in range(2, 4):
+            mistral_file = f"../results/analysis/results/run_{num_run}/mistral-7b_prompt_{num_prompt}.json"
+            results = extract_model_result("mistral-7b", mistral_file)
+            with open(mistral_file, "w") as file:
+                json.dump(results, file, indent=3)
+
+
+extract_qwenvl_results()

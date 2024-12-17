@@ -1,0 +1,59 @@
+{
+
+  "prompt_2": {
+    "blip-2_opt-2.7b": {
+      "text_acc_per_run": [21.82],
+      "text_mfa_per_run": [{"D":  27.32}],
+      "icon_acc_per_run": [24.26],
+      "icon_mfa_per_run": [{"A":  51.41}]
+    },
+    "blip-2_opt-6.7b": {
+      "text_acc_per_run": [24.18],
+      "text_mfa_per_run": [{"A": 96.47}],
+      "icon_acc_per_run": [25.61],
+      "icon_mfa_per_run": [{"A":  95.12}]
+    },
+    "fuyu-8b": {
+      "text_acc_per_run": [32.03],
+      "text_mfa_per_run": [{"C": 46.31}],
+      "icon_acc_per_run": [31.0],
+      "icon_mfa_per_run": [{"C":  44.66}]
+    },
+    "instructblip": {
+      "text_acc_per_run": [51.33],
+      "text_mfa_per_run": [{"D":  58.87}],
+      "icon_acc_per_run": [51.21],
+      "icon_mfa_per_run": [{"D":  54.72}]
+    },
+    "qwenvl": {
+      "text_acc_per_run": [57.93],
+      "text_mfa_per_run": [{"B":  29.07}],
+      "icon_acc_per_run": [64.15],
+      "icon_mfa_per_run": [{"B":  32.87}]
+    },
+    "blip-2_flan-t5-xxl": {
+      "text_acc_per_run": [68.29],
+      "text_mfa_per_run": [{"A":  34.91}],
+      "icon_acc_per_run": [71.97],
+      "icon_mfa_per_run": [{"A":  35.31}]
+    },
+    "llava-1.5-13b": {
+      "text_acc_per_run": [58.08],
+      "text_mfa_per_run": [{"A": 31.2}],
+      "icon_acc_per_run": [58.76],
+      "icon_mfa_per_run": [{"A": 31.53}]
+    },
+    "cogvlm": {
+      "text_acc_per_run": [59.34],
+      "text_mfa_per_run": [{"B": 35.76}],
+      "icon_acc_per_run": [60.11],
+      "icon_mfa_per_run": [{"B": 42.82}]
+    },
+    "llava-1.6-34b": {
+      "text_acc_per_run": [],
+      "text_mfa_per_run": [],
+      "icon_acc_per_run": [],
+      "icon_mfa_per_run": []
+    }
+  }
+}

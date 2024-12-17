@@ -18,7 +18,7 @@ class AnalysisReport:
     """
 
     def __init__(self):
-        self.results_dir = f"{os.path.dirname(__file__)}/results"
+        self.results_dir = f"{os.path.dirname(__file__)}/results/run_2"
         self._graph_answer_pairs = get_answer_graph_pairs(combine=True)
         self._model_types = {
             "non_instruction": ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "fuyu-8b"],
@@ -66,6 +66,7 @@ class AnalysisReport:
         for model, prompt in product(*[model_types, self._prompt_types]):
             if model == "mistral-7b" and (prompt == "1" or prompt == "2"):
                 continue
+            print(model, prompt)
             basic_results, rule_results = self.generate(model, prompt)
             all_basic_results[prompt][model] = basic_results
             if (model != "blip-2_opt-2.7b" and model != "blip-2_opt-6.7b" and model != "instructblip"
@@ -80,14 +81,15 @@ class AnalysisReport:
 
         # Results for human performance
         human_results = []
-        for file_path in glob.glob(f"{self.results_dir}/human/*"):
+        for file_path in glob.glob(f"{self.results_dir}/../human/*"):
             with open(file_path, "r") as file:
                 results = json.load(file)
             for result in results:
                 result = self._standardize_general_result(result)
             human_results.append(self.analyze_basic(results))
-        human_results = ((human_results[0][0] + human_results[1][0]) / 2, human_results[0][1],
-                         (human_results[0][2] + human_results[1][2]) / 2, human_results[0][3], "-", "-")
+
+        human_results = np.array(human_results)
+        human_results = [human_results[:, 0].mean(), "-", human_results[:, 2].mean(), "-", "-", "-"]
         all_basic_results["2"]["human"] = human_results
 
         table_prompt_2, table_all_prompts, table_rules_per_prompt, table_rules_gpt4o = (
@@ -142,6 +144,10 @@ class AnalysisReport:
             if model_type in ["gpt-4o", "gpt-4o-mini", "gemini-1.5-flash", "gemini-1.5-pro"]:
                 result = self._preprocess_closed_source_result(result)
             else:
+                if model_type.startswith("blip-2_opt"):
+                    result = self._preprocess_blip2_opt_result(result)
+                if model_type == "instructblip":
+                    result = self._preprocess_instructblip_result(result)
                 if model_type == "llava-1.5-13b":
                     result = self._preprocess_llava_13b_result(result)
                 elif model_type == "llava-1.6-34b":
@@ -554,6 +560,28 @@ class AnalysisReport:
                 result["clean_output"] = {letter: output}
             else:
                 result["is_correct"] = False
+        return result
+
+    def _preprocess_blip2_opt_result(self, result):
+        """
+        Preprocess BLIP-2 OPT 2.7b result.
+        :param result: result for BLIP-2 OPT 2.7b .
+        :return: standardized result for BLIP-2 OPT 2.7b .
+        """
+        parts = re.split("Answer: ", result["output"])
+        if len(parts) > 1:
+            result["output"] = parts[1]
+        return result
+
+    def _preprocess_instructblip_result(self, result):
+        """
+        Preprocess InstructBLIP result.
+        :param result: result for InstructBLIP.
+        :return: standardized result for InstructBLIP.
+        """
+        parts = re.split("Short answer: ", result["output"])
+        if len(parts) > 1:
+            result["output"] = parts[1]
         return result
 
     def _preprocess_llava_13b_result(self, result):

@@ -1,0 +1,4 @@
+/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: '/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/torchvision/image.so: undefined symbol: _ZN3c1017RegisterOperatorsD1Ev'If you don't plan on using image functionality from `torchvision.io`, you can ignore this warning. Otherwise, there might be something wrong with your environment. Did you have `libjpeg` or `libpng` installed before building `torchvision` from source?
+  warn(
+Running experiment... (model: llava-1.5-13b, prompt type: 1)
+Downloading shards:   0%|          | 0/6 [00:00<?, ?it/s]
