@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus is \"1111DIG Heels\".  The four 1's can be read as \"one one one one\" or \"four ones\".  Four ones can be interpreted as \"for once\".  Combined with the rest, it becomes \"for once DIG heels\", a synonym for \"dig in one's heels\".\n\nSo the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig in one's heels (B) dig one's heels in (C) dig heels in (D) take to one's heels",
+    "answer": {
+        "A": "dig in one's heels"
+    }
+}

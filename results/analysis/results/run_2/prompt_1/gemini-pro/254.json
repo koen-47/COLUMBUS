@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"FLAMES\" with the letters \"O\" and \"G\" superimposed to make it look like the word \"GAMES\" is overlaid.  This represents the phrase **(B) go up in flames**.  It suggests the Olympic Games (represented by the \"GAMES\" hidden within \"FLAMES\") being destroyed by fire.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) flame up (B) go up in flames (C) go up in smoke (D) go down in flames",
+    "answer": {
+        "B": "go up in flames"
+    }
+}

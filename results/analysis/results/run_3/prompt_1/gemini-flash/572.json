@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) down in the mouth.  The image uses a visual pun, combining \"mood\" and \"down\" to create \"MODOWNUTH,\" which sounds like \"moody down mouth\".  This is a common idiom to describe someone who is sad or unhappy.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down under (B) down the toilet (C) down in the dumps (D) down in the mouth",
+    "answer": {
+        "D": "down in the mouth"
+    }
+}

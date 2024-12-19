@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) lightning in a bottle.  The popping champagne bottles visually represent the \"lightning,\" and the bottles themselves suggest the \"bottle\" part of the phrase. This idiom refers to capturing something rare, fleeting, and powerful, like lightning.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bottle up (B) lightning fast (C) bottle away (D) lightning in a bottle",
+    "answer": {
+        "D": "lightning in a bottle"
+    }
+}

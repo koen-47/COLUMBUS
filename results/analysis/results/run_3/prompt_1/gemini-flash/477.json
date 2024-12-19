@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **go to sea**.\n\nThe image shows the word \"GO\" twice, visually separated from a stylized image of an ocean wave.  This combination clearly represents the phrase \"go to sea\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go places (B) at sea (C) go fish (D) go to sea",
+    "answer": {
+        "D": "go to sea"
+    }
+}

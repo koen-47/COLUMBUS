@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"OVER\" with arrows pointing above and below it. The description indicates that \"OVER\" is repeated twice and the highlight is \"before\".  This suggests the word OVER is placed before and after something.  Since the arrows point up and down, they don't add or change the word OVER. Instead, they represent that the word OVER appears both above and below. This translates to OVER (something) OVER, or simply OVER AND OVER.\n\nSince \"OVER AND OVER\" is not one of the choices, and \"OVER\" is repeated twice, we look at the choices and see that the repeat of OVER appears in (A) hold**over**s. There is \"OVER\" and \"OVER\".\n\nFinal Answer: The final answer is $\\boxed{A}$",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: OVER, repeat: 2, highlight: before)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) holdovers (B) leftover (C) handover (D) stopover",
+    "answer": {
+        "B": "leftover"
+    }
+}

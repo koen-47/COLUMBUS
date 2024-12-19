@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) \"get down to bedrock\".\n\nThe letters \"G\", \"E\", and \"T\" are arranged vertically, next to the repeated word \"BEDROCK\".  This visually represents the phrase \"GET bedrock\", which implies \"get down to bedrock\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bedrock (B) underground (C) bedrocks (D) get down to bedrock",
+    "answer": {
+        "D": "get down to bedrock"
+    }
+}

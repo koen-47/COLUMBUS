@@ -7877,24 +7877,6 @@
       },
       {
          "options": {
-            "A": "go to the ends of the earth",
-            "B": "run to earth",
-            "C": "edge of the earth",
-            "D": "move heaven and earth"
-         },
-         "correct": {
-            "A": "go to the ends of the earth"
-         },
-         "image": "/var/scratch/hkd800/scripts/data/images/go_to_the_ends_of_the_earth_1_non-icon.png",
-         "metadata": {
-            "nodes": "Node 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: EARTH, repeat: 1, highlight: after)\n",
-            "nodes_and_edges": "Node 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: EARTH, repeat: 1, highlight: after)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n"
-         },
-         "prompt": "Question: Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to the ends of the earth (B) run to earth (C) edge of the earth (D) move heaven and earth Answer:",
-         "output": "Question: Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to the ends of the earth (B) run to earth (C) edge of the earth (D) move heaven and earth Answer: (A) go to the ends of the earth"
-      },
-      {
-         "options": {
             "A": "go to the wall",
             "B": "back to the wall",
             "C": "up the wall",
@@ -10199,24 +10181,6 @@
       },
       {
          "options": {
-            "A": "hardware",
-            "B": "microchips",
-            "C": "chipboard",
-            "D": "chip in"
-         },
-         "correct": {
-            "B": "microchips"
-         },
-         "image": "/var/scratch/hkd800/scripts/data/images/microchips_1.png",
-         "metadata": {
-            "nodes": "Node 1 attributes: (text: MICROCHIPS, repeat: 1)\n",
-            "nodes_and_edges": "Node 1 attributes: (text: MICROCHIPS, repeat: 1)\n"
-         },
-         "prompt": "Question: Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hardware (B) microchips (C) chipboard (D) chip in Answer:",
-         "output": "Question: Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hardware (B) microchips (C) chipboard (D) chip in Answer: A"
-      },
-      {
-         "options": {
             "A": "chipboard",
             "B": "hardware",
             "C": "chip in",
@@ -10628,24 +10592,6 @@
          },
          "prompt": "Question: Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midshipmen (B) middleman (C) middlemen (D) middlebrows Answer:",
          "output": "Question: Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midshipmen (B) middleman (C) middlemen (D) middlebrows Answer: A"
-      },
-      {
-         "options": {
-            "A": "midline",
-            "B": "midwatch",
-            "C": "midpoint",
-            "D": "midgame"
-         },
-         "correct": {
-            "D": "midgame"
-         },
-         "image": "/var/scratch/hkd800/scripts/data/images/midgame_1.png",
-         "metadata": {
-            "nodes": "Node 1 attributes: (text: MIDGAME, repeat: 1)\n",
-            "nodes_and_edges": "Node 1 attributes: (text: MIDGAME, repeat: 1)\n"
-         },
-         "prompt": "Question: Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midline (B) midwatch (C) midpoint (D) midgame Answer:",
-         "output": "Question: Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midline (B) midwatch (C) midpoint (D) midgame Answer: A"
       },
       {
          "options": {

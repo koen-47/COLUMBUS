@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) bring down the hammer**.\n\nThe rebus shows the word \"BRING\" stacked on top of itself, with a hammer to the right.  This visually represents \"bringing down the hammer\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bring to the hammer (B) nail the hammer on the head (C) bring down the hammer (D) put the hammer down",
+    "answer": {
+        "A": "bring to the hammer"
+    }
+}

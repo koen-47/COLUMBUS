@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) down to earth.  The image shows the words \"DOWN\" and \"EARTH\" arranged to visually represent the phrase \"down to earth\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down to earth (B) down the road (C) come down to earth (D) down under",
+    "answer": {
+        "A": "down to earth"
+    }
+}

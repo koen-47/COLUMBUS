@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) **dead end**.\n\nThe image shows the word \"DEAD\" with an upward-pointing arrow and a downward-pointing arrow.  This visually represents a situation with no way forward or escape \u2014 a dead end.  The other options don't fit this visual representation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead end (B) dead loss (C) dead last (D) dead end job",
+    "answer": {
+        "A": "dead end"
+    }
+}

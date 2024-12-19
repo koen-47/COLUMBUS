@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The best answer is **(A) run in the family**.\n\nThe image shows three faces, two adults and a child, implying a family.  The upward and downward arrows suggest something is being passed down (inherited) through the generations.  This is consistent with the idiom \"runs in the family,\" which describes a trait or characteristic that is common among family members.\n\nThe other options don't fit as well:\n\n* **(B) keep it in the family:** This implies secrecy, which isn't depicted.\n* **(C) start a family:** The image shows an established family, not the beginning of one.\n* **(D) family jewels:** This refers to precious heirlooms, which isn't explicitly shown.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run in the family (B) keep it in the family (C) start a family (D) family jewels",
+    "answer": {
+        "C": "start a family"
+    }
+}

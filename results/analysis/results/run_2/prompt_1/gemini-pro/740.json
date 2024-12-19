@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the idea of **(B) play for time**. The repetition of \"PLAY\" and the presence of a clock symbolize prolonging an activity to gain more time.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) play to win (B) play for time (C) buy time (D) make time",
+    "answer": {
+        "B": "play for time"
+    }
+}

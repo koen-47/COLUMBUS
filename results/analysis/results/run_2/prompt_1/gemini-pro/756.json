@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(A) punch above one's weight**.\n\nThe \"1111\" under \"PUNCH\" and \"WEIGHT\" implies \"punch\" is over \"weight,\" visually representing the idiom \"punch above one's weight,\" which means to perform better than expected given one's size or status.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) punch above one's weight (B) throw one's weight behind (C) hit below one's weight (D) punch below one's weight",
+    "answer": {
+        "A": "punch above one's weight"
+    }
+}

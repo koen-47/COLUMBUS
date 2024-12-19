@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **time out of mind**.\n\nThe image shows a clock symbol separate from the word \"MIND\".  This visually represents something that has been out of mind for a long time \u2013 a time so long it's beyond memory (\"out of mind\").  The clock adds the element of time, making \"time out of mind\" the most fitting phrase.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of mind (B) out of one's mind (C) time out (D) time out of mind",
+    "answer": {
+        "D": "time out of mind"
+    }
+}

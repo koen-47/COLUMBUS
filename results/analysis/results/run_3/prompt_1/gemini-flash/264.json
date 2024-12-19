@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **brick in one's hat**.\n\nThe image shows \"1111BRICKHAT\".  The four 1s represent \"one one one one\" which sounds like \"one in one's hat\", making the full phrase \"brick in one's hat\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop a brick (B) brick in one's hat (C) bang one's head against a brick wall (D) brick in",
+    "answer": {
+        "B": "brick in one's hat"
+    }
+}

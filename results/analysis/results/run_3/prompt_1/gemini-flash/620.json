@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) fall on one's face.\n\nThe image is a math problem.  \"FALL\" is above a line, and \"1111 FACE\" is below.  This represents the phrase \"Fall on your face\" because the number 1111 resembles a person falling on their face.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall over (B) fall on one's face (C) fall on someone's neck (D) fall around",
+    "answer": {
+        "B": "fall on one's face"
+    }
+}

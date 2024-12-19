@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"HAND\" written inside the word \"HAHANDND\". This represents \"hand in hand\".\n\nSo the answer is (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand in glove (B) in hand (C) hand over hand (D) hand in hand",
+    "answer": {
+        "D": "hand in hand"
+    }
+}

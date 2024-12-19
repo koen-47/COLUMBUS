@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"RAINBOW\" with an up arrow and a down arrow around the letter \"I\".  This represents \"raising the 'I'\" or \"raising the bar\".\n\nNone of the provided options reflects this. However, if you're limited to those choices, the closest would be (C) Rainbow, as it\u2019s the main element of the rebus. However, the correct answer based on the rebus imagery is **raising the bar**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chase a rainbow (B) end of the rainbow (C) rainbow (D) rainbow baby",
+    "answer": {
+        "B": "end of the rainbow"
+    }
+}

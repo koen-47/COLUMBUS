@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The best answer is (B) **in line**.\n\nThe upward and downward arrows flanking the word \"LINE\" visually represent something being positioned within a line or queue.  The other options don't fit the visual representation as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start line (B) in line (C) lead the line (D) hold the line",
+    "answer": {
+        "A": "start line"
+    }
+}

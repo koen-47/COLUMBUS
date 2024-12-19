@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts \"come come\". This is a visual representation of the phrase **(C) come to a head**.  The repeated \"come\" and the surprised/stressed face suggest a buildup or culmination of something.  The other options are not relevant to the image.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to someone's head (B) lose head (C) come to a head (D) give head",
+    "answer": {
+        "C": "come to a head"
+    }
+}

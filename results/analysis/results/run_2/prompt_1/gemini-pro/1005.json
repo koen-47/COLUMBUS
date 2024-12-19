@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) writing on the wall.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) handwriting on the wall (B) writing on the wall (C) handwriting (D) piece of writing",
+    "answer": {
+        "B": "writing on the wall"
+    }
+}

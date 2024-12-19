@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts several people running towards the word \"HILLS.\" This conveys the idiom **(C) take to the hills**.  This phrase means to run away to escape danger or an unpleasant situation.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for the hills (B) head for the hills (C) take to the hills (D) old as the hills",
+    "answer": {
+        "A": "run for the hills"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"Down on one's luck\".  \"1111\" stands in for \"one\".  When combined with \"DOWN\" and \"LUCK\" and the separator line, the puzzle reads \"DOWN on one's LUCK\".\n\nSo the answer is (C).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) ride one's luck (B) cross fingers for luck (C) down on one's luck (D) push one's luck",
+    "answer": {
+        "C": "down on one's luck"
+    }
+}

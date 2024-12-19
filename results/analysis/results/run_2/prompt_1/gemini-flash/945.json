@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) two left hands.  The image shows the words \"LEFT HANDS\" with \"LEFT\" repeated twice, implying someone has two left hands (meaning they are clumsy or inept).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) extra pair of hands (B) two left feet (C) change hands (D) two left hands",
+    "answer": {
+        "D": "two left hands"
+    }
+}

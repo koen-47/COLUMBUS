@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **take to the bank**.\n\nThe image shows the words \"TAKE\" stacked on top of \"TAKE,\" with \"BANK\" to the right.  This visually represents the idiom \"take to the bank,\" meaning to have complete confidence in something.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break the bank (B) bank night (C) laugh all the way to the bank (D) take to the bank",
+    "answer": {
+        "D": "take to the bank"
+    }
+}

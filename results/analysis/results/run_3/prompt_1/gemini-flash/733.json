@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **pick out of a hat**.\n\nThe image shows a pickaxe (or mining pick) next to a hat.  This visually represents the act of selecting something randomly, as if picking a name or item from a hat.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a hat on a hat (B) pull out of the hat (C) take one's hat off to (D) pick out of a hat",
+    "answer": {
+        "D": "pick out of a hat"
+    }
+}

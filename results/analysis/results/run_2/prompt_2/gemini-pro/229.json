@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows two heads over the word \"TOE.\"  Therefore, the answer is (A) head to toe.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head to toe (B) lose head (C) toe the line (D) head over heels",
+    "answer": {
+        "A": "head to toe"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"COAT\".  None of the provided options incorporate the word \"coat\" except for \"redcoat\", which appears twice ((A) and (D)).  Since the word is in red, the correct answer is either (A) or (D).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) redcoats (B) turncoat (C) bluecoat (D) redcoat",
+    "answer": {
+        "D": "redcoat"
+    }
+}

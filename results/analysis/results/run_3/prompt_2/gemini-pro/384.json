@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus is \"Pull 1111 horns\". This sounds like \"Pull one one one one horns\", which can be further interpreted as \"Pull one by one horns\", or, when contracted, \"Pull one by one's horns.\" This phrase is most similar to option (A) pull in one's horns. \n\nSo the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pull in one's horns (B) grab the bull by the horns (C) take the bull by the horns (D) lock horns",
+    "answer": {
+        "A": "pull in one's horns"
+    }
+}

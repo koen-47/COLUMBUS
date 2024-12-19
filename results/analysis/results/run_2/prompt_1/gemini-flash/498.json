@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(A) fox in the henhouse**.\n\nThe image shows the word \"HENHOUSE\" with the letters \"FOX\" embedded within it.  This visually represents the idiom \"fox in the henhouse,\" which describes a dangerous or untrustworthy person in a vulnerable situation.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fox in the henhouse (B) fox sleep (C) cock in the henhouse (D) henhouse",
+    "answer": {
+        "A": "fox in the henhouse"
+    }
+}

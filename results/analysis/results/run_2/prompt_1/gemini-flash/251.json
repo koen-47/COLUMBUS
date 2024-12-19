@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(C) bread of life**.\n\nWhile the image only shows the word \"BREAD\",  the phrase \"bread of life\" is a common idiom, often used in a religious or spiritual context to represent sustenance or nourishment for the soul.  The other options refer to literal bread or actions involving bread.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) burn bread (B) bread and butter (C) bread of life (D) brown bread",
+    "answer": {
+        "D": "brown bread"
+    }
+}

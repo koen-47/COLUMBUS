@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The phrase conveyed in the image is (B) cash on the barrelhead.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) over a barrel (B) cash on the barrelhead (C) cash up (D) cash in",
+    "answer": {
+        "B": "cash on the barrelhead"
+    }
+}

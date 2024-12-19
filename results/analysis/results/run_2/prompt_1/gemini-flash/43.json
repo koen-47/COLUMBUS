@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) backrooms**.\n\nThe image shows the word \"MOOR\" stacked on top of itself.  Visually, this resembles the word \"MOOR\" in two separate rows, which sounds like \"backrooms\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backroom (B) backrooms (C) showrooms (D) playrooms",
+    "answer": {
+        "B": "backrooms"
+    }
+}

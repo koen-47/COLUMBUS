@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"Hang 11 over one's head.\" This corresponds to option (D).\n\nThe \"11\" and the face combine to create the image of something hanging over the face/head.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang one's hat (B) hold over someone's head (C) hang up one's hat (D) hang over one's head",
+    "answer": {
+        "D": "hang over one's head"
+    }
+}

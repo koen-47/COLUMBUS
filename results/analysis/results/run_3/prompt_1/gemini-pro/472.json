@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word is \"TIME\", but some of the letters are reversed. This signifies going back in time, so the answer is (A).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go back in time (B) time after time (C) live in the past (D) behind time",
+    "answer": {
+        "A": "go back in time"
+    }
+}

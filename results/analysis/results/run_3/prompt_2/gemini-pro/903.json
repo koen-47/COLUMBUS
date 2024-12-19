@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"BUCKS\" in a plain font.  Since there are no other visual clues, the most straightforward answer is **(B) the big bucks**.  \"Bucks\" is a slang term for money, so \"big bucks\" means a lot of money.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bighorns (B) the big bucks (C) bucksaws (D) buckskin",
+    "answer": {
+        "B": "the big bucks"
+    }
+}

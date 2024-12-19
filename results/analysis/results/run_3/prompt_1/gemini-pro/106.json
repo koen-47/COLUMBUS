@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"GNORW HORSE\".  This is \"WRONG HORSE\" backwards. So the answer is (D) back the wrong horse.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high horse (B) horse around (C) dark horse (D) back the wrong horse",
+    "answer": {
+        "D": "back the wrong horse"
+    }
+}

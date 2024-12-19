@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) cap in hand.\n\nThe image shows two hands on either side of a baseball cap.  This visually represents the idiom \"cap in hand,\" which means to be humble and apologetic, or to be asking for something with deference.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hat in hand (B) set one's cap at (C) cap in hand (D) bust a cap",
+    "answer": {
+        "C": "cap in hand"
+    }
+}

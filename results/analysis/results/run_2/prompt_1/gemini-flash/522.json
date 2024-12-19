@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) greenhouse**.  A greenhouse is a type of house, specifically designed for growing plants.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) greenhouses (B) greenhouse (C) sunlight (D) grassland",
+    "answer": {
+        "B": "greenhouse"
+    }
+}

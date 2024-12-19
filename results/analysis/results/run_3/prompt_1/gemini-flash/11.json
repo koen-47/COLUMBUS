@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **afterthoughts**.\n\nThe image shows the word \"LIFE\" with arrows indicating something before and after it.  \"Afterthoughts\" represents things that come to mind *after* the main thought (LIFE in this case).  The other options don't fit the visual representation as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftertastes (B) afterthought (C) afterthoughts (D) afterlives",
+    "answer": {
+        "D": "afterlives"
+    }
+}

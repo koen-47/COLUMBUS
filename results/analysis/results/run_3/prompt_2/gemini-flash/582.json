@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) drop in the bucket.\n\nThe image shows the word \"BUCKET\" with a drop of water in the middle.  This visually represents a drop falling into a bucket.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick the bucket (B) drop in the pond (C) drop in the bucket (D) bucket down",
+    "answer": {
+        "C": "drop in the bucket"
+    }
+}

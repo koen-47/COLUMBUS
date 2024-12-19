@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) blue eyed boy.\n\nThe rebus shows two blue eyes next to a boy.  This directly translates to \"blue eyed boy\".\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc40, color: blue, repeat: 1, icon: (eyed: \ud83d\udc40))\nNode 2 attributes: (text: \ud83d\udc66, repeat: 1, icon: (boy: \ud83d\udc66))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) blue-eyed (B) baby blue (C) fair-haired boy (D) blue eyed boy",
+    "answer": {
+        "D": "blue eyed boy"
+    }
+}

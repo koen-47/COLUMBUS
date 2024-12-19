@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts two hands clasped in a handshake.  Since the lines form a heart shape, it suggests a positive connotation of the handshake, but without further context, \"handshake\" (B) is the most accurate and literal description.  The other terms have more specific meanings:\n\n* **Golden handshake (A):** Refers to a large payment or other financial incentive given to an employee upon termination.\n* **Handshaking (C):** Is the gerund form of the verb \"to handshake\", indicating the action of shaking hands, but the image represents the handshake itself, not the action.\n* **Green handshake (D):** Refers to agreements or collaborations focused on environmental sustainability.\n\nTherefore, the best option is (B) handshake.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) golden handshake (B) handshake (C) handshaking (D) green handshake",
+    "answer": {
+        "D": "green handshake"
+    }
+}

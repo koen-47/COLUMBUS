@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) light up.\n\nThe image shows the words \"LOA\" and \"FERS\" with a lightbulb in between.  Combining these creates the phrase \"Light up loafers\".  While not a common expression, it's the closest match to the options given, implying brightening or enlivening something (loafers in this case).  The other options don't fit the visual pun.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) loaf about (B) make a light (C) light up (D) light in the loafers",
+    "answer": {
+        "D": "light in the loafers"
+    }
+}

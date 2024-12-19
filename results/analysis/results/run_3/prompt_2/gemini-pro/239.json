@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle says \"GET\" followed by \"DODGE\" inside a box. This signifies \"Get out of Dodge\", as if Dodge were a place being exited.\n\nSo the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drive out (B) get out of dodge (C) artful dodger (D) dodge a bullet",
+    "answer": {
+        "B": "get out of dodge"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(A) not half bad**.\n\nThe rebus shows the word \"BAD\" twice, implying \"two bads\".  \"Two bads\" is a play on words, meaning \"not half bad\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not half bad (B) too bad (C) bad news (D) good grief",
+    "answer": {
+        "B": "too bad"
+    }
+}

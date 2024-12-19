@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows a suit with vertical stripes crossed by a horizontal line. This represents **(C) crosshatch**.\n\nCrosshatching is a technique used in drawing and engraving, where two or more sets of parallel lines are drawn at an angle to each other to create shading or texture.  The stripes on the suit and the line across it form a simple crosshatch pattern.\n\nThe other options are incorrect:\n\n* **Crosspatch:**  A grumpy or irritable person.\n* **Crosshead:** A part of a machine or engine.\n* **Crosstie:** A railroad tie; a wooden beam supporting the rails of a railroad track.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crosspatch (B) crosshead (C) crosshatch (D) crosstie",
+    "answer": {
+        "D": "crosstie"
+    }
+}

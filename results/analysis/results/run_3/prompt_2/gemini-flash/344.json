@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) come down to earth.\n\nThe rebus shows the word \"COME\" vertically, and the word \"EARTH\" is written twice horizontally next to it.  This visually represents the phrase \"COME DOWN TO EARTH\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down (B) come down to earth (C) come down to us (D) down to earth",
+    "answer": {
+        "B": "come down to earth"
+    }
+}

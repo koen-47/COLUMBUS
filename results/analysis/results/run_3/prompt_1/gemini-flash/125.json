@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **saved by the bell**.\n\nThe image shows the word \"BELL\" with an arrow pointing down, implying the bell is ringing or about to ring.  The word \"RINGS\" is next to it and there is an upward arrow suggesting a reversal or escape. This visually represents the idiom \"saved by the bell,\" where something or someone is rescued at the last possible moment.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before the bell rings (B) saved by the bell (C) ring a bell (D) ring someone's bell",
+    "answer": {
+        "A": "before the bell rings"
+    }
+}

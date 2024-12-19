@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle is \"all eyes on you\".  Here's how it breaks down:\n\n* **1111:**  Represents \"all one\" or \"all one(s)\"\n* **Two Stars:**  Represent \"eyes\" (like seeing stars)\n* **Two Eyes:**  Represent \"on you\" (eyes looking at you)\n\nTherefore, the answer doesn't match the provided options.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) written in the stars (B) stars in one's eyes (C) believe one's eyes (D) see stars",
+    "answer": {
+        "B": "stars in one's eyes"
+    }
+}

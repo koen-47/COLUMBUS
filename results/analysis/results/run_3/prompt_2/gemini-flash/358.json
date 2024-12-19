@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **once in a blue moon**.\n\nHere's why:\n\nThe image shows \"MO1111ON\".  The number \"1111\" is visually similar to the word \"blue\".  The purple \"MO\" and \"ON\" at the beginning and end form the phrase \"once in a...\". Therefore, the whole phrase reads as \"once in a blue moon\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) once in a purple moon (B) once in a blue moon (C) blue moon (D) over the moon",
+    "answer": {
+        "A": "once in a purple moon"
+    }
+}

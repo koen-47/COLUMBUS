@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(A) click into gear**.\n\nThe image shows the word \"GECCLICKAR\".  If you separate the word into \"GE CLICK AR\", it can be interpreted as \"get click ar\" or \"get click are\" or \"gear click ar\".  The closest match to a common idiom is \"click into gear\", which means to suddenly start working effectively.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) click into gear (B) find another gear (C) second gear (D) fourth gear",
+    "answer": {
+        "A": "click into gear"
+    }
+}

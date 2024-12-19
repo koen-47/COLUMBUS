@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"**pennies on the dollar (B)**\".  This idiom means a very small amount of money compared to the amount originally paid or owed.  The image visually represents this fraction.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two pennies' worth (B) pennies on the dollar (C) two pennies to rub together (D) pretty penny",
+    "answer": {
+        "B": "pennies on the dollar"
+    }
+}

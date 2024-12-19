@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) hold one's head high.\n\nHere's why:\n\nThe rebus shows \"KEEP 1111 HEAD\".  The number \"1111\" can be interpreted as \"one one one one\" which sounds like \"one one one one\". Replacing \"one\" with the homophone \"won\" gives \"won won won won\" which is similar to \"Hold\".  Therefore, the entire phrase becomes \"KEEP HOLD HEAD\", which means to hold one's head high.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep one's head down (B) keep one's head (C) hold one's head high (D) lose one's head",
+    "answer": {
+        "A": "keep one's head down"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The letters spell \"PEEK,\" which corresponds to the phrase **(A) keep watch**.  \"Peek\" means to look quickly or furtively, often to check on something.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep watch (B) keep it up (C) stay up (D) keep up",
+    "answer": {
+        "D": "keep up"
+    }
+}

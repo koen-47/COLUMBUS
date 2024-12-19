@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) play for time.\n\nThe rebus shows the word \"PLAY\" repeated four times, next to a clock.  This visually represents the idea of playing to use up time, or playing for time.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) play to win (B) play for time (C) buy time (D) make time",
+    "answer": {
+        "B": "play for time"
+    }
+}

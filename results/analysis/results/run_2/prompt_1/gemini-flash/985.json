@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The best answer is **(A) welcome to my world**.\n\nThe image shows the word \"WELCOME\" twice, and a symbol that represents the world (a globe) with arrows pointing towards it.  This visually represents someone being welcomed *into* a world.  Option A is the closest match to this visual representation.  The other options don't fit the visual as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) welcome to my world (B) come into the world (C) coming into the world (D) mean the world to",
+    "answer": {
+        "A": "welcome to my world"
+    }
+}

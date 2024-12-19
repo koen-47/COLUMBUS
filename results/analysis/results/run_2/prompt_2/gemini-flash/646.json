@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) keep someone on ice.\n\nThe image shows the words \"KEEP\" and \"SOMEONE\" above a line, with \"ICE\" below the line.  This visually represents the phrase \"Keep someone on ice\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep one's stick on the ice (B) on ice (C) break the ice (D) keep someone on ice",
+    "answer": {
+        "D": "keep someone on ice"
+    }
+}

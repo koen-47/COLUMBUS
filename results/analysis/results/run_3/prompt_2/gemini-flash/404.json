@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) reverse psychology**.\n\nThe letters \"YGOLOHCYSP\" are a reversed spelling of \"PSYCHOLOGY\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) reverse course (B) reverse psychology (C) reverse engineer (D) go into reverse",
+    "answer": {
+        "B": "reverse psychology"
+    }
+}

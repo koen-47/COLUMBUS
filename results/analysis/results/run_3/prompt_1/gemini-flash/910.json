@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) the calm before the storm**.\n\nThe image shows the word \"CALM\" with an upward arrow, suggesting an increase, and \"STORM\" with a downward arrow suggesting a decrease.  This visually represents a period of calm before a storm hits.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) perfect storm (B) the calm before the storm (C) weather the storm (D) after the storm",
+    "answer": {
+        "B": "the calm before the storm"
+    }
+}

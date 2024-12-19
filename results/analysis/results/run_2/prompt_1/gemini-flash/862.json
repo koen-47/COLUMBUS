@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) stars in one's eyes.  The image uses the number 1111 to visually represent four stars, placed before the word \"stareyes\" (a combination of \"stars\" and \"eyes\").  This creates a pun representing the idiom \"stars in one's eyes\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) written in the stars (B) stars in one's eyes (C) see stars (D) believe one's eyes",
+    "answer": {
+        "B": "stars in one's eyes"
+    }
+}

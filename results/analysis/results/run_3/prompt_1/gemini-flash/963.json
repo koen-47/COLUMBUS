@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(D) all ears**.\n\nThe image shows \"UP UP 1111 EARS\".  \"1111\" represents \"all\".  Therefore, the phrase is \"UP UP ALL EARS,\" which is a playful representation of \"all ears.\"\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to one's ears (B) up on one's ear (C) believe one's ears (D) all ears",
+    "answer": {
+        "A": "up to one's ears"
+    }
+}

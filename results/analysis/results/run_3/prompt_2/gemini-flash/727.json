@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) fool's paradise.\n\nThe line separating \"PARADISE\" and \"EARTH\" represents the phrase \"over\".  Therefore, the image depicts \"PARADISE OVER EARTH\", which can be interpreted as a \"fool's paradise\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) paradise on earth (B) hell on earth (C) trouble in paradise (D) fool's paradise",
+    "answer": {
+        "A": "paradise on earth"
+    }
+}

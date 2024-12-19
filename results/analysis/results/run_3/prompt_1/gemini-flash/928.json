@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) **turn back the clock**.\n\nThe image shows the word \"NRUT\" next to \"CLOCK\".  \"NRUT\" is \"TURN\" spelled backward.  Therefore, the image represents the phrase \"TURN BACK THE CLOCK\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wind back the clock (B) turn back the clock (C) run the clock down (D) put the clock back",
+    "answer": {
+        "B": "turn back the clock"
+    }
+}

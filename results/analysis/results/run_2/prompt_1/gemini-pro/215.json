@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"bring to light\" (B).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give a light (B) bring to light (C) come to light (D) make a light",
+    "answer": {
+        "B": "bring to light"
+    }
+}

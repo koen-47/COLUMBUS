@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word is \"TIME\" rotated 180 degrees.  So out of the options, (B) **time after time** is the most appropriate, as it refers to the repetition of the word \"time\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go back in time (B) time after time (C) live in the past (D) behind time",
+    "answer": {
+        "A": "go back in time"
+    }
+}

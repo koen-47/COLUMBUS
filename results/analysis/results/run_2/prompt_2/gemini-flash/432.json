@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) skeleton in the cupboard.\n\nThe image shows the word \"CUPBOARD\" with the letter \"B\" replaced by a skull (skeleton).  This visually represents the phrase \"skeleton in the cupboard\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cupboard love (B) skeleton in the cupboard (C) cupboard (D) skeleton in the closet",
+    "answer": {
+        "B": "skeleton in the cupboard"
+    }
+}

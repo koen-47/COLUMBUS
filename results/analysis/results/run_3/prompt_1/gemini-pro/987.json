@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) what in time.  The clocks surrounding the word \"what\" symbolize time, creating the phrase \"what in time.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) why in time (B) what in time (C) matter of time (D) time after time",
+    "answer": {
+        "B": "what in time"
+    }
+}

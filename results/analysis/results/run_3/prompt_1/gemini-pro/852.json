@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the words \"SQUARE 1\".  While options C and D often refer to beginning something anew, the image itself only depicts \"Square 1\", making the closest answer **(B) square one**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) square on (B) square one (C) back to square one (D) start at square one",
+    "answer": {
+        "B": "square one"
+    }
+}

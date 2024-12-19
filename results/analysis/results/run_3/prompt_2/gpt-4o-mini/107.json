@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"BACK\" positioned above the word \"WALL,\" which suggests the phrase \"back against the wall.\" Therefore, the correct answer is (D) back against the wall.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) back to the wall (B) go to the wall (C) up the wall (D) back against the wall",
+    "answer": {
+        "A": "back to the wall"
+    }
+}

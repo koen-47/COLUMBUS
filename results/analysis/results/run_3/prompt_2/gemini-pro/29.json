@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle \"IIBABIESII\" represents **(D) babies in the eyes**.  The \"II\" on either side represents the eyelids, and \"BABIES\" is placed between them, hence \"babies in the eyes.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stars in one's eyes (B) newborn (C) eyelids (D) babies in the eyes",
+    "answer": {
+        "D": "babies in the eyes"
+    }
+}

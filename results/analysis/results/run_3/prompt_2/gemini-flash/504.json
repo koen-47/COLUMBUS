@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) think aloud.\n\nThe rebus shows the word \"THINK\" outside a box, and the word \"LOUD\" inside a box.  This visually represents thinking \"out loud\" or \"aloud\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) think back (B) think out loud (C) think up (D) think aloud",
+    "answer": {
+        "B": "think out loud"
+    }
+}

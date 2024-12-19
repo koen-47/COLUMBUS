@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **up in the air**.\n\nThe image shows the letters \"AIR\" with an upward-pointing arrow between the \"A\" and \"I\".  This visually represents the idea of something being \"up in the air,\" meaning undecided or uncertain.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up in arms (B) up in the air (C) beat the air (D) in the air",
+    "answer": {
+        "B": "up in the air"
+    }
+}

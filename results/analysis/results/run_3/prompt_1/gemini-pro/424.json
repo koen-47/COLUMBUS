@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"**dog in the hunt**\" (A).  The words \"HU\" and \"NT\" flank a small image of a dog.  The dog is \"in\" the word \"hunt\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dog in the hunt (B) dog eat dog (C) dog around (D) snipe hunt",
+    "answer": {
+        "A": "dog in the hunt"
+    }
+}

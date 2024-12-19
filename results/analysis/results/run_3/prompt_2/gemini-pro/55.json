@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"1111\" with an up arrow and a down arrow surrounding it. The arrows pointing up and down around the ones represent \"up one's eyes.\" Then, the Roman numeral \"IIII\" can represent \"four eyes.\" So, it's up one's eyes four eyes. This sounds like and means the idiom *under one's very eyes*, which makes option (C) the correct answer.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's time (B) before one's eyes (C) under one's very eyes (D) before someone's time",
+    "answer": {
+        "B": "before one's eyes"
+    }
+}

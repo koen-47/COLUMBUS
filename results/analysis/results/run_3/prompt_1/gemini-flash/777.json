@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) have someone's back.\n\nThe image shows three \"ROD\"s and then \"1111 BACK\".  \"1111\" is visually represented as four \"1\"s which is the number of \"ROD\"s.  Therefore, the image is a visual representation of \"three RODs have your back\" or \"have someone's back\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rod for one's back (B) have someone's back (C) double back (D) rod in pickle",
+    "answer": {
+        "A": "rod for one's back"
+    }
+}

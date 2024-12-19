@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"FALL\" above a series of \"1\"s and a surprised face. This suggests the phrase \"fall on one's face,\" as the \"1\"s can represent \"one\" and the surprised face indicates a reaction to falling.\n\nSo, the answer is (A) fall on one's face.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall on one's face (B) fall on someone's neck (C) fall around (D) fall over",
+    "answer": {
+        "A": "fall on one's face"
+    }
+}

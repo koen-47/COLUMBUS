@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) grandparents**.\n\nThe image shows the word \"PARENT\" stacked on top of itself.  This visually represents two parents, which are the parents of the parents, making them grandparents.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grandpas (B) grandchildren (C) grandparents (D) grandmothers",
+    "answer": {
+        "C": "grandparents"
+    }
+}

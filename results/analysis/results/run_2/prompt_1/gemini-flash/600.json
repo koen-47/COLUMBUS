@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **end of the rainbow**.\n\nThe image shows the word \"RAINBOW\" with an arrow pointing down to the \"BOW\" part and an upward arrow, suggesting that the \"BOW\" (as in the end) is the focus.  This alludes to the idiom \"end of the rainbow.\"\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chase a rainbow (B) end of the rainbow (C) rainbow (D) rainbow baby",
+    "answer": {
+        "B": "end of the rainbow"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) babies in the eyes.  The image shows the word \"BABIES\" flanked by drawings of eyes, creating a visual pun.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) newborn (B) babies in the eyes (C) raccoon eyes (D) stars in one's eyes",
+    "answer": {
+        "B": "babies in the eyes"
+    }
+}

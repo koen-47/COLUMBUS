@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) easy on the eye.\n\n\"EZ\" is slang for \"easy\".  It is placed above a pair of eyes, meaning \"easy on the eye(s)\". Since there is only one pair of eyes shown, the most accurate phrasing among the choices is \"easy on the eye\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) easy on the eyes (B) easy on the eye (C) hard on the eyes (D) take one's eyes off",
+    "answer": {
+        "A": "easy on the eyes"
+    }
+}

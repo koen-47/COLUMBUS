@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the letters \"D,\" \"N,\" \"I,\" and \"D\" arranged vertically. This arrangement suggests the phrase \"wind down,\" as the letters are \"D\" and \"N\" at the top and bottom, with \"I\" in the middle, resembling a winding motion.\n\nThe correct answer is (A) wind down.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wind down (B) wind off (C) wind up (D) get the wind up",
+    "answer": {
+        "C": "wind up"
+    }
+}

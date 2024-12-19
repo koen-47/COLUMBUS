@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) set the world on fire.  The image shows the words \"SET WORLD\" above a line, with \"FIRE\" below.  This visually represents the phrase \"set the world on fire\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on fire (B) put out a fire (C) play with fire (D) set the world on fire",
+    "answer": {
+        "D": "set the world on fire"
+    }
+}

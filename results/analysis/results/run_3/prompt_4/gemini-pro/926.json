@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents the phrase \"too hot to hold\".\n\nThe puzzle uses the words \"HOT\" and \"HOLD\" repeated twice. The description indicates that \"HOT\" sounds like \"too\" because it is repeated twice, and \"HOLD\" sounds like \"to\" as it is repeated twice. The words are next to each other, forming the phrase \"too hot to hold\".\n\nThus, the answer is (B).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: HOT, repeat: 2, sound: (too: 2))\nNode 2 attributes: (text: HOLD, repeat: 2, sound: (to: 2))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) hot hand (B) too hot to hold (C) hot off the presses (D) hot and heavy",
+    "answer": {
+        "B": "too hot to hold"
+    }
+}

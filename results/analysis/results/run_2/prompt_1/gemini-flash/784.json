@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) row in the same boat**.\n\nThe image shows the words \"SAMEROWBOAT\".  If you break this apart, it creates the phrase \"same row boat\", which is a common idiom meaning \"to be in the same situation\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) row in the same boat (B) rowboat (C) get in the boat and row (D) row back",
+    "answer": {
+        "A": "row in the same boat"
+    }
+}

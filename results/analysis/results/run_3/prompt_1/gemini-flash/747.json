@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) pressed for time.\n\nThe image shows the word \"PRESSED\" repeated four times, next to a clock.  This visually represents the feeling of being pressed for time, or having little time to complete a task.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) buy time (B) waiting time (C) time after time (D) pressed for time",
+    "answer": {
+        "D": "pressed for time"
+    }
+}

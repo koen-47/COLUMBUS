@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"see eye to eye\" (D).  \"See\" is written, there's a picture of an \"eye\", and \"I\" is written twice, thus \"two I's\" which sounds like \"to eyes\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) catch the eye (C) catch someone's eye (D) see eye to eye",
+    "answer": {
+        "D": "see eye to eye"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) rear one's head**.\n\nThe image uses the word \"REAR\" and the number \"1111\" (which visually resembles four eyes) next to a simple emoticon with wide eyes.  This creates a pun suggesting something unexpected or unpleasant is appearing (\"rearing its head\").\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rear one's head (B) use one's head (C) in one's head (D) bring up the rear",
+    "answer": {
+        "A": "rear one's head"
+    }
+}

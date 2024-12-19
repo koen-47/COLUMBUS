@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in the image is (B) hold tongue.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bite tongue (B) hold tongue (C) turn the other cheek (D) tongue in cheek",
+    "answer": {
+        "D": "tongue in cheek"
+    }
+}

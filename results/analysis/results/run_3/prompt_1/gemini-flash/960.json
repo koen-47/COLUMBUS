@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **up to here**.\n\nThe image shows two upward-pointing arrows next to the word \"HERE,\" visually representing the idiom \"up to here,\" which expresses being fed up or at the limit of one's tolerance.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up for (B) up to here (C) up to something (D) put up to",
+    "answer": {
+        "B": "up to here"
+    }
+}

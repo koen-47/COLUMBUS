@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"2\" \"4\" \"boots\".  This represents \"two for boots\", which is a play on words on the phrase \"two for one\". Thus, the solution must be a saying including \"two\". This corresponds to option (C) **too big for one's boots**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fill one's boots (B) hang up one's boots (C) too big for one's boots (D) kicking boots",
+    "answer": {
+        "C": "too big for one's boots"
+    }
+}

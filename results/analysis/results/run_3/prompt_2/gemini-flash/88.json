@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) bogged down.\n\nThe letters B, O, G, G, E, D are vertically stacked.  Reading them vertically spells out \"BOGGED\".  The \"D\" is visually \"down\". Therefore the answer is \"bogged down\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bog off (B) bogged down (C) bogeyman (D) throw down",
+    "answer": {
+        "B": "bogged down"
+    }
+}

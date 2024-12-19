@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) hang up one's hat.\n\nThe rebus shows \"HANG\" above a line, with \"1111\" and a face with worried eyes below.  \"1111\" sounds like \"one one one one\", and it's under the word \"HANG\", meaning to hang something up. The worried face adds to the implication of hanging something up permanently (as in the idiom).  Therefore, the full phrase is \"hang up one's hat\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang one's hat (B) hold over someone's head (C) hang up one's hat (D) hang over one's head",
+    "answer": {
+        "D": "hang over one's head"
+    }
+}

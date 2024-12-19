@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **punch below one's weight**.\n\nThe image shows \"punch\" over \"1111 weight\".  The number 1111 is less than the word \"weight,\" implying a lesser punch.  This corresponds to the idiom \"punch below one's weight,\" meaning to perform less well than one is capable of.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) punch above one's weight (B) throw one's weight behind (C) hit below one's weight (D) punch below one's weight",
+    "answer": {
+        "A": "punch above one's weight"
+    }
+}

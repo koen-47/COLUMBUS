@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) backbeat**.\n\nThe image shows the word \"NOMMAG\".  If you read it backward, it spells \"GAMMANO\", which is \"backgammon\" spelled backward.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backchat (B) backbeat (C) backswimmer (D) backgammon",
+    "answer": {
+        "D": "backgammon"
+    }
+}

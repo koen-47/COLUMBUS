@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **put out a fire**.\n\nThe image shows the word \"PUT\" next to a box containing a flame.  This visually represents the act of putting out a fire.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch fire (B) pull out of the fire (C) put out a fire (D) feed the fire",
+    "answer": {
+        "C": "put out a fire"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"PIECES\" written twice. This repetition suggests the phrase (A) bits and pieces.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bits and pieces (B) of a piece (C) cut to pieces (D) to pieces",
+    "answer": {
+        "D": "to pieces"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image clearly displays the word \"ECONOMICS\".  While microeconomics is a branch of economics, the image doesn't specify that.  Therefore, the correct answer is **(A) microeconomics**.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) microeconomics (B) micromanagement (C) hypermarkets (D) economical with the truth",
+    "answer": {
+        "A": "microeconomics"
+    }
+}

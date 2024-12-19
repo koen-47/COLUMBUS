@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) fire in the belly.\n\nThe image shows the words \"BE FIRELLY\" combined.  This is a visual pun; \"BE\" and \"LLY\" are combined with \"FIRE\" to create \"FIRE IN THE BELLY\".\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: FIRE, repeat: 1)\nNode 2 attributes: (text: BELLY, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) line of fire (B) pull out of the fire (C) draw fire (D) fire in the belly",
+    "answer": {
+        "D": "fire in the belly"
+    }
+}

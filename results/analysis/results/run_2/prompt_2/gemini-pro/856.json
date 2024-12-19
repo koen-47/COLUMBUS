@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"STAND\" over \"1111\" and a face.  This translates to \"stand four square\".  Since none of the options are \"stand four square\", the closest answer among the choices is (A) keep one's head, which means \"to remain calm in a difficult situation\".  Standing foursquare is akin to holding your ground.  While there's some nuance between maintaining composure and maintaining physical positioning, the implication of firmness and resolve is similar.  Therefore, the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep one's head (B) hold one's head high (C) with one's head held high (D) stand on one's head",
+    "answer": {
+        "D": "stand on one's head"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) ox is in the ditch.  The letters in \"DIOX TCH\" are rearranged to form this phrase.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hurler on the ditch (B) ox is in the ditch (C) itch the ditch (D) keep it between the ditches",
+    "answer": {
+        "B": "ox is in the ditch"
+    }
+}

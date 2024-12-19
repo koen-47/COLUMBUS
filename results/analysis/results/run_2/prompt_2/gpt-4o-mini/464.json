@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"HAT\" prominently. This suggests that the answer is likely related to \"hat.\" Among the options provided, the most fitting phrase is:\n\n(B) old hat\n\nThis phrase means something that is outdated or no longer interesting, which aligns with the idea of \"hat\" being emphasized.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gray hat (B) old hat (C) hat hair (D) white hat",
+    "answer": {
+        "A": "gray hat"
+    }
+}

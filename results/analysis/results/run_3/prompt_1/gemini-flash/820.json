@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) see eye to eye.  The image arranges the words \"SEE\", \"I\", \"EYE\", \"EYE\" to visually represent the idiom \"see eye to eye\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) catch the eye (C) see eye to eye (D) catch someone's eye",
+    "answer": {
+        "C": "see eye to eye"
+    }
+}

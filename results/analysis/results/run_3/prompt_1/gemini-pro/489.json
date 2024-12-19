@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image spells the word TAMP, so the answer is (B) tamp down.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put down (B) tamp down (C) do down (D) duck down",
+    "answer": {
+        "B": "tamp down"
+    }
+}

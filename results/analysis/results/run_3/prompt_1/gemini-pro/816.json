@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) salt in the wound.\n\nThe words \"WO\" and \"UND\" flanking a salt shaker create a rebus puzzle.  \"Wound\" is implied by replacing the salt shaker with the word \"salt,\" creating the phrase \"Wo[salt]und\" or \"wound with salt.\" This phrase refers to making something that is already painful even worse, which is the meaning of \"salt in the wound.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) salt of the earth (B) old salt (C) Attic salt (D) salt in the wound",
+    "answer": {
+        "D": "salt in the wound"
+    }
+}

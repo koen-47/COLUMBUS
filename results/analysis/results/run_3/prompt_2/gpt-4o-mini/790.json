@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows multiple figures running next to the word \"HILLS.\" This suggests the phrase \"run for the hills.\" \n\nSo, the answer is (A) run for the hills.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for the hills (B) head for the hills (C) take to the hills (D) old as the hills",
+    "answer": {
+        "A": "run for the hills"
+    }
+}

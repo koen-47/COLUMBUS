@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) time after time**.\n\nThe image shows the words \"TI WHAT ME\" which, when rearranged, spells \"TIME AFTER TIME\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what in time (B) why in time (C) time after time (D) matter of time",
+    "answer": {
+        "A": "what in time"
+    }
+}

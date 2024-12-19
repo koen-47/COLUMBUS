@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(C) cross off**.\n\nThe word \"CROSS\" appears twice, and the letters \"E\", \"K\", \"A\", and \"T\" are arranged vertically.  If you combine \"CROSS\" with \"EKAT\", and \"cross off\" EKAT, it leaves \"CROSS\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross out (C) cross off (D) off one's cross",
+    "answer": {
+        "A": "cross to take up"
+    }
+}

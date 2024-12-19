@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"EKAT SEAT\". \"EKAT\" is \"TAKE\" spelled backwards.  Therefore, the image conveys **(C) take a back seat**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take the front seat (B) sit back (C) take a back seat (D) have a seat",
+    "answer": {
+        "C": "take a back seat"
+    }
+}

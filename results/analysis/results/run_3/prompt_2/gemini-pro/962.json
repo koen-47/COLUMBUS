@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows two up arrows followed by \"1111 EARS\". This translates to \"up up one one one one ears\", which sounds like \"up on one's ear\".\n\nSo the answer is (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) all ears (B) believe one's ears (C) up to one's ears (D) up on one's ear",
+    "answer": {
+        "C": "up to one's ears"
+    }
+}

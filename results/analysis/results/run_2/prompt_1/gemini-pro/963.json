@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (A) up to one's ears.\n\nThe phrase is visually represented with \"UP\" appearing twice, followed by \"1111\" (four ones - one, one, one, one) to sound out \"one's\", and then \"EARS\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to one's ears (B) up on one's ear (C) believe one's ears (D) all ears",
+    "answer": {
+        "A": "up to one's ears"
+    }
+}

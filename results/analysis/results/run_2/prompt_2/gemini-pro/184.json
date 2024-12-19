@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"blow one's mind\". Here's why:\n\n* **BLOW:** The letters \"BLOW\" are arranged vertically.\n* **ONE'S:** The number \"1111\" represents \"one's\"\n* **MIND:** The surprised/shocked face represents a state of mind being blown.\n\nTherefore, the correct answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow over (B) blow up in one's face (C) blow someone's mind (D) body blow",
+    "answer": {
+        "B": "blow up in one's face"
+    }
+}

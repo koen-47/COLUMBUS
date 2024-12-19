@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"anger.\" The word \"AN\" is followed by a drop of water (which can represent \"water\" or \"wet\") and then \"GER.\" This suggests the phrase \"anger\" as it combines the elements creatively. \n\nSo, the answer is **(C) fire in anger**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) escape fire (B) fight fire with fire (C) fire in anger (D) draw fire",
+    "answer": {
+        "C": "fire in anger"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) yellow bellied.  The image shows the word \"bellied\" in yellow.  This is a visual pun, combining the color yellow with the word \"bellied\" to create the idiom \"yellow-bellied.\"\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) yellow bellied (B) see yellow (C) yellow light (D) yellow streak",
+    "answer": {
+        "A": "yellow bellied"
+    }
+}

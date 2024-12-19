@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **spit in the wind**.\n\nThe image shows the word \"SPIT\" with an image of something being spit into a wave, which represents the wind.  The other options don't align with the visual representation.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) spit out (C) spit in the wind (D) spit on",
+    "answer": {
+        "A": "spit in the ocean"
+    }
+}

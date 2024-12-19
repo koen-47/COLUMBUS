@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"REVO\" is short for \"revolution\".  A revolution goes 'round and 'round or in a full circle. Therefore this rebus represents \"turn over\".\n\nNone of the provided options (leftover, stopover, holdovers, handover) match this meaning.  This rebus should have the answer choice: **turnover**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) leftover (B) stopover (C) holdovers (D) handover",
+    "answer": {
+        "A": "leftover"
+    }
+}

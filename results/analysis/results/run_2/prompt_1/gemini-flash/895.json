@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **take up the cudgel for**.\n\nThe image shows the letters \"E K A T\" beside the word \"CUDGEL\" four times.  Rearranging the letters \"E K A T\" spells out \"TAKE\".  Therefore, the image depicts \"Take up the cudgel for\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take the mick (B) take up the cudgel for (C) chew the cud (D) pack fudge",
+    "answer": {
+        "B": "take up the cudgel for"
+    }
+}

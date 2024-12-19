@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(A) put cards on the table**.\n\nThe other options aren't represented visually.  The image simply shows the words rearranged to form the phrase \"put cards on the table\". While \"put one's cards on the table\" (C) is an idiom, the image lacks the possessive pronoun \"one's\" making (A) the more literal and accurate choice based purely on the image.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put cards on the table (B) put food on the table (C) put one's cards on the table (D) hold the cards",
+    "answer": {
+        "A": "put cards on the table"
+    }
+}

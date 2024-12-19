@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word conveyed in the image is (B) inner circle.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) circle back (B) inner circle (C) swing round the circle (D) full circle",
+    "answer": {
+        "A": "circle back"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"LOT\" above a plate icon. This signifies \"a lot on my plate.\"\n\nSo the answer is (B).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: LOT, repeat: 1)\nNode 2 attributes: (text: \ud83c\udf7d, repeat: 1, highlight: middle, icon: (plate: \ud83c\udf7d))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) a bit too much (B) a lot on my plate (C) step up to the plate (D) platelayer",
+    "answer": {
+        "B": "a lot on my plate"
+    }
+}

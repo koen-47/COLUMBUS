@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) get out of my face**.\n\nThe image shows the word \"GET\" outside a box containing the word \"FACE\".  This visually represents the idiom \"get out of my face,\" meaning to go away or leave someone alone.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get out of my face (B) lose face (C) pull a face (D) out of one's face",
+    "answer": {
+        "A": "get out of my face"
+    }
+}

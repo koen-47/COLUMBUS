@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) handover.\n\nThe image shows arrows pointing up and down, flanking the word \"OVER\".  This visually represents the act of handing something over, from one point to another.  The other options don't fit the visual representation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) holdovers (B) leftover (C) handover (D) stopover",
+    "answer": {
+        "B": "leftover"
+    }
+}

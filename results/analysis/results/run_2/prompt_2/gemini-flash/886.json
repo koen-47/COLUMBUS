@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) take a back seat.\n\nThe word \"EKAT\" is \"TAKE\" spelled backward.  The image of a seat represents a \"seat.\"  Therefore, the rebus combines these to mean \"take a back seat.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sit back (B) have a seat (C) take the front seat (D) take a back seat",
+    "answer": {
+        "D": "take a back seat"
+    }
+}

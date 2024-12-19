@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"Two for one boots\".  There are two boots and four instances of \"1111\". Combining \"two\" and \"four one\" makes \"two for one\".\n\nNone of the provided options are a perfect match, but it's clearly a play on \"two for one\" and the boots are a visual cue for that deal relating to boots.  So, while not listed, the answer implied by the rebus is **Two for one boots**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fill one's boots (B) hang up one's boots (C) too big for one's boots (D) kicking boots",
+    "answer": {
+        "C": "too big for one's boots"
+    }
+}

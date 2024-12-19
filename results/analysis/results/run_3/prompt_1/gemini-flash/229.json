@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) toe the line.\n\nThe image shows two faces, one above the other, representing \"toe\" and the word \"TOE\" is written next to it.  This visually represents the idiom \"toe the line,\" which means to conform to rules or expectations.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head to toe (B) lose head (C) toe the line (D) head over heels",
+    "answer": {
+        "A": "head to toe"
+    }
+}

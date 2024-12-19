@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) fly in the face of.\n\nThe rebus shows the word \"FLY\" with a neutral face emoticon on either side.  The \"INSIDE\" edge relationship indicates the faces are in relation to the word \"FLY\".  This visually represents the phrase \"fly in the face of,\"  meaning to oppose or defy something.\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: FLY, repeat: 1)\nNode 2 attributes: (text: \ud83d\ude10, repeat: 1, icon: (face: \ud83d\ude10))\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) fly by (B) fly in the face of (C) hurt a fly (D) fly on the wall",
+    "answer": {
+        "B": "fly in the face of"
+    }
+}

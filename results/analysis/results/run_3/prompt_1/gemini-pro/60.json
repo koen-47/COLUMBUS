@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"beg to differ\" (B).  The word \"beg\" appears twice, visually suggesting a stutter or hesitation before uttering the phrase, which is a polite way of disagreeing.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beggarman (B) beg to differ (C) beg off (D) go begging",
+    "answer": {
+        "B": "beg to differ"
+    }
+}

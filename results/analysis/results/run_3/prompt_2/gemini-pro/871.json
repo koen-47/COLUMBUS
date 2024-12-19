@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents (D) steady hand on the tiller. \n\nThe word \"STEADY\" is followed by a hand icon \"\u270b\".  This is placed above the word \"TILLER\", separated by a line. When you put it together you get \"steady hand on tiller\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have one's hand in the till (B) on the gripping hand (C) lay hands on (D) steady hand on the tiller",
+    "answer": {
+        "D": "steady hand on the tiller"
+    }
+}

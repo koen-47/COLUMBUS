@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) lump in one's throat.\n\nThe image shows the phrase \"THR BONE OAT\".  By rearranging the letters, you get \"THROAT BONE\". This is a wordplay on the idiom \"lump in one's throat\", which describes a feeling of emotion, typically sadness or anxiety, that makes it difficult to swallow.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone in her teeth (B) lump in one's throat (C) funny bone (D) bone in the throat",
+    "answer": {
+        "D": "bone in the throat"
+    }
+}

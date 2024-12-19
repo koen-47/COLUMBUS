@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"DOWN\" and the number \"1111\" positioned above the word \"LUCK.\" This suggests the phrase \"down on one's luck,\" as \"DOWN\" is directly stated and \"LUCK\" is present below it, with \"1111\" possibly indicating a play on the word \"one\" (as in \"one's luck\"). \n\nSo, the answer is (C) down on one's luck.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) ride one's luck (B) cross fingers for luck (C) down on one's luck (D) push one's luck",
+    "answer": {
+        "C": "down on one's luck"
+    }
+}

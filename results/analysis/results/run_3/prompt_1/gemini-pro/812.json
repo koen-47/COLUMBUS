@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two figures running.  There's no indication of direction or destination, so the best fit is (D) run about, which means to run without a specific goal or direction.  The other options imply a destination or pathway which isn't depicted.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run to (C) run past (D) run about",
+    "answer": {
+        "B": "run to"
+    }
+}

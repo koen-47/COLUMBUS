@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) belly up to the bar.\n\nThe image shows the word \"belly\" with an upward-pointing arrow, followed by the word \"bar\" twice. This visually represents the idiom \"belly up to the bar,\" which means to approach a bar to order drinks.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) prop up the bar (B) raise the bar (C) belly up to the bar (D) belly up",
+    "answer": {
+        "C": "belly up to the bar"
+    }
+}

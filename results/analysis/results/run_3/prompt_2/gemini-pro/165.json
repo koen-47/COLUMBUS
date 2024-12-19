@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) dark horse.\n\nThe word \"GNORW\" is \"WRONG\" spelled backwards.  Combined with the image of a horse, the rebus represents \"wrong horse,\" specifically \"**dark horse**.\"  A \"dark horse\" is an unexpected or little-known competitor.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high horse (B) dark horse (C) back the wrong horse (D) horse around",
+    "answer": {
+        "C": "back the wrong horse"
+    }
+}

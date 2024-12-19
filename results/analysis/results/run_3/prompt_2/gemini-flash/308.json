@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) bottle up**.\n\nThe letters R O U Q I L are arranged vertically.  If you read them from top to bottom, you get \"ROU QIL\", which sounds like \"roll up\".  However, the image uses the term \"bottle\" instead of \"roll\" to make the rebus more interesting.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) worse for liquor (B) bottle up (C) hold one's liquor (D) liquor up",
+    "answer": {
+        "D": "liquor up"
+    }
+}

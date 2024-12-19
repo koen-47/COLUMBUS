@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) par for the course**.\n\nThe image shows the word \"PAR\" repeated four times, next to the word \"COURSE\".  This visually represents the idiom \"par for the course,\" which means something that is typical or expected.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pare down (B) par for the course (C) below par (D) due course",
+    "answer": {
+        "B": "par for the course"
+    }
+}

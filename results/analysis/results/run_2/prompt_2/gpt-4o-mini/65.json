@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"aisle\" with the letters \"A\" and \"L\" crossed out. This suggests the phrase \"cross the aisle.\" \n\nSo, the answer is (A) cross the aisle.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross the aisle (B) roll in the aisles (C) cross the line (D) cross one's legs",
+    "answer": {
+        "A": "cross the aisle"
+    }
+}

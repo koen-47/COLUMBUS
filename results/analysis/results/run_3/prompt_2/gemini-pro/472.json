@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the letters \"T I O G M E\". The letter \"I\" is inside or \"in\" the letters \"T\" and \"ME\".  So the rebus represents \"Time In Time\", which sounds like \"Time After Time\".\n\nTherefore, the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go back in time (B) time after time (C) live in the past (D) behind time",
+    "answer": {
+        "A": "go back in time"
+    }
+}

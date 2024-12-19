@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) hear through the grapevine.  The image visually represents the idiom, showing \"hear\" above a line and \"grapevine\" below, indicating information is heard indirectly through the grapevine.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grapevine (B) hear on the grapevine (C) hear through the grapevine (D) grapevines",
+    "answer": {
+        "B": "hear on the grapevine"
+    }
+}

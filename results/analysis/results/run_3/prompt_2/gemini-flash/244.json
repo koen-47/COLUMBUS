@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(C) step over**.\n\nThe word \"STEP\" is shown in the image.  The solution plays on the visual and literal meaning of the word \"step.\"  To \"step over\" something means to take a step to go above or beyond it.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) giant step (B) a small step for man (C) step over (D) step lively",
+    "answer": {
+        "A": "giant step"
+    }
+}

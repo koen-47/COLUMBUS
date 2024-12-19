@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) under one's very eyes**.\n\nHere's why:\n\n* **1111:** Represents the number four (four ones).\n* **IIII:**  Is another way to write the Roman numeral for four.\n* **Arrows:** The up and down arrows indicate \"under\".  The number four is under the number four (in different representations).\n\nTherefore, the rebus depicts \"four under four\", which is a playful way to represent \"under one's very eyes\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's time (B) before one's eyes (C) under one's very eyes (D) before someone's time",
+    "answer": {
+        "B": "before one's eyes"
+    }
+}

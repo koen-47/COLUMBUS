@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows a large fish with the word \"PO\" to its left and \"ND\" to its right.  The attributes mention the fish is \"big\" and the word \"POND\" is \"small\". This translates to \"Big fish in a small pond\".\n\nSo the answer is (C).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc1f, repeat: 1, size: big, icon: (fish: \ud83d\udc1f))\nNode 2 attributes: (text: POND, repeat: 1, size: small)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) a fish out of water (B) bigger fish to fry (C) big fish in a small pond (D) big fish",
+    "answer": {
+        "C": "big fish in a small pond"
+    }
+}

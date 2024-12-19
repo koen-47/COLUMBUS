@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(D) bring home**.\n\nThe letters B R I N G are vertically stacked, and next to them, the word HOUSE is written.  Therefore, it can be read as \"bring house\", but because of the vertical stacking, the word \"home\" is implied.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) move house (B) keep house (C) bring down the house (D) bring home",
+    "answer": {
+        "C": "bring down the house"
+    }
+}

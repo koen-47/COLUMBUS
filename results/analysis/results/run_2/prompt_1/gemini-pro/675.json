@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"MOMELTUTH,\" which appears to be a scrambled version of \"MELT MOUTH.\" This strongly suggests option (A), \"melt in the mouth.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) melt in the mouth (B) butter wouldn't melt in someone's mouth (C) melt into (D) run at the mouth",
+    "answer": {
+        "A": "melt in the mouth"
+    }
+}

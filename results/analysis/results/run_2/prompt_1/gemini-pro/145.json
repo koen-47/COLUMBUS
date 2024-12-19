@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts the word \"RUBICON\" with a line crossing through it. This visually represents the idiom \"cross the Rubicon\" (B).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to bear (B) cross the rubicon (C) cross the line (D) bearing the cross",
+    "answer": {
+        "B": "cross the rubicon"
+    }
+}

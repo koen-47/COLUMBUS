@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **go places**.\n\nThe image shows the word \"GO\" stacked vertically, implying upward movement or progress.  \"Go places\" is an idiom that signifies achieving success or making significant advancements in life.  The other options don't capture this sense of progress and achievement as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go towards (B) go far (C) go places (D) to go",
+    "answer": {
+        "D": "to go"
+    }
+}

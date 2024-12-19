@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) in a row.\n\nThe rebus shows the word \"WOR\" which is a word that is \u201cin a row\u201d.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) row in the same boat (B) skid row (C) in a row (D) row back",
+    "answer": {
+        "D": "row back"
+    }
+}

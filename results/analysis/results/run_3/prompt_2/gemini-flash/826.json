@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) set for life.\n\nThe rebus shows the word \"SET\" repeated four times, followed by the word \"LIFE\".  This visually represents being \"set for life\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in ways (B) set to work (C) set for life (D) change of life",
+    "answer": {
+        "C": "set for life"
+    }
+}

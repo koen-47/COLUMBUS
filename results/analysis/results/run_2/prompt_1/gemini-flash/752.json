@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **pull out of the hat**.\n\nThe image shows the word \"PULL\" next to a box containing the word \"HAT\". This visually represents the idiom \"pull something out of a hat,\" which means to produce something unexpectedly or seemingly from nowhere.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take one's hat off to (B) pick out of a hat (C) put a hat on a hat (D) pull out of the hat",
+    "answer": {
+        "D": "pull out of the hat"
+    }
+}

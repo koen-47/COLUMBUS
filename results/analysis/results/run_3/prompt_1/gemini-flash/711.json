@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) nose out of joint**.\n\nThe image shows a nose next to the word \"JOINT\".  This visually represents the idiom \"nose out of joint,\" which means to be offended or upset.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep one's nose clean (B) button nose (C) nose out of joint (D) turn up one's nose",
+    "answer": {
+        "C": "nose out of joint"
+    }
+}

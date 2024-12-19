@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts the phrase \"bone in **her** teeth\" (A).  \"Her\" is written out, followed by a picture of a bone, then two teeth.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone in her teeth (B) arm to the teeth (C) funny bone (D) bone in the throat",
+    "answer": {
+        "A": "bone in her teeth"
+    }
+}

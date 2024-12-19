@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) bring down the hammer**.\n\nThe image shows the words \"BRING\" stacked on top of \"BRING\", with \"HAMMER\" in between.  This visually represents the action of bringing something (the hammer) down.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bring down the hammer (B) nail the hammer on the head (C) bring to the hammer (D) put the hammer down",
+    "answer": {
+        "C": "bring to the hammer"
+    }
+}

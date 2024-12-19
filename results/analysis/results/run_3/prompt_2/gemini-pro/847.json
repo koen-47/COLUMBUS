@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle \"OCSPITEAN\" can be deciphered by sounding it out.  \"OC\" sounds like \"ocean,\" then \"spit,\" and \"EAN\" sounds like \"in.\"\n\nSo the answer is (A) spit in the ocean.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) spit out (C) spit on (D) spit in the wind",
+    "answer": {
+        "A": "spit in the ocean"
+    }
+}

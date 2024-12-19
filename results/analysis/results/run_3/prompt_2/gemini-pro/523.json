@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"MY\" repeated four times, positioned to the left of \"MONEY\".  This represents \"for my money\".\n\nSo the answer is (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the money (B) for the love of me (C) for the love of (D) for my money",
+    "answer": {
+        "D": "for my money"
+    }
+}

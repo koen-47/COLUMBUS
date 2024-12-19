@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"**head start (C)**.\" The head and the word \"start\" combine to form this idiom.  A head start refers to an advantage given or gained at the beginning of something.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head to toe (B) come to a head (C) head start (D) head-on",
+    "answer": {
+        "C": "head start"
+    }
+}

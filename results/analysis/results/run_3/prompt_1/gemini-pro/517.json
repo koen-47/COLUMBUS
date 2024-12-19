@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (A) hole in one.\n\nThe image shows the numbers \"1 \u2b24 1,\" with the black circle representing a golf ball going into the hole.  This is a visual representation of getting a \"hole in one\" in golf.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hole in one (B) in the hole (C) drinking hole (D) dig out of a hole",
+    "answer": {
+        "A": "hole in one"
+    }
+}

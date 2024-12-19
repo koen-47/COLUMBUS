@@ -6157,21 +6157,7 @@
          "A": "go to the ends of the earth"
       },
       "is_icon": true,
-      "is_overlap": true
-   },
-   {
-      "image": "go_to_the_ends_of_the_earth_1_non-icon.png",
-      "options": {
-         "A": "edge of the earth",
-         "B": "go to the ends of the earth",
-         "C": "run to earth",
-         "D": "move heaven and earth"
-      },
-      "correct": {
-         "B": "go to the ends of the earth"
-      },
-      "is_icon": false,
-      "is_overlap": true
+      "is_overlap": false
    },
    {
       "image": "go_to_the_wall_1_icon.png",
@@ -7924,20 +7910,6 @@
       "is_overlap": true
    },
    {
-      "image": "microchips_1.png",
-      "options": {
-         "A": "hardware",
-         "B": "microchips",
-         "C": "chipboard",
-         "D": "chip in"
-      },
-      "correct": {
-         "B": "microchips"
-      },
-      "is_icon": false,
-      "is_overlap": false
-   },
-   {
       "image": "microchips_icon.png",
       "options": {
          "A": "chipboard",
@@ -8227,20 +8199,6 @@
       },
       "correct": {
          "D": "middle of the road"
-      },
-      "is_icon": false,
-      "is_overlap": false
-   },
-   {
-      "image": "midgame_1.png",
-      "options": {
-         "A": "midline",
-         "B": "midwatch",
-         "C": "midgame",
-         "D": "midpoint"
-      },
-      "correct": {
-         "C": "midgame"
       },
       "is_icon": false,
       "is_overlap": false

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) dog in the hunt.\n\nThe image shows the word \"hunt\" with a dog icon inserted in the middle, representing a dog participating in the hunt.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dog in the hunt (B) dog eat dog (C) dog around (D) snipe hunt",
+    "answer": {
+        "A": "dog in the hunt"
+    }
+}

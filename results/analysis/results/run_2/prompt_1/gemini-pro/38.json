@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(D) in the same boat**.  \"SAME\" plus the image of a boat clearly points to this idiom. The others are similar idioms, but not the one depicted.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rock the boat (B) be in the same boat (C) row in the same boat (D) in the same boat",
+    "answer": {
+        "B": "be in the same boat"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows a butterfly above a horizontal line representing a wheel.  The word \"WHEEL\" is also written below the line.  Therefore, the correct answer is (C) butterfly upon a wheel.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wheel away (B) wheel within a wheel (C) butterfly upon a wheel (D) butterfly",
+    "answer": {
+        "C": "butterfly upon a wheel"
+    }
+}

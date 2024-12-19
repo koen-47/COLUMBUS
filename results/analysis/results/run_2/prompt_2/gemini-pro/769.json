@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"PUT\" twice, positioned above and below each other, with the word \"BED\" to the right.  This represents \"PUT BED\" between two \"PUT\"s. Therefore, the answer is (A) put to bed.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put to bed (B) bed in (C) sleep on (D) go to sleep",
+    "answer": {
+        "A": "put to bed"
+    }
+}

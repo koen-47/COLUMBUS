@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) hear through the grapevine.\n\nThe image shows an ear (the icon) above a line, and then the word \"grapevine\" below.  This visually represents the phrase \"hear through the grapevine\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grapevine (B) grapevines (C) hear on the grapevine (D) hear through the grapevine",
+    "answer": {
+        "C": "hear on the grapevine"
+    }
+}

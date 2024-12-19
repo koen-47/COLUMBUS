@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The letters \"G\" and \"N\" are positioned above \"A\" and \"H,\" which suggests something is \"hanging\" over.\n- The number \"1111\" can be interpreted as \"one\" or \"hang\" (as in \"hang up\").\n- The image of a hat at the bottom indicates the word \"hat.\"\n\nPutting this together, the phrase that best fits is \"hang over one's head.\"\n\nSo the answer is (B) hang over one's head.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tip one's hat (B) hang over one's head (C) hang up one's hat (D) hang one's hat",
+    "answer": {
+        "C": "hang up one's hat"
+    }
+}

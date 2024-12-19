@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"put to bed\" (C).  \"Put\" is written twice, and there's a picture of a bed.  \"Put to bed\" means to prepare someone for sleep and put them into bed.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bed in (B) go to sleep (C) put to bed (D) sleep on",
+    "answer": {
+        "C": "put to bed"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"get to the fireworks factory\". Here's why:\n\n* **GET GET:** The word \"GET\" is repeated twice, but the description indicates a \"sound:(to:2)\", suggesting the sound \"get to\".\n* **\ud83c\udf86:** The fireworks icon represents \"fireworks\".\n* **\ud83c\udfed:** The factory icon represents \"factory\".\n\nPutting it all together, the puzzle reads \"Get to the fireworks factory\".\n\nTherefore, the answer is (C).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: GET, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: \ud83c\udf86, repeat: 1, icon: (fireworks: \ud83c\udf86))\nNode 3 attributes: (text: \ud83c\udfed, repeat: 1, icon: (factory: \ud83c\udfed))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) firework (B) fireworks (C) get to the fireworks factory (D) firecrackers",
+    "answer": {
+        "C": "get to the fireworks factory"
+    }
+}

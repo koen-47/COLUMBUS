@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the idiom \"the shoe is on the other foot\" (A).  The words are arranged to visually represent the idea of something being reversed or switched.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the shoe is on the other foot (B) kick with the other foot (C) which foot the shoe is on (D) wait for the other shoe to drop",
+    "answer": {
+        "A": "the shoe is on the other foot"
+    }
+}

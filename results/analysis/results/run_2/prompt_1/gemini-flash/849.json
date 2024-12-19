@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) split on a rock**.\n\nThe image shows the word \"SPLIT\" above a line, and the word \"ROCK\" below it.  This visually represents a rock being split.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) split on a rock (B) rockslide (C) split one's sides (D) split up",
+    "answer": {
+        "A": "split on a rock"
+    }
+}

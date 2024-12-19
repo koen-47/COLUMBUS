@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts a cross over the heart symbol.  This represents **(D) cross my heart**.  It's a visual representation of the gesture made when making a promise.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross one's heart (B) cross my heart and hope to die (C) have one's heart in (D) cross my heart",
+    "answer": {
+        "A": "cross one's heart"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **man on the street**.\n\nThe image visually represents the phrase \"man on the street\" by placing \"MAN\" above the line and \"STREET\" below it.  This directly reflects the meaning of the idiom.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) word on the street (B) man in the street (C) up someone's street (D) man on the street",
+    "answer": {
+        "D": "man on the street"
+    }
+}

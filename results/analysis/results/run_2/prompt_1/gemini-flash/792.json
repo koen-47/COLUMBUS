@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **run for the roses**.\n\nThe image shows four stick figures running next to the word \"ROSES\".  This visually represents the phrase \"run for the roses,\" which is often associated with the Kentucky Derby horse race.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stop and smell the roses (B) run for the roses (C) a bed of roses (D) come up roses",
+    "answer": {
+        "B": "run for the roses"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) head above water**.\n\nThe image depicts a face above a line representing the waterline, with the water (depicted as a wave) below the line.  This visually represents the idiom \"head above water,\" meaning to just barely manage to survive or cope with difficulties.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head above water (B) water over the dam (C) head and shoulders above (D) headwater",
+    "answer": {
+        "A": "head above water"
+    }
+}

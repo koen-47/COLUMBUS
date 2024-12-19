@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"CLOSE\" over two images of heels. This represents the phrase \"close on the heels of\". Thus, the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) close on the heels of (C) dig heels in (D) on the heels of",
+    "answer": {
+        "B": "close on the heels of"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"beer goggles.\" The word \"beer\" is prominently displayed, and the concept of \"goggles\" is often associated with the effects of beer on perception. Therefore, the answer is (B) beer goggles.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beer muscles (B) beer goggles (C) beer and skittles (D) small beer",
+    "answer": {
+        "D": "small beer"
+    }
+}

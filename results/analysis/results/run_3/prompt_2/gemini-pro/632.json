@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (A) fish out of water.\n\nThe word \"WATER\" is enclosed in a box, visually representing the phrase \"out of.\"  Therefore, the rebus is \"FISH out of WATER.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish out of water (B) other fish in the sea (C) fish out (D) fish in troubled waters",
+    "answer": {
+        "A": "fish out of water"
+    }
+}

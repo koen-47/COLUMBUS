@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows two figures running, which suggests the phrase \"run about.\" Therefore, the correct answer is (D) run about.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run to (C) run past (D) run about",
+    "answer": {
+        "B": "run to"
+    }
+}

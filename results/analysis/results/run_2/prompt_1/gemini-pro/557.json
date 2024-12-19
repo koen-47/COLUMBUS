@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two \"Ts,\" which represents the phrase \"to a T.\" So the answer is (B).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to a turn (B) to a t (C) to the letter (D) from A to Z",
+    "answer": {
+        "B": "to a t"
+    }
+}

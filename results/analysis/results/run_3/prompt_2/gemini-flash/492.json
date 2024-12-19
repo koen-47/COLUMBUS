@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) for keeps**.\n\nThe rebus shows the word \"KEEPS\" repeated four times.  This can be interpreted as \"four keeps,\" which sounds like \"for keeps.\"\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold out for (B) for keeps (C) earn one's keep (D) for once",
+    "answer": {
+        "B": "for keeps"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The jumbled letters spell out **STREET MAN**.  This most closely corresponds to **(C) man on the street**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up someone's street (B) man in the street (C) man on the street (D) word on the street",
+    "answer": {
+        "B": "man in the street"
+    }
+}

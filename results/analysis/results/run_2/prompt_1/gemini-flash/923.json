@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **close call**.\n\nThe image shows the phrase \"CLOSE CALL\" repeated twice.  This directly corresponds to the idiom \"close call,\" which means a situation where something bad almost happened.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) too close to call (B) close call (C) come to a close (D) call out",
+    "answer": {
+        "A": "too close to call"
+    }
+}

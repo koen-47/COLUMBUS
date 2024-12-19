@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **melt in the mouth**.\n\nThe image uses the word \"MELT\" flanked by images of lips.  This directly relates to the phrase describing food that is so tender and delicious it seems to melt in your mouth.  The other options don't fit the visual representation as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) butter wouldn't melt in someone's mouth (B) run at the mouth (C) melt in the mouth (D) melt into",
+    "answer": {
+        "C": "melt in the mouth"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) the ball is in your court.\n\nThe image shows the words \"YOUR BALL COURT\" arranged together.  The graph description confirms this arrangement:\n\n* \"BALL\" is inside \"YOUR\" (BALL is nested within YOUR).\n* \"YOUR\" is next to \"COURT\".\n\nThis visual and textual arrangement directly represents the idiom \"The ball is in your court,\"  meaning that it is someone's turn to act or make a decision.",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BALL, repeat: 1)\nNode 2 attributes: (text: YOUR, repeat: 1)\nNode 3 attributes: (text: COURT, repeat: 1)\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) play ball (B) leave the ball in someone's court (C) the ball is in someone's court (D) the ball is in your court",
+    "answer": {
+        "D": "the ball is in your court"
+    }
+}

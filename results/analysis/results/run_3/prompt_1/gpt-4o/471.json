@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "(B) get down to cases",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) caseworkers (B) get down to cases (C) build a case (D) put case",
+    "answer": {
+        "B": "get down to cases"
+    }
+}

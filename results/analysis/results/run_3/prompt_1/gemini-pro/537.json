@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"Get Business.\" The letters \"G,\" \"E,\" and \"T\" are arranged vertically next to the word \"BUSINESS.\" So, since none of the options match the text exactly, the closest option is (B) get down to business.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sell down (B) get down to business (C) take care of business (D) out of business",
+    "answer": {
+        "B": "get down to business"
+    }
+}

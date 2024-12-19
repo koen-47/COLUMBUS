@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows a brain in the middle of two arrows pointing towards it. This represents the word \"midbrain\". Thus, the answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midrib (B) midribs (C) midbrain (D) midvein",
+    "answer": {
+        "C": "midbrain"
+    }
+}

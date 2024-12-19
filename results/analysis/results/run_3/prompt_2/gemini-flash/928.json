@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) turn back the clock.\n\nThe word \"NRUT\" is \"TURN\" spelled backward.  The rebus uses this to indicate that the clock should be turned backward.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wind back the clock (B) turn back the clock (C) run the clock down (D) put the clock back",
+    "answer": {
+        "B": "turn back the clock"
+    }
+}

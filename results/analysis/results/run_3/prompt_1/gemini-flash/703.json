@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) come into the world.\n\nThe image shows the word \"WORLD\" with the letters \"E\", \"V\", \"O\", and \"M\" arranged around it to create the phrase \"MOVE OVER WORLD\". When rearranged, this becomes \"MOVE OVER, WORLD!\", which can be interpreted as \"Come into the world!\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) move out (B) come into the world (C) move up in the world (D) move heaven and earth",
+    "answer": {
+        "C": "move up in the world"
+    }
+}

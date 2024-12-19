@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(D) in the dark**.\n\nThe image shows a picture of a city at night (in the dark).  The arrows suggest the action of \"going into\" the image. Therefore, the rebus represents \"in the dark\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) after dark (B) dark cloud (C) shot in the dark (D) in the dark",
+    "answer": {
+        "A": "after dark"
+    }
+}

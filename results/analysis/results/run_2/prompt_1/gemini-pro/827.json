@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"set in stone.\" The word \"SET\" is literally placed between two stones.  This visual pun represents the idiom \"set in stone,\" meaning fixed and unchangeable.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in stone (B) carved in stone (C) stone dead (D) rolling stone",
+    "answer": {
+        "A": "set in stone"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"1111STARSEYES\".  This is a play on the phrase \"stars in one's eyes\" (B), with the repeated number one resembling the letter 'I'.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) written in the stars (B) stars in one's eyes (C) see stars (D) believe one's eyes",
+    "answer": {
+        "B": "stars in one's eyes"
+    }
+}

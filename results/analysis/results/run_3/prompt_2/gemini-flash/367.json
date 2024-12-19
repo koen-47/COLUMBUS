@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) pea patch.\n\nThe letters H, C, T, A, and P are vertically stacked.  When read vertically, they spell out \"PATCH\".  A pea is small and round, thus visually suggesting \"pea\".  Therefore, the rebus represents \"pea patch\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rough patch (B) patch up (C) patchwork (D) pea patch",
+    "answer": {
+        "B": "patch up"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two adults (likely parents) above a child with a down arrow pointing to them and an up arrow pointing to the child. This represents traits being passed down from one generation to the next. Therefore, the correct answer is (A) run in the family.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run in the family (B) keep it in the family (C) start a family (D) family jewels",
+    "answer": {
+        "C": "start a family"
+    }
+}

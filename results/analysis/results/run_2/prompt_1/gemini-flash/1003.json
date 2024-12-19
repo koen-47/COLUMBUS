@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **woman on the street**.\n\nThe image presents \"WOMAN\" above a line, and \"STREET\" below.  This visually represents a woman who is *on* the street.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) outdoorswoman (B) man on the street (C) woman on the street (D) woman among women",
+    "answer": {
+        "C": "woman on the street"
+    }
+}

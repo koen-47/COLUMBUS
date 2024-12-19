@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"TAPE\" in red. This suggests the phrase \"red tape,\" which often refers to excessive bureaucracy or regulations. \n\nThe correct answer is (A) red tape.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red tape (B) tapeline (C) play the same tape (D) cut red tape",
+    "answer": {
+        "A": "red tape"
+    }
+}

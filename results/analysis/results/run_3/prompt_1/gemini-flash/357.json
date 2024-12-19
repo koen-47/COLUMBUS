@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **once in a blue moon**.\n\nThe image shows the words \"MO\" and \"ON\" in blue, with \"1111\" in black between them.  This visually represents \"once in a blue moon\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue moon (B) once in a purple moon (C) over the moon (D) once in a blue moon",
+    "answer": {
+        "D": "once in a blue moon"
+    }
+}

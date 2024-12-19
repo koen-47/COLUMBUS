@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) writing on the wall.  \"Handwriting\" is placed above \"wall\" with a dividing line, suggesting the idea of writing being *on* a wall.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pen picture (B) handwriting on the wall (C) handwriting (D) writing on the wall",
+    "answer": {
+        "B": "handwriting on the wall"
+    }
+}

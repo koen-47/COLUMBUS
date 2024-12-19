@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) a small step for man.\n\nThe image shows the word \"STEP\" to the left, and four instances of the word \"MAN\" stacked vertically to the right. This visually represents the famous quote \"That's one small step for man, one giant leap for mankind.\"  Option C is the closest match to this visual representation.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) giant step (B) step on someone's toes (C) a small step for man (D) one step at a time",
+    "answer": {
+        "C": "a small step for man"
+    }
+}

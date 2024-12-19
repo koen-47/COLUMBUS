@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **miss the wood for the trees**.\n\nThe image shows the word \"MISS\" next to a tree stump, and then several instances of the word \"TREES\".  This visually represents missing the larger picture (the \"wood\" or forest) by focusing too much on the individual components (the \"trees\").\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock on wood (B) see the trees through the forest (C) see the forest for the trees (D) miss the wood for the trees",
+    "answer": {
+        "D": "miss the wood for the trees"
+    }
+}

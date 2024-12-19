@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The arrows pointing to the square represent \"on the square\". The \"1\" represents \"one\".  Combined, the rebus represents \"on the square one.\" The closest option is **(D) square one**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) back to square one (B) start at square one (C) on the square (D) square one",
+    "answer": {
+        "B": "start at square one"
+    }
+}

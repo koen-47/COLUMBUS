@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"dead end\". The skull signifies \"dead\", and the arrows pointing towards each other in opposite directions, from above and below, visualize a blockage or \"end\".  Thus, the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead loss (B) dead end (C) dead last (D) dead end job",
+    "answer": {
+        "B": "dead end"
+    }
+}

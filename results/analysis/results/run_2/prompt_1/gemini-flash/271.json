@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) hard on the eyes.  The image shows the word \"HARD\" above a line, implying that something is \"hard\" to look at, which is another way of saying \"hard on the eyes\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) easy on the eyes (B) easy on the eye (C) hard on the eyes (D) painful on the eyes",
+    "answer": {
+        "C": "hard on the eyes"
+    }
+}

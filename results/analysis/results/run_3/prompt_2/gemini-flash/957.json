@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) up to one's ears.\n\nThe rebus shows \"UP\" over a line, and below the line are four \"1\"s and the word \"EAR\".  This represents being \"up to one's ears\" (with something).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) prick up ears (B) ear to the ground (C) up on one's ear (D) up to one's ears",
+    "answer": {
+        "C": "up on one's ear"
+    }
+}

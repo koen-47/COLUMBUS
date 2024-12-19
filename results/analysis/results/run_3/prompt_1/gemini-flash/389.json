@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **dead in the water**.\n\nThe image depicts two waves that appear to be collapsing or failing, with a skull in the middle.  This visually represents something that's failed, stopped progressing, and is essentially defunct \u2013  \"dead in the water.\"  The other options don't fit the visual metaphor as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead inside (B) dead fish (C) dead in the water (D) dead and buried",
+    "answer": {
+        "C": "dead in the water"
+    }
+}

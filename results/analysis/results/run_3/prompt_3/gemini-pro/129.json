@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve the rebus:\n\n* **Node 1:** Two bones (\ud83e\uddb4 x 2) and the word \"to\" (sound: to, repeat: 2).\n* **Node 2:** A pickaxe (\u26cf), which can also be referred to as a \"pick\".\n\nPutting it all together, we get \"bone to pick\".\n\nSo the answer is (A).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83e\uddb4, repeat: 2, icon: (bone: \ud83e\uddb4), sound: (to: 2))\nNode 2 attributes: (text: \u26cf, repeat: 1, icon: (pick: \u26cf))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bone to pick (B) funny bone (C) throw a bone to (D) to the bone",
+    "answer": {
+        "A": "bone to pick"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) play for love.  The words \"PLAY\" are repeated, and the word \"LOVE\" is placed next to them, forming the phrase \"play for love.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) play along (B) play for love (C) play up (D) play for time",
+    "answer": {
+        "B": "play for love"
+    }
+}

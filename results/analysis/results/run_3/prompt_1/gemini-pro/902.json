@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two deer, and a male deer is called a buck.  Since there are two, the best answer is (D) bighorns, a term for wild sheep. While these animals are clearly deer, not sheep, bighorn is the only option that references multiple horned animals.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the big bucks (B) buckskin (C) bucksaws (D) bighorns",
+    "answer": {
+        "A": "the big bucks"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"Err on the side of caution.\"  \"ERR\" is placed above (or \"on\") \"SIDE\" and the caution symbol represents \"caution.\" Thus, the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) err on the side of caution (B) err on the side of (C) throw caution to the winds (D) throw caution to the wind",
+    "answer": {
+        "A": "err on the side of caution"
+    }
+}

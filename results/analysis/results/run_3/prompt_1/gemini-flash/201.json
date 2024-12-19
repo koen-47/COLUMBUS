@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **bring to light**.\n\nThe image shows the word \"BRING\" twice, visually representing the action of bringing something.  The light bulb symbolizes something that is made known or revealed.  Therefore, \"bring to light\" is the most fitting phrase.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a light (B) give a light (C) bring to light (D) come to light",
+    "answer": {
+        "C": "bring to light"
+    }
+}

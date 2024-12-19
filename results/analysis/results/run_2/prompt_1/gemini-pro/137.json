@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The letters spell \"REVOC\", which when read from bottom to top, spells \"COVER\".\n\nSo the answer is (B).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for cover (B) cover up (C) from cover to cover (D) take cover",
+    "answer": {
+        "B": "cover up"
+    }
+}

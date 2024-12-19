@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"WOSALTUND\", which is a scrambled version of \"SALT WOUND\".  Therefore, the intended idiom is (C) **salt in the wound**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) salt of the earth (B) old salt (C) salt in the wound (D) Attic salt",
+    "answer": {
+        "C": "salt in the wound"
+    }
+}

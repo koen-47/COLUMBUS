@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(D) step up to the plate**.\n\nHere's why:\n\n* **PETS:**  The letters \"PETS\" are vertically stacked.\n* **2:** The number 2 is presented.\n* **Plate:** The image shows a plate with a fork and knife.\n\nCombining these elements, we get \"PETS 2 PLATE\" which sounds like \"Step up to the plate\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step down (B) step up your game (C) step up (D) step up to the plate",
+    "answer": {
+        "D": "step up to the plate"
+    }
+}

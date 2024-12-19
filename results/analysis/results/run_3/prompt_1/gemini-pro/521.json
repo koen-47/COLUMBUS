@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image of a green lightbulb conveys the idea of **(D) green light**.  Green lights symbolize permission to proceed or an affirmative answer.  In this context, the green lightbulb likely represents an idea, innovation, or solution that is approved or ready to be implemented.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red light (B) yellow light (C) long green (D) green light",
+    "answer": {
+        "D": "green light"
+    }
+}

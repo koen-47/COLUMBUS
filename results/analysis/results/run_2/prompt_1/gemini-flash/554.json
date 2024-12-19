@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) fly too close to the sun**.\n\nThe image shows the phrase \"FLY CLOSE\" repeated twice, with a sun-like symbol next to it.  This visually represents the idiom \"fly too close to the sun,\" which implies getting too close to something powerful or dangerous and suffering consequences as a result.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly too close to the sun (B) fly low (C) a trip to the sun (D) catch the sun",
+    "answer": {
+        "A": "fly too close to the sun"
+    }
+}

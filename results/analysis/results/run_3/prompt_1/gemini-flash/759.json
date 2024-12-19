@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) put one's cards on the table**.\n\nThe image shows the words \"PUT\" and \"TABLE\" with a playing card (specifically, a joker) in between.  This visually represents the idiom \"put one's cards on the table,\" which means to be frank and honest, revealing all one's intentions.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put one's cards on the table (B) put food on the table (C) put cards on the table (D) hold the cards",
+    "answer": {
+        "C": "put cards on the table"
+    }
+}

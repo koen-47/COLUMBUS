@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **turn on its head**.\n\nThe image shows a refresh symbol above the word \"ITS\" and a surprised face. This visually represents the idea of something being turned upside down or reversed, hence \"turn on its head\".  The other options don't fit the visual metaphor.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) use one's head (B) turn heads (C) turn someone's head (D) turn on its head",
+    "answer": {
+        "D": "turn on its head"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image is a green house, so the answer is (A) greenhouse.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) greenhouse (B) grassland (C) sunlight (D) greenhouses",
+    "answer": {
+        "A": "greenhouse"
+    }
+}

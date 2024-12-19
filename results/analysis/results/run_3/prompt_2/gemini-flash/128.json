@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(A) come down to us**.\n\nThe rebus shows \"COME\" vertically, the number \"2\" (representing \"to\"), and \"US\".  This arranges to \"COME DOWN TO US\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down to us (B) come down (C) come down to (D) come down with",
+    "answer": {
+        "A": "come down to us"
+    }
+}

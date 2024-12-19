@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) set the world on fire.  It's a common idiom. The line acts as a kind of \"on\" to connect the phrase \"set world\" with the word \"fire.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on fire (B) put out a fire (C) play with fire (D) set the world on fire",
+    "answer": {
+        "D": "set the world on fire"
+    }
+}

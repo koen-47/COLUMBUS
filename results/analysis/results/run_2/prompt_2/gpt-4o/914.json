@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "(D) the shoe is on the other foot",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wait for the other shoe to drop (B) which foot the shoe is on (C) kick with the other foot (D) the shoe is on the other foot",
+    "answer": {
+        "D": "the shoe is on the other foot"
+    }
+}

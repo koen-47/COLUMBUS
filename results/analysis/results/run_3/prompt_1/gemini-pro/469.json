@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"HAHANDND\", which is a visual representation of **(D) hand in hand**. The letters \"HA\" appear twice, suggesting two hands clasped together, just like the phrase implies.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand in glove (B) in hand (C) hand over hand (D) hand in hand",
+    "answer": {
+        "D": "hand in hand"
+    }
+}

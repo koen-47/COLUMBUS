@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) dress to kill.\n\nThe image shows two drawings of dresses next to the word \"KILL\".  This visually represents the idiom \"dress to kill,\" which means to dress in a very attractive way, intending to impress others.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dress to kill (B) in for the kill (C) make a killing (D) dress down",
+    "answer": {
+        "A": "dress to kill"
+    }
+}

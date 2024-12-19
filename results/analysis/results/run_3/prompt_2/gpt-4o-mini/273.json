@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"breed in the bone.\" Therefore, the correct answer is (D) breed in the bone.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone hard (B) bone to pick (C) bred-in-the-bone (D) breed in the bone",
+    "answer": {
+        "D": "breed in the bone"
+    }
+}

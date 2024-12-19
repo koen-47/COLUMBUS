@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) prop up.\n\nThe word \"PROP\" is positioned vertically, suggesting it is \"upright\" or \"standing up\".  This visual cue implies the phrase \"prop up\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) prop up the bar (B) propman (C) gear up (D) prop up",
+    "answer": {
+        "D": "prop up"
+    }
+}

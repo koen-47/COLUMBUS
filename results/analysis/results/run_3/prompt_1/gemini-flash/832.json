@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **a piece of cake**.\n\nThe image uses a puzzle piece to visually represent the word \"piece,\" and the phrase \"a piece of cake\" is an idiom meaning something is easy.  The other options don't fit the visual and contextual clues.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) piece of cake (B) small piece of the puzzle (C) of a piece (D) a piece of cake",
+    "answer": {
+        "B": "small piece of the puzzle"
+    }
+}

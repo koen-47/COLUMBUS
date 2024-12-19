@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image, with the word \"ROAD\" and arrows pointing up and down, conveys the idea of **(A) middle of the road**.  The arrows suggest two diverging paths or options from a central point on the road.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) middle of the road (B) roadside (C) low road (D) high road",
+    "answer": {
+        "A": "middle of the road"
+    }
+}

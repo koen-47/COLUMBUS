@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) easy on the eye.\n\nThe rebus shows \"EZ\" above a line, with an eye below the line.  This is interpreted as \"EZ on the eye\", which is a shortened version of \"easy on the eye\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roving eye (B) easy on the eyes (C) hard on the eyes (D) easy on the eye",
+    "answer": {
+        "D": "easy on the eye"
+    }
+}

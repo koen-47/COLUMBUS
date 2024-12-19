@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image clearly conveys \"**B) Butterfly upon a wheel**\".  The words \"BUTTERFLY\" are placed above \"WHEEL\" with a line separating them, visually representing the concept of one being upon the other.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wheel away (B) butterfly upon a wheel (C) butterfly (D) wheel within a wheel",
+    "answer": {
+        "B": "butterfly upon a wheel"
+    }
+}

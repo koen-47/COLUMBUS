@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in the image is (A) wind down.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wind down (B) wind off (C) wind up (D) get the wind up",
+    "answer": {
+        "C": "wind up"
+    }
+}

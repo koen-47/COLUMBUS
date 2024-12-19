@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two words crossing each other, therefore the answer is (D) crosswords.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) watchwords (B) crossword (C) headwords (D) crosswords",
+    "answer": {
+        "D": "crosswords"
+    }
+}

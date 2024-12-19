@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts the idiom **(D) like water off a duck's back**.  The water droplets rolling off the duck represent how some things don't affect a person.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break one's duck (B) sitting duck (C) like a duck to water (D) like water off a duck's back",
+    "answer": {
+        "C": "like a duck to water"
+    }
+}

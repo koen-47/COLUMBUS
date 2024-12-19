@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The running person (\ud83c\udfc3) is *outside* of the word \"STEAM.\" Thus, the phrase is \"run out of steam\" (C).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83c\udfc3, repeat: 1, icon: (run: \ud83c\udfc3))\nNode 2 attributes: (text: STEAM, repeat: 1)\nEdge 1: node 1 to node 2 (rule: OUTSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) head of steam (B) blow off steam (C) run out of steam (D) under one's own steam",
+    "answer": {
+        "C": "run out of steam"
+    }
+}

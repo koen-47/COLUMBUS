@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"OFF\" on top of \"WRONG FOOT\".  This represents the phrase \"off on the wrong foot\" (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off on the wrong foot (B) put a foot wrong (C) off the back foot (D) start off on the wrong foot",
+    "answer": {
+        "A": "off on the wrong foot"
+    }
+}

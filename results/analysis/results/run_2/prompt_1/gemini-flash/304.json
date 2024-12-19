@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) cross my heart.  The image depicts four vertical lines crossing the word \"HEART\", visually representing the act of crossing one's heart.  While (D) is also close, (C) is the more common and idiomatic phrasing.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have one's heart in (B) cross my heart and hope to die (C) cross my heart (D) cross one's heart",
+    "answer": {
+        "D": "cross one's heart"
+    }
+}

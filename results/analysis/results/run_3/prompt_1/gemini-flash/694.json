@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **midterms**.\n\nThe image shows two instances of the word \"TERM\" with arrows pointing up and down, suggesting something in the middle of two terms.  \"Midterms\" is the only option that fits this visual representation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midterm (B) midterms (C) midribs (D) midpoints",
+    "answer": {
+        "B": "midterms"
+    }
+}

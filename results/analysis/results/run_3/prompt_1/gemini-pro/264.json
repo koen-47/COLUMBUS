@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) brick in one's hat.\n\nThe four ones resemble the shape of a \"I\", which, combined with the rest of the letters, spell \"I BRICK HAT\". This is a rebus puzzle, relying on the placement and sound of the letters and numbers.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop a brick (B) brick in one's hat (C) bang one's head against a brick wall (D) brick in",
+    "answer": {
+        "B": "brick in one's hat"
+    }
+}

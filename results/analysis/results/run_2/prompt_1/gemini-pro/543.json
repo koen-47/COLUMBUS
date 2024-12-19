@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase **(B) from start to finish**.  The down arrow pointing to \"FINISH\" indicates \"start,\" and the up arrow pointing away from \"FINISH\" suggests \"to finish\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) begin at the beginning (B) from start to finish (C) from beginning to end (D) from scratch",
+    "answer": {
+        "B": "from start to finish"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) hit above one's weight.\n\nThe rebus shows \"HIT\" over \"1111 WEIGHT\".  The number 1111 is numerically above the word \"WEIGHT\". This represents hitting above one's weight class.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hit below one's weight (B) punch above one's weight (C) hit above one's weight (D) punch below one's weight",
+    "answer": {
+        "C": "hit above one's weight"
+    }
+}

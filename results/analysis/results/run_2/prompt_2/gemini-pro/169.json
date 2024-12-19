@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"SHIP\" with arrows pointing up and down around it. Then the word \"SAILS\" appears. Together this means \"UpSHIP and downSAILS\" or **(A) steady the ship**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) steady the ship (B) sinking ship (C) before the ship sails (D) under sail",
+    "answer": {
+        "C": "before the ship sails"
+    }
+}

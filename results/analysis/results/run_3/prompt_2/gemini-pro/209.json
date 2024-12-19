@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"BRING\" twice with the word \"HEEL\" to the right.  This positioning indicates \"BRING\" surrounding or on either side of \"HEEL.\" Thus the answer is (C) bring to heel.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn on one's heel (B) down at heel (C) bring to heel (D) Achilles heel",
+    "answer": {
+        "C": "bring to heel"
+    }
+}

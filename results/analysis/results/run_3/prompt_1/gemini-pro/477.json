@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the words \"GO\" twice, along with a picture of a wave. This suggests the phrase \"go to sea\" (D).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go places (B) at sea (C) go fish (D) go to sea",
+    "answer": {
+        "D": "go to sea"
+    }
+}

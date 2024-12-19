@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts \"two left feet\" (B).  The word \"feet\" is present, and the two arrows pointing left symbolize two left feet.  This idiom refers to someone who is clumsy or uncoordinated in their movements, particularly when dancing.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at one's feet (B) two left feet (C) feet first (D) two left hands",
+    "answer": {
+        "B": "two left feet"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **play to win**.\n\nThe image shows the word \"PLAY\" stacked vertically above itself, with the word \"WIN\" positioned to the right, suggesting the action of playing in order to achieve victory.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) win over (B) play to win (C) play for time (D) play ball",
+    "answer": {
+        "B": "play to win"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"OCDROPEAN\". This is a play on words, combining \"drop\" and \"ocean\" to create a phrase that sounds like \"European\".  The intended phrase is (A) a drop in the ocean.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a drop in the ocean (B) cross the ocean (C) drop in the pond (D) spit in the ocean",
+    "answer": {
+        "A": "a drop in the ocean"
+    }
+}

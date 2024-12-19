@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows \"WO\" and \"RKS\" with a wrench in between. This suggests the phrase \"spanner in the works,\" as a spanner is another term for a wrench. Therefore, the correct answer is:\n\n(B) throw a spanner in the works.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spanner in the works (B) throw a spanner in the works (C) spick and span (D) spick-and-span",
+    "answer": {
+        "A": "spanner in the works"
+    }
+}

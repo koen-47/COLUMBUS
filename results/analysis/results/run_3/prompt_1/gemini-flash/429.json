@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **dig oneself in a hole**.\n\nThe image shows the word \"DIG\" next to a square with a hole in it.  This visually represents the idiom of digging oneself into a hole, implying getting into trouble or a difficult situation through one's own actions.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig deep (B) dig oneself in a hole (C) dig out of a hole (D) blow a hole through",
+    "answer": {
+        "C": "dig out of a hole"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) wind up.\n\nThe letters D, N, I, W are arranged vertically.  Reading them from top to bottom spells \"DOWN\".  However, the letters are presented vertically, suggesting they should be \"wound up\".  Therefore, the rebus represents \"wind up\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wind down (B) wind off (C) wind up (D) get the wind up",
+    "answer": {
+        "C": "wind up"
+    }
+}

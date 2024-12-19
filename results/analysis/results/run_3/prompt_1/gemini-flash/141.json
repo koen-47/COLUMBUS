@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) on one's mind**.\n\nThe image shows the number \"1111\" with a line through it, creating a visual representation of the phrase \"on one's mind\".  The \"1111\" represents the repetition or preoccupation of a thought, and the line visually connects it to the word \"MIND\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on one's mind (B) cross one's mind (C) lose one's mind (D) of one mind",
+    "answer": {
+        "B": "cross one's mind"
+    }
+}

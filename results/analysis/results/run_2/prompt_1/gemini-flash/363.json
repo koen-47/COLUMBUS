@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) cry in one's beer.\n\nThe image shows the word \"CRY\" next to an image of a beer mug.  The number \"1111\" before it could be interpreted as \"one one one one\" phonetically sounding similar to \"in one's\".  Therefore, the entire image represents the idiom \"cry in one's beer\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small beer (B) cry one's eyes out (C) cry someone a river (D) cry in one's beer",
+    "answer": {
+        "D": "cry in one's beer"
+    }
+}

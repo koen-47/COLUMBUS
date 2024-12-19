@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"BOOT\" twice, one above the other.  This represents \"BOOT on BOOT\", a synonym for \"to boot\".\n\nSo the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone the boot (B) to boot (C) put the boot in (D) get the boot",
+    "answer": {
+        "B": "to boot"
+    }
+}

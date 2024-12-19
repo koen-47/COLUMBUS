@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word in the image is **bellied**.  Therefore, combined with the fact it's yellow, the answer is (A) yellow bellied.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) yellow bellied (B) see yellow (C) yellow light (D) yellow streak",
+    "answer": {
+        "A": "yellow bellied"
+    }
+}

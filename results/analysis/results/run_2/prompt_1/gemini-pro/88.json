@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image spells the word \"BOGGED\", which is part of the phrase \"bogged down\" (B).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bog off (B) bogged down (C) bogeyman (D) throw down",
+    "answer": {
+        "B": "bogged down"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **have an eye for**.\n\nThe image shows three \"EYE\" stacked on top of each other, and then the words \"AN EYE\" next to the three stacked \"EYE\".  This visually represents the idiom \"have an eye for\" something, suggesting a talent or skill for noticing or appreciating something.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) bat an eye (C) have an eye for (D) see eye to eye",
+    "answer": {
+        "A": "eye for an eye"
+    }
+}

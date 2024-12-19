@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows two running figures on either side of the word \"BREAK.\"  This represents \"run\" + \"break\" + \"run\" or a \"break into a run.\" So the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break into a run (B) take a run at (C) run off (D) run with",
+    "answer": {
+        "A": "break into a run"
+    }
+}

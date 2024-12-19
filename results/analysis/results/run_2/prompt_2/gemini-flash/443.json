@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) dog eat dog.\n\nThe word \"dog\" is hidden within the word \"HU**DOG**NT\".  The rebus implies a competitive, cutthroat environment where individuals compete ruthlessly. This aligns with the meaning of \"dog eat dog\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snipe hunt (B) dog in the hunt (C) dog around (D) dog eat dog",
+    "answer": {
+        "B": "dog in the hunt"
+    }
+}

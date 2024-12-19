@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) kick up one's heels.\n\nThe image shows a face above a pair of high heels, suggesting celebration or enjoyment.  \"Kick up one's heels\" means to celebrate or enjoy oneself.  The other options don't fit the visual representation as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig heels in (B) head over heels (C) kick up one's heels (D) take to one's heels",
+    "answer": {
+        "B": "head over heels"
+    }
+}

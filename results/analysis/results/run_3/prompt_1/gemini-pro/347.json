@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image spells the word \"NAIL\" vertically.  While it could be part of a larger rebus puzzle, on its own it simply represents the word \"nail\".  None of the provided idioms are clearly depicted.  Therefore, none of the options fit.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail down (B) nail in the coffin (C) the nail that sticks out gets hammered down (D) nail biter",
+    "answer": {
+        "A": "nail down"
+    }
+}

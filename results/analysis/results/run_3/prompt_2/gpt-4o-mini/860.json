@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows \"1111\" followed by \"STARS\" and then \"IIII\". This can be interpreted as \"four stars\" (the four \"I\"s) or \"stars\" repeated four times. \n\nThe best match from the options provided is:\n\n(C) stars align\n\nThis is because the \"1111\" can represent alignment or being in a row, which fits with the phrase \"stars align.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) written in the stars (B) stars in one's eyes (C) stars align (D) see stars",
+    "answer": {
+        "B": "stars in one's eyes"
+    }
+}

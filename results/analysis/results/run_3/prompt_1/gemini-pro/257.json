@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) coming into the world.  The globes suggest the world, and \"come\" can be interpreted as an imperative, but the overall impression is of arrival, hence \"coming into\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) come to life (D) come down to earth",
+    "answer": {
+        "A": "come into the world"
+    }
+}

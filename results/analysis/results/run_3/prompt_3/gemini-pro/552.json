@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the words \"IT\" repeated four times, followed by \"WHAT'S ME\".  This, along with the description indicating \"IT\" has the attribute \"sound: (for: 4)\", leads to the solution:\n\n**D) what's in it for me** \n\nThe four \"IT\"s sound like \"in it for\".  Combined with \"WHAT'S ME\", this forms the phrase \"what's in it for me?\".\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: WHAT'S, repeat: 1)\nNode 2 attributes: (text: IT, repeat: 4, sound: (for: 4))\nNode 3 attributes: (text: \ud83d\udd5b\ud83d\udd5b, repeat: 1, icon: (me: \ud83d\udd5b\ud83d\udd5b))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) nothing for it (B) in for it (C) what's it to you (D) what's in it for me",
+    "answer": {
+        "D": "what's in it for me"
+    }
+}

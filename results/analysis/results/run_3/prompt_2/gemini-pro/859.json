@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle is \"111 stars III\".  This can be read as \"One, one, one stars three\".  Rephrasing that as \"one plus one plus one stars three\", or 1 + 1 + 1 = 3, one might think about where one might see stars, and the number three as well.  That might lead you to think of seeing 3 stars.  The correct answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stars in one's eyes (B) stars align (C) see stars (D) written in the stars",
+    "answer": {
+        "A": "stars in one's eyes"
+    }
+}

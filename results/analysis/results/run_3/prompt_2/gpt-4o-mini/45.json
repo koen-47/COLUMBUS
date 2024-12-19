@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"DOOW\" repeated in two lines, with the letters arranged in a way that suggests a play on the word \"backwoods.\" \n\nThe answer is (B) backwoods.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backwoodsman (B) backwoods (C) softwoods (D) backwoodsmen",
+    "answer": {
+        "B": "backwoods"
+    }
+}

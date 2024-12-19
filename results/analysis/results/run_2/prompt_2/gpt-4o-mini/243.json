@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"KILLER\" with the letters \"K\" and \"L\" being larger than the other letters. This suggests the phrase \"silent killer,\" as the larger letters can imply something that is not immediately obvious or is \"silent.\" \n\nSo, the answer is (C) silent killer.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) giant killer (B) sleeping giant (C) silent killer (D) killer instinct",
+    "answer": {
+        "A": "giant killer"
+    }
+}

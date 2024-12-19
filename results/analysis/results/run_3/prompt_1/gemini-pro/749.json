@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"PULL\" next to a fire alarm symbol. This conveys **(C) pull out of the fire**.  The phrase isn't literal; it's an idiom meaning to rescue someone from a dangerous or difficult situation.  The image, likely from a fire alarm, uses this idea to instruct people to pull the alarm in case of fire, thereby helping to \"pull\" those inside \"out of the fire\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put out a fire (B) pull out (C) pull out of the fire (D) open fire",
+    "answer": {
+        "C": "pull out of the fire"
+    }
+}

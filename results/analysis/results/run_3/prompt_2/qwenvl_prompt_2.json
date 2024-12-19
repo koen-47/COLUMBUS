@@ -8314,25 +8314,6 @@
       },
       {
          "options": {
-            "A": "go to the ends of the earth",
-            "B": "run to earth",
-            "C": "edge of the earth",
-            "D": "move heaven and earth"
-         },
-         "correct": {
-            "A": "go to the ends of the earth"
-         },
-         "image": "/var/scratch/hkd800/scripts/data/images/go_to_the_ends_of_the_earth_1_non-icon.png",
-         "metadata": {
-            "nodes": "Node 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: EARTH, repeat: 1, highlight: after)\n",
-            "nodes_and_edges": "Node 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: EARTH, repeat: 1, highlight: after)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n"
-         },
-         "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to the ends of the earth (B) run to earth (C) edge of the earth (D) move heaven and earth",
-         "output": "The word/phrase conveyed in this image is \"go earth go\".",
-         "raw_output": "The word/phrase conveyed in this image is \"go earth go\"."
-      },
-      {
-         "options": {
             "A": "go to the wall",
             "B": "back to the wall",
             "C": "up the wall",
@@ -10765,25 +10746,6 @@
       },
       {
          "options": {
-            "A": "hardware",
-            "B": "microchips",
-            "C": "chipboard",
-            "D": "chip in"
-         },
-         "correct": {
-            "B": "microchips"
-         },
-         "image": "/var/scratch/hkd800/scripts/data/images/microchips_1.png",
-         "metadata": {
-            "nodes": "Node 1 attributes: (text: MICROCHIPS, repeat: 1)\n",
-            "nodes_and_edges": "Node 1 attributes: (text: MICROCHIPS, repeat: 1)\n"
-         },
-         "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hardware (B) microchips (C) chipboard (D) chip in",
-         "output": "B) microchips",
-         "raw_output": "The word conveyed in this image is \"microchips\"."
-      },
-      {
-         "options": {
             "A": "chipboard",
             "B": "hardware",
             "C": "chip in",
@@ -11218,25 +11180,6 @@
          "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midshipmen (B) middleman (C) middlemen (D) middlebrows",
          "output": "C) middlemen",
          "raw_output": "The word/phrase conveyed in this image is \"middlemen\" (option C). The two images with the word \"MAN\" and arrows pointing in opposite directions are connected by the word \"men\" which is placed between them. The word \"men\" is also connected to the word \"men\" in the image below it through arrows, and both words are connected to the word \"MAN\" in the image above them. This creative arrangement of text or icons requires the viewer to use their imagination and logical thinking to solve the rebus puzzle."
-      },
-      {
-         "options": {
-            "A": "midline",
-            "B": "midwatch",
-            "C": "midpoint",
-            "D": "midgame"
-         },
-         "correct": {
-            "D": "midgame"
-         },
-         "image": "/var/scratch/hkd800/scripts/data/images/midgame_1.png",
-         "metadata": {
-            "nodes": "Node 1 attributes: (text: MIDGAME, repeat: 1)\n",
-            "nodes_and_edges": "Node 1 attributes: (text: MIDGAME, repeat: 1)\n"
-         },
-         "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midline (B) midwatch (C) midpoint (D) midgame",
-         "output": "D) midgame",
-         "raw_output": "The word conveyed in this image is \"midgame\"."
       },
       {
          "options": {

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"before the ship sails.\" The downward arrows suggest \"before\" (as in going down or descending), and the word \"sails\" is clearly visible. Therefore, the correct answer is:\n\n(A) before the ship sails.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before the ship sails (B) steady the ship (C) sinking ship (D) under sail",
+    "answer": {
+        "A": "before the ship sails"
+    }
+}

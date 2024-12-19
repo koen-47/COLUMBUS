@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) go to sea.\n\nThe image shows the words \"GO\" stacked vertically, followed by the word \"SEA\".  This visually represents the phrase \"GO TO SEA\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go places (B) go to sea (C) at sea (D) go fish",
+    "answer": {
+        "B": "go to sea"
+    }
+}

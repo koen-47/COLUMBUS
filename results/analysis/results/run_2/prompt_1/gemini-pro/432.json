@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts a skull placed between the word parts \"CUPB\" and \"OARD,\" forming \"CUPBOARD.\" The skull represents a secret or something hidden.  This visual pun conveys the idea of a **(B) skeleton in the cupboard**.  While \"skeleton in the closet\" is a more common idiom in American English, the image clearly uses \"cupboard.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cupboard love (B) skeleton in the cupboard (C) cupboard (D) skeleton in the closet",
+    "answer": {
+        "B": "skeleton in the cupboard"
+    }
+}

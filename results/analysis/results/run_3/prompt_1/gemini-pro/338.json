@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"POPIGKE\".  This is a visual pun representing **(D) pig in a poke**. A \"poke\" is an old word for a bag.  The phrase refers to buying something sight unseen, potentially getting something undesirable.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in a pig's patoot (B) in a pig's eye (C) wrestle with a pig (D) pig in a poke",
+    "answer": {
+        "D": "pig in a poke"
+    }
+}

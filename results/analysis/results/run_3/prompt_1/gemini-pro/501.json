@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"Go Go Earth\", which is a visual pun for the idiom **(D) go to the ends of the earth**. This idiom means to travel a very long distance or to make a great effort to achieve something.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) move heaven and earth (B) run to earth (C) edge of the earth (D) go to the ends of the earth",
+    "answer": {
+        "D": "go to the ends of the earth"
+    }
+}

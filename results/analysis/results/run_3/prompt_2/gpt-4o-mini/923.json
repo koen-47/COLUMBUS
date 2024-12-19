@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the words \"CLOSE\" and \"CALL\" repeated, which suggests the phrase \"close call.\" Therefore, the correct answer is (B) close call.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) too close to call (B) close call (C) come to a close (D) call out",
+    "answer": {
+        "A": "too close to call"
+    }
+}

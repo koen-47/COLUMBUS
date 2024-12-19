@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) a drop in the ocean.\n\nThe image shows the word \"OCEAN\" with a line through it.  This visually represents something small compared to something large \u2013 a single drop in a vast ocean.  The other options don't fit the visual metaphor.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a drop in the ocean (B) motion of someone's ocean (C) cross the ocean (D) drop in the ocean",
+    "answer": {
+        "C": "cross the ocean"
+    }
+}

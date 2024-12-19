@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows four \"MY\"s and a wallet with money.  This represents \"for MY MY MY MY money\", or (A) for my money.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for my money (B) for the love of me (C) for the love of (D) on the money",
+    "answer": {
+        "A": "for my money"
+    }
+}

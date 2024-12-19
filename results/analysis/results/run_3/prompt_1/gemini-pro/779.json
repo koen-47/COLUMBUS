@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (C) roll in wealth.  The word \"WEAROLLLLTH\" can be visually parsed as \"WE ARE ROLL[ING] IN WEALTH\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rollover (B) call roll (C) roll in wealth (D) on a roll",
+    "answer": {
+        "C": "roll in wealth"
+    }
+}

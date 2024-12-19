@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in this image is (B) henhouse.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cock in the henhouse (B) henhouse (C) fox sleep (D) fox in the henhouse",
+    "answer": {
+        "D": "fox in the henhouse"
+    }
+}

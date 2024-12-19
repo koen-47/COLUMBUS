@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) send away for.\n\nThe word \"AWAY\" is placed multiple times after the word \"SEND\", implying \"send away, away, away, away\", which can be interpreted as sending something far away or \"send away for\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) throw away (B) send away (C) give the game away (D) send away for",
+    "answer": {
+        "D": "send away for"
+    }
+}

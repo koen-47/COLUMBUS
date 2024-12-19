@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the words \"RUN\" and \"LUCK\" with \"LUCK\" inside a box. This visual represents running out of something.  The something, in this case, is luck.  Therefore, the correct answer is (D) run out of luck.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out (B) out of luck (C) luck out (D) run out of luck",
+    "answer": {
+        "D": "run out of luck"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"bring the hammer.\"  The word \"bring\" is written vertically, and the image of a hammer is placed next to it.  Therefore, the answer is (B).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hammer home (B) bring to the hammer (C) bring down the hammer (D) put the hammer down",
+    "answer": {
+        "C": "bring down the hammer"
+    }
+}

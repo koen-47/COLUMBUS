@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) shot across the bow.\n\nThe image shows a crossbow with an arrow having been shot, visually depicting an arrow crossing/passing over the bow.  The idiom \"a shot across the bow\" refers to a warning.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take a bow (B) crossbow (C) shot across the bow (D) crossbows",
+    "answer": {
+        "B": "crossbow"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **build up**.  The letters in the image, when read vertically, spell out \"BUILD UP\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) team up (B) build up (C) run up (D) buildups",
+    "answer": {
+        "B": "build up"
+    }
+}

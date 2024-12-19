@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"two thumbs up.\" The upward arrow suggests \"up,\" and the repetition of \"thumbs\" indicates two. Therefore, the correct answer is (C) two thumbs up.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) thumbstall (B) thumbscrews (C) two thumbs up (D) thumbscrew",
+    "answer": {
+        "C": "two thumbs up"
+    }
+}

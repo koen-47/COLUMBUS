@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) close on the heels of. The word \"CLOSE\" is written above two heels, indicating proximity.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) close on the heels of (C) dig heels in (D) on the heels of",
+    "answer": {
+        "B": "close on the heels of"
+    }
+}

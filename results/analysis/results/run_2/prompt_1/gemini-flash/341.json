@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **grain of truth**.\n\nThe image shows \"VERSION\" next to a smaller \"TRUTH\".  This visual representation suggests a smaller part or aspect of the truth, a \"grain\" of truth within a larger, potentially more complex, version of events.  The other options don't fit the visual metaphor as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nugget of truth (B) grain of truth (C) miniature version of the truth (D) stretch the truth",
+    "answer": {
+        "C": "miniature version of the truth"
+    }
+}

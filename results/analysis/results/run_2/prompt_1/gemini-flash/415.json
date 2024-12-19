@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) dance on nothing.  The image shows the words \"DANCE\" and \"NOTHING\" with a line separating them, visually representing the phrase \"dance on nothing\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) song and dance (B) dance on nothing (C) tap dance (D) dance to tune",
+    "answer": {
+        "B": "dance on nothing"
+    }
+}

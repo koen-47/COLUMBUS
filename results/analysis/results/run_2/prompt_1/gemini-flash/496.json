@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **for reasons**.\n\nThe image shows the word \"REASONS\" repeated four times.  This visually represents the idea of having multiple, unspecified reasons.  Options A, B, and D are not visually represented by the image.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on purpose (B) for crying out loud (C) for reasons (D) for XYZ reasons",
+    "answer": {
+        "C": "for reasons"
+    }
+}

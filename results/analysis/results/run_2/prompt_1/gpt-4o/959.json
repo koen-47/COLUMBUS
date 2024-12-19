@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The phrase conveyed in the image is (C) up to eleven.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) average up (B) ten to one (C) up to eleven (D) up to something",
+    "answer": {
+        "C": "up to eleven"
+    }
+}

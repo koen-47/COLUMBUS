@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"PUT\" over a picture of a dog.  This represents \"PUT\" \"on the\" \"DOG\".\n\nSo the answer is (A) put on the dog.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the dog (B) put off (C) dog around (D) put someone on to",
+    "answer": {
+        "A": "put on the dog"
+    }
+}

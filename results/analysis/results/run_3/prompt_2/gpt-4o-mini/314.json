@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the text \"POC\" followed by \"PILL\" and then \"KET.\" This can be interpreted as \"pill in the pocket.\" \n\nSo, the correct answer is (B) pill in the pocket.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in someone's pocket (B) pill in the pocket (C) pill mill (D) on the pill",
+    "answer": {
+        "B": "pill in the pocket"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"1111\" with an up arrow and a down arrow surrounding it.  This represents \"up and down 1111\".  Combined with the word \"TIME\", the rebus represents \"Up and Down Time\".\n\nHowever, this doesn't match any of the options. This rebus likely requires a bit of a leap, connecting \"up and down\" with change.  Option (A), \"before one's time,\" implies that something happened too early, a change that occurred prematurely.\n\nSo the closest answer is (A) **before one's time**.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's time (B) before one's eyes (C) time after time (D) before someone's time",
+    "answer": {
+        "A": "before one's time"
+    }
+}

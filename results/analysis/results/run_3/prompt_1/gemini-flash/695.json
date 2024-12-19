@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) stopwatch.\n\nThe image depicts a wristwatch with arrows pointing up and down, suggesting the ability to start, stop, and measure time intervals \u2013 a key function of a stopwatch.  The other options are not visually represented.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midgame (B) midwatch (C) stopwatch (D) deathwatch",
+    "answer": {
+        "B": "midwatch"
+    }
+}

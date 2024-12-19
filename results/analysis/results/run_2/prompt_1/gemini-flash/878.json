@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **stink on ice**.\n\nThe image shows the word \"STINK\" with a cube underneath it, representing something \"on ice\".  The combination of the words and the image creates the idiom \"stink on ice\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) ice cool (B) on thin ice (C) stink on ice (D) on ice",
+    "answer": {
+        "C": "stink on ice"
+    }
+}

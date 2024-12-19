@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"**new kid on the block (B)**\". The words \"NEW KID\" are placed above \"BLOCK\" with a dividing line, clearly referencing the idiom.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kid around (B) new kid on the block (C) what's new (D) gapers' block",
+    "answer": {
+        "B": "new kid on the block"
+    }
+}

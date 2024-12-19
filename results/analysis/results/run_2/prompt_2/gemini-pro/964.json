@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (A) vouch for.\n\nThe word \"vouch\" is repeated four times, which can be interpreted as \"for\" in terms of quantity or frequency. Thus, the rebus represents \"vouch for\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) vouch for (B) for the love of (C) what for (D) make for",
+    "answer": {
+        "A": "vouch for"
+    }
+}

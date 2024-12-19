@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"DETDEVILAIL\".  This is a rebus puzzle, and the solution is **(D) The devil is in the detail**.  \"Det\" is a common abbreviation of \"detail\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) talk of the devil (B) speak of the devil and he appears (C) the devil is a liar (D) the devil is in the detail",
+    "answer": {
+        "D": "the devil is in the detail"
+    }
+}

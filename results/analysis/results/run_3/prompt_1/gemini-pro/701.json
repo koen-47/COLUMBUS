@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows a lot of \"MONEY\" and a little \"JAM.\" This conveys the idea of **(A) money for jam**.  This idiom means something is very easy to earn money from.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) money for jam (B) jam tomorrow (C) jampot (D) jam today",
+    "answer": {
+        "A": "money for jam"
+    }
+}

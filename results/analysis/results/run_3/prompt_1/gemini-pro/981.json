@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts water going over a dam, and the word \"DAM\" is written below it. This directly relates to the idiom \"water over the dam,\" which means something that has happened in the past and cannot be changed.\n\nSo the answer is (C).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head above water (B) water down (C) water over the dam (D) water under the bridge",
+    "answer": {
+        "C": "water over the dam"
+    }
+}

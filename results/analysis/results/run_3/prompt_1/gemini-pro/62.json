@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image spells out \"BETTER BETTER BETTER BETTER IT\", which can be read as \"better it\".  This corresponds most closely with **(D) better for it**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in for it (B) better off (C) nothing for it (D) better for it",
+    "answer": {
+        "D": "better for it"
+    }
+}

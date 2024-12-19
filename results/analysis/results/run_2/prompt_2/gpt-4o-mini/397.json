@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows \"RAIN\" above a line and \"PARADE\" below it, with \"1111\" next to \"PARADE.\" This suggests that the word \"RAIN\" is on top of \"PARADE,\" which can be interpreted as \"rain on one's parade.\"\n\nSo, the correct answer is (B) rain on one's parade.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make it rain (B) rain on one's parade (C) parade passed someone by (D) rain check",
+    "answer": {
+        "B": "rain on one's parade"
+    }
+}

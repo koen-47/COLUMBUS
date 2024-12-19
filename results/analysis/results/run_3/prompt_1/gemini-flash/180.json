@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **blow out of the water**.\n\nThe image shows the word \"blow\" next to a box containing the word \"water\". This visually represents the idiom \"blow out of the water\", which means to surpass or defeat someone or something decisively.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow off (B) blow away (C) blow out of the water (D) dry up and blow away",
+    "answer": {
+        "C": "blow out of the water"
+    }
+}

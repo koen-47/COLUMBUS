@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) fresh out of.\n\nThe down arrow represents \"out\" and the up arrow represents \"of.\"  The arrows surround the word \"fresh,\" thus spelling out \"fresh out of.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get fresh (B) fresh out of (C) fresh start (D) fresh legs",
+    "answer": {
+        "C": "fresh start"
+    }
+}

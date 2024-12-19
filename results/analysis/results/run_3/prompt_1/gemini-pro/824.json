@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(B) catch the eye**.  The words \"SEE EYE\" are next to each other, and then further down it says \"EYE EYE\" which conveys the duplication of eye and the catching of attention.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye up (B) catch the eye (C) see eye to eye (D) eye for an eye",
+    "answer": {
+        "C": "see eye to eye"
+    }
+}

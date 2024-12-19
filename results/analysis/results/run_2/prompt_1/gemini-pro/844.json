@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"speak out of turn\" (B).  The word \"TURN\" is inside a box, visually representing being \"out of\" it.  The phrase combines with \"SPEAK\" to create the idiom.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) talk out of turn (B) speak out of turn (C) speak out (D) speak up",
+    "answer": {
+        "B": "speak out of turn"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) pink elephant**.\n\nThe image shows the word \"ELEPHANT\" in pink.  This directly relates to the idiom \"pink elephant,\" which refers to something imaginary or delusional.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) baby elephant in the room (D) white elephant",
+    "answer": {
+        "B": "pink elephant"
+    }
+}

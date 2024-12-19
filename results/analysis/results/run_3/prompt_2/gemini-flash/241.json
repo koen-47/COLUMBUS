@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) castles in the air.\n\nThe image shows the letter \"A\" followed by two images of castles, and then the letters \"IR\".  This represents \"A\" followed by two \"castles\" in the \"air\" (IR).  The puzzle uses the visual representation of castles to convey the meaning.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) castles in the air (B) castle in the air (C) king of the castle (D) in the air",
+    "answer": {
+        "A": "castles in the air"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"STORM\" with the letters \"P,\" \"I,\" and \"H\" arranged vertically. This suggests the phrase \"whip up a storm,\" as \"whip\" can be associated with the letters \"P,\" \"I,\" and \"H\" (as in \"whip\" being a cooking term). \n\nSo, the answer is (D) whip up a storm.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cook up a storm (B) storm off (C) take by storm (D) whip up a storm",
+    "answer": {
+        "D": "whip up a storm"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the letters \"P, E, T, S\" next to two instances of the word \"PLATE\".  This represents \"pets plate plate\", which sounds like \"step up to the plate\".\n\nSo the answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step over (B) step down (C) step up to the plate (D) step up",
+    "answer": {
+        "C": "step up to the plate"
+    }
+}

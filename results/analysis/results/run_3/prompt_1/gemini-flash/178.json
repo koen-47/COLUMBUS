@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) **be left at the post**.\n\nThe image shows \"EB POST\".  \"EB\" is short for \"easily beaten,\" making the whole phrase \"easily beaten at the post,\" which is synonymous with \"be left at the post\".  This idiom describes someone who is narrowly defeated, often in a race.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) far post (B) in the post (C) be left at the post (D) near post",
+    "answer": {
+        "C": "be left at the post"
+    }
+}

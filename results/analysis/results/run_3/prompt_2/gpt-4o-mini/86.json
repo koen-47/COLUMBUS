@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"PRINT\" in blue, with the word \"PRINT\" below it. This suggests the phrase \"blueprint,\" as it combines the color blue with the word print. \n\nThe correct answer is (A) blueprint.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blueprint (B) offprints (C) small print (D) blueprints",
+    "answer": {
+        "D": "blueprints"
+    }
+}

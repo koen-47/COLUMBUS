@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts the phrase **(A) be left at the post**.  The arrows pointing away from \"BE\" and towards \"POST\", along with the word \"left\" (implied by the arrows), indicate being left behind or at the post.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) be left at the post (B) near post (C) in the post (D) far post",
+    "answer": {
+        "A": "be left at the post"
+    }
+}

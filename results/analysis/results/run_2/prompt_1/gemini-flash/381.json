@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) hand to god.  The image depicts two hands with the word \"GOD\" next to them, representing the idiom \"hand to God,\" which is used to emphasize the truthfulness of a statement.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand to mouth (B) hand over hand (C) hand in hand (D) hand to god",
+    "answer": {
+        "D": "hand to god"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image repeatedly displays the word \"VOUCH.\"  Therefore, the answer is (A) vouch for.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) vouch for (B) for the love of (C) what for (D) make for",
+    "answer": {
+        "A": "vouch for"
+    }
+}

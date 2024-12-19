@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) through the roof**.\n\nThe image shows \"roof\" with \"1111\" and a surprised face underneath.  \"1111\" represents a high number, suggesting that something has increased dramatically \u2013 hence \"through the roof\".  The surprised face adds to the impression of something unexpected and significant.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roof over one's head (B) through the roof (C) hit the roof (D) raise the roof",
+    "answer": {
+        "A": "roof over one's head"
+    }
+}

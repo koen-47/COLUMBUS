@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the phrase \"FROM TIME TO TIME\".  Therefore, the answer is (D).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) time after time (B) from beginning to end (C) come to time (D) from time to time",
+    "answer": {
+        "D": "from time to time"
+    }
+}

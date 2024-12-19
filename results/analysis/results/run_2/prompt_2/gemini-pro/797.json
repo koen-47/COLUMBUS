@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle \"BRICKRUNWALL\" can be interpreted as \"brick\" then \"run\" into \"wall\". Thus the answer is (D) run into a brick wall.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop a brick (B) talk to a brick wall (C) brick in (D) run into a brick wall",
+    "answer": {
+        "D": "run into a brick wall"
+    }
+}

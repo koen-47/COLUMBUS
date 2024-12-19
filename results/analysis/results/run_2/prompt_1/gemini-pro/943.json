@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the idiom \"two left feet\" (B).  It's a common expression used to describe someone who is clumsy or awkward, especially when dancing.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two left hands (B) two left feet (C) at one's feet (D) feet first",
+    "answer": {
+        "B": "two left feet"
+    }
+}

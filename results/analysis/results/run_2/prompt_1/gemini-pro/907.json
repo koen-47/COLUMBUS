@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts a house on a hill. Of the options provided, **(D) the big house on the hill** is the most accurate description, though the house isn't necessarily \"big\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) over the hill (B) king of the hill (C) hill to die on (D) the big house on the hill",
+    "answer": {
+        "D": "the big house on the hill"
+    }
+}

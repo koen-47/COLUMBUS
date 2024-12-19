@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase **(D) pressed for time**.  The repetition of \"PRESSED\" emphasizes the feeling of being under pressure, and the clock icon represents time.  Together, they signify being short on time or having a tight deadline.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) buy time (B) waiting time (C) time after time (D) pressed for time",
+    "answer": {
+        "D": "pressed for time"
+    }
+}

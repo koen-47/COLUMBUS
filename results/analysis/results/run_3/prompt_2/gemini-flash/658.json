@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) light up.\n\nThe image shows the words \"LOA\" followed by a lightbulb image, and then the word \"FERS\".  This is a visual rebus where the lightbulb is placed between the words to represent the action of \"lighting up\" the word \"loafers\".  Therefore, the complete phrase is \"light up loafers\", but considering the provided options, the closest and correct answer is (C) light up.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) loaf about (B) make a light (C) light up (D) light in the loafers",
+    "answer": {
+        "D": "light in the loafers"
+    }
+}

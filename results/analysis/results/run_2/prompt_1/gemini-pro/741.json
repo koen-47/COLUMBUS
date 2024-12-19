@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) play for time.  The word \"TIME\" is positioned to the right of the repeated word \"PLAY\".  This visually represents delaying something by continuing to play.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) buy time (B) make time (C) play to win (D) play for time",
+    "answer": {
+        "D": "play for time"
+    }
+}

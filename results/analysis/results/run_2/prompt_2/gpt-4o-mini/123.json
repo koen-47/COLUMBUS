@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"come\" vertically, which suggests the phrase \"come down.\" Therefore, the correct answer is (B) come down.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down with (B) come down (C) come down to us (D) come down to",
+    "answer": {
+        "B": "come down"
+    }
+}

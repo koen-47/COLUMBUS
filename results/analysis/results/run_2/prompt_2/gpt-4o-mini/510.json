@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"HOLD\" next to a box with the number \"4.\" This can be interpreted as \"hold out for,\" since \"4\" sounds like \"for.\" \n\nSo the correct answer is (B) hold out for.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold off (B) hold out for (C) hold out (D) hold down",
+    "answer": {
+        "B": "hold out for"
+    }
+}

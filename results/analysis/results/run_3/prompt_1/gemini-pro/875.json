@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"Pets 2 Plate.\"  This sounds very similar to \"Step up to the plate.\"  Therefore, the answer is (D).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step down (B) step up your game (C) step up (D) step up to the plate",
+    "answer": {
+        "D": "step up to the plate"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle \"1111CRYBEER\" represents \"cry in one's beer\". The four 1's represent \"one's\" because they are inside the word CRYBEER.\n\nSo the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cry someone a river (B) cry in one's beer (C) small beer (D) cry one's eyes out",
+    "answer": {
+        "B": "cry in one's beer"
+    }
+}

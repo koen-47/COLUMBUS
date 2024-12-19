@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The phrase conveyed in the image is (D) \"what's in it for me\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nothing for it (B) in for it (C) what's it to you (D) what's in it for me",
+    "answer": {
+        "D": "what's in it for me"
+    }
+}

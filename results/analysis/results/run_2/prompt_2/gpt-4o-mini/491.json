@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"to high heaven.\" The word \"HIGH\" is positioned above \"HEAVEN,\" indicating the phrase. Therefore, the correct answer is (B) to high heaven.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high up (B) to high heaven (C) high summer (D) get high",
+    "answer": {
+        "B": "to high heaven"
+    }
+}

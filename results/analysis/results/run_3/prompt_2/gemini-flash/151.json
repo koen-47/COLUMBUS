@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) cross out.\n\nThe rebus shows the word \"CROSS\" written twice, with the letters \"E K A T\" placed in between them.  This visually represents crossing out the word \"CROSS\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross out (C) cross off (D) off one's cross",
+    "answer": {
+        "A": "cross to take up"
+    }
+}

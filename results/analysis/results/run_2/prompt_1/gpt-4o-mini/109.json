@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in the image is (B) be left at the post.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the post (B) be left at the post (C) near post (D) far post",
+    "answer": {
+        "B": "be left at the post"
+    }
+}

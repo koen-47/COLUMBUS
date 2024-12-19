@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) wheel within a wheel.  The image shows the word \"butterfly\" above a line, and the word \"wheel\" below the line. This visually represents a \"butterfly on a wheel\", or more literally, a \"wheel within a wheel.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wheel away (B) butterfly upon a wheel (C) butterfly (D) wheel within a wheel",
+    "answer": {
+        "B": "butterfly upon a wheel"
+    }
+}

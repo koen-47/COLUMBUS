@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **dressed to the nines**.\n\nThe image shows \"DRESSED\" stacked on top of \"DRESSED\", with \"999\" next to it.  \"999\" is a visual representation of \"to the nines\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to the nines (B) nightmare dressed like a daydream (C) dressed to the nines (D) dressed to kill",
+    "answer": {
+        "C": "dressed to the nines"
+    }
+}

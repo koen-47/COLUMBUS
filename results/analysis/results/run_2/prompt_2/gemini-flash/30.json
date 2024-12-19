@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) a small world.\n\nThe image shows a small globe, representing the world, which visually conveys the phrase \"a small world\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small world syndrome (B) a small world (C) across the world (D) outside world",
+    "answer": {
+        "B": "a small world"
+    }
+}

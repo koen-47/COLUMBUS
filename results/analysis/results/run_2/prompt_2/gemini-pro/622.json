@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"FALL\" over \"1111 SWORD\".  This represents \"fall on one's sword\" because the \"1111\" looks like four ones, or \"one's\".\n\nSo the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall on one's sword (B) sword and sorcery (C) flesh one's maiden sword (D) put to the sword",
+    "answer": {
+        "A": "fall on one's sword"
+    }
+}

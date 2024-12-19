@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"DIG\" outside of a hole icon. This suggests the phrase \"dig out of a hole.\"\n\nThe correct answer is (C) dig out of a hole.",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: DIG, repeat: 1)\nNode 2 attributes: (text: \ud83d\udd73, repeat: 1, icon: (hole: \ud83d\udd73))\nEdge 1: node 1 to node 2 (rule: OUTSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) dig deep (B) dig oneself in a hole (C) dig out of a hole (D) blow a hole through",
+    "answer": {
+        "C": "dig out of a hole"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows a person running *toward* the word \"TOWN\". This conveys option (B), **out on the town**.  This idiom means to go out and enjoy the social activities and entertainment in a town.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of town (B) out on the town (C) run off (D) run out",
+    "answer": {
+        "A": "run out of town"
+    }
+}

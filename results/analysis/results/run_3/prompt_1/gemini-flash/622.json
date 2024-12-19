@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) fall on one's sword**.\n\nThe image shows \"FALL\" on top of \"1111 SWORD\".  \"1111\" represents \"on,\" making the complete phrase \"FALL ON ONE'S SWORD.\"  This idiom means to take responsibility for a failure or wrongdoing, often by resigning or sacrificing oneself.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall on one's sword (B) sword and sorcery (C) flesh one's maiden sword (D) put to the sword",
+    "answer": {
+        "A": "fall on one's sword"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"DITCH\".  Vertically, it also says \"IOX\".\n\nThe closest option is (B) ox is in the ditch. It's not perfect, since it doesn't account for the \"I\" in the vertical word, but it's the most similar.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hurler on the ditch (B) ox is in the ditch (C) itch the ditch (D) keep it between the ditches",
+    "answer": {
+        "B": "ox is in the ditch"
+    }
+}

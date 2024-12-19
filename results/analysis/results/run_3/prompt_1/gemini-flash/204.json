@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **hit the nail on the head**.\n\nThe image shows the words \"HIT NAIL\" above a line, with \"HEAD\" below it.  This visually represents the idiom \"hit the nail on the head,\" meaning to be exactly right or correct.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail the hammer on the head (B) nail in the coffin (C) hit the nail on the head (D) nail down",
+    "answer": {
+        "C": "hit the nail on the head"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) jewel in the crown.\n\nThe image shows the word \"JEWEL\" flanked by two crown symbols.  This visually represents the idiom \"jewel in the crown,\" which refers to something very precious or valuable.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crowning glory (B) necklace (C) jewel in the crown (D) crownwork",
+    "answer": {
+        "C": "jewel in the crown"
+    }
+}

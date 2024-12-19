@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) big cheese.\n\nThe image shows a large cheese wedge placed between the words \"COM\" and \"PANY,\" forming the word \"COMPANY.\"  The size of the cheese and its placement suggest it's the \"big cheese\" within the company.  The other options don't align with the visual representation.\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83e\uddc0, repeat: 1, size: big, icon: (cheese: \ud83e\uddc0))\nNode 2 attributes: (text: COMPANY, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) the big cheese in the company (B) say cheese (C) hard cheese (D) big cheese",
+    "answer": {
+        "A": "the big cheese in the company"
+    }
+}

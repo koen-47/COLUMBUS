@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(A) row in the same boat**.\n\nThe image shows the word \"WOR\", which is a visual representation of the phrase \"row in the same boat.\"  The \"WOR\" is a shortened and visually represented version of the phrase to convey the meaning that people are in the same situation or facing the same difficulties.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) row in the same boat (B) skid row (C) in a row (D) row back",
+    "answer": {
+        "D": "row back"
+    }
+}

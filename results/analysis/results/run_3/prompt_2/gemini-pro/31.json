@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"SHOCK\" twice, with up and down arrows after each instance. This signifies \"after\" and indicates the word is repeated. The answer is (D) aftershocks.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snowshoes (B) snowshoe (C) aftershock (D) aftershocks",
+    "answer": {
+        "D": "aftershocks"
+    }
+}

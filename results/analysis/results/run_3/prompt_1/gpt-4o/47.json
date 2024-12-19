@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "(B) weather the storm",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) after the storm (B) weather the storm (C) storm off (D) perfect storm",
+    "answer": {
+        "A": "after the storm"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two fish and the word \"FRY\". This conveys the phrase \"fish to fry\" (C).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish to fry (B) bigger fish to fry (C) fry up (D) go fish",
+    "answer": {
+        "A": "fish to fry"
+    }
+}

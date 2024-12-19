@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) speak out**.\n\nThe image shows the letters K, A, E, P, S, which when rearranged spell \"SPEAKS\".  \"Speak out\" is the only option that aligns with the meaning of the image - to express one's opinions frankly and publicly.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak to (D) talk up",
+    "answer": {
+        "A": "speak up"
+    }
+}

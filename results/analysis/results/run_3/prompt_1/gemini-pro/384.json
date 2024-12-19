@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"PULL HORNS,\" and based on the provided options, the closest idiom is (A) pull in one's horns.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pull in one's horns (B) grab the bull by the horns (C) take the bull by the horns (D) lock horns",
+    "answer": {
+        "A": "pull in one's horns"
+    }
+}

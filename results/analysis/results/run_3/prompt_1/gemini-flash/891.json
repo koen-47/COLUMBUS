@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **laugh all the way to the bank**.\n\nThe image shows the word \"TAKE\" twice, with a bank symbol in between.  This visually represents the idea of taking something (money) from a bank, which is the core meaning of \"laugh all the way to the bank\"\u2014implying a large financial gain.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take to the bank (B) break the bank (C) bank night (D) laugh all the way to the bank",
+    "answer": {
+        "A": "take to the bank"
+    }
+}

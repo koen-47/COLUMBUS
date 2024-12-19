@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"TEKICKETH\", which sounds like \"**D. kick in**\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) armed to the teeth (B) kick in the teeth (C) pull teeth (D) kick in",
+    "answer": {
+        "B": "kick in the teeth"
+    }
+}

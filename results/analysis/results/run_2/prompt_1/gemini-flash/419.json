@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **deer in the headlights**.\n\nThe image shows the words \"HEAD\" and \"LIGHTS\" with a deer image in between. This visually represents the idiom \"deer in the headlights,\" which describes someone who is frozen with fear or surprise, similar to a deer caught in the glare of car headlights.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) deerskins (B) deer in the headlights (C) headlights (D) deerstalkers",
+    "answer": {
+        "B": "deer in the headlights"
+    }
+}

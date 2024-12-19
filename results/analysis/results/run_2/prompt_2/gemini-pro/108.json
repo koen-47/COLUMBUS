@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"BANG\" positioned vertically, and next to it, the word \"DOOR.\"  This represents \"**A) bang down the door.**\"  The vertical arrangement of \"BANG\" suggests \"down.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bang down the door (B) bang up (C) bang out (D) bang away",
+    "answer": {
+        "A": "bang down the door"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"WADEADTER,\" which sounds like \"water.\"  The embedded word \"DEAD\" suggests **(D) dead in the water**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead and buried (B) dead inside (C) dead fish (D) dead in the water",
+    "answer": {
+        "D": "dead in the water"
+    }
+}

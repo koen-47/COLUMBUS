@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"TAKES TANGO\" written twice, one above the other. This represents \"takes two to tango.\"\n\nSo the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) takes two to tango (B) turn two (C) horizontal tango (D) it takes two to make a quarrel",
+    "answer": {
+        "A": "takes two to tango"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) hang up one's boots.\n\nHere's why:\n\nThe image shows the number 2 followed by three lines of \"1111,\" and next to the lines of \"1111\" are two boots.  This can be interpreted as \"two\" lines of \"1111\" (one thousand, one hundred and eleven) and two boots.  \"Hang up one's boots\" is an idiom that means to retire.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fill one's boots (B) hang up one's boots (C) too big for one's boots (D) kicking boots",
+    "answer": {
+        "C": "too big for one's boots"
+    }
+}

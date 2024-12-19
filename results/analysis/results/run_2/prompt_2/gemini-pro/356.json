@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"REFFO\" written vertically. This represents the word \"refer\", with the letters stacked on top of each other like a referee might do to stop a sporting event.\n\nNone of the options directly say \"refer\", but one of them uses the word in a similar context.  \"Offer up\" uses the word offer which is somewhat related in terms of presenting something. However, based on the image provided the answer should be (B) **offer up.**",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) done deal (B) offer up (C) do up (D) buy up",
+    "answer": {
+        "B": "offer up"
+    }
+}

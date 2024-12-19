@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"painful eyes\" which corresponds to options C and D.  Option C, \"painful on the eyes,\" is the more natural phrasing. So the answer is C.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sight for sore eyes (B) easy on the eye (C) painful on the eyes (D) hard on the eyes",
+    "answer": {
+        "C": "painful on the eyes"
+    }
+}

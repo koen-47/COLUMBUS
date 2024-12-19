@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the words \"FLAMES\" with \"GO\" superimposed on top.  This represents the phrase **(D) go down in flames**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go up in smoke (B) go up in flames (C) go down on (D) go down in flames",
+    "answer": {
+        "D": "go down in flames"
+    }
+}

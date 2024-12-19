@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **take on water**.\n\nThe image shows the words \"TAKE\" and \"WATER\" separated by a line.  This visually represents the phrase \"take on water,\" meaning to begin to fill with water, typically in the context of a boat or ship.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold one's water (B) walk on water (C) hold water (D) take on water",
+    "answer": {
+        "D": "take on water"
+    }
+}

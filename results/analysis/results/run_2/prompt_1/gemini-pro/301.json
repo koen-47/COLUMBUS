@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (A) dead center.  The arrows pointing directly to the word \"CENTER\" from above and below indicate the precise center.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead center (B) front and center (C) center field (D) left of center",
+    "answer": {
+        "D": "left of center"
+    }
+}

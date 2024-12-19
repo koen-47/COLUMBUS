@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) put on the dog.\n\nThe image shows the word \"PUT\" with a line underneath it, followed by an image of a dog.  This visually represents the idiom \"put on the dog,\" which means to dress up in fancy clothes or behave ostentatiously.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the dog (B) put off (C) dog around (D) put someone on to",
+    "answer": {
+        "A": "put on the dog"
+    }
+}

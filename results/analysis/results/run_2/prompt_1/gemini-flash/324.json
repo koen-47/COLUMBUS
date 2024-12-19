@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(C) micromanagement**.\n\nThe image shows the word \"MANAGEMENT,\" but the prefix \"micro\" implies a focus on small details or individual aspects.  Micromanagement is the act of managing people closely and controlling their work at a very detailed level.  The other options don't fit the implied meaning as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) talent management (B) microeconomics (C) micromanagement (D) microcosm",
+    "answer": {
+        "C": "micromanagement"
+    }
+}

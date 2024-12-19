@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) hang up one's boots**.\n\nThe image shows the number 2, followed by three lines of \"1111\", and then two boots.  This visually represents someone retiring (2 representing \"two\" boots, or a pair), hanging up their boots, and stopping work.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fill one's boots (B) hang up one's boots (C) too big for one's boots (D) kicking boots",
+    "answer": {
+        "C": "too big for one's boots"
+    }
+}

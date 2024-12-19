@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) rain on one's parade**.\n\nThe image shows \"RAIN\" over \"1111 PARADE\".  \"1111\" represents \"one one one one\" or \"one\" four times. This can be interpreted as \"one's\" in the phrase.  Therefore, the rebus depicts \"RAIN\" over \"one's PARADE,\" which translates to \"rain on one's parade.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make it rain (B) rain on one's parade (C) parade passed someone by (D) rain check",
+    "answer": {
+        "B": "rain on one's parade"
+    }
+}

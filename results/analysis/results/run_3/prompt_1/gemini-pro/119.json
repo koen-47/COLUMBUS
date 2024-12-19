@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"ELECTRIC\" with the letters arranged in a circle. This represents **(D) full circle**. The phrase \"full circle\" refers to something completing a cycle and returning to its beginning point.  The letters of electric are jumbled but the 'E' from the start joins to the 'C' at the end, hence 'full circle'.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) circle back (B) inner circle (C) swing round the circle (D) full circle",
+    "answer": {
+        "A": "circle back"
+    }
+}

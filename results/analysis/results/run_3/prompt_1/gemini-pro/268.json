@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image represents **(D) child crossing guard**.\n\nThe image shows a child's face crossed out, and then a guard.  This symbolizes that the person isn't a child, but a guard.  Together, it conveys the meaning of a child crossing guard.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take guard (B) child cross guard (C) love child (D) child crossing guard",
+    "answer": {
+        "B": "child cross guard"
+    }
+}

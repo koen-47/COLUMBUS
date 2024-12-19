@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **storm out of the blocks**.\n\nThe image shows a lightning bolt inside a cloud next to the word \"BLOCKS\".  This visually represents a fast and powerful start, like \"storming out of the blocks\" which is an idiom used to describe someone making a very fast start in a race or competition.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) storm off (B) whip up a storm (C) storm out of the blocks (D) after the storm",
+    "answer": {
+        "C": "storm out of the blocks"
+    }
+}

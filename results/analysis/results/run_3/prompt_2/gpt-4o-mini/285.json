@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the letters \"D,\" \"L,\" \"O,\" and \"H\" arranged in a way that suggests a play on words. The numbers \"1111\" can be interpreted as \"one\" repeated four times, which can be phonetically linked to \"own.\"\n\nPutting this together, the phrase conveyed is \"hold one's own.\"\n\nSo the answer is (B) hold one's own.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold up one's end (B) hold one's own (C) hold off (D) hold over",
+    "answer": {
+        "A": "hold up one's end"
+    }
+}

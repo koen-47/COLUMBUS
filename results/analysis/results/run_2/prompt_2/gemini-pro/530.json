@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"GO\" placed above another \"GO,\" next to the word \"WALL.\" This represents \"GO GO\" adjacent to a \"WALL.\"  Hence, the answer is (C) drive up the wall.  The expression is a synonym for  to greatly or increasingly annoy, frustrate, or bother someone.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up the wall (B) back to the wall (C) drive up the wall (D) go to the wall",
+    "answer": {
+        "D": "go to the wall"
+    }
+}

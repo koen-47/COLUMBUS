@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"have a bone to pick\" with the words \"HAVE BONE\" next to the duplicated word \"PICK\".  So the answer is (A).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have a bone to pick (B) bone to pick (C) take one's pick (D) throw a bone to",
+    "answer": {
+        "A": "have a bone to pick"
+    }
+}

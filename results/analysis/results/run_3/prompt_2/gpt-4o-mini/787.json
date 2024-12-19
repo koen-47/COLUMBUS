@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows multiple running figures followed by \"1111 LIFE.\" This suggests the phrase \"run for one's life,\" as the repeated running figures indicate \"run\" and \"LIFE\" is directly stated. \n\nSo, the answer is (B) run for one's life.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run for one's life (C) fight for one's life (D) run for one's money",
+    "answer": {
+        "B": "run for one's life"
+    }
+}

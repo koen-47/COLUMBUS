@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"WO\" above \"UND,\" which suggests the phrase \"wound.\" The \"salt\" is represented by the salt shaker icon in the middle. Therefore, the phrase conveyed is \"salt in the wound.\"\n\nThe correct answer is (D) salt in the wound.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) salt of the earth (B) old salt (C) Attic salt (D) salt in the wound",
+    "answer": {
+        "D": "salt in the wound"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) icing on the cake.\n\nThe word \"ICING\" is placed *on* the word \"CAKE\". This represents the phrase \"icing on the cake\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cake crumbs (B) a piece of cake (C) icing on the cake (D) take the cake",
+    "answer": {
+        "C": "icing on the cake"
+    }
+}

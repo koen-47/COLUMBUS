@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two pennies.  The phrase that best fits this is (C) two pennies' worth.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pretty penny (B) two pennies to rub together (C) two pennies' worth (D) pennies on the dollar",
+    "answer": {
+        "D": "pennies on the dollar"
+    }
+}

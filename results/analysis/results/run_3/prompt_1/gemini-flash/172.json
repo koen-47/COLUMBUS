@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) dial down**.  The image shows the word \"DIAL\" vertically, suggesting the action of adjusting a dial, which is often associated with the phrase \"dial down\" to reduce something.  The other options don't fit the visual as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dial back (B) reset the dial (C) dial down (D) shift the dial",
+    "answer": {
+        "C": "dial down"
+    }
+}

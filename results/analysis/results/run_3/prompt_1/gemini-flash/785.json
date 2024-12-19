@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **run for cover**.\n\nThe image shows multiple figures running, and the word \"COVER\" is displayed.  This visually represents the idiom \"run for cover,\" implying seeking shelter or protection.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cover up (B) from cover to cover (C) run for cover (D) take cover",
+    "answer": {
+        "C": "run for cover"
+    }
+}

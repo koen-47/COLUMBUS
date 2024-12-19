@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image displays the words \"ROELEPHANTO\".  If you split the words and capitalize the beginning of the second word you can see \"RO Elephant OM\".  \"Room\" is just mispelled \"RO\".\n\nThe phrase being conveyed here is **(B) elephant in the room**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) baby elephant in the room (B) elephant in the room (C) pink elephant (D) white elephant",
+    "answer": {
+        "B": "elephant in the room"
+    }
+}

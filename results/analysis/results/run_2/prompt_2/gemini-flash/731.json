@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) pick one's nose.\n\nHere's why:\n\n* **Pickaxe:**  The pickaxe represents \"pick\".\n* **1111:** The number \"one\" is represented four times.\n* **Nose:** The image of a nose represents \"nose\".\n\nTherefore, the rebus combines these elements to create the phrase \"pick one's nose\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) thumb one's nose (B) nose-pick (C) turn up one's nose (D) pick one's nose",
+    "answer": {
+        "D": "pick one's nose"
+    }
+}

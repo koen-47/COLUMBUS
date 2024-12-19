@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **have other fish to fry**.\n\nThe image shows a fish with the word \"FRY\" repeated twice next to it.  This visually represents the idiom \"have other fish to fry,\" which means to have more important things to do.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish to fry (B) bigger fish to fry (C) have other fish to fry (D) big fish",
+    "answer": {
+        "B": "bigger fish to fry"
+    }
+}

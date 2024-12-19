@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **weather the storm**.\n\nThe image shows the word \"STORM\" with an arrow pointing down and another pointing up, suggesting overcoming or enduring a difficult situation.  \"Weather the storm\" means to successfully deal with a difficult situation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) storm off (B) perfect storm (C) weather the storm (D) after the storm",
+    "answer": {
+        "D": "after the storm"
+    }
+}

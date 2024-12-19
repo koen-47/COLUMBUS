@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) be left at the post**.\n\nThe image shows arrows pointing up and down around the word \"BE\".  \"BE\" is between the arrows which suggests the action is happening to \"BE\".  Combined with \"POST\", this creates the idiom \"be left at the post\".  This idiom means to be defeated or left behind.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) be left at the post (B) near post (C) in the post (D) far post",
+    "answer": {
+        "A": "be left at the post"
+    }
+}

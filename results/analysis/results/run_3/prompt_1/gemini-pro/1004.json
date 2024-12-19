@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the idea of **(B) writing on the wall**.\n\nThe word \"WRITING\" is presented above an icon of a brick wall. This directly represents the concept of writing being present on a wall. While \"handwriting on the wall\" might also seem plausible, the image doesn't specify that the writing is done by hand.  It could be painted, sprayed, or created in some other way.  Therefore, the more general \"writing on the wall\" is the most accurate option.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) handwriting on the wall (B) writing on the wall (C) handwriting (D) piece of writing",
+    "answer": {
+        "B": "writing on the wall"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **close on the heels of**.\n\nThe rebus shows the word \"CLOSE\" above a line, with two images of high heels below the line.  This visually represents something being \"close on the heels of\" something else.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) close on the heels of (C) dig heels in (D) on the heels of",
+    "answer": {
+        "B": "close on the heels of"
+    }
+}

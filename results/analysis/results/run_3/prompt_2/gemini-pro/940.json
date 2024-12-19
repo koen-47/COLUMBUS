@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"20\" twice, or twenty-twenty, over the number \"12\".  This represents the phrase \"twenty-twenty vision\".  None of the provided options match this solution.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) decimal dozen (B) cheaper by the dozen (C) twenty to the dozen (D) a dime a dozen",
+    "answer": {
+        "C": "twenty to the dozen"
+    }
+}

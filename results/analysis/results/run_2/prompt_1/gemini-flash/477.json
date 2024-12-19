@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **go to sea**.\n\nThe image shows the word \"GO\" twice, visually representing the action of going.  The graphic of a wave implies a nautical or seafaring context.  Therefore, \"go to sea\" is the most appropriate phrase.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go places (B) at sea (C) go fish (D) go to sea",
+    "answer": {
+        "D": "go to sea"
+    }
+}

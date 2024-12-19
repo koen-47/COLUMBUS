@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word conveyed in the image is \"**GLHANDOVE**\" which sounds like \"**glove**.\"\n\nTherefore, the correct answer is **(D) hand in glove**. This idiom means working together very closely, often in a secretive or deceitful way.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in hand (B) hand over hand (C) hand in hand (D) hand in glove",
+    "answer": {
+        "D": "hand in glove"
+    }
+}

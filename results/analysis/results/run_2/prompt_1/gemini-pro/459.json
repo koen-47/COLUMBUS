@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) stand for.  \"4\" is being used as a substitute for \"for\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stand out (B) stand for (C) stand in for (D) stand with",
+    "answer": {
+        "C": "stand in for"
+    }
+}

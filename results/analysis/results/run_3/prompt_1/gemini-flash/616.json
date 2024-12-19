@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) face to face.\n\nThe image shows three faces, two of which are close together, and one further away.  This visually represents a face-to-face interaction (or meeting), with one person slightly further removed.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give face (B) lose face (C) face to face (D) face down",
+    "answer": {
+        "C": "face to face"
+    }
+}

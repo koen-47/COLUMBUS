@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in the image is (B) crossfire.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) caught in the crossfire (B) crossfire (C) crossfires (D) escape fire",
+    "answer": {
+        "B": "crossfire"
+    }
+}

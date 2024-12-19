@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) land of opportunity.  The image displays the word \"OPPORTUNITY\" in gold, which is strongly associated with the \"land of opportunity\" idiom, often used to describe the United States.  The other options don't fit as well visually or conceptually.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gold opportunity (B) go for the gold (C) land of opportunity (D) black gold",
+    "answer": {
+        "A": "gold opportunity"
+    }
+}

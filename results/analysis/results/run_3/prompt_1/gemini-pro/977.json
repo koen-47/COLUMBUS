@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts (B) walk on water. The person is walking on a line above a wave, as if defying gravity and the natural properties of water.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take on water (B) walk on water (C) carry someone's water (D) take a walk",
+    "answer": {
+        "B": "walk on water"
+    }
+}

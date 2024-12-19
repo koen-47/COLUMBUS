@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows a point in the middle with arrows pointing towards it from above and below. This represents the \"midpoint,\" which is the answer (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midgame (B) midline (C) midpoints (D) midpoint",
+    "answer": {
+        "D": "midpoint"
+    }
+}

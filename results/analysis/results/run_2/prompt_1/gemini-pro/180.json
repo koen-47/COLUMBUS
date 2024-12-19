@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase **(C) blow out of the water**. The word \"WATER\" is inside a box, visually representing it being blown out by the word \"BLOW\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow off (B) blow away (C) blow out of the water (D) dry up and blow away",
+    "answer": {
+        "C": "blow out of the water"
+    }
+}

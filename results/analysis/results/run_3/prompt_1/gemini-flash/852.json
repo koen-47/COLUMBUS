@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **square one**.  The image shows \"SQUARE 1\", which is a visual representation of the idiom.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) square on (B) square one (C) back to square one (D) start at square one",
+    "answer": {
+        "B": "square one"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows two dresses and the word \"KILL\".  This represents *two* dresses *to* kill. Thus, the answer is (A) dress to kill.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dress to kill (B) in for the kill (C) make a killing (D) dress down",
+    "answer": {
+        "A": "dress to kill"
+    }
+}

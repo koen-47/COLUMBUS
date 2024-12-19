@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows \"1111FLEAEAR.\" The key elements here are \"FLEA\" and \"EAR.\" \n\nThe phrase that best fits this is (D) \"flea in one's ear,\" as it directly incorporates both \"flea\" and \"ear.\" \n\nSo, the answer is (D) flea in one's ear.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) earworm (B) not hurt a fly or flea (C) put a bug in someone's ear (D) flea in one's ear",
+    "answer": {
+        "D": "flea in one's ear"
+    }
+}

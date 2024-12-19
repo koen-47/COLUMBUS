@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows \"1111COMEOWN.\" The \"1111\" can be interpreted as \"come\" (since \"1\" sounds like \"come\"), and \"OWN\" is directly present. \n\nPutting it together, it conveys the phrase \"come into one's own.\"\n\nSo, the answer is (A) come into one's own.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into one's own (B) come to oneself (C) go one's own way (D) do one's own thing",
+    "answer": {
+        "A": "come into one's own"
+    }
+}

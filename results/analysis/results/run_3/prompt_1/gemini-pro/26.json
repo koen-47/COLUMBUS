@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image is a blue baby face.  This likely represents a \"rainbow baby\" (D), a term for a child born after a miscarriage, stillbirth, or neonatal death.  The association with rainbows symbolizes hope and new beginnings after a period of loss and grief.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) baby blue (B) black and blue (C) feel blue (D) rainbow baby",
+    "answer": {
+        "A": "baby blue"
+    }
+}

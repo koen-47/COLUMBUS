@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) crossbreed**.\n\nThe image shows the word \"BREEDING\" with a line crossing through it.  Removing the \"ING\" leaves \"BREED\", and the line across it signifies \"cross\".  Therefore, the answer is \"crossbreed\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossbreeding (B) crossbreed (C) offspring (D) crossbreeds",
+    "answer": {
+        "A": "crossbreeding"
+    }
+}

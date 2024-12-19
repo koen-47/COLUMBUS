@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **think on one's feet**.\n\nThe image shows \"THINK\" over a line with \"1111 FEET\" below.  \"1111\" represents \"one's\" phonetically.  Therefore, the complete phrase is \"think on one's feet\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) find one's feet (B) on one's feet (C) think on one's feet (D) at one's feet",
+    "answer": {
+        "C": "think on one's feet"
+    }
+}

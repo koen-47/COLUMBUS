@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) rough diamond.  The image uses a diamond shape to represent the word \"diamond\" within the word \"rough\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) diamond is forever (B) diamond in the rough (C) rough out (D) rough diamond",
+    "answer": {
+        "B": "diamond in the rough"
+    }
+}

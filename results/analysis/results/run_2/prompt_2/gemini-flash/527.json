@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) from beginning to end.\n\nHere's why:\n\nThe arrows represent the start and end points.  \"FROM\" is placed in the middle. The number \"2\" reinforces that there are two points (beginning and end). Therefore, the rebus represents the phrase \"from beginning to end\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) from time to time (B) begin at the beginning (C) from start to finish (D) from beginning to end",
+    "answer": {
+        "D": "from beginning to end"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"CHILD\" written twice.  Since there are two children, the plural form is appropriate.  Therefore the correct answer is (C) grandchildren.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) granddaughters (B) grandsons (C) grandchildren (D) grandparents",
+    "answer": {
+        "C": "grandchildren"
+    }
+}

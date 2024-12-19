@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in the image is (A) baby blue.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) baby blue (B) black and blue (C) feel blue (D) rainbow baby",
+    "answer": {
+        "A": "baby blue"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"PACKED\" twice, with the word \"GILLS\" between them.  This represents \"PACKED to the GILLS\" PACKED.  Thus, the answer is (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) full to the gills (B) stuffed to the gills (C) to the gills (D) packed to the gills",
+    "answer": {
+        "D": "packed to the gills"
+    }
+}

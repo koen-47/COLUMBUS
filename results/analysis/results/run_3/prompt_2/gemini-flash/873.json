@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(D) step up to the plate**.\n\nThe rebus shows the word \"PETS\" vertically, and then two \"plate\" symbols (fork and knife on a plate) are shown below.  This visually represents \"step up to the plate\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step up (B) step down (C) step over (D) step up to the plate",
+    "answer": {
+        "D": "step up to the plate"
+    }
+}

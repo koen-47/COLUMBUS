@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The letters \"G\" and \"O\" are positioned above and below the word \"FLAMES.\" This represents \"GO\" over or surrounding \"FLAMES,\" so the rebus puzzle is \"Go down in flames.\"\n\nThus, the answer is (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go up in smoke (B) go up in flames (C) go down on (D) go down in flames",
+    "answer": {
+        "D": "go down in flames"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle is \"STAND / 1111 FACE\".  This represents \"stand tall\".  Since \"stand tall\" is not one of the options provided, the closest option is **(B) hold one's head high**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep one's head (B) hold one's head high (C) with one's head held high (D) stand on one's head",
+    "answer": {
+        "D": "stand on one's head"
+    }
+}

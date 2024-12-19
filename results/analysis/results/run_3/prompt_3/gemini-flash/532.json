@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) green handshake.\n\nThe image shows a green handshake symbol.  The description confirms this: the handshake icon is green. Therefore, the rebus represents a \"green handshake\".\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83e\udd1d, color: green, repeat: 1, icon: (handshake: \ud83e\udd1d))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) golden handshake (B) handshake (C) handshaking (D) green handshake",
+    "answer": {
+        "D": "green handshake"
+    }
+}

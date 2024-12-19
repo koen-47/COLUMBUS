@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) go to the polls.\n\nThe image shows \"GO\" over \"MAJORITY MAJORITY\".  This visually represents the phrase \"Go to the majority\" which is a common way to express \"go to the polls\".  The word \"polls\" is implied and understood in the context of voting.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go over to the majority (B) vast majority (C) go to the polls (D) go over",
+    "answer": {
+        "A": "go over to the majority"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) out of luck.\n\nThe image shows a person running away from a four-leaf clover, which is a symbol of good luck.  The implication is that the person has missed the opportunity for good luck, therefore they are \"out of luck\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of luck (B) luck out (C) run out (D) out of luck",
+    "answer": {
+        "A": "run out of luck"
+    }
+}

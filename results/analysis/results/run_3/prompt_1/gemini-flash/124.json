@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **come down**.\n\nThe image shows the word \"STAIRRODS\" with the letters \"COME\" vertically positioned in the middle.  When combined, it spells out \"COME DOWN\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) staircase (B) come down in stair rods (C) stairwells (D) come down",
+    "answer": {
+        "B": "come down in stair rods"
+    }
+}

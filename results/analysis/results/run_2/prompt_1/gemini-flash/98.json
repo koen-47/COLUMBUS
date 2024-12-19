@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) a trip to the sun.\n\nThe image shows the word \"TRIP\" stacked vertically, with a sun symbol next to it. This clearly represents a trip to the sun.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch the sun (B) under the sun (C) a trip to the sun (D) the sun sets on something",
+    "answer": {
+        "C": "a trip to the sun"
+    }
+}

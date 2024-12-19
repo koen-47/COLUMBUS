@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) elephant in the room.\n\nThe image shows the words \"ROELEPHANTO M\".  Rearranging these words creates the idiom \"elephant in the room\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) baby elephant in the room (B) elephant in the room (C) pink elephant (D) white elephant",
+    "answer": {
+        "B": "elephant in the room"
+    }
+}

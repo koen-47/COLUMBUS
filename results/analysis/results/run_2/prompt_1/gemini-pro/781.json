@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(A) roof over one's head**.\n\nThe image shows \"ROOF\" over \"1111\" and a face, depicting a roof over someone's head (represented by the numbers and face).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roof over one's head (B) through the roof (C) hit the roof (D) raise the roof",
+    "answer": {
+        "A": "roof over one's head"
+    }
+}

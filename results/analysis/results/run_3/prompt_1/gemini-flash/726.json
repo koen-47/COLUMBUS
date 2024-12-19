@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) paradise on earth**.\n\nThe image shows the word \"PARADISE\" with a globe underneath it.  This directly represents the idea of paradise being found on Earth.  The other options imply conflict or deception, which isn't depicted.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) paradise on earth (B) hell on earth (C) fool's paradise (D) trouble in paradise",
+    "answer": {
+        "A": "paradise on earth"
+    }
+}

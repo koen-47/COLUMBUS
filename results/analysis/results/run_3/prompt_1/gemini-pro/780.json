@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (C) roll out the red carpet.  The word \"CARPET\" is in red, suggesting a red carpet, and the word \"ROLL\" suggests the action of rolling it out.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roll in the aisles (B) red carpet treatment (C) roll out the red carpet (D) under the carpet",
+    "answer": {
+        "C": "roll out the red carpet"
+    }
+}

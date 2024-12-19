@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the words \"EYED\" (in blue) and \"BOY\" (in black). This corresponds to option (D) blue eyed boy.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue-eyed (B) baby blue (C) fair-haired boy (D) blue eyed boy",
+    "answer": {
+        "D": "blue eyed boy"
+    }
+}

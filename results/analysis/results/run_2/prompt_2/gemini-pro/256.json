@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"OPPORTUNITY\" is written in yellow, and the letter \"I\" is highlighted. This represents \"one in a million opportunity\". It is closest to option (A): a **gold opportunity**.\nSo, the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gold opportunity (B) go for the gold (C) land of opportunity (D) black gold",
+    "answer": {
+        "A": "gold opportunity"
+    }
+}

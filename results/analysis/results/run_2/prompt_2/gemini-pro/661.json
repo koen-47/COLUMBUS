@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle is \"LIKE duck TO water,\" with \"TO\" represented by the images of a wave breaking twice (\"two\").\n\nSo the answer is (C) like a duck to water.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break one's duck (B) sitting duck (C) like a duck to water (D) like water off a duck's back",
+    "answer": {
+        "C": "like a duck to water"
+    }
+}

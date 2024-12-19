@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"COME EARTH EARTH\".  This corresponds to option (B): **come down to earth**.  The repeated \"EARTH\" emphasizes the \"down to earth\" part of the phrase.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down (B) come down to earth (C) come down to us (D) down to earth",
+    "answer": {
+        "B": "come down to earth"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle \"1HOLE1\" represents (A) hole in one.  The \"1\"s are on either side of \"HOLE,\" signifying \"one\" on each side of a \"hole.\" This is a common term in golf.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hole in one (B) drinking hole (C) dig out of a hole (D) in the hole",
+    "answer": {
+        "A": "hole in one"
+    }
+}

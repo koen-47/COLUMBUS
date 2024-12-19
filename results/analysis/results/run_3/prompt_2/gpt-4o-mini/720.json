@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows \"DI\" and \"TCH\" with a cow (often referred to as \"ox\"). This suggests the phrase \"ox is in the ditch.\" \n\nSo, the correct answer is (D) ox is in the ditch.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) itch the ditch (B) hurler on the ditch (C) keep it between the ditches (D) ox is in the ditch",
+    "answer": {
+        "D": "ox is in the ditch"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"think on one's feet.\" \n\nHere's the breakdown:\n- \"THINK\" is above \"1111,\" which sounds like \"one's.\"\n- \"1111\" is next to \"FEET.\"\n\nSo the correct answer is (C) think on one's feet.",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: THINK, repeat: 1)\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: FEET, repeat: 1)\nEdge 1: node 1 to node 2 (rule: ABOVE)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) find one's feet (B) on one's feet (C) think on one's feet (D) at one's feet",
+    "answer": {
+        "C": "think on one's feet"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the letters \"Y L L E B\" vertically positioned next to two instances of the word \"BAR\".  This represents \"Belly up to the bar.\"  So the answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) raise the bar (B) prop up the bar (C) belly up to the bar (D) belly up",
+    "answer": {
+        "C": "belly up to the bar"
+    }
+}

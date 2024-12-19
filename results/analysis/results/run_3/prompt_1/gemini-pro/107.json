@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"back to the wall\".  The repeated \"BACK\" and the placement of \"WALL\" visually suggests the phrase.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) back to the wall (B) go to the wall (C) up the wall (D) back against the wall",
+    "answer": {
+        "A": "back to the wall"
+    }
+}

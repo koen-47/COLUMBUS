@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"1111TURNGROVE\".  This sounds like \"turn grave\".  The most similar idiom is **(C) turn in one's grave**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's own grave (B) take someone to the grave (C) turn in one's grave (D) take to the grave",
+    "answer": {
+        "C": "turn in one's grave"
+    }
+}

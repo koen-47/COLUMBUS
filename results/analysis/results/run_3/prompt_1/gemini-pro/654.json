@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"GNIDLOH BAG\" which is \"HOLDING BAG\" spelled backwards.  Therefore, the correct answer is **(D) left holding the bag**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bag and baggage (B) in the bag (C) give someone the bag (D) left holding the bag",
+    "answer": {
+        "D": "left holding the bag"
+    }
+}

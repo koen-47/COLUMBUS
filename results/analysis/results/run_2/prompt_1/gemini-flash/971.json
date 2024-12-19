@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) walk on broken glass.\n\nThe image shows a person walking on a line labeled \"broken glass\".  This directly represents the idiom \"walk on broken glass\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) glasswork (B) walk on broken glass (C) turn down a glass (D) glass ceiling",
+    "answer": {
+        "B": "walk on broken glass"
+    }
+}

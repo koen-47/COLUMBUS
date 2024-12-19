@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) run out of town.\n\nThe word \"TOWN\" is enclosed in a box, implying it is \"out\" or excluded.  Therefore, the rebus depicts \"RUN OUT OF TOWN\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of town (B) run out (C) out on the town (D) run off",
+    "answer": {
+        "A": "run out of town"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle is \"TAKE\" over a picture of a wave. This represents **(D) take on water**.  A ship takes on water when it's swamped by a wave.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) walk on water (B) hold one's water (C) hold water (D) take on water",
+    "answer": {
+        "D": "take on water"
+    }
+}

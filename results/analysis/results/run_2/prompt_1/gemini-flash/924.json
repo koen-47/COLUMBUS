@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **too good for this world**.\n\nThe image shows the words \"GOOD THIS\" repeated three times, with a globe next to it.  This visually represents something so good that it seems to transcend or be better than what is found on Earth (\"this world\").\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not long for this world (B) out of this world (C) too good for this world (D) not for the world",
+    "answer": {
+        "C": "too good for this world"
+    }
+}

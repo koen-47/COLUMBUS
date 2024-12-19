@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image likely conveys **(A) water to one's mill**.\n\nThe image shows two icons of waves crashing against something, likely a water mill. The phrase \"water to one's mill\" means something that is advantageous or useful to someone.  The crashing waves provide power to a water mill, making it a fitting visual representation of the idiom.\n\nThe other options are less likely:\n\n* **(B) go through the mill:** This idiom describes a difficult or arduous experience. While the image could be interpreted as the water going \"through\" the mill, the overall image doesn't suggest hardship.\n* **(C) millwork:** This refers to woodwork produced in a mill, which is not related to the image of waves.\n* **(D) trouble at mill:**  This isn't a standard idiom. The image doesn't convey any sense of trouble or malfunction.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) water to one's mill (B) go through the mill (C) millwork (D) trouble at mill",
+    "answer": {
+        "A": "water to one's mill"
+    }
+}

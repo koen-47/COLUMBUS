@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(B) skeleton in the cupboard**.  The skull is placed within the word \"cupboard\", visually representing a skeleton hidden inside.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cupboard love (B) skeleton in the cupboard (C) cupboard (D) skeleton in the closet",
+    "answer": {
+        "B": "skeleton in the cupboard"
+    }
+}

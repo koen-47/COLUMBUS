@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) bang down the door.  The image shows the letters \"BANG\" vertically stacked, next to the word \"DOOR\".  This visually represents the phrase \"bang down the door\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bang down the door (B) bang up (C) bang out (D) bang away",
+    "answer": {
+        "A": "bang down the door"
+    }
+}

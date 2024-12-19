@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) crossfire.  The word \"FIRE\" is visually crossed out by lines, creating the impression of something being under fire from multiple directions, which is the definition of \"crossfire.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) caught in the crossfire (B) crossfire (C) crossfires (D) escape fire",
+    "answer": {
+        "B": "crossfire"
+    }
+}

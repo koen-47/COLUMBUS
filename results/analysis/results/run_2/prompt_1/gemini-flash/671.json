@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) word on the street.\n\nThe image depicts a face above the word \"STREET,\" visually representing the idiom \"word on the street,\" which refers to informal, unofficial news or rumors.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) man on the street (B) man in the street (C) word on the street (D) up someone's street",
+    "answer": {
+        "A": "man on the street"
+    }
+}

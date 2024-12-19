@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) cash in**.\n\nThe image shows the number 1111 (representing a large quantity), a wallet/purse with a dollar sign, and french fries (representing a purchase or investment).  This visually represents the act of converting something (the fries, representing an investment or asset) into cash.  This directly relates to the idiom \"cash in.\"\n\nThe other options don't fit the visual representation as well:\n\n* **(A) cash in one's chips:** This implies quitting something.\n* **(C) have had one's chips:** This is not a standard idiom.\n* **(D) let the chips fall where they may:** This implies accepting whatever happens without interference.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cash in one's chips (B) cash in (C) have had one's chips (D) let the chips fall where they may",
+    "answer": {
+        "A": "cash in one's chips"
+    }
+}

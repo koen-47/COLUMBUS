@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"FLAMES\" with the letters \"G\" and \"O\" superimposed, suggesting the phrase \"GO FLAMES.\"  This implies **(D) go down in flames**, although it's used sarcastically or ironically here, expressing a desire for the Calgary Flames (a hockey team) to lose.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go up in smoke (B) go up in flames (C) go down on (D) go down in flames",
+    "answer": {
+        "D": "go down in flames"
+    }
+}

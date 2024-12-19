@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) two left hands.  The words \"LEFT\" appear twice, stacked above each other, next to the word \"HANDS.\" This visually represents two left hands.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) extra pair of hands (B) two left feet (C) change hands (D) two left hands",
+    "answer": {
+        "D": "two left hands"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **start off on the wrong foot**.\n\nThe image shows an upward-pointing arrow (\"start\") followed by a downward-pointing arrow (\"off\"),  combined with the words \"wrong foot\".  This visually represents the idiom of beginning something badly.  Option C accurately reflects this meaning.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a foot wrong (B) off on the wrong foot (C) start off on the wrong foot (D) start off on the right foot",
+    "answer": {
+        "C": "start off on the wrong foot"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"GNORW\" above the word \"HORSE.\" The key to solving it is to notice that \"GNORW\" can be interpreted as \"going around\" or \"backwards\" (since it looks like \"GONE\" backwards). \n\nPutting it together, it suggests the phrase \"back the wrong horse.\" \n\nSo the answer is (D) back the wrong horse.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high horse (B) horse around (C) dark horse (D) back the wrong horse",
+    "answer": {
+        "D": "back the wrong horse"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B).\n\nThe image shows the phrase \"STAIRRODS\" written horizontally, with the word \"COME\" written vertically, intersecting at the letter \"O\". This creates the phrase \"COME down in STAIR RODS.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) staircase (B) come down in stair rods (C) stairwells (D) come down",
+    "answer": {
+        "B": "come down in stair rods"
+    }
+}

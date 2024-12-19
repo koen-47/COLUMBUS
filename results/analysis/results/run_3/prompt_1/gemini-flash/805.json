@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) run out of luck.\n\nThe image shows the word \"RUN\" outside a box containing the word \"LUCK\".  This visually represents the phrase \"run out of luck\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out (B) out of luck (C) luck out (D) run out of luck",
+    "answer": {
+        "D": "run out of luck"
+    }
+}

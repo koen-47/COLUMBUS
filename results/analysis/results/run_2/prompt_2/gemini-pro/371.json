@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"Dead End Job\". The word \"JOB\" is above the word \"DEAD\" with arrows pointing up to \"JOB\" and down to \"DEAD.\"  This positioning implies a job going nowhere, or a \"dead end job.\"  So the answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead end (B) dead last (C) dead end job (D) dead loss",
+    "answer": {
+        "C": "dead end job"
+    }
+}

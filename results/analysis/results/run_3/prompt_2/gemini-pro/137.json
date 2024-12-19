@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"REVOC\" is spelled vertically. This sounds like \"revoke,\" which means to take away. \n\nNone of the options seem to be a perfect fit, but (B) \"cover up\" has a sense of hiding something, and the taking away of information could be considered a \"covering up\". So, (B) is the closest option.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for cover (B) cover up (C) from cover to cover (D) take cover",
+    "answer": {
+        "B": "cover up"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) hang one's hat.\n\nThe image shows the letters G, N, A, H vertically stacked, which spells \"hang.\"  The number 1111 represents \"one\" (as in one hat), and the image of a top hat represents \"hat.\"  Therefore, the image conveys \"hang one's hat\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tip one's hat (B) hang over one's head (C) hang up one's hat (D) hang one's hat",
+    "answer": {
+        "C": "hang up one's hat"
+    }
+}

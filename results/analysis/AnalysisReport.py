@@ -18,7 +18,7 @@ class AnalysisReport:
     """
 
     def __init__(self):
-        self.results_dir = f"{os.path.dirname(__file__)}/results/run_3"
+        self.results_dir = f"{os.path.dirname(__file__)}/results/run_1"
         self._graph_answer_pairs = get_answer_graph_pairs(combine=True)
         self._model_types = {
             "non_instruction": ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "fuyu-8b"],

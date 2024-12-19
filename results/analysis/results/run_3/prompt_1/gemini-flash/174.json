@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) before one's eyes**.\n\nThe image shows four \"1\"s between upward and downward arrows, alongside the word \"EYES\".  This is a visual representation of something happening right in front of someone's eyes.  The other options don't fit the visual metaphor.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's eyes (B) before one's time (C) set eyes on (D) before someone's time",
+    "answer": {
+        "A": "before one's eyes"
+    }
+}

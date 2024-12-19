@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "(A) a little bird told me",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a little bird told me (B) early bird (C) bird of one's own brain (D) bird in the bosom",
+    "answer": {
+        "A": "a little bird told me"
+    }
+}

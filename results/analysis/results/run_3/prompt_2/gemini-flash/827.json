@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) set in stone.\n\nThe image shows the word \"SET\" with a stone image on either side.  This visually represents the phrase \"set in stone\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in stone (B) carved in stone (C) stone dead (D) rolling stone",
+    "answer": {
+        "A": "set in stone"
+    }
+}

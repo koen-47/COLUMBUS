@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (C) close to home.  The words \"CLOSE\" repeated twice, alongside a house icon, visually represent the phrase.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) home away from home (B) at home (C) close to home (D) hit too close to home",
+    "answer": {
+        "C": "close to home"
+    }
+}

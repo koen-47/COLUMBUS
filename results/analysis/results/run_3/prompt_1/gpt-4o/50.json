@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "(B) a small cog in a big wheel",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big wheel (B) a small cog in a big wheel (C) cogwheel (D) cogwheels",
+    "answer": {
+        "B": "a small cog in a big wheel"
+    }
+}

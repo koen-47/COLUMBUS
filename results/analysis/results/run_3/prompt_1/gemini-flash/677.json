@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) microchips**.\n\nThe image depicts two simplified representations of microchips.  The other options are not visually represented.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) microchips (B) chipboard (C) chip in (D) hardware",
+    "answer": {
+        "A": "microchips"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase represented by the four 1s and the words DIGHEELS: \"dig one's heels in\". Therefore, the correct answer is (A).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's heels in (B) dig heels in (C) dig in one's heels (D) take to one's heels",
+    "answer": {
+        "C": "dig in one's heels"
+    }
+}

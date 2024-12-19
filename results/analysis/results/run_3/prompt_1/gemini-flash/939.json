@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(A) turn up**.\n\nThe image shows the words \"TURN UP\" next to multiple instances of the word \"BOOK\".  This visually represents the phrase \"turn up book,\" though grammatically, it should be \"turn up the book.\"  Option A, \"turn up,\" is the closest match to the visual representation.  The other options don't accurately reflect the image.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn up (B) turn up for the book (C) throw the book at (D) write the book",
+    "answer": {
+        "B": "turn up for the book"
+    }
+}

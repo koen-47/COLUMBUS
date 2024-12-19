@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) dog in the manger.\n\nThe image shows the words \"MAN\" and \"GER\" with a picture of a dog in between them.  This visually represents the idiom \"dog in the manger,\" which describes someone who prevents others from using something they don't need themselves.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see a man about a dog (B) mantiger (C) dog around (D) dog in the manger",
+    "answer": {
+        "D": "dog in the manger"
+    }
+}

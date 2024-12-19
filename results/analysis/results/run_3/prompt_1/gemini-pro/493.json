@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts \"MY\" repeated several times, followed by a picture of money. This conveys the phrase \"**for my money (A)**\". This idiom means \"in my opinion\" or \"if you ask me\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for my money (B) for the love of me (C) for the love of (D) on the money",
+    "answer": {
+        "A": "for my money"
+    }
+}

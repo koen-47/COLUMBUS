@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"WATER\" over \"DAM\".  This represents \"water over the dam\".\n\nSo the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) water down (B) water over the dam (C) water under the bridge (D) head above water",
+    "answer": {
+        "B": "water over the dam"
+    }
+}

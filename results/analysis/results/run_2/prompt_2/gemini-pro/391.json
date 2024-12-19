@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the words \"DISG\" and \"UISE\" with a devil emoji in between. This represents \"Disg**uise**\".  Since the emoji is a devil, the puzzle is \"Devil in Disguise\".\n\nSo the answer is (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the devil (B) devil lies in the details (C) devil is in the details (D) devil in disguise",
+    "answer": {
+        "D": "devil in disguise"
+    }
+}

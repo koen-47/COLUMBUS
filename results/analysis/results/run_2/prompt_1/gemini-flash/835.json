@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **small price to pay**.\n\nThe image shows the word \"PRICE\" and then \"PAY\" is repeated twice, implying that a price must be paid, which is a common idiom used to describe a sacrifice or cost that is worthwhile considering the benefits.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) price is right (B) small fortune (C) smallholders (D) small price to pay",
+    "answer": {
+        "D": "small price to pay"
+    }
+}

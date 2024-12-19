@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **big cheese**.\n\nThe image depicts a wedge of cheese with \"COM\" and \"PANY\" on either side, forming the phrase \"Company\".  The visual pun uses the phrase \"big cheese\" as slang for an important person in a company.  The other options don't fit the visual context.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the big cheese in the company (B) say cheese (C) hard cheese (D) big cheese",
+    "answer": {
+        "A": "the big cheese in the company"
+    }
+}

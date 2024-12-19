@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **eyes on the prize**.\n\nThe image shows \"IIII\" (four lines) above the word \"PRIZE\".  This visually represents the idea of keeping one's focus (\"eyes\") on the goal (\"prize\").\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) booby prize (C) prizefight (D) eyes on the prize",
+    "answer": {
+        "D": "eyes on the prize"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(D) Attic salt**.\n\nThe word \"WOSAL T UND\" is a rebus puzzle.  If you remove the \"WO\" and the \"UND\"  you are left with \"SALT\".  \"Attic\" is where \"WO\" and \"UND\" are located in the word.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) salt of the earth (B) old salt (C) salt in the wound (D) Attic salt",
+    "answer": {
+        "C": "salt in the wound"
+    }
+}

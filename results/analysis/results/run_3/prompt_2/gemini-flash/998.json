@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **turn the clock back**.\n\nThe word \"DNIW\" is \"WIND\" spelled backward.  Therefore, the image represents \"WIND CLOCK,\" which is a phrase that means \"turn the clock back.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn back the clock (B) wind back the clock (C) turn the clock back (D) put the clock back",
+    "answer": {
+        "B": "wind back the clock"
+    }
+}

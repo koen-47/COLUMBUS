@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) hit too close to home.  The repetition of \"HIT CLOSE\" emphasizes the impact, and the house icon clearly connects the phrase to \"home.\" The phrase \"hit too close to home\" means something has deeply affected someone personally.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) close to home (B) hit too close to home (C) hit home (D) home away from home",
+    "answer": {
+        "B": "hit too close to home"
+    }
+}

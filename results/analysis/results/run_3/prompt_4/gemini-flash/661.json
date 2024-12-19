@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) like a duck to water.\n\nThe rebus shows \"LIKE\" next to a duck next to two images of water.  The phrase \"like a duck to water\" describes something that is done easily and naturally. The arrangement of the elements in the image and the graph description supports this interpretation.\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: LIKE, repeat: 1)\nNode 2 attributes: (text: \ud83e\udd86, repeat: 1, icon: (duck: \ud83e\udd86))\nNode 3 attributes: (text: \ud83c\udf0a, repeat: 2, icon: (water: \ud83c\udf0a), sound: (to: 2))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) break one's duck (B) sitting duck (C) like a duck to water (D) like water off a duck's back",
+    "answer": {
+        "C": "like a duck to water"
+    }
+}

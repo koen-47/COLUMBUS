@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) two thumbs up.\n\nThe rebus shows the word \"THUMBS\" stacked on top of itself, with the word \"UP\" to the right.  This visually represents two thumbs up.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two thumbs up (B) thumbstall (C) thumbscrews (D) thumbscrew",
+    "answer": {
+        "A": "two thumbs up"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) hand to mouth.\n\nThe image shows the words \"HAND\" and \"MOUTH\" arranged in a way that visually represents the idiom \"hand to mouth,\" signifying a meager or barely sufficient living.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand to mouth (B) hand in hand (C) hand over hand (D) hand to God",
+    "answer": {
+        "A": "hand to mouth"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in this image is (C) bad news.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not half bad (B) too bad (C) bad news (D) good grief",
+    "answer": {
+        "B": "too bad"
+    }
+}

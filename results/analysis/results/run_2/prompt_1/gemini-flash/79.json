@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) aftertaste.\n\nThe image shows the word \"TASTE\" with arrows indicating a taste that comes after the initial taste (hence \"aftertaste\").  The up arrows represent the initial taste, and the down arrows show the lingering taste after the initial one.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) afterlives (B) aftertaste (C) aftertastes (D) foretastes",
+    "answer": {
+        "C": "aftertastes"
+    }
+}

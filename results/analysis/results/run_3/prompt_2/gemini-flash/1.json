@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) back to the wall.\n\nThe rebus shows the word \"BACK\" twice, with a picture of a brick wall between them.  This visually represents the phrase \"BACK TO THE WALL\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to the wall (B) back against the wall (C) up the wall (D) back to the wall",
+    "answer": {
+        "D": "back to the wall"
+    }
+}

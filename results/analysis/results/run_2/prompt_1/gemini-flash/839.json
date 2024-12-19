@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) somewhere over the rainbow.  The image visually represents this phrase by placing \"SOMEWHERE\" above \"RAINBOW\" with a line separating them.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rainbow baby (B) end of the rainbow (C) somewhere over the rainbow (D) rainbow",
+    "answer": {
+        "C": "somewhere over the rainbow"
+    }
+}

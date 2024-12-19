@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) money for jam.\n\nThe image shows the word \"MONEY\" repeated three times, followed by the word \"JAM\".  This visually represents the phrase \"money for jam,\" meaning easy money or unearned profit.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) money for jam (B) jam tomorrow (C) jampot (D) jam today",
+    "answer": {
+        "A": "money for jam"
+    }
+}

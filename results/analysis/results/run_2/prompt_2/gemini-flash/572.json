@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) down in the mouth.\n\nThe word \"mouth\" is hidden within the word \"MODOWNUTH\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down under (B) down the toilet (C) down in the dumps (D) down in the mouth",
+    "answer": {
+        "D": "down in the mouth"
+    }
+}

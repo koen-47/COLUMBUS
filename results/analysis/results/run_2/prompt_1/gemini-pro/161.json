@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(C) crosswind**.  The lines crossing the word \"WIND\" visually represent wind blowing across something, hence \"crosswind.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crosswinds (B) sidewinders (C) crosswind (D) break wind",
+    "answer": {
+        "A": "crosswinds"
+    }
+}

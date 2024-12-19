@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) the big guns**.\n\nThe image simply shows the word \"GUNS\".  This is a visual pun, referencing the idiom \"the big guns,\" which means the most important or powerful people or resources.  The other options don't fit the visual pun as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) guns blazing (B) big gun (C) the big guns (D) big shot",
+    "answer": {
+        "C": "the big guns"
+    }
+}

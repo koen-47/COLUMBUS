@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"step up to the plate.\"  \"Step\" is written, the up arrow signifies \"up,\" and the two place settings (plates) represent \"to the plate.\" So the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step up to the plate (B) step down (C) step up your game (D) step up",
+    "answer": {
+        "A": "step up to the plate"
+    }
+}

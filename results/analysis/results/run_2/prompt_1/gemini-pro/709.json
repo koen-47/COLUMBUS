@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"NEW\" next to a child's face. This conveys the phrase \"**new kid on the block (A)**\". The other options aren't relevant to the image.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) new kid on the block (B) gapers' block (C) kid around (D) what's new",
+    "answer": {
+        "A": "new kid on the block"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) Attic salt.\n\nThe word \"WOSALTUND\" is a visual pun.  It's a rearrangement of the words \"Wit and Salt\".  \"Attic salt\" is an idiom meaning \"wit\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) salt of the earth (B) old salt (C) salt in the wound (D) Attic salt",
+    "answer": {
+        "C": "salt in the wound"
+    }
+}

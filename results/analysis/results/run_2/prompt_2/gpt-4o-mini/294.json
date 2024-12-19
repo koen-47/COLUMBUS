@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"come to light.\" The word \"come\" is positioned above \"light,\" indicating the phrase. Therefore, the correct answer is (B) come to light.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bring to light (B) come to light (C) see the light (D) give a light",
+    "answer": {
+        "B": "come to light"
+    }
+}

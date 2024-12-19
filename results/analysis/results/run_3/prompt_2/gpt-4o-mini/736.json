@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"SPIEKY,\" which suggests a play on words. The key part is \"PIE\" being in the word \"SPIEKY.\" \n\nThis leads to the phrase \"finger in the pie,\" as it implies involvement or having a stake in something.\n\nSo, the answer is (B) finger in the pie.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pie in the sky (B) finger in the pie (C) piece of the pie (D) humble pie",
+    "answer": {
+        "A": "pie in the sky"
+    }
+}

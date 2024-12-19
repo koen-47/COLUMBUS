@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"BLOW\" next to a boxed image of an ocean wave.  This signifies \"blowing out of the water.\"  Thus, the answer is (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow off (B) blow away (C) dry up and blow away (D) blow out of the water",
+    "answer": {
+        "D": "blow out of the water"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase: (A) dig in one's heels.",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: DIG, repeat: 1)\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: \ud83d\udc60\ud83d\udc60, repeat: 1, icon: (heels: \ud83d\udc60\ud83d\udc60))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) dig in one's heels (B) dig one's heels in (C) dig heels in (D) take to one's heels",
+    "answer": {
+        "A": "dig in one's heels"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) high noon.\n\nThe image shows the word \"NOON\" with an arrow pointing up and an arrow pointing down.  This visually represents the peak of the day (noon) and the passage of time before and after. \"High noon\" is a common idiom that emphasizes the middle of the day, making it the best fit.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) noonday (B) afternoons (C) afternoon (D) high noon",
+    "answer": {
+        "C": "afternoon"
+    }
+}

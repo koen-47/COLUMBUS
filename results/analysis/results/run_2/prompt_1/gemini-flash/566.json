@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The best answer is (C) **done deal**.\n\nThe image shows the word \"DONE\" repeated four times, implying that something is finished and settled.  This strongly aligns with the meaning of \"done deal,\" which signifies a finalized agreement or arrangement.  The other options don't fit the visual representation as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) done in (B) done for (C) done deal (D) well done",
+    "answer": {
+        "B": "done for"
+    }
+}

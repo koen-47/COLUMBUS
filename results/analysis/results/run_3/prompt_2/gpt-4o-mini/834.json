@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"PAY\" with a small dollar sign next to it, which suggests a \"small price to pay.\" Therefore, the correct answer is (C) small price to pay.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small fortune (B) price is right (C) small price to pay (D) smallholders",
+    "answer": {
+        "C": "small price to pay"
+    }
+}

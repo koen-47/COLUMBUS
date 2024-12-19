@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **be in the same boat**.\n\nThe image displays the words \"SAME BE BOAT\", which when read correctly forms the idiom \"be in the same boat\".  This idiom means to be in the same difficult situation as someone else.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the same boat (B) be in the same boat (C) row in the same boat (D) rock the boat",
+    "answer": {
+        "B": "be in the same boat"
+    }
+}

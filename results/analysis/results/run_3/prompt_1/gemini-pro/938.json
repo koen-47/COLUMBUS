@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"Turn up the book\". The arrows signify turning up the volume and the repeating \"BOOK\" emphasizes the object of the action. So the answer is similar to A, but not exactly A. Instead, the answer is closest to (B) **turn up**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn up for the book (B) turn up (C) throw the book at (D) write the book",
+    "answer": {
+        "A": "turn up for the book"
+    }
+}

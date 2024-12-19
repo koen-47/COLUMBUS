@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows four instances of the word \"SHEETS\" and two instances of the word \"WIND\". This corresponds to the idiom \"four sheets to the wind\" (A), which means very drunk.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) four sheets to the wind (B) three sheets to the wind (C) get wind (D) wind at one's back",
+    "answer": {
+        "A": "four sheets to the wind"
+    }
+}

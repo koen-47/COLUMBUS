@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **fly on the wall**.\n\nThe image shows two faces on either side of the word \"FLY,\" suggesting someone observing a situation unseen.  This aligns perfectly with the idiom \"fly on the wall,\" which describes someone who is an unnoticed observer.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly by (B) fly in the face of (C) hurt a fly (D) fly on the wall",
+    "answer": {
+        "B": "fly in the face of"
+    }
+}

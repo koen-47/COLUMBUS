@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in the image is (B) somewhere over the rainbow.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rainbow (B) somewhere over the rainbow (C) end of the rainbow (D) rainbow baby",
+    "answer": {
+        "B": "somewhere over the rainbow"
+    }
+}

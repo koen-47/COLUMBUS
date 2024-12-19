@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"stick it to.\" The word \"STICK\" is positioned above \"IT,\" suggesting the phrase \"stick it to.\" \n\nSo the answer is (D) stick it to.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stick to (B) stick it to the man (C) put it to (D) stick it to",
+    "answer": {
+        "D": "stick it to"
+    }
+}

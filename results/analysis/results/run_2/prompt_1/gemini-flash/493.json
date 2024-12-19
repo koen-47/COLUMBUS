@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) for my money**.\n\nThe image shows the word \"MY\" repeated four times, next to an image of money.  This visually represents the idiom \"for my money,\" meaning \"in my opinion.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for my money (B) for the love of me (C) for the love of (D) on the money",
+    "answer": {
+        "A": "for my money"
+    }
+}

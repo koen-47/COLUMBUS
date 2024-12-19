@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"why in the world\" (B).  The word \"why\" is literally present, and the two globes represent \"the world.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) why on Earth (B) why in the world (C) in the world (D) why in time",
+    "answer": {
+        "B": "why in the world"
+    }
+}

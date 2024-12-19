@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) notch on one's bedpost.\n\nThe rebus shows \"NOTCH\" over \"1111 BEDPOST\".  The \"1111\" represents four notches.  Therefore, the image represents \"notches on a bedpost\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bedposts (B) bedpost (C) notch on one's bedpost (D) take down a notch",
+    "answer": {
+        "C": "notch on one's bedpost"
+    }
+}

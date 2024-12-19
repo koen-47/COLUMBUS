@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) piece of the pie.  The word \"SPIEKY\" is a visual pun.  If you split the word in half, you get \"PIE\" in the middle.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pie in the sky (B) finger in the pie (C) piece of the pie (D) humble pie",
+    "answer": {
+        "A": "pie in the sky"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image most closely represents **(A) pick out of a hat**.  The two hands flanking a hat suggest reaching into the hat to pull something out.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pick out of a hat (B) hat in hand (C) hand someone his hat (D) put a hat on a hat",
+    "answer": {
+        "B": "hat in hand"
+    }
+}

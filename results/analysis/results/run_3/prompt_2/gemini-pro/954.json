@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"A\u2b06IR\". The up arrow suggests raising the \"A\" into the \"IR\".  This represents \"A in the air\", which correlates to the word \"up in the air.\"\n\nSo the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up in arms (B) up in the air (C) beat the air (D) in the air",
+    "answer": {
+        "B": "up in the air"
+    }
+}

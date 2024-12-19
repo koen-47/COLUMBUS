@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) run to earth.\n\nThe image shows the words \"RUN\" and \"EARTH\" arranged in a way that visually suggests the phrase \"RUN TO EARTH\".  The other options don't fit the visual presentation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to earth (B) come down to earth (C) run into the ground (D) run to",
+    "answer": {
+        "A": "run to earth"
+    }
+}

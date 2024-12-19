@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **chill to the bone**.  The image displays \"CHILL\" stacked vertically above another \"CHILL,\" with \"BONE\" to the right, visually representing the phrase \"chill to the bone\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chill pill (B) to the bone (C) chill to the bone (D) chill to the marrow",
+    "answer": {
+        "C": "chill to the bone"
+    }
+}

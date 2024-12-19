@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"**jump rope**\".  It combines the word \"jump\" (represented by the up and down arrows) with a picture of a rope tied in a knot. So the answer is (C).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skip rope (B) give someone enough rope (C) jump rope (D) end of one's rope",
+    "answer": {
+        "D": "end of one's rope"
+    }
+}

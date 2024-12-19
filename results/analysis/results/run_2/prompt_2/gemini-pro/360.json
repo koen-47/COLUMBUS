@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle \"CHTONGUEEEK\" represents **(D) tongue in cheek**. \n\nThe letters \"CH\" are on either side of the word \"TONGUE,\" indicating \"in.\" The double \"EE\" at the end can be read as double-E (similar to double-U being W), so it is K.  Together it sounds like \"cheek\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bite tongue (B) hold tongue (C) turn the other cheek (D) tongue in cheek",
+    "answer": {
+        "D": "tongue in cheek"
+    }
+}

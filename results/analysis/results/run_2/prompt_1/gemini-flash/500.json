@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) get to the fireworks factory**.\n\nThe image shows the word \"GET\" twice, followed by an icon of a firework (or similar explosive burst) and an icon of a factory.  This visually represents the phrase \"Get to the fireworks factory\".  The other options don't accurately depict the combined visual and textual elements.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) firework (B) fireworks (C) get to the fireworks factory (D) firecrackers",
+    "answer": {
+        "C": "get to the fireworks factory"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle \"1111SPRINGSTEP\" is solved by saying the puzzle out loud.  \"Four Spring Step\" which sounds like \"Force Spring Step\". The closest idiom to this in the options is (D) spring in one's step.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spring to life (B) one step at a time (C) spring for (D) spring in one's step",
+    "answer": {
+        "D": "spring in one's step"
+    }
+}

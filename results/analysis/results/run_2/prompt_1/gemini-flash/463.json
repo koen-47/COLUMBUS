@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) go to bat**.\n\nThe image shows the words \"GO\" stacked vertically, and the word \"BAT\" horizontally next to it.  This visually represents the idiom \"go to bat,\" meaning to support or defend someone.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to bat (B) off one's own bat (C) bat for the other team (D) bat five hundred",
+    "answer": {
+        "A": "go to bat"
+    }
+}

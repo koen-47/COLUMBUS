@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "None of the provided options are in the image. The image shows the word \"HOUSE\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) greenhouses (B) greenhouse (C) sunlight (D) grassland",
+    "answer": {
+        "B": "greenhouse"
+    }
+}

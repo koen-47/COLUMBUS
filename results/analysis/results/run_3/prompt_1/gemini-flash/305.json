@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(C) small beer**.\n\nThe image shows a small beer mug.  \"Small beer\" is an idiom referring to something insignificant or unimportant.  The other options don't fit the visual representation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beer goggles (B) beer and skittles (C) small beer (D) beer muscles",
+    "answer": {
+        "C": "small beer"
+    }
+}

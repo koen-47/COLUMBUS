@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"WICANDLEND,\" which can be read as \"wick and lend.\"  Since none of the given options fit this directly, the closest meaning is likely **(B) burn the candle at both ends**.  This idiom refers to exhausting oneself by doing too many things, often involving late nights and early mornings, like burning a candle at both ends to make it go out faster. The \"wick\" of a candle is burned, relating it slightly to the image.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) candle in the wind (B) burn the candle at both ends (C) candlelight (D) candlepower",
+    "answer": {
+        "A": "candle in the wind"
+    }
+}

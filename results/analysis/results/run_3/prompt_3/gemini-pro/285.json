@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The first node has \"HOLD\" written upwards, so we read it as \"hold\". The second node has \"1111\" surrounded by up and down arrows. The description states that we should take the pronunciation of the number of ones which is four. Four one's is \"one's own\".\n\nPutting them together, the rebus represents \"hold one's own\".\n\nFinal Answer: The final answer is $\\boxed{B}$",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: HOLD, repeat: 1, direction: up)\nNode 2 attributes: (text: 1111, repeat: 1, highlight: after, sound: (one's: 1111))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) hold up one's end (B) hold one's own (C) hold off (D) hold over",
+    "answer": {
+        "A": "hold up one's end"
+    }
+}

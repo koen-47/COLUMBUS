@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two instances of the word \"MINDS,\" suggesting two separate minds.  The phrase that best represents this is (B) **meeting of the minds**.  While there are two minds present, the image implies they are coming together, as in a meeting.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) of one mind (B) meeting of the minds (C) of two minds (D) read minds",
+    "answer": {
+        "C": "of two minds"
+    }
+}

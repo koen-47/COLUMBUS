@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) high noon.  \"Noon\" is written out, and the arrows pointing up and down represent the sun at its highest point in the sky.  \"High noon\" is a common idiom for noon.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) noonday (B) afternoons (C) afternoon (D) high noon",
+    "answer": {
+        "C": "afternoon"
+    }
+}

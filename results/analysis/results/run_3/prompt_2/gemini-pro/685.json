@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) middle of the night.\n\nThe word \"NIGHT\" is in the middle of two arrows, one pointing up and one pointing down.  This symbolizes being in the middle of the night.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bank night (B) night out (C) middle of the night (D) nighttime",
+    "answer": {
+        "C": "middle of the night"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) backspace.\n\nThe image shows the word \"ECAPS\" repeated twice.  If you read it backward, it spells \"SPACE\".  The action of reading it backward implies the function of a backspace key.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backspace (B) backspaces (C) backspacer (D) space out",
+    "answer": {
+        "B": "backspaces"
+    }
+}

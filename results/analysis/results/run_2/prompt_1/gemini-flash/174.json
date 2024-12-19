@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) before one's eyes**.\n\nThe image shows the number 1111 with arrows pointing up and down, symbolizing that it is right in front of the eyes.  The word \"eyes\" is also present.  This directly corresponds to the phrase \"before one's eyes,\" meaning something happening directly in one's view or perception.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's eyes (B) before one's time (C) set eyes on (D) before someone's time",
+    "answer": {
+        "A": "before one's eyes"
+    }
+}

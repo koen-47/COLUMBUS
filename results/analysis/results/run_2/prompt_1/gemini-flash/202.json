@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) burn the candle at both ends.\n\nThe image shows the words \"WI CANDL END\".  Rearranging these words gives \"WICK AND END\", which is a play on words referencing the components of a candle. The idiom \"burn the candle at both ends\" means to overwork oneself and deplete one's energy.  The image alludes to this idiom because it implies the candle's wick is burning at both ends.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) candle in the wind (B) burn the candle at both ends (C) candlelight (D) candlepower",
+    "answer": {
+        "A": "candle in the wind"
+    }
+}

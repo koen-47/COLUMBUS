@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **under the wire**.\n\nThe image shows two downward arrows pointing towards the word \"WIRE\".  This visually represents something going \"under the wire,\" which is an idiom meaning something that is completed just in time, or barely making a deadline.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down under (B) down to the wire (C) under the wire (D) down the line",
+    "answer": {
+        "B": "down to the wire"
+    }
+}

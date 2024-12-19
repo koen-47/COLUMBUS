@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **catch up**.  The letters in the image, when read vertically, spell out \"CATCH UP\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch on (B) catch up (C) caught up (D) catch eye",
+    "answer": {
+        "B": "catch up"
+    }
+}

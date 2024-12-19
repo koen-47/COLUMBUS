@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"BABIES\" flanked by two vertical lines on each side, resembling the letter \"I\".  This is a visual pun, suggesting **(D) babies in the eyes**. The \"I\"s represent the sides of the eyes, and \"BABIES\" is positioned where the pupils would be.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stars in one's eyes (B) newborn (C) eyelids (D) babies in the eyes",
+    "answer": {
+        "D": "babies in the eyes"
+    }
+}

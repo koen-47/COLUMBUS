@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The answer is (C) too good to be true.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to no good (B) true to form (C) too good to be true (D) truth be told",
+    "answer": {
+        "C": "too good to be true"
+    }
+}

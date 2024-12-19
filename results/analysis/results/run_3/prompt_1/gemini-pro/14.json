@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows \"BLOOD\" with a down arrow and an up arrow. This symbolizes a blood transfusion, where blood is taken out (down arrow) and new blood is put in (up arrow). Therefore, the correct answer is (B) new blood.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shed blood (B) new blood (C) young blood (D) after blood",
+    "answer": {
+        "D": "after blood"
+    }
+}

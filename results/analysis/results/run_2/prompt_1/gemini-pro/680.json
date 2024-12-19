@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts two arrows pointing in opposite directions with the word \"AIR\" between them, suggesting movement in the air.  Combined with the explosion symbol, this clearly represents a **(A) mid-air collision**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) mid air collision (B) collision course (C) midair (D) catch air",
+    "answer": {
+        "A": "mid air collision"
+    }
+}

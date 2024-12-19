@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) crowning glory.\n\nThe word \"JEWEL\" is in the middle of \"CROWN\".  Therefore, the words represent \"jewel in the crown\", which is a metaphor for something of great importance or value.  \"Crowning glory\" is a similar idiom.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) necklace (B) jewel in the crown (C) crowning glory (D) crownwork",
+    "answer": {
+        "B": "jewel in the crown"
+    }
+}

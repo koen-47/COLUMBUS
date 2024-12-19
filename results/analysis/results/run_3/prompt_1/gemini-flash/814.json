@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) run to earth**.\n\nThe image shows two figures running towards a depiction of the Earth.  This visually represents the idiom \"run to earth,\" meaning to find someone or something after a long search.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down to earth (B) run to earth (C) run to (D) run into the ground",
+    "answer": {
+        "B": "run to earth"
+    }
+}

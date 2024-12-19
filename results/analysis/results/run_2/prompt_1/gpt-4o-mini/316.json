@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in this image is (B) coming into the world.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) make the world go around (D) come to life",
+    "answer": {
+        "B": "coming into the world"
+    }
+}

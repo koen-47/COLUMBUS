@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(D) off on the wrong foot**.  The words \"OFF\" and \"WRONG\" are combined with a picture of a foot.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a foot wrong (B) start off on the wrong foot (C) off the back foot (D) off on the wrong foot",
+    "answer": {
+        "D": "off on the wrong foot"
+    }
+}

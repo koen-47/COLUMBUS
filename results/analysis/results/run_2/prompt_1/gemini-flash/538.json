@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) time after time**.\n\nThe image shows two clock symbols flanking the letters \"OG\".  This visually represents the repetition of time, hence \"time after time\".  The other options don't fit the visual representation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go back in time (B) behind time (C) time after time (D) live in the past",
+    "answer": {
+        "A": "go back in time"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) see eye to eye.  The words \"SEE EYE\" are presented next to two capital \"I\"s, making a visual pun on the phrase.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) see eye to eye (C) catch someone's eye (D) catch the eye",
+    "answer": {
+        "B": "see eye to eye"
+    }
+}

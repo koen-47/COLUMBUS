@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) move heaven and earth.\n\nThe word \"move\" is written vertically, and flanked on either side by a picture of the Earth.  This conveys the idea of moving the Earth.  \"Heaven\" is not depicted, but when paired with \"earth,\" the phrase \"move heaven and earth\" means to make every possible effort.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) move out (B) move heaven and earth (C) move up in the world (D) come into the world",
+    "answer": {
+        "C": "move up in the world"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) stopover.\n\nThe word \"REVO\" is a visual representation of \"over\" reversed.  When you add \"stop\" in front of it, you get \"stopover\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) leftover (B) stopover (C) holdovers (D) handover",
+    "answer": {
+        "A": "leftover"
+    }
+}

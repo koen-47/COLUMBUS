@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"DESPREACHERT,\" which combines \"DESERT\" and \"PREACHER.\" This points to the idiom **(B) preach in the desert**.  It evokes the image of someone preaching in a barren place where few or no people are listening, thus symbolizing a wasted effort.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) preach to the choir (B) preach in the desert (C) preach to deaf ears (D) just deserts",
+    "answer": {
+        "B": "preach in the desert"
+    }
+}

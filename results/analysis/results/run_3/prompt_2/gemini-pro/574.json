@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"DOWN\" over \"1111 LUCK\".  This represents \"Down on one's luck\" (four ones = \"one, one, one, one\").\n\nSo the answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) ride one's luck (B) cross fingers for luck (C) down on one's luck (D) push one's luck",
+    "answer": {
+        "C": "down on one's luck"
+    }
+}

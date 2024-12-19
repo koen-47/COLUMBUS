@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image simply says \"DEAL\".  Any of the phrases B, C, or D could use the word \"deal\".  Option A, \"good grief\", does not include \"deal\".  Therefore, without additional context, it's impossible to choose between B, C, or D.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) good grief (B) real deal (C) big deal (D) great deal",
+    "answer": {
+        "C": "big deal"
+    }
+}

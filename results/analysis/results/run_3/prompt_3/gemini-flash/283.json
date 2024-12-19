@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) come down to earth.\n\nHere's why:\n\n* **COME:** This is explicitly shown in the image.\n* **DOWN:** The downward arrow (\u2193) represents \"down\".\n* **TO EARTH:** The two globe icons (\ud83c\udf0d) represent the Earth.  The word \"to\" is implied by the arrangement and the fact that \"COME DOWN\" is followed by the representation of \"EARTH\".\n\nTherefore, the rebus combines these elements to convey the phrase \"Come down to earth\".",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: COME, repeat: 1)\nNode 2 attributes: (text: \u2193, repeat: 1, icon: (down: \u2193))\nNode 3 attributes: (text: \ud83c\udf0d, repeat: 2, icon: (earth: \ud83c\udf0d), sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) come down to (B) come down (C) down to earth (D) come down to earth",
+    "answer": {
+        "D": "come down to earth"
+    }
+}

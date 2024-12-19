@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) kick up one's heels**.\n\nHere's why:\n\n* **1111:** Represents four \"ones\" or \"I's\".\n* **Heel:** The image of a high heel shoe represents a heel.\n* **The recycle symbol above the line:** Indicates that the four \"I's\" should be \"kicked up.\"\n\nTherefore, the rebus depicts \"kick up one's heels.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn on one's heel (B) kick up one's heels (C) kick one's heels (D) bring to heel",
+    "answer": {
+        "A": "turn on one's heel"
+    }
+}

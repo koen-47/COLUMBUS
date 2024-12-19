@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) go to the wall.\n\nThe image shows the word \"GO\" next to a picture of a brick wall.  This visually represents the idiom \"go to the wall,\" which means to fail or be ruined.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up the wall (B) back to the wall (C) go to the wall (D) drive up the wall",
+    "answer": {
+        "C": "go to the wall"
+    }
+}

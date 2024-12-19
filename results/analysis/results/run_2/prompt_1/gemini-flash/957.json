@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(D) up to one's ears**.\n\nThe image shows \"UP\" over a line, and below it \"1111 EAR\".  \"1111\" represents \"four ones\" which sounds like \"for ones\" which in turn sounds like \"for once\".  Thus the phrase becomes \"Up for once Ear\".  This is a play on words to represent \"up to one's ears\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) prick up ears (B) ear to the ground (C) up on one's ear (D) up to one's ears",
+    "answer": {
+        "C": "up on one's ear"
+    }
+}

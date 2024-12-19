@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(A) pip to the post**.\n\nThe rebus shows two instances of the word \"PIP\" with an envelope (representing \"post\") in between them.  This visually represents the phrase \"pip to the post\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pip to the post (B) piping hot (C) like a chicken with the pip (D) piping times",
+    "answer": {
+        "A": "pip to the post"
+    }
+}

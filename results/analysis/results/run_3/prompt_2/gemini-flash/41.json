@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) backbeat**.\n\nThe word \"NOMMAG\" is a rebus.  If you read it backward, it spells \"GAMMANOM,\"  which is \"GAMMON\" (a board game)  + \"A\" + \"M\" (standing for music).  Therefore, it suggests a backbeat in music.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backchat (B) backbeat (C) backswimmer (D) backgammon",
+    "answer": {
+        "D": "backgammon"
+    }
+}

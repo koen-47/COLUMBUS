@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) flea in one's ear.\n\nThe rebus shows \"1111 FLEA\" next to an image of an ear.  \"1111\" sounds like \"one one one one,\" which is \"one in one's\".  Therefore, the image represents \"one flea in one's ear\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a bug in someone's ear (B) flea in one's ear (C) earworm (D) not hurt a fly or flea",
+    "answer": {
+        "B": "flea in one's ear"
+    }
+}

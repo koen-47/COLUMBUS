@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) aftertaste.\n\nThe rebus shows the word \"TASTE\" with arrows indicating \"after\".  Therefore, the solution is \"aftertaste\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) afterlives (B) aftertaste (C) aftertastes (D) foretastes",
+    "answer": {
+        "C": "aftertastes"
+    }
+}

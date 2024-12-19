@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts a nighttime cityscape with a crescent moon and stars. This points to **(A) after dark**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) after dark (B) dark cloud (C) shot in the dark (D) in the dark",
+    "answer": {
+        "A": "after dark"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(A) cross paths**.  The line crossing through the word \"PATHS\" visually represents the idiom of paths crossing.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross paths (B) crosswalk (C) cross someone's path (D) crosswalks",
+    "answer": {
+        "A": "cross paths"
+    }
+}

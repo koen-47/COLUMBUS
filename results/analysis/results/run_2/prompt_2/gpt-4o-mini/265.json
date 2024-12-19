@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"BRING\" with the letters \"B,\" \"R,\" \"I,\" \"N,\" and \"G\" stacked vertically, followed by a house icon. This suggests the phrase \"bring home.\" \n\nSo, the correct answer is (C) bring home.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bring down the house (B) move house (C) bring home (D) keep house",
+    "answer": {
+        "A": "bring down the house"
+    }
+}

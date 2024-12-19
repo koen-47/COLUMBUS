@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **shot in the dark**.\n\nThe image shows the word \"DARK\" with an upward-pointing arrow and a downward-pointing arrow.  This visually represents a guess or attempt made without much information, which is the definition of \"a shot in the dark.\"\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the dark (B) dark cloud (C) shot in the dark (D) after dark",
+    "answer": {
+        "D": "after dark"
+    }
+}

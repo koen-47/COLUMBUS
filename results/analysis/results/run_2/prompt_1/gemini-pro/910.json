@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) the calm before the storm.  The words \"CALM\" and \"STORM\" are present. The down arrow pointing to \"CALM\" and the up arrow pointing to \"STORM\" symbolize a transition from a state of calm to an impending storm.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) perfect storm (B) the calm before the storm (C) weather the storm (D) after the storm",
+    "answer": {
+        "B": "the calm before the storm"
+    }
+}

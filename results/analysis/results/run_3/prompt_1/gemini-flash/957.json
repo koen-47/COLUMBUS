@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(D) up to one's ears**.\n\nThe image shows \"UP\" over a line, and below the line are \"1111 EAR\".  Reading this as \"up to one's ears\" makes sense.  The number 1111 represents a large quantity, representing being \"up to one's ears\" in something.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) prick up ears (B) ear to the ground (C) up on one's ear (D) up to one's ears",
+    "answer": {
+        "C": "up on one's ear"
+    }
+}

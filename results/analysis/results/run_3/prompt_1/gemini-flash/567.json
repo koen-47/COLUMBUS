@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **down for the count**.\n\nThe image shows four downward arrows next to the word \"COUNT\".  This visually represents the idea of being knocked down and counted out in a boxing match or other competitive situation.  \"Down for the count\" is the idiomatic phrase that best captures this meaning.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put down for (B) take the count (C) down but not out (D) down for the count",
+    "answer": {
+        "D": "down for the count"
+    }
+}

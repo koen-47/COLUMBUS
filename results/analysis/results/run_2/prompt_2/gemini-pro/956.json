@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"up on one's ear\". \n\nHere's why:\n\n* **1111 ear:**  This represents \"one ear\".\n* **Up arrow above the line:** This signifies \"up\" and its placement suggests \"up on\".\n\nTherefore, the combination conveys \"up on one's ear\". So the answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to one's ears (B) prick up ears (C) up on one's ear (D) ear to the ground",
+    "answer": {
+        "C": "up on one's ear"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) blow out of the water.\n\nThe word \"WATER\" is enclosed in a box, implying that it is being contained or held back.  The word \"BLOW\" suggests an action of force.  Together, this creates the idiom \"blow out of the water,\" meaning to surpass or defeat someone decisively.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow off (B) blow away (C) blow out of the water (D) dry up and blow away",
+    "answer": {
+        "C": "blow out of the water"
+    }
+}

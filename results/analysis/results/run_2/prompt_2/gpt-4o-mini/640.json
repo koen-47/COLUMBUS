@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"fly too close to the sun.\" The repeated phrase \"FLY CLOSE\" suggests proximity, and the presence of \"SUN\" indicates the reference to the sun. Therefore, the correct answer is:\n\n(A) fly too close to the sun.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly too close to the sun (B) a trip to the sun (C) fly low (D) catch the sun",
+    "answer": {
+        "A": "fly too close to the sun"
+    }
+}

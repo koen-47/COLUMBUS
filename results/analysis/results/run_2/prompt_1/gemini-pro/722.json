@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The words in the image combine to form the phrase \"packed to the gills.\"  So the answer is (D).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) full to the gills (B) stuffed to the gills (C) to the gills (D) packed to the gills",
+    "answer": {
+        "D": "packed to the gills"
+    }
+}

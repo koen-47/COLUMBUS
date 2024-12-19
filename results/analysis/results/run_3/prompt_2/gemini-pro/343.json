@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle \"WACHUMTER\" represents **(D) chum up**.  It sounds like \"What you'm ter\" which can be interpreted as \"What are you going to\", implying \"chum up\" which means to become friendly with someone.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of the chute (B) straight out of the chute (C) chum in the water (D) chum up",
+    "answer": {
+        "C": "chum in the water"
+    }
+}

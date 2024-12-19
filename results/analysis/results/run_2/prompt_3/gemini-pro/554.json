@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus:\n\n* **FLY** is repeated twice, suggesting the phrase \"fly, fly\".\n* **CLOSE** is also repeated twice, suggesting \"close, close\" which sounds like \"close too\".\n* The sun icon represents \"the sun.\"\n\nPutting it all together: \"Fly, fly close too the sun\" or more naturally, \"Fly too close to the sun.\"\n\nSo the answer is (A).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: FLY, repeat: 2, sound: (too: 2))\nNode 2 attributes: (text: CLOSE, repeat: 2, sound: (to: 2))\nNode 3 attributes: (text: \u2600, repeat: 1, icon: (sun: \u2600))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) fly too close to the sun (B) fly low (C) a trip to the sun (D) catch the sun",
+    "answer": {
+        "A": "fly too close to the sun"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"UP TO ONE'S EARS\". The Roman numeral \"I\" is repeated four times under the word \"UP\",  and next to it is written \"EAR,\" meaning **up to one's ear**. It implies someone is deeply involved in or overwhelmed by something. Thus, the correct answer is (D).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) prick up ears (B) ear to the ground (C) up on one's ear (D) up to one's ears",
+    "answer": {
+        "C": "up on one's ear"
+    }
+}

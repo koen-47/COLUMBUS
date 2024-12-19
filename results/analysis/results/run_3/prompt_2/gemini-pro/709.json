@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"NEW KID on the block\".\n\nThe word \"NEW\" is written, followed by a picture of a KID's face. These elements are placed above a horizontal line, representing \"on the\".  Below the line is a square representing a \"block\".\n\nThus, the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) new kid on the block (B) gapers' block (C) kid around (D) what's new",
+    "answer": {
+        "A": "new kid on the block"
+    }
+}

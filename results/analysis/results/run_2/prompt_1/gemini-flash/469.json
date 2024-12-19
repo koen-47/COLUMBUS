@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) hand in hand.\n\nThe image shows the word \"HAND\" repeated with an extra \"H\" and \"ND\" at the beginning and end.  Removing the extra letters reveals the phrase \"HAND IN HAND\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand in glove (B) in hand (C) hand over hand (D) hand in hand",
+    "answer": {
+        "D": "hand in hand"
+    }
+}

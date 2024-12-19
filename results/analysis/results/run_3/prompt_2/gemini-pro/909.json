@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"CALM\" with an up and down arrow around it, indicating \"up and down calm,\" or \"before and after calm.\"  Next to this is a storm cloud. This conveys the idea of the calm that exists before a storm.\n\nSo the answer is (B) the calm before the storm.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) perfect storm (B) the calm before the storm (C) weather the storm (D) after the storm",
+    "answer": {
+        "B": "the calm before the storm"
+    }
+}

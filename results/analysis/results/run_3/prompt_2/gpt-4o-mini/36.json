@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"WHO\" followed by \"EEL,\" with a flower icon in between. This suggests the phrase \"whole\" (as in \"WHO\" + \"LE\") and \"eel\" together. \n\nThe correct answer is (D) a small cog in a big wheel.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big wheel (B) cogwheels (C) cogwheel (D) a small cog in a big wheel",
+    "answer": {
+        "D": "a small cog in a big wheel"
+    }
+}

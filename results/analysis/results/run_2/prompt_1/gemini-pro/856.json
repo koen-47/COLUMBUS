@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) stand on one's head.\n\nThe word \"STAND\" is above a horizontal line. Below the line are the numbers \"1111\" which look like legs, and a face. If you flip the image upside down, it looks like a person standing on their head.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep one's head (B) hold one's head high (C) with one's head held high (D) stand on one's head",
+    "answer": {
+        "D": "stand on one's head"
+    }
+}

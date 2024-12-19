@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) somewhere over the rainbow.\n\nThe word \"somewhere\" is written above a stylized image of a rainbow, clearly alluding to the phrase \"somewhere over the rainbow.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rainbow (B) somewhere over the rainbow (C) end of the rainbow (D) rainbow baby",
+    "answer": {
+        "B": "somewhere over the rainbow"
+    }
+}

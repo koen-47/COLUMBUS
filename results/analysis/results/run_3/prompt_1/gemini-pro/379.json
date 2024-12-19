@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"POCKET\" written vertically.  This corresponds to option **(D) in someone's pocket**.  The other phrases use \"pocket\" but don't match the visual presentation.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of pocket (B) pocket dial (C) pocket up (D) in someone's pocket",
+    "answer": {
+        "C": "pocket up"
+    }
+}

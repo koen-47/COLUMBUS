@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase **(C) have an eye for**.  The four \"I\"s stacked vertically resemble the Roman numeral IIII, sometimes used as an alternative to IV for 4.  So the image suggests \"four I's for an eye\", which sounds like \"have an eye for\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one in the eye for (B) see eye to eye (C) have an eye for (D) eye for an eye",
+    "answer": {
+        "D": "eye for an eye"
+    }
+}

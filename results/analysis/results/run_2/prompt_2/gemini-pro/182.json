@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (A) down the tubes.  The word \"TUBES\" is written vertically, suggesting the phrase \"down the tubes\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down the tubes (B) pipe down (C) go down the tubes (D) down to the wire",
+    "answer": {
+        "A": "down the tubes"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "(C) go fish",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go places (B) at sea (C) go fish (D) go to sea",
+    "answer": {
+        "D": "go to sea"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"weather the storm.\" The word \"STORM\" is shown with arrows pointing down, suggesting the idea of enduring or \"weathering\" a storm. \n\nSo the answer is (C) weather the storm.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) storm off (B) perfect storm (C) weather the storm (D) after the storm",
+    "answer": {
+        "D": "after the storm"
+    }
+}

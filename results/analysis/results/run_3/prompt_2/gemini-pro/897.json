@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle depicts \"TEA,\" a storm cloud icon, and \"POT.\"  This represents a \"storm in a teacup\" or a \"tempest in a teapot.\"  Both idioms refer to a small event that has been exaggerated out of proportion.\n\nSo, both (A) and (C) are correct answers.  Since the options list them separately, choose (C) \"storm in a teacup\" as it more literally matches the image of a cloud/storm within the phrase.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tempest in a teapot (B) chocolate teapot (C) storm in a teacup (D) teapot",
+    "answer": {
+        "A": "tempest in a teapot"
+    }
+}

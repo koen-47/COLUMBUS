@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) deer in the headlights**.\n\nThe image shows the word \"HEADLIGHTS\" with the word \"DEER\" replacing the \"AD\" in the middle.  The image is a visual representation of the phrase \"deer in the headlights\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) deerskins (B) deer in the headlights (C) headlights (D) deerstalkers",
+    "answer": {
+        "B": "deer in the headlights"
+    }
+}

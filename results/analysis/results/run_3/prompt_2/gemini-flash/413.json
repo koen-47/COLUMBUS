@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) cross off.\n\nThe image shows the number 2 with a line through it, followed by the words \"TAKE UP\".  The line through the 2 represents \"crossing out\" the 2.  Therefore, the rebus signifies \"cross out\" the number 2 which is similar to \"cross off\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross out (C) cross to take up (D) cross off",
+    "answer": {
+        "C": "cross to take up"
+    }
+}

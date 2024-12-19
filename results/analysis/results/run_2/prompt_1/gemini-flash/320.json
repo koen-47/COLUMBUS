@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **cross a bridge too far**.\n\nThe image shows a bridge with a line crossing it out, and the word \"FAR\" is written twice to emphasize the distance.  This visually represents the idiom \"crossing a bridge too far,\" which means to take an action that is too risky or ambitious and leads to failure.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go too far (B) cross the bridge (C) cross that bridge when one comes to it (D) cross a bridge too far",
+    "answer": {
+        "D": "cross a bridge too far"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"ZIP\" written vertically. This represents the phrase **(D) zip it**, which is a slang term meaning \"be quiet.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) zip past (B) zip one's lip (C) zip up (D) zip it",
+    "answer": {
+        "C": "zip up"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in the image is (B) fall in love.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall for (B) fall in love (C) fall into (D) take the fall",
+    "answer": {
+        "A": "fall for"
+    }
+}

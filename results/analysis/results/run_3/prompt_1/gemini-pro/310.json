@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"**bub**LIVING**ble**\", which means **(D) living in a small bubble**. \n\nThe word \"living\" is placed inside the word \"bubble\" to visually represent the concept.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the bubble (B) bubble over (C) burst someone's bubble (D) living in a small bubble",
+    "answer": {
+        "D": "living in a small bubble"
+    }
+}

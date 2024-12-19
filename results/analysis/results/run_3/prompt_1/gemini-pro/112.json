@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The letters spell \"CATCH\" vertically.  Since it's a word puzzle and not just an image of the word \"catch\", the answer is (D) catch eye.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch on (B) catch up (C) caught up (D) catch eye",
+    "answer": {
+        "B": "catch up"
+    }
+}

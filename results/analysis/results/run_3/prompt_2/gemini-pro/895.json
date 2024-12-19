@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"Take up the cudgel\".  The letters E, K, A, T run down the left side, and can be read as \"take\". The letters are next to \"CUDGEL\" four times. The position of \"take\" can be interpreted as \"take up\". So, the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take the mick (B) take up the cudgel for (C) chew the cud (D) pack fudge",
+    "answer": {
+        "B": "take up the cudgel for"
+    }
+}

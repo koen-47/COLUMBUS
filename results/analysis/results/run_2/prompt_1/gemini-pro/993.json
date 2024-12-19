@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) why in time.  The clock symbols surrounding the word \"why\" relate the question to the concept of time.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) why in the world (B) why in time (C) what in time (D) time after time",
+    "answer": {
+        "B": "why in time"
+    }
+}

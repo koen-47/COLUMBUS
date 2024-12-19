@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(B) run for the hills**. It visually depicts the phrase by repeating the word \"RUN\" and placing \"HILLS\" next to it, suggesting the action of running towards the hills.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take to the hills (B) run for the hills (C) head for the hills (D) old as the hills",
+    "answer": {
+        "B": "run for the hills"
+    }
+}

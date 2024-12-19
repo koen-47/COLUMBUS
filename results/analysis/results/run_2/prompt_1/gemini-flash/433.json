@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) shoot down**.\n\nThe image shows the word \"SHOOT\" vertically oriented.  The phrase \"shoot down\" implies to refute or disprove an argument or idea.  The vertical arrangement could be visually interpreted as something being \"shot down\" or falling. The other options don't fit this visual metaphor as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shoot holes (B) shoot off (C) shoot down (D) shoot 'em up",
+    "answer": {
+        "C": "shoot down"
+    }
+}

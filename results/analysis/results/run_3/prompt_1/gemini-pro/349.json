@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the word **(B) crosstie**. The horizontal line crosses the vertical lines of the letters \"TIE\", forming a visual representation of a crosstie, as in a railroad tie.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crosshatch (B) crosstie (C) crosshead (D) crosspatch",
+    "answer": {
+        "B": "crosstie"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) living in a small bubble.\n\nThe image shows the word \"LIVING\" with \"BUB\" before it and \"BLE\" after it.  This creates the phrase \"BUBBLE LIVING BLE\", which, when read in a common-sense way, means \"living in a bubble\".  The \"small\" part is implied because of the common usage of the idiom.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the bubble (B) bubble over (C) burst someone's bubble (D) living in a small bubble",
+    "answer": {
+        "D": "living in a small bubble"
+    }
+}

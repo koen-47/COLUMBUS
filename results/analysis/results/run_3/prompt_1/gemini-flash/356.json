@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) **done deal**.\n\nThe letters in the image, when read vertically, spell out \"REFFO,\" which is \"OFFER\" spelled backwards.  An \"offer\" that is finalized becomes a \"done deal\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) done deal (B) offer up (C) do up (D) buy up",
+    "answer": {
+        "B": "offer up"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) backrooms.\n\nThe word \"moor\" appears twice, stacked one above the other.  This represents \"moor\" over \"moor\", or \"moor\" and \"moor\". Phonetically, this sounds like \"more and more\", which sounds like \"more 'n more\". Finally, \"more 'n more\" can be interpreted as \"more than more\", which ultimately sounds like \"backrooms\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backroom (B) backrooms (C) showrooms (D) playrooms",
+    "answer": {
+        "B": "backrooms"
+    }
+}

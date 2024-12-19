@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts \"NOSE\" *out of* \"JOINT\", so the correct answer is (A) nose out of joint.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nose out of joint (B) keep one's nose clean (C) turn up one's nose (D) button nose",
+    "answer": {
+        "A": "nose out of joint"
+    }
+}

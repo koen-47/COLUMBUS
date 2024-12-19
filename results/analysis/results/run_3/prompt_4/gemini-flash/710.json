@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) new kid on the block.\n\nThe image shows \"NEW KID\" above \"BLOCK\" with a line separating them.  This visually represents the idiom \"new kid on the block\".  The graph description reinforces this interpretation with the spatial relationships defined by the edges.\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: NEW, repeat: 1)\nNode 2 attributes: (text: KID, repeat: 1)\nNode 3 attributes: (text: BLOCK, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\nEdge 2: node 2 to node 3 (rule: ABOVE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) kid around (B) new kid on the block (C) what's new (D) gapers' block",
+    "answer": {
+        "B": "new kid on the block"
+    }
+}

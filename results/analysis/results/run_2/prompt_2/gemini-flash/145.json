@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) cross the rubicon**.\n\nThe image shows the word \"RUBICON\" with a line crossing through it.  This visually represents the act of \"crossing the Rubicon,\" a phrase meaning to pass a point of no return.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to bear (B) cross the rubicon (C) cross the line (D) bearing the cross",
+    "answer": {
+        "B": "cross the rubicon"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle represents the phrase \"up to one's ears.\" The arrow (\u2191) is above the number \"1111\" (one's), which is next to an ear (\ud83d\udc42). Therefore, the correct answer is:\n\n(A) up to one's ears",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \u2191, repeat: 1, icon: (up: \u2191))\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: \ud83d\udc42, repeat: 1, icon: (ear: \ud83d\udc42))\nEdge 1: node 1 to node 2 (rule: ABOVE)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) up to one's ears (B) prick up ears (C) up on one's ear (D) ear to the ground",
+    "answer": {
+        "C": "up on one's ear"
+    }
+}

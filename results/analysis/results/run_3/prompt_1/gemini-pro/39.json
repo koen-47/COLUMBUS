@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"BACK\" written from bottom to top.  This represents **(C) back up**.  \"Back up\" can mean to move backward, or in computing, to make a copy of data. The vertical arrangement of the letters suggests the reverse direction, fitting with the meaning of \"back up\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put someone's back up (B) back off (C) back up (D) back down",
+    "answer": {
+        "C": "back up"
+    }
+}

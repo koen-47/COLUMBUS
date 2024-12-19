@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) bearing the cross.\n\nThe image shows the word \"BEARING\" with a line through it, leaving only \"BEARING THE\".  This is a visual representation of the phrase \"bearing the cross\",  a common idiom referring to enduring suffering or hardship.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross to bear (C) off one's cross (D) bearing the cross",
+    "answer": {
+        "D": "bearing the cross"
+    }
+}

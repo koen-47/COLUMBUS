@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (A) dead end.  The arrows pointing in opposite directions towards the word \"DEAD\" symbolize a point where no further progress can be made.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead end (B) dead loss (C) dead last (D) dead end job",
+    "answer": {
+        "A": "dead end"
+    }
+}

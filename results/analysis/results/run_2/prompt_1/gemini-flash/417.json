@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **dead end job**.\n\nThe image depicts a skull (representing death or negativity) surrounded by arrows pointing both up and down (indicating no progress or movement).  The word \"JOB\" is placed next to it.  This visually communicates the idea of a job that offers no advancement or future prospects \u2013 a \"dead end job\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead loss (B) dead end job (C) dead last (D) dead end",
+    "answer": {
+        "B": "dead end job"
+    }
+}

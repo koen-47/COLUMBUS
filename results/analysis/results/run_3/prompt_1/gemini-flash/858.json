@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) stands to reason.  The image shows the words \"STAND\" and \"REASON\" arranged in a way that visually represents the idiom \"stands to reason\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stand by (B) stand to reason (C) stand up (D) stands to reason",
+    "answer": {
+        "B": "stand to reason"
+    }
+}

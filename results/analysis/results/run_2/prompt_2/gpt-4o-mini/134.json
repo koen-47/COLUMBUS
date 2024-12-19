@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"COME\" repeated and an image of a light bulb. This suggests the phrase \"come to light.\" \n\nSo, the answer is (A) come to light.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come to light (B) see the light (C) bring to light (D) give a light",
+    "answer": {
+        "A": "come to light"
+    }
+}

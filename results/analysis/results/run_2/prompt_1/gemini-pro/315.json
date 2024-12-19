@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"EMOC FROM\" with a skull image. \"EMOC\" is \"COME\" spelled backward.  Therefore, the image represents **(B) come back from the dead**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stop dead (B) come back from the dead (C) come alive (D) come to grief",
+    "answer": {
+        "B": "come back from the dead"
+    }
+}

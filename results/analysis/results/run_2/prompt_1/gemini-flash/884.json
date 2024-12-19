@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **set in stone**.\n\nThe image uses a visual pun.  \"Stuckage\" combines \"stuck\" and \"rock\" (represented by the image).  \"Set in stone\" implies something is fixed, unchangeable, and permanent \u2013  fitting with the visual of a rock.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stone dead (B) stuck in the stone age (C) carved in stone (D) set in stone",
+    "answer": {
+        "B": "stuck in the stone age"
+    }
+}

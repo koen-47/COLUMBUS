@@ -145,4 +145,4 @@ def extract_mistral_results():
                 json.dump(results, file, indent=3)
 
 
-extract_qwenvl_results()
+# extract_qwenvl_results()

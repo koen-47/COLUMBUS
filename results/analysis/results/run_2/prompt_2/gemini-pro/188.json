@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle is \"blow up in one's face.\" Here's why:\n\n* **BLOW:** The letters \"B,\" \"L,\" \"O,\" and \"W\" are arranged vertically.\n* **UP:** The four 1's represent \"one, one, one, one\"  which is a play on \"one up.\" Combining with the previous word forms \"blow up.\"\n* **IN ONE'S FACE:** The words \"in\" and \"one's\" are implied based on the layout of the puzzle (elements appearing \"in\" the word \"blow\").\n\nThus, the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow up in one's face (B) blow over (C) blow someone's mind (D) body blow",
+    "answer": {
+        "A": "blow up in one's face"
+    }
+}

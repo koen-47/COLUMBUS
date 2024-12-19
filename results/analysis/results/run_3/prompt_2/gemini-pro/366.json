@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle \"PAINT TOWN\" with TOWN in red conveys the phrase \"paint the town red\" (B).  The red color of \"TOWN\" alludes to the \"red\" part of the idiom.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn a number of shades of red (B) paint the town red (C) paint the wagon (D) town and gown",
+    "answer": {
+        "B": "paint the town red"
+    }
+}

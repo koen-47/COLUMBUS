@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"WORLD\" with the letters arranged vertically and the letter \"E\" above it. This suggests the phrase \"come into the world,\" as the \"E\" can be interpreted as \"entering\" or \"coming into.\" \n\nSo, the correct answer is (B) come into the world.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) move out (B) come into the world (C) move up in the world (D) move heaven and earth",
+    "answer": {
+        "C": "move up in the world"
+    }
+}

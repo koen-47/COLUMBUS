@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle consists of the word \"GO\" repeated twice and an icon of a bat. The repetition of \"GO\" suggests the phrase \"go to,\" and the bat represents \"bat.\" \n\nPutting it together, the phrase conveyed is \"go to bat.\"\n\nTherefore, the correct answer is (B) go to bat.",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: \ud83e\udd87, repeat: 1, icon: (bat: \ud83e\udd87))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bat for the other team (B) go to bat (C) bat five hundred (D) off one's own bat",
+    "answer": {
+        "B": "go to bat"
+    }
+}

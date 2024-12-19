@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The best answer is **(A) mid-air collision**.\n\nThe image shows arrows moving up and down through the word \"AIR\", suggesting movement in the air. The explosion symbol represents a collision.  Therefore, the combination signifies a mid-air collision.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) mid air collision (B) collision course (C) midair (D) catch air",
+    "answer": {
+        "A": "mid air collision"
+    }
+}

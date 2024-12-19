@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the word \"ROUGH,\" with a diamond shape replacing the \"U.\"  Therefore, the most relevant option is (D) rough diamond.  While the image spells out \"rough\", the inclusion of the diamond strongly implies the phrase \"rough diamond\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) diamond is forever (B) diamond in the rough (C) rough out (D) rough diamond",
+    "answer": {
+        "B": "diamond in the rough"
+    }
+}

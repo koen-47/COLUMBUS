@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) come down to us**.\n\nHere's why:\n\n* **COME:** The word \"COME\" is vertically oriented, suggesting \"down.\"\n* **2:**  The number 2 is often used to represent \"to\" in rebus puzzles (think \"2\" = \"to\").\n* **US:** The word \"US\" sits beside the other elements.\n\nTherefore, the rebus combines \"COME DOWN\" (from the vertical COME) \"TO\" (represented by 2), and \"US\".",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: COME, repeat: 1, direction: down)\nNode 2 attributes: (text: 2, repeat: 1, sound: (to: 2))\nNode 3 attributes: (text: US, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) come down to us (B) come down (C) come down to (D) come down with",
+    "answer": {
+        "A": "come down to us"
+    }
+}

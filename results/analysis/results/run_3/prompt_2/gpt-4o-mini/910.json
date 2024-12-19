@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"the calm before the storm.\" The downward arrows suggest calmness, and the word \"storm\" follows. Therefore, the correct answer is (B) the calm before the storm.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) perfect storm (B) the calm before the storm (C) weather the storm (D) after the storm",
+    "answer": {
+        "B": "the calm before the storm"
+    }
+}

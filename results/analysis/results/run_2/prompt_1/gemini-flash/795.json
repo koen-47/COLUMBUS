@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) run in the family.\n\nThe image shows the word \"FAMRUNILY\".  By rearranging the letters, you get \"FAMILY RUN\".  This is a play on words that expresses the idiom \"runs in the family\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for one's life (B) run with (C) run in the family (D) start a family",
+    "answer": {
+        "C": "run in the family"
+    }
+}

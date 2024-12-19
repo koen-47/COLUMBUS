@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how we solve this rebus:\n\n* **Node 1:** \"2\" is crossed out, indicating \"cross out 2\".  The sound attribute suggests we sound out \"to\" instead of the numeral \"2\".  So we have \"cross to\".\n* **Node 2:** The word is \"TAKE\".\n* **Node 3:** An upward arrow represents \"up\".\n\nPutting it all together: \"cross to\" + \"TAKE\" + \"up\" gives us \"cross to take up\".\n\nSo the answer is (B).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: 2, cross: True, repeat: 1, sound: (to: 2))\nNode 2 attributes: (text: TAKE, repeat: 1)\nNode 3 attributes: (text: \u2191, repeat: 1, icon: (up: \u2191))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross out (D) cross off",
+    "answer": {
+        "B": "cross to take up"
+    }
+}

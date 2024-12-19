@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(C) nothing for it**.\n\nThe rebus shows the word \"BETTER\" repeated four times, next to the word \"IT\".  This represents \"Better, better, better, better it\" \u2014 which sounds like \"Nothing for it\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in for it (B) better off (C) nothing for it (D) better for it",
+    "answer": {
+        "D": "better for it"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts the idiom \"put lipstick on a pig\" (C).  The image shows a tube of lipstick above the word \"PUT\" and a pig below a dividing line. This visually represents the act of putting lipstick on a pig.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a pig of oneself (B) lipstick (C) put lipstick on a pig (D) lipsticks",
+    "answer": {
+        "C": "put lipstick on a pig"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **steady the ship**.\n\nThe image shows a ship with arrows indicating upward and downward forces, suggesting the need to stabilize or steady the vessel.  The word \"sails\" is present but is not the primary meaning conveyed by the visual.  The other options don't fit the visual representation.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before the ship sails (B) steady the ship (C) sinking ship (D) under sail",
+    "answer": {
+        "A": "before the ship sails"
+    }
+}

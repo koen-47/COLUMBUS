@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) play for love.  The image shows the word \"PLAY\" repeated three times, vertically stacked, next to the word \"LOVE\". This visually represents the phrase \"play for love\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) play along (B) play for love (C) play up (D) play for time",
+    "answer": {
+        "B": "play for love"
+    }
+}

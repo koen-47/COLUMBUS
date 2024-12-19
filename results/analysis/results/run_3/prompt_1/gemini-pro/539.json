@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts the phrase \"gorilla in the room\" (C).  The word \"ROOM\" is partially spelled out, and a gorilla image is placed in between to complete the word visually and conceptually.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) baby elephant in the room (B) naked ape (C) gorilla in the room (D) elephant in the room",
+    "answer": {
+        "C": "gorilla in the room"
+    }
+}

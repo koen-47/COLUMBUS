@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents the word \"peek\", as the letters P-E-E-K are arranged vertically.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep watch (B) keep it up (C) stay up (D) keep up",
+    "answer": {
+        "D": "keep up"
+    }
+}

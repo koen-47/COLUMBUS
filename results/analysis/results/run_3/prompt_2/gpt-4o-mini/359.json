@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows \"WH11111LE,\" which can be interpreted as \"once in a while.\" The \"11111\" represents \"one\" and \"while\" is phonetically similar to \"whale.\" \n\nSo, the correct answer is (B) once in a while.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for a while (B) once in a while (C) once and for all (D) once or twice",
+    "answer": {
+        "B": "once in a while"
+    }
+}

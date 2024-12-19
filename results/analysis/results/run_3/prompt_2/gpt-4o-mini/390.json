@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"dead to rights.\" The word \"DEAD\" is positioned above \"RIGHTS,\" indicating the phrase. Therefore, the correct answer is (C) dead to rights.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead and buried (B) dead last (C) dead to rights (D) dead of night",
+    "answer": {
+        "C": "dead to rights"
+    }
+}

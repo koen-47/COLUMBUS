@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents **(D) pull the wool over eyes**.\n\nThe image shows \"PULL WOOL\" over \"IIII\" (i.e., four eyes).  This visually represents the idiom \"pull the wool over someone's eyes,\" which means to deceive or trick someone.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dyed in the wool (B) more cry than wool (C) wrap in cotton wool (D) pull the wool over eyes",
+    "answer": {
+        "D": "pull the wool over eyes"
+    }
+}

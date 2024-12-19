@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"BEARING\" is crossed out, visually representing \"Cross Bearing.\"  This aligns with option (B), \"cross to bear.\" So the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross to bear (C) off one's cross (D) bearing the cross",
+    "answer": {
+        "D": "bearing the cross"
+    }
+}

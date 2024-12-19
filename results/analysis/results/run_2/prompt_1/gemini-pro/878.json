@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image clearly depicts \"STINK\" over an image of a die, meaning **(C) stink on ice**. \"On ice\" is often represented visually with an image of a die.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) ice cool (B) on thin ice (C) stink on ice (D) on ice",
+    "answer": {
+        "C": "stink on ice"
+    }
+}

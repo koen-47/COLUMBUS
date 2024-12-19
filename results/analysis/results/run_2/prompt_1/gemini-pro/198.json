@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) chill to the bone.  It uses the word \"chill\" twice and then a picture of a bone to represent the phrase \"to the bone\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chill pill (B) chill to the marrow (C) to the bone (D) chill to the bone",
+    "answer": {
+        "D": "chill to the bone"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **check is in the mail**.\n\nThe image uses an envelope icon on either side of the word \"CHECK\", visually representing a check being sent through the mail.  The other options don't align with the visual representation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blank check (B) check through (C) take check (D) check is in the mail",
+    "answer": {
+        "D": "check is in the mail"
+    }
+}

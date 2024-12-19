@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase **(D) run for cover**. The repeated word \"RUN\" and the word \"COVER\" juxtaposed visually suggest the action of running to seek cover.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take cover (B) from cover to cover (C) cover up (D) run for cover",
+    "answer": {
+        "D": "run for cover"
+    }
+}

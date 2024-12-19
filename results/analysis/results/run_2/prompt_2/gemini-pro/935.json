@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows two \"re\" symbols next to the word \"DUST\". This represents \"re-re-DUST\", or **(D) dust settles**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch dust (B) collect dust (C) turn to dust (D) dust settles",
+    "answer": {
+        "C": "turn to dust"
+    }
+}

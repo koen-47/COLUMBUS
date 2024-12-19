@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"hang 1111 over\", which corresponds with **(D) hang over one's head**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang one's hat (B) hold over someone's head (C) hang up one's hat (D) hang over one's head",
+    "answer": {
+        "D": "hang over one's head"
+    }
+}

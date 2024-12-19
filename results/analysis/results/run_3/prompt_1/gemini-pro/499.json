@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The words in the image combine to form (D) gavel to order.  A gavel is a small mallet used by a judge, and striking it is a way of calling a court to order.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in order (B) out of order (C) buy to let (D) gavel to order",
+    "answer": {
+        "D": "gavel to order"
+    }
+}

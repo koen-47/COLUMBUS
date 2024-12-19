@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the letters \"AUPIR\" arranged in a way that suggests the phrase \"up in the air.\" Therefore, the correct answer is (B) up in the air.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beat the air (B) up in the air (C) up in arms (D) in the air",
+    "answer": {
+        "B": "up in the air"
+    }
+}

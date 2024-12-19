@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"TOWN\" is inside a box, so the rebus represents \"RUN around TOWN\".  This means the answer is (C) out on the town.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of town (B) run out (C) out on the town (D) run off",
+    "answer": {
+        "A": "run out of town"
+    }
+}

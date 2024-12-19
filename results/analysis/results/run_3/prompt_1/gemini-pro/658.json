@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) light in the loafers.\n\nThe image shows the words \"LOA\" and \"FERS\" with a lightbulb image in between.  This visually represents the phrase \"light in the loafers,\" which is a slang term implying someone is energetic, quick, or nimble.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) loaf about (B) make a light (C) light up (D) light in the loafers",
+    "answer": {
+        "D": "light in the loafers"
+    }
+}

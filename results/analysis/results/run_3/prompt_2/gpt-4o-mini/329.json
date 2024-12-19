@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"class act.\" The arrows pointing down suggest a focus on \"class,\" and \"value\" is included, leading to the interpretation of \"class act.\" \n\nSo the answer is (D) class act.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) good value (B) middle class value (C) class clown (D) class act",
+    "answer": {
+        "B": "middle class value"
+    }
+}

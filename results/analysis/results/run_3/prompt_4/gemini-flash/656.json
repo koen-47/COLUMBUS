@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) let the cat out of the bag**.\n\nThe image shows the word \"CAT\" outside of a box containing the word \"BAG\".  The graph description confirms this spatial relationship (\"OUTSIDE\"). This visually represents the idiom \"let the cat out of the bag,\" which means to reveal a secret.\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: CAT, repeat: 1)\nNode 2 attributes: (text: BAG, repeat: 1)\nEdge 1: node 1 to node 2 (rule: OUTSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) let the cat out of the bag (B) give someone the bag (C) cat in the sack (D) left holding the bag",
+    "answer": {
+        "A": "let the cat out of the bag"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows multiple figures running, followed by the number \"1111\" and a dollar sign. This suggests the phrase \"run for one's money,\" as the figures represent \"run\" and the dollar sign indicates \"money.\" \n\nSo, the correct answer is (D) run for one's money.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a run for it (B) run with (C) run for one's life (D) run for one's money",
+    "answer": {
+        "D": "run for one's money"
+    }
+}

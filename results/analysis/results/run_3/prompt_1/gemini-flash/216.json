@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **carved in stone**.\n\nThe image shows the word \"CARVED\" flanked by images of stones, visually representing the phrase \"carved in stone.\"  This idiom means something is permanent and unchangeable.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in stone (B) heart of stone (C) stone dead (D) carved in stone",
+    "answer": {
+        "D": "carved in stone"
+    }
+}

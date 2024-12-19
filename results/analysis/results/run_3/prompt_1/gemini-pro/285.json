@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"HOLD\" with the number \"1111\" next to it, with one arrow pointing up and one arrow pointing down.  This represents **(B) hold one's own**.  The arrows symbolize maintaining a balance or not giving ground.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold up one's end (B) hold one's own (C) hold off (D) hold over",
+    "answer": {
+        "A": "hold up one's end"
+    }
+}

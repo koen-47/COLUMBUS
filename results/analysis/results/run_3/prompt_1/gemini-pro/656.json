@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) give someone the bag.  The words \"cat\" and \"bag\" are separated, so the cat isn't *in* the bag.  The image depicts the action of handing someone a bag, not being left holding one.  \"Give someone the bag\" is a colloquialism for firing someone.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) let the cat out of the bag (B) give someone the bag (C) cat in the sack (D) left holding the bag",
+    "answer": {
+        "A": "let the cat out of the bag"
+    }
+}

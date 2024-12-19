@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) blue state.  The word \"STATE\" is written in blue.  In US politics, \"blue state\" refers to a state that predominantly votes for the Democratic Party.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) yellow state (B) green state (C) blue state (D) bluebill",
+    "answer": {
+        "C": "blue state"
+    }
+}

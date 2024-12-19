@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) walking on air.\n\nThe image shows a person walking on a line above the word \"AIR\". This visually represents the idiom \"walking on air,\" which means to feel extremely happy and elated.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take air (B) in the air (C) catch air (D) walking on air",
+    "answer": {
+        "D": "walking on air"
+    }
+}

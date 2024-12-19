@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"MO1111ON\".  If you replace the \"1111\" with \"ON\" and color the word \"on\" blue just like in the image, you get \"MOON\".\n\nPutting it all together, since the number of ones is four, it reads as \"one\" repeated four times or \"one one one one\", which is \"four ones\", making the phrase *four-one-on*.\n\nThis sounds very similar to the idiom \"for once in a...\", and since the word \"moon\" is also encoded in the image, the phrase is **(D) once in a blue moon**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue moon (B) once in a purple moon (C) over the moon (D) once in a blue moon",
+    "answer": {
+        "D": "once in a blue moon"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "None of the provided options are a good fit for the image. The image depicts a house, or more generally a home.  The options relate to nature or buildings used for growing plants, not a dwelling.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) greenhouse (B) grassland (C) sunlight (D) greenhouses",
+    "answer": {
+        "A": "greenhouse"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) middle of the road**.\n\nThe image shows the word \"ROAD\" with an arrow pointing up and an arrow pointing down.  This visually represents being in the middle of the road.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) middle of the road (B) roadside (C) low road (D) high road",
+    "answer": {
+        "A": "middle of the road"
+    }
+}

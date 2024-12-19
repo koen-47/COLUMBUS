@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) hand in glove.\n\nThe image shows the word \"GLHANDOVE\".  By removing the letters \"GL\" and \"OVE\", the remaining letters form the phrase \"HAND IN\".  Therefore, the complete phrase is \"hand in glove\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in hand (B) hand over hand (C) hand in hand (D) hand in glove",
+    "answer": {
+        "D": "hand in glove"
+    }
+}

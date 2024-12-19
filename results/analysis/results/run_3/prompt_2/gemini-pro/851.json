@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"square one\" by showing a square and the number one. Thus the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start at square one (B) square one (C) square on (D) back to square one",
+    "answer": {
+        "B": "square one"
+    }
+}

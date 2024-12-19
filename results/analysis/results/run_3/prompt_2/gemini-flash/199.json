@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(D) exit stage left**.\n\nThe arrows indicate direction.  \"EXIT\" is above an upward-pointing arrow and \"STAGE\" is above a downward-pointing arrow.  This visually represents exiting the stage to the left.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stage right (B) set the stage (C) hold the stage (D) exit stage left",
+    "answer": {
+        "D": "exit stage left"
+    }
+}

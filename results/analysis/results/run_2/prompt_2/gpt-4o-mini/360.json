@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the letters \"CHTONGUEEEK,\" which can be interpreted as \"hold tongue.\" The \"C\" and \"H\" at the beginning can be seen as \"C\" and \"H\" for \"hold,\" and the \"TONGUE\" is clearly present, followed by \"EEK,\" which can be interpreted as a sound or expression.\n\nSo, the answer is (B) hold tongue.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bite tongue (B) hold tongue (C) turn the other cheek (D) tongue in cheek",
+    "answer": {
+        "D": "tongue in cheek"
+    }
+}

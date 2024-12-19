@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"go sea\" which makes (B) \"**go to sea**\" the correct answer.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go places (B) go to sea (C) at sea (D) go fish",
+    "answer": {
+        "B": "go to sea"
+    }
+}

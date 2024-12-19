@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (A) back to square one.\n\nThe rebus shows the word \"BACK\" stacked on top of the word \"BACK\", with a square in between and the number 1 to the right.  This visually represents going \"BACK to square one\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) back to square one (B) square away (C) square on (D) square one",
+    "answer": {
+        "A": "back to square one"
+    }
+}

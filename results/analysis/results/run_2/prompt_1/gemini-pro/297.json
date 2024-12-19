@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(A) laugh out of court**.  The word \"COURT\" is visually contained within/boxed out by \"LAUGH\".  This symbolizes the act of dismissing something as ridiculous, similar to how a judge might dismiss a frivolous lawsuit.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) laugh out of court (B) laugh all the way to the bank (C) laugh one's head off (D) hold court",
+    "answer": {
+        "A": "laugh out of court"
+    }
+}

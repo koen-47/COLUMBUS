@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"DEAL\" in a plain font. There are no other visual cues. Of the options provided, the most straightforward answer, and the one that directly relates to the word shown, is (B) real deal. \n\nThe other options include modifiers (\"good,\" \"big,\" \"great\") that are not represented in the image. Therefore, (B) is the most likely solution.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) good grief (B) real deal (C) big deal (D) great deal",
+    "answer": {
+        "C": "big deal"
+    }
+}

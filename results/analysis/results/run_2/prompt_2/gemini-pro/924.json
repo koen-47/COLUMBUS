@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"too good for this world\".  \"Good\" appears twice, \"this\" appears four times, and there is a picture of the world. This matches option (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not long for this world (B) out of this world (C) too good for this world (D) not for the world",
+    "answer": {
+        "C": "too good for this world"
+    }
+}

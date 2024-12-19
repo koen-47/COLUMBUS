@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows two hands shaking inside the outline of a heart. This symbolizes a loving or kind handshake. None of the provided options perfectly capture this nuance, but the closest is (B) handshake.  The other options introduce colors or the -ing suffix, which aren't represented in the image.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) golden handshake (B) handshake (C) handshaking (D) green handshake",
+    "answer": {
+        "D": "green handshake"
+    }
+}

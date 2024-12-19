@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows two waves (\"double wave\") before the number \"1111\" and the word \"MILL\".  This represents \"Double wave 1111 mill\", which sounds like \"Double A, 4 of a kind, Mill\". This translates to \"Two waves and four ones MILL\".  Four ones is the same as four aces. \n\nThus, the answer is (A) water to one's mill.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) water to one's mill (B) go through the mill (C) millwork (D) trouble at mill",
+    "answer": {
+        "A": "water to one's mill"
+    }
+}

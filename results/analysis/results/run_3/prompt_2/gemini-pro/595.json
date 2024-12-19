@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word fragments \"RO\" and \"OM\" with an elephant picture between them. This represents the phrase \"elephant in the room\". Thus, the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) white elephant (D) baby elephant in the room",
+    "answer": {
+        "A": "elephant in the room"
+    }
+}

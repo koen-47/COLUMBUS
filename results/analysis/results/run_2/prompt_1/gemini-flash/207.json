@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **hit too close to home**.\n\nThe image uses the words \"HIT CLOSE\" and places a house icon next to it.  This visually represents something affecting someone personally and deeply, which is the meaning of \"hit too close to home.\"  The other options don't quite fit the visual representation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) close to home (B) hit too close to home (C) hit home (D) home away from home",
+    "answer": {
+        "B": "hit too close to home"
+    }
+}

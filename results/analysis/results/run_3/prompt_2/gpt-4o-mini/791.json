@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"run for the hills.\" The repeated word \"RUN\" suggests the action of running, and \"HILLS\" indicates the destination. Therefore, the correct answer is (B) run for the hills.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take to the hills (B) run for the hills (C) head for the hills (D) old as the hills",
+    "answer": {
+        "B": "run for the hills"
+    }
+}

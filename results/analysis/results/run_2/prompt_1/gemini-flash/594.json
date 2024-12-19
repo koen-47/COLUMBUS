@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) eat for two.\n\nThe image shows the word \"EAT\" repeated three times, and the number \"2\" is placed to the right.  This visually represents the idiom \"eat for two,\" suggesting someone is eating a larger amount of food than usual, perhaps because they are pregnant or have a very large appetite.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eat one's own (B) two for two (C) eat one's young (D) eat for two",
+    "answer": {
+        "D": "eat for two"
+    }
+}

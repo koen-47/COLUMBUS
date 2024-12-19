@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle is \"PO + (picture of a pig) + KE\". This represents the phrase \"pig in a poke\". So the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pig in a poke (B) in a pig's eye (C) wrestle with a pig (D) in a pig's patoot",
+    "answer": {
+        "A": "pig in a poke"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in the image is (C) drop dead.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at sea (B) drop in the pond (C) drop dead (D) drop in the sea",
+    "answer": {
+        "D": "drop in the sea"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) southeast.\n\nThe image shows the word \"EAST\" with an arrow pointing up and another pointing down.  This visually represents \"South-East\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) northeast (B) middlemen (C) southeast (D) middle east",
+    "answer": {
+        "D": "middle east"
+    }
+}

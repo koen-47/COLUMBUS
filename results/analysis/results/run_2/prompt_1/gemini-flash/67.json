@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) great deal.  The image simply shows the word \"DEAL,\" but in context with the options provided,  \"great deal\" is the most fitting choice.  It implies a good offer or bargain.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) good grief (B) real deal (C) big deal (D) great deal",
+    "answer": {
+        "C": "big deal"
+    }
+}

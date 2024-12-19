@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts the words \"SHIP\" and \"SAILS\" with arrows pointing to the first letters. This suggests swapping the 'S' from SAILS to SHIP and the 'SH' from SHIP to SAILS, to form the words **SHIPS** and **AILS**. A ship needs sails to move.\n\nShips only move by sail when the wind is favorable and the sails are raised (up). Therefore, we can associate the upward arrow with being *under sail*. Therefore, the answer is (D) **under sail**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) steady the ship (B) sinking ship (C) before the ship sails (D) under sail",
+    "answer": {
+        "C": "before the ship sails"
+    }
+}

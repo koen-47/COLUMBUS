@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"FLY on the WALL\" (A).  The horizontal line visually represents \"on\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly on the wall (B) fly in the face of (C) fly by (D) fly off",
+    "answer": {
+        "A": "fly on the wall"
+    }
+}

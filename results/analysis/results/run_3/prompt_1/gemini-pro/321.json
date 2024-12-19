@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts \"Pip to the post\" (A).  The two \"PIP\"s represent competitors, and the envelope represents the post (like a finish line).  The phrase refers to winning by a very narrow margin, just getting to the finish line (\"post\") first.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pip to the post (B) piping hot (C) like a chicken with the pip (D) piping times",
+    "answer": {
+        "A": "pip to the post"
+    }
+}

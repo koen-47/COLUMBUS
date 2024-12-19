@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) step up to the plate.\n\nThe image shows the word \"PETS\" vertically stacked, next to two images of plates and utensils.  This implies \"step up to the plate\" because the plates and utensils suggest a meal and a metaphorical \"plate\" in baseball (or other contexts) where someone steps up to take on a challenge or responsibility.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step up (B) step down (C) step over (D) step up to the plate",
+    "answer": {
+        "D": "step up to the plate"
+    }
+}

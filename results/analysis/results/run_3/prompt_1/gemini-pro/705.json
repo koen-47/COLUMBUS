@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"COFNAILFIN,\" which is a scrambled version of \"FINAL COFFIN NAIL.\"  Since \"final\" is present, the answer is (D) final nail in the coffin.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail down (B) nail in the coffin (C) last nail in the coffin (D) final nail in the coffin",
+    "answer": {
+        "B": "nail in the coffin"
+    }
+}

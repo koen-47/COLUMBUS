@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(C) spendthrift**.\n\nThe word \"SPENDER\" is shown in the image.  The word \"spendthrift\" is a synonym for a person who spends money in an extravagant and irresponsible way.  The image implies \"the last spender\" which points to the last of a kind, thus making spendthrift the closest option.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spendthrifts (B) last of the big spenders (C) spendthrift (D) big spender",
+    "answer": {
+        "D": "big spender"
+    }
+}

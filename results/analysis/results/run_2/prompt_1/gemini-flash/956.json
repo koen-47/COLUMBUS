@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) up to one's ears**.\n\nThe image shows a line with \"1111\" below it and an ear symbol to the right.  The arrow above indicates that something is \"up.\"  Together, the image represents being overwhelmed or having too much of something, which is the meaning of \"up to one's ears.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to one's ears (B) prick up ears (C) up on one's ear (D) ear to the ground",
+    "answer": {
+        "C": "up on one's ear"
+    }
+}

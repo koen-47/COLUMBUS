@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) one after another.\n\nThe image shows the number \"1\" with an upward-pointing arrow and a downward-pointing arrow.  This visually represents the concept of one following another, repeatedly.  The word \"ANOTHER\" reinforces this idea.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one after another (B) put one over (C) one at a time (D) one on one",
+    "answer": {
+        "A": "one after another"
+    }
+}

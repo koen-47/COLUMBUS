@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) bee in bonnet.  \"BON\" and \"NET\" are separated by a picture of a bee, visually creating the phrase \"bee in bonnet.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bee in one's bonnet (B) put the bee on (C) queen bee (D) bee in bonnet",
+    "answer": {
+        "D": "bee in bonnet"
+    }
+}

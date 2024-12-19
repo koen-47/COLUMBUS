@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows only the word \"GUNS\".  Of the options presented, only (C) **the big guns** uses the plural form of \"gun\", thus matching the rebus.\n\nThe phrase \"the big guns\" is an idiom referring to important or powerful people.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) guns blazing (B) big gun (C) the big guns (D) big shot",
+    "answer": {
+        "C": "the big guns"
+    }
+}

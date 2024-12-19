@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image simply says \"WORLD\".  None of the other options are present. So the answer that best represents what is conveyed in the image is **A) outside world**.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) outside world (B) across the world (C) a small world (D) small world syndrome",
+    "answer": {
+        "C": "a small world"
+    }
+}

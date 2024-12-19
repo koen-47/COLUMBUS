@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) whip up a storm.\n\nThe letters \"PIHW\" are positioned vertically to the left of the word \"STORM\".  When read in order, they spell out \"PIHW\", which sounds like \"whip\". Therefore, the rebus signifies \"whip up a storm\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cook up a storm (B) storm off (C) take by storm (D) whip up a storm",
+    "answer": {
+        "D": "whip up a storm"
+    }
+}

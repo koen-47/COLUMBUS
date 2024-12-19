@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"FISH\" surrounded by \"PO\" and \"ND,\" which suggests the phrase \"a fish out of water.\" Therefore, the correct answer is (C) a fish out of water.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bigger fish to fry (B) big fish in a small pond (C) a fish out of water (D) big fish",
+    "answer": {
+        "B": "big fish in a small pond"
+    }
+}

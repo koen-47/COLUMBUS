@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) sit in.\n\nThe number 4 is visually similar to the word \"for\".  Therefore, \"4SIT4\" can be read as \"FOR SIT FOR\", which is a play on words to mean \"SIT IN\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sit with (B) sit on (C) sit in for (D) sit in",
+    "answer": {
+        "C": "sit in for"
+    }
+}

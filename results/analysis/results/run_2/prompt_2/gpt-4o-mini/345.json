@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows \"1111\" followed by a heart. This can be interpreted as \"cross my heart,\" since \"1111\" can represent \"cross\" (as in crossing out or marking) and the heart represents \"heart.\" \n\nTherefore, the correct answer is (D) cross my heart.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross one's heart (B) cross my heart and hope to die (C) have one's heart in (D) cross my heart",
+    "answer": {
+        "A": "cross one's heart"
+    }
+}

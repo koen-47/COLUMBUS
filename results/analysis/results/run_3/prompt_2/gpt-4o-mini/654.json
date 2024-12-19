@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the phrase \"GNIDLOH BAG,\" which can be interpreted as \"left holding the bag\" when read backward. \n\nSo, the correct answer is (D) left holding the bag.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bag and baggage (B) in the bag (C) give someone the bag (D) left holding the bag",
+    "answer": {
+        "D": "left holding the bag"
+    }
+}

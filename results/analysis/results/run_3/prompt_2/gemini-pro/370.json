@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The words \"DANCE\" are placed around \"TUNE\".  This represents \"dance around the tune\", which would correspond to (A) dance to tune.\n\nThus, the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dance to tune (B) tune in (C) tune out (D) tune up",
+    "answer": {
+        "A": "dance to tune"
+    }
+}

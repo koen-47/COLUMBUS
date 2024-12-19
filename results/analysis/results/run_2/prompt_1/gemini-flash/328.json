@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **midafternoon**.\n\nThe image shows the word \"AFTERNOON\" with an arrow pointing down at \"AFTER\" and an arrow pointing up at \"NOON\".  This visually represents the middle of the afternoon.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midpoint (B) midrib (C) midafternoon (D) midribs",
+    "answer": {
+        "C": "midafternoon"
+    }
+}

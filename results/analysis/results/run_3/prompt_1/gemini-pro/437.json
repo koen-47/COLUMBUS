@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) dig one's heels in.  The four \"1\"s represent \"one's,\" \"DIG\" represents \"dig,\" and the two heels represent \"heels in.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig in one's heels (B) dig one's heels in (C) dig heels in (D) take to one's heels",
+    "answer": {
+        "A": "dig in one's heels"
+    }
+}

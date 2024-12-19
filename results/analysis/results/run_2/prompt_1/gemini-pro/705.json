@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"COFNAILFIN\", which when unscrambled, spells \"FINAL COFFIN NAIL\". Options B, C, and D all allude to a similar idiom; however, only **(D) final nail in the coffin** represents the literal phrase spelled out in the image.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail down (B) nail in the coffin (C) last nail in the coffin (D) final nail in the coffin",
+    "answer": {
+        "B": "nail in the coffin"
+    }
+}

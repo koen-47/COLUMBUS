@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **hit the nail on the head**.\n\nThe rebus shows the word \"NAIL\" followed by a hammer.  The line underneath suggests \"on the head\" because the hammer would hit something on the head. The surprised face at the bottom is not essential to the meaning but adds to the overall impression that the action was successful.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail the hammer on the head (B) hit the nail on the head (C) put the hammer down (D) bring to the hammer",
+    "answer": {
+        "A": "nail the hammer on the head"
+    }
+}

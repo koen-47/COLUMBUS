@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) close to home.  The image visually represents the words \"CLOSE\" and \"HOME\" placed closely together.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at home (B) home away from home (C) close to home (D) hit too close to home",
+    "answer": {
+        "C": "close to home"
+    }
+}

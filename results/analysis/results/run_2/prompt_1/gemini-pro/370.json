@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) tune in.\n\nThe words \"DANCE DANCE\" are stacked vertically, visually similar to how \"TUNE IN\" might appear if stacked.  This is a visual pun.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dance to tune (B) tune in (C) tune out (D) tune up",
+    "answer": {
+        "A": "dance to tune"
+    }
+}

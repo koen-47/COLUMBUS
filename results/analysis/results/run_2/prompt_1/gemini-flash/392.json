@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) devil is in the details.\n\nThe image shows the words \"DETDEVILAILS\".  By rearranging the letters, you can form the phrase \"the devil is in the details\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) devil is in the details (B) speak of the devil (C) devil in disguise (D) talk of the devil",
+    "answer": {
+        "A": "devil is in the details"
+    }
+}

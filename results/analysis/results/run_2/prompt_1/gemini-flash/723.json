@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) painful on the eyes.\n\nThe image uses the word \"PAINFUL\" above a simple drawing of eyes.  This directly conveys the idea that something is visually unpleasant and causes discomfort to look at.  The other options don't fit as well:\n\n* **(A) sight for sore eyes:** This implies something pleasant and welcome.\n* **(C) hard on the eyes:** While similar to (B), it's less directly stated.\n* **(D) easy on the eye:** This is the opposite of what the image depicts.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sight for sore eyes (B) painful on the eyes (C) hard on the eyes (D) easy on the eye",
+    "answer": {
+        "B": "painful on the eyes"
+    }
+}

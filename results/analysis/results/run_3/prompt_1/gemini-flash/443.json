@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) dog eat dog.\n\nThe image shows the word \"HUDOGNT\".  By rearranging the letters, you get \"DOG EAT DOG\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snipe hunt (B) dog in the hunt (C) dog around (D) dog eat dog",
+    "answer": {
+        "B": "dog in the hunt"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"STRM\" with \"ANEET\" below it. This can be interpreted as \"street\" (from \"STRM\") and \"man\" (from \"ANEET\" sounding like \"a neat\"). \n\nSo, the phrase conveyed is \"man on the street,\" which corresponds to option (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up someone's street (B) man in the street (C) man on the street (D) word on the street",
+    "answer": {
+        "B": "man in the street"
+    }
+}

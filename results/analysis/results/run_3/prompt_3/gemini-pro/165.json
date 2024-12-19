@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The first node has the text \"WRONG\" and the attribute \"reverse\". Reversing \"WRONG\" gives \"GNORW\", which is what appears in the image. The second node is an icon of a horse. Putting these together gives \"WRONG HORSE\".\n\nOf the options, only (C) \"back the wrong horse\" contains \"WRONG HORSE\".\n\nFinal Answer: The final answer is $\\boxed{C}$",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: WRONG, repeat: 1, direction: reverse)\nNode 2 attributes: (text: \ud83d\udc0e, repeat: 1, icon: (horse: \ud83d\udc0e))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) high horse (B) dark horse (C) back the wrong horse (D) horse around",
+    "answer": {
+        "C": "back the wrong horse"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the letters \"P,\" \"I,\" \"T,\" \"H,\" and \"I\" arranged vertically, along with a storm cloud icon. This suggests the phrase \"pitch\" (from the letters) and \"storm\" (from the icon). \n\nThe correct answer is (A) take by storm.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take by storm (B) cook up a storm (C) whip up a storm (D) storm off",
+    "answer": {
+        "C": "whip up a storm"
+    }
+}

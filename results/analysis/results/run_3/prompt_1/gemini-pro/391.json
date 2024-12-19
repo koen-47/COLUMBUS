@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) devil in disguise. The word \"disguise\" is shown, with a devil emoji replacing the letter G.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the devil (B) devil lies in the details (C) devil is in the details (D) devil in disguise",
+    "answer": {
+        "D": "devil in disguise"
+    }
+}

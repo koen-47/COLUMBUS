@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"STEP\" beside four instances of \"MAN,\" which can be read as \"four-man step.\"  This sounds like \"foreman's step\".\n\nNone of the provided options is \"foreman's step\", but (A) giant step could be considered a synonym.\n\nSo the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) giant step (B) step on someone's toes (C) a small step for man (D) one step at a time",
+    "answer": {
+        "C": "a small step for man"
+    }
+}

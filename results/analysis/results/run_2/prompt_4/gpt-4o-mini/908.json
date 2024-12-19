@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle consists of the word \"HOUSE\" positioned above the word \"HILL.\" This arrangement suggests a phrase that describes a location or relationship between the two elements.\n\nGiven the options:\n(A) king of the hill  \n(B) hill to die on  \n(C) the big house on the hill  \n(D) over the hill  \n\nThe correct answer is (C) the big house on the hill, as it directly describes the visual representation of a house situated above a hill.",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: HOUSE, repeat: 1, size: big)\nNode 2 attributes: (text: HILL, repeat: 1)\nEdge 1: node 1 to node 2 (rule: ABOVE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) king of the hill (B) hill to die on (C) the big house on the hill (D) over the hill",
+    "answer": {
+        "C": "the big house on the hill"
+    }
+}

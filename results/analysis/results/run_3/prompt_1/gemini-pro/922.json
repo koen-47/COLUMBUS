@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the number \"2\" beside two boots.  This represents **(B) hang up one's boots**.  This idiom means to retire, especially from a sport.  The two boots symbolize the pair of boots a person would stop using after retirement.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fill one's boots (B) hang up one's boots (C) too big for one's boots (D) kicking boots",
+    "answer": {
+        "C": "too big for one's boots"
+    }
+}

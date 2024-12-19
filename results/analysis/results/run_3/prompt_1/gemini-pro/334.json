@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts the word \"FIRE\" with lines crossing through it, visually representing something being under fire or in the crossfire.  The best option is **(B) crossfire**.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) caught in the crossfire (B) crossfire (C) crossfires (D) escape fire",
+    "answer": {
+        "B": "crossfire"
+    }
+}

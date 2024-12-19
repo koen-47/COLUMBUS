@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts (B) in line. The arrows pointing towards the word \"LINE\" from opposite directions suggest something or someone joining or being within a line.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start line (B) in line (C) lead the line (D) hold the line",
+    "answer": {
+        "A": "start line"
+    }
+}

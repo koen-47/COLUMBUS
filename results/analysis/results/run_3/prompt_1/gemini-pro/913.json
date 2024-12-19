@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"genie's bottle\".  While none of the provided options perfectly match this simple description, the most closely related idiom is **(A) put the genie back in the bottle**. This implies the genie *was* in a bottle, therefore recognizing the concept of a \"genie's bottle\". However, the image itself doesn't depict the action of putting *anything* into the bottle.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put the genie back in the bottle (B) bottle up (C) bottle away (D) the genie's out of the bottle",
+    "answer": {
+        "D": "the genie's out of the bottle"
+    }
+}

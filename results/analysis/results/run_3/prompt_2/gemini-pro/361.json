@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) cross paths.\n\nThe word \"WALKS\" is crossed twice, meaning cross walks.  Since there are two instances of \"cross walks,\" it represents crossing paths multiple times.  Therefore, the rebus represents \"cross paths.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crosswalks (B) crosswalk (C) cross paths (D) catwalks",
+    "answer": {
+        "A": "crosswalks"
+    }
+}

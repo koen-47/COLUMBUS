@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **too hot to hold**.\n\nThe image displays the words \"HOT\" and \"HOLD\" arranged in a way that visually represents the phrase \"too hot to hold\".  The implication is that something is so hot, it cannot be held.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hot hand (B) too hot to hold (C) hot off the presses (D) hot and heavy",
+    "answer": {
+        "B": "too hot to hold"
+    }
+}

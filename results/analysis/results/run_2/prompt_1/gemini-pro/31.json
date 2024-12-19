@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) aftershocks.  The first, larger down arrow symbolizes the initial shock.  The smaller up and down arrows that follow represent the aftershocks.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snowshoes (B) snowshoe (C) aftershock (D) aftershocks",
+    "answer": {
+        "D": "aftershocks"
+    }
+}

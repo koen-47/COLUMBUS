@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) pill in the pocket**.\n\nThe image shows the letters \"POCPILLKET\".  By rearranging the letters, you get \"PILL IN POCKET\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in someone's pocket (B) pill in the pocket (C) pill mill (D) on the pill",
+    "answer": {
+        "B": "pill in the pocket"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"HEAD\" over \"HEELS\". This represents the idiom \"head over heels\", which means to be deeply in love with someone.\n\nSo the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) take to one's heels (C) kick up one's heels (D) dig heels in",
+    "answer": {
+        "A": "head over heels"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"PETS\" next to two place settings.  This represents \"two pets,\" which sounds like \"two plates.\"\n\nSince \"two plates\" is not one of the options, think of an idiom that involves plates.  The idiom \"step up to the plate\" refers to taking on a responsibility or challenge. Therefore, the answer is (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step up (B) step down (C) step over (D) step up to the plate",
+    "answer": {
+        "D": "step up to the plate"
+    }
+}

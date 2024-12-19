@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts a smiling man's face above the word \"CAMPUS.\" This suggests the phrase \"big man on campus\" (C).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) main man (B) big girl (C) big man on campus (D) big name",
+    "answer": {
+        "C": "big man on campus"
+    }
+}

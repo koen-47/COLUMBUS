@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"SCARED\" is written in green.  This likely represents the phrase \"green with fear,\" which is synonymous with being very scared. However, none of the provided options perfectly match this interpretation. Of the given choices, (C) \"scared green\" is the closest.  While grammatically unusual, it combines the elements of being scared and the color green.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) scared to death (B) green light (C) scared green (D) run scared",
+    "answer": {
+        "C": "scared green"
+    }
+}

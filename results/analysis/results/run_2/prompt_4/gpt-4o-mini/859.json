@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The two stars (\ud83c\udf1f\ud83c\udf1f) are \"stars.\"\n- The \"1111\" represents \"one's.\"\n- The \"IIII\" represents \"eyes.\"\n\nPutting it all together, the phrase conveyed is \"stars in one's eyes.\"\n\nSo the correct answer is (A) stars in one's eyes.",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83c\udf1f\ud83c\udf1f, repeat: 1, icon: (stars: \ud83c\udf1f\ud83c\udf1f))\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: IIII, repeat: 1, sound: (eyes: iiii))\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) stars in one's eyes (B) stars align (C) see stars (D) written in the stars",
+    "answer": {
+        "A": "stars in one's eyes"
+    }
+}

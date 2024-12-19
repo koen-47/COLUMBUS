@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) blow someone's mind.\n\nHere's why:\n\nThe rebus shows the letters \"W O L B\" arranged to look like a cross.  The number \"1111\" is placed next to the \"O\" and \"L\".  The number 1111 can be seen as \"one one one one\", or \"blown\". The face suggests the reaction to something astonishing.  Therefore, the image implies \"blown\" followed by \"someone's mind\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow over (B) blow up in one's face (C) blow someone's mind (D) body blow",
+    "answer": {
+        "B": "blow up in one's face"
+    }
+}

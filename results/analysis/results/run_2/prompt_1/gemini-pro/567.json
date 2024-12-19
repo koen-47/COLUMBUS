@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(D) down for the count**.\n\nThe downward arrows symbolize being \"down,\" and the word \"COUNT\" directly relates to the idiom of being \"down for the count,\" a boxing term referring to being knocked down and the referee counting to see if the boxer can get back up.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put down for (B) take the count (C) down but not out (D) down for the count",
+    "answer": {
+        "D": "down for the count"
+    }
+}

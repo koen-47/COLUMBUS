@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) get out of my face.  The word \"GET\" combined with the box indicating removal and the unimpressed face suggests the phrase \"get [that face] out of my face\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of one's face (B) get out of my face (C) pull a face (D) lose face",
+    "answer": {
+        "B": "get out of my face"
+    }
+}

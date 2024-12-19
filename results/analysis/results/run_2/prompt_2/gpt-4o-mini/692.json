@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"POINT\" with arrows indicating a central position. This suggests the concept of being in the middle or center of something. The best option that fits this description is:\n\n(B) midpoint.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midpoints (B) midpoint (C) midgame (D) midline",
+    "answer": {
+        "B": "midpoint"
+    }
+}

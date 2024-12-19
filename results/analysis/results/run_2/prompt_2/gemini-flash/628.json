@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) fight fire with fire.\n\nThe word \"AN\" is placed before \"FIRE\" and \"GER\" after \"FIRE\".  This creates the phrase \"AN FIRE GER\", which sounds like \"and fire with fire\" or \"fight fire with fire\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) escape fire (B) draw fire (C) fire in anger (D) fight fire with fire",
+    "answer": {
+        "C": "fire in anger"
+    }
+}

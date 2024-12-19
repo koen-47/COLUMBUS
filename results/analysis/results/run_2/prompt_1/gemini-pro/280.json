@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts \"come come\".  This is a visual representation of someone beckoning another person to \"come\" closer, repeated for emphasis.  None of the other phrases relate to this imagery. So none of the options are correct in this context.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to someone's head (B) lose head (C) come to a head (D) give head",
+    "answer": {
+        "C": "come to a head"
+    }
+}

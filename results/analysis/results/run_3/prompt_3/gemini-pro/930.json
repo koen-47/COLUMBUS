@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The puzzle shows \"1111TURNGRAVE\". The description indicates that \"1111\" can be interpreted as \"one's\".  Therefore, the puzzle represents \"one's TURN GRAVE\". This corresponds to option (C): \"turn in one's grave\".\n\nFinal Answer: The final answer is $\\boxed{C}$",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: TURN, repeat: 1)\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: GRAVE, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) dig one's own grave (B) take someone to the grave (C) turn in one's grave (D) take to the grave",
+    "answer": {
+        "C": "turn in one's grave"
+    }
+}

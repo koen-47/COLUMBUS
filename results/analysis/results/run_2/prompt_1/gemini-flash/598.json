@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) end of one's rope.\n\nThe image shows \"1111\" (representing four ones) and \"ROPE\".  The arrows indicate that the \"1111\" is going down, and the \"ROPE\" is going up.  This visually represents reaching the end of one's rope (being at the end of one's resources or patience).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) jump rope (B) end of one's rope (C) give someone enough rope (D) skip rope",
+    "answer": {
+        "B": "end of one's rope"
+    }
+}

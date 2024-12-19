@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) come back from the dead.\n\nHere's why:\n\n* **EMOC:** This is \"COME\" spelled backward.\n* **FROM:** This word is used literally.\n* **Skull:**  Represents death.\n\nTherefore, the image represents \"COME BACK FROM THE DEAD\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stop dead (B) come back from the dead (C) come alive (D) come to grief",
+    "answer": {
+        "B": "come back from the dead"
+    }
+}

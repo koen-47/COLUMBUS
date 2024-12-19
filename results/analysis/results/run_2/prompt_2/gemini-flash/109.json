@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) in the post**.\n\nHere's why:\n\n* **The arrows:** The upward and downward arrows represent the action of something going in and out.\n* **BE:** This is a part of the phrase, \u201cto be\u201d.\n* **The envelope:** This is a common symbol for mail or post.\n\nTogether, the image suggests something (the mail) is \u201cin the post\u201d.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the post (B) be left at the post (C) near post (D) far post",
+    "answer": {
+        "B": "be left at the post"
+    }
+}

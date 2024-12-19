@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the letters \"ELCRIC,\" which can be interpreted as \"circle\" with \"EL\" in front. This suggests the phrase \"inner circle.\" \n\nSo, the answer is (B) inner circle.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) circle back (B) inner circle (C) swing round the circle (D) full circle",
+    "answer": {
+        "A": "circle back"
+    }
+}

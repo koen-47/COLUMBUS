@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **turn in one's grave**.\n\nThe image shows \"1111TURNGRAVE\".  The four \"1\"s visually represent someone turning over and over, hence \"turn in one's grave\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's own grave (B) take someone to the grave (C) turn in one's grave (D) take to the grave",
+    "answer": {
+        "C": "turn in one's grave"
+    }
+}

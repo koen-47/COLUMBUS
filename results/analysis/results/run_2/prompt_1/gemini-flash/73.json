@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **spendthrift**.\n\nThe image shows the word \"SPENDER\".  While a \"big spender\" is a common phrase, and \"spendthrift\" is a synonym, the image itself only displays \"SPENDER\", which is the root word of \"spendthrift\".  The other options are incorrect because they are either plural forms or add extra descriptors.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spendthrifts (B) last of the big spenders (C) spendthrift (D) big spender",
+    "answer": {
+        "D": "big spender"
+    }
+}

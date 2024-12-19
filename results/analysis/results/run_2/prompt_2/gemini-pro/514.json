@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (A) bits and pieces.\n\nThe word \"PIECES\" is repeated, or in other words, there are many \"PIECES.\"  \"Bits\" is a synonym for small \"PIECES.\"  Therefore, the rebus represents \"bits and pieces.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bits and pieces (B) of a piece (C) cut to pieces (D) to pieces",
+    "answer": {
+        "D": "to pieces"
+    }
+}

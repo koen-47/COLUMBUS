@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"blue eyed boy\". The first image is a pair of blue eyes and the second is a boy. Combining these gives us \"blue-eyed boy\". So, the answer is (D).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue-eyed (B) baby blue (C) fair-haired boy (D) blue eyed boy",
+    "answer": {
+        "D": "blue eyed boy"
+    }
+}

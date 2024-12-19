@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) storm out of the blocks.\n\nThe image shows the word \"STORM\" next to the word \"BLOCKS\" enclosed in a box.  The phrasing \"out of the blocks\" implies a starting point or beginning, and the box around \"BLOCKS\" suggests a starting line or a confined space. Therefore, the rebus represents the phrase \"storm out of the blocks\".\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: STORM, repeat: 1)\nNode 2 attributes: (text: BLOCKS, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) whip up a storm (B) after the storm (C) storm out of the blocks (D) storm off",
+    "answer": {
+        "C": "storm out of the blocks"
+    }
+}

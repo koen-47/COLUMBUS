@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) hard on the eyes.\n\nThe line separating \"HARD\" and \"EYES\" signifies \"on\".  Therefore, the rebus reads \"HARD on EYES\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) easy on the eye (B) hard on the eyes (C) easy on the eyes (D) painful on the eyes",
+    "answer": {
+        "B": "hard on the eyes"
+    }
+}

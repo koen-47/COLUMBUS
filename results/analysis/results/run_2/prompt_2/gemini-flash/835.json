@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) small price to pay.\n\nThe rebus shows the word \"PRICE\" above two instances of the word \"PAY\".  This visually represents a \"small price to pay\" because the word \"PRICE\" is smaller than the two words \"PAY\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) price is right (B) small fortune (C) smallholders (D) small price to pay",
+    "answer": {
+        "D": "small price to pay"
+    }
+}

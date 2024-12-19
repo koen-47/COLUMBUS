@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) for all the world to see.\n\nThe image uses \"ALL\" repeated four times, two globes representing \"the world\", and the word \"SEE\". Combining these elements creates the phrase \"for all the world to see\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for all the world (B) not for the world (C) there for everyone to see (D) for all the world to see",
+    "answer": {
+        "D": "for all the world to see"
+    }
+}

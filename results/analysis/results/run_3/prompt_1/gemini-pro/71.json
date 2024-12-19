@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word displayed is \"PICTURE\".  \"Big picture\" (C) is one of the options.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big boy (B) big shot (C) big picture (D) mixed picture",
+    "answer": {
+        "C": "big picture"
+    }
+}

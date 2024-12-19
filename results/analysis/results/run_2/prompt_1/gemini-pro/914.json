@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts a boot on top and a foot outline underneath, separated by a line and the word \"OTHER\".  This conveys the idea of the **(D) the shoe is on the other foot**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wait for the other shoe to drop (B) which foot the shoe is on (C) kick with the other foot (D) the shoe is on the other foot",
+    "answer": {
+        "D": "the shoe is on the other foot"
+    }
+}

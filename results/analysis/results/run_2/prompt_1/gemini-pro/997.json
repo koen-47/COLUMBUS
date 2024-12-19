@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows \"WIND\" reversed, alongside a picture of a clock. This represents **(D) wind back the clock**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put the clock back (B) turn the clock back (C) turn back the clock (D) wind back the clock",
+    "answer": {
+        "D": "wind back the clock"
+    }
+}

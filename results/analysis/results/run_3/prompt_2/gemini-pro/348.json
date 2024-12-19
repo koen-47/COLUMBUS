@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle is \"COME 2 Earth\".  \"2\" represents \"to\". The Earth image signifies \"earth\". Therefore, the answer is (C) come down to earth.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down to us (B) down to earth (C) come down to earth (D) come down",
+    "answer": {
+        "C": "come down to earth"
+    }
+}

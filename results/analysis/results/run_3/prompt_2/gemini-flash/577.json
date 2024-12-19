@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) under the wire**.\n\nThe two arrows point downwards, indicating \"under\".  The word \"WIRE\" is next to the arrows.  Combining these elements gives \"under the wire\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down under (B) down to the wire (C) under the wire (D) down the line",
+    "answer": {
+        "B": "down to the wire"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **take someone to the grave**.\n\nThe image shows the word \"TAKE\" stacked vertically above another \"TAKE\", with \"GRAVE\" to the right. This visually represents the phrase \"Take someone to the grave,\"  implying that someone's actions or behavior will have serious consequences that will ultimately lead to another person's downfall or ruin.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's own grave (B) take to the grave (C) take someone to the grave (D) turn in one's grave",
+    "answer": {
+        "B": "take to the grave"
+    }
+}

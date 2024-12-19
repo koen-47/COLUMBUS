@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The letters spell \"AGAINST\" from top to bottom. The letter \"T\" is above \"AGAINST\", so the rebus represents \"T AGAINST\". This can be interpreted as **(D) up against**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tell against (B) turn against (C) pit against (D) up against",
+    "answer": {
+        "D": "up against"
+    }
+}

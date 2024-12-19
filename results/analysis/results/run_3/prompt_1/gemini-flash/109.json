@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) **in the post**.\n\nThe image depicts an envelope (representing mail) with arrows indicating movement both towards and away from it. This visual representation conveys the idea that something is \"in the post\"\u2014that is, in the process of being mailed or delivered.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the post (B) be left at the post (C) near post (D) far post",
+    "answer": {
+        "B": "be left at the post"
+    }
+}

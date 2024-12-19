@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle \"BUC DROP KET\" is solved by sounding it out and combining the words present.\n\n* \"BUC\" sounds like \"buck\"\n* \"DROP\" is the word \"drop\"\n* \"KET\" sounds like \"kit\"\n\nBuck drop kit doesn't make sense.  However, if we combine \"buck\" and \"ket\" to make \"bucket\" we get BUCKET DROP. Changing the word order slightly makes **(B) drop in the bucket**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bucket down (B) drop in the bucket (C) kick the bucket (D) drop in the pond",
+    "answer": {
+        "B": "drop in the bucket"
+    }
+}

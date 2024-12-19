@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) run out the clock.\n\nThe image shows a person running (represented by the \ud83c\udfc3 icon) towards a clock (represented by the \ud83d\udd5b icon) which is enclosed in a box.  This visually represents the idiom \"run out the clock,\" where a team in a game tries to use up the remaining time on the clock to prevent their opponent from scoring.  The other options don't fit the visual representation as well.\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83c\udfc3, repeat: 1, icon: (run: \ud83c\udfc3))\nNode 2 attributes: (text: \ud83d\udd5b, repeat: 1, icon: (clock: \ud83d\udd5b))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) run the clock down (B) run out the clock (C) run down the clock (D) beat the clock",
+    "answer": {
+        "B": "run out the clock"
+    }
+}

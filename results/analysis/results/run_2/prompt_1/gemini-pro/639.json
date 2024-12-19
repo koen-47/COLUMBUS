@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts \"FLY\" over \"WALL\", which represents the idiom \"fly on the wall\" (A). This idiom refers to being an unnoticed observer of a situation.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly on the wall (B) fly in the face of (C) fly by (D) fly off",
+    "answer": {
+        "A": "fly on the wall"
+    }
+}

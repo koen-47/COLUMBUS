@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"look look,\" which is closest to **(A) look here**.  It's a way of drawing attention, similar to saying \"look here.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) look here (B) look out (C) look into (D) look to",
+    "answer": {
+        "D": "look to"
+    }
+}

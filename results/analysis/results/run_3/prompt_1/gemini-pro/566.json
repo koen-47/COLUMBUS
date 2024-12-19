@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"done done done done,\" which implies emphasis and finality. The closest option in meaning is (C) done deal, which signifies an agreement or decision that is final and cannot be changed.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) done in (B) done for (C) done deal (D) well done",
+    "answer": {
+        "B": "done for"
+    }
+}

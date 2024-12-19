@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) tamp down.\n\nThe letters T A M P are stacked vertically, suggesting the word \"tamp\".  The image implies the action of pressing something down, hence \"tamp down\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put down (B) tamp down (C) do down (D) duck down",
+    "answer": {
+        "B": "tamp down"
+    }
+}

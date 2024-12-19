@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows two people running with the word \"BREAK\" in between them. This represents \"a break between runs\".  However, it can also mean to separate a word into parts or between. So, here the word is broken between the two running person. Hence, the rebus represents **(A) break into a run**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break into a run (B) take a run at (C) run off (D) run with",
+    "answer": {
+        "A": "break into a run"
+    }
+}

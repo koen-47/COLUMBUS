@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) small price to pay.\n\nThe image shows two \"PAY\" stacked vertically, with a small icon representing money between them.  This visually represents the idea of paying a small amount twice, suggesting that it is a small price to pay.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small fortune (B) price is right (C) small price to pay (D) smallholders",
+    "answer": {
+        "C": "small price to pay"
+    }
+}

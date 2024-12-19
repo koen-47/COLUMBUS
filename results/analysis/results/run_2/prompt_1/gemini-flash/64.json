@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) bent out of shape.  The image shows the word \"bent\" outside of a box labeled \"shape,\" visually representing the phrase.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of shape (B) bent on (C) bent out of shape (D) get bent",
+    "answer": {
+        "C": "bent out of shape"
+    }
+}

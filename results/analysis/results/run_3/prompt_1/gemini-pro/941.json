@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows \"2 + 2 = 2\".  So the idiom it is conveying is **(D) put two and two together**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eat for two (B) turn two (C) two for two (D) put two and two together",
+    "answer": {
+        "C": "two for two"
+    }
+}

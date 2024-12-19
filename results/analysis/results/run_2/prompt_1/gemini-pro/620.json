@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts a rebus puzzle. \"FALL\" is over \"1111 FACE\".  The ones resemble lines. Therefore, the puzzle is conveying \"FALL on one's FACE.\"\n\nSo the answer is (B).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall over (B) fall on one's face (C) fall on someone's neck (D) fall around",
+    "answer": {
+        "B": "fall on one's face"
+    }
+}

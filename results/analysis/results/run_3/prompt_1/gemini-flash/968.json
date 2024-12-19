@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) take a walk.\n\nThe image shows the word \"PAWALKRK\".  If you rearrange the letters, you get \"TAKE A WALK\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) walk in the park (B) in a walk (C) take a walk (D) knock out the park",
+    "answer": {
+        "A": "walk in the park"
+    }
+}

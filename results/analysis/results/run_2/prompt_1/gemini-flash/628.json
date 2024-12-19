@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(D) fight fire with fire**.\n\nThe image shows the word \"ANFIREGER\", which is a rearrangement of the words \"ANGER FIRE\".  \"Fight fire with fire\" is an idiom that means to combat an attack with a similarly aggressive counterattack.  The wordplay in the image reflects this concept.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) escape fire (B) draw fire (C) fire in anger (D) fight fire with fire",
+    "answer": {
+        "C": "fire in anger"
+    }
+}

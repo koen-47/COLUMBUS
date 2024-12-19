@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) \"stick it to\".  The word \"IT\" appears twice, stacked vertically, as if something is being stuck to it.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stick to (B) stick it to the man (C) put it to (D) stick it to",
+    "answer": {
+        "D": "stick it to"
+    }
+}

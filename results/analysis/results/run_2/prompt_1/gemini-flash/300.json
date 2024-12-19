@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (A) come into the world.\n\nThe image shows the word \"WOCOMERLD,\" which is a jumbled version of \"WELCOME TO THE WORLD\".  Therefore, the closest option is \"come into the world.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) come down to earth (D) come to life",
+    "answer": {
+        "A": "come into the world"
+    }
+}

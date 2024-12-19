@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle with the image of two guns suggests the phrase \"big guns.\" Therefore, the correct answer is (B) the big guns.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) guns blazing (B) the big guns (C) big shot (D) big gun",
+    "answer": {
+        "B": "the big guns"
+    }
+}

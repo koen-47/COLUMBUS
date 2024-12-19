@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The best answer is **(D) nighttime**.\n\nThe image shows a city skyline at night, with a moon and stars visible.  The arrows suggest a period of time, and \"nighttime\" encompasses the entire duration of the night.  The other options are too specific or imply certain activities.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bank night (B) middle of the night (C) night out (D) nighttime",
+    "answer": {
+        "B": "middle of the night"
+    }
+}

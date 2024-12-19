@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"STINK\" over \"ICE\". Therefore, the answer is (C) stink on ice.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on ice (B) ice cool (C) stink on ice (D) on thin ice",
+    "answer": {
+        "C": "stink on ice"
+    }
+}

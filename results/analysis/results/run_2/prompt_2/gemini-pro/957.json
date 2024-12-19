@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) up to one's ears.\n\nThe puzzle shows \"UP\" over \"1111 EAR\".  \"1111\" can be read as \"four ones,\" which sounds like \"for.\"  So, \"UP\" over \"four ones EAR\" translates to \"up to one's ears.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) prick up ears (B) ear to the ground (C) up on one's ear (D) up to one's ears",
+    "answer": {
+        "C": "up on one's ear"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts (D) hand over hand.  The top hand is placed above a line, while the bottom hand is below, suggesting the movement of one hand followed by the other in a climbing or pulling motion.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over fist (B) hand over (C) hand in hand (D) hand over hand",
+    "answer": {
+        "A": "hand over fist"
+    }
+}

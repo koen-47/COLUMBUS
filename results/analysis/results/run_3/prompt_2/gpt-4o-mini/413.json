@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the number \"2\" followed by the phrase \"TAKE UP.\" This can be interpreted as \"two take up,\" which sounds like \"to take up.\" \n\nThe correct answer is (C) cross to take up.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross out (C) cross to take up (D) cross off",
+    "answer": {
+        "C": "cross to take up"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) rain on one's parade.  The phrase means to spoil someone's plans or fun.  The image visually represents \"rain\" happening \"on\" a \"parade.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make it rain (B) rain on one's parade (C) parade passed someone by (D) rain check",
+    "answer": {
+        "B": "rain on one's parade"
+    }
+}

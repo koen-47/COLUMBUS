@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(D) handover**.\n\nThe word \"REVO\" is presented.  If you reverse it, you get \"OVER\".  This implies a \"hand over\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) leftover (B) stopover (C) holdovers (D) handover",
+    "answer": {
+        "A": "leftover"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(D) tongue in cheek**.  The letters are spaced to read \"CH TONGUE EEK\". \"CH\" is meant to sound like \"cheek\", making the whole thing sound like \"cheek tongue cheek,\" a slightly misspelled \"tongue in cheek.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bite tongue (B) hold tongue (C) turn the other cheek (D) tongue in cheek",
+    "answer": {
+        "D": "tongue in cheek"
+    }
+}

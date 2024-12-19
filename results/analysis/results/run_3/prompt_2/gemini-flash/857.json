@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(D) with one's head held high**.\n\nHere's why:\n\nThe rebus shows \"STAND\" over a line, below which is \"1111 HEAD\".  The \"1111\" represents \"one one one one,\" or \"one's\". Therefore, the image represents \"stand on one's head\", but implies the opposite, which is to stand with one's head held high.  The options A, B, and C are incorrect because they don't capture this nuance.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold one's head high (B) keep one's head (C) stand on one's head (D) with one's head held high",
+    "answer": {
+        "C": "stand on one's head"
+    }
+}

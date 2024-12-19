@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **punch below one's weight**.\n\nThe image shows \"PUNCH\" over a line, and below the line is \"1111 WEIGHT\".  This visually represents punching less than one's weight (1111 being less than the implied weight).\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) punch above one's weight (B) throw one's weight behind (C) hit below one's weight (D) punch below one's weight",
+    "answer": {
+        "A": "punch above one's weight"
+    }
+}

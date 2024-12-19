@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows \"1111\" with arrows pointing up and down, along with an image of a rope. \n\nThe \"1111\" can be interpreted as \"jump\" (since it looks like a series of jumps), and the rope represents \"rope.\" \n\nPutting it together, the phrase conveyed is \"jump rope.\"\n\nSo, the correct answer is (C) jump rope.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skip rope (B) give someone enough rope (C) jump rope (D) end of one's rope",
+    "answer": {
+        "D": "end of one's rope"
+    }
+}

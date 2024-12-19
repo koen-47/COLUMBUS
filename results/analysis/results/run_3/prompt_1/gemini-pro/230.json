@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(A) grapevine**.  It's a simple, literal depiction of the word with an image representing a climbing tool (carabiner) used on grapevines or other climbing activities.  It's not referring to the idiom about rumors.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grapevine (B) grapevines (C) hear on the grapevine (D) hear through the grapevine",
+    "answer": {
+        "C": "hear on the grapevine"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) from start to finish**.\n\nThe arrows visually represent the start and the finish, while \"BEGINNING\" is a word associated with the start of something.  Together, they convey the idea of going from the beginning to the end.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) from beginning to end (B) starting point (C) from start to finish (D) begin at the beginning",
+    "answer": {
+        "D": "begin at the beginning"
+    }
+}

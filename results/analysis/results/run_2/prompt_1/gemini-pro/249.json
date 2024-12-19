@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts \"COME\" with a down arrow pointing to \"US\" repeated twice. This visually represents \"Come down to us\".\n\nSo the answer is (C).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down to (B) come down with (C) come down to us (D) come down",
+    "answer": {
+        "C": "come down to us"
+    }
+}

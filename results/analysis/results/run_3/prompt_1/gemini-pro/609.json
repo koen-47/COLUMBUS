@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"an eye for an eye\" (D), as the words \"EYE,\" \"AN,\" and \"I\" are arranged spatially to mimic the phrase's structure.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one in the eye for (B) have an eye for (C) see eye to eye (D) eye for an eye",
+    "answer": {
+        "D": "eye for an eye"
+    }
+}

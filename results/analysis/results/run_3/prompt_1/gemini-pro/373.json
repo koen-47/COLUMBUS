@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (A) deer in the headlights. It's a visual pun, combining \"head\" + \"deer\" + \"lights\" to create the phrase.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) deer in the headlights (B) deerskins (C) headlights (D) deerstalkers",
+    "answer": {
+        "A": "deer in the headlights"
+    }
+}

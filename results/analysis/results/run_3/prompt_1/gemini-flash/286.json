@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) hunker down.  The image shows the letters H, U, N, K, E, R, which when read vertically spell out the phrase \"HUNKER\".  \"Hunker down\" is a common idiom.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hunchback (B) hurler on the ditch (C) hunker down (D) face down",
+    "answer": {
+        "C": "hunker down"
+    }
+}

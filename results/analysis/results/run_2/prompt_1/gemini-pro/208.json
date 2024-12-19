@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(A) chum in the water**.\n\n\"Chum\" is fish or other bait used to attract larger fish.  The image shows the word \"CHUM\" with icons that represent waves and chopped-up fish being thrown into the water.  This clearly illustrates the concept of \"chum in the water\". The other options are not related to the image.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chum in the water (B) straight out of the chute (C) out of the chute (D) chum up",
+    "answer": {
+        "A": "chum in the water"
+    }
+}

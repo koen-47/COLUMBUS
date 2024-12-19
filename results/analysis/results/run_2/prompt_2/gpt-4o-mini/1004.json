@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"writing on the wall.\" The word \"writing\" is clearly visible, and the horizontal line below it can represent \"on the wall.\" Therefore, the correct answer is (B) writing on the wall.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) handwriting on the wall (B) writing on the wall (C) handwriting (D) piece of writing",
+    "answer": {
+        "B": "writing on the wall"
+    }
+}

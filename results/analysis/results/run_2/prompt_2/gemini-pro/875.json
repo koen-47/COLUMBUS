@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle is \"Step up to the plate.\"\n\nThe word \"PETS\" is written vertically.  The number \"2\" represents \"to\".  The image of the plate with fork and knife represents the phrase \"the plate.\"\n\nTherefore, the rebus puzzle reads \"PETS 2 plate,\" which phonetically sounds like \"Step up to the plate.\"  The answer is (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step down (B) step up your game (C) step up (D) step up to the plate",
+    "answer": {
+        "D": "step up to the plate"
+    }
+}

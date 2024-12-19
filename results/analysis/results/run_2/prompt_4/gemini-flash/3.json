@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) a bird in the hand.\n\nThe rebus shows the word \"HABIRDND\".  \"BIRD\" is inside \"HAND\".  This visually represents \"a bird in the hand\".\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BIRD, repeat: 1)\nNode 2 attributes: (text: HAND, repeat: 1)\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bird in the bosom (B) a bird in the hand is worth two in the bush (C) early bird (D) a bird in the hand",
+    "answer": {
+        "D": "a bird in the hand"
+    }
+}

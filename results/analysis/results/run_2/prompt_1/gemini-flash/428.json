@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) set in one's ways.\n\nThe image shows \"1111SETWAYS\".  The four 1s represent \"one's\" and the rest forms the phrase \"set ways\".  Therefore, the complete phrase is \"set in one's ways\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in ways (B) mend one's ways (C) set in one's ways (D) make one's way",
+    "answer": {
+        "C": "set in one's ways"
+    }
+}

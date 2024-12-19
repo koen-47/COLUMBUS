@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word BRING repeated twice, or \"BRING BRING\".  The image is of a high heel shoe.  Node 2's attributes state it is an icon of a heel. Node 1's sound attribute of (to: 2) means that the sound of \"bring\" is connected to the second node. The \"2\" in \"sound: (to: 2)\" refers to node 2. So we have \"bring bring\" (sound of to) \"heel\". This sounds like \"bring to heel\".\n\nTherefore, the answer is (A).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BRING, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: \ud83d\udc60, repeat: 1, icon: (heel: \ud83d\udc60))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bring to heel (B) Achilles heel (C) turn on one's heel (D) down at heel",
+    "answer": {
+        "A": "bring to heel"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) big fish in a small pond.\n\nThe image shows a fish with \"PO\" on the left and \"ND\" on the right.  This creates the phrase \"pond\" around the fish. The large fish in the small pond conveys the meaning of the idiom.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a fish out of water (B) bigger fish to fry (C) big fish in a small pond (D) big fish",
+    "answer": {
+        "C": "big fish in a small pond"
+    }
+}

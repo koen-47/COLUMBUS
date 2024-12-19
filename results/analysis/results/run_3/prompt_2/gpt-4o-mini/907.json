@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"the big house on the hill.\" The image shows a house (representing \"house\") and a hill (indicated by the line below). Therefore, the correct answer is (D) the big house on the hill.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) over the hill (B) king of the hill (C) hill to die on (D) the big house on the hill",
+    "answer": {
+        "D": "the big house on the hill"
+    }
+}

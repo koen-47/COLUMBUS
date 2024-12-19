@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **run out the clock**.\n\nThe image depicts a person running towards a clock, suggesting the act of trying to use up the remaining time.  \"Run out the clock\" is the idiom that best describes this action.  The other options are grammatically incorrect or don't capture the intended meaning as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run the clock down (B) run out the clock (C) run down the clock (D) beat the clock",
+    "answer": {
+        "B": "run out the clock"
+    }
+}

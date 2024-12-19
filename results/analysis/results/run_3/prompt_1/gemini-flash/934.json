@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) turn on one's heel.\n\nThe image presents a visual puzzle.  \"TURN\" is above a line, and below the line is \"1111 HEEL\".  The \"1111\" represents \"ON\" (one one one one).  Therefore, the complete phrase is \"TURN ON ONE'S HEEL\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick one's heels (B) bring to heel (C) kick up one's heels (D) turn on one's heel",
+    "answer": {
+        "D": "turn on one's heel"
+    }
+}

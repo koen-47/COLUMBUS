@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) back to square one.\n\nThe image shows the word \"SQUARE\" and the number \"1\".  The phrase \"back to square one\" refers to returning to the starting point of a task or process, often after a setback.  The visual representation of \"SQUARE 1\" directly conveys this meaning.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) square on (B) square one (C) back to square one (D) start at square one",
+    "answer": {
+        "B": "square one"
+    }
+}

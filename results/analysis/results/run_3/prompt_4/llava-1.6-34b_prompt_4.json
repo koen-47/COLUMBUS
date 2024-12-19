@@ -8371,25 +8371,6 @@
       },
       {
          "options": {
-            "A": "edge of the earth",
-            "B": "move heaven and earth",
-            "C": "run to earth",
-            "D": "go to the ends of the earth"
-         },
-         "correct": {
-            "D": "go to the ends of the earth"
-         },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\cluster\\data/images\\go_to_the_ends_of_the_earth_1_non-icon.png",
-         "metadata": {
-            "nodes": "Node 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: EARTH, repeat: 1, highlight: after)\n",
-            "nodes_and_edges": "Node 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: EARTH, repeat: 1, highlight: after)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n"
-         },
-         "prompt": "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\nYou are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: EARTH, repeat: 1, highlight: after)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) edge of the earth (B) move heaven and earth (C) run to earth (D) go to the ends of the earth\n<|im_end|><|im_start|>assistant\n",
-         "output": "D",
-         "raw_output": "D"
-      },
-      {
-         "options": {
             "A": "drive up the wall",
             "B": "back to the wall",
             "C": "go to the wall",
@@ -10765,25 +10746,6 @@
       },
       {
          "options": {
-            "A": "chipboard",
-            "B": "microchips",
-            "C": "chip in",
-            "D": "hardware"
-         },
-         "correct": {
-            "B": "microchips"
-         },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\cluster\\data/images\\microchips_1.png",
-         "metadata": {
-            "nodes": "Node 1 attributes: (text: MICROCHIPS, repeat: 1)\n",
-            "nodes_and_edges": "Node 1 attributes: (text: MICROCHIPS, repeat: 1)\n"
-         },
-         "prompt": "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\nYou are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: MICROCHIPS, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) chipboard (B) microchips (C) chip in (D) hardware\n<|im_end|><|im_start|>assistant\n",
-         "output": "B) microchips",
-         "raw_output": "The image shows the word \"MICROCHIP\" repeated, which is not a word or phrase in itself. However, the description provided suggests that the word \"MICROCHIP\" is the answer. The description refers to \"Node 1 attributes\" and \"repeat: 1,\" which implies that the word \"MICROCHIP\" is the correct answer.\n\nTherefore, the correct answer is:\n(B) microchips"
-      },
-      {
-         "options": {
             "A": "microchips",
             "B": "chip in",
             "C": "hardware",
@@ -11180,25 +11142,6 @@
          "prompt": "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\nYou are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: ROAD, repeat: 1, highlight: middle)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) high road (B) roadside (C) low road (D) middle of the road\n<|im_end|><|im_start|>assistant\n",
          "output": "D",
          "raw_output": "D"
-      },
-      {
-         "options": {
-            "A": "midgame",
-            "B": "midpoint",
-            "C": "midline",
-            "D": "midwatch"
-         },
-         "correct": {
-            "A": "midgame"
-         },
-         "image": "C:\\Users\\koenk\\PycharmProjects\\COLUMBUS\\cluster\\data/images\\midgame_1.png",
-         "metadata": {
-            "nodes": "Node 1 attributes: (text: MIDGAME, repeat: 1)\n",
-            "nodes_and_edges": "Node 1 attributes: (text: MIDGAME, repeat: 1)\n"
-         },
-         "prompt": "<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\nYou are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: MIDGAME, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) midgame (B) midpoint (C) midline (D) midwatch\n<|im_end|><|im_start|>assistant\n",
-         "output": "A) midgame",
-         "raw_output": "(A) midgame"
       },
       {
          "options": {

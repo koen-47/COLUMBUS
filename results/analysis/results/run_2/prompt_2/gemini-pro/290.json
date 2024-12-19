@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"JET\" by itself. This is the simplest form and represents the word itself.  Therefore the answer is **(C) jet set**.\nThe other options are all related to jets, but the image doesn't give clues about size (jumbo), multiple jets (jetliners), or a person traveling (jet-setter).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) jumbo jet (B) jetliners (C) jet set (D) jet-setter",
+    "answer": {
+        "A": "jumbo jet"
+    }
+}

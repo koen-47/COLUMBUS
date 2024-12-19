@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"up\" and \"down\" arrows surrounding \"1111\", then a clock.  This translates to \"up and down around four 'ones'\" plus \"time\".  So, the answer is (C) before one's time.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's eyes (B) before someone's time (C) before one's time (D) time after time",
+    "answer": {
+        "C": "before one's time"
+    }
+}

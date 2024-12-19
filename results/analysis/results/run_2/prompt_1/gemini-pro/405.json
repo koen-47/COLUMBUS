@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) set the world on fire.  The horizontal line separates \"SET WORLD\" from \"FIRE,\" suggesting the phrase \"set the world on fire.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on fire (B) put out a fire (C) play with fire (D) set the world on fire",
+    "answer": {
+        "D": "set the world on fire"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"to a fault,\" which means excessively.  The doubling of the word \"FAULT\" emphasizes the meaning of excessiveness. Thus, the answer is (C).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blame game (B) faultfinding (C) to a fault (D) find fault",
+    "answer": {
+        "C": "to a fault"
+    }
+}

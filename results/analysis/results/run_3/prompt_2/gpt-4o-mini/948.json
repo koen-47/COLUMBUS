@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows multiple upward arrows, which suggests the idea of \"up.\" The correct phrase that conveys this is (A) up for.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up for (B) all up (C) do up (D) up on",
+    "answer": {
+        "A": "up for"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows \"AS\" repeated four times. This represents **(A) as to**.  It's a visual pun, playing on the similar sounds of \"as\" and \"to\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) as to (B) as in (C) as for (D) as of",
+    "answer": {
+        "C": "as for"
+    }
+}

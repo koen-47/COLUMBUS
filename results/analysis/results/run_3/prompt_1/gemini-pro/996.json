@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (C) why on earth.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) why in the world (B) hell on earth (C) why on earth (D) why in time",
+    "answer": {
+        "C": "why on earth"
+    }
+}

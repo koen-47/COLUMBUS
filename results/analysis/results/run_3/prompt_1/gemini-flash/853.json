@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(A) stall for time**.\n\nThe image shows the word \"STALL\" repeated multiple times, next to a clock.  This visually represents the act of delaying or prolonging something (stalling) to buy time.  The clock emphasizes the time element.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stall for time (B) lockout (C) pressed for time (D) waiting time",
+    "answer": {
+        "A": "stall for time"
+    }
+}

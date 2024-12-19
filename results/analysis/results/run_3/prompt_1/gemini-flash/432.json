@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) skeleton in the closet.  The image shows the word \"CUPBOARD\" with the \"B\" replaced by a skull.  This visually represents a \"skeleton in the cupboard\" (or the more common American English equivalent, \"skeleton in the closet\").",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cupboard love (B) skeleton in the cupboard (C) cupboard (D) skeleton in the closet",
+    "answer": {
+        "B": "skeleton in the cupboard"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"CHANGE\" is in the bottom right corner.  Since there are no other visual cues, the rebus is simply \"CHANGE\".\n\nNone of the multiple choice options use just the word \"change\" by itself. However, if I had to pick the closest option, it would be (C) \"change over,\" since the word is positioned as though it might be \"changing over\" from one position to another (though not actually doing so in a static image).\n\nHowever, if the puzzle was simply requiring the identification of the word present, the answer would just be \"change.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for a change (B) small change (C) change over (D) loose change",
+    "answer": {
+        "B": "small change"
+    }
+}

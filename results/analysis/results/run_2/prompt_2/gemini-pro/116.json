@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) behind someone's back.\n\nThe word \"CHINAMAN\" is over \"1111 BACK\".  This represents \"Chinaman on one's back,\" which is another way of saying, \"behind someone's back.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) Chinaman's chance (B) Chinese puzzle (C) chinaman on one's back (D) behind someone's back",
+    "answer": {
+        "C": "chinaman on one's back"
+    }
+}

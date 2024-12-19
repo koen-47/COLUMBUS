@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"FLAT\" above the word \"BACK,\" with \"1111\" underneath. This suggests the phrase \"flat on one's back,\" as \"FLAT\" is directly above \"BACK,\" and the \"1111\" could represent something being flat or level. \n\nSo, the answer is (B) flat on one's back.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) flatbed (B) flat on one's back (C) knock someone flat (D) flat out",
+    "answer": {
+        "B": "flat on one's back"
+    }
+}

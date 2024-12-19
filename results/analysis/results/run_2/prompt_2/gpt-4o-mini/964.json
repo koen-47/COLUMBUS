@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"VOUCH\" repeated multiple times. This suggests the phrase \"vouch for.\" \n\nThe correct answer is (A) vouch for.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) vouch for (B) for the love of (C) what for (D) make for",
+    "answer": {
+        "A": "vouch for"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two guns, suggesting the phrase **(B) the big guns**.  This idiom refers to important or influential people, often those with power or authority.  While the other options relate to guns or powerful people, this is the best fit for the visual representation of two guns.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) guns blazing (B) the big guns (C) big shot (D) big gun",
+    "answer": {
+        "B": "the big guns"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The words in the image form the phrase \"gavel to order\" when read in sequence: GAVEL [TO] ORDER. So the answer is (D).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in order (B) out of order (C) buy to let (D) gavel to order",
+    "answer": {
+        "D": "gavel to order"
+    }
+}

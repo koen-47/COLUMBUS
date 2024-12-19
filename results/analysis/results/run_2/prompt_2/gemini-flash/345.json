@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(D) cross my heart**.\n\nThe rebus shows the number 1111 crossed out with a line, next to a heart.  This visually represents \"crossing out\" the number \"one one one one\" (or four ones) and replacing it with a heart, hence \"cross my heart\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross one's heart (B) cross my heart and hope to die (C) have one's heart in (D) cross my heart",
+    "answer": {
+        "A": "cross one's heart"
+    }
+}

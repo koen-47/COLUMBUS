@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) stopwatch.\n\nThe image shows a wristwatch with arrows pointing up and down, suggesting the action of starting and stopping time.  This is the functionality of a stopwatch.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midgame (B) midwatch (C) stopwatch (D) deathwatch",
+    "answer": {
+        "B": "midwatch"
+    }
+}

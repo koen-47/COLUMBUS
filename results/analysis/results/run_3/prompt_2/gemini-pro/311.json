@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"CHILL\" twice, with the word \"BONE\" to the right of the lower \"CHILL\".  This represents the phrase \"Chill to the bone\" (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chill pill (B) to the bone (C) chill to the bone (D) chill to the marrow",
+    "answer": {
+        "C": "chill to the bone"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) time after time.\n\nThe word \"TI\" is at the beginning and the word \"ME\" is at the end of the phrase \"TIWHYME\".  If you remove the \"TI\" and the \"ME\" from this phrase you are left with \"WHY\". This rebus uses word placement to create the phrase \"Time after time\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what in time (B) why in the world (C) why in time (D) time after time",
+    "answer": {
+        "C": "why in time"
+    }
+}

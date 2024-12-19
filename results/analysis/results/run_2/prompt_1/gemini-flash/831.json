@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) set the world on fire.\n\nThe image shows the word \"SET\" next to an image of the world, with a flame underneath, visually representing the idiom \"set the world on fire\".  This idiom means to achieve great success and be incredibly popular.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put out a fire (B) on fire (C) play with fire (D) set the world on fire",
+    "answer": {
+        "D": "set the world on fire"
+    }
+}

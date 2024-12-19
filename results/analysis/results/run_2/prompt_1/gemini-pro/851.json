@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (B) square one.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start at square one (B) square one (C) square on (D) back to square one",
+    "answer": {
+        "B": "square one"
+    }
+}

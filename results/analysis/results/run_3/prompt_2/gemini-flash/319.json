@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) meat on one's bones.\n\nThe rebus shows \"MEAT\" over \"1111 BONES\".  The number \"1111\" is read as \"one one one one\", or \"one's\".  Therefore, the phrase is \"meat on one's bones\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chew the meat and spit out the bones (B) meat on the bones (C) meat on one's bones (D) in one's bones",
+    "answer": {
+        "C": "meat on one's bones"
+    }
+}

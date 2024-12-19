@@ -8314,25 +8314,6 @@
       },
       {
          "options": {
-            "A": "go to the ends of the earth",
-            "B": "run to earth",
-            "C": "edge of the earth",
-            "D": "move heaven and earth"
-         },
-         "correct": {
-            "A": "go to the ends of the earth"
-         },
-         "image": "/var/scratch/hkd800/scripts/data/images/go_to_the_ends_of_the_earth_1_non-icon.png",
-         "metadata": {
-            "nodes": "Node 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: EARTH, repeat: 1, highlight: after)\n",
-            "nodes_and_edges": "Node 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: EARTH, repeat: 1, highlight: after)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n"
-         },
-         "prompt": "You are given a description of a graph that is used to convey a word or phrase. It needs to be solved through creative thinking. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: EARTH, repeat: 1, highlight: after)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) go to the ends of the earth (B) run to earth (C) edge of the earth (D) move heaven and earth",
-         "output": "A) go to the ends of the earth",
-         "raw_output": "<s> [INST] You are given a description of a graph that is used to convey a word or phrase. It needs to be solved through creative thinking. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: EARTH, repeat: 1, highlight: after)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) go to the ends of the earth (B) run to earth (C) edge of the earth (D) move heaven and earth [/INST] Based on the given node attributes, the description seems to convey the phrase \"go to great lengths\" or \"go the extra mile.\" However, none of the given options directly correspond to this phrase.\n\nThe repetition of the text \"GO\" (twice) could represent the idea of going multiple times or going strongly, and the \"sound: (to: 2)\" attribute may suggest an echo effect, reinforcing the idea of repeating an action. The second node with"
-      },
-      {
-         "options": {
             "A": "go to the wall",
             "B": "back to the wall",
             "C": "up the wall",
@@ -10765,25 +10746,6 @@
       },
       {
          "options": {
-            "A": "hardware",
-            "B": "microchips",
-            "C": "chipboard",
-            "D": "chip in"
-         },
-         "correct": {
-            "B": "microchips"
-         },
-         "image": "/var/scratch/hkd800/scripts/data/images/microchips_1.png",
-         "metadata": {
-            "nodes": "Node 1 attributes: (text: MICROCHIPS, repeat: 1)\n",
-            "nodes_and_edges": "Node 1 attributes: (text: MICROCHIPS, repeat: 1)\n"
-         },
-         "prompt": "You are given a description of a graph that is used to convey a word or phrase. It needs to be solved through creative thinking. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MICROCHIPS, repeat: 1)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) hardware (B) microchips (C) chipboard (D) chip in",
-         "output": "B) microchips",
-         "raw_output": "<s> [INST] You are given a description of a graph that is used to convey a word or phrase. It needs to be solved through creative thinking. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MICROCHIPS, repeat: 1)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) hardware (B) microchips (C) chipboard (D) chip in [/INST] Based on the given description, the word or phrase conveyed is (B) microchips. The reason is that the description explicitly states that Node 1 has the text \"MICROCHIPS\" and the repeat attribute set to 1, which suggests that microchips are the intended meaning.</s>"
-      },
-      {
-         "options": {
             "A": "chipboard",
             "B": "hardware",
             "C": "chip in",
@@ -11218,25 +11180,6 @@
          "prompt": "You are given a description of a graph that is used to convey a word or phrase. It needs to be solved through creative thinking. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MAN, repeat: 2, highlight: middle)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) midshipmen (B) middleman (C) middlemen (D) middlebrows",
          "output": "B) middleman",
          "raw_output": "<s> [INST] You are given a description of a graph that is used to convey a word or phrase. It needs to be solved through creative thinking. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MAN, repeat: 2, highlight: middle)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) midshipmen (B) middleman (C) middlemen (D) middlebrows [/INST] Based on the given description, it seems that the word or phrase conveyed involves the concept of something being in the middle or mid-position. Therefore, among the given options, the word that best fits is (B) middleman or (C) middlemen.\n\nThe reason is that the description mentions the text \"MAN\" being repeated twice and highlighted in the middle. This could represent two people or entities in a middle position as mediators or intermediaries, which is the"
-      },
-      {
-         "options": {
-            "A": "midline",
-            "B": "midwatch",
-            "C": "midpoint",
-            "D": "midgame"
-         },
-         "correct": {
-            "D": "midgame"
-         },
-         "image": "/var/scratch/hkd800/scripts/data/images/midgame_1.png",
-         "metadata": {
-            "nodes": "Node 1 attributes: (text: MIDGAME, repeat: 1)\n",
-            "nodes_and_edges": "Node 1 attributes: (text: MIDGAME, repeat: 1)\n"
-         },
-         "prompt": "You are given a description of a graph that is used to convey a word or phrase. It needs to be solved through creative thinking. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MIDGAME, repeat: 1)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) midline (B) midwatch (C) midpoint (D) midgame",
-         "output": "D) midgame",
-         "raw_output": "<s> [INST] You are given a description of a graph that is used to convey a word or phrase. It needs to be solved through creative thinking. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MIDGAME, repeat: 1)\n\nWhich word/phrase is conveyed in this description from the following options (either A, B, C, or D)?\n(A) midline (B) midwatch (C) midpoint (D) midgame [/INST] The description \"Node 1 attributes: (text: MIDGAME, repeat: 1)\" clearly conveys the word or phrase \"midgame.\" Therefore, the answer is (D) midgame.</s>"
       },
       {
          "options": {

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the number 2 with a line through it, the word \"TAKE\", and an upward arrow. This combination conveys the idea of taking something *off* a list or removing it.\n\nThe corresponding phrase is (D) cross off.  \"Cross out\" usually refers to striking through something to indicate it's incorrect or should be disregarded.  While similar, \"cross off\" specifically implies removing something from a list or schedule.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross out (D) cross off",
+    "answer": {
+        "B": "cross to take up"
+    }
+}

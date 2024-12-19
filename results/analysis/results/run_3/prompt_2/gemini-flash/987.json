@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **what in time**.\n\nThe image shows the word \"WHAT\" with a clock symbol on either side.  This visually represents the phrase \"what in time\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) why in time (B) what in time (C) matter of time (D) time after time",
+    "answer": {
+        "B": "what in time"
+    }
+}

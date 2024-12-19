@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents **(D) miss the boat**.\n\nThe image shows two boats with a face in between them. The face is \"missing\" being on either boat.  This visually represents \"missing the boat.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) push the boat out (B) boy in the boat (C) turn the boat (D) miss the boat",
+    "answer": {
+        "B": "boy in the boat"
+    }
+}

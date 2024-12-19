@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The best answer is **(B) woman on the street**.\n\nThe image shows a simple graphic of a woman's face above the word \"STREET\".  This directly represents a woman on a street.  The other options don't fit as well:\n\n* **(A) woman among women:**  The image doesn't show multiple women.\n* **(C) man on the street:** The image shows a woman.\n* **(D) outdoorswoman:** While a woman is shown outdoors, the image doesn't necessarily convey the *activity* of an outdoorswoman.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) woman among women (B) woman on the street (C) man on the street (D) outdoorswoman",
+    "answer": {
+        "B": "woman on the street"
+    }
+}

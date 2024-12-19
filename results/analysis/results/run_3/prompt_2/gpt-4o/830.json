@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The answer is (B) set the thames on fire.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set the world on fire (B) set the thames on fire (C) cross the Thames (D) put out a fire",
+    "answer": {
+        "B": "set the thames on fire"
+    }
+}

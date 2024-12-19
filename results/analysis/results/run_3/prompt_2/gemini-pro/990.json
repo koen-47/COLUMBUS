@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The letters P I H W are arranged vertically to the left of the word STORM.  This represents \"whip\" up a storm. So the answer is (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cook up a storm (B) storm off (C) take by storm (D) whip up a storm",
+    "answer": {
+        "D": "whip up a storm"
+    }
+}

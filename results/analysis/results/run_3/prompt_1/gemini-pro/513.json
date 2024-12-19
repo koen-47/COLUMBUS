@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(C) to hell in a handbasket**.  The words are arranged to spell out \"HANDBASKET\" horizontally and \"HELL\" vertically, intersecting to form the idiom.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to hell (B) raise hell (C) to hell in a handbasket (D) handbasket",
+    "answer": {
+        "C": "to hell in a handbasket"
+    }
+}

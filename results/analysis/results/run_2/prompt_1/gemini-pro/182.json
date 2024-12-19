@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image spells \"TUBES\" vertically. This corresponds to the following phrases among the options:\n\n* **(A) down the tubes**\n* **(C) go down the tubes**\n\nBoth (A) and (C) are common idioms meaning \"to fail or become ruined.\"  Since the image simply presents the word \"TUBES\", it most directly corresponds with just **(A) down the tubes**.  While (C) is a complete sentence, the image only provides a component of that phrase.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down the tubes (B) pipe down (C) go down the tubes (D) down to the wire",
+    "answer": {
+        "A": "down the tubes"
+    }
+}

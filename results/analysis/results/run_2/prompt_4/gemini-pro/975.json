@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"walk on the wild side\" (D).\n\n* **Node 1 (\ud83d\udeb6):** Represents \"walk\" due to the walking person icon.\n* **Node 2 (WILD) and Node 3 (SIDE):** Represent \"wild side\" as they are next to each other.\n* **Edge 1 (ABOVE):** Node 1 (walk) is above the line representing \"on\".\n* **Edge 2 (NEXT-TO):**  \"WILD\" is next to \"SIDE\" creating \"wild side\".\n\nPutting it all together: walk on the wild side.",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udeb6, repeat: 1, icon: (walk: \ud83d\udeb6))\nNode 2 attributes: (text: WILD, repeat: 1)\nNode 3 attributes: (text: SIDE, repeat: 1)\nEdge 1: node 1 to node 2 (rule: ABOVE)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) go wild (B) call of the wild (C) run wild (D) walk on the wild side",
+    "answer": {
+        "D": "walk on the wild side"
+    }
+}

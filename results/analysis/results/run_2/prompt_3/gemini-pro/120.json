@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"BE\" with an up arrow before it and a down arrow after it. This visually represents \"before\" and \"after\". The highlight attribute of node 1 is \"before\", so we focus on the up arrow. The puzzle then has the word \"POST\".  Combining the \"before\" visual with \"BE\" and \"POST\" gives us \"BE FOR POST\", or \"before post.\"\n\nThe answer is (C).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BE, repeat: 1, highlight: before)\nNode 2 attributes: (text: POST, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) be left at the post (B) near post (C) in the post (D) far post",
+    "answer": {
+        "A": "be left at the post"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (C) writing on the wall.\n\nThe image depicts the word \"HANDWRITING\" above a small icon of a brick wall. This suggests writing on a wall, not necessarily done by hand.  While the top portion says \"Handwriting\", the image itself represents writing on any wall, not specifically handwriting.  \"Handwriting on the wall\" is an idiom, referring to an omen or premonition of doom. This is not directly shown in the image. \"Pen picture\" is a vivid written description, which doesn't relate to the image. \"Handwriting\" alone doesn't account for the wall icon.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) handwriting on the wall (B) handwriting (C) writing on the wall (D) pen picture",
+    "answer": {
+        "A": "handwriting on the wall"
+    }
+}

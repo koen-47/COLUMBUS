@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"EZ\" on top of \"EYES\".  \"EZ\" is a slang abbreviation for \"easy.\"  Thus, the solution is (C) easy on the eyes.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take one's eyes off (B) easy on the eye (C) easy on the eyes (D) hard on the eyes",
+    "answer": {
+        "C": "easy on the eyes"
+    }
+}

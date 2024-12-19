@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"for all the world to see\".  The word \"SEE\" is positioned to the right of the words \"ALL WORLD\", indicating that it's meant to be read after them, similar to how a footnote might be read.\n\nSo the answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not for the world (B) there for everyone to see (C) for all the world to see (D) for all the world",
+    "answer": {
+        "C": "for all the world to see"
+    }
+}

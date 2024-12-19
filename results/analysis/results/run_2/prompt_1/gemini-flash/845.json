@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) speak soon.  The image shows the words \"SPEAK\" and \"SOON\" arranged to visually represent the phrase \"Speak Soon\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak to (C) speak too soon (D) speak soon",
+    "answer": {
+        "C": "speak too soon"
+    }
+}

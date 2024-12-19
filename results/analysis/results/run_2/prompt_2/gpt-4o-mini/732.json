@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"pick one's nose.\" The word \"PICK\" is directly followed by \"NOSE,\" and the \"1111\" can be interpreted as \"one\" repeated four times, suggesting \"one's.\" Therefore, the correct answer is (D) pick one's nose.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn up one's nose (B) thumb one's nose (C) nose-pick (D) pick one's nose",
+    "answer": {
+        "D": "pick one's nose"
+    }
+}

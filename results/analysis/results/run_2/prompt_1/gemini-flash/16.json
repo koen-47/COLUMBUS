@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) arrow in the quiver.\n\nThe image shows the word \"QUIVER\" with a bow and arrow icon in the middle.  A quiver is a container for arrows. Therefore, the image visually represents \"arrow in the quiver\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) draw the long bow (B) arrowheads (C) make one's bow (D) arrow in the quiver",
+    "answer": {
+        "D": "arrow in the quiver"
+    }
+}

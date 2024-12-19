@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in the image is (C) tempest in a teapot.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) teapot (B) storm in a teacup (C) tempest in a teapot (D) chocolate teapot",
+    "answer": {
+        "C": "tempest in a teapot"
+    }
+}

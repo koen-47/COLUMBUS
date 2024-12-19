@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows \"1111\" crossed out, next to the word \"LEGS\". This visually represents crossing legs. So the answer is (C).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) open one's legs (B) have legs (C) cross one's legs (D) on one's last legs",
+    "answer": {
+        "C": "cross one's legs"
+    }
+}

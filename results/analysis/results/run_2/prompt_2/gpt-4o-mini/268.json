@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"child crossing guard.\" The first part represents \"child\" (the face) and the second part represents \"crossing guard\" (the figure in uniform). \n\nSo the answer is (D) child crossing guard.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take guard (B) child cross guard (C) love child (D) child crossing guard",
+    "answer": {
+        "B": "child cross guard"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) move heaven and earth.\n\nThe rebus shows the word \"VOM\" with an image of the Earth on either side.  \"Move\" is implied by the arrangement of the letters and images, and \"heaven and earth\" are represented by the two globes.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) move out (B) move heaven and earth (C) move up in the world (D) come into the world",
+    "answer": {
+        "C": "move up in the world"
+    }
+}

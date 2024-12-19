@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) backwoodsmen.\n\nThe image shows \"DOOW\" stacked on top of \"DOOW\".  If you read this vertically, it spells out \"BACKWOODSMEN\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backwoodsman (B) backwoods (C) softwoods (D) backwoodsmen",
+    "answer": {
+        "B": "backwoods"
+    }
+}

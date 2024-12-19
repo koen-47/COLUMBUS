@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows a person running followed by the word \"TOWN\". This represents **(D) run out**.  The man is running out of the frame, and \"out\" often pairs with the verb \"run\".  This is also reinforced by the fact that no specific action is depicted related to the town, so it makes the most sense as just a word associated with \"run out\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of town (B) out on the town (C) run off (D) run out",
+    "answer": {
+        "A": "run out of town"
+    }
+}

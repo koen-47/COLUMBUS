@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(C) take to one's heels**.\n\nThe rebus shows \"TAKE\" above \"1111\" and two heels.  \"1111\" is read as \"one one one one,\" which is homophonous to \"to one one\". The two heels are visual representation of \"heels\".  Together, the rebus represents \"take to one's heels\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick up one's heels (B) kick one's heels (C) take to one's heels (D) dig one's heels in",
+    "answer": {
+        "C": "take to one's heels"
+    }
+}

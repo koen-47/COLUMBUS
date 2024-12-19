@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"DEAL\".  While it could be part of any of the phrases, by itself, it just says \"DEAL\".  Since there are no other visual cues, none of the options are fully represented.  If you *had* to choose one, (B), (C), and (D) are all common phrases using the word \"deal\".  (A) \"good grief\" doesn't include the word \"deal\" at all.\n\nSo, technically, none of the options are directly depicted. If a choice is forced, (B), (C), or (D) are more likely possibilities than (A) depending on context.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) good grief (B) real deal (C) big deal (D) great deal",
+    "answer": {
+        "C": "big deal"
+    }
+}

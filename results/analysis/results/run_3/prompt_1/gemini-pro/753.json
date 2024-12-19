@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts \"PULL WOOL\" over a pair of eyes. This represents the idiom \"**pull the wool over someone's eyes**\" (B). This idiom means to deceive or trick someone.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dyed in the wool (B) pull the wool over eyes (C) wrap in cotton wool (D) more cry than wool",
+    "answer": {
+        "B": "pull the wool over eyes"
+    }
+}

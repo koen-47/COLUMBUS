@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows two identical images of a cresting wave, followed by \"1111 MILL\".  This represents \"two waves\" + \"one one one one mill\" = \"two waves and a mill\".\n\nSo the correct answer would be **A) water to one's mill**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) water to one's mill (B) go through the mill (C) millwork (D) trouble at mill",
+    "answer": {
+        "A": "water to one's mill"
+    }
+}

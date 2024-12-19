@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"HARD\" over a pair of eyes. This represents \"hard on the eyes\".\n\nSo the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hard on the eyes (B) easy on the eye (C) easy on the eyes (D) painful on the eyes",
+    "answer": {
+        "A": "hard on the eyes"
+    }
+}

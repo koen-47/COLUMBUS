@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) head to toe.\n\nThe rebus shows the word \"HEAD\" stacked on top of the word \"HEAD\", with the word \"TOE\" to the right.  This visually represents the phrase \"head to toe\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) toe the line (C) lose head (D) head to toe",
+    "answer": {
+        "D": "head to toe"
+    }
+}

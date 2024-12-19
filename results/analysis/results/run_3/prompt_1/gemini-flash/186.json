@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) before one's eyes**.\n\nThe image shows arrows pointing up and down around the number 1111, which is near the word \"TIME\".  This visually represents something happening rapidly or repeatedly right in front of you (\"before your eyes\").",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's time (B) before one's eyes (C) time after time (D) before someone's time",
+    "answer": {
+        "A": "before one's time"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the letters P, I, H, W arranged vertically next to the word STORM. This represents the phrase \"whip up a storm\" (D).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cook up a storm (B) storm off (C) take by storm (D) whip up a storm",
+    "answer": {
+        "D": "whip up a storm"
+    }
+}

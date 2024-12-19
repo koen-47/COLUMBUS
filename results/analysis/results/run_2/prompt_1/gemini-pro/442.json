@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image simply displays the word \"FORTUNE\".  None of the phrases are depicted.  So the closest answer would be **(B) small fortune**, as the word \"fortune\" by itself could imply an amount of money, wealth, or luck.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fortune favours the bold (B) small fortune (C) spend a fortune (D) tell fortunes",
+    "answer": {
+        "B": "small fortune"
+    }
+}

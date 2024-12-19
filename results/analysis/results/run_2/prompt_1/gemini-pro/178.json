@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows \"EB POST\".  \"EB\" likely stands for \"Eastbound\".  Therefore, the correct answer is **(B) in the post**.  It signifies something is in the mail or postal system.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) far post (B) in the post (C) be left at the post (D) near post",
+    "answer": {
+        "C": "be left at the post"
+    }
+}

@@ -1,8 +1,14 @@
+import itertools
 import json
 import glob
+import os.path
 from pathlib import Path
+import re
 
 import numpy as np
+from tqdm import tqdm
+
+from extract_model_results import make_safe_prompt
 
 
 def analyze_new_results():
@@ -30,11 +36,15 @@ def analyze_new_results():
     prompt_3_four_models_icon = np.array([47.3, 91.6, 94.4, 76.8])
 
     print("\nAnalysis of the four models from each category (Figure 5)")
-    print(f"(four models) Diff. prompt 1 vs. prompt 2 (no icon):", prompt_2_four_models.mean() - prompt_1_four_models.mean())
-    print(f"(four models) Diff. prompt 1 vs. prompt 2 (icon):", prompt_2_four_models_icon.mean() - prompt_1_four_models_icon.mean())
+    print(f"(four models) Diff. prompt 1 vs. prompt 2 (no icon):",
+          prompt_2_four_models.mean() - prompt_1_four_models.mean())
+    print(f"(four models) Diff. prompt 1 vs. prompt 2 (icon):",
+          prompt_2_four_models_icon.mean() - prompt_1_four_models_icon.mean())
 
-    print(f"(four models) Diff. prompt 2 vs. prompt 3 (no icon):", prompt_3_four_models.mean() - prompt_2_four_models.mean())
-    print(f"(four models) Diff. prompt 2 vs. prompt 3 (icon):", prompt_3_four_models_icon.mean() - prompt_2_four_models_icon.mean())
+    print(f"(four models) Diff. prompt 2 vs. prompt 3 (no icon):",
+          prompt_3_four_models.mean() - prompt_2_four_models.mean())
+    print(f"(four models) Diff. prompt 2 vs. prompt 3 (icon):",
+          prompt_3_four_models_icon.mean() - prompt_2_four_models_icon.mean())
 
     gpt4o_individual_prompt_2 = np.array([43.48, 78.95, 57.69, 72.73, 80.77, 70.0, 72.22, 86.96, 85.19, 66.67])
     gpt4o_relational_prompt_2 = np.array([84.64, 89.34, 90.72, 93.1])
@@ -96,15 +106,78 @@ def analyze_summary():
 
 
 def remove_faulty_puzzles():
-    for file in Path("../results/analysis/results").rglob("*prompt_[1-4].json"):
+    faulty_images = ["go_to_the_ends_of_the_earth_1_non-icon.png", "microchips_1.png", "midgame_1.png"]
+    for file in Path("../results/analysis/results").rglob("*clip.json"):
         if "backup" not in str(file) and "human" not in str(file) and "closed_source" not in str(file):
             with open(file, "r") as results:
-                results = json.load(results)["results"]
+                results = json.load(results)
+            print(len(results["results"]))
+            print(file)
+            for i, result in enumerate(results["results"]):
+                if os.path.basename(result["image"]) in faulty_images:
+                    # del results["results"][i]
+                    pass
+
+            # with open(file, "w") as file_:
+            #     json.dump(results, file_, indent=3)
 
 
+def extract_closed_source_model_results():
+    models = ["gpt-4o", "gpt-4o-mini", "gemini-pro", "gemini-flash"]
+    runs = [f"run_{i}" for i in [2, 3]]
+    prompts = [f"prompt_{i}" for i in [1, 2, 3, 4]]
+    faulty_puzzles_id = [501, 676, 689]
+
+    prompt_template = ("I have the following text:\n\"{}\"\n\nPlease extract the answer being given in this text. "
+                       "Remember that the answer can also refer to any of the symbols as well (either A, B, C, D). "
+                       "Respond with 'None' if the text doesn't sufficiently match any of the options. "
+                       "Respond with a comma-separated list of answers if you think there is more than one suitable answer. "
+                       "Respond with only these options: {}")
+
+    for model, run, prompt in tqdm(list(itertools.product(*[models, runs, prompts])), desc="Extracting responses..."):
+        path = f"../results/analysis/results/{run}/{prompt}/{model}"
+        for filename in glob.glob(f"{path}/*.json"):
+            puzzle_id = int(os.path.basename(filename).split(".")[0])
+            if puzzle_id in faulty_puzzles_id:
+                continue
+            with open(filename, "r") as file:
+                result = json.load(file)
+            prompt = result["prompt"]
+            response = result["gpt4v_response"] if "gpt4v_response" in result else result["gemini_pro_response"]
+            options = re.findall(r"\([A-Z]\)\s(.*?)(?=\s\([A-Z]\)|$)", prompt)
+            options = " ".join(f"{symbol}) {option}" for symbol, option in zip(["A", "B", "C", "D"], options))
+            extraction_prompt = prompt_template.format(*[response, options])
+            extracted_response = make_safe_prompt(extraction_prompt)
+            if extracted_response == "None":
+                extracted_response = response
+            result["extracted_response"] = extracted_response
+
+
+
+def analyze_closed_source_model_results():
+    models = ["gpt-4o", "gpt-4o-mini", "gemini-pro", "gemini-flash"]
+    runs = [2, 3]
+    prompts = [1, 2, 3, 4]
+    faulty_puzzles_id = [501, 676, 689]
+
+    for model in models:
+        for run in [f"run_{i}" for i in runs]:
+            for prompt in [f"prompt_{i}" for i in prompts]:
+                path = f"../results/analysis/results/{run}/{prompt}/{model}"
+                for filename in glob.glob(f"{path}/*.json"):
+                    puzzle_id = int(os.path.basename(filename).split(".")[0])
+                    if puzzle_id in faulty_puzzles_id:
+                        continue
 
 
 if __name__ == "__main__":
     # analyze_new_results()
     # analyze_summary()
-    remove_faulty_puzzles()
+    # remove_faulty_puzzles()
+    #
+    # with open("../benchmark.json", "r") as file:
+    #     benchmark = json.load(file)
+    #     print(len(benchmark))
+
+    # analyze_closed_source_model_results()
+    extract_closed_source_model_results()

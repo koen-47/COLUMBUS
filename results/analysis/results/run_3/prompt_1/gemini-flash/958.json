@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) up to eleven.\n\nThe image shows two upward-pointing arrows next to the word \"ELEVEN\".  This visually represents the phrase \"up to eleven,\" which is an idiom implying exceeding the usual limits or going beyond the maximum.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to something (B) up to eleven (C) ten to one (D) average up",
+    "answer": {
+        "B": "up to eleven"
+    }
+}

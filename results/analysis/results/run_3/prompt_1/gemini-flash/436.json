@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (A) sit on one's hands.\n\nThe image shows the word \"SIT\" above a line. Below the line are the numbers \"1111\" and the word \"HANDS\".  This represents the phrase \"sit on one's hands,\" because there are four \"1\"s, referencing the four fingers and thumb on each hand.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sit on one's hands (B) sit one's ass down (C) sit on one's ass (D) sit on",
+    "answer": {
+        "A": "sit on one's hands"
+    }
+}

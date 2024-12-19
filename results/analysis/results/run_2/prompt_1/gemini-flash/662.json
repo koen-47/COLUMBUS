@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) like a duck to water.  The image shows the words \"LIKE DUCK WATER WATER,\" which, when read together, form the idiom.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sitting duck (B) like a duck to water (C) break one's duck (D) like water off a duck's back",
+    "answer": {
+        "B": "like a duck to water"
+    }
+}

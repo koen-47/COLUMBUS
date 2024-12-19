@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **have an eye for**.\n\nThe image shows four \"I\"s stacked vertically, followed by \"AN\" and then an image of an eye.  This visually represents the phrase \"I I I I AN EYE\", which when read, forms \"HAVE AN EYE FOR\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) see eye to eye (C) one in the eye for (D) have an eye for",
+    "answer": {
+        "A": "eye for an eye"
+    }
+}

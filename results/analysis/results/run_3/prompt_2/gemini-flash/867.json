@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) start off on the wrong foot**.\n\nHere's why:\n\n* **The arrows:** The downward arrow above \"OFF\" implies \"start off\". The upward arrow implies \"wrong\".  The line separating them is the visual equivalent of \"on\".\n* **The Foot:** The small drawing of a foot visually represents \"foot.\"\n* **WRONG:** The word \"WRONG\" explicitly signifies wrong.\n\nTherefore, the image combines the elements to represent \"start off on the wrong foot\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start off on the right foot (B) start off on the wrong foot (C) off on the wrong foot (D) put a foot wrong",
+    "answer": {
+        "B": "start off on the wrong foot"
+    }
+}

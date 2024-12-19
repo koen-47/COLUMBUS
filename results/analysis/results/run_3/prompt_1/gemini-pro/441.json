@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image simply displays the word \"CHANGE\".  None of the provided phrases are present.  Since the image only contains the word \"change,\" it's impossible to select a phrase containing the word change without additional context.  The best answer is CHANGE by itself, but that is not an option. Therefore, none of the options are depicted in the image.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for a change (B) small change (C) change over (D) loose change",
+    "answer": {
+        "B": "small change"
+    }
+}

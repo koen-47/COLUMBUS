@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) ear to the ground.  The image shows the words \"EAR\" and \"GROUND\" arranged in a way that visually represents the idiom \"ear to the ground\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up on one's ear (B) give ear (C) ear to the ground (D) play by ear",
+    "answer": {
+        "C": "ear to the ground"
+    }
+}

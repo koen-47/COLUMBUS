@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"HOLE\" is inside a box, so the rebus represents \"Dig outside the hole\".  None of the provided options match this exactly, but \"dig out of a hole\" (D) is the closest in meaning.  The rebus could also be interpreted as \"Dig around the hole\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow a hole through (B) dig deep (C) dig oneself in a hole (D) dig out of a hole",
+    "answer": {
+        "D": "dig out of a hole"
+    }
+}

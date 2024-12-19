@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the words \"STCARVEDONE\".  With correct spacing, this becomes \"ST CARVED ONE\". \"St\" is an abbreviation for stone, so this reads \"Stone Carved One.\" This connects to the idiom **(D) carved in stone**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) heart of stone (B) set in stone (C) stone dead (D) carved in stone",
+    "answer": {
+        "D": "carved in stone"
+    }
+}

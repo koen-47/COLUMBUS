@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"PULL WOOL\" over \"IIII\".  This represents \"pull the wool over your eyes\" (IIII represents eyes).\n\nSo the answer is (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dyed in the wool (B) more cry than wool (C) wrap in cotton wool (D) pull the wool over eyes",
+    "answer": {
+        "D": "pull the wool over eyes"
+    }
+}

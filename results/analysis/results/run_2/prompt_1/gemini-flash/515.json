@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) to say the least.  The image shows \"SAY\" stacked on top of \"SAY\" with \"LEAST\" to the right.  This visually represents the phrase \"to say the least\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not in the least (B) to say the least (C) at the very least (D) in the least",
+    "answer": {
+        "B": "to say the least"
+    }
+}

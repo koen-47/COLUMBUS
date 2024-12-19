@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (A) speak up.\n\nThe letters K, A, E, P, S are stacked vertically. This represents \"speak up\", as the letters are \"up\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak to (D) talk up",
+    "answer": {
+        "A": "speak up"
+    }
+}

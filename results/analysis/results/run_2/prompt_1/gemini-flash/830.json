@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **set the Thames on fire**.\n\nThe image shows a simple word puzzle.  The solution is to fill in the blank to create the idiom \"Set the Thames on fire\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set the world on fire (B) set the thames on fire (C) cross the Thames (D) put out a fire",
+    "answer": {
+        "B": "set the thames on fire"
+    }
+}

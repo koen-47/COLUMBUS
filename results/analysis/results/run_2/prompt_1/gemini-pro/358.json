@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"MO1111ON\".  The purple \"MO\" and \"ON\" suggest the word \"moon,\" with the \"1111\" being inside the word like one would say something happens \"once in a...\"  Since one of the options refers to an event happening infrequently and relates to the color of the moon, the answer must be (B) once in a blue moon.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) once in a purple moon (B) once in a blue moon (C) blue moon (D) over the moon",
+    "answer": {
+        "A": "once in a purple moon"
+    }
+}

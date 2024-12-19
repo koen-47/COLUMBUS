@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) cross paths.\n\nThe image shows the word \"WALKS\" with a line crossing through it twice.  This visually represents two \"walks\" crossing, thus conveying the meaning of \"cross paths\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crosswalks (B) crosswalk (C) cross paths (D) catwalks",
+    "answer": {
+        "A": "crosswalks"
+    }
+}

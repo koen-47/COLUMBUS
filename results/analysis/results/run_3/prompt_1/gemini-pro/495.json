@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows \"REAL\" written four times, and then the number \"4\" followed by \"TRUE\". This translates to \"For Real, For True\".\n\nSo the answer is (C).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for the asking (B) for good and all (C) for real and for true (D) for a fact",
+    "answer": {
+        "C": "for real and for true"
+    }
+}

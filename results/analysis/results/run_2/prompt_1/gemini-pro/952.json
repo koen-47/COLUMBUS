@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (A) arm up.  The up arrow within the word \"arms\" visually represents the raising of an arm.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) arm up (B) babe in arms (C) up in the air (D) up in arms",
+    "answer": {
+        "D": "up in arms"
+    }
+}

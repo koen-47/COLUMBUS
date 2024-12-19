@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) give someone what for.\n\nThe rebus shows the word \"GIVE\" to the left and three repetitions of the word \"WHAT\" to the right.  This visually represents the phrase \"give someone what for,\" implying a scolding or reprimand.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone what-for (B) give what for (C) give someone what for (D) what for",
+    "answer": {
+        "B": "give what for"
+    }
+}

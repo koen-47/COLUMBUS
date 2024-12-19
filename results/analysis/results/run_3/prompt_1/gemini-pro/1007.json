@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"STWRITTENARS\".  If you separate the \"ST\" from the rest, it spells \"written in stars\" corresponding to option (C).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stars in one's eyes (B) see stars (C) written in the stars (D) stars align",
+    "answer": {
+        "C": "written in the stars"
+    }
+}

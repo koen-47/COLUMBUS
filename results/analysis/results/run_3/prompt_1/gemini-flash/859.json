@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **stars align**.\n\nThe image shows the number 1111 (representing ones or unity) followed by two stars, and then the Roman numeral four (IIII).  This visually represents the idea of things coming together (the ones) to align (the stars) into something bigger (four).  The other options don't fit this visual representation.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stars in one's eyes (B) stars align (C) see stars (D) written in the stars",
+    "answer": {
+        "A": "stars in one's eyes"
+    }
+}

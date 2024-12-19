@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) come out of one's shell.\n\nThe image shows \"1111GOSHELL\".  The four 1s represent \"come\" and the rest of the text forms \"out of one's shell\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go one's own way (B) go out of one's way (C) go into one's shell (D) come out of one's shell",
+    "answer": {
+        "C": "go into one's shell"
+    }
+}

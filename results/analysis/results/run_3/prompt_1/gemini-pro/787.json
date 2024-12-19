@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows four running men and the text \"1111 LIFE\".  The four running men can be represented as \"4 RUN\".  Combining the text with the image, we get \"4 RUN 1 LIFE\" or \"Run for one's life\".  So the answer is (B).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run for one's life (C) fight for one's life (D) run for one's money",
+    "answer": {
+        "B": "run for one's life"
+    }
+}

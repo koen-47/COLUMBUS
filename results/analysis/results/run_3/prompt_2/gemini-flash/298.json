@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) leave someone high and dry.\n\nThe word \"HIGH\" is shown with the letter \"G\" left out, so it means to leave someone high and dry.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the dry (B) left high and dry (C) leave someone high and dry (D) high and dry",
+    "answer": {
+        "B": "left high and dry"
+    }
+}

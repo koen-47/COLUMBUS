@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"RUN\" repeated with a space between them. This suggests the phrase \"run past\" as it visually represents the idea of one \"RUN\" being past another. \n\nSo, the answer is (D) run past.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to (B) run with (C) run about (D) run past",
+    "answer": {
+        "A": "run to"
+    }
+}

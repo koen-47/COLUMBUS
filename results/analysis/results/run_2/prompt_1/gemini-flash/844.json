@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **speak out of turn**.\n\nThe image visually represents the words \"speak\" and \"turn\" juxtaposed.  This directly implies the phrase \"speak out of turn,\" which means to interrupt or talk when it's not your turn to speak.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) talk out of turn (B) speak out of turn (C) speak out (D) speak up",
+    "answer": {
+        "B": "speak out of turn"
+    }
+}

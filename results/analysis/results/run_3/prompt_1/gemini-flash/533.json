@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **two peas in a pod**.\n\nThe image uses the words \"peas\" and \"pod\" arranged in a way that visually represents the idiom \"two peas in a pod,\" which describes two people who are very similar.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) seedpods (B) seedpod (C) two peas in a pod (D) full of beans",
+    "answer": {
+        "C": "two peas in a pod"
+    }
+}

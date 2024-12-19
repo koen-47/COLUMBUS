@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (C) why in the world.\n\nThe word \"WHY\" is placed above a picture of the world. This visually represents the phrase \"why in the world,\" which is an idiom expressing bewilderment or disbelief.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) why on earth (B) why in time (C) why in the world (D) hell on earth",
+    "answer": {
+        "A": "why on earth"
+    }
+}

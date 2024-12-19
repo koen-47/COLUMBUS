@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"TAKE\" over \"WATER\".  This represents the phrase \"take on water\", which means for a boat or ship to leak.\n\nSo the answer is (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold one's water (B) walk on water (C) hold water (D) take on water",
+    "answer": {
+        "D": "take on water"
+    }
+}

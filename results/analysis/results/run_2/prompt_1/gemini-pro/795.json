@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image displays \"FAMRUNILY,\" a combination of \"family\" and \"run.\" This conveys the meaning of **(C) run in the family**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for one's life (B) run with (C) run in the family (D) start a family",
+    "answer": {
+        "C": "run in the family"
+    }
+}

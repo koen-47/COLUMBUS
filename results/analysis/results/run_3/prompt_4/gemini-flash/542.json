@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) four sheets to the wind.\n\nThe rebus shows four instances of \"SHEETS\" and two instances of \"WIND\".  The graph description reinforces this: four \"SHEETS\" and two \"WIND\", positioned next to each other. The phrase \"sheets to the wind\" is an idiom, and the number of sheets is specified by the number of repetitions. Therefore, the solution is \"four sheets to the wind\".\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: SHEETS, repeat: 4, sound: (four: 4))\nNode 2 attributes: (text: WIND, repeat: 2, sound: (to: 2))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) four sheets to the wind (B) three sheets to the wind (C) get wind (D) wind at one's back",
+    "answer": {
+        "A": "four sheets to the wind"
+    }
+}

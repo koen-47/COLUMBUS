@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) zip it.  The image shows the letters P, I, and Z stacked vertically, which is a visual representation of the phrase \"Zip it!\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) zip past (B) zip one's lip (C) zip up (D) zip it",
+    "answer": {
+        "C": "zip up"
+    }
+}

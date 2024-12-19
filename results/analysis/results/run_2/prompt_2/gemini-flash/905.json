@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) big gun.\n\nThe image shows two guns, side by side.  \"Two guns\" sounds like \"big guns\", hence the answer.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) guns blazing (B) the big guns (C) big shot (D) big gun",
+    "answer": {
+        "B": "the big guns"
+    }
+}

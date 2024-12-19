@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image \"4BE4\" is a rebus puzzle, a visual representation of words or phrases.  It sounds like \"for be for,\" which is close to **(A) be in for**.  \"Be in for\" means to be about to experience something, typically something unpleasant.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) be in for (B) in for it (C) sit in for (D) be in and out",
+    "answer": {
+        "A": "be in for"
+    }
+}

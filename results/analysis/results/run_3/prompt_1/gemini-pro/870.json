@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows an arrow pointing down, the word \"WITH,\" an arrow pointing up, and the word \"BANG.\" This arrangement visually represents **(C) go out with a bang**.  The downward and upward arrows symbolize an ending followed by an impressive event.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bang up (B) start with a bang (C) go out with a bang (D) bang out",
+    "answer": {
+        "B": "start with a bang"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"ALL\" repeated multiple times, with \"WORLD\" positioned among them. This suggests the phrase \"for all the world.\" \n\nThe correct answer is (C) for all the world.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for all the world to see (B) in the world (C) for all the world (D) not for the world",
+    "answer": {
+        "C": "for all the world"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) turn on one's heel.\n\nHere's why:\n\n* **Node 1:** Represents \"turn\" using the recycle symbol (\ud83d\udd04).\n* **Node 2:** Represents \"one's\" using the repetition of the number 1 (1111, sounding like \"ones\").\n* **Node 3:** Represents \"heel\" using the image of a high-heeled shoe (\ud83d\udc60).\n\nThe spatial relationships (\"ABOVE\" and \"NEXT-TO\") indicate the order of the words in the phrase.  Therefore, the rebus depicts \"turn on one's heel\".\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udd04, repeat: 1, icon: (turn: \ud83d\udd04))\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: \ud83d\udc60, repeat: 1, icon: (heel: \ud83d\udc60))\nEdge 1: node 1 to node 2 (rule: ABOVE)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) turn on one's heel (B) kick up one's heels (C) kick one's heels (D) bring to heel",
+    "answer": {
+        "A": "turn on one's heel"
+    }
+}

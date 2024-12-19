@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"FLY\" between two faces.  This represents \"face\" on either side of \"FLY\". Therefore, the answer is (B) fly in the face of.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly by (B) fly in the face of (C) hurt a fly (D) fly on the wall",
+    "answer": {
+        "B": "fly in the face of"
+    }
+}

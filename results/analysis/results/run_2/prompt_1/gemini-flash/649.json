@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) knock on wood.\n\nThe image shows the word \"KNOCK\" with a picture of a tree stump underneath it.  \"Knocking on wood\" is a superstition where one knocks on wood to avoid bad luck.  The image visually represents this idiom.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock down (B) knock out (C) knock on wood (D) knock together",
+    "answer": {
+        "C": "knock on wood"
+    }
+}

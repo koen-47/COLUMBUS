@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"GO\" twice, one above the other.  This represents \"Go Go\", which sounds like \"go-go\".  \n\nThe answer is (C) go places.  \"Go places\" means to become successful.  The expression \"go-go\" can refer to the \"go-go years\", a time of rapid economic expansion. It also creates imagery of someone on the move, going to different places.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go towards (B) go far (C) go places (D) to go",
+    "answer": {
+        "D": "to go"
+    }
+}

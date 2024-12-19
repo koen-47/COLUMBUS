@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) chalk something up to experience.\n\nThe image shows the letters K L A H C, which are rearranged to spell \"CHALK\".  The number 2 represents the phrase \"to experience\".  Therefore, the complete phrase is \"chalk something up to experience\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chalk up to (B) drum up (C) chalk off (D) chalk something up to experience",
+    "answer": {
+        "A": "chalk up to"
+    }
+}

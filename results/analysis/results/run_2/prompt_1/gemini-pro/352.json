@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys **(D) a bridge too far**.\n\nThe word \"BRIDGE\" is crossed out, visually representing \"too far\" going over the bridge.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go too far (B) cross the bridge (C) cross that bridge when one comes to it (D) cross a bridge too far",
+    "answer": {
+        "D": "cross a bridge too far"
+    }
+}

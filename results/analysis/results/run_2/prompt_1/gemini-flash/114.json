@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) ring a bell**.\n\nThe image shows a bell with arrows pointing up and down, visually representing the action of a bell ringing.  The word \"RINGS\" further reinforces this interpretation.  The other options don't directly relate to the visual representation of a bell ringing.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before the bell rings (B) ring someone's bell (C) ring a bell (D) saved by the bell",
+    "answer": {
+        "A": "before the bell rings"
+    }
+}

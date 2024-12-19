@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) turn up for the book.\n\nThe rebus shows the words \"TURN UP\" to the left, and four instances of the word \"BOOK\" stacked vertically to the right.  This visually represents the phrase \"Turn up for the book\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn up (B) turn up for the book (C) throw the book at (D) write the book",
+    "answer": {
+        "B": "turn up for the book"
+    }
+}

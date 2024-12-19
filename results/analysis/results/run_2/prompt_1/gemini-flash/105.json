@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) back of one's hand.\n\nThe image shows \"BACK 1111 HAND\".  The number 1111 visually resembles the back of a hand.  Therefore, the phrase \"back of one's hand\" is represented.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold someone's hand (B) have one's hand out (C) make one's hand (D) back of one's hand",
+    "answer": {
+        "D": "back of one's hand"
+    }
+}

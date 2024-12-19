@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(D) Attic salt**.\n\nThe word \"salt\" is embedded within the word \"WOSALtund\".  \"Attic\" refers to a room at the top of a house and \"salt\" is at the top of \"WOSALtund\". Therefore, the phrase is \"Attic salt\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) salt of the earth (B) old salt (C) salt in the wound (D) Attic salt",
+    "answer": {
+        "C": "salt in the wound"
+    }
+}

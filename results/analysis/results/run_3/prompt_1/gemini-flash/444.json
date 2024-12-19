@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) hang over one's head**.\n\nThe image depicts \"HANG\" above \"1111 HEAD\".  The number \"1111\" represents \"one one one one,\" or \"one\" four times. Thus, it suggests \"one\" thing hanging over someone's head.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang over one's head (B) hold over someone's head (C) hang one's hat (D) hang up one's hat",
+    "answer": {
+        "A": "hang over one's head"
+    }
+}

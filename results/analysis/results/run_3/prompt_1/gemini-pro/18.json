@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The words in the image are \"BERRY BERRY\".  Since the word \"berry\" appears twice, the closest option is (C) blueberries.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) strawberries (B) blueberry (C) blueberries (D) blackberries",
+    "answer": {
+        "C": "blueberries"
+    }
+}

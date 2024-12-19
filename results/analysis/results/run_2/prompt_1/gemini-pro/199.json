@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "None of the provided options are a perfect fit. The image most closely represents a combination of \"exit stage\" with directional arrows, but it doesn't specify \"left\" or \"right.\" If you had to choose one, the closest would be **(D) exit stage left**, assuming the down arrow indicates the actor's movement from the audience's perspective. However, without further context, the direction is ambiguous.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stage right (B) set the stage (C) hold the stage (D) exit stage left",
+    "answer": {
+        "D": "exit stage left"
+    }
+}

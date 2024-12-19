@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image uses \"DIE\" twice and the number \"4\", which phonetically sounds like \"for\".  This makes the phrase \"Die for\".  So the answer is (C).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what for (B) to the death (C) to die for (D) die",
+    "answer": {
+        "C": "to die for"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"TOWN\" is inside a box, which visually represents \"out\".  Therefore, the image conveys \"RUN out of TOWN\" so the answer is (A).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of town (B) run out (C) out on the town (D) run off",
+    "answer": {
+        "A": "run out of town"
+    }
+}

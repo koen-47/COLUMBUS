@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) cross paths.\n\nThe word \"WALKS\" is crossed twice, or in other words, the word \"crosses\" walks twice. This implies the idiom \"cross paths\", meaning to meet someone again after not having seen them for a while.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crosswalks (B) crosswalk (C) cross paths (D) catwalks",
+    "answer": {
+        "A": "crosswalks"
+    }
+}

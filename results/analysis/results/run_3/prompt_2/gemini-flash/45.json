@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) backwoodsmen.\n\nThe rebus shows \"DOOW\" stacked on top of \"DOOW\".  This represents two \"DOOW\"s, or two \"woodsmen\".  Adding \"back\" to the beginning gives the answer.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backwoodsman (B) backwoods (C) softwoods (D) backwoodsmen",
+    "answer": {
+        "B": "backwoods"
+    }
+}

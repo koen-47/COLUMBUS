@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The best answer is **(D) as a matter of fact**.\n\nThe image shows the word \"FACT\" repeated multiple times, emphasizing its truth and certainty.  \"As a matter of fact\" is an idiom used to introduce a statement that is undeniably true.  The other options don't carry the same weight of undeniable truth.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fact is (B) for real and for true (C) for a fact (D) as a matter of fact",
+    "answer": {
+        "C": "for a fact"
+    }
+}

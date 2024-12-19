@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (A) hang over one's head.\n\nThe rebus shows \"HANG\" over \"1111 HEAD\".  The number 1111 visually represents four ones, which sounds like \"one's\".  Therefore, the image conveys the phrase \"HANG over one's HEAD\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang over one's head (B) hold over someone's head (C) hang one's hat (D) hang up one's hat",
+    "answer": {
+        "A": "hang over one's head"
+    }
+}

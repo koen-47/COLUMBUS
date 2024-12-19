@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) blue-eyed boy.\n\nThe image shows a pair of blue eyes and a boy's head, thus representing a \"blue-eyed boy\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue-eyed (B) baby blue (C) fair-haired boy (D) blue eyed boy",
+    "answer": {
+        "D": "blue eyed boy"
+    }
+}

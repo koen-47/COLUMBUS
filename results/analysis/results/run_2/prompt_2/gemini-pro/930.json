@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus is \"1111TURNGREAVE\". The four 1s represent \"ones\".  Thus, the phrase is \"ones turn grave\", or **(C) turn in one's grave**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's own grave (B) take someone to the grave (C) turn in one's grave (D) take to the grave",
+    "answer": {
+        "C": "turn in one's grave"
+    }
+}

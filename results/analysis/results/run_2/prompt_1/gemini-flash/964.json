@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(A) vouch for**.\n\nThe image shows the word \"VOUCH\" repeated four times.  This visually represents the act of vouching, or guaranteeing something.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) vouch for (B) for the love of (C) what for (D) make for",
+    "answer": {
+        "A": "vouch for"
+    }
+}

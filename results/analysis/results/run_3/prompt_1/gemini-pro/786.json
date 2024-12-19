@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) run for cover.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take cover (B) from cover to cover (C) cover up (D) run for cover",
+    "answer": {
+        "D": "run for cover"
+    }
+}

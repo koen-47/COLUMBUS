@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"to hell in a handbasket.\" The word \"HELL\" is split between \"HAND\" and \"BASKET,\" indicating the phrase. \n\nSo the answer is (C) to hell in a handbasket.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to hell (B) raise hell (C) to hell in a handbasket (D) handbasket",
+    "answer": {
+        "C": "to hell in a handbasket"
+    }
+}

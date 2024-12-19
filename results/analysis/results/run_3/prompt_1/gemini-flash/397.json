@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) rain on one's parade.\n\nThe image shows \"RAIN\" over \"1111 PARADE\".  This visually represents \"rain\" falling on or spoiling the \"parade\".  This is the definition of the idiom \"rain on someone's parade\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make it rain (B) rain on one's parade (C) parade passed someone by (D) rain check",
+    "answer": {
+        "B": "rain on one's parade"
+    }
+}

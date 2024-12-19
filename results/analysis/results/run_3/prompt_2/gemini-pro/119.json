@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"ELECTRIC\" with the letters \"TRI\" lowered.  This represents \"electric *tri*city\".\n\nThus, none of the provided options are correct.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) circle back (B) inner circle (C) swing round the circle (D) full circle",
+    "answer": {
+        "A": "circle back"
+    }
+}

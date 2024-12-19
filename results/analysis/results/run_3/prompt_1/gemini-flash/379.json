@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **pocket dial**.\n\nThe image shows the letters T, E, K, C, O, P which, when rearranged, spell out \"pocket dial\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of pocket (B) pocket dial (C) pocket up (D) in someone's pocket",
+    "answer": {
+        "C": "pocket up"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **once in a blue moon**.\n\nThe image shows the words \"MO\" and \"ON\" in blue, with \"1111\" in black in between.  This is a visual representation of the idiom \"once in a blue moon,\" as the blue represents the \"blue\" and the infrequent \"1111\" represents the rarity of the event.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue moon (B) once in a purple moon (C) over the moon (D) once in a blue moon",
+    "answer": {
+        "D": "once in a blue moon"
+    }
+}

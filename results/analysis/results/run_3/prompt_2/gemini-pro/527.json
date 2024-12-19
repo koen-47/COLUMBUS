@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"FROM\" with an arrow pointing down and then up, indicating \"Top to Bottom\". Then, the number \"2\" with an arrow pointing down and then up, again indicating \"Top to Bottom\".\n\nPutting it together, it reads: \"From Top to Bottom.\"  This is another way of saying \"From Beginning to End\".\n\nSo the answer is (D).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) from time to time (B) begin at the beginning (C) from start to finish (D) from beginning to end",
+    "answer": {
+        "D": "from beginning to end"
+    }
+}

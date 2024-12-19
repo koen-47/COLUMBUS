@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) from scratch.\n\nThe image shows the phrase \"FROM SCRATCH\" with arrows indicating a process starting from the bottom and going to the top.  This visually represents building something from nothing, which is the meaning of \"from scratch\".  While (A) and (B) are similar in meaning, they aren't the exact phrase shown in the image. (C) is not as specific.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start from scratch (B) begin at the beginning (C) get started (D) from scratch",
+    "answer": {
+        "A": "start from scratch"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **click into gear**.\n\nThe image uses gears as visual metaphors for mechanisms, and the word \"CLICK\" represents the sound of something engaging.  This strongly suggests the idea of something smoothly and decisively moving into action, which is what \"click into gear\" means.  The other options don't fit the imagery or the word as well.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) second gear (B) click into gear (C) find another gear (D) fourth gear",
+    "answer": {
+        "B": "click into gear"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) dress to kill.  The image shows the words \"DRESS\" and \"KILL\" arranged in a way that visually represents the phrase \"dress to kill\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in for the kill (B) dress down (C) make a killing (D) dress to kill",
+    "answer": {
+        "D": "dress to kill"
+    }
+}

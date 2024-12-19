@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts the idiom **(D) like water off a duck's back**. The picture shows water flowing off a duck's back, visually representing how easily a duck sheds water. This connects to the idiom's meaning, which describes something that has no effect on someone.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break one's duck (B) sitting duck (C) like a duck to water (D) like water off a duck's back",
+    "answer": {
+        "C": "like a duck to water"
+    }
+}

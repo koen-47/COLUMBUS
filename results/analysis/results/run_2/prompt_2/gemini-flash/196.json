@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) come to an end.\n\nThe letters D, N, and E are vertically stacked.  This is a visual representation of \"DNE\" which is an abbreviation for \"done\".  Therefore the letters represent \"come to an end\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) end of (B) end up (C) put an end to (D) come to an end",
+    "answer": {
+        "B": "end up"
+    }
+}

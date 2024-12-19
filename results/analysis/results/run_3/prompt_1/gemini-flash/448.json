@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) poxvirus.\n\nThe image shows the word \"POX\", which is a common suffix used in the names of various poxviruses, such as smallpox and chickenpox.  While smallpox is a specific poxvirus, \"poxvirus\" is the broader category.  An outbreak could involve a poxvirus, but the image directly states \"POX\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) smallpox (B) measles (C) poxvirus (D) outbreak",
+    "answer": {
+        "A": "smallpox"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"come down to us\".\n\nHere's the breakdown:\n\n* **COME:** The word \"COME\" is written plainly.\n* **\u2193 (Down Arrow):**  The down arrow represents the word \"down\".\n* **US US (Two US):** Two instances of \"US\" are present which together sounds like \"to us\".\n\nTherefore, combining these elements gives us the phrase \"come down to us\" (C).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: COME, repeat: 1)\nNode 2 attributes: (text: \u2193, repeat: 1, icon: (down: \u2193))\nNode 3 attributes: (text: US, repeat: 2, sound: (to: 2))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) come down to (B) come down with (C) come down to us (D) come down",
+    "answer": {
+        "C": "come down to us"
+    }
+}

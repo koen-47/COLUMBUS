@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) day after day.\n\nThe arrows above and below the word \"DAY\" represent the repetition of days.  Therefore, the image conveys the phrase \"day after day\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at the end of the day (B) at the last minute (C) day after day (D) the other day",
+    "answer": {
+        "A": "at the end of the day"
+    }
+}

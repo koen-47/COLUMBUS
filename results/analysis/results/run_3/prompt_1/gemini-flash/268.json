@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) child crossing guard.\n\nThe image shows a child's head with a line through it, symbolizing a child crossing, and a person in uniform, representing a guard.  Therefore, the combined image depicts a \"child crossing guard\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take guard (B) child cross guard (C) love child (D) child crossing guard",
+    "answer": {
+        "B": "child cross guard"
+    }
+}

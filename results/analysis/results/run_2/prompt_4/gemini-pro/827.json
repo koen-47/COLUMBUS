@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"SET\" between two stones. The description indicates the word \"SET\" is INSIDE the stone. This conveys the phrase \"set in stone\".\n\nSo the answer is (A).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: SET, repeat: 1)\nNode 2 attributes: (text: \ud83e\udea8, repeat: 1, icon: (stone: \ud83e\udea8))\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) set in stone (B) carved in stone (C) stone dead (D) rolling stone",
+    "answer": {
+        "A": "set in stone"
+    }
+}

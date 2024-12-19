@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"babies in the eyes\" (B). The word \"BABIES\" is literally present, and it's flanked by pairs of eyes, suggesting the babies are located within the eyes.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) newborn (B) babies in the eyes (C) raccoon eyes (D) stars in one's eyes",
+    "answer": {
+        "B": "babies in the eyes"
+    }
+}

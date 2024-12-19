@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) child crossing guard**.\n\nThe image shows the word \"CHILD\" with a line through it, followed by \"GUARD\".  This visually represents a \"child crossing guard,\"  implying that children are under the protection of a guard.  The line through \"CHILD\" could be interpreted as negating \"child\" alone, or separating the words to create \"child crossing guard\". Options B, C, and D don't reflect this visual representation.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) child crossing guard (B) child cross guard (C) take guard (D) love child",
+    "answer": {
+        "B": "child cross guard"
+    }
+}

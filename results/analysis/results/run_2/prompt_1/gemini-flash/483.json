@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) stuffed to the gills**.\n\nThe image shows a symbol representing \"full\" or \"completely filled,\" combined with the word \"GILLS.\"  This directly relates to the idiom \"stuffed to the gills,\" which means completely full or overflowing.  The other options don't fit the visual pun.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) green around the gills (B) packed to the gills (C) stuffed to the gills (D) green about the gills",
+    "answer": {
+        "A": "green around the gills"
+    }
+}

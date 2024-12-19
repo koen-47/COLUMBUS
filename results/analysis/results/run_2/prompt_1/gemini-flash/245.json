@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) icing on the cake.\n\nThe image shows the word \"ICING\" above a picture of a cake.  \"Icing on the cake\" is an idiom that means something that makes something good even better.  The other options don't fit the visual representation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cake crumbs (B) a piece of cake (C) take the cake (D) icing on the cake",
+    "answer": {
+        "D": "icing on the cake"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **ticket to ride**.\n\nThe rebus shows the word \"TICKET\" stacked on top of the word \"TICKET\", with the word \"RIDE\" to the right. This visually represents the phrase \"two tickets to ride\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take for a ride (B) ticket to ride (C) free ride (D) take the ride",
+    "answer": {
+        "B": "ticket to ride"
+    }
+}

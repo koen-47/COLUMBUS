@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"GNIDLOH BABY\" which when reversed spells out \"BABY HOLDING.\"  This is a play on the idiom \"left holding the baby.\" So the answer is (B).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) leave someone holding the baby (B) left holding the baby (C) throw the baby out with the bathwater (D) left holding the bag",
+    "answer": {
+        "B": "left holding the baby"
+    }
+}

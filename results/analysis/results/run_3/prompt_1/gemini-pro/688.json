@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two instances of \"MAN\" with arrows pointing towards and away from it. This represents people acting as intermediaries, so the answer is (C) middlemen.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midshipmen (B) middleman (C) middlemen (D) middlebrows",
+    "answer": {
+        "C": "middlemen"
+    }
+}

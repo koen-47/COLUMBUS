@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"sea\" (represented by the ocean waves) on either side of a \"drop\" (represented by the drop icon). This translates to \"drop in the sea.\"\n\nSo the answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at sea (B) drop dead (C) drop in the sea (D) drop in the pond",
+    "answer": {
+        "C": "drop in the sea"
+    }
+}

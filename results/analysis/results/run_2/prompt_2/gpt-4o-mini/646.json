@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"KEEP\" above \"SOMEONE,\" and \"ICE\" below. This arrangement suggests the phrase \"keep someone on ice.\" \n\nSo, the correct answer is (D) keep someone on ice.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep one's stick on the ice (B) on ice (C) break the ice (D) keep someone on ice",
+    "answer": {
+        "D": "keep someone on ice"
+    }
+}

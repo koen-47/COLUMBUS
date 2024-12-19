@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) big shoes to fill.\n\nThe image shows two shoes/boots of the same type, next to each other, with the word \"FILL\" written next to each shoe. This is a visual representation of the idiom \"big shoes to fill,\" which implies that someone has a difficult task ahead of them, trying to live up to the accomplishments of the person who came before them.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fill someone's shoes (B) big shoes to fill (C) fill one's boots (D) pair of shoes",
+    "answer": {
+        "B": "big shoes to fill"
+    }
+}

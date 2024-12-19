@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"DOOW\" stacked twice.  This represents \"two DOOWs\", phonetically sounding like \"two doors\". Therefore, the solution is **B. backwoods**.\n\"Back\" indicates something placed further away, and \"woods\" refers to a forest or collection of trees, which implies an outdoor environment where \"doors\" are unlikely to be found.  \nThus, \"backwoods\" is the intended answer.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backwoodsman (B) backwoods (C) softwoods (D) backwoodsmen",
+    "answer": {
+        "B": "backwoods"
+    }
+}

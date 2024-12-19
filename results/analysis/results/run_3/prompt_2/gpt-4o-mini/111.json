@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"blue-eyed boy.\" The blue eyes are represented by the blue-colored eyes, and the boy is represented by the image of a boy. \n\nSo the answer is (D) blue eyed boy.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue-eyed (B) baby blue (C) fair-haired boy (D) blue eyed boy",
+    "answer": {
+        "D": "blue eyed boy"
+    }
+}

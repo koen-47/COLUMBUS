@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) double date.  The image shows the word \"DATE\" twice, implying two dates.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of date (B) blind date (C) double date (D) to date",
+    "answer": {
+        "D": "to date"
+    }
+}

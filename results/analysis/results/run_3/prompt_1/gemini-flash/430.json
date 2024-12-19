@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) hand to mouth.\n\nThe image shows two hands and a mouth, visually representing the idiom \"hand to mouth,\" which means barely having enough money to survive.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand to God (B) hand to mouth (C) hand in hand (D) hand over hand",
+    "answer": {
+        "B": "hand to mouth"
+    }
+}

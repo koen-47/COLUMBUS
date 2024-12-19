@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows four \"RODs\" arranged one above the other. Next to them are the numbers \"1111\" and the word \"BACK.\" This positioning indicates \"four rods, one after the other, followed by the word back.\"\n\nTherefore, the solution is (B) have someone's back.  The puzzle uses the concept of \"back-to-back\" with rods to represent having someone's back.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rod for one's back (B) have someone's back (C) double back (D) rod in pickle",
+    "answer": {
+        "A": "rod for one's back"
+    }
+}

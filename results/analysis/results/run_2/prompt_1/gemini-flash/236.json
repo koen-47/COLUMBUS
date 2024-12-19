@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) head to toe.\n\nThe image shows the words \"HEAD\" stacked on top of \"HEAD\" with the word \"TOE\" to the right.  This visually represents the idiom \"head to toe\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) toe the line (C) lose head (D) head to toe",
+    "answer": {
+        "D": "head to toe"
+    }
+}

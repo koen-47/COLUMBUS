@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) castles in the air.\n\nThe word \"CASTLE\" is in the air (above the letters \"A\" and \"IR\").  The \"A\" and \"IR\" make the word plural.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) castle in the air (B) king of the castle (C) in the air (D) castles in the air",
+    "answer": {
+        "A": "castle in the air"
+    }
+}

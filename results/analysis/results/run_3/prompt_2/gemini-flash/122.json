@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) bone in the throat.\n\nThe image shows the words \"THR\" and \"OAT\" with a bone image in between.  When combined, this creates the phrase \"bone in the throat\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) lump in one's throat (B) funny bone (C) bone in her teeth (D) bone in the throat",
+    "answer": {
+        "D": "bone in the throat"
+    }
+}

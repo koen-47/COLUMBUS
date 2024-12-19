@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"come to life\" (C).  The words \"COME\" are positioned above and below each other, appearing to support or lead to the word \"LIFE\". This visually represents the phrase \"come to life\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get a life (B) come to (C) come to life (D) come alive",
+    "answer": {
+        "C": "come to life"
+    }
+}

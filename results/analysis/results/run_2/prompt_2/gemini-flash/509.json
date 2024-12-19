@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(C) get the boot**.\n\nThe image shows two boots, one above the other.  \"To get the boot\" is an idiom meaning to be fired or dismissed from a job.  The visual representation of two boots stacked suggests the action of receiving or being given the boot.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone the boot (B) put the boot in (C) get the boot (D) to boot",
+    "answer": {
+        "D": "to boot"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"WHEEL\" with the small word \"cog\" inserted between \"WH\" and \"EEL\". This represents the phrase **(C) cogwheel**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big wheel (B) a small cog in a big wheel (C) cogwheel (D) cogwheels",
+    "answer": {
+        "B": "a small cog in a big wheel"
+    }
+}

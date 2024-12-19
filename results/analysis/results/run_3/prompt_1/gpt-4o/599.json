@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "(A) end of the rainbow",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) end of the rainbow (B) rainbow (C) chase a rainbow (D) rainbow baby",
+    "answer": {
+        "A": "end of the rainbow"
+    }
+}

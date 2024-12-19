@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image spells out \"SHOOT.\"  This corresponds to option **A**, \"shoot holes\" which mean to punch or shoot several holes through something, but it doesn't correspond to B, C, and D since the image is simply the word \"shoot\" vertically.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shoot holes (B) shoot off (C) shoot down (D) shoot 'em up",
+    "answer": {
+        "C": "shoot down"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"walking on air.\" The figure of a person above the word \"AIR\" suggests that they are elevated or \"walking\" on it. Therefore, the correct answer is (D) walking on air.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take air (B) in the air (C) catch air (D) walking on air",
+    "answer": {
+        "D": "walking on air"
+    }
+}

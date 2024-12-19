@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"HACAPND,\" which when spaces are added becomes \"HA CAP ND.\" This represents \"hat in hand,\" as the text contains \"HA\" (hat), \"CAP\" (cap), and \"ND\" (and).  So the answer is (C).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust a cap (B) cap in hand (C) hat in hand (D) set one's cap at",
+    "answer": {
+        "B": "cap in hand"
+    }
+}

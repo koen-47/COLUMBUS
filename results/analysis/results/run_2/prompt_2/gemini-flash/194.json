@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) candle in the wind.\n\nThe rebus shows the word \"WI\" followed by a picture of a candle, followed by the word \"ND\".  Together, they form the phrase \"candle in the wind\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) candlelight (B) burn the candle at both ends (C) candle in the wind (D) candlepower",
+    "answer": {
+        "C": "candle in the wind"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) walk on water.\n\nThe image depicts a person walking on a line above a wave, visually representing the idiom \"walk on water,\" which means to perform a miracle or something seemingly impossible.  The other options don't fit the visual representation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take on water (B) walk on water (C) carry someone's water (D) take a walk",
+    "answer": {
+        "B": "walk on water"
+    }
+}

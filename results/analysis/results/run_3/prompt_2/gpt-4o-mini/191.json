@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows \"EZ\" (which sounds like \"easy\") above \"IIII\" (which represents \"eyes\" as the Roman numeral for 4). \n\nPutting it together, it conveys the phrase \"easy on the eyes.\"\n\nThe correct answer is (B) easy on the eyes.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) easy on the eye (B) easy on the eyes (C) hard on the eyes (D) take one's eyes off",
+    "answer": {
+        "B": "easy on the eyes"
+    }
+}

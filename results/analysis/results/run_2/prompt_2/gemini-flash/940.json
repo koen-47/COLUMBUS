@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) a dime a dozen.\n\nThe image shows two 20s next to a 12.  \"Two 20s\" sounds like \"twenty\" and is next to \"12\" which is a dozen.  Therefore, the rebus represents \"twenty to the dozen\", which is a common idiom that means \"a dime a dozen\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) decimal dozen (B) cheaper by the dozen (C) twenty to the dozen (D) a dime a dozen",
+    "answer": {
+        "C": "twenty to the dozen"
+    }
+}

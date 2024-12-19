@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in this image is (D) down to the wire.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) under the wire (B) down the line (C) down under (D) down to the wire",
+    "answer": {
+        "D": "down to the wire"
+    }
+}

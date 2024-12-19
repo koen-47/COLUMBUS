@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle shows the word \"WRITTEN\" with \"STARS\" on either side, which suggests the phrase \"written in the stars.\" Therefore, the correct answer is (C) written in the stars.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stars in one's eyes (B) see stars (C) written in the stars (D) stars align",
+    "answer": {
+        "C": "written in the stars"
+    }
+}

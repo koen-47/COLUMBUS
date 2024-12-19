@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the letters \"P I Z\" arranged vertically. This represents \"zip,\"  but turned upwards.  The options that contain \"zip\" are:\n\n* (A) zip past\n* (B) zip one's lip\n* (C) zip up\n* (D) zip it\n\nSince the letters are arranged upwards, the phrase it represents is **(C) zip up**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) zip past (B) zip one's lip (C) zip up (D) zip it",
+    "answer": {
+        "C": "zip up"
+    }
+}

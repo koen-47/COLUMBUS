@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows \"1111CRY\" next to a beer mug.  This represents \"I cry in my beer\", which is very close to option (D), **cry in one's beer**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small beer (B) cry one's eyes out (C) cry someone a river (D) cry in one's beer",
+    "answer": {
+        "D": "cry in one's beer"
+    }
+}

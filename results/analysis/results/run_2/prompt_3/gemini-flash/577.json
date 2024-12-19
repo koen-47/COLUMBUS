@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) down to the wire.\n\nThe rebus shows two downward arrows (\"down\") next to the word \"WIRE\".  The arrows and their placement indicate the preposition \"to\".  Therefore, the image represents the phrase \"down to the wire\".\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \u2193, repeat: 2, icon: (down: \u2193), sound: (to: 2))\nNode 2 attributes: (text: WIRE, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) down under (B) down to the wire (C) under the wire (D) down the line",
+    "answer": {
+        "B": "down to the wire"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) booby prize**.\n\nThe rebus shows \"IIII\" (four I's) over \"PRIZE\".  This can be read as \"Four eyes on the prize\", which is a common way to describe a situation where multiple people are focused on a single goal, but it's not one of the options.  However, \"four eyes\" can also be interpreted as \"booby\" (a derogatory term for a foolish person) in this context, hence \"booby prize\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) booby prize (C) prizefight (D) eyes on the prize",
+    "answer": {
+        "D": "eyes on the prize"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) rough diamond.\n\nThe image shows the words \"RO\" and \"UGH\" with a diamond shape in between.  When combined, this spells \"ROUGH DIAMOND\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) diamond is forever (B) diamond in the rough (C) rough out (D) rough diamond",
+    "answer": {
+        "B": "diamond in the rough"
+    }
+}

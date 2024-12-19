@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) castle in the air**.\n\nThe image shows a castle between the letters \"A\" and \"IR\", which when put together form the phrase \"A castle in the air\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) castles in the air (B) castle in the air (C) in the air (D) king of the castle",
+    "answer": {
+        "B": "castle in the air"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) miss the wood for the trees.\n\nThe rebus shows the word \"MISS\" next to an image of a tree stump (wood).  Then, there are several repetitions of the word \"TREES\".  This visually represents missing the \"wood\" (the stump/essential element) because of focusing on the many \"trees\" (the details).\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock on wood (B) see the trees through the forest (C) see the forest for the trees (D) miss the wood for the trees",
+    "answer": {
+        "D": "miss the wood for the trees"
+    }
+}

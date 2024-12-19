@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"EYED BOY\", which most closely matches option **(D) blue-eyed boy**.  The blue color of \"EYED\" hints at the \"blue\" part of the phrase.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue-eyed (B) baby blue (C) fair-haired boy (D) blue eyed boy",
+    "answer": {
+        "D": "blue eyed boy"
+    }
+}

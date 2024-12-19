@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **throw a spanner in the works**.\n\nThe image shows the word \"WORKS\" with a spanner (wrench) disrupting the word.  This visually represents the idiom \"throw a spanner in the works,\" which means to interfere with or disrupt a plan or process.  The other options are unrelated to the image's meaning.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spanner in the works (B) throw a spanner in the works (C) spick and span (D) spick-and-span",
+    "answer": {
+        "A": "spanner in the works"
+    }
+}

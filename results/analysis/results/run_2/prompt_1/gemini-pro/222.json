@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image represents \"Hang one's hat\".  The letters G, N, A, H vertically spell \"HANG,\" and the four 1s next to the word \"HAT\" suggest placing the HAT on the four pegs indicated by the 1s. So the answer is (D).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang up one's hat (B) hang over one's head (C) tip one's hat (D) hang one's hat",
+    "answer": {
+        "A": "hang up one's hat"
+    }
+}

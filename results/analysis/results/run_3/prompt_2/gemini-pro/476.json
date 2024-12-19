@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"FACE\" is inside a box, so we can interpret it as \"get out of the box\".  The word next to it is \"GET\". Combining these, we get \"get out of face\".\n\nThe closest option is **(D) out of one's face**.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get out of my face (B) lose face (C) pull a face (D) out of one's face",
+    "answer": {
+        "A": "get out of my face"
+    }
+}

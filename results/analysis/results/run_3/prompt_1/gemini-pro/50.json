@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the word \"cogwheel\" (C). The small word \"cog\" is inserted into the larger word \"wheel,\" creating a visual representation of a cog being a part of the wheel.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big wheel (B) a small cog in a big wheel (C) cogwheel (D) cogwheels",
+    "answer": {
+        "B": "a small cog in a big wheel"
+    }
+}

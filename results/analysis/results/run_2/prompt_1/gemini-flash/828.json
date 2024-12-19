@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (A) set in stone.  The image shows the phrase \"STSETONE\", which, when rearranged, spells \"SET IN STONE\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in stone (B) stone dead (C) carved in stone (D) rolling stone",
+    "answer": {
+        "A": "set in stone"
+    }
+}

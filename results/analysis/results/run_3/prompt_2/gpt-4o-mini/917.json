@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"the sun sets on something.\" Therefore, the correct answer is (C) the sun sets on something.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sunlight (B) catch the sun (C) the sun sets on something (D) a trip to the sun",
+    "answer": {
+        "C": "the sun sets on something"
+    }
+}

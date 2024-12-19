@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) new blood.\n\nThe arrows surrounding the word \"BLOOD\" signify something coming in and something going out, thus representing a change or renewal of blood. This fits the phrase \"new blood\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shed blood (B) new blood (C) young blood (D) after blood",
+    "answer": {
+        "D": "after blood"
+    }
+}

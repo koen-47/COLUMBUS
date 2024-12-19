@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **to a t**.\n\nThe image shows two \"T\"s stacked vertically, representing the phrase \"to a T\".  This idiom means perfectly, completely, or exactly.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to a turn (B) to a t (C) to the letter (D) from A to Z",
+    "answer": {
+        "B": "to a t"
+    }
+}

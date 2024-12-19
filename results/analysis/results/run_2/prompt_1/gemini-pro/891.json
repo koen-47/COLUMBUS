@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"Take, take to the bank\". The words \"TAKE\" are written twice and a bank image is shown.\n\nSo the answer is (A).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take to the bank (B) break the bank (C) bank night (D) laugh all the way to the bank",
+    "answer": {
+        "A": "take to the bank"
+    }
+}

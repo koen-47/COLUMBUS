@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the idiom \"Pour fuel on the fire\" (B).  The line separates the action \"POUR FUEL\" from what it's poured on, \"FIRE.\"  This idiom means to worsen a situation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pour gasoline on the fire (B) pour fuel on the fire (C) feed the fire (D) add fuel to the flames",
+    "answer": {
+        "B": "pour fuel on the fire"
+    }
+}

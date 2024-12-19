@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"dress to kill\" (D).  The words \"dress\" and \"kill\" are presented together, suggesting the combined meaning.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in for the kill (B) dress down (C) make a killing (D) dress to kill",
+    "answer": {
+        "D": "dress to kill"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) miss the boat.\n\nThe image shows two boats and a person's face in between them.  This visually represents missing out on something (the boats) because the person is not in either one.  \"Miss the boat\" is an idiom meaning to miss an opportunity.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) push the boat out (B) boy in the boat (C) turn the boat (D) miss the boat",
+    "answer": {
+        "B": "boy in the boat"
+    }
+}

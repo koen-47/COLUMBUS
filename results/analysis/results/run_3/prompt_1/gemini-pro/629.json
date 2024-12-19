@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the idiom \"**fire in the belly**\" (D).  The words \"BE\" and \"LLY\" surround a flame icon, visually creating the phrase \"BE (fire) LLY\" or \"fire in the belly\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) line of fire (B) draw fire (C) pull out of the fire (D) fire in the belly",
+    "answer": {
+        "D": "fire in the belly"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts the word \"AISLE\" with a line crossing through it. This visually represents **(A) cross the aisle**.  The other options are incorrect:\n\n* **(B) roll in the aisles:** This implies laughter and amusement, not conveyed by the image.\n* **(C) cross the line:**  While similar in concept to crossing a boundary, the image specifically uses \"aisle.\"\n* **(D) cross one's legs:**  This refers to a body posture and is unrelated to the image.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross the aisle (B) roll in the aisles (C) cross the line (D) cross one's legs",
+    "answer": {
+        "A": "cross the aisle"
+    }
+}

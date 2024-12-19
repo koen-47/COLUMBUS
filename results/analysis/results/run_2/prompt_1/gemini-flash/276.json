@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) bring home.  The image shows the word \"BRING\" vertically stacked, and the word \"HOUSE\" horizontally beside it.  When combined, it reads \"BRING HOUSE\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) move house (B) keep house (C) bring down the house (D) bring home",
+    "answer": {
+        "C": "bring down the house"
+    }
+}

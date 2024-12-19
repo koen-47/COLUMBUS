@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"BRING\" twice, followed by a picture of a heel. This represents \"bring, bring heel\", which sounds like **(A) bring to heel**.\n\nThe other options are incorrect:\n\n* **(B) Achilles heel:** This refers to a weakness or vulnerability. The rebus doesn't convey this meaning.\n* **(C) turn on one's heel:** This describes a quick change of direction or attitude. The rebus doesn't suggest turning.\n* **(D) down at heel:** This means shabby or poorly dressed.  The rebus doesn't relate to this concept.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bring to heel (B) Achilles heel (C) turn on one's heel (D) down at heel",
+    "answer": {
+        "A": "bring to heel"
+    }
+}

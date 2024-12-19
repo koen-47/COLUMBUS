@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) hell on earth.\n\nThe image depicts the word \"HELL\" with a line underneath it, and a globe below the line. This visually represents the concept of \"hell\" being on or equivalent to \"earth\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hell on earth (B) to hell (C) paradise on earth (D) give hell",
+    "answer": {
+        "A": "hell on earth"
+    }
+}

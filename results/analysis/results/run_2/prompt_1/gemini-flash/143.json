@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) a drop in the ocean**.\n\nThe image depicts a single drop of water within a larger body of water, visually representing the idiom \"a drop in the ocean,\" which signifies something insignificant compared to something much larger.  Options A, C, and D don't align with the visual representation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop in the ocean (B) a drop in the ocean (C) cross the ocean (D) motion of someone's ocean",
+    "answer": {
+        "C": "cross the ocean"
+    }
+}

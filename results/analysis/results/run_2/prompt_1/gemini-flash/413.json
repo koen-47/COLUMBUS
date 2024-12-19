@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) cross off.\n\nThe image shows a '2' with a line through it, followed by the words \"TAKE UP\".  This visually represents the action of crossing something off a list or removing it.  Therefore, \"cross off\" is the most appropriate phrase.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross out (C) cross to take up (D) cross off",
+    "answer": {
+        "C": "cross to take up"
+    }
+}

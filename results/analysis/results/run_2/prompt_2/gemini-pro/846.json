@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) spit in the wind.\n\nThe image shows the word \"SPIT\" surrounded by two icons representing waves. This signifies \"spit\" being between \"the wind\". Also, the idiom \"spit in the wind\" is a common English saying referring to a futile action.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) spit out (C) spit in the wind (D) spit on",
+    "answer": {
+        "A": "spit in the ocean"
+    }
+}

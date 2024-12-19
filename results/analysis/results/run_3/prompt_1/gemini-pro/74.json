@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts the word \"STORM\" with one arrow pointing down and another pointing up, signifying opposing forces or a difficult situation that needs to be endured. This best represents (C) weather the storm.\nThe phrase \"weather the storm\" means to endure a difficult period or situation. The arrows pointing in opposite directions visualize the opposing forces or challenges one faces during such a time, and the act of \"weathering\" implies getting through it.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) storm off (B) perfect storm (C) weather the storm (D) after the storm",
+    "answer": {
+        "D": "after the storm"
+    }
+}

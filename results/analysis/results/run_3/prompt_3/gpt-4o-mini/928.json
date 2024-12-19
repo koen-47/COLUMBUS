@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The word \"TURN\" is reversed to \"NRUT.\"\n- The word \"CLOCK\" remains as is.\n\nPutting these together, it suggests the phrase \"turn back the clock.\"\n\nTherefore, the correct answer is (B) turn back the clock.",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: TURN, repeat: 1, direction: reverse)\nNode 2 attributes: (text: CLOCK, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) wind back the clock (B) turn back the clock (C) run the clock down (D) put the clock back",
+    "answer": {
+        "B": "turn back the clock"
+    }
+}

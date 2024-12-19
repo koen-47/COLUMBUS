@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image, with the word \"CHECK\" between two mail icons, conveys the phrase **(D) check is in the mail**. This is a common idiom meaning that a payment has been sent.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blank check (B) check through (C) take check (D) check is in the mail",
+    "answer": {
+        "D": "check is in the mail"
+    }
+}

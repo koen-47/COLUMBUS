@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) a little bird told me.  The image shows the words \"BIRD TOLD ME,\" which is a common way of phrasing the idiom \"a little bird told me.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a little bird told me (B) early bird (C) bird of one's own brain (D) bird in the bosom",
+    "answer": {
+        "A": "a little bird told me"
+    }
+}

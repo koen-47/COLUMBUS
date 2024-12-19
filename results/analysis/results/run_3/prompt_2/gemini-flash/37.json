@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) as in.\n\nThe rebus shows \"AS\" repeated three times, which can be interpreted as \"AS AS AS\".  This sounds like \"As in\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) as to (B) as in (C) as for (D) as of",
+    "answer": {
+        "C": "as for"
+    }
+}

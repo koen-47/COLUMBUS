@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **bring to bear**.\n\nThe image shows the words \"BRING\" stacked vertically, with the word \"BEAR\" to the right.  This visually represents the idiom \"bring to bear,\" meaning to apply or utilize something (like force, influence, or resources) effectively.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to bear (B) bring to bear (C) loaded for bear (D) poke the bear",
+    "answer": {
+        "B": "bring to bear"
+    }
+}

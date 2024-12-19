@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents \"bone to pick\".  The word \"pick\" is positioned *between* the two instances of the word \"bone\". Thus, the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) throw a bone to (B) bone to pick (C) to the bone (D) funny bone",
+    "answer": {
+        "B": "bone to pick"
+    }
+}

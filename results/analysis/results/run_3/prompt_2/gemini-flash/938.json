@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) turn up**.\n\nHere's why:\n\n* **The symbol:** The circular arrows represent \"recycle\" or \"repeat\".\n* **The arrow:** The upward arrow indicates \"up\".\n* **The word:** \"BOOK\" is repeated multiple times, implying that the action is on the \"book\" itself.\n\n\nTherefore, the rebus depicts \"recycle/repeat the book up\" which can be interpreted as \"turn up (the book)\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn up for the book (B) turn up (C) throw the book at (D) write the book",
+    "answer": {
+        "A": "turn up for the book"
+    }
+}

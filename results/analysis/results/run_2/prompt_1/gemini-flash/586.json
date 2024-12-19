@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) drop in the sea.\n\nThe image shows a drop of water falling into a wavy body of water, representing a sea.  The other options don't fit the visual representation.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at sea (B) drop dead (C) drop in the sea (D) drop in the pond",
+    "answer": {
+        "C": "drop in the sea"
+    }
+}

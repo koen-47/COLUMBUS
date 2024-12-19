@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **midbrain**.\n\nThe image shows a brain with arrows indicating a central or middle area.  The term \"midbrain\" refers to the middle section of the brain.  The other options relate to plant anatomy.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midrib (B) midribs (C) midbrain (D) midvein",
+    "answer": {
+        "C": "midbrain"
+    }
+}

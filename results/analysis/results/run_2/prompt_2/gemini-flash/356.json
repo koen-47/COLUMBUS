@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) do up.  The letters are stacked vertically to create the phrase \"REFFO,\" which when read from bottom to top, is \"OFFER\". To \"offer up\" is close to the meaning of \"do up\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) done deal (B) offer up (C) do up (D) buy up",
+    "answer": {
+        "B": "offer up"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"FISH\" with \"PO\" to the left and \"ND\" to the right. This makes the word \"POND.\"  The idiom represented is (B) big fish in a small pond.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bigger fish to fry (B) big fish in a small pond (C) a fish out of water (D) big fish",
+    "answer": {
+        "B": "big fish in a small pond"
+    }
+}

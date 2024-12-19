@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) once in a while**.\n\nThe rebus uses the number \"1\" four times to represent \"one\".  The word \"WH1111ILE\" reads as \"Once in a while\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for a while (B) once in a while (C) once and for all (D) once or twice",
+    "answer": {
+        "B": "once in a while"
+    }
+}

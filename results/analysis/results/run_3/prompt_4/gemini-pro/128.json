@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The puzzle depicts the phrase \"Come down to us\". Here's the reasoning:\n\n* **\"COME\" down:** The word \"COME\" is written vertically, signifying \"COME down\" due to the `direction: down` attribute of Node 1.\n* **2 = \"to\":**  Node 2 has the attribute `sound: (to: 2)`, which indicates that the number 2 is a homophone for \"to\".\n* **\"US\":** Node 3 simply displays \"US\".\n* **NEXT-TO relationships:** The `NEXT-TO` edges between the nodes indicate that the phrases should be combined sequentially.\n\nTherefore, the correct answer is (A) come down to us.",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: COME, repeat: 1, direction: down)\nNode 2 attributes: (text: 2, repeat: 1, sound: (to: 2))\nNode 3 attributes: (text: US, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) come down to us (B) come down (C) come down to (D) come down with",
+    "answer": {
+        "A": "come down to us"
+    }
+}

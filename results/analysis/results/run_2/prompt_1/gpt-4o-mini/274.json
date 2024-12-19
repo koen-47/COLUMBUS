@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in the image is (B) bang one's head against a brick wall.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) brick in (B) bang one's head against a brick wall (C) drop a brick (D) brick in one's hat",
+    "answer": {
+        "D": "brick in one's hat"
+    }
+}

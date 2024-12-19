@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) red light.\n\nThe image shows a red lightbulb, hinting at the phrase \"red light.\" The other options are incorrect.  \"Put on the red light,\" \"green light,\" and \"run a red light,\" do not correspond to the simple image of a single, red lightbulb.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the red light (B) red light (C) green light (D) run a red light",
+    "answer": {
+        "B": "red light"
+    }
+}

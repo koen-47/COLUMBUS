@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **get one's foot in the door**.\n\nThe image shows a foot (represented by the cloud-like shape) positioned near a door.  This visually represents the idiom \"get one's foot in the door,\" which means to gain a first opportunity or advantage, often in a competitive situation, that can lead to further success.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get the door (B) at someone's door (C) get one's foot in the door (D) foot in the door",
+    "answer": {
+        "D": "foot in the door"
+    }
+}

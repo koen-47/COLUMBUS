@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the phrase \"dig a hole\" by placing the word \"HOLE\" inside a box, suggesting the act of creating a hole.  This is closest to option (C), \"dig oneself in a hole,\" which implies creating a difficult situation for oneself, often metaphorically. While none of the options perfectly match the literal \"dig a hole,\" (C) captures the essence of creating a hole through digging.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow a hole through (B) dig deep (C) dig oneself in a hole (D) dig out of a hole",
+    "answer": {
+        "D": "dig out of a hole"
+    }
+}

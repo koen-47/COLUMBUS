@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) behind someone's back.\n\nThe rebus shows \"CHINAMAN\" over a line, and \"1111 BACK\" under the line.  The number \"1111\" is read as \"one one one one\" which sounds like \"one on one on\". Thus, \"CHINAMAN one on one on BACK\" translates to \"Chinaman on someone's back\".  However, this isn't one of the options.  The closest option is (D), as it captures the essence of the image.  The word \"Chinaman\" is now considered outdated and offensive.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) Chinaman's chance (B) Chinese puzzle (C) chinaman on one's back (D) behind someone's back",
+    "answer": {
+        "C": "chinaman on one's back"
+    }
+}

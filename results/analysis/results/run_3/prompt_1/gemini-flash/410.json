@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) a drop in the ocean.  The line through \"OCEAN\" visually represents a drop, and the word \"ocean\" is present, making the phrase \"a drop in the ocean\" the most fitting interpretation.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a drop in the ocean (B) motion of someone's ocean (C) cross the ocean (D) drop in the ocean",
+    "answer": {
+        "C": "cross the ocean"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (D) light in the loafers. \n\nThe words \"LOA\" and \"FERS\" are separated by an image of a lightbulb. This visually represents having a \"light\" in between one's \"loafers\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) loaf about (B) make a light (C) light up (D) light in the loafers",
+    "answer": {
+        "D": "light in the loafers"
+    }
+}

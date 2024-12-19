@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts a crossed-out bridge with the words \"FAR FAR\".  This is a visual representation of the idiom \"A bridge too far\", which means going beyond a reasonable limit; an action or plan that is too ambitious or risky.\n\nSo the correct answer is (D).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go too far (B) cross the bridge (C) cross that bridge when one comes to it (D) cross a bridge too far",
+    "answer": {
+        "D": "cross a bridge too far"
+    }
+}

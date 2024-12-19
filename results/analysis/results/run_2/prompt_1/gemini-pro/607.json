@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows four \"I\"s forming the shape of an eye with the words \"AN EYE\" next to it. This visually represents the phrase \"I for an eye.\"  Given the options, this corresponds to (D) eye for an eye, which is a common idiom (although the typical phrase is \"an eye for an eye\").",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one in the eye for (B) see eye to eye (C) have an eye for (D) eye for an eye",
+    "answer": {
+        "D": "eye for an eye"
+    }
+}

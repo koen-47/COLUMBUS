@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) crossbars.\n\nThe rebus shows two instances of the word \"BAR\" crossed out by a horizontal line.  This represents two \"BAR\"s crossed, hence \"crossbars\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sidebars (B) crossbar (C) handlebars (D) crossbars",
+    "answer": {
+        "D": "crossbars"
+    }
+}

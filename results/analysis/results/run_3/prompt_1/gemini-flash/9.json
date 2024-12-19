@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) according to.  The image shows the word \"ACCORDING\" repeated twice.  This directly relates to the phrase \"according to.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) according to (B) to speak of (C) true to form (D) when it comes to",
+    "answer": {
+        "A": "according to"
+    }
+}

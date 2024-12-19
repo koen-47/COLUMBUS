@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows a storm cloud (storm) with arrows pointing \"up\" and \"down\" around it. This represents the phrase \"weather the storm\".\n\nSo the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) after the storm (B) weather the storm (C) storm off (D) perfect storm",
+    "answer": {
+        "A": "after the storm"
+    }
+}

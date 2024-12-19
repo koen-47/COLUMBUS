@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **get under someone's skin**.\n\nThe rebus uses the number \"1111\" which looks like \"four ones\" to represent the phrase \"four ones\" which sounds like \"for once\".  This is placed before \"jumpskin\", creating the phrase \"for once jump skin\", which can be interpreted as \"get under someone's skin\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) jump in one's skin (B) get under someone's skin (C) get under skin (D) get underneath someone's skin",
+    "answer": {
+        "A": "jump in one's skin"
+    }
+}

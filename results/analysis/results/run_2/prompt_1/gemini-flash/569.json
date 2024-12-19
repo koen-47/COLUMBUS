@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) down in the dumps.  The image uses a downward arrow to visually represent the word \"down\" within the phrase \"in the dumps\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down the drain (B) down in the mouth (C) down the toilet (D) down in the dumps",
+    "answer": {
+        "D": "down in the dumps"
+    }
+}

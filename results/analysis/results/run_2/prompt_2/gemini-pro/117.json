@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"chip on one's shoulder.\"  The word \"CHIP\" is on top of \"SHOULDER,\" and the \"1111\" or \"one one one one\" reinforces the \"one's.\" Thus, the answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chip shot (B) chip on shoulder (C) chip on one's shoulder (D) chip away",
+    "answer": {
+        "C": "chip on one's shoulder"
+    }
+}

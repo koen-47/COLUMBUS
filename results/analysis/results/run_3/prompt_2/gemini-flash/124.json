@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) come down.  The letters C, O, M, E are arranged vertically, and the word STAIR RODS is horizontally placed.  Reading vertically, then horizontally, it spells out \"COME DOWN STAIR RODS.\"  The rebus uses the words \"stair rods\" to visually represent the phrase \"come down.\"",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) staircase (B) come down in stair rods (C) stairwells (D) come down",
+    "answer": {
+        "B": "come down in stair rods"
+    }
+}

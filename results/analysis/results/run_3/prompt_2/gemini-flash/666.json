@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) kick someone when they are down.\n\nThe rebus shows the word \"LOOK\" repeated three times, then \"DOG\" twice, and then \"KICK\".  This visually represents the phrase \"look, look, look dog, dog kick\" which sounds like \"look, look, look dog dog kick\". This is a play on words suggesting that you are looking for a dog to kick when it is down.  This is the same as kicking someone when they are down.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick at an open door (B) kick a dog when it's down (C) look for a dog to kick (D) kick someone when they are down",
+    "answer": {
+        "C": "look for a dog to kick"
+    }
+}

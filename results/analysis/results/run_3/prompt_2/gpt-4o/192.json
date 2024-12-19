@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The answer is (A) boy in the boat.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) boy in the boat (B) turn the boat (C) push the boat out (D) miss the boat",
+    "answer": {
+        "A": "boy in the boat"
+    }
+}

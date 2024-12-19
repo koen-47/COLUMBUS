@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word is \"PACKING\" spelled backward.  Since \"backpacking\" is the only option containing \"packing,\" the answer is (C).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backpack (B) backpackers (C) backpacking (D) backpacks",
+    "answer": {
+        "C": "backpacking"
+    }
+}

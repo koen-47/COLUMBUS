@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"FLAT\" over \"1111 BACK\".  The four 1's represent \"one, one, one, one,\" or \"on one's\".  Therefore, the rebus represents \"flat on one's back\".\n\nSo the answer is (B).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) flatbed (B) flat on one's back (C) knock someone flat (D) flat out",
+    "answer": {
+        "B": "flat on one's back"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) tickled pink.  The image shows the word \"TICKLED\".  \"Tickled pink\" is an idiom meaning to be very pleased or delighted.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tick over (B) tickled pink (C) tickle pink (D) tickseed",
+    "answer": {
+        "B": "tickled pink"
+    }
+}

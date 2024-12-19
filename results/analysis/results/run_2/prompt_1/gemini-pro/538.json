@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the slang term \"OG,\" which stands for \"Original Gangster.\" While it originated in gang culture, it's now more broadly used to mean **(D) live in the past** or refer to someone or something from an earlier time that is respected and admired. The clocks emphasize the time element.  The other options don't fit the slang meaning.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go back in time (B) behind time (C) time after time (D) live in the past",
+    "answer": {
+        "A": "go back in time"
+    }
+}

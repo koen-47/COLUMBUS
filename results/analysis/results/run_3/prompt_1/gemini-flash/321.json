@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) piping hot**.\n\nThe image shows the word \"PIP\" twice, and next to it is an image of an envelope.  \"Piping hot\" refers to something being extremely hot, and the repetition of \"PIP\" might be a visual representation of the heat or intensity (like steam).  The envelope could represent the delivery or communication of the item in question.  None of the other options make visual or semantic sense in relation to the image.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pip to the post (B) piping hot (C) like a chicken with the pip (D) piping times",
+    "answer": {
+        "A": "pip to the post"
+    }
+}

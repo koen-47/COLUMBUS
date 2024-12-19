@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) babies in the eyes.\n\nThe rebus shows the word \"EYBABIESES\".  By rearranging the letters, you get \"BABIES IN EYES\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) raccoon eyes (B) stars in one's eyes (C) babies in the eyes (D) newborn",
+    "answer": {
+        "C": "babies in the eyes"
+    }
+}

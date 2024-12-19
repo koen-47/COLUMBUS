@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) crowning glory.\n\nThe word \"jewel\" is in the middle of the phrase \"crown\".  Therefore, the phrase is \"Jewel in the crown\". However, this is not one of the options.\n\nThe text \"CRJEWELOWN\" can be rearranged to form \"CROWN JEWEL\".  A crown jewel is often considered a crowning glory. Therefore, the answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) necklace (B) jewel in the crown (C) crowning glory (D) crownwork",
+    "answer": {
+        "B": "jewel in the crown"
+    }
+}

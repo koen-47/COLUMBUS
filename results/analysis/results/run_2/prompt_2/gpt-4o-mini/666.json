@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"kick someone when they are down.\" The repeated word \"LOOK\" suggests looking down, and the word \"KICK\" is prominently placed. Therefore, the correct answer is:\n\n(D) kick someone when they are down.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick at an open door (B) kick a dog when it's down (C) look for a dog to kick (D) kick someone when they are down",
+    "answer": {
+        "C": "look for a dog to kick"
+    }
+}

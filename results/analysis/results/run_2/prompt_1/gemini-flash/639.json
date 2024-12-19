@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) fly on the wall.  The image shows the words \"FLY\" and \"WALL\" with a line separating them, visually representing the idiom \"fly on the wall.\"\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly on the wall (B) fly in the face of (C) fly by (D) fly off",
+    "answer": {
+        "A": "fly on the wall"
+    }
+}

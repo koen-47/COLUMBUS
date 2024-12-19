@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) have other fish to fry.\n\nThe image shows one fish and the number 2, followed by the word \"fry\".  This represents \"two fish to fry\", which is a variation of the idiom \"have other fish to fry\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish to fry (B) have other fish to fry (C) big fish (D) bigger fish to fry",
+    "answer": {
+        "D": "bigger fish to fry"
+    }
+}

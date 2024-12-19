@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image spells out \"NOT FOR THE WORLD\". So the answer is (B).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) too good for this world (B) not for the world (C) for all the world (D) in the world",
+    "answer": {
+        "B": "not for the world"
+    }
+}

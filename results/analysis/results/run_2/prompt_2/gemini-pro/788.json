@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"RUN\" repeated four times, followed by \"1111\" and \"LIFE\".  This represents \"Run for your life\" because the \"1111\" acts as \"four\" (referring to the 4 RUNs) and sounds like \"for\".\n\nSo the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for one's life (B) run for one's money (C) fight for one's life (D) run with",
+    "answer": {
+        "A": "run for one's life"
+    }
+}

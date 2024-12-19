@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"back to square one.\"  \"BACK\" is written twice, indicating \"back to.\" The square represents \"square,\" and the \"1\" represents \"one.\"\n\nSo the answer is (A).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) back to square one (B) square away (C) square on (D) square one",
+    "answer": {
+        "A": "back to square one"
+    }
+}

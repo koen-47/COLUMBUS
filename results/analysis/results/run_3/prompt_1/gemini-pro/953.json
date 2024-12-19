@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image seems to be playing on the word \"arms\". The letters are arranged to look like \"ARUPMS\", but when read as a phrase it should sound like  \"up in arms\".\n\nSo, the answer is (A).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up in arms (B) up in the air (C) babe in arms (D) arm up",
+    "answer": {
+        "A": "up in arms"
+    }
+}

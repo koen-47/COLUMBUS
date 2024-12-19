@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"up to one's ears\".  The word \"UP\" is placed above \"four ones\" and the word \"EAR\".  \"Four ones\" can be read as \"four I's\" or \"four eyes\".  Since \"I\" sounds like \"eye\", combining it with ear gives us \"four eyes ear\", phonetically sounding like \"for years\". Thus, the phrase becomes \"Up for years ear\" which is an unusual spelling of (D) \"up to one's ears\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) prick up ears (B) ear to the ground (C) up on one's ear (D) up to one's ears",
+    "answer": {
+        "C": "up on one's ear"
+    }
+}

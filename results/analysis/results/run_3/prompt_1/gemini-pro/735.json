@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts the words \"S\" + (pie image) + \"KY,\" which phonetically sounds out \"sky pie,\" or **(B) pie in the sky**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) finger in the pie (B) pie in the sky (C) humble pie (D) piece of the pie",
+    "answer": {
+        "B": "pie in the sky"
+    }
+}

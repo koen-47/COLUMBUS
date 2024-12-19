@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) take to the grave**.\n\nThe rebus shows the word \"TAKE\" above and below the word \"GRAVE\".  This visually represents the phrase \"take to the grave\".\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's own grave (B) take to the grave (C) take someone to the grave (D) turn in one's grave",
+    "answer": {
+        "B": "take to the grave"
+    }
+}

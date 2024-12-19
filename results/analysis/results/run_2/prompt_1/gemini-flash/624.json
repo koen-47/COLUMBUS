@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) feel free**.\n\nThe image shows the word \"FEEL\" repeated four times.  This visually represents the feeling of freedom or permission to do something.  The repetition implies an open invitation to feel however one wants.  The other options don't align with this visual representation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) feel up (B) feel free (C) feel for (D) feel out",
+    "answer": {
+        "C": "feel for"
+    }
+}

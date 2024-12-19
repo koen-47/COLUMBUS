@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"skate on thin ice\" (A).  The image visually represents the words \"skate\" over \"thin\" using an ice cube.  This directly corresponds to the idiom \"skate on thin ice,\" meaning to be in a precarious or risky situation.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skate on thin ice (B) skate over (C) on thin ice (D) get one's skates on",
+    "answer": {
+        "A": "skate on thin ice"
+    }
+}

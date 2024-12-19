@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(C) be left at the post**.\n\nThe image shows \"EB POST\".  \"EB\" is short for \"end of the beam\" in the context of horse racing, referring to when the horse fails to finish.  Therefore, \"left at the post\" means to be left behind at the start of a race.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) far post (B) in the post (C) be left at the post (D) near post",
+    "answer": {
+        "C": "be left at the post"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle \"1111STARSI1I1\" can be read as \"four stars one, one, one\", or \"four stars and three ones\". This corresponds to a rating of 4.3 stars. Since none of the provided options directly represent a rating, there doesn't seem to be a perfect match. However, if we have to choose the closest one, the answer should be (C) stars align because it gives the impression of a positive evaluation. It is possible this rebus puzzle is intended to represent an evaluation/ rating.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) written in the stars (B) stars in one's eyes (C) stars align (D) see stars",
+    "answer": {
+        "B": "stars in one's eyes"
+    }
+}

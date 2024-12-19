@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"TURN UP\" next to a column of \"BOOK\" repeated several times. This represents \"turn up the book\" multiple times. So you are looking for a phrase related to turning up pages in a book multiple times. Therefore, the answer is (B) turn up for the book.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn up (B) turn up for the book (C) throw the book at (D) write the book",
+    "answer": {
+        "B": "turn up for the book"
+    }
+}

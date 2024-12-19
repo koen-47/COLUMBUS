@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"SET\" repeated four times, next to the word \"LIFE\". The description indicates that the word \"SET\" is repeated 4 times, which means 'set, set, set, set' or 'set for for for for'. This, next to 'LIFE' gives 'set for life'.\n\nTherefore, the answer is (C).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: SET, repeat: 4, sound: (for: 4))\nNode 2 attributes: (text: LIFE, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) set in ways (B) set to work (C) set for life (D) change of life",
+    "answer": {
+        "C": "set for life"
+    }
+}

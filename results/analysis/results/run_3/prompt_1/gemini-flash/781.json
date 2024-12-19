@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) through the roof**.\n\nThe image shows the word \"ROOF\" with \"1111\" and a surprised face underneath, suggesting that something has gone way up, like prices or costs.  \"Through the roof\" is an idiom that means to increase dramatically.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roof over one's head (B) through the roof (C) hit the roof (D) raise the roof",
+    "answer": {
+        "A": "roof over one's head"
+    }
+}

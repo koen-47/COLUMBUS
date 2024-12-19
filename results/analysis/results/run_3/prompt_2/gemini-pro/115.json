@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows one fish and the word \"FRY\" written twice.  This represents \"have other fish to fry.\"\n\nSo the answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish to fry (B) bigger fish to fry (C) have other fish to fry (D) big fish",
+    "answer": {
+        "B": "bigger fish to fry"
+    }
+}

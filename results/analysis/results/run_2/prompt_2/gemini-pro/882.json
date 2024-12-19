@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows a storm cloud followed by the word \"BLOCKS\". This represents the phrase \"storm out of the blocks\". Thus, the correct answer is (C).",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) storm off (B) whip up a storm (C) storm out of the blocks (D) after the storm",
+    "answer": {
+        "C": "storm out of the blocks"
+    }
+}

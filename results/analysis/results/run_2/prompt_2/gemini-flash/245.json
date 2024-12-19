@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **take the cake**.\n\nThe image shows the word \"ICING\" above a line, with a cake below the line.  This visually represents \"ICING on the CAKE\".  However, the phrasing \"take the cake\" implies to surpass all others, to be the best, or to win.  Therefore, the rebus is a play on words using the visual components to convey a different meaning than a literal interpretation.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cake crumbs (B) a piece of cake (C) take the cake (D) icing on the cake",
+    "answer": {
+        "D": "icing on the cake"
+    }
+}

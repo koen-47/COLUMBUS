@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle \"HUDOGNT\" represents \"Huge Dog Hunt\".  While this isn't one of the options exactly, **(A) snipe hunt** is the closest answer. A snipe hunt is a fool's errand, often involving a mythical creature.  The exaggerated \"Huge Dog\" could be interpreted as a similarly non-existent or difficult-to-find target. \n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snipe hunt (B) dog in the hunt (C) dog around (D) dog eat dog",
+    "answer": {
+        "B": "dog in the hunt"
+    }
+}

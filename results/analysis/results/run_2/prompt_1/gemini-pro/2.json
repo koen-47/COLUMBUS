@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts two hands with a bird between them. This visual represents the proverb \"**A bird in the hand**\". While it could be a component of the longer proverb, the image itself doesn't directly reference the \"two in the bush\" part.  Therefore, the best answer is (A).",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a bird in the hand (B) a bird in the hand is worth two in the bush (C) early bird (D) bird in the bosom",
+    "answer": {
+        "A": "a bird in the hand"
+    }
+}

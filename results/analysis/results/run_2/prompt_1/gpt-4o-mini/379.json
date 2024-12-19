@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The word/phrase conveyed in this image is (D) in someone's pocket.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of pocket (B) pocket dial (C) pocket up (D) in someone's pocket",
+    "answer": {
+        "C": "pocket up"
+    }
+}

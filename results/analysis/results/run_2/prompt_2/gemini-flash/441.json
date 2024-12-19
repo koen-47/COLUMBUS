@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) loose change.\n\nThe word \"CHANGE\" is shown in the image.  The word \"loose\" is implied because the coins are not held together.  Therefore, the image represents \"loose change\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for a change (B) small change (C) change over (D) loose change",
+    "answer": {
+        "B": "small change"
+    }
+}

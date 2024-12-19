@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle consists of the word \"BALLS\" repeated twice and the word \"WALL\" below it. The repetition of \"BALLS\" suggests a play on words, and the positioning of \"WALL\" indicates a connection to the phrase.\n\nGiven the options:\n(A) grow some balls\n(B) bust one's balls\n(C) have someone by the balls\n(D) balls to the wall\n\nThe correct answer is (D) balls to the wall. The phrase \"balls to the wall\" is often used to mean going all out or giving maximum effort, which aligns with the visual representation of \"BALLS\" and \"WALL.\"",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BALLS, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: WALL, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) grow some balls (B) bust one's balls (C) have someone by the balls (D) balls to the wall",
+    "answer": {
+        "D": "balls to the wall"
+    }
+}

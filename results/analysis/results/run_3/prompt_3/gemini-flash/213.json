@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) flat on one's back.\n\nThe rebus shows \"FLAT\" over \"1111 BACK\".  The \"1111\" is a representation of the sound \"ones,\" as indicated in the graph description. Therefore, the rebus is interpreted as \"FLAT on ONES BACK\", which is a phonetic approximation of \"FLAT on ONE'S BACK\".\n",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: FLAT, repeat: 1)\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: BACK, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) flatbed (B) flat on one's back (C) knock someone flat (D) flat out",
+    "answer": {
+        "B": "flat on one's back"
+    }
+}

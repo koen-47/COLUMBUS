@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle conveys the phrase \"break into a run.\" The word \"BREAK\" is flanked by two running figures, suggesting the action of breaking into a run. Therefore, the correct answer is (A) break into a run.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break into a run (B) take a run at (C) run off (D) run with",
+    "answer": {
+        "A": "break into a run"
+    }
+}

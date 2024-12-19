@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image is a simple drawing of a loaf of bread.  There's nothing to indicate it's brown or burnt or that there's butter involved. \"Bread of life\" is a metaphorical phrase, not a literal description.\n\nTherefore, none of the options are completely suitable.  However, of the options given, **(B) brown bread** is the closest if we assume the drawing is intended to depict a loaf of brown bread. It's a more direct representation of the object shown.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bread of life (B) brown bread (C) burn bread (D) bread and butter",
+    "answer": {
+        "B": "brown bread"
+    }
+}

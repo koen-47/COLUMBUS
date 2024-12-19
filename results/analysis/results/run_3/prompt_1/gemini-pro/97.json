@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys the idiom **(B) a little bird told me**.  The picture of the bird plus the words \"TOLD ME\" clearly represent this common expression used to indicate the speaker heard some gossip or information from an unnamed source.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bird of one's own brain (B) a little bird told me (C) bird in the bosom (D) early bird",
+    "answer": {
+        "B": "a little bird told me"
+    }
+}

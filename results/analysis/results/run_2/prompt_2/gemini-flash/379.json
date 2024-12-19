@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) pocket dial**.\n\nThe letters T, E, K, C, O, P are arranged vertically.  If you read them vertically, you spell out the word \"POCKET\".  The letters are displayed in a way that suggests they are \"dialed\"  vertically.  Therefore, the rebus represents \"pocket dial\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of pocket (B) pocket dial (C) pocket up (D) in someone's pocket",
+    "answer": {
+        "C": "pocket up"
+    }
+}

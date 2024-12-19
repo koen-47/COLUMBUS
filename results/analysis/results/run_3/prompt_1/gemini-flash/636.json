@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) **flea in one's ear**.\n\nThe image uses the number \"1\" four times to represent the word \"one\" and then displays \"FLEAEAR\", which is a combination of \"flea\" and \"ear.\"  Therefore, the image visually represents the idiom \"flea in one's ear.\"\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) earworm (B) not hurt a fly or flea (C) put a bug in someone's ear (D) flea in one's ear",
+    "answer": {
+        "D": "flea in one's ear"
+    }
+}

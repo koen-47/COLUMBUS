@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **come down to us**.\n\nThe image visually represents the words \"COME\" descending (\"down\") onto \"US\".  Therefore, it depicts the phrase \"come down to us\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down to (B) come down with (C) come down to us (D) come down",
+    "answer": {
+        "C": "come down to us"
+    }
+}

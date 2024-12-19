@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) pick out of a hat**.\n\nThe image shows two hands on either side of a top hat. This visually represents the action of randomly selecting something from a hat, which is the meaning of the idiom \"pick out of a hat\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pick out of a hat (B) hat in hand (C) hand someone his hat (D) put a hat on a hat",
+    "answer": {
+        "B": "hat in hand"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) backrests.\n\nThe image shows two instances of the word \"TSER\".  If you rotate the image 180 degrees, you get \"RESTS\". Since there are two of them, the answer is **backrests**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) armrests (B) backrest (C) backrests (D) footrests",
+    "answer": {
+        "C": "backrests"
+    }
+}

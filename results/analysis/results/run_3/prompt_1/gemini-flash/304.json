@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) cross my heart.  The image depicts four ones (1111) with a line crossing through them, visually representing the act of crossing one's heart.  While (D) is also related, (C) is a more exact match to the idiom's common phrasing.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have one's heart in (B) cross my heart and hope to die (C) cross my heart (D) cross one's heart",
+    "answer": {
+        "D": "cross one's heart"
+    }
+}

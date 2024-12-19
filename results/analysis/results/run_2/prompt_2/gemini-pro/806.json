@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) under one's own steam.\n\nThe man running symbolizes \"under,\" while the word \"steam\" is clearly written inside the box.  When combined, they form \"under one's own steam\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head of steam (B) blow off steam (C) run out of steam (D) under one's own steam",
+    "answer": {
+        "C": "run out of steam"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) day after day.\n\nThe image shows the word \"DAY\" with an upward and a downward arrow. This visually represents the repetition of days, one after the other.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at the end of the day (B) at the last minute (C) day after day (D) the other day",
+    "answer": {
+        "A": "at the end of the day"
+    }
+}

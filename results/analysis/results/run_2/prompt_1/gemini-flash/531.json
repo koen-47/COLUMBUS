@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) hand in glove**.\n\nThe image shows the words \"GL\" and \"OVE\" with a hand symbol in between.  When combined, they spell \"hand in glove\", which is an idiom meaning working together closely and effectively.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand in hand (B) hand in glove (C) hand over hand (D) in hand",
+    "answer": {
+        "B": "hand in glove"
+    }
+}

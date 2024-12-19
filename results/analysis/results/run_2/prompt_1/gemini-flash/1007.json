@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) **written in the stars**.\n\nThe image shows the words \"STWRITTENARS\".  Rearranging the letters spells out \"WRITTEN IN THE STARS\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stars in one's eyes (B) see stars (C) written in the stars (D) stars align",
+    "answer": {
+        "C": "written in the stars"
+    }
+}

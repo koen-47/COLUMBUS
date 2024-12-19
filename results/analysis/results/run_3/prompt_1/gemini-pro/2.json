@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts two hands with a bird between them. This conveys the idea of having something secure, rather than risking it for something potentially greater but uncertain.  The correct answer is (B) a bird in the hand is worth two in the bush.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a bird in the hand (B) a bird in the hand is worth two in the bush (C) early bird (D) bird in the bosom",
+    "answer": {
+        "A": "a bird in the hand"
+    }
+}

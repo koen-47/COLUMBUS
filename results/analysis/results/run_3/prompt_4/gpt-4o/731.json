@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The rebus puzzle consists of the following elements:\n\n1. A pickaxe icon (\u26cf) representing \"pick.\"\n2. The number \"1111,\" which sounds like \"one's.\"\n3. A nose icon (\ud83d\udc43).\n\nPutting these together, the phrase is \"pick one's nose.\"\n\nThe correct answer is (D) pick one's nose.",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \u26cf, repeat: 1, icon: (pick: \u26cf))\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: \ud83d\udc43, repeat: 1, icon: (nose: \ud83d\udc43))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) thumb one's nose (B) nose-pick (C) turn up one's nose (D) pick one's nose",
+    "answer": {
+        "D": "pick one's nose"
+    }
+}

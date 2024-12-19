@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle depicts two coffins surrounding the word \"NAIL\".  This represents the idiom \"nail in the coffin\" (C). This idiom refers to something that contributes to the failure or demise of something else.\nThe options \"last nail in the coffin\" and \"final nail in the coffin\" imply a decisive, concluding action. The rebus doesn't convey this nuance, as there are two coffins, suggesting multiple nails. \"Nail down\" means to finalize or secure something, which doesn't relate to the imagery of the coffins.\n\nFinal Answer: The final answer is $\\boxed{C}$",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail down (B) last nail in the coffin (C) nail in the coffin (D) final nail in the coffin",
+    "answer": {
+        "C": "nail in the coffin"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) gavel to order.\n\nThe image shows the word \"GAVEL\" above and below the word \"ORDER\".  This visually represents the phrase \"gavel to order\".  A gavel is used to call a meeting to order.\n",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in order (B) out of order (C) buy to let (D) gavel to order",
+    "answer": {
+        "D": "gavel to order"
+    }
+}

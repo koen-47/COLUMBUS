@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (A) bee in one's bonnet.  The image shows the word \"BONBEENET\", which is an anagram for \"BEE IN ONE'S BONNET\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bee in one's bonnet (B) put the bee on (C) bee in bonnet (D) queen bee",
+    "answer": {
+        "C": "bee in bonnet"
+    }
+}

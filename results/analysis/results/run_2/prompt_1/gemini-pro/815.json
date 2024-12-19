@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The words in the image form the phrase \"run earth run,\" which shares the meaning of option (C): run into the ground. \n\nThe phrase \"run into the ground\" means to overuse or exploit something to the point of exhaustion or ruin. The image visually represents this by having the word \"earth\" sandwiched between two \"run\"s, suggesting that the earth is being run upon excessively.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to earth (B) come down to earth (C) run into the ground (D) run to",
+    "answer": {
+        "A": "run to earth"
+    }
+}

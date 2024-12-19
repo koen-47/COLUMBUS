@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (C) two for two.  The image shows three 2s on the left and one 2 on the right. This visually represents \"three twos\" and \"one two\".  Therefore, the phrase \"two for two\" is the best fit for the image.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eat for two (B) turn two (C) two for two (D) put two and two together",
+    "answer": {
+        "C": "two for two"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"20\" twice, followed by \"12\".  The description indicates that the sound \"to\" is associated with \"20\", repeated twice and the number 12 is associated with \"dozen\".  Put together, this creates \"twenty, twenty to the dozen\".\n\nSo the answer is (C).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: 20, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: 12, repeat: 1, sound: (dozen: 12))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) decimal dozen (B) cheaper by the dozen (C) twenty to the dozen (D) a dime a dozen",
+    "answer": {
+        "C": "twenty to the dozen"
+    }
+}

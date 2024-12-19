@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is **(B) burn the candle at both ends**.\n\nThe rebus shows \"WI CANDL END\".  \"WI\" is positioned between \"CANDL\" and \"END\", suggesting that the candle is being used or burned from both ends.  This is a common idiom meaning to overwork oneself or to live life too intensely and therefore burn oneself out.",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) candle in the wind (B) burn the candle at both ends (C) candlelight (D) candlepower",
+    "answer": {
+        "A": "candle in the wind"
+    }
+}

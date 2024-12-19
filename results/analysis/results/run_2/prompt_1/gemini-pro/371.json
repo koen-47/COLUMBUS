@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys (C) dead end job.  The words \"DEAD\" and \"JOB\" are presented, and the arrows pointing in opposite directions visually represent a \"dead end,\" implying a job with no opportunity for advancement.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead end (B) dead last (C) dead end job (D) dead loss",
+    "answer": {
+        "C": "dead end job"
+    }
+}

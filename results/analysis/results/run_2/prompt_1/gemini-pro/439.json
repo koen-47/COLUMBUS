@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts \"HEAD\" over \"HEELS\", so the answer is (A) head over heels.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) take to one's heels (C) kick up one's heels (D) dig heels in",
+    "answer": {
+        "A": "head over heels"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image says \"TI WHAT ME\".  Rearranging the letters reveals \"WHAT TIME\". So the correct answer is **(A) what in time**.",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what in time (B) why in time (C) time after time (D) matter of time",
+    "answer": {
+        "A": "what in time"
+    }
+}

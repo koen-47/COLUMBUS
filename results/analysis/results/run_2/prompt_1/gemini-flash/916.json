@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) the sun sets on something.\n\nThe image uses a stylized sun symbol and the word \"sets\" to visually represent the phrase \"the sun sets on something\".\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a trip to the sun (B) the sun sets on something (C) catch the sun (D) sunlight",
+    "answer": {
+        "B": "the sun sets on something"
+    }
+}

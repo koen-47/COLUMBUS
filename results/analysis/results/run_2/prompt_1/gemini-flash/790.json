@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(B) head for the hills**.\n\nThe image shows four figures running towards the word \"HILLS\".  This visually represents the idiom \"head for the hills,\" which means to flee or escape a dangerous or unpleasant situation.  The other options don't fit the visual representation.\n",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for the hills (B) head for the hills (C) take to the hills (D) old as the hills",
+    "answer": {
+        "A": "run for the hills"
+    }
+}

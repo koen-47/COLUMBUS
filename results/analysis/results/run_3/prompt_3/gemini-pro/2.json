@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus represents a \"bird in hand\". The image shows a bird between two hands.\n\nThe correct answer is (A).",
+    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc26, repeat: 1, icon: (bird: \ud83d\udc26))\nNode 2 attributes: (text: \ud83e\udd1a, repeat: 1, icon: (hand: \ud83e\udd1a))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) a bird in the hand (B) a bird in the hand is worth two in the bush (C) early bird (D) bird in the bosom",
+    "answer": {
+        "A": "a bird in the hand"
+    }
+}

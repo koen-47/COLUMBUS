@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (D) make over.\n\nThe word \"MAKE\" is repeated four times, or \"MAKE\" is written \"over\" and \"over\" again. Thus, the rebus represents \"make over\".",
+    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make do (B) make happen (C) make for (D) make over",
+    "answer": {
+        "C": "make for"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) cat in the sack.  The image shows the word \"SACK\" with a picture of a cat placed in the middle, forming the phrase \"cat in the sack\".",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the cat's out of the bag (B) the cat's pajamas (C) in the sack (D) cat in the sack",
+    "answer": {
+        "D": "cat in the sack"
+    }
+}
