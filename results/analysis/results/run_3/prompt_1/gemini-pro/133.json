@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"WABLOODTER\", which is a corruption of \"**water**\".  None of the provided phrases are represented.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead in the water (B) blood in the water (C) blood is thicker than water (D) shed blood",
-    "answer": {
-        "B": "blood in the water"
-    }
+   "gemini_pro_response": "The image says \"WABLOODTER\", which is a corruption of \"**water**\".  None of the provided phrases are represented.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead in the water (B) blood in the water (C) blood is thicker than water (D) shed blood",
+   "answer": {
+      "B": "blood in the water"
+   },
+   "extracted_response": "The image says \"WABLOODTER\", which is a corruption of \"**water**\".  None of the provided phrases are represented."
 }

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"SUIT\" written vertically to the left of the word \"GROUND,\" which is written twice horizontally. This represents the phrase \"suit to the ground.\"\n\nThe correct answer is (A) suit down to the ground.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"1\",\n    \"name\": \"word_suit\",\n    \"description\": \"The word 'SUIT' written vertically.\",\n    \"relation\": \"left of the word 'GROUND'\"\n}\n```\n\n```json\n{\n    \"id\": \"2\",\n    \"name\": \"word_ground\",\n    \"description\": \"The word 'GROUND' written twice, horizontally.\",\n    \"relation\": \"right of the word 'SUIT'\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) suit down to the ground (B) go to ground (C) put in the ground (D) run into the ground\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "suit down to the ground"
+    }
+}

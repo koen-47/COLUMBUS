@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle represents \"Get Business,\" which is formed by arranging \"G,\" \"E,\" \"T\" over the word \"BUSINESS.\"  Since this isn't an option, and \"Get Business\" and \"Get down to business\" are very similar in meaning, the best option is (B) get down to business.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sell down (B) get down to business (C) take care of business (D) out of business",
-    "answer": {
-        "B": "get down to business"
-    }
+   "gemini_pro_response": "The rebus puzzle represents \"Get Business,\" which is formed by arranging \"G,\" \"E,\" \"T\" over the word \"BUSINESS.\"  Since this isn't an option, and \"Get Business\" and \"Get down to business\" are very similar in meaning, the best option is (B) get down to business.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sell down (B) get down to business (C) take care of business (D) out of business",
+   "answer": {
+      "B": "get down to business"
+   },
+   "extracted_response": "B) get down to business"
 }

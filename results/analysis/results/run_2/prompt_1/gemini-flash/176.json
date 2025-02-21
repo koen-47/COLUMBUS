@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **wall of silence**.\n\nThe image uses a visual representation of a wall (the blue bricks) combined with the word \"SILENCE\".  This directly conveys the idiom \"wall of silence,\" which refers to a refusal to speak about something, often to protect someone or something.  The other options don't fit the visual metaphor as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pact of silence (B) wall of silence (C) blue wall of silence (D) silence is golden",
-    "answer": {
-        "C": "blue wall of silence"
-    }
+   "gemini_pro_response": "The correct answer is (B) **wall of silence**.\n\nThe image uses a visual representation of a wall (the blue bricks) combined with the word \"SILENCE\".  This directly conveys the idiom \"wall of silence,\" which refers to a refusal to speak about something, often to protect someone or something.  The other options don't fit the visual metaphor as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pact of silence (B) wall of silence (C) blue wall of silence (D) silence is golden",
+   "answer": {
+      "C": "blue wall of silence"
+   },
+   "extracted_response": "B) wall of silence"
 }

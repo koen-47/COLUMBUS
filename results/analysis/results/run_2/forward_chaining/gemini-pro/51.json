@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"BABIES\" surrounded by two sets of eyes. This maps to option (B) \"babies in the eyes\".\n\n(A) Newborn: This option doesn't incorporate the eyes.\n(C) Raccoon eyes: The image doesn't suggest the dark circles associated with raccoon eyes.\n(D) Stars in one's eyes: The image shows standard eyes, not stars.\n\nTherefore, the answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"baby emoji 1\",\n    \"description\": \"A baby emoji with a pacifier on the left side of the text.\",\n    \"relation\": \"left of the text 'BABIES'\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"text 'BABIES'\",\n    \"description\": \"The word 'BABIES' in uppercase letters.\",\n    \"relation\": \"between the baby emojis\"\n  },\n  {\n    \"id\": \"item3\",\n    \"name\": \"baby emoji 2\",\n    \"description\": \"A baby emoji with a pacifier on the right side of the text.\",\n    \"relation\": \"right of the text 'BABIES'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) newborn (B) babies in the eyes (C) raccoon eyes (D) stars in one's eyes\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "babies in the eyes"
+    }
+}

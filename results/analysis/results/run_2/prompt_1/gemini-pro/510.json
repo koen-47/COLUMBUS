@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"**hold 4**\".  None of the given options include the number, but if we have to choose the closest phrasing, it would be closest to (A) hold off, in the sense of waiting or pausing.  However, without additional context, \"hold 4\" seems to instruct someone to hold or maintain something at the level/position/quantity of 4.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold off (B) hold out for (C) hold out (D) hold down",
-    "answer": {
-        "B": "hold out for"
-    }
+   "gemini_pro_response": "The image conveys \"**hold 4**\".  None of the given options include the number, but if we have to choose the closest phrasing, it would be closest to (A) hold off, in the sense of waiting or pausing.  However, without additional context, \"hold 4\" seems to instruct someone to hold or maintain something at the level/position/quantity of 4.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold off (B) hold out for (C) hold out (D) hold down",
+   "answer": {
+      "B": "hold out for"
+   },
+   "extracted_response": "A) hold off"
 }

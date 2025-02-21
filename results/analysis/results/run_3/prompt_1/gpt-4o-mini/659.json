@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (A) light up.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) light up (B) make a light (C) loaf about (D) light in the loafers",
-    "answer": {
-        "D": "light in the loafers"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) light up.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) light up (B) make a light (C) loaf about (D) light in the loafers",
+   "answer": {
+      "D": "light in the loafers"
+   },
+   "extracted_response": "A) light up"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"BOB\" followed by \"REED\" and then \"NE.\" This can be interpreted as \"Bob breed in the bone.\" \n\nThe closest option that matches this interpretation is:\n\n(D) breed in the bone.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bred-in-the-bone (B) bone hard (C) bone to pick (D) breed in the bone",
-    "answer": {
-        "D": "breed in the bone"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"BOB\" followed by \"REED\" and then \"NE.\" This can be interpreted as \"Bob breed in the bone.\" \n\nThe closest option that matches this interpretation is:\n\n(D) breed in the bone.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bred-in-the-bone (B) bone hard (C) bone to pick (D) breed in the bone",
+   "answer": {
+      "D": "breed in the bone"
+   },
+   "extracted_response": "D) breed in the bone"
 }

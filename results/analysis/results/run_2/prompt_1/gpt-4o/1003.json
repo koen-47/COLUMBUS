@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) woman on the street.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) outdoorswoman (B) man on the street (C) woman on the street (D) woman among women",
-    "answer": {
-        "C": "woman on the street"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) woman on the street.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) outdoorswoman (B) man on the street (C) woman on the street (D) woman among women",
+   "answer": {
+      "C": "woman on the street"
+   },
+   "extracted_response": "C) woman on the street"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts a brain with arrows pointing in and out, suggesting thinking or processing information.  The closest word among the choices is **(C) midbrain**. While the whole brain is shown, not just the midbrain, that option is the most relevant to the organ depicted.  The other options refer to parts of a leaf (midrib, midribs, midvein), which are not related to the image.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midrib (B) midribs (C) midbrain (D) midvein",
-    "answer": {
-        "C": "midbrain"
-    }
+   "gemini_pro_response": "The image depicts a brain with arrows pointing in and out, suggesting thinking or processing information.  The closest word among the choices is **(C) midbrain**. While the whole brain is shown, not just the midbrain, that option is the most relevant to the organ depicted.  The other options refer to parts of a leaf (midrib, midribs, midvein), which are not related to the image.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midrib (B) midribs (C) midbrain (D) midvein",
+   "answer": {
+      "C": "midbrain"
+   },
+   "extracted_response": "C) midbrain"
 }

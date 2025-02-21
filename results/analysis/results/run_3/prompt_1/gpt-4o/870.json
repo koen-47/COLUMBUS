@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(B) start with a bang",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bang up (B) start with a bang (C) go out with a bang (D) bang out",
-    "answer": {
-        "B": "start with a bang"
-    }
+   "gpt4v_response": "(B) start with a bang",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bang up (B) start with a bang (C) go out with a bang (D) bang out",
+   "answer": {
+      "B": "start with a bang"
+   },
+   "extracted_response": "B) start with a bang"
 }

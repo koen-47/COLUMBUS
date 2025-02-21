@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "B) cross the rhine",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross the Thames (B) cross the rhine (C) crossbench (D) cross the Rubicon",
-    "answer": {
-        "B": "cross the rhine"
-    }
+   "gpt4v_response": "B) cross the rhine",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross the Thames (B) cross the rhine (C) crossbench (D) cross the Rubicon",
+   "answer": {
+      "B": "cross the rhine"
+   },
+   "extracted_response": "B) cross the rhine"
 }

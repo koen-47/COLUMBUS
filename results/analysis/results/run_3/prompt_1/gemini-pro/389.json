@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts two waves crashing and a skull in the middle, symbolizing \"**dead in the water**\" (C).  The waves represent water, and the skull represents death. The phrase means something is not going anywhere or making progress, essentially doomed to fail.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead inside (B) dead fish (C) dead in the water (D) dead and buried",
-    "answer": {
-        "C": "dead in the water"
-    }
+   "gemini_pro_response": "The image depicts two waves crashing and a skull in the middle, symbolizing \"**dead in the water**\" (C).  The waves represent water, and the skull represents death. The phrase means something is not going anywhere or making progress, essentially doomed to fail.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead inside (B) dead fish (C) dead in the water (D) dead and buried",
+   "answer": {
+      "C": "dead in the water"
+   },
+   "extracted_response": "C) dead in the water"
 }

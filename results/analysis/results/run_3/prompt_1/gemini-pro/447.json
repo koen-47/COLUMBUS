@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image clearly shows the word \"WONDER\". None of the given phrases are present in the image.\n\nWhile the image could be *part* of a larger image or design that ultimately conveys one of the phrases (most likely \"one-hit wonder\"), based on the image alone, *none* of the provided options are correct.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two-hit wonder (B) one-hit wonder (C) small wonder (D) no-hit wonder",
-    "answer": {
-        "C": "small wonder"
-    }
+   "gemini_pro_response": "The image clearly shows the word \"WONDER\". None of the given phrases are present in the image.\n\nWhile the image could be *part* of a larger image or design that ultimately conveys one of the phrases (most likely \"one-hit wonder\"), based on the image alone, *none* of the provided options are correct.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two-hit wonder (B) one-hit wonder (C) small wonder (D) no-hit wonder",
+   "answer": {
+      "C": "small wonder"
+   },
+   "extracted_response": "The image clearly shows the word \"WONDER\". None of the given phrases are present in the image.\n\nWhile the image could be *part* of a larger image or design that ultimately conveys one of the phrases (most likely \"one-hit wonder\"), based on the image alone, *none* of the provided options are correct."
 }

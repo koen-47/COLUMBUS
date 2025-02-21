@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image consists of:\n\n1. The letter \"A\" on the left.\n2. Two castle icons in the middle.\n3. The letters \"IR\" on the right.\n\nThis forms the phrase \"A castles IR,\" which can be interpreted as \"castles in the air.\"\n\nThe correct answer is (A) castles in the air.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Letter A\",\n        \"description\": \"The letter 'A' in uppercase.\",\n        \"relation\": \"Placed to the left of the castle icons.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Castle Icons\",\n        \"description\": \"Two identical castle icons placed side by side.\",\n        \"relation\": \"Placed between the letter 'A' and the letters 'IR'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"Letters IR\",\n        \"description\": \"The letters 'IR' in uppercase.\",\n        \"relation\": \"Placed to the right of the castle icons.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) castles in the air (B) castle in the air (C) king of the castle (D) in the air\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "castles in the air"
+    }
+}

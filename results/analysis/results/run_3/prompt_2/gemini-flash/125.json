@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) **before the bell rings**.\n\nThe upward and downward arrows flanking the word \"BELL\" indicate that the \"bell\" is in between \"before\" and \"rings\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before the bell rings (B) saved by the bell (C) ring a bell (D) ring someone's bell",
-    "answer": {
-        "A": "before the bell rings"
-    }
+   "gemini_pro_response": "The correct answer is (A) **before the bell rings**.\n\nThe upward and downward arrows flanking the word \"BELL\" indicate that the \"bell\" is in between \"before\" and \"rings\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before the bell rings (B) saved by the bell (C) ring a bell (D) ring someone's bell",
+   "answer": {
+      "A": "before the bell rings"
+   },
+   "extracted_response": "A) before the bell rings"
 }

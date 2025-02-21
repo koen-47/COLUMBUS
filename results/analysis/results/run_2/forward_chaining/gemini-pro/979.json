@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The stick figure is walking above the word \"AIR\". This represents \"walking on air\" (D).\n\n(A) take air: The figure isn't shown taking anything.\n(B) in the air: The figure is above \"AIR\", not in it.\n(C) catch air:  Similar to \"take air\", the figure isn't shown catching anything.\n\nThus, the only consistent answer is (D).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"stick_figure\",\n        \"description\": \"A small stick figure of a person running.\",\n        \"relation\": \"above the horizontal line\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"horizontal_line\",\n        \"description\": \"A straight horizontal line.\",\n        \"relation\": \"below the stick figure and above the text 'AIR'\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"text_air\",\n        \"description\": \"The word 'AIR' in capital letters.\",\n        \"relation\": \"below the horizontal line\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) take air (B) in the air (C) catch air (D) walking on air\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "walking on air"
+    }
+}

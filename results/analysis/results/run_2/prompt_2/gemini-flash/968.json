@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(C) take a walk**.\n\nThe word \"PAWALKRK\" contains the word \"WALK\" within it.  The \"PA\" and \"RK\" at the beginning and end suggest \"park\" (as in a place to walk).  Therefore, the rebus signifies \"take a walk in the park\", which is closest to option C.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) walk in the park (B) in a walk (C) take a walk (D) knock out the park",
-    "answer": {
-        "A": "walk in the park"
-    }
+   "gemini_pro_response": "The answer is **(C) take a walk**.\n\nThe word \"PAWALKRK\" contains the word \"WALK\" within it.  The \"PA\" and \"RK\" at the beginning and end suggest \"park\" (as in a place to walk).  Therefore, the rebus signifies \"take a walk in the park\", which is closest to option C.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) walk in the park (B) in a walk (C) take a walk (D) knock out the park",
+   "answer": {
+      "A": "walk in the park"
+   },
+   "extracted_response": "C) take a walk"
 }

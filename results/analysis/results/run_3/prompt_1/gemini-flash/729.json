@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) two pennies' worth**.\n\nThe image shows the word \"Pennies\" with a symbol representing a small amount of money.  This aligns with the meaning of \"two pennies' worth,\" suggesting something of little value or significance.  The other options don't fit the visual representation as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pretty penny (B) two pennies to rub together (C) two pennies' worth (D) pennies on the dollar",
-    "answer": {
-        "D": "pennies on the dollar"
-    }
+   "gemini_pro_response": "The correct answer is **(C) two pennies' worth**.\n\nThe image shows the word \"Pennies\" with a symbol representing a small amount of money.  This aligns with the meaning of \"two pennies' worth,\" suggesting something of little value or significance.  The other options don't fit the visual representation as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pretty penny (B) two pennies to rub together (C) two pennies' worth (D) pennies on the dollar",
+   "answer": {
+      "D": "pennies on the dollar"
+   },
+   "extracted_response": "C"
 }

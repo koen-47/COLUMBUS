@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the word \"BOW\" with a line crossing through it, similar to how one might cross something out. This visually represents the phrase **(A) shot across the bow**. This idiom refers to a warning shot fired in front of a ship, intended as a signal to stop.  It's used figuratively to describe a warning or a demonstration of strength.\n\nThe other options are incorrect:\n\n* **(B) crossbows:**  While the image uses a line crossing the word \"bow,\" it doesn't depict an actual crossbow.\n* **(C) take a bow:** This refers to bending forward in acknowledgement, usually after a performance.\n* **(D) crossbow:**  Again, the image isn't a picture of a crossbow.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shot across the bow (B) crossbows (C) take a bow (D) crossbow",
-    "answer": {
-        "D": "crossbow"
-    }
+   "gemini_pro_response": "The image shows the word \"BOW\" with a line crossing through it, similar to how one might cross something out. This visually represents the phrase **(A) shot across the bow**. This idiom refers to a warning shot fired in front of a ship, intended as a signal to stop.  It's used figuratively to describe a warning or a demonstration of strength.\n\nThe other options are incorrect:\n\n* **(B) crossbows:**  While the image uses a line crossing the word \"bow,\" it doesn't depict an actual crossbow.\n* **(C) take a bow:** This refers to bending forward in acknowledgement, usually after a performance.\n* **(D) crossbow:**  Again, the image isn't a picture of a crossbow.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shot across the bow (B) crossbows (C) take a bow (D) crossbow",
+   "answer": {
+      "D": "crossbow"
+   },
+   "extracted_response": "A) shot across the bow"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle \"YOURBALLCOURT\" represents (D) the ball is in your court.  It's a visual representation of the idiom, replacing \"is in\" with the word \"ball\" placed between \"your\" and \"court\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) play ball (B) leave the ball in someone's court (C) the ball is in someone's court (D) the ball is in your court",
-    "answer": {
-        "D": "the ball is in your court"
-    }
+   "gemini_pro_response": "The rebus puzzle \"YOURBALLCOURT\" represents (D) the ball is in your court.  It's a visual representation of the idiom, replacing \"is in\" with the word \"ball\" placed between \"your\" and \"court\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) play ball (B) leave the ball in someone's court (C) the ball is in someone's court (D) the ball is in your court",
+   "answer": {
+      "D": "the ball is in your court"
+   },
+   "extracted_response": "D) the ball is in your court"
 }

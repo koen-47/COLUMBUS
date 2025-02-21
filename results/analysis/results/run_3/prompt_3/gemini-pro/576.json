@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"DOWN\" twice, positioned above each other, and the word \"EARTH.\" The description further clarifies this with 'repeat: 2' for DOWN and the relationship between the two DOWNs and EARTH specified by 'sound: (to: 2)'.  This translates to \"DOWN to EARTH.\"\n\nTherefore, the answer is (A).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: DOWN, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: EARTH, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) down to earth (B) down the road (C) come down to earth (D) down under",
-    "answer": {
-        "A": "down to earth"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"DOWN\" twice, positioned above each other, and the word \"EARTH.\" The description further clarifies this with 'repeat: 2' for DOWN and the relationship between the two DOWNs and EARTH specified by 'sound: (to: 2)'.  This translates to \"DOWN to EARTH.\"\n\nTherefore, the answer is (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: DOWN, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: EARTH, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) down to earth (B) down the road (C) come down to earth (D) down under",
+   "answer": {
+      "A": "down to earth"
+   },
+   "extracted_response": "A"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The phrase conveyed in this image is (C) let the cat out of the bag.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) left holding the bag (B) cat in the sack (C) let the cat out of the bag (D) give someone the bag",
-    "answer": {
-        "C": "let the cat out of the bag"
-    }
+   "gpt4v_response": "The phrase conveyed in this image is (C) let the cat out of the bag.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) left holding the bag (B) cat in the sack (C) let the cat out of the bag (D) give someone the bag",
+   "answer": {
+      "C": "let the cat out of the bag"
+   },
+   "extracted_response": "C) let the cat out of the bag"
 }

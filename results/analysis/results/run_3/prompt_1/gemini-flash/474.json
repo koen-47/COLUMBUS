@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) handshake.  The image clearly displays the word \"HANDSHAKE\" in green.  Options A and B are idioms related to handshakes but are not what the image shows. Option D is the gerund form of the noun.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) green handshake (B) golden handshake (C) handshake (D) handshaking",
-    "answer": {
-        "A": "green handshake"
-    }
+   "gemini_pro_response": "The correct answer is (C) handshake.  The image clearly displays the word \"HANDSHAKE\" in green.  Options A and B are idioms related to handshakes but are not what the image shows. Option D is the gerund form of the noun.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) green handshake (B) golden handshake (C) handshake (D) handshaking",
+   "answer": {
+      "A": "green handshake"
+   },
+   "extracted_response": "C) handshake"
 }

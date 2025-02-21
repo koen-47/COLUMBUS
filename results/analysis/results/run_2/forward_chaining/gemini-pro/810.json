@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The running person can be mapped to the word \"run\" in all the answer choices.\n\nThe clock inside the square represents \"out\".\n\nSince the running person is to the left of the clock, this implies running \"out\" the clock.\n\nTherefore, the correct answer is (B) run out the clock.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"running_person_icon\",\n  \"description\": \"An icon of a person running.\",\n  \"relation\": \"left of the clock in a square\"\n}\n```\n\n```json\n{\n  \"id\": \"item2\",\n  \"name\": \"clock_in_square\",\n  \"description\": \"A clock icon inside a square.\",\n  \"relation\": \"right of the running person icon\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) run the clock down (B) run out the clock (C) run down the clock (D) beat the clock\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "run out the clock"
+    }
+}

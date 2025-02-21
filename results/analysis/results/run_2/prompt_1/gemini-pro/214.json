@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus represents \"bring to heel\".  The image shows the word \"BRING\" twice, with a picture of a heel.  The duplicate \"BRING\" suggests a repetition or emphasis on the word to create the idiom.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bring to heel (B) Achilles heel (C) turn on one's heel (D) down at heel",
-    "answer": {
-        "A": "bring to heel"
-    }
+   "gemini_pro_response": "The rebus represents \"bring to heel\".  The image shows the word \"BRING\" twice, with a picture of a heel.  The duplicate \"BRING\" suggests a repetition or emphasis on the word to create the idiom.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bring to heel (B) Achilles heel (C) turn on one's heel (D) down at heel",
+   "answer": {
+      "A": "bring to heel"
+   },
+   "extracted_response": "A) bring to heel"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(A) write the book**.\n\nThe letters N, R, U, and T are positioned to the left of the word \"BOOK\", suggesting that the letters should be read as \"NUT\" and be placed on top of the \"BOOK\".  This is similar to the action of writing on a book.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) write the book (B) make book (C) turn up for the book (D) throw the book at",
-    "answer": {
-        "C": "turn up for the book"
-    }
+   "gemini_pro_response": "The answer is **(A) write the book**.\n\nThe letters N, R, U, and T are positioned to the left of the word \"BOOK\", suggesting that the letters should be read as \"NUT\" and be placed on top of the \"BOOK\".  This is similar to the action of writing on a book.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) write the book (B) make book (C) turn up for the book (D) throw the book at",
+   "answer": {
+      "C": "turn up for the book"
+   },
+   "extracted_response": "A) write the book"
 }

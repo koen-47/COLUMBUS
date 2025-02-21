@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle consists of the word \"BLOOD\" in blue color. This directly suggests the phrase \"blue blood.\" Therefore, the correct answer is:\n\n(A) blue blood.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BLOOD, color: blue, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) blue blood (B) young blood (C) bad blood (D) new blood",
-    "answer": {
-        "A": "blue blood"
-    }
+   "gpt4v_response": "The rebus puzzle consists of the word \"BLOOD\" in blue color. This directly suggests the phrase \"blue blood.\" Therefore, the correct answer is:\n\n(A) blue blood.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BLOOD, color: blue, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) blue blood (B) young blood (C) bad blood (D) new blood",
+   "answer": {
+      "A": "blue blood"
+   },
+   "extracted_response": "A) blue blood"
 }

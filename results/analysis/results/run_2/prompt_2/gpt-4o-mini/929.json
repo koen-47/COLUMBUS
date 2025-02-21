@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows \"1111\" next to \"GRAVE.\" The \"1111\" can be interpreted as \"one\" repeated four times, which sounds like \"four.\" Therefore, the phrase conveyed is \"four grave,\" which aligns with the option:\n\n(B) dig one's own grave.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take someone to the grave (B) dig one's own grave (C) take to the grave (D) turn in one's grave",
-    "answer": {
-        "D": "turn in one's grave"
-    }
+   "gpt4v_response": "The rebus puzzle shows \"1111\" next to \"GRAVE.\" The \"1111\" can be interpreted as \"one\" repeated four times, which sounds like \"four.\" Therefore, the phrase conveyed is \"four grave,\" which aligns with the option:\n\n(B) dig one's own grave.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take someone to the grave (B) dig one's own grave (C) take to the grave (D) turn in one's grave",
+   "answer": {
+      "D": "turn in one's grave"
+   },
+   "extracted_response": "B) dig one's own grave"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts the phrase \"hand in glove\" (B).  The word \"glove\" is partially spelled out, with a hand icon replacing the letters \"and\" to create a visual pun.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand in hand (B) hand in glove (C) hand over hand (D) in hand",
-    "answer": {
-        "B": "hand in glove"
-    }
+   "gemini_pro_response": "The image depicts the phrase \"hand in glove\" (B).  The word \"glove\" is partially spelled out, with a hand icon replacing the letters \"and\" to create a visual pun.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand in hand (B) hand in glove (C) hand over hand (D) in hand",
+   "answer": {
+      "B": "hand in glove"
+   },
+   "extracted_response": "B"
 }

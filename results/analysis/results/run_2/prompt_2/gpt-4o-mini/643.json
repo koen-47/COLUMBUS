@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The letters \"CR\" at the beginning can be seen as \"Crown.\"\n- The letters \"JEWEL\" in the middle suggest \"jewel.\"\n- The letters \"OWN\" at the end can imply \"own\" or \"in the crown.\"\n\nPutting it all together, the phrase conveyed is \"jewel in the crown.\"\n\nSo, the correct answer is (B) jewel in the crown.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) necklace (B) jewel in the crown (C) crowning glory (D) crownwork",
-    "answer": {
-        "B": "jewel in the crown"
-    }
+   "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The letters \"CR\" at the beginning can be seen as \"Crown.\"\n- The letters \"JEWEL\" in the middle suggest \"jewel.\"\n- The letters \"OWN\" at the end can imply \"own\" or \"in the crown.\"\n\nPutting it all together, the phrase conveyed is \"jewel in the crown.\"\n\nSo, the correct answer is (B) jewel in the crown.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) necklace (B) jewel in the crown (C) crowning glory (D) crownwork",
+   "answer": {
+      "B": "jewel in the crown"
+   },
+   "extracted_response": "B) jewel in the crown"
 }

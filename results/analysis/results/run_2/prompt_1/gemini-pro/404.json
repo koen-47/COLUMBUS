@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"PSYCHOLOGY\" backwards.  Therefore, the answer is (B) reverse psychology.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) reverse course (B) reverse psychology (C) reverse engineer (D) go into reverse",
-    "answer": {
-        "B": "reverse psychology"
-    }
+   "gemini_pro_response": "The image says \"PSYCHOLOGY\" backwards.  Therefore, the answer is (B) reverse psychology.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) reverse course (B) reverse psychology (C) reverse engineer (D) go into reverse",
+   "answer": {
+      "B": "reverse psychology"
+   },
+   "extracted_response": "B) reverse psychology"
 }

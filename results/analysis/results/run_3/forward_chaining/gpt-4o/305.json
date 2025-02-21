@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows a battery icon with a low charge level. This suggests the concept of \"small\" or \"low.\" \n\nMapping this to the answer choices:\n- (A) beer goggles: unrelated to size or charge\n- (B) beer and skittles: unrelated to size or charge\n- (C) small beer: \"small\" aligns with the low charge\n- (D) beer muscles: unrelated to size or charge\n\nThe correct answer is (C) small beer.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n{\n  \"id\": \"1\",\n  \"name\": \"battery icon\",\n  \"description\": \"An icon representing a battery with a low charge level.\",\n  \"relation\": \"none\"\n}\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) beer goggles (B) beer and skittles (C) small beer (D) beer muscles\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "small beer"
+    }
+}

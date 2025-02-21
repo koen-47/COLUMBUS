@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (D) full circle.\n\nThe letters in \"ELCRIC\" are a jumbled version of \"CIRCLE\".  The phrase \"full circle\" implies a complete rotation or cycle, which is visually represented by the rearrangement of the letters to spell \"CIRCLE\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) circle back (B) inner circle (C) swing round the circle (D) full circle",
-    "answer": {
-        "A": "circle back"
-    }
+   "gemini_pro_response": "The answer is (D) full circle.\n\nThe letters in \"ELCRIC\" are a jumbled version of \"CIRCLE\".  The phrase \"full circle\" implies a complete rotation or cycle, which is visually represented by the rearrangement of the letters to spell \"CIRCLE\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) circle back (B) inner circle (C) swing round the circle (D) full circle",
+   "answer": {
+      "A": "circle back"
+   },
+   "extracted_response": "D) full circle"
 }

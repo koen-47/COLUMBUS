@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **blood in the water**.\n\nThe image shows the word \"BLOOD\" with a graphic of a wave on either side, suggesting something is being spilled or released into the water.  This directly relates to the idiom \"blood in the water,\" which typically implies a sense of danger or aggression, often in a competitive or predatory context.  The other options don't visually match the image as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shed blood (B) blood is thicker than water (C) blood in the water (D) dead in the water",
-    "answer": {
-        "C": "blood in the water"
-    }
+   "gemini_pro_response": "The correct answer is (C) **blood in the water**.\n\nThe image shows the word \"BLOOD\" with a graphic of a wave on either side, suggesting something is being spilled or released into the water.  This directly relates to the idiom \"blood in the water,\" which typically implies a sense of danger or aggression, often in a competitive or predatory context.  The other options don't visually match the image as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shed blood (B) blood is thicker than water (C) blood in the water (D) dead in the water",
+   "answer": {
+      "C": "blood in the water"
+   },
+   "extracted_response": "C) blood in the water"
 }

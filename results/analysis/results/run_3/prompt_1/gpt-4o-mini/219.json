@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) jewel in the crown.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crowning glory (B) necklace (C) jewel in the crown (D) crownwork",
-    "answer": {
-        "C": "jewel in the crown"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) jewel in the crown.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crowning glory (B) necklace (C) jewel in the crown (D) crownwork",
+   "answer": {
+      "C": "jewel in the crown"
+   },
+   "extracted_response": "C) jewel in the crown"
 }

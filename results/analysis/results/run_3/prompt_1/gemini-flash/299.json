@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **left high and dry**.\n\nThe image shows the word \"HIGH\" with an arrow pointing down and up, indicating a decrease and then an increase.  The word \"DRY\" is separate. This visually represents the idiom \"left high and dry,\" which means to be abandoned or in a difficult situation without help or support.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high and dry (B) on the dry (C) left high and dry (D) leave someone high and dry",
-    "answer": {
-        "C": "left high and dry"
-    }
+   "gemini_pro_response": "The correct answer is (C) **left high and dry**.\n\nThe image shows the word \"HIGH\" with an arrow pointing down and up, indicating a decrease and then an increase.  The word \"DRY\" is separate. This visually represents the idiom \"left high and dry,\" which means to be abandoned or in a difficult situation without help or support.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high and dry (B) on the dry (C) left high and dry (D) leave someone high and dry",
+   "answer": {
+      "C": "left high and dry"
+   },
+   "extracted_response": "C"
 }

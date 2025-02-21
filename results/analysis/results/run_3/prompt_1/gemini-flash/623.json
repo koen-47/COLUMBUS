@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **fall out with**.\n\nThe image shows \"FALL\" outside a box and \"WITH\" inside a box.  This visually represents the phrase \"fall out with,\" which means to have a disagreement or quarrel with someone.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall into (B) fall out with (C) fall out (D) falling out",
-    "answer": {
-        "B": "fall out with"
-    }
+   "gemini_pro_response": "The correct answer is (B) **fall out with**.\n\nThe image shows \"FALL\" outside a box and \"WITH\" inside a box.  This visually represents the phrase \"fall out with,\" which means to have a disagreement or quarrel with someone.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall into (B) fall out with (C) fall out (D) falling out",
+   "answer": {
+      "B": "fall out with"
+   },
+   "extracted_response": "B) fall out with"
 }

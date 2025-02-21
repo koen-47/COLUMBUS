@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle represents \"four eyes\" then \"AN I\", making the phrase \"for an eye.\"  This means the answer is (B).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see eye to eye (B) eye for an eye (C) have an eye for (D) one in the eye for",
-    "answer": {
-        "B": "eye for an eye"
-    }
+   "gemini_pro_response": "The rebus puzzle represents \"four eyes\" then \"AN I\", making the phrase \"for an eye.\"  This means the answer is (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see eye to eye (B) eye for an eye (C) have an eye for (D) one in the eye for",
+   "answer": {
+      "B": "eye for an eye"
+   },
+   "extracted_response": "B) eye for an eye"
 }

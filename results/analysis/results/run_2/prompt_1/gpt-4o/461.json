@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) to a fault.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blame game (B) faultfinding (C) to a fault (D) find fault",
-    "answer": {
-        "C": "to a fault"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) to a fault.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blame game (B) faultfinding (C) to a fault (D) find fault",
+   "answer": {
+      "C": "to a fault"
+   },
+   "extracted_response": "C"
 }

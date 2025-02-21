@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (A) greenhouse.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) greenhouse (B) grassland (C) sunlight (D) greenhouses",
-    "answer": {
-        "A": "greenhouse"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) greenhouse.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) greenhouse (B) grassland (C) sunlight (D) greenhouses",
+   "answer": {
+      "A": "greenhouse"
+   },
+   "extracted_response": "A) greenhouse"
 }

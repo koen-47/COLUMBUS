@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains the words \"PACKED\" and \"GILLS.\" \n\n- The word \"PACKED\" appears twice.\n- The word \"GILLS\" appears once.\n\nThe phrase that matches this arrangement is \"packed to the gills.\"\n\nTherefore, the correct answer is (D) packed to the gills.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Text 'PACKED'\",\n        \"description\": \"The word 'PACKED' written in bold uppercase letters.\",\n        \"relation\": \"Located at the top left of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Text 'GILLS'\",\n        \"description\": \"The word 'GILLS' written in bold uppercase letters.\",\n        \"relation\": \"Located to the right of the first 'PACKED'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"Text 'PACKED'\",\n        \"description\": \"The word 'PACKED' written in bold uppercase letters.\",\n        \"relation\": \"Located below the first 'PACKED'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) full to the gills (B) stuffed to the gills (C) to the gills (D) packed to the gills\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "packed to the gills"
+    }
+}

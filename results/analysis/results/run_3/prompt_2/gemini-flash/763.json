@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) put off.\n\nThe line between \"PUT\" and \"DOG\" represents the word \"off\".  Therefore, the rebus reads \"PUT OFF\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the dog (B) dog around (C) put off (D) put someone on to",
-    "answer": {
-        "A": "put on the dog"
-    }
+   "gemini_pro_response": "The correct answer is (C) put off.\n\nThe line between \"PUT\" and \"DOG\" represents the word \"off\".  Therefore, the rebus reads \"PUT OFF\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the dog (B) dog around (C) put off (D) put someone on to",
+   "answer": {
+      "A": "put on the dog"
+   },
+   "extracted_response": "C) put off"
 }

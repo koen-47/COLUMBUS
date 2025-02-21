@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image clearly shows the word \"BUCKS\".  While \"bucks\" is part of the phrases in B and D, the image conveys only the word \"bucks\". So the correct answer is **B. the big bucks**, as \"bucks\" by itself can refer to dollars or money, commonly referred to as \"the big bucks\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bighorns (B) the big bucks (C) bucksaws (D) buckskin",
-    "answer": {
-        "B": "the big bucks"
-    }
+   "gemini_pro_response": "The image clearly shows the word \"BUCKS\".  While \"bucks\" is part of the phrases in B and D, the image conveys only the word \"bucks\". So the correct answer is **B. the big bucks**, as \"bucks\" by itself can refer to dollars or money, commonly referred to as \"the big bucks\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bighorns (B) the big bucks (C) bucksaws (D) buckskin",
+   "answer": {
+      "B": "the big bucks"
+   },
+   "extracted_response": "B) the big bucks"
 }

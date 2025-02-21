@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the letters K, L, A, H, C arranged vertically with the number 2 next to them. This is a rebus puzzle representing the phrase \"Chalk it up to experience\" (K, L, A, H, C + 2 Experience). The closest option is D.\n\nSo the answer is (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chalk up to (B) drum up (C) chalk off (D) chalk something up to experience",
-    "answer": {
-        "A": "chalk up to"
-    }
+   "gemini_pro_response": "The image shows the letters K, L, A, H, C arranged vertically with the number 2 next to them. This is a rebus puzzle representing the phrase \"Chalk it up to experience\" (K, L, A, H, C + 2 Experience). The closest option is D.\n\nSo the answer is (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chalk up to (B) drum up (C) chalk off (D) chalk something up to experience",
+   "answer": {
+      "A": "chalk up to"
+   },
+   "extracted_response": "D) chalk something up to experience"
 }

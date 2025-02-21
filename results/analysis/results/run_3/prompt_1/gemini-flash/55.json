@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **under one's very eyes**.\n\nThe image shows the number 4 represented in two different ways: Arabic numerals (1111) and Roman numerals (IIII).  The arrows indicate that the transformation is happening right there, directly in front of the viewer.  This aligns perfectly with the meaning of \"under one's very eyes\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's time (B) before one's eyes (C) under one's very eyes (D) before someone's time",
-    "answer": {
-        "B": "before one's eyes"
-    }
+   "gemini_pro_response": "The correct answer is (C) **under one's very eyes**.\n\nThe image shows the number 4 represented in two different ways: Arabic numerals (1111) and Roman numerals (IIII).  The arrows indicate that the transformation is happening right there, directly in front of the viewer.  This aligns perfectly with the meaning of \"under one's very eyes\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's time (B) before one's eyes (C) under one's very eyes (D) before someone's time",
+   "answer": {
+      "B": "before one's eyes"
+   },
+   "extracted_response": "C"
 }

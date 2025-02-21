@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows the word \"SPLIT\" over a picture of a rock. This represents \"split\" + \"rock\", thus answer (C) \"split on a rock\".",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: SPLIT, repeat: 1)\nNode 2 attributes: (text: \ud83e\udea8, repeat: 1, icon: (rock: \ud83e\udea8))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) rockslide (B) split up (C) split on a rock (D) split one's sides",
-    "answer": {
-        "C": "split on a rock"
-    }
+   "gemini_pro_response": "The rebus shows the word \"SPLIT\" over a picture of a rock. This represents \"split\" + \"rock\", thus answer (C) \"split on a rock\".",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: SPLIT, repeat: 1)\nNode 2 attributes: (text: \ud83e\udea8, repeat: 1, icon: (rock: \ud83e\udea8))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) rockslide (B) split up (C) split on a rock (D) split one's sides",
+   "answer": {
+      "C": "split on a rock"
+   },
+   "extracted_response": "C) split on a rock"
 }

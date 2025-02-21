@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (B) eyes on the prize.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) eyes on the prize (C) prizefight (D) booby prize",
-    "answer": {
-        "B": "eyes on the prize"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (B) eyes on the prize.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) eyes on the prize (C) prizefight (D) booby prize",
+   "answer": {
+      "B": "eyes on the prize"
+   },
+   "extracted_response": "B"
 }

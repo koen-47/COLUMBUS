@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(A) run out of steam**.\n\nThe rebus shows the word \"RUN\" next to the word \"STEAM\" enclosed in a box.  This visually represents \"running out of steam\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of steam (B) under one's own steam (C) head of steam (D) blow off steam",
-    "answer": {
-        "A": "run out of steam"
-    }
+   "gemini_pro_response": "The correct answer is **(A) run out of steam**.\n\nThe rebus shows the word \"RUN\" next to the word \"STEAM\" enclosed in a box.  This visually represents \"running out of steam\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of steam (B) under one's own steam (C) head of steam (D) blow off steam",
+   "answer": {
+      "A": "run out of steam"
+   },
+   "extracted_response": "A) run out of steam"
 }

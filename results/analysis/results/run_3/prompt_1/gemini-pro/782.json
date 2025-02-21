@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts \"ROOF\" over \"1111 HEAD\".  \"1111\" looks like \"one one one one,\" or, \"one's one's.\" This can be read as \"Roof over one's head.\"\n\nSo the answer is (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hit the roof (B) raise the roof (C) through the roof (D) roof over one's head",
-    "answer": {
-        "D": "roof over one's head"
-    }
+   "gemini_pro_response": "The image depicts \"ROOF\" over \"1111 HEAD\".  \"1111\" looks like \"one one one one,\" or, \"one's one's.\" This can be read as \"Roof over one's head.\"\n\nSo the answer is (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hit the roof (B) raise the roof (C) through the roof (D) roof over one's head",
+   "answer": {
+      "D": "roof over one's head"
+   },
+   "extracted_response": "D) roof over one's head"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"put to bed\" (C).  The words \"PUT\" appear twice, and the image is of a bed.  \"Put to bed\" means to place someone in bed for sleep, especially a child.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bed in (B) go to sleep (C) put to bed (D) sleep on",
-    "answer": {
-        "C": "put to bed"
-    }
+   "gemini_pro_response": "The image conveys \"put to bed\" (C).  The words \"PUT\" appear twice, and the image is of a bed.  \"Put to bed\" means to place someone in bed for sleep, especially a child.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bed in (B) go to sleep (C) put to bed (D) sleep on",
+   "answer": {
+      "C": "put to bed"
+   },
+   "extracted_response": "C) put to bed"
 }

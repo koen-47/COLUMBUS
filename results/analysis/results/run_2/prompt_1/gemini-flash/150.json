@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) boogie on down.  The image shows \"BOOGIE\" over \"DOWN\", clearly representing the phrase \"boogie down\".  While \"boogie on down\" is a more complete and common phrasing, the image directly depicts the core of that phrase.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) full tilt boogie (B) play down (C) peg down (D) boogie on down",
-    "answer": {
-        "D": "boogie on down"
-    }
+   "gemini_pro_response": "The correct answer is (D) boogie on down.  The image shows \"BOOGIE\" over \"DOWN\", clearly representing the phrase \"boogie down\".  While \"boogie on down\" is a more complete and common phrasing, the image directly depicts the core of that phrase.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) full tilt boogie (B) play down (C) peg down (D) boogie on down",
+   "answer": {
+      "D": "boogie on down"
+   },
+   "extracted_response": "D) boogie on down"
 }

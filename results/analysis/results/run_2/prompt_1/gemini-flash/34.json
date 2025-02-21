@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B) **balls to the wall**.\n\nThe image shows the word \"BALLS\" twice, with a brick wall symbol in between.  This visually represents \"balls to the wall,\" meaning to do something with maximum effort.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust one's balls (B) balls to the wall (C) grow some balls (D) have someone by the balls",
-    "answer": {
-        "B": "balls to the wall"
-    }
+   "gemini_pro_response": "The answer is (B) **balls to the wall**.\n\nThe image shows the word \"BALLS\" twice, with a brick wall symbol in between.  This visually represents \"balls to the wall,\" meaning to do something with maximum effort.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust one's balls (B) balls to the wall (C) grow some balls (D) have someone by the balls",
+   "answer": {
+      "B": "balls to the wall"
+   },
+   "extracted_response": "B) balls to the wall"
 }

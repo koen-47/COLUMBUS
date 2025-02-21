@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"DNIW\" written backwards, which reads \"WIND\" when reversed, followed by \"CLOCK.\" \n\nThe phrase that best fits this is (B) wind back the clock.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn back the clock (B) wind back the clock (C) turn the clock back (D) put the clock back",
-    "answer": {
-        "B": "wind back the clock"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"DNIW\" written backwards, which reads \"WIND\" when reversed, followed by \"CLOCK.\" \n\nThe phrase that best fits this is (B) wind back the clock.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn back the clock (B) wind back the clock (C) turn the clock back (D) put the clock back",
+   "answer": {
+      "B": "wind back the clock"
+   },
+   "extracted_response": "B) wind back the clock"
 }

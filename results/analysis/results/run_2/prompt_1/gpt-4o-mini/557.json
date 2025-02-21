@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (B) to a t.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to a turn (B) to a t (C) to the letter (D) from A to Z",
-    "answer": {
-        "B": "to a t"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (B) to a t.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to a turn (B) to a t (C) to the letter (D) from A to Z",
+   "answer": {
+      "B": "to a t"
+   },
+   "extracted_response": "B) to a t"
 }

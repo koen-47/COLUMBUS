@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The phrase conveyed in the image is (C) icing on the cake.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cake crumbs (B) a piece of cake (C) icing on the cake (D) take the cake",
-    "answer": {
-        "C": "icing on the cake"
-    }
+   "gpt4v_response": "The phrase conveyed in the image is (C) icing on the cake.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cake crumbs (B) a piece of cake (C) icing on the cake (D) take the cake",
+   "answer": {
+      "C": "icing on the cake"
+   },
+   "extracted_response": "C) icing on the cake"
 }

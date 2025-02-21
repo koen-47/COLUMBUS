@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts a cloud with a lightning bolt (representing a storm) and arrows pointing both upwards and downwards. This symbolizes data transfer to and from the cloud, even during adverse conditions. The phrase that best captures this meaning is (B) weather the storm. This idiom signifies enduring and overcoming a difficult situation. In this context, it implies maintaining data flow despite the \"storm\" of network issues or other challenges.\nFinal Answer: The final answer is $\\boxed{B}$",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) after the storm (B) weather the storm (C) storm off (D) perfect storm",
-    "answer": {
-        "A": "after the storm"
-    }
+   "gemini_pro_response": "The image depicts a cloud with a lightning bolt (representing a storm) and arrows pointing both upwards and downwards. This symbolizes data transfer to and from the cloud, even during adverse conditions. The phrase that best captures this meaning is (B) weather the storm. This idiom signifies enduring and overcoming a difficult situation. In this context, it implies maintaining data flow despite the \"storm\" of network issues or other challenges.\nFinal Answer: The final answer is $\\boxed{B}$",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) after the storm (B) weather the storm (C) storm off (D) perfect storm",
+   "answer": {
+      "A": "after the storm"
+   },
+   "extracted_response": "B"
 }

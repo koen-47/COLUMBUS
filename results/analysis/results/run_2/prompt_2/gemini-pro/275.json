@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"BRING\" next to a picture of a hammer. This represents the phrase \"bring the hammer\".  Therefore, the answer is (B).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hammer home (B) bring to the hammer (C) bring down the hammer (D) put the hammer down",
-    "answer": {
-        "C": "bring down the hammer"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"BRING\" next to a picture of a hammer. This represents the phrase \"bring the hammer\".  Therefore, the answer is (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hammer home (B) bring to the hammer (C) bring down the hammer (D) put the hammer down",
+   "answer": {
+      "C": "bring down the hammer"
+   },
+   "extracted_response": "B) bring to the hammer"
 }

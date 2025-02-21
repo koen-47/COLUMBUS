@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the number \"2\" followed by the phrase \"TAKE UP.\" This can be interpreted as \"cross to take up,\" since \"2\" can represent \"to\" and \"take up\" is part of the phrase.\n\nSo, the answer is (C) cross to take up.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross out (C) cross to take up (D) cross off",
-    "answer": {
-        "C": "cross to take up"
-    }
+   "gpt4v_response": "The rebus puzzle shows the number \"2\" followed by the phrase \"TAKE UP.\" This can be interpreted as \"cross to take up,\" since \"2\" can represent \"to\" and \"take up\" is part of the phrase.\n\nSo, the answer is (C) cross to take up.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross out (C) cross to take up (D) cross off",
+   "answer": {
+      "C": "cross to take up"
+   },
+   "extracted_response": "C) cross to take up"
 }

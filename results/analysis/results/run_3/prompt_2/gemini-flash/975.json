@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) walk on the wild side.\n\nThe image shows a person walking on a line above the words \"wild side\".  This visually represents the phrase \"walk on the wild side\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go wild (B) call of the wild (C) run wild (D) walk on the wild side",
-    "answer": {
-        "D": "walk on the wild side"
-    }
+   "gemini_pro_response": "The correct answer is (D) walk on the wild side.\n\nThe image shows a person walking on a line above the words \"wild side\".  This visually represents the phrase \"walk on the wild side\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go wild (B) call of the wild (C) run wild (D) walk on the wild side",
+   "answer": {
+      "D": "walk on the wild side"
+   },
+   "extracted_response": "D) walk on the wild side"
 }

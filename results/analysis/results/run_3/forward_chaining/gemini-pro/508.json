@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows a green house icon. The JSON describes a green house icon. This suggests \"greenhouse\".\n\n(A) greenhouse: This fits the description of a green house icon.\n(B) grassland: This does not fit the image or description.\n(C) sunlight: This does not fit the image or description.\n(D) greenhouses: While the icon could represent a greenhouse, it is singular, not plural.\n\n\nThe answer is (A) greenhouse.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"house_icon\",\n  \"description\": \"A green house icon with a roof, door, and window.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) greenhouse (B) grassland (C) sunlight (D) greenhouses\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "greenhouse"
+    }
+}

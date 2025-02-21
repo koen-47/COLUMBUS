@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) bring down the hammer**.\n\nThe image shows the word \"BRING\" vertically stacked, followed by an image of a hammer.  This visually represents the idiom \"bring down the hammer,\" which signifies taking strong action or making a harsh decision.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hammer home (B) bring to the hammer (C) bring down the hammer (D) put the hammer down",
-    "answer": {
-        "C": "bring down the hammer"
-    }
+   "gemini_pro_response": "The correct answer is **(C) bring down the hammer**.\n\nThe image shows the word \"BRING\" vertically stacked, followed by an image of a hammer.  This visually represents the idiom \"bring down the hammer,\" which signifies taking strong action or making a harsh decision.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hammer home (B) bring to the hammer (C) bring down the hammer (D) put the hammer down",
+   "answer": {
+      "C": "bring down the hammer"
+   },
+   "extracted_response": "C) bring down the hammer"
 }

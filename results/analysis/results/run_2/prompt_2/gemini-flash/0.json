@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) afterimages.\n\nThe rebus shows \"GLOW\" with arrows pointing up and down, twice.  This represents the word \"afterimages\", as images (glow) appear after (arrows up and down).  The use of the plural \"afterimages\" is consistent with the two repetitions of \"GLOW\" and the arrow pair.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) afterglow (B) afterglows (C) afterimage (D) afterimages",
-    "answer": {
-        "B": "afterglows"
-    }
+   "gemini_pro_response": "The correct answer is (D) afterimages.\n\nThe rebus shows \"GLOW\" with arrows pointing up and down, twice.  This represents the word \"afterimages\", as images (glow) appear after (arrows up and down).  The use of the plural \"afterimages\" is consistent with the two repetitions of \"GLOW\" and the arrow pair.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) afterglow (B) afterglows (C) afterimage (D) afterimages",
+   "answer": {
+      "B": "afterglows"
+   },
+   "extracted_response": "D) afterimages"
 }

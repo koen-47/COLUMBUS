@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The word \"BELLY\" is represented by the letters arranged vertically (Y, L, L, E, B).\n- The word \"BAR\" appears twice, indicating a repetition.\n\nPutting this together, the phrase \"BELLY UP TO THE BAR\" is conveyed, as \"belly up\" is a common phrase meaning to approach or lean against something, in this case, a bar.\n\nTherefore, the correct answer is (C) belly up to the bar.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BELLY, repeat: 1, direction: up)\nNode 2 attributes: (text: BAR, repeat: 2, sound: (to: 2))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) raise the bar (B) prop up the bar (C) belly up to the bar (D) belly up",
-    "answer": {
-        "C": "belly up to the bar"
-    }
+   "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The word \"BELLY\" is represented by the letters arranged vertically (Y, L, L, E, B).\n- The word \"BAR\" appears twice, indicating a repetition.\n\nPutting this together, the phrase \"BELLY UP TO THE BAR\" is conveyed, as \"belly up\" is a common phrase meaning to approach or lean against something, in this case, a bar.\n\nTherefore, the correct answer is (C) belly up to the bar.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BELLY, repeat: 1, direction: up)\nNode 2 attributes: (text: BAR, repeat: 2, sound: (to: 2))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) raise the bar (B) prop up the bar (C) belly up to the bar (D) belly up",
+   "answer": {
+      "C": "belly up to the bar"
+   },
+   "extracted_response": "C) belly up to the bar"
 }

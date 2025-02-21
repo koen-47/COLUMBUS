@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle represents \"run for one's life\". Here's why:\n\n* **Node 1:** Shows a running person repeated four times.  The \"sound\" attribute hints at \"for\" (four). The action is \"run\".\n* **Node 2:** Shows \"1111\".  The \"sound\" attribute gives us \"one's\" (ones).\n* **Node 3:** Shows the word \"LIFE\".\n\nPutting it all together: Run (\ud83c\udfc3 x 4 = for) one's (1111 = ones) life.\n\nTherefore, the answer is (B).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83c\udfc3, repeat: 4, icon: (run: \ud83c\udfc3), sound: (for: 4))\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: LIFE, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) run with (B) run for one's life (C) fight for one's life (D) run for one's money",
-    "answer": {
-        "B": "run for one's life"
-    }
+   "gemini_pro_response": "The rebus puzzle represents \"run for one's life\". Here's why:\n\n* **Node 1:** Shows a running person repeated four times.  The \"sound\" attribute hints at \"for\" (four). The action is \"run\".\n* **Node 2:** Shows \"1111\".  The \"sound\" attribute gives us \"one's\" (ones).\n* **Node 3:** Shows the word \"LIFE\".\n\nPutting it all together: Run (\ud83c\udfc3 x 4 = for) one's (1111 = ones) life.\n\nTherefore, the answer is (B).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83c\udfc3, repeat: 4, icon: (run: \ud83c\udfc3), sound: (for: 4))\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: LIFE, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) run with (B) run for one's life (C) fight for one's life (D) run for one's money",
+   "answer": {
+      "B": "run for one's life"
+   },
+   "extracted_response": "B) run for one's life"
 }

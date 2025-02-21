@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) catch the eye**.\n\nThe image shows the word \"SEE\" next to three eyes.  This visually represents something attracting attention and being seen; hence, \"catch the eye\" is the most appropriate idiom.  The other options don't fit the visual representation as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye up (B) eye for an eye (C) catch the eye (D) see eye to eye",
-    "answer": {
-        "D": "see eye to eye"
-    }
+   "gemini_pro_response": "The correct answer is **(C) catch the eye**.\n\nThe image shows the word \"SEE\" next to three eyes.  This visually represents something attracting attention and being seen; hence, \"catch the eye\" is the most appropriate idiom.  The other options don't fit the visual representation as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye up (B) eye for an eye (C) catch the eye (D) see eye to eye",
+   "answer": {
+      "D": "see eye to eye"
+   },
+   "extracted_response": "C) catch the eye"
 }

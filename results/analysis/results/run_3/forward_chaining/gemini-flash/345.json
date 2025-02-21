@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe JSON describes the image: four 1s crossed out, next to a heart.  This visually represents \"crossing one's heart\".\n\nTherefore, the answer is (D) cross my heart.  While (A) is similar, the image doesn't depict \"my\" heart, just \"one's\" heart.  Options (B) and (C) are not represented visually.\n\nFinal Answer: The final answer is $\\boxed{D}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"number_1\",\n    \"description\": \"The number '1' repeated four times in a row.\",\n    \"relation\": \"left_of_heart\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"heart\",\n    \"description\": \"A black heart symbol.\",\n    \"relation\": \"right_of_number_1\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) cross one's heart (B) cross my heart and hope to die (C) have one's heart in (D) cross my heart\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "cross one's heart"
+    }
+}

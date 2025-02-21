@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts a figure running on a line marked \"EMPTY.\" This corresponds to the phrase \"run on empty\" (B), which means to continue operating despite lacking essential resources, similar to a car running with an empty fuel tank.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dummy run (B) run on empty (C) run on (D) run with",
-    "answer": {
-        "B": "run on empty"
-    }
+   "gemini_pro_response": "The image depicts a figure running on a line marked \"EMPTY.\" This corresponds to the phrase \"run on empty\" (B), which means to continue operating despite lacking essential resources, similar to a car running with an empty fuel tank.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dummy run (B) run on empty (C) run on (D) run with",
+   "answer": {
+      "B": "run on empty"
+   },
+   "extracted_response": "B"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (A) aftermath.\n\nThe word \"MATH\" is placed between a downward arrow and an upward arrow. This represents \"after MATH\", which sounds like \"aftermath\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftermath (B) tear up (C) after the storm (D) aftermaths",
-    "answer": {
-        "A": "aftermath"
-    }
+   "gemini_pro_response": "The answer is (A) aftermath.\n\nThe word \"MATH\" is placed between a downward arrow and an upward arrow. This represents \"after MATH\", which sounds like \"aftermath\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftermath (B) tear up (C) after the storm (D) aftermaths",
+   "answer": {
+      "A": "aftermath"
+   },
+   "extracted_response": "A) aftermath"
 }

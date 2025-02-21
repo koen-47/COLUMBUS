@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (B) speak out of turn.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) talk out of turn (B) speak out of turn (C) speak out (D) speak up",
-    "answer": {
-        "B": "speak out of turn"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) speak out of turn.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) talk out of turn (B) speak out of turn (C) speak out (D) speak up",
+   "answer": {
+      "B": "speak out of turn"
+   },
+   "extracted_response": "B"
 }

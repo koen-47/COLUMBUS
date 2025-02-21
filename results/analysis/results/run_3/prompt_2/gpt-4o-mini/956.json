@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows an upward arrow and the number \"1111\" above an ear icon. This suggests the phrase \"up to one's ears,\" as the upward arrow indicates \"up\" and the ear represents \"ears.\" \n\nSo, the correct answer is (A) up to one's ears.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to one's ears (B) prick up ears (C) up on one's ear (D) ear to the ground",
-    "answer": {
-        "C": "up on one's ear"
-    }
+   "gpt4v_response": "The rebus puzzle shows an upward arrow and the number \"1111\" above an ear icon. This suggests the phrase \"up to one's ears,\" as the upward arrow indicates \"up\" and the ear represents \"ears.\" \n\nSo, the correct answer is (A) up to one's ears.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to one's ears (B) prick up ears (C) up on one's ear (D) ear to the ground",
+   "answer": {
+      "C": "up on one's ear"
+   },
+   "extracted_response": "A) up to one's ears"
 }

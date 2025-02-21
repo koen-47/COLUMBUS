@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) set the world on fire.\n\nThe image shows \"SET WORLD\" above a line, with \"FIRE\" below the line.  This visually represents the phrase \"Set the world on fire\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on fire (B) put out a fire (C) play with fire (D) set the world on fire",
-    "answer": {
-        "D": "set the world on fire"
-    }
+   "gemini_pro_response": "The correct answer is (D) set the world on fire.\n\nThe image shows \"SET WORLD\" above a line, with \"FIRE\" below the line.  This visually represents the phrase \"Set the world on fire\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on fire (B) put out a fire (C) play with fire (D) set the world on fire",
+   "answer": {
+      "D": "set the world on fire"
+   },
+   "extracted_response": "D) set the world on fire"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) giant step.\n\nThe rebus shows four faces stacked vertically next to the word \"STEP\".  This implies a \"giant step\" because the faces represent a large number of steps.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step on someone's toes (B) a small step for man (C) giant step (D) one step at a time",
-    "answer": {
-        "B": "a small step for man"
-    }
+   "gemini_pro_response": "The correct answer is (C) giant step.\n\nThe rebus shows four faces stacked vertically next to the word \"STEP\".  This implies a \"giant step\" because the faces represent a large number of steps.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step on someone's toes (B) a small step for man (C) giant step (D) one step at a time",
+   "answer": {
+      "B": "a small step for man"
+   },
+   "extracted_response": "C) giant step"
 }

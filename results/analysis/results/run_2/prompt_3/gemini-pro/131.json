@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "Here's how to solve the rebus:\n\n* **Node 1:** BONE, repeat 2, sound (to: 2). This means the word \"BONE\" appears twice, and its sound is linked to the number 2.\n* **Node 2:** PICK, repeat 1. This word appears once.\n\nThe link \"(to: 2)\" in Node 1 indicates a connection between \"BONE\" and another element. Since the number is 2, and there are two instances of \"BONE,\"  it suggests that something is *between* the two \"BONE\"s. That something is \"PICK,\" as given by Node 2.\n\nTherefore, the rebus represents \"BONE TO PICK.\"\n\nSo the answer is (B).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BONE, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: PICK, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) throw a bone to (B) bone to pick (C) to the bone (D) funny bone",
-    "answer": {
-        "B": "bone to pick"
-    }
+   "gemini_pro_response": "Here's how to solve the rebus:\n\n* **Node 1:** BONE, repeat 2, sound (to: 2). This means the word \"BONE\" appears twice, and its sound is linked to the number 2.\n* **Node 2:** PICK, repeat 1. This word appears once.\n\nThe link \"(to: 2)\" in Node 1 indicates a connection between \"BONE\" and another element. Since the number is 2, and there are two instances of \"BONE,\"  it suggests that something is *between* the two \"BONE\"s. That something is \"PICK,\" as given by Node 2.\n\nTherefore, the rebus represents \"BONE TO PICK.\"\n\nSo the answer is (B).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BONE, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: PICK, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) throw a bone to (B) bone to pick (C) to the bone (D) funny bone",
+   "answer": {
+      "B": "bone to pick"
+   },
+   "extracted_response": "B) bone to pick"
 }

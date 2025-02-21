@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"pill in the pocket.\" The word \"POC\" represents \"pocket,\" and the pill icon indicates \"pill.\" Therefore, the correct answer is (A) pill in the pocket.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pill in the pocket (B) pill mill (C) on the pill (D) in someone's pocket",
-    "answer": {
-        "A": "pill in the pocket"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"pill in the pocket.\" The word \"POC\" represents \"pocket,\" and the pill icon indicates \"pill.\" Therefore, the correct answer is (A) pill in the pocket.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pill in the pocket (B) pill mill (C) on the pill (D) in someone's pocket",
+   "answer": {
+      "A": "pill in the pocket"
+   },
+   "extracted_response": "A) pill in the pocket"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"CROSS\" repeated and the letters \"E K A T\" arranged vertically. This suggests the phrase \"cross out,\" as the letters are positioned in a way that implies they are being crossed out or eliminated.\n\nTherefore, the answer is (B) cross out.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross out (C) cross off (D) off one's cross",
-    "answer": {
-        "A": "cross to take up"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"CROSS\" repeated and the letters \"E K A T\" arranged vertically. This suggests the phrase \"cross out,\" as the letters are positioned in a way that implies they are being crossed out or eliminated.\n\nTherefore, the answer is (B) cross out.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross out (C) cross off (D) off one's cross",
+   "answer": {
+      "A": "cross to take up"
+   },
+   "extracted_response": "B) cross out"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) a small step for man.\n\nHere's why:\n\n* **Node 1:** Shows the word \"STEP\" in small size, indicating a \"small step\".\n* **Node 2:** Displays four icons of a man (\ud83d\udc68), representing \"man\".  The \"repeat: 4\" and \"sound: (for: 4)\" attributes are additional clues and help convey the idea of four men.\n\n\nThe combination of \"small step\" and \"man\" directly leads to the phrase \"a small step for man\".",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: STEP, repeat: 1, size: small)\nNode 2 attributes: (text: \ud83d\udc68, repeat: 4, icon: (man: \ud83d\udc68), sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) step on someone's toes (B) a small step for man (C) giant step (D) one step at a time",
-    "answer": {
-        "B": "a small step for man"
-    }
+   "gemini_pro_response": "The correct answer is (B) a small step for man.\n\nHere's why:\n\n* **Node 1:** Shows the word \"STEP\" in small size, indicating a \"small step\".\n* **Node 2:** Displays four icons of a man (\ud83d\udc68), representing \"man\".  The \"repeat: 4\" and \"sound: (for: 4)\" attributes are additional clues and help convey the idea of four men.\n\n\nThe combination of \"small step\" and \"man\" directly leads to the phrase \"a small step for man\".",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: STEP, repeat: 1, size: small)\nNode 2 attributes: (text: \ud83d\udc68, repeat: 4, icon: (man: \ud83d\udc68), sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) step on someone's toes (B) a small step for man (C) giant step (D) one step at a time",
+   "answer": {
+      "B": "a small step for man"
+   },
+   "extracted_response": "B) a small step for man"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "None of the provided options (A, B, C, or D) are represented in the image. The image displays the word \"MOOR\" twice.  \"Moor\" can refer to a tract of open uncultivated upland, or as a verb, to secure (a vessel) by cable or anchor.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backroom (B) backrooms (C) showrooms (D) playrooms",
-    "answer": {
-        "B": "backrooms"
-    }
+   "gemini_pro_response": "None of the provided options (A, B, C, or D) are represented in the image. The image displays the word \"MOOR\" twice.  \"Moor\" can refer to a tract of open uncultivated upland, or as a verb, to secure (a vessel) by cable or anchor.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backroom (B) backrooms (C) showrooms (D) playrooms",
+   "answer": {
+      "B": "backrooms"
+   },
+   "extracted_response": "None of the provided options (A, B, C, or D) are represented in the image. The image displays the word \"MOOR\" twice.  \"Moor\" can refer to a tract of open uncultivated upland, or as a verb, to secure (a vessel) by cable or anchor."
 }

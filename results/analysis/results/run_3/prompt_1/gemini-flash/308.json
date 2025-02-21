@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) hold one's liquor**.\n\nThe letters in the image, when rearranged vertically, spell out the phrase \"liquor\".  The context implies the ability to consume alcohol without becoming visibly intoxicated.  Therefore, \"hold one's liquor\" is the most fitting idiom among the options.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) worse for liquor (B) bottle up (C) hold one's liquor (D) liquor up",
-    "answer": {
-        "D": "liquor up"
-    }
+   "gemini_pro_response": "The correct answer is **(C) hold one's liquor**.\n\nThe letters in the image, when rearranged vertically, spell out the phrase \"liquor\".  The context implies the ability to consume alcohol without becoming visibly intoxicated.  Therefore, \"hold one's liquor\" is the most fitting idiom among the options.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) worse for liquor (B) bottle up (C) hold one's liquor (D) liquor up",
+   "answer": {
+      "D": "liquor up"
+   },
+   "extracted_response": "C) hold one's liquor"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"HABIRDND\", which is a rebus puzzle. When spoken aloud, it sounds like \"a bird in hand\". Therefore, the correct answer is **(D) a bird in the hand**.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bird in the bosom (B) a bird in the hand is worth two in the bush (C) early bird (D) a bird in the hand",
-    "answer": {
-        "D": "a bird in the hand"
-    }
+   "gemini_pro_response": "The image says \"HABIRDND\", which is a rebus puzzle. When spoken aloud, it sounds like \"a bird in hand\". Therefore, the correct answer is **(D) a bird in the hand**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bird in the bosom (B) a bird in the hand is worth two in the bush (C) early bird (D) a bird in the hand",
+   "answer": {
+      "D": "a bird in the hand"
+   },
+   "extracted_response": "D) a bird in the hand"
 }

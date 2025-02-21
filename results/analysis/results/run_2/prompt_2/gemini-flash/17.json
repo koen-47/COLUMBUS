@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) aftereffects.\n\nThe arrows indicate \"after,\" and the word \"EFFECT\" is presented.  Therefore, the rebus represents \"after effects\".  Since \"aftereffects\" is a word referring to multiple consequences, option (D) is the best fit.\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftereffect (B) aftercare (C) afterburner (D) aftereffects",
-    "answer": {
-        "A": "aftereffect"
-    }
+   "gemini_pro_response": "The correct answer is (D) aftereffects.\n\nThe arrows indicate \"after,\" and the word \"EFFECT\" is presented.  Therefore, the rebus represents \"after effects\".  Since \"aftereffects\" is a word referring to multiple consequences, option (D) is the best fit.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftereffect (B) aftercare (C) afterburner (D) aftereffects",
+   "answer": {
+      "A": "aftereffect"
+   },
+   "extracted_response": "D) aftereffects"
 }

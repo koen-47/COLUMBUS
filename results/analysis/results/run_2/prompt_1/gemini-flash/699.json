@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) moment of truth.  The image shows the word \"SMOMENTUN,\" which is a jumbled version of \"MOMENTUM.\" While momentum doesn't exactly match any of the options, it's closest in meaning to the \"moment of truth,\" as that moment often involves a critical point where momentum shifts or is determined.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) moment in the sun (B) in the heat of the moment (C) catch the sun (D) moment of truth",
-    "answer": {
-        "A": "moment in the sun"
-    }
+   "gemini_pro_response": "The correct answer is (D) moment of truth.  The image shows the word \"SMOMENTUN,\" which is a jumbled version of \"MOMENTUM.\" While momentum doesn't exactly match any of the options, it's closest in meaning to the \"moment of truth,\" as that moment often involves a critical point where momentum shifts or is determined.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) moment in the sun (B) in the heat of the moment (C) catch the sun (D) moment of truth",
+   "answer": {
+      "A": "moment in the sun"
+   },
+   "extracted_response": "D) moment of truth"
 }

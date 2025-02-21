@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) big picture.\n\nThe word \"BIG\" is formed by the large font size of the word \"PICTURE\".  Thus, it represents \"Big Picture.\"",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big boy (B) big shot (C) big picture (D) mixed picture",
-    "answer": {
-        "C": "big picture"
-    }
+   "gemini_pro_response": "The answer is (C) big picture.\n\nThe word \"BIG\" is formed by the large font size of the word \"PICTURE\".  Thus, it represents \"Big Picture.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big boy (B) big shot (C) big picture (D) mixed picture",
+   "answer": {
+      "C": "big picture"
+   },
+   "extracted_response": "C) big picture"
 }

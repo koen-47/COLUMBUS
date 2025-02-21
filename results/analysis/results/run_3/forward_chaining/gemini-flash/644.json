@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe JSON describes two elements:\n\n* `\"text_keep_1111\"`:  \"KEEP 1111\" This represents \"KEEP ONE'S HEAD\" because the number 1111 looks like four ones, or \"one's\"\n\n* `\"text_head\"`: \"HEAD\" written vertically. This confirms the \"head\" part of the phrase.\n\n\nTherefore, the image conveys the phrase **(B) keep one's head**.  The other options don't fit the visual representation.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"text_keep_1111\",\n        \"description\": \"The text 'KEEP 1111' written horizontally.\",\n        \"relation\": \"Located on the left side of the image.\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"text_head\",\n        \"description\": \"The text 'HEAD' written vertically.\",\n        \"relation\": \"Located on the right side of the image.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) keep one's head down (B) keep one's head (C) hold one's head high (D) lose one's head\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "keep one's head down"
+    }
+}

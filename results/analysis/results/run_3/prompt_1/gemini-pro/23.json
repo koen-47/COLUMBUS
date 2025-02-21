@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the word \"**quiver**\".\n\nThe word displayed is \"QUIARROWVER\".  If you remove \"ARROW\" from the word, you are left with \"QUIVER\".  A quiver is a case for holding arrows.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) arrow in the quiver (B) arrowheads (C) draw the long bow (D) make one's bow",
-    "answer": {
-        "A": "arrow in the quiver"
-    }
+   "gemini_pro_response": "The image conveys the word \"**quiver**\".\n\nThe word displayed is \"QUIARROWVER\".  If you remove \"ARROW\" from the word, you are left with \"QUIVER\".  A quiver is a case for holding arrows.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) arrow in the quiver (B) arrowheads (C) draw the long bow (D) make one's bow",
+   "answer": {
+      "A": "arrow in the quiver"
+   },
+   "extracted_response": "A) arrow in the quiver"
 }

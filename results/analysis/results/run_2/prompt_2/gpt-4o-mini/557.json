@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the letter \"T\" repeated vertically. This suggests the phrase \"to a T,\" which means something done perfectly or exactly. \n\nSo, the answer is (A) to a turn.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to a turn (B) to a t (C) to the letter (D) from A to Z",
-    "answer": {
-        "B": "to a t"
-    }
+   "gpt4v_response": "The rebus puzzle shows the letter \"T\" repeated vertically. This suggests the phrase \"to a T,\" which means something done perfectly or exactly. \n\nSo, the answer is (A) to a turn.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to a turn (B) to a t (C) to the letter (D) from A to Z",
+   "answer": {
+      "B": "to a t"
+   },
+   "extracted_response": "A) to a turn"
 }

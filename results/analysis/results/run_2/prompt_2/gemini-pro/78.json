@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word \"WORLD\" is in the bottom right corner.  Since it's small and placed in the corner, the rebus represents (C) a small world.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) outside world (B) across the world (C) a small world (D) small world syndrome",
-    "answer": {
-        "C": "a small world"
-    }
+   "gemini_pro_response": "The word \"WORLD\" is in the bottom right corner.  Since it's small and placed in the corner, the rebus represents (C) a small world.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) outside world (B) across the world (C) a small world (D) small world syndrome",
+   "answer": {
+      "C": "a small world"
+   },
+   "extracted_response": "C) a small world"
 }

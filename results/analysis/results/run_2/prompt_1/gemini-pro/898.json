@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"TEATEMPESTPOT\". This is a combination of \"tea\", \"tempest\", and \"pot\", thus forming the idiom \"tempest in a teapot\". So the answer is (C).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) teapot (B) storm in a teacup (C) tempest in a teapot (D) chocolate teapot",
-    "answer": {
-        "C": "tempest in a teapot"
-    }
+   "gemini_pro_response": "The image says \"TEATEMPESTPOT\". This is a combination of \"tea\", \"tempest\", and \"pot\", thus forming the idiom \"tempest in a teapot\". So the answer is (C).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) teapot (B) storm in a teacup (C) tempest in a teapot (D) chocolate teapot",
+   "answer": {
+      "C": "tempest in a teapot"
+   },
+   "extracted_response": "C) tempest in a teapot"
 }

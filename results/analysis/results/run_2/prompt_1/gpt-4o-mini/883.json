@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) storm out of the blocks.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) whip up a storm (B) after the storm (C) storm out of the blocks (D) storm off",
-    "answer": {
-        "C": "storm out of the blocks"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) storm out of the blocks.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) whip up a storm (B) after the storm (C) storm out of the blocks (D) storm off",
+   "answer": {
+      "C": "storm out of the blocks"
+   },
+   "extracted_response": "C"
 }

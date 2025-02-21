@@ -17,8 +17,9 @@ class AnalysisReport:
     Class to analyze the results from all the models.
     """
 
-    def __init__(self):
-        self.results_dir = f"{os.path.dirname(__file__)}/results/run_1"
+    def __init__(self, run):
+        self.run = run
+        self.results_dir = f"{os.path.dirname(__file__)}/results/run_{1 if run == 'overall' else run}"
         self._graph_answer_pairs = get_answer_graph_pairs(combine=True)
         self._model_types = {
             "non_instruction": ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "fuyu-8b"],
@@ -66,7 +67,6 @@ class AnalysisReport:
         for model, prompt in product(*[model_types, self._prompt_types]):
             if model == "mistral-7b" and (prompt == "1" or prompt == "2"):
                 continue
-            print(model, prompt)
             basic_results, rule_results = self.generate(model, prompt)
             all_basic_results[prompt][model] = basic_results
             if (model != "blip-2_opt-2.7b" and model != "blip-2_opt-6.7b" and model != "instructblip"
@@ -94,15 +94,13 @@ class AnalysisReport:
 
         table_prompt_2, table_all_prompts, table_rules_per_prompt, table_rules_gpt4o = (
             self.analyze_overall(all_basic_results, all_rule_results))
+        table_prompt_2 = self.show_overall_performance() if self.run == "overall" else table_prompt_2
 
         # Print results
         print("\nMain table (accuracy per model for prompt 2). There are some slight differences due to randomness.")
         print(table_prompt_2)
         print("\nAccuracy per prompt for each model. There are some slight differences due to randomness.")
         print(table_all_prompts)
-        print("\nPercentage of puzzles solved including a specified rule (Individual + Relational + Modifier)\n"
-              "(averaged across all models)")
-        print(table_rules_per_prompt)
         print("\nPercentage of puzzles solved including a specified rule (Individual + Relational + Modifier)\n"
               "(GPT-4o)")
         print(table_rules_gpt4o)
@@ -478,6 +476,33 @@ class AnalysisReport:
         table_rules_per_prompt = pd.DataFrame(table_rules_per_prompt)
         table_rules_per_prompt_gpt_4o = pd.DataFrame(table_rules_per_prompt_gpt_4o)
         return table_prompt_2, table_all_prompts, table_rules_per_prompt, table_rules_per_prompt_gpt_4o
+
+    def show_overall_performance(self):
+        with open(f"{os.path.dirname(__file__)}/results/summary.json", "r") as file:
+            summary_results = json.load(file)
+
+        models = [model for model in summary_results.keys() if model != "mistral"]
+
+        def get_result_values(key):
+            values = []
+            for result in summary_results.values():
+                if "text_mean" in result:
+                    values.append(np.round(result[key], 2))
+                elif "prompt_2" in result:
+                    values.append(np.round(result["prompt_2"][key], 2))
+                else:
+                    continue
+            return values
+
+        text_mean = get_result_values("text_mean")
+        text_sd = get_result_values("text_sd")
+        icon_mean = get_result_values("icon_mean")
+        icon_sd = get_result_values("icon_sd")
+        table = pd.DataFrame({"model": models, "text_mean": text_mean, "text_sd": text_sd,
+                              "icon_mean": icon_mean, "icon_sd": icon_sd}).reset_index(drop=True)
+        table = table.set_index("model")
+        return table
+
 
     def analyze_non_icon_vs_icon(self):
         """

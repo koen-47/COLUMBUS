@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The two \"UP\"s stacked on top of each other, along with \"ELEVEN\" to the right indicate turning something \"up to eleven\".\n\nThus, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"UP\",\n  \"description\": \"The word 'UP' written in uppercase letters.\",\n  \"relation\": \"Located at the top left of the image.\"\n}\n```\n\n```json\n{\n  \"id\": \"2\",\n  \"name\": \"UP\",\n  \"description\": \"The word 'UP' written in uppercase letters.\",\n  \"relation\": \"Located at the bottom left of the image.\"\n}\n```\n\n```json\n{\n  \"id\": \"3\",\n  \"name\": \"ELEVEN\",\n  \"description\": \"The word 'ELEVEN' written in uppercase letters.\",\n  \"relation\": \"Located to the right of the bottom 'UP'.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) average up (B) ten to one (C) up to eleven (D) up to something\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "up to eleven"
+    }
+}

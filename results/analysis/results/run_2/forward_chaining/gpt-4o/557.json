@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows two uppercase letter T's, one on top of the other with space in between. This configuration represents the phrase \"to a T.\"\n\nThe correct answer is (B) to a t.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"Letter T (Top)\",\n  \"description\": \"A single uppercase letter T.\",\n  \"relation\": \"Located at the top of the image.\"\n}\n```\n\n```json\n{\n  \"id\": \"2\",\n  \"name\": \"Letter T (Bottom)\",\n  \"description\": \"A single uppercase letter T.\",\n  \"relation\": \"Located below the top letter T, with space in between.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) to a turn (B) to a t (C) to the letter (D) from A to Z\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "to a t"
+    }
+}

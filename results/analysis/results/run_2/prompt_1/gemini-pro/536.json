@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the word \"FROM\" followed by several clock icons, indicating repeated instances in time.  This represents the phrase **(D) time after time**.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) from beginning to end (B) come to time (C) from time to time (D) time after time",
-    "answer": {
-        "C": "from time to time"
-    }
+   "gemini_pro_response": "The image shows the word \"FROM\" followed by several clock icons, indicating repeated instances in time.  This represents the phrase **(D) time after time**.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) from beginning to end (B) come to time (C) from time to time (D) time after time",
+   "answer": {
+      "C": "from time to time"
+   },
+   "extracted_response": "D) time after time"
 }

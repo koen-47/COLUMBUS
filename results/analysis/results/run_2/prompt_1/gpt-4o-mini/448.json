@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word conveyed in the image is (C) poxvirus.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) smallpox (B) measles (C) poxvirus (D) outbreak",
-    "answer": {
-        "A": "smallpox"
-    }
+   "gpt4v_response": "The word conveyed in the image is (C) poxvirus.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) smallpox (B) measles (C) poxvirus (D) outbreak",
+   "answer": {
+      "A": "smallpox"
+   },
+   "extracted_response": "C) poxvirus"
 }

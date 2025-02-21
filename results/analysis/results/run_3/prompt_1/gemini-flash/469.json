@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) hand in hand.  The image shows the words \"HAHANDND\" which, when rearranged, spells out \"HAND IN HAND\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand in glove (B) in hand (C) hand over hand (D) hand in hand",
-    "answer": {
-        "D": "hand in hand"
-    }
+   "gemini_pro_response": "The correct answer is (D) hand in hand.  The image shows the words \"HAHANDND\" which, when rearranged, spells out \"HAND IN HAND\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand in glove (B) in hand (C) hand over hand (D) hand in hand",
+   "answer": {
+      "D": "hand in hand"
+   },
+   "extracted_response": "D) hand in hand"
 }

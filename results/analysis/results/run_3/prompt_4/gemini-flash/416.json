@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) dance to tune.\n\nHere's why:\n\n* **Node 1:** Represents a dancer (\ud83d\udd7a) repeated twice.  The \"sound\" attribute indicates this relates to node 2.\n* **Node 2:** Represents the word \"TUNE\".\n* **Edge 1:** Shows the dancers are next to the word \"TUNE\".\n\nPutting it together, the image depicts two dancers next to the word \"TUNE,\" which naturally translates to \"dance to tune\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udd7a, repeat: 2, icon: (dance: \ud83d\udd7a), sound: (to: 2))\nNode 2 attributes: (text: TUNE, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) tune out (B) tune up (C) dance to tune (D) tune in",
-    "answer": {
-        "C": "dance to tune"
-    }
+   "gemini_pro_response": "The correct answer is (C) dance to tune.\n\nHere's why:\n\n* **Node 1:** Represents a dancer (\ud83d\udd7a) repeated twice.  The \"sound\" attribute indicates this relates to node 2.\n* **Node 2:** Represents the word \"TUNE\".\n* **Edge 1:** Shows the dancers are next to the word \"TUNE\".\n\nPutting it together, the image depicts two dancers next to the word \"TUNE,\" which naturally translates to \"dance to tune\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udd7a, repeat: 2, icon: (dance: \ud83d\udd7a), sound: (to: 2))\nNode 2 attributes: (text: TUNE, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) tune out (B) tune up (C) dance to tune (D) tune in",
+   "answer": {
+      "C": "dance to tune"
+   },
+   "extracted_response": "C) dance to tune"
 }

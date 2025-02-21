@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows the word \"WORD\" crossed out. The description indicates it's \"cross\" and \"repeat: 2\", implying the word \"cross\" is related to the puzzle and repeated twice, effectively making \"cross word\" which becomes \"crossword\".  \"repeat: 2\" might also suggest the 's' pluralization, hinting at \"crosswords.\" Given option (C) is \"crosswords\" and (A) is \"crossword\", and the image strongly suggests the plural version.\n\n\nTherefore, the answer is (C) crosswords.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: WORD, cross: True, repeat: 2)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) crossword (B) headword (C) crosswords (D) backsword",
-    "answer": {
-        "A": "crossword"
-    }
+   "gemini_pro_response": "The rebus shows the word \"WORD\" crossed out. The description indicates it's \"cross\" and \"repeat: 2\", implying the word \"cross\" is related to the puzzle and repeated twice, effectively making \"cross word\" which becomes \"crossword\".  \"repeat: 2\" might also suggest the 's' pluralization, hinting at \"crosswords.\" Given option (C) is \"crosswords\" and (A) is \"crossword\", and the image strongly suggests the plural version.\n\n\nTherefore, the answer is (C) crosswords.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: WORD, cross: True, repeat: 2)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) crossword (B) headword (C) crosswords (D) backsword",
+   "answer": {
+      "A": "crossword"
+   },
+   "extracted_response": "C) crosswords"
 }

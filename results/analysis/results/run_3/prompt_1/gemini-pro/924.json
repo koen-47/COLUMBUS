@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) too good for this world.\n\nThe text reads \"This good this good this this\" which when read aloud sounds like \"This good, this good, this, this\" with an implied \"is\" between the first two sets of words.  The image of the earth suggests the words refer to something *so* good, it's \"too good *for this world*\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not long for this world (B) out of this world (C) too good for this world (D) not for the world",
-    "answer": {
-        "C": "too good for this world"
-    }
+   "gemini_pro_response": "The image conveys (C) too good for this world.\n\nThe text reads \"This good this good this this\" which when read aloud sounds like \"This good, this good, this, this\" with an implied \"is\" between the first two sets of words.  The image of the earth suggests the words refer to something *so* good, it's \"too good *for this world*\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not long for this world (B) out of this world (C) too good for this world (D) not for the world",
+   "answer": {
+      "C": "too good for this world"
+   },
+   "extracted_response": "C) too good for this world"
 }

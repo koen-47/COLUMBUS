@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) take a back seat.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take the front seat (B) sit back (C) take a back seat (D) have a seat",
-    "answer": {
-        "C": "take a back seat"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) take a back seat.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take the front seat (B) sit back (C) take a back seat (D) have a seat",
+   "answer": {
+      "C": "take a back seat"
+   },
+   "extracted_response": "C) take a back seat"
 }

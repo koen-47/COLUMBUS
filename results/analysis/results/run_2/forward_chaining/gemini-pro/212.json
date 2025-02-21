@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The text \"SACATCK\" can be interpreted as \"A CAT in SACK\".\n\nThe json mentions the text \"SACATCK\". We can rearrange the letters to form \"SACK A CAT\".  This is equivalent to \"A CAT in SACK\", which is close to option (C). Options (A), (B) and (D) are not supported by the image.\n\nTherefore, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'SACATCK' in uppercase letters.\",\n  \"relation\": \"This is the only item in the image.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) the cat's out of the bag (B) in the sack (C) cat in the sack (D) the cat's pajamas\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "cat in the sack"
+    }
+}

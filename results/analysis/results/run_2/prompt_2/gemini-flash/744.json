@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) pour fuel on the fire**.\n\nThe image shows \"POUR FUEL\" above a line, and \"FIRE\" below the line.  This visually represents the action of pouring fuel onto a fire.  While (D) is very similar, (B) is the more literal interpretation of the image.\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pour gasoline on the fire (B) pour fuel on the fire (C) feed the fire (D) add fuel to the flames",
-    "answer": {
-        "B": "pour fuel on the fire"
-    }
+   "gemini_pro_response": "The correct answer is **(B) pour fuel on the fire**.\n\nThe image shows \"POUR FUEL\" above a line, and \"FIRE\" below the line.  This visually represents the action of pouring fuel onto a fire.  While (D) is very similar, (B) is the more literal interpretation of the image.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pour gasoline on the fire (B) pour fuel on the fire (C) feed the fire (D) add fuel to the flames",
+   "answer": {
+      "B": "pour fuel on the fire"
+   },
+   "extracted_response": "B) pour fuel on the fire"
 }

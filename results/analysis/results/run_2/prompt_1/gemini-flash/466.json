@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) from scratch.\n\nThe image shows the phrase \"FROM SCRATCH\" with arrows indicating a downward and upward motion.  This visually represents starting from the very beginning and building something new.  While options A, B, and C are related, only (D) is the exact phrase depicted in the image.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start from scratch (B) begin at the beginning (C) get started (D) from scratch",
-    "answer": {
-        "A": "start from scratch"
-    }
+   "gemini_pro_response": "The correct answer is (D) from scratch.\n\nThe image shows the phrase \"FROM SCRATCH\" with arrows indicating a downward and upward motion.  This visually represents starting from the very beginning and building something new.  While options A, B, and C are related, only (D) is the exact phrase depicted in the image.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start from scratch (B) begin at the beginning (C) get started (D) from scratch",
+   "answer": {
+      "A": "start from scratch"
+   },
+   "extracted_response": "D) from scratch"
 }

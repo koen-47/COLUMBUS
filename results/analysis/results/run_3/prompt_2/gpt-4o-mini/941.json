@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows multiple instances of the number \"2\" arranged in a way that suggests combining or adding them together. The correct answer is (D) put two and two together.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eat for two (B) turn two (C) two for two (D) put two and two together",
-    "answer": {
-        "C": "two for two"
-    }
+   "gpt4v_response": "The rebus puzzle shows multiple instances of the number \"2\" arranged in a way that suggests combining or adding them together. The correct answer is (D) put two and two together.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eat for two (B) turn two (C) two for two (D) put two and two together",
+   "answer": {
+      "C": "two for two"
+   },
+   "extracted_response": "D) put two and two together"
 }

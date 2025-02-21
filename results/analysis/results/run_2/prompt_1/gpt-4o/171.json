@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word conveyed in the image is \"D\" (shift the dial).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) reset the dial (B) dial back (C) dial down (D) shift the dial",
-    "answer": {
-        "B": "dial back"
-    }
+   "gpt4v_response": "The word conveyed in the image is \"D\" (shift the dial).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) reset the dial (B) dial back (C) dial down (D) shift the dial",
+   "answer": {
+      "B": "dial back"
+   },
+   "extracted_response": "D) shift the dial"
 }

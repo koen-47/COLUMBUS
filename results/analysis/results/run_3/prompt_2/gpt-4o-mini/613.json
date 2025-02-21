@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"PRIZE\" with \"IIII\" above it, which can be interpreted as \"four eyes\" or \"eyes on.\" Therefore, the correct answer is (D) eyes on the prize.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) booby prize (C) prizefight (D) eyes on the prize",
-    "answer": {
-        "D": "eyes on the prize"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"PRIZE\" with \"IIII\" above it, which can be interpreted as \"four eyes\" or \"eyes on.\" Therefore, the correct answer is (D) eyes on the prize.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) booby prize (C) prizefight (D) eyes on the prize",
+   "answer": {
+      "D": "eyes on the prize"
+   },
+   "extracted_response": "D) eyes on the prize"
 }

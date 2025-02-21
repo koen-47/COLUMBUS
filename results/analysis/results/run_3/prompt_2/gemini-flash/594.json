@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) eat for two.\n\nThe rebus shows the word \"EAT\" written three times, and the number 2. This visually represents \"EAT\" three times, which is \"EAT\" for two (people).  Therefore, the answer is \"eat for two\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eat one's own (B) two for two (C) eat one's young (D) eat for two",
-    "answer": {
-        "D": "eat for two"
-    }
+   "gemini_pro_response": "The correct answer is (D) eat for two.\n\nThe rebus shows the word \"EAT\" written three times, and the number 2. This visually represents \"EAT\" three times, which is \"EAT\" for two (people).  Therefore, the answer is \"eat for two\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eat one's own (B) two for two (C) eat one's young (D) eat for two",
+   "answer": {
+      "D": "eat for two"
+   },
+   "extracted_response": "D) eat for two"
 }

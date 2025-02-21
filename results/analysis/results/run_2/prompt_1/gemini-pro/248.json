@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"1111GOSHELL,\" which sounds like \"I want to go shell.\" This is a rebus puzzle, and the answer is **(C) go into one's shell**.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go one's own way (B) go out of one's way (C) go into one's shell (D) come out of one's shell",
-    "answer": {
-        "C": "go into one's shell"
-    }
+   "gemini_pro_response": "The image says \"1111GOSHELL,\" which sounds like \"I want to go shell.\" This is a rebus puzzle, and the answer is **(C) go into one's shell**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go one's own way (B) go out of one's way (C) go into one's shell (D) come out of one's shell",
+   "answer": {
+      "C": "go into one's shell"
+   },
+   "extracted_response": "C) go into one's shell"
 }

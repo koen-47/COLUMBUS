@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The answer is (A) fly in the face of.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly in the face of (B) fly off (C) fly on the wall (D) fly by",
-    "answer": {
-        "C": "fly on the wall"
-    }
+   "gpt4v_response": "The answer is (A) fly in the face of.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly in the face of (B) fly off (C) fly on the wall (D) fly by",
+   "answer": {
+      "C": "fly on the wall"
+   },
+   "extracted_response": "A) fly in the face of"
 }

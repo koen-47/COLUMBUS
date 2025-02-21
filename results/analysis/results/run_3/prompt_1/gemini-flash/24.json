@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **after one's own heart**.\n\nThe image uses arrows to visually represent the phrase.  The number 1111 is surrounded by arrows pointing up and down, suggesting something that aligns perfectly, something that is \"after one's own heart\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross one's heart (B) have one's heart in (C) after one's own heart (D) put one's heart in",
-    "answer": {
-        "C": "after one's own heart"
-    }
+   "gemini_pro_response": "The correct answer is (C) **after one's own heart**.\n\nThe image uses arrows to visually represent the phrase.  The number 1111 is surrounded by arrows pointing up and down, suggesting something that aligns perfectly, something that is \"after one's own heart\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross one's heart (B) have one's heart in (C) after one's own heart (D) put one's heart in",
+   "answer": {
+      "C": "after one's own heart"
+   },
+   "extracted_response": "C) after one's own heart"
 }

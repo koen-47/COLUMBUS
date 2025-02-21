@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (A) fall into one's lap.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall into one's lap (B) land in someone's lap (C) with one's jaw in one's lap (D) lap up",
-    "answer": {
-        "A": "fall into one's lap"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) fall into one's lap.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall into one's lap (B) land in someone's lap (C) with one's jaw in one's lap (D) lap up",
+   "answer": {
+      "A": "fall into one's lap"
+   },
+   "extracted_response": "A"
 }

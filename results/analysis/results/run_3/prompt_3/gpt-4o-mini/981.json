@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle consists of a water icon (\ud83c\udf0a) and the word \"DAM.\" Together, they convey the phrase \"water over the dam.\" \n\nSo, the correct answer is (C) water over the dam.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83c\udf0a, repeat: 1, icon: (water: \ud83c\udf0a))\nNode 2 attributes: (text: DAM, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) head above water (B) water down (C) water over the dam (D) water under the bridge",
-    "answer": {
-        "C": "water over the dam"
-    }
+   "gpt4v_response": "The rebus puzzle consists of a water icon (\ud83c\udf0a) and the word \"DAM.\" Together, they convey the phrase \"water over the dam.\" \n\nSo, the correct answer is (C) water over the dam.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83c\udf0a, repeat: 1, icon: (water: \ud83c\udf0a))\nNode 2 attributes: (text: DAM, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) head above water (B) water down (C) water over the dam (D) water under the bridge",
+   "answer": {
+      "C": "water over the dam"
+   },
+   "extracted_response": "C) water over the dam"
 }

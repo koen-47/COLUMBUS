@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"TERM\" positioned in the middle, with arrows pointing up and down. This suggests the concept of \"mid\" in relation to \"term.\" Therefore, the correct answer is:\n\n(A) midterm.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midterm (B) midterms (C) midribs (D) midpoints",
-    "answer": {
-        "B": "midterms"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"TERM\" positioned in the middle, with arrows pointing up and down. This suggests the concept of \"mid\" in relation to \"term.\" Therefore, the correct answer is:\n\n(A) midterm.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midterm (B) midterms (C) midribs (D) midpoints",
+   "answer": {
+      "B": "midterms"
+   },
+   "extracted_response": "A) midterm"
 }

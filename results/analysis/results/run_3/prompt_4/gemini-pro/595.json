@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"ROOM\" with an elephant icon inside the word. The description confirms this with an \"INSIDE\" relationship between the elephant and the room.  This represents the idiom \"elephant in the room.\"\n\nTherefore, the answer is (A).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc18, repeat: 1, icon: (elephant: \ud83d\udc18))\nNode 2 attributes: (text: ROOM, repeat: 1)\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) white elephant (D) baby elephant in the room",
-    "answer": {
-        "A": "elephant in the room"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"ROOM\" with an elephant icon inside the word. The description confirms this with an \"INSIDE\" relationship between the elephant and the room.  This represents the idiom \"elephant in the room.\"\n\nTherefore, the answer is (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc18, repeat: 1, icon: (elephant: \ud83d\udc18))\nNode 2 attributes: (text: ROOM, repeat: 1)\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) white elephant (D) baby elephant in the room",
+   "answer": {
+      "A": "elephant in the room"
+   },
+   "extracted_response": "A"
 }

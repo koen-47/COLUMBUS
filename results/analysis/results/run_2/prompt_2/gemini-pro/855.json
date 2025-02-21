@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows the word \"STAND\" repeated four times, one above the other. This represents \"four STANDing\", which sounds like \"for understanding\".  Thus, taking a creative interpretation of the visual arrangement, the rebus stands for **(D) stand for**.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stand with (B) stand up (C) stand in for (D) stand for",
-    "answer": {
-        "D": "stand for"
-    }
+   "gemini_pro_response": "The rebus shows the word \"STAND\" repeated four times, one above the other. This represents \"four STANDing\", which sounds like \"for understanding\".  Thus, taking a creative interpretation of the visual arrangement, the rebus stands for **(D) stand for**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stand with (B) stand up (C) stand in for (D) stand for",
+   "answer": {
+      "D": "stand for"
+   },
+   "extracted_response": "D) stand for"
 }

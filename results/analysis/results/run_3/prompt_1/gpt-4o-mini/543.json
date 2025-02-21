@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) from beginning to end.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) begin at the beginning (B) from start to finish (C) from beginning to end (D) from scratch",
-    "answer": {
-        "B": "from start to finish"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) from beginning to end.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) begin at the beginning (B) from start to finish (C) from beginning to end (D) from scratch",
+   "answer": {
+      "B": "from start to finish"
+   },
+   "extracted_response": "C"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B) hand in hand.\n\nThe image shows three hands.  The phrase \"hand in hand\" implies two hands together, but the addition of the third hand adds a bit of playful ambiguity to the image.  The other options don't fit the visual representation as well.\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in hand (B) hand in hand (C) hand over hand (D) hand in glove",
-    "answer": {
-        "B": "hand in hand"
-    }
+   "gemini_pro_response": "The answer is (B) hand in hand.\n\nThe image shows three hands.  The phrase \"hand in hand\" implies two hands together, but the addition of the third hand adds a bit of playful ambiguity to the image.  The other options don't fit the visual representation as well.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in hand (B) hand in hand (C) hand over hand (D) hand in glove",
+   "answer": {
+      "B": "hand in hand"
+   },
+   "extracted_response": "B) hand in hand"
 }

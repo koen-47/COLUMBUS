@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) step up to the plate.\n\nThe rebus shows the word \"STEP\" vertically, implying an upward direction, and next to two instances of the word \"PLATE\".  The graph description confirms this: Node 1 (STEP) has an upward direction, and Node 2 (PLATE) is repeated twice. This visually and conceptually represents the idiom \"step up to the plate.\"\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: STEP, repeat: 1, direction: up)\nNode 2 attributes: (text: PLATE, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) step over (B) step down (C) step up to the plate (D) step up",
-    "answer": {
-        "C": "step up to the plate"
-    }
+   "gemini_pro_response": "The correct answer is (C) step up to the plate.\n\nThe rebus shows the word \"STEP\" vertically, implying an upward direction, and next to two instances of the word \"PLATE\".  The graph description confirms this: Node 1 (STEP) has an upward direction, and Node 2 (PLATE) is repeated twice. This visually and conceptually represents the idiom \"step up to the plate.\"\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: STEP, repeat: 1, direction: up)\nNode 2 attributes: (text: PLATE, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) step over (B) step down (C) step up to the plate (D) step up",
+   "answer": {
+      "C": "step up to the plate"
+   },
+   "extracted_response": "C"
 }

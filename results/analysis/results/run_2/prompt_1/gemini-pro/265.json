@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) bring home.\n\nThe word \"BRING\" is written vertically, and next to it is a picture of a house.  \"Bring home\" is a common idiom.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bring down the house (B) move house (C) bring home (D) keep house",
-    "answer": {
-        "A": "bring down the house"
-    }
+   "gemini_pro_response": "The image conveys (C) bring home.\n\nThe word \"BRING\" is written vertically, and next to it is a picture of a house.  \"Bring home\" is a common idiom.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bring down the house (B) move house (C) bring home (D) keep house",
+   "answer": {
+      "A": "bring down the house"
+   },
+   "extracted_response": "C) bring home"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) two left hands.\n\nThe image shows the words \"LEFT\" and \"HANDS\" arranged to visually represent the idiom \"two left hands,\" which describes someone who is clumsy or awkward.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) extra pair of hands (B) two left feet (C) change hands (D) two left hands",
-    "answer": {
-        "D": "two left hands"
-    }
+   "gemini_pro_response": "The correct answer is (D) two left hands.\n\nThe image shows the words \"LEFT\" and \"HANDS\" arranged to visually represent the idiom \"two left hands,\" which describes someone who is clumsy or awkward.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) extra pair of hands (B) two left feet (C) change hands (D) two left hands",
+   "answer": {
+      "D": "two left hands"
+   },
+   "extracted_response": "D) two left hands"
 }

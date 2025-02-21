@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **turn back the clock**.\n\nThe image shows the letters \"DNIW,\" which is \"WIND\" spelled backward, and a clock.  Together, they suggest the action of reversing the time on a clock, hence \"turn back the clock.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put the clock back (B) turn the clock back (C) turn back the clock (D) wind back the clock",
-    "answer": {
-        "D": "wind back the clock"
-    }
+   "gemini_pro_response": "The correct answer is (C) **turn back the clock**.\n\nThe image shows the letters \"DNIW,\" which is \"WIND\" spelled backward, and a clock.  Together, they suggest the action of reversing the time on a clock, hence \"turn back the clock.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put the clock back (B) turn the clock back (C) turn back the clock (D) wind back the clock",
+   "answer": {
+      "D": "wind back the clock"
+   },
+   "extracted_response": "C) turn back the clock"
 }

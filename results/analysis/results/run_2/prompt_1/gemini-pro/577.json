@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase \"**under the wire**\" (C). The arrows pointing down below the word \"WIRE\" visually represent something going under a wire.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down under (B) down to the wire (C) under the wire (D) down the line",
-    "answer": {
-        "B": "down to the wire"
-    }
+   "gemini_pro_response": "The image conveys the phrase \"**under the wire**\" (C). The arrows pointing down below the word \"WIRE\" visually represent something going under a wire.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down under (B) down to the wire (C) under the wire (D) down the line",
+   "answer": {
+      "B": "down to the wire"
+   },
+   "extracted_response": "C"
 }

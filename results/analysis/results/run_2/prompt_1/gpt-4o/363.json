@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (B) cry one's eyes out.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small beer (B) cry one's eyes out (C) cry someone a river (D) cry in one's beer",
-    "answer": {
-        "D": "cry in one's beer"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) cry one's eyes out.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small beer (B) cry one's eyes out (C) cry someone a river (D) cry in one's beer",
+   "answer": {
+      "D": "cry in one's beer"
+   },
+   "extracted_response": "B) cry one's eyes out"
 }

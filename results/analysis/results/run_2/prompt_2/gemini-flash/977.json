@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) walk on water.\n\nThe image shows a person walking on a line, above a wave.  This visually represents the concept of walking on water.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take on water (B) walk on water (C) carry someone's water (D) take a walk",
-    "answer": {
-        "B": "walk on water"
-    }
+   "gemini_pro_response": "The correct answer is (B) walk on water.\n\nThe image shows a person walking on a line, above a wave.  This visually represents the concept of walking on water.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take on water (B) walk on water (C) carry someone's water (D) take a walk",
+   "answer": {
+      "B": "walk on water"
+   },
+   "extracted_response": "B) walk on water"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) give someone what for.  It visually represents the idiom by having the word \"GIVE\" followed by multiple \"WHAT\"s, creating \"give what what what what,\" which is a playful way of representing \"give what for.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone what-for (B) give what for (C) give someone what for (D) what for",
-    "answer": {
-        "B": "give what for"
-    }
+   "gemini_pro_response": "The image conveys (C) give someone what for.  It visually represents the idiom by having the word \"GIVE\" followed by multiple \"WHAT\"s, creating \"give what what what what,\" which is a playful way of representing \"give what for.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone what-for (B) give what for (C) give someone what for (D) what for",
+   "answer": {
+      "B": "give what for"
+   },
+   "extracted_response": "B"
 }

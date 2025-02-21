@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle you provided can be interpreted as follows:\n\n- The word \"MOVE\" is represented by the letters \"EVO\" being flipped upside down to form \"MOVE.\"\n- The two icons of the world (\ud83c\udf0d) suggest a global context.\n\nPutting this together, the phrase conveyed is \"move heaven and earth,\" which aligns with the idea of making significant efforts or changes on a global scale.\n\nTherefore, the correct answer is (B) move heaven and earth.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MOVE, repeat: 1, direction: up)\nNode 2 attributes: (text: \ud83c\udf0d, repeat: 1, icon: (world: \ud83c\udf0d))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) move out (B) move heaven and earth (C) move up in the world (D) come into the world",
-    "answer": {
-        "C": "move up in the world"
-    }
+   "gpt4v_response": "The rebus puzzle you provided can be interpreted as follows:\n\n- The word \"MOVE\" is represented by the letters \"EVO\" being flipped upside down to form \"MOVE.\"\n- The two icons of the world (\ud83c\udf0d) suggest a global context.\n\nPutting this together, the phrase conveyed is \"move heaven and earth,\" which aligns with the idea of making significant efforts or changes on a global scale.\n\nTherefore, the correct answer is (B) move heaven and earth.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MOVE, repeat: 1, direction: up)\nNode 2 attributes: (text: \ud83c\udf0d, repeat: 1, icon: (world: \ud83c\udf0d))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) move out (B) move heaven and earth (C) move up in the world (D) come into the world",
+   "answer": {
+      "C": "move up in the world"
+   },
+   "extracted_response": "B) move heaven and earth"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B) hit the ground running.\n\nThe image shows the word \"GRORUNUND\".  By removing the repeated letters, we get \"GROUND RUN\". This is a play on words, suggesting the idiom \"hit the ground running\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to ground (B) hit the ground running (C) put in the ground (D) run into the ground",
-    "answer": {
-        "D": "run into the ground"
-    }
+   "gemini_pro_response": "The answer is (B) hit the ground running.\n\nThe image shows the word \"GRORUNUND\".  By removing the repeated letters, we get \"GROUND RUN\". This is a play on words, suggesting the idiom \"hit the ground running\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to ground (B) hit the ground running (C) put in the ground (D) run into the ground",
+   "answer": {
+      "D": "run into the ground"
+   },
+   "extracted_response": "B) hit the ground running"
 }

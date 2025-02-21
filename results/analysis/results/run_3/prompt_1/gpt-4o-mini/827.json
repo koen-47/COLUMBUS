@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (A) set in stone.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in stone (B) carved in stone (C) stone dead (D) rolling stone",
-    "answer": {
-        "A": "set in stone"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) set in stone.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in stone (B) carved in stone (C) stone dead (D) rolling stone",
+   "answer": {
+      "A": "set in stone"
+   },
+   "extracted_response": "A"
 }

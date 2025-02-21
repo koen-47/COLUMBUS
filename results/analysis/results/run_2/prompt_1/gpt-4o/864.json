@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(B) run in the family",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep it in the family (B) run in the family (C) family jewels (D) start a family",
-    "answer": {
-        "D": "start a family"
-    }
+   "gpt4v_response": "(B) run in the family",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep it in the family (B) run in the family (C) family jewels (D) start a family",
+   "answer": {
+      "D": "start a family"
+   },
+   "extracted_response": "B) run in the family"
 }

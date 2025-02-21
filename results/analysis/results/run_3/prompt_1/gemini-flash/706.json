@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **hit the nail on the head**.\n\nThe image depicts a nail and a hammer, visually representing the act of hitting a nail.  The surprised face underneath suggests accuracy and success.  \"Hit the nail on the head\" is an idiom meaning to be perfectly correct or accurate.  The other options don't fit the visual metaphor.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail the hammer on the head (B) hit the nail on the head (C) put the hammer down (D) bring to the hammer",
-    "answer": {
-        "A": "nail the hammer on the head"
-    }
+   "gemini_pro_response": "The correct answer is (B) **hit the nail on the head**.\n\nThe image depicts a nail and a hammer, visually representing the act of hitting a nail.  The surprised face underneath suggests accuracy and success.  \"Hit the nail on the head\" is an idiom meaning to be perfectly correct or accurate.  The other options don't fit the visual metaphor.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail the hammer on the head (B) hit the nail on the head (C) put the hammer down (D) bring to the hammer",
+   "answer": {
+      "A": "nail the hammer on the head"
+   },
+   "extracted_response": "B) hit the nail on the head"
 }

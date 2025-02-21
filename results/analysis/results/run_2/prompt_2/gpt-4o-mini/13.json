@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"all in all.\" Therefore, the correct answer is (A) all in all.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) all in all (B) at all (C) first of all (D) after all",
-    "answer": {
-        "D": "after all"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"all in all.\" Therefore, the correct answer is (A) all in all.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) all in all (B) at all (C) first of all (D) after all",
+   "answer": {
+      "D": "after all"
+   },
+   "extracted_response": "A) all in all"
 }

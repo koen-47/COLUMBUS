@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"RUN\" repeated multiple times with the word \"COVER\" in the middle. This suggests the phrase \"run for cover.\" \n\nSo, the answer is (D) run for cover.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take cover (B) from cover to cover (C) cover up (D) run for cover",
-    "answer": {
-        "D": "run for cover"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"RUN\" repeated multiple times with the word \"COVER\" in the middle. This suggests the phrase \"run for cover.\" \n\nSo, the answer is (D) run for cover.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take cover (B) from cover to cover (C) cover up (D) run for cover",
+   "answer": {
+      "D": "run for cover"
+   },
+   "extracted_response": "D) run for cover"
 }

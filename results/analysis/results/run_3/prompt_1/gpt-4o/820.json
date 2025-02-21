@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(C) see eye to eye",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) catch the eye (C) see eye to eye (D) catch someone's eye",
-    "answer": {
-        "C": "see eye to eye"
-    }
+   "gpt4v_response": "(C) see eye to eye",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) catch the eye (C) see eye to eye (D) catch someone's eye",
+   "answer": {
+      "C": "see eye to eye"
+   },
+   "extracted_response": "C"
 }

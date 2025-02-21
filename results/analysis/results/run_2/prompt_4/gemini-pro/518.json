@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word \"TONE\" is written downwards. The direction attribute is down which indicates that the word needs to be read in a downward direction. The repeat is set to 1, thus it is read only once. This implies that the solution is \"tone down\" (A).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: TONE, repeat: 1, direction: down)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) tone down (B) lighten up (C) tune out (D) turn down",
-    "answer": {
-        "A": "tone down"
-    }
+   "gemini_pro_response": "The word \"TONE\" is written downwards. The direction attribute is down which indicates that the word needs to be read in a downward direction. The repeat is set to 1, thus it is read only once. This implies that the solution is \"tone down\" (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: TONE, repeat: 1, direction: down)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) tone down (B) lighten up (C) tune out (D) turn down",
+   "answer": {
+      "A": "tone down"
+   },
+   "extracted_response": "A"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) start a family.\n\nThe image shows a family symbol (\ud83d\udc6a) with upward and downward arrows.  The arrows represent the process of starting a family:  the parents (represented implicitly by the arrows pointing downward to the child) create a family (represented by the family symbol \ud83d\udc6a).  The upward arrow points to the new family member that is a result of this process.\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc6a, repeat: 1, highlight: before, icon: (family: \ud83d\udc6a))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) run in the family (B) keep it in the family (C) start a family (D) family jewels",
-    "answer": {
-        "C": "start a family"
-    }
+   "gemini_pro_response": "The correct answer is (C) start a family.\n\nThe image shows a family symbol (\ud83d\udc6a) with upward and downward arrows.  The arrows represent the process of starting a family:  the parents (represented implicitly by the arrows pointing downward to the child) create a family (represented by the family symbol \ud83d\udc6a).  The upward arrow points to the new family member that is a result of this process.\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc6a, repeat: 1, highlight: before, icon: (family: \ud83d\udc6a))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) run in the family (B) keep it in the family (C) start a family (D) family jewels",
+   "answer": {
+      "C": "start a family"
+   },
+   "extracted_response": "C) start a family"
 }

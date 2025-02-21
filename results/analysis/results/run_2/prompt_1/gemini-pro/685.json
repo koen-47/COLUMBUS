@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) middle of the night.  The arrows pointing towards \"NIGHT\" from above and below suggest it's surrounded by night, implying the middle of the night.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bank night (B) night out (C) middle of the night (D) nighttime",
-    "answer": {
-        "C": "middle of the night"
-    }
+   "gemini_pro_response": "The image conveys (C) middle of the night.  The arrows pointing towards \"NIGHT\" from above and below suggest it's surrounded by night, implying the middle of the night.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bank night (B) night out (C) middle of the night (D) nighttime",
+   "answer": {
+      "C": "middle of the night"
+   },
+   "extracted_response": "C) middle of the night"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"DIG\" next to a square containing a hole.  This represents \"DIG in a square\" or \"DIG in a box\".\n\nThe phrase conveyed is **(B) dig oneself in a hole**.  The idiom \"dig oneself into a hole\" means to make a bad situation worse through one's own actions.  The image symbolically represents the act of digging and being trapped inside a hole (the box).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig deep (B) dig oneself in a hole (C) dig out of a hole (D) blow a hole through",
-    "answer": {
-        "C": "dig out of a hole"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"DIG\" next to a square containing a hole.  This represents \"DIG in a square\" or \"DIG in a box\".\n\nThe phrase conveyed is **(B) dig oneself in a hole**.  The idiom \"dig oneself into a hole\" means to make a bad situation worse through one's own actions.  The image symbolically represents the act of digging and being trapped inside a hole (the box).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig deep (B) dig oneself in a hole (C) dig out of a hole (D) blow a hole through",
+   "answer": {
+      "C": "dig out of a hole"
+   },
+   "extracted_response": "B) dig oneself in a hole"
 }

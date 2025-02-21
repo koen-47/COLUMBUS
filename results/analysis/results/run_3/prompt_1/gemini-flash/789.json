@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **run for one's money**.\n\nHere's why:\n\nThe image shows four figures running (representing competition or effort) towards a symbol of money (the wallet).  The number \"1111\" likely represents a large number of competitors, or a tough competition.  This perfectly encapsulates the idiom \"run for one's money,\" which implies having to work hard to achieve something valuable (in this case, the money).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a run for it (B) run with (C) run for one's life (D) run for one's money",
-    "answer": {
-        "D": "run for one's money"
-    }
+   "gemini_pro_response": "The correct answer is (D) **run for one's money**.\n\nHere's why:\n\nThe image shows four figures running (representing competition or effort) towards a symbol of money (the wallet).  The number \"1111\" likely represents a large number of competitors, or a tough competition.  This perfectly encapsulates the idiom \"run for one's money,\" which implies having to work hard to achieve something valuable (in this case, the money).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a run for it (B) run with (C) run for one's life (D) run for one's money",
+   "answer": {
+      "D": "run for one's money"
+   },
+   "extracted_response": "D) run for one's money"
 }

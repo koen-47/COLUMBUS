@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) fish out of water**.\n\nThe image shows a single fish outside of a container or environment where other fish are present. This visually represents the idiom \"fish out of water,\" which describes someone who feels uncomfortable or out of place in a particular situation or environment.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish out (B) fish out of water (C) fish in troubled waters (D) other fish in the sea",
-    "answer": {
-        "B": "fish out of water"
-    }
+   "gemini_pro_response": "The correct answer is **(B) fish out of water**.\n\nThe image shows a single fish outside of a container or environment where other fish are present. This visually represents the idiom \"fish out of water,\" which describes someone who feels uncomfortable or out of place in a particular situation or environment.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish out (B) fish out of water (C) fish in troubled waters (D) other fish in the sea",
+   "answer": {
+      "B": "fish out of water"
+   },
+   "extracted_response": "B, fish out of water"
 }

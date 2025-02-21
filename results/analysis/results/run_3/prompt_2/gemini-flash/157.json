@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) crossover.\n\nThe word \"OVER\" is crossed out, implying that it is being crossed over.  Therefore, the rebus represents \"crossover\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossovers (B) overcrossing (C) cross the bridge (D) crossover",
-    "answer": {
-        "D": "crossover"
-    }
+   "gemini_pro_response": "The correct answer is (D) crossover.\n\nThe word \"OVER\" is crossed out, implying that it is being crossed over.  Therefore, the rebus represents \"crossover\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossovers (B) overcrossing (C) cross the bridge (D) crossover",
+   "answer": {
+      "D": "crossover"
+   },
+   "extracted_response": "D) crossover"
 }

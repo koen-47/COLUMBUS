@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image is a simple drawing of a beer mug.  Of the options provided, the most appropriate is **(C) small beer**.  While the image doesn't explicitly show a *small* beer mug, the simplicity of the drawing suggests something modest or commonplace, aligning with the idiom \"small beer,\" which means something unimportant or insignificant.\n\nThe other options are less suitable:\n\n* **(A) beer goggles:** This refers to the effect of alcohol on one's perception of attractiveness.\n* **(B) beer and skittles:** This is a phrase suggesting enjoyment and revelry.\n* **(D) beer muscles:** This refers to temporary muscle gains from fluid retention due to alcohol.\n\nTherefore, (C) is the best fit, albeit an indirect one.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beer goggles (B) beer and skittles (C) small beer (D) beer muscles",
-    "answer": {
-        "C": "small beer"
-    }
+   "gemini_pro_response": "The image is a simple drawing of a beer mug.  Of the options provided, the most appropriate is **(C) small beer**.  While the image doesn't explicitly show a *small* beer mug, the simplicity of the drawing suggests something modest or commonplace, aligning with the idiom \"small beer,\" which means something unimportant or insignificant.\n\nThe other options are less suitable:\n\n* **(A) beer goggles:** This refers to the effect of alcohol on one's perception of attractiveness.\n* **(B) beer and skittles:** This is a phrase suggesting enjoyment and revelry.\n* **(D) beer muscles:** This refers to temporary muscle gains from fluid retention due to alcohol.\n\nTherefore, (C) is the best fit, albeit an indirect one.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beer goggles (B) beer and skittles (C) small beer (D) beer muscles",
+   "answer": {
+      "C": "small beer"
+   },
+   "extracted_response": "C) small beer"
 }

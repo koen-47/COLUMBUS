@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts (D) hand over hand.  One hand grips a horizontal bar or rope, then the other hand grips further along, repeating the motion for movement.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over fist (B) hand over (C) hand in hand (D) hand over hand",
-    "answer": {
-        "A": "hand over fist"
-    }
+   "gemini_pro_response": "The image depicts (D) hand over hand.  One hand grips a horizontal bar or rope, then the other hand grips further along, repeating the motion for movement.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over fist (B) hand over (C) hand in hand (D) hand over hand",
+   "answer": {
+      "A": "hand over fist"
+   },
+   "extracted_response": "D) hand over hand"
 }

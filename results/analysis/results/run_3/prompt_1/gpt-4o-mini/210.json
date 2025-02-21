@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "Based on the image, the word/phrase conveyed is likely (A) bread of life.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bread of life (B) brown bread (C) burn bread (D) bread and butter",
-    "answer": {
-        "B": "brown bread"
-    }
+   "gpt4v_response": "Based on the image, the word/phrase conveyed is likely (A) bread of life.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bread of life (B) brown bread (C) burn bread (D) bread and butter",
+   "answer": {
+      "B": "brown bread"
+   },
+   "extracted_response": "A"
 }

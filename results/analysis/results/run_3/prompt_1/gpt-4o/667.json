@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "I can't determine the phrase from the options provided.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) look here (B) look out (C) look into (D) look to",
-    "answer": {
-        "D": "look to"
-    }
+   "gpt4v_response": "I can't determine the phrase from the options provided.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) look here (B) look out (C) look into (D) look to",
+   "answer": {
+      "D": "look to"
+   },
+   "extracted_response": "I can't determine the phrase from the options provided."
 }

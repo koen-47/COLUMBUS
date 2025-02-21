@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts people running and the word \"ROSES.\" This conveys the idiom \"**run for the roses (B)**,\" which refers to the Kentucky Derby horse race.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stop and smell the roses (B) run for the roses (C) a bed of roses (D) come up roses",
-    "answer": {
-        "B": "run for the roses"
-    }
+   "gemini_pro_response": "The image depicts people running and the word \"ROSES.\" This conveys the idiom \"**run for the roses (B)**,\" which refers to the Kentucky Derby horse race.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stop and smell the roses (B) run for the roses (C) a bed of roses (D) come up roses",
+   "answer": {
+      "B": "run for the roses"
+   },
+   "extracted_response": "B"
 }

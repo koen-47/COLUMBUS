@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"BENT\" is to the left of \"SHAPE\" which is in a rectangular box which could be interpreted as \"out of\". This matches option (C) \"bent out of shape\". \n\n(A) \"out of shape\" is missing the word \"bent\".\n(B) \"bent on\" is missing the words \"out of shape\".\n(D) \"get bent\" is missing the words \"out of shape\".\n\nFinal Answer: The final answer is $\\boxed{C}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text_bent\",\n    \"description\": \"The word 'BENT' written in uppercase letters.\",\n    \"relation\": \"left of the rectangle\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"rectangle\",\n    \"description\": \"A rectangle with the word 'SHAPE' inside it.\",\n    \"relation\": \"right of the word 'BENT'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) out of shape (B) bent on (C) bent out of shape (D) get bent\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "bent out of shape"
+    }
+}

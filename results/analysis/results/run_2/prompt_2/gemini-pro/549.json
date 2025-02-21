@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows a door, a foot, and another door. This represents the idiom \"foot in the door,\" which means (D).\n\nThe other options, while related to doors, don't fit the imagery presented.  \"Get the door\" implies opening a door. \"At someone's door\" implies being outside a door. \"Get one's foot in the door\" is close, but the idiom itself is simply \"foot in the door.\" Therefore, the correct answer is (D).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get the door (B) at someone's door (C) get one's foot in the door (D) foot in the door",
-    "answer": {
-        "D": "foot in the door"
-    }
+   "gemini_pro_response": "The rebus puzzle shows a door, a foot, and another door. This represents the idiom \"foot in the door,\" which means (D).\n\nThe other options, while related to doors, don't fit the imagery presented.  \"Get the door\" implies opening a door. \"At someone's door\" implies being outside a door. \"Get one's foot in the door\" is close, but the idiom itself is simply \"foot in the door.\" Therefore, the correct answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get the door (B) at someone's door (C) get one's foot in the door (D) foot in the door",
+   "answer": {
+      "D": "foot in the door"
+   },
+   "extracted_response": "D) foot in the door"
 }

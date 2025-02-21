@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **castles in the air**.\n\nThe image shows the letters \"ACASTLEIR\".  Rearranging these letters gives the idiom \"castles in the air,\" which refers to unrealistic or impractical plans and dreams.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) castle in the air (B) king of the castle (C) in the air (D) castles in the air",
-    "answer": {
-        "A": "castle in the air"
-    }
+   "gemini_pro_response": "The correct answer is (D) **castles in the air**.\n\nThe image shows the letters \"ACASTLEIR\".  Rearranging these letters gives the idiom \"castles in the air,\" which refers to unrealistic or impractical plans and dreams.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) castle in the air (B) king of the castle (C) in the air (D) castles in the air",
+   "answer": {
+      "A": "castle in the air"
+   },
+   "extracted_response": "D) castles in the air"
 }

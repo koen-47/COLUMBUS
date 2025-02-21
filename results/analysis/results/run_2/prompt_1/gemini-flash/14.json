@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) new blood**.\n\nThe image shows the word \"BLOOD\" with an upward and downward arrow.  The upward arrow suggests an influx of something new, while the downward arrow implies something old or existing is leaving.  This visual metaphor represents the idea of \"new blood\" coming in to replace or supplement the old.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shed blood (B) new blood (C) young blood (D) after blood",
-    "answer": {
-        "D": "after blood"
-    }
+   "gemini_pro_response": "The correct answer is **(B) new blood**.\n\nThe image shows the word \"BLOOD\" with an upward and downward arrow.  The upward arrow suggests an influx of something new, while the downward arrow implies something old or existing is leaving.  This visual metaphor represents the idea of \"new blood\" coming in to replace or supplement the old.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shed blood (B) new blood (C) young blood (D) after blood",
+   "answer": {
+      "D": "after blood"
+   },
+   "extracted_response": "B) new blood"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word is a combination of \"moment\" and \"momentum\" and implies building momentum from a moment.  None of the provided options perfectly capture this combined meaning.  However, the closest option is **(A) moment in the sun**.  This is because achieving a \"moment in the sun\" implies gaining recognition or success, which could be seen as a form of momentum.  The other options are less relevant.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) moment in the sun (B) in the heat of the moment (C) catch the sun (D) moment of truth",
-    "answer": {
-        "A": "moment in the sun"
-    }
+   "gemini_pro_response": "The word is a combination of \"moment\" and \"momentum\" and implies building momentum from a moment.  None of the provided options perfectly capture this combined meaning.  However, the closest option is **(A) moment in the sun**.  This is because achieving a \"moment in the sun\" implies gaining recognition or success, which could be seen as a form of momentum.  The other options are less relevant.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) moment in the sun (B) in the heat of the moment (C) catch the sun (D) moment of truth",
+   "answer": {
+      "A": "moment in the sun"
+   },
+   "extracted_response": "A) moment in the sun"
 }

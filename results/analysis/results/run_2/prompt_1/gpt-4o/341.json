@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "C) miniature version of the truth",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nugget of truth (B) grain of truth (C) miniature version of the truth (D) stretch the truth",
-    "answer": {
-        "C": "miniature version of the truth"
-    }
+   "gpt4v_response": "C) miniature version of the truth",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nugget of truth (B) grain of truth (C) miniature version of the truth (D) stretch the truth",
+   "answer": {
+      "C": "miniature version of the truth"
+   },
+   "extracted_response": "C) miniature version of the truth"
 }

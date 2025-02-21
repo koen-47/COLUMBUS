@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) cap in hand.\n\nThe image shows two hands with a baseball cap between them.  This visually represents the idiom \"cap in hand,\" which means to be humbly asking for something.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hat in hand (B) set one's cap at (C) cap in hand (D) bust a cap",
-    "answer": {
-        "C": "cap in hand"
-    }
+   "gemini_pro_response": "The correct answer is (C) cap in hand.\n\nThe image shows two hands with a baseball cap between them.  This visually represents the idiom \"cap in hand,\" which means to be humbly asking for something.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hat in hand (B) set one's cap at (C) cap in hand (D) bust a cap",
+   "answer": {
+      "C": "cap in hand"
+   },
+   "extracted_response": "C"
 }

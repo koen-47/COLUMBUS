@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) under one's own steam**.\n\nThe image shows \"RUN\" outside a box containing \"STEAM\".  This visually represents something moving or operating using its own power (steam), hence \"under one's own steam\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of steam (B) under one's own steam (C) head of steam (D) blow off steam",
-    "answer": {
-        "A": "run out of steam"
-    }
+   "gemini_pro_response": "The correct answer is **(B) under one's own steam**.\n\nThe image shows \"RUN\" outside a box containing \"STEAM\".  This visually represents something moving or operating using its own power (steam), hence \"under one's own steam\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of steam (B) under one's own steam (C) head of steam (D) blow off steam",
+   "answer": {
+      "A": "run out of steam"
+   },
+   "extracted_response": "B) under one's own steam"
 }

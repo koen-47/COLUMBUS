@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image contains the word \"OLD\".\n\nThe JSON describes the word \"OLD\" being present in the image.\n\n(A) old school: This uses \"old\".\n(B) little old: This uses \"old\".\n(C) big old: This uses \"old\".\n(D) some old: This uses \"old\".\n\nSince the image only contains \"OLD\", and nothing else, the answer must simply be OLD.  Since none of the multiple choice options offer simply \"OLD\" we go for an option that best relates to the description. Given this limitation the correct answer is **D) some old** since this would use the word 'old' and could refer to anything. \n\nHowever, it's worth noting the ideal answer, which is not presented, is simply \"OLD\".",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'OLD' written in uppercase letters.\",\n  \"relation\": \"This is the only item in the image.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) old school (B) little old (C) big old (D) some old\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "little old"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) bring to light.\n\nThe rebus shows the word \"BRING\" written twice, with a lightbulb to the right.  This visually represents the phrase \"bring to light\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a light (B) give a light (C) bring to light (D) come to light",
-    "answer": {
-        "C": "bring to light"
-    }
+   "gemini_pro_response": "The correct answer is (C) bring to light.\n\nThe rebus shows the word \"BRING\" written twice, with a lightbulb to the right.  This visually represents the phrase \"bring to light\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a light (B) give a light (C) bring to light (D) come to light",
+   "answer": {
+      "C": "bring to light"
+   },
+   "extracted_response": "C) bring to light"
 }

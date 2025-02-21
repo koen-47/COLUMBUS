@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The phrase conveyed is (B) the big guns.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udd2b\ud83d\udd2b, repeat: 1, size: big, icon: (guns: \ud83d\udd2b\ud83d\udd2b))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) guns blazing (B) the big guns (C) big shot (D) big gun",
-    "answer": {
-        "B": "the big guns"
-    }
+   "gpt4v_response": "The phrase conveyed is (B) the big guns.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udd2b\ud83d\udd2b, repeat: 1, size: big, icon: (guns: \ud83d\udd2b\ud83d\udd2b))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) guns blazing (B) the big guns (C) big shot (D) big gun",
+   "answer": {
+      "B": "the big guns"
+   },
+   "extracted_response": "B) the big guns"
 }

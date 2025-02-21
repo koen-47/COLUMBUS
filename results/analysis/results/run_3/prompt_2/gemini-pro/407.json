@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle \"CLO\ud83d\udc80SET\" represents a skull inside the word \"closet.\" This visually represents the idiom \"**skeleton in the closet (C)**\".  A skeleton in the closet refers to a shameful or embarrassing secret that someone tries to keep hidden.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skeleton crew (B) skeleton in the cupboard (C) skeleton in the closet (D) out of the closet",
-    "answer": {
-        "C": "skeleton in the closet"
-    }
+   "gemini_pro_response": "The rebus puzzle \"CLO\ud83d\udc80SET\" represents a skull inside the word \"closet.\" This visually represents the idiom \"**skeleton in the closet (C)**\".  A skeleton in the closet refers to a shameful or embarrassing secret that someone tries to keep hidden.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skeleton crew (B) skeleton in the cupboard (C) skeleton in the closet (D) out of the closet",
+   "answer": {
+      "C": "skeleton in the closet"
+   },
+   "extracted_response": "B) skeleton in the cupboard, C) skeleton in the closet"
 }

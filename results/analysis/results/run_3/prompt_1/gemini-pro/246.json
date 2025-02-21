@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image represents **(D) from the word go**.\n\nHere's why:\n\n* **OG** stands for \"Original Gangster,\" often shortened to just \"original.\"\n* The fraction bar can be interpreted as \"from\" or \"over.\"\n* **1111 WORD** can be interpreted as \"one word.\"\n\nPutting it together, \"OG over one word\" becomes \"Original from one word,\" which translates to the idiomatic phrase \"from the word go.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the word is go (B) say the word (C) go back on one's word (D) from the word go",
-    "answer": {
-        "C": "go back on one's word"
-    }
+   "gemini_pro_response": "The image represents **(D) from the word go**.\n\nHere's why:\n\n* **OG** stands for \"Original Gangster,\" often shortened to just \"original.\"\n* The fraction bar can be interpreted as \"from\" or \"over.\"\n* **1111 WORD** can be interpreted as \"one word.\"\n\nPutting it together, \"OG over one word\" becomes \"Original from one word,\" which translates to the idiomatic phrase \"from the word go.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the word is go (B) say the word (C) go back on one's word (D) from the word go",
+   "answer": {
+      "C": "go back on one's word"
+   },
+   "extracted_response": "D) from the word go"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the word \"hat\".  None of the other options are represented visually or contextually. So, while the image relates to the word \"hat\" in options A, B, C, and D, the simplest and most direct representation is just **hat**.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gray hat (B) old hat (C) hat hair (D) white hat",
-    "answer": {
-        "A": "gray hat"
-    }
+   "gemini_pro_response": "The image conveys the word \"hat\".  None of the other options are represented visually or contextually. So, while the image relates to the word \"hat\" in options A, B, C, and D, the simplest and most direct representation is just **hat**.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gray hat (B) old hat (C) hat hair (D) white hat",
+   "answer": {
+      "A": "gray hat"
+   },
+   "extracted_response": "The image conveys the word \"hat\".  None of the other options are represented visually or contextually. So, while the image relates to the word \"hat\" in options A, B, C, and D, the simplest and most direct representation is just **hat**.\n"
 }

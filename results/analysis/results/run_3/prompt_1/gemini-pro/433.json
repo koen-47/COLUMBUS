@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image spells the word \"SHOOT\" vertically.  None of the other options are represented. So, the implied word/phrase is just **shoot**, which isn't an option but is closely related to all given options.\nConsidering the provided options, none of them fit perfectly.  However, if we must choose, the most basic and likely implied meaning is to perform the action of shooting, so the closest option is **(A) shoot holes**. While the image doesn't show the result of shooting (holes), it implies the action itself.  The other options imply specific contexts or idioms that the image doesn't provide enough information to support.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shoot holes (B) shoot off (C) shoot down (D) shoot 'em up",
-    "answer": {
-        "C": "shoot down"
-    }
+   "gemini_pro_response": "The image spells the word \"SHOOT\" vertically.  None of the other options are represented. So, the implied word/phrase is just **shoot**, which isn't an option but is closely related to all given options.\nConsidering the provided options, none of them fit perfectly.  However, if we must choose, the most basic and likely implied meaning is to perform the action of shooting, so the closest option is **(A) shoot holes**. While the image doesn't show the result of shooting (holes), it implies the action itself.  The other options imply specific contexts or idioms that the image doesn't provide enough information to support.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shoot holes (B) shoot off (C) shoot down (D) shoot 'em up",
+   "answer": {
+      "C": "shoot down"
+   },
+   "extracted_response": "A) shoot holes"
 }

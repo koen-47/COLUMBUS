@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the idioms \"**storm in a teacup**\" (C) or \"**tempest in a teapot**\" (B).  These idioms refer to a small event that has been exaggerated out of proportion, like a storm happening inside the small confines of a teacup or teapot.\n\nThe lightning bolt within the cloud reinforces the idea of a \"storm,\" and its placement between \"TEA\" and \"CUP\" visually links the concepts.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) whip up a storm (B) tempest in a teapot (C) storm in a teacup (D) teacup",
-    "answer": {
-        "C": "storm in a teacup"
-    }
+   "gemini_pro_response": "The image conveys the idioms \"**storm in a teacup**\" (C) or \"**tempest in a teapot**\" (B).  These idioms refer to a small event that has been exaggerated out of proportion, like a storm happening inside the small confines of a teacup or teapot.\n\nThe lightning bolt within the cloud reinforces the idea of a \"storm,\" and its placement between \"TEA\" and \"CUP\" visually links the concepts.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) whip up a storm (B) tempest in a teapot (C) storm in a teacup (D) teacup",
+   "answer": {
+      "C": "storm in a teacup"
+   },
+   "extracted_response": "B, C"
 }

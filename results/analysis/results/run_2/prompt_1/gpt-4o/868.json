@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(C) start off on the wrong foot",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a foot wrong (B) off on the wrong foot (C) start off on the wrong foot (D) start off on the right foot",
-    "answer": {
-        "C": "start off on the wrong foot"
-    }
+   "gpt4v_response": "(C) start off on the wrong foot",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a foot wrong (B) off on the wrong foot (C) start off on the wrong foot (D) start off on the right foot",
+   "answer": {
+      "C": "start off on the wrong foot"
+   },
+   "extracted_response": "C) start off on the wrong foot"
 }

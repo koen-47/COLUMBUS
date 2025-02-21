@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(D) punch above one's weight**.\n\nHere's why:\n\n* **1111:** Represents \"one one one one\" which sounds like \"one's\".\n* **WEIGHT:** This word is shown literally.\n* **Underneath:** The line suggests that the \"ones\" are under the \"weight\".\n* **Punch/Hit:** The speech bubble with a fist inside hints at a punch or hit.  Although not as direct, the meaning can be derived given the other elements.\n\nTherefore, the image depicts \"one's\" being *below* \"weight\", thus meaning to \"punch/hit below one's weight\".  Since that is not an option, the opposite, \"punch above one's weight\", is the intended answer.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) punch below one's weight (B) hit below one's weight (C) throw one's weight behind (D) punch above one's weight",
-    "answer": {
-        "D": "punch above one's weight"
-    }
+   "gemini_pro_response": "The correct answer is **(D) punch above one's weight**.\n\nHere's why:\n\n* **1111:** Represents \"one one one one\" which sounds like \"one's\".\n* **WEIGHT:** This word is shown literally.\n* **Underneath:** The line suggests that the \"ones\" are under the \"weight\".\n* **Punch/Hit:** The speech bubble with a fist inside hints at a punch or hit.  Although not as direct, the meaning can be derived given the other elements.\n\nTherefore, the image depicts \"one's\" being *below* \"weight\", thus meaning to \"punch/hit below one's weight\".  Since that is not an option, the opposite, \"punch above one's weight\", is the intended answer.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) punch below one's weight (B) hit below one's weight (C) throw one's weight behind (D) punch above one's weight",
+   "answer": {
+      "D": "punch above one's weight"
+   },
+   "extracted_response": "D) punch above one's weight"
 }

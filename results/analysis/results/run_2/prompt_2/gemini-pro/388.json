@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (A) dead end.\n\nThe word \"DEAD\" is written, and the arrows pointing up and down toward the word represent reaching an impasse or a \"dead end.\"",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead end (B) dead loss (C) dead last (D) dead end job",
-    "answer": {
-        "A": "dead end"
-    }
+   "gemini_pro_response": "The answer is (A) dead end.\n\nThe word \"DEAD\" is written, and the arrows pointing up and down toward the word represent reaching an impasse or a \"dead end.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead end (B) dead loss (C) dead last (D) dead end job",
+   "answer": {
+      "A": "dead end"
+   },
+   "extracted_response": "A) dead end"
 }

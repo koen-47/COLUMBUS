@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image is of a small globe, conveying the idea of **(B) a small world**.  The size of the globe emphasizes its smallness.  The other options don't fit the visual:\n\n* **(A) Small world syndrome:** This refers to the idea that people are more closely connected than they think, often through a chain of acquaintances. The image doesn't represent this concept.\n* **(C) Across the world:** This implies movement or distance spanning the globe. The static image doesn't show this.\n* **(D) Outside world:** This implies a contrast between an inner and outer realm.  The image doesn't depict this.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small world syndrome (B) a small world (C) across the world (D) outside world",
-    "answer": {
-        "B": "a small world"
-    }
+   "gemini_pro_response": "The image is of a small globe, conveying the idea of **(B) a small world**.  The size of the globe emphasizes its smallness.  The other options don't fit the visual:\n\n* **(A) Small world syndrome:** This refers to the idea that people are more closely connected than they think, often through a chain of acquaintances. The image doesn't represent this concept.\n* **(C) Across the world:** This implies movement or distance spanning the globe. The static image doesn't show this.\n* **(D) Outside world:** This implies a contrast between an inner and outer realm.  The image doesn't depict this.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small world syndrome (B) a small world (C) across the world (D) outside world",
+   "answer": {
+      "B": "a small world"
+   },
+   "extracted_response": "B) a small world"
 }

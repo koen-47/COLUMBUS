@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(A) come into the world",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) come to life (D) come down to earth",
-    "answer": {
-        "A": "come into the world"
-    }
+   "gpt4v_response": "(A) come into the world",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) come to life (D) come down to earth",
+   "answer": {
+      "A": "come into the world"
+   },
+   "extracted_response": "A) come into the world"
 }

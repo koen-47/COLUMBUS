@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows the word \"BUCKS\".  This is a straightforward rebus, and the answer is simply **(B) the big bucks**.  \"Bucks\" is a slang term for dollars or money.\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bighorns (B) the big bucks (C) bucksaws (D) buckskin",
-    "answer": {
-        "B": "the big bucks"
-    }
+   "gemini_pro_response": "The rebus shows the word \"BUCKS\".  This is a straightforward rebus, and the answer is simply **(B) the big bucks**.  \"Bucks\" is a slang term for dollars or money.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bighorns (B) the big bucks (C) bucksaws (D) buckskin",
+   "answer": {
+      "B": "the big bucks"
+   },
+   "extracted_response": "B) the big bucks"
 }

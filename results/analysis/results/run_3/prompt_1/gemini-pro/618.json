@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the word \"FALL\" repeated multiple times, visually representing the action of falling. This best corresponds to option (C), \"fall into\".  The repetition suggests a continuing downward motion, like falling into something.  The other options imply different meanings:\n\n* **(A) fall for:**  This means to be tricked or to become romantically interested in someone.  The image doesn't convey either of those ideas.\n* **(B) fall in love:**  This relates to romance, which isn't represented by the simple repetition of \"FALL.\"\n* **(D) take the fall:** This means to accept blame or punishment for something, which is also not represented by the image.\n\nTherefore, the answer is (C).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall for (B) fall in love (C) fall into (D) take the fall",
-    "answer": {
-        "A": "fall for"
-    }
+   "gemini_pro_response": "The image shows the word \"FALL\" repeated multiple times, visually representing the action of falling. This best corresponds to option (C), \"fall into\".  The repetition suggests a continuing downward motion, like falling into something.  The other options imply different meanings:\n\n* **(A) fall for:**  This means to be tricked or to become romantically interested in someone.  The image doesn't convey either of those ideas.\n* **(B) fall in love:**  This relates to romance, which isn't represented by the simple repetition of \"FALL.\"\n* **(D) take the fall:** This means to accept blame or punishment for something, which is also not represented by the image.\n\nTherefore, the answer is (C).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall for (B) fall in love (C) fall into (D) take the fall",
+   "answer": {
+      "A": "fall for"
+   },
+   "extracted_response": "C) fall into"
 }

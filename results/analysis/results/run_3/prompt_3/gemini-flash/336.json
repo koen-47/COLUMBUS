@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) bun fight.\n\nThe image shows \"PIFFY\" above a line, with \"ROCK BUN\" below the line.  The line suggests \"PIFFY\" is on top of \"ROCK BUN\".  \"PIFFY\" is likely meant to be interpreted phonetically as \"PIFF\" (a minor fight or scuffle), creating the phrase \"PIFF\" over \"ROCK BUN\" which sounds like \"PIFF\" over \"ROCK BOTTOM\". This suggests a fight over something of little value (\"bun\").  Thus, the rebus represents a \"bun fight\".  The other options don't make sense based on the rebus.\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: PIFFY, repeat: 1)\nNode 2 attributes: (text: ROCK, repeat: 1)\nNode 3 attributes: (text: BUN, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bun fight (B) rock hound (C) piffy on a rock bun (D) bun in the oven",
-    "answer": {
-        "C": "piffy on a rock bun"
-    }
+   "gemini_pro_response": "The correct answer is (A) bun fight.\n\nThe image shows \"PIFFY\" above a line, with \"ROCK BUN\" below the line.  The line suggests \"PIFFY\" is on top of \"ROCK BUN\".  \"PIFFY\" is likely meant to be interpreted phonetically as \"PIFF\" (a minor fight or scuffle), creating the phrase \"PIFF\" over \"ROCK BUN\" which sounds like \"PIFF\" over \"ROCK BOTTOM\". This suggests a fight over something of little value (\"bun\").  Thus, the rebus represents a \"bun fight\".  The other options don't make sense based on the rebus.\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: PIFFY, repeat: 1)\nNode 2 attributes: (text: ROCK, repeat: 1)\nNode 3 attributes: (text: BUN, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bun fight (B) rock hound (C) piffy on a rock bun (D) bun in the oven",
+   "answer": {
+      "C": "piffy on a rock bun"
+   },
+   "extracted_response": "A) bun fight"
 }

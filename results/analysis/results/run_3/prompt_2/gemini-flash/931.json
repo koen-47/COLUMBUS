@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) turn someone's head**.\n\nHere's why:\n\n* **The recycle symbol:** Represents \"turn\".\n* **The line:** Separates the verb from the object.\n* **ITS:** Represents \"its\".\n* **The face:** Represents \"head\", with the wide eyes suggesting that something is surprising or captivating the person.\n\nTherefore, the image is visually representing \"turn its head\", which is grammatically equivalent to \"turn someone's head\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) use one's head (B) turn heads (C) turn someone's head (D) turn on its head",
-    "answer": {
-        "D": "turn on its head"
-    }
+   "gemini_pro_response": "The correct answer is **(C) turn someone's head**.\n\nHere's why:\n\n* **The recycle symbol:** Represents \"turn\".\n* **The line:** Separates the verb from the object.\n* **ITS:** Represents \"its\".\n* **The face:** Represents \"head\", with the wide eyes suggesting that something is surprising or captivating the person.\n\nTherefore, the image is visually representing \"turn its head\", which is grammatically equivalent to \"turn someone's head\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) use one's head (B) turn heads (C) turn someone's head (D) turn on its head",
+   "answer": {
+      "D": "turn on its head"
+   },
+   "extracted_response": "C) turn someone's head"
 }

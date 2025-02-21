@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"put one's name in the hat.\" The word \"PUT\" is shown above a line, which can represent \"in\" or \"inside,\" and the hat icon suggests the concept of a hat. Therefore, the correct answer is (A) put one's name in the hat.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put one's name in the hat (B) put a hat on a hat (C) pick out of a hat (D) pass the hat",
-    "answer": {
-        "B": "put a hat on a hat"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"put one's name in the hat.\" The word \"PUT\" is shown above a line, which can represent \"in\" or \"inside,\" and the hat icon suggests the concept of a hat. Therefore, the correct answer is (A) put one's name in the hat.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put one's name in the hat (B) put a hat on a hat (C) pick out of a hat (D) pass the hat",
+   "answer": {
+      "B": "put a hat on a hat"
+   },
+   "extracted_response": "A) put one's name in the hat"
 }

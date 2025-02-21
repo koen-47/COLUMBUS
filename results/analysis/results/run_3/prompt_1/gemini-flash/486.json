@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **time after time**.\n\nThe image shows the word \"TIME\" repeated, with arrows suggesting a cyclical or repetitive process.  This aligns perfectly with the meaning of \"time after time,\" which indicates something happening repeatedly over time.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what in time (B) make time (C) time after time (D) time flies",
-    "answer": {
-        "C": "time after time"
-    }
+   "gemini_pro_response": "The correct answer is (C) **time after time**.\n\nThe image shows the word \"TIME\" repeated, with arrows suggesting a cyclical or repetitive process.  This aligns perfectly with the meaning of \"time after time,\" which indicates something happening repeatedly over time.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what in time (B) make time (C) time after time (D) time flies",
+   "answer": {
+      "C": "time after time"
+   },
+   "extracted_response": "C) time after time"
 }

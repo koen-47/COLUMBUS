@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"spanner in the works.\" The letters \"WOS\" are positioned before \"PANNER\" and \"RKS,\" suggesting the phrase is disrupted or altered, which aligns with the meaning of \"spanner in the works.\" \n\nSo the answer is (C) throw a spanner in the works.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spick and span (B) spick-and-span (C) throw a spanner in the works (D) spanner in the works",
-    "answer": {
-        "D": "spanner in the works"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"spanner in the works.\" The letters \"WOS\" are positioned before \"PANNER\" and \"RKS,\" suggesting the phrase is disrupted or altered, which aligns with the meaning of \"spanner in the works.\" \n\nSo the answer is (C) throw a spanner in the works.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spick and span (B) spick-and-span (C) throw a spanner in the works (D) spanner in the works",
+   "answer": {
+      "D": "spanner in the works"
+   },
+   "extracted_response": "C) throw a spanner in the works"
 }

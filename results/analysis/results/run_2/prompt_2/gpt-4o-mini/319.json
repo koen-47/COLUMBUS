@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows \"MEAT\" above a line and \"BONES\" below it, with \"1111\" next to \"BONES.\" This suggests a phrase related to \"meat\" and \"bones.\" \n\nThe correct answer is (B) meat on the bones.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chew the meat and spit out the bones (B) meat on the bones (C) meat on one's bones (D) in one's bones",
-    "answer": {
-        "C": "meat on one's bones"
-    }
+   "gpt4v_response": "The rebus puzzle shows \"MEAT\" above a line and \"BONES\" below it, with \"1111\" next to \"BONES.\" This suggests a phrase related to \"meat\" and \"bones.\" \n\nThe correct answer is (B) meat on the bones.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chew the meat and spit out the bones (B) meat on the bones (C) meat on one's bones (D) in one's bones",
+   "answer": {
+      "C": "meat on one's bones"
+   },
+   "extracted_response": "B) meat on the bones"
 }

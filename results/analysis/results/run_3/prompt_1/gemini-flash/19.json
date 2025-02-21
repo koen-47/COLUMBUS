@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The best answer is **(D) living death**.\n\nThe image shows the word \"LIFE\" with an upward and downward arrow.  The downward arrow suggests the end of life (death), while the upward arrow implies that life continues in some form (living).  Together, it visually represents the concept of a \"living death,\"  a state where one is technically alive but experiences a lack of vitality, purpose, or fulfillment, often associated with feeling trapped or hopeless.\n\nThe other options don't fit as well:\n\n* **(A) graveyard:**  A graveyard is a physical place.\n* **(B) good life:** The image doesn't necessarily suggest a positive connotation.\n* **(C) afterlife:** The image focuses on the current state of life, not a future one.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) graveyard (B) good life (C) afterlife (D) living death",
-    "answer": {
-        "C": "afterlife"
-    }
+   "gemini_pro_response": "The best answer is **(D) living death**.\n\nThe image shows the word \"LIFE\" with an upward and downward arrow.  The downward arrow suggests the end of life (death), while the upward arrow implies that life continues in some form (living).  Together, it visually represents the concept of a \"living death,\"  a state where one is technically alive but experiences a lack of vitality, purpose, or fulfillment, often associated with feeling trapped or hopeless.\n\nThe other options don't fit as well:\n\n* **(A) graveyard:**  A graveyard is a physical place.\n* **(B) good life:** The image doesn't necessarily suggest a positive connotation.\n* **(C) afterlife:** The image focuses on the current state of life, not a future one.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) graveyard (B) good life (C) afterlife (D) living death",
+   "answer": {
+      "C": "afterlife"
+   },
+   "extracted_response": "D) living death"
 }

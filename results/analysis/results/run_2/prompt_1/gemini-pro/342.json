@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word \"EGAMI\" is \"IMAGE\" spelled backward. This represents a mirror image, which is reversed.\n\nSo the answer is (C).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spitting image (B) thumbnail (C) mirror image (D) do with mirrors",
-    "answer": {
-        "C": "mirror image"
-    }
+   "gemini_pro_response": "The word \"EGAMI\" is \"IMAGE\" spelled backward. This represents a mirror image, which is reversed.\n\nSo the answer is (C).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spitting image (B) thumbnail (C) mirror image (D) do with mirrors",
+   "answer": {
+      "C": "mirror image"
+   },
+   "extracted_response": "C) mirror image"
 }

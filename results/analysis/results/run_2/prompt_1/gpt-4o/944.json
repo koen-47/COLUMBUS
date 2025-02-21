@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(D) change hands",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two left hands (B) two left feet (C) extra pair of hands (D) change hands",
-    "answer": {
-        "A": "two left hands"
-    }
+   "gpt4v_response": "(D) change hands",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two left hands (B) two left feet (C) extra pair of hands (D) change hands",
+   "answer": {
+      "A": "two left hands"
+   },
+   "extracted_response": "D) change hands"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (A) bone to pick.\n\nThe image depicts two bones and a pickaxe. A pickaxe is a tool used for digging or mining. The image appears to be a visual pun on the idiom \"bone to pick,\" which means to have a grievance or matter to discuss or argue about, often a complaint. The image replaces the verb \"pick\" with an image of a pickaxe about to mine the bones.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) funny bone (C) throw a bone to (D) to the bone",
-    "answer": {
-        "A": "bone to pick"
-    }
+   "gemini_pro_response": "The answer is (A) bone to pick.\n\nThe image depicts two bones and a pickaxe. A pickaxe is a tool used for digging or mining. The image appears to be a visual pun on the idiom \"bone to pick,\" which means to have a grievance or matter to discuss or argue about, often a complaint. The image replaces the verb \"pick\" with an image of a pickaxe about to mine the bones.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) funny bone (C) throw a bone to (D) to the bone",
+   "answer": {
+      "A": "bone to pick"
+   },
+   "extracted_response": "A) bone to pick"
 }

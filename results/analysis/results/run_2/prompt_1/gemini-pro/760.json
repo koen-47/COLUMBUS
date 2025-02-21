@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"PUT CARDS ON THE TABLE.\"  Therefore the answer is **(A)**.\n\nThe image visually represents separating the phrase \"PUT CARDS\" and \"TABLE\" with a line, implying \"ON\" between them. This forms the idiom \"put cards on the table.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put cards on the table (B) put food on the table (C) put one's cards on the table (D) hold the cards",
-    "answer": {
-        "A": "put cards on the table"
-    }
+   "gemini_pro_response": "The image conveys \"PUT CARDS ON THE TABLE.\"  Therefore the answer is **(A)**.\n\nThe image visually represents separating the phrase \"PUT CARDS\" and \"TABLE\" with a line, implying \"ON\" between them. This forms the idiom \"put cards on the table.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put cards on the table (B) put food on the table (C) put one's cards on the table (D) hold the cards",
+   "answer": {
+      "A": "put cards on the table"
+   },
+   "extracted_response": "A) put cards on the table"
 }

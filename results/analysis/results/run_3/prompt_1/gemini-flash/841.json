@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) spanner in the works.\n\nThe letters in \"WOSPANNERRRKS\" are jumbled but contain the words \"SPANNER\" and \"WORKS\".  Therefore, the image conveys the idiom \"spanner in the works\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spick and span (B) spick-and-span (C) throw a spanner in the works (D) spanner in the works",
-    "answer": {
-        "D": "spanner in the works"
-    }
+   "gemini_pro_response": "The correct answer is (D) spanner in the works.\n\nThe letters in \"WOSPANNERRRKS\" are jumbled but contain the words \"SPANNER\" and \"WORKS\".  Therefore, the image conveys the idiom \"spanner in the works\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spick and span (B) spick-and-span (C) throw a spanner in the works (D) spanner in the works",
+   "answer": {
+      "D": "spanner in the works"
+   },
+   "extracted_response": "D) spanner in the works"
 }

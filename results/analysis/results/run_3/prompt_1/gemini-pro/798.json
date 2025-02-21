@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts the phrase **(D) hit the ground running**. The person is running in between the letters that spell the word \"ground,\" implying they're actively running on the ground from the start.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to ground (B) run into the ground (C) put in the ground (D) hit the ground running",
-    "answer": {
-        "B": "run into the ground"
-    }
+   "gemini_pro_response": "The image depicts the phrase **(D) hit the ground running**. The person is running in between the letters that spell the word \"ground,\" implying they're actively running on the ground from the start.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to ground (B) run into the ground (C) put in the ground (D) hit the ground running",
+   "answer": {
+      "B": "run into the ground"
+   },
+   "extracted_response": "D) hit the ground running"
 }

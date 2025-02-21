@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe image shows the word \"RUN\" repeated four times vertically, next to the word \"HILLS\".  This visually represents the phrase \"Run for the hills\".\n\nTherefore, the answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Text RUN\",\n        \"description\": \"The word 'RUN' written in bold, repeated four times vertically.\",\n        \"relation\": \"Located on the left side of the image, aligned vertically.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Text HILLS\",\n        \"description\": \"The word 'HILLS' written in bold.\",\n        \"relation\": \"Located to the right of the third 'RUN' from the top.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) take to the hills (B) run for the hills (C) head for the hills (D) old as the hills\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "run for the hills"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the idiom \"put a flea in someone's ear\".  \"1111\" can be interpreted as \"one one one one\", which sounds like \"won, won, won, won\", a homophone for \"one\".\n\nSo, the image can be interpreted as \"one flea in (an) ear\".\n\nThe idiom \"put a bug in someone's ear\" is similar but uses \"bug\" instead of \"flea.\"  \"Flea in one's ear\" is part of another idiom, \"send someone away with a flea in their ear\", meaning to angrily dismiss someone.  An earworm is a catchy tune, and \"not hurt a fly or flea\" refers to being gentle and harmless.\n\nTherefore, the closest option is (A) put a bug in someone's ear. However, if it has to be precisely one of the options, then (B) flea in one's ear is the most direct match to the image's elements, even though it's not the full idiom.  The full idiom implied by the image is, to a good approximation, a variant of (A).\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a bug in someone's ear (B) flea in one's ear (C) earworm (D) not hurt a fly or flea",
-    "answer": {
-        "B": "flea in one's ear"
-    }
+   "gemini_pro_response": "The image conveys the idiom \"put a flea in someone's ear\".  \"1111\" can be interpreted as \"one one one one\", which sounds like \"won, won, won, won\", a homophone for \"one\".\n\nSo, the image can be interpreted as \"one flea in (an) ear\".\n\nThe idiom \"put a bug in someone's ear\" is similar but uses \"bug\" instead of \"flea.\"  \"Flea in one's ear\" is part of another idiom, \"send someone away with a flea in their ear\", meaning to angrily dismiss someone.  An earworm is a catchy tune, and \"not hurt a fly or flea\" refers to being gentle and harmless.\n\nTherefore, the closest option is (A) put a bug in someone's ear. However, if it has to be precisely one of the options, then (B) flea in one's ear is the most direct match to the image's elements, even though it's not the full idiom.  The full idiom implied by the image is, to a good approximation, a variant of (A).\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a bug in someone's ear (B) flea in one's ear (C) earworm (D) not hurt a fly or flea",
+   "answer": {
+      "B": "flea in one's ear"
+   },
+   "extracted_response": "A, B"
 }

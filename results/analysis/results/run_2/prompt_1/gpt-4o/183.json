@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) belly up.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) prop up the bar (B) raise the bar (C) belly up (D) belly up to the bar",
-    "answer": {
-        "D": "belly up to the bar"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) belly up.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) prop up the bar (B) raise the bar (C) belly up (D) belly up to the bar",
+   "answer": {
+      "D": "belly up to the bar"
+   },
+   "extracted_response": "C"
 }

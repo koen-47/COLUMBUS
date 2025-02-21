@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) knock on wood.  The image visually represents the phrase \"knock on wood\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock together (B) knock down (C) knock on wood (D) knock out",
-    "answer": {
-        "C": "knock on wood"
-    }
+   "gemini_pro_response": "The correct answer is (C) knock on wood.  The image visually represents the phrase \"knock on wood\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock together (B) knock down (C) knock on wood (D) knock out",
+   "answer": {
+      "C": "knock on wood"
+   },
+   "extracted_response": "C) knock on wood"
 }

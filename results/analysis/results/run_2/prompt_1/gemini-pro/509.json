@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows two boots, indicating a pair. The idiom that uses \"boot\" in the sense of a pair is **(D) to boot**, which means \"in addition\" or \"as well\".  The other options relate to kicking someone out or criticizing harshly, which don't fit the neutral image.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone the boot (B) put the boot in (C) get the boot (D) to boot",
-    "answer": {
-        "D": "to boot"
-    }
+   "gemini_pro_response": "The image shows two boots, indicating a pair. The idiom that uses \"boot\" in the sense of a pair is **(D) to boot**, which means \"in addition\" or \"as well\".  The other options relate to kicking someone out or criticizing harshly, which don't fit the neutral image.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone the boot (B) put the boot in (C) get the boot (D) to boot",
+   "answer": {
+      "D": "to boot"
+   },
+   "extracted_response": "D) to boot"
 }

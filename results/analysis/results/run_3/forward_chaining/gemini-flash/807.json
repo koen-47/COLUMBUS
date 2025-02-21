@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) run out of steam.\n\nHere's why:\n\nThe JSON data describes the image as having the word \"RUN\" to the left of a rectangle containing the word \"STEAM\".  This directly translates to the idiom \"run out of steam,\" which means to lose energy or momentum.  The other options don't fit the visual representation. Therefore, the rebus puzzle is solved by the phrase **run out of steam**.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_run\",\n        \"description\": \"The word 'RUN' in bold uppercase letters.\",\n        \"relation\": \"Located to the left of the rectangle.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"rectangle\",\n        \"description\": \"A rectangle with the word 'STEAM' inside it.\",\n        \"relation\": \"Located to the right of the word 'RUN'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) run out of steam (B) under one's own steam (C) head of steam (D) blow off steam\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "run out of steam"
+    }
+}

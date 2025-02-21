@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word conveyed in the image is (B) midpoint.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midpoints (B) midpoint (C) midgame (D) midline",
-    "answer": {
-        "B": "midpoint"
-    }
+   "gpt4v_response": "The word conveyed in the image is (B) midpoint.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midpoints (B) midpoint (C) midgame (D) midline",
+   "answer": {
+      "B": "midpoint"
+   },
+   "extracted_response": "B) midpoint"
 }

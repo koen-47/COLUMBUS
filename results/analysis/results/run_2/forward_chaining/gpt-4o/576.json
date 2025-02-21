@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"DOWN\" written twice, one below the other, and the word \"EARTH\" to the right of the first \"DOWN\". This arrangement suggests the phrase \"down to earth.\"\n\nTherefore, the correct answer is:\n\n(A) down to earth",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"First DOWN\",\n        \"description\": \"The word 'DOWN' written in uppercase letters.\",\n        \"relation\": \"Top left of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Second DOWN\",\n        \"description\": \"The word 'DOWN' written in uppercase letters.\",\n        \"relation\": \"Below the first 'DOWN', aligned to the left.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"EARTH\",\n        \"description\": \"The word 'EARTH' written in uppercase letters.\",\n        \"relation\": \"To the right of the first 'DOWN'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) down to earth (B) down the road (C) come down to earth (D) down under\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "down to earth"
+    }
+}

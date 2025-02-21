@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts two hands and a mouth. This represents the idiom **(B) hand to mouth**.  This phrase describes a situation where someone is living in poverty and only has enough money for basic necessities.  They are living \"hand to mouth.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand to God (B) hand to mouth (C) hand in hand (D) hand over hand",
-    "answer": {
-        "B": "hand to mouth"
-    }
+   "gemini_pro_response": "The image depicts two hands and a mouth. This represents the idiom **(B) hand to mouth**.  This phrase describes a situation where someone is living in poverty and only has enough money for basic necessities.  They are living \"hand to mouth.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand to God (B) hand to mouth (C) hand in hand (D) hand over hand",
+   "answer": {
+      "B": "hand to mouth"
+   },
+   "extracted_response": "B) hand to mouth"
 }

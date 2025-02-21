@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows \"UP\" twice, followed by \"HERE\".  This represents \"UP UP HERE\", which equates to (C) up to here.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to something (B) put up to (C) up to here (D) up for",
-    "answer": {
-        "C": "up to here"
-    }
+   "gemini_pro_response": "The rebus puzzle shows \"UP\" twice, followed by \"HERE\".  This represents \"UP UP HERE\", which equates to (C) up to here.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to something (B) put up to (C) up to here (D) up for",
+   "answer": {
+      "C": "up to here"
+   },
+   "extracted_response": "C) up to here"
 }

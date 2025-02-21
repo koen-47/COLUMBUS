@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **get the point**.\n\nThe image visually represents the phrase \"get the point\" by stacking \"GET\" vertically and placing \"POINT\" horizontally to its right.  This arrangement directly reflects the meaning of understanding the main idea or message.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get to the point (B) get the point (C) to the point (D) take the point",
-    "answer": {
-        "A": "get to the point"
-    }
+   "gemini_pro_response": "The correct answer is (B) **get the point**.\n\nThe image visually represents the phrase \"get the point\" by stacking \"GET\" vertically and placing \"POINT\" horizontally to its right.  This arrangement directly reflects the meaning of understanding the main idea or message.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get to the point (B) get the point (C) to the point (D) take the point",
+   "answer": {
+      "A": "get to the point"
+   },
+   "extracted_response": "B) get the point"
 }

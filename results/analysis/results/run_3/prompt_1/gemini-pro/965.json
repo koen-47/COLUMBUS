@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) wait for the ball to drop.  The word \"WAIT\" is repeated, and the basketballs are shown next to a teardrop shape, symbolizing a timer or countdown until something happens (the \"ball drops\").",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop the ball (B) have a ball (C) wait for the ball to drop (D) carry the ball",
-    "answer": {
-        "C": "wait for the ball to drop"
-    }
+   "gemini_pro_response": "The image conveys (C) wait for the ball to drop.  The word \"WAIT\" is repeated, and the basketballs are shown next to a teardrop shape, symbolizing a timer or countdown until something happens (the \"ball drops\").",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop the ball (B) have a ball (C) wait for the ball to drop (D) carry the ball",
+   "answer": {
+      "C": "wait for the ball to drop"
+   },
+   "extracted_response": "C) wait for the ball to drop"
 }

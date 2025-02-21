@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **come to a head**.\n\nThe image shows the word \"COME\" repeated twice, suggesting a culmination or climax.  The unimpressed-looking face implies that this \"coming together\" might be unpleasant or problematic.  \"Come to a head\" means to reach a critical point or a crisis.  The other options don't fit the visual context.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to someone's head (B) lose head (C) come to a head (D) give head",
-    "answer": {
-        "C": "come to a head"
-    }
+   "gemini_pro_response": "The correct answer is (C) **come to a head**.\n\nThe image shows the word \"COME\" repeated twice, suggesting a culmination or climax.  The unimpressed-looking face implies that this \"coming together\" might be unpleasant or problematic.  \"Come to a head\" means to reach a critical point or a crisis.  The other options don't fit the visual context.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to someone's head (B) lose head (C) come to a head (D) give head",
+   "answer": {
+      "C": "come to a head"
+   },
+   "extracted_response": "C) come to a head"
 }

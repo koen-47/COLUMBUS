@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image represents **(D) big cheese**.  \n\nThe words \"COM\" and \"PANY\" flank the image of a piece of cheese, creating the word \"COMPANY\". \"Big cheese\" is a slang term for an important or influential person, especially in a company.  The image uses the literal \"cheese\" to visually represent this idiom.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the big cheese in the company (B) say cheese (C) hard cheese (D) big cheese",
-    "answer": {
-        "A": "the big cheese in the company"
-    }
+   "gemini_pro_response": "The image represents **(D) big cheese**.  \n\nThe words \"COM\" and \"PANY\" flank the image of a piece of cheese, creating the word \"COMPANY\". \"Big cheese\" is a slang term for an important or influential person, especially in a company.  The image uses the literal \"cheese\" to visually represent this idiom.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the big cheese in the company (B) say cheese (C) hard cheese (D) big cheese",
+   "answer": {
+      "A": "the big cheese in the company"
+   },
+   "extracted_response": "D) big cheese"
 }

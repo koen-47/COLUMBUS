@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(B) reverse engineer",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) software (B) reverse engineer (C) down tools (D) reverse psychology",
-    "answer": {
-        "B": "reverse engineer"
-    }
+   "gpt4v_response": "(B) reverse engineer",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) software (B) reverse engineer (C) down tools (D) reverse psychology",
+   "answer": {
+      "B": "reverse engineer"
+   },
+   "extracted_response": "B) reverse engineer"
 }

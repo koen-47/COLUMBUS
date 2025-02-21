@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) put lipstick on a pig.\n\nThe rebus shows the word \"PUT\" followed by an image of lipstick, all above a picture of a pig.  This visually represents the idiom \"put lipstick on a pig\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a pig of oneself (B) lipstick (C) put lipstick on a pig (D) lipsticks",
-    "answer": {
-        "C": "put lipstick on a pig"
-    }
+   "gemini_pro_response": "The correct answer is (C) put lipstick on a pig.\n\nThe rebus shows the word \"PUT\" followed by an image of lipstick, all above a picture of a pig.  This visually represents the idiom \"put lipstick on a pig\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a pig of oneself (B) lipstick (C) put lipstick on a pig (D) lipsticks",
+   "answer": {
+      "C": "put lipstick on a pig"
+   },
+   "extracted_response": "C) put lipstick on a pig"
 }

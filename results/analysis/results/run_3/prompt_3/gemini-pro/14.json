@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the word \"BLOOD\" with an up arrow and a down arrow next to it, suggesting a rearrangement of the letters. The description specifies \"highlight: after,\" pointing to the part of the word that comes after the rearrangement.\n\nThe arrows indicate a reversal of the letters.  Reversing \"BLOOD\" gives \"DOOLB\".  The \"highlight: after\" attribute, coupled with the fact that only \"BLOOD\" is given in the node description implies we want what comes after the reversal. In this case it's \"BLOOD\" itself.  Therefore, the puzzle represents \"after blood\".\n\nSo the answer is (D).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BLOOD, repeat: 1, highlight: after)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) shed blood (B) new blood (C) young blood (D) after blood",
-    "answer": {
-        "D": "after blood"
-    }
+   "gemini_pro_response": "The image shows the word \"BLOOD\" with an up arrow and a down arrow next to it, suggesting a rearrangement of the letters. The description specifies \"highlight: after,\" pointing to the part of the word that comes after the rearrangement.\n\nThe arrows indicate a reversal of the letters.  Reversing \"BLOOD\" gives \"DOOLB\".  The \"highlight: after\" attribute, coupled with the fact that only \"BLOOD\" is given in the node description implies we want what comes after the reversal. In this case it's \"BLOOD\" itself.  Therefore, the puzzle represents \"after blood\".\n\nSo the answer is (D).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BLOOD, repeat: 1, highlight: after)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) shed blood (B) new blood (C) young blood (D) after blood",
+   "answer": {
+      "D": "after blood"
+   },
+   "extracted_response": "D) after blood"
 }

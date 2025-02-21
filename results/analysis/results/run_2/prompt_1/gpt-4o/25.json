@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) as in.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) as for (B) as to (C) as in (D) as of",
-    "answer": {
-        "B": "as to"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) as in.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) as for (B) as to (C) as in (D) as of",
+   "answer": {
+      "B": "as to"
+   },
+   "extracted_response": "C) as in"
 }

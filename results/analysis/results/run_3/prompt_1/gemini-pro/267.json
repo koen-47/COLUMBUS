@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B) cash in.\n\nThe rebus shows \"1111\" next to a wallet (cash) inside an \"in\" box, and the third icon is simply a distraction.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cash in one's chips (B) cash in (C) have had one's chips (D) let the chips fall where they may",
-    "answer": {
-        "A": "cash in one's chips"
-    }
+   "gemini_pro_response": "The answer is (B) cash in.\n\nThe rebus shows \"1111\" next to a wallet (cash) inside an \"in\" box, and the third icon is simply a distraction.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cash in one's chips (B) cash in (C) have had one's chips (D) let the chips fall where they may",
+   "answer": {
+      "A": "cash in one's chips"
+   },
+   "extracted_response": "B) cash in"
 }

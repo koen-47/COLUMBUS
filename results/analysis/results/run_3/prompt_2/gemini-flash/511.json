@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **to die for**.\n\nThe rebus shows \"DIE\" twice, and the number 4.  \"Four\" sounds like \"for,\" hence \"DIE\" \"for\" \"DIE\" making \"to die for\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what for (B) to the death (C) to die for (D) die",
-    "answer": {
-        "C": "to die for"
-    }
+   "gemini_pro_response": "The correct answer is (C) **to die for**.\n\nThe rebus shows \"DIE\" twice, and the number 4.  \"Four\" sounds like \"for,\" hence \"DIE\" \"for\" \"DIE\" making \"to die for\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what for (B) to the death (C) to die for (D) die",
+   "answer": {
+      "C": "to die for"
+   },
+   "extracted_response": "C) to die for"
 }

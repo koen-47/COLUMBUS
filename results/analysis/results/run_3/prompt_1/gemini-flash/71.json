@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **big picture**.\n\nThe image shows the word \"PICTURE\" in large, bold letters.  \"Big picture\" is an idiom that refers to the overall perspective or general situation, as opposed to focusing on details.  The visual representation of the word \"PICTURE\" directly relates to this concept.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big boy (B) big shot (C) big picture (D) mixed picture",
-    "answer": {
-        "C": "big picture"
-    }
+   "gemini_pro_response": "The correct answer is (C) **big picture**.\n\nThe image shows the word \"PICTURE\" in large, bold letters.  \"Big picture\" is an idiom that refers to the overall perspective or general situation, as opposed to focusing on details.  The visual representation of the word \"PICTURE\" directly relates to this concept.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big boy (B) big shot (C) big picture (D) mixed picture",
+   "answer": {
+      "C": "big picture"
+   },
+   "extracted_response": "C) big picture"
 }

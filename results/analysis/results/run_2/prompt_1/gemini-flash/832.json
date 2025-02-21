@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **small piece of the puzzle**.\n\nThe image shows the word \"PIECE\" next to a picture of a jigsaw puzzle piece.  This directly relates to the concept of a \"small piece of the puzzle\".  The other options don't fit the visual representation as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) piece of cake (B) small piece of the puzzle (C) of a piece (D) a piece of cake",
-    "answer": {
-        "B": "small piece of the puzzle"
-    }
+   "gemini_pro_response": "The correct answer is (B) **small piece of the puzzle**.\n\nThe image shows the word \"PIECE\" next to a picture of a jigsaw puzzle piece.  This directly relates to the concept of a \"small piece of the puzzle\".  The other options don't fit the visual representation as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) piece of cake (B) small piece of the puzzle (C) of a piece (D) a piece of cake",
+   "answer": {
+      "B": "small piece of the puzzle"
+   },
+   "extracted_response": "B) small piece of the puzzle"
 }

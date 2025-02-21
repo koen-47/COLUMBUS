@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"err on the side of caution\" (A). The words \"ERR\" over \"SIDE\" visually represent the idiom, and the caution sign emphasizes the \"caution\" part of the phrase.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) err on the side of caution (B) err on the side of (C) throw caution to the winds (D) throw caution to the wind",
-    "answer": {
-        "A": "err on the side of caution"
-    }
+   "gemini_pro_response": "The image conveys \"err on the side of caution\" (A). The words \"ERR\" over \"SIDE\" visually represent the idiom, and the caution sign emphasizes the \"caution\" part of the phrase.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) err on the side of caution (B) err on the side of (C) throw caution to the winds (D) throw caution to the wind",
+   "answer": {
+      "A": "err on the side of caution"
+   },
+   "extracted_response": "A"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image represents (D) fly on the wall.  The two faces with wide eyes suggest observing something discreetly, as a fly on the wall would.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly by (B) fly in the face of (C) hurt a fly (D) fly on the wall",
-    "answer": {
-        "B": "fly in the face of"
-    }
+   "gemini_pro_response": "The image represents (D) fly on the wall.  The two faces with wide eyes suggest observing something discreetly, as a fly on the wall would.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly by (B) fly in the face of (C) hurt a fly (D) fly on the wall",
+   "answer": {
+      "B": "fly in the face of"
+   },
+   "extracted_response": "D) fly on the wall"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys **(B) square one**. It literally shows the words \"SQUARE\" and the number \"1\".  The other options add words that aren't present in the image.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) square on (B) square one (C) back to square one (D) start at square one",
-    "answer": {
-        "B": "square one"
-    }
+   "gemini_pro_response": "The image conveys **(B) square one**. It literally shows the words \"SQUARE\" and the number \"1\".  The other options add words that aren't present in the image.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) square on (B) square one (C) back to square one (D) start at square one",
+   "answer": {
+      "B": "square one"
+   },
+   "extracted_response": "B) square one"
 }

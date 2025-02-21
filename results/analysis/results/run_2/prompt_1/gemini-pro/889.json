@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"TAKE WATER\".  This corresponds to option (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold one's water (B) walk on water (C) hold water (D) take on water",
-    "answer": {
-        "D": "take on water"
-    }
+   "gemini_pro_response": "The image says \"TAKE WATER\".  This corresponds to option (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold one's water (B) walk on water (C) hold water (D) take on water",
+   "answer": {
+      "D": "take on water"
+   },
+   "extracted_response": "D) take on water"
 }

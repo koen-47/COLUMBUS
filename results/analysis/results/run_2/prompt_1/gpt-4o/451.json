@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (D) to the bone.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) chill to the bone (C) throw a bone to (D) to the bone",
-    "answer": {
-        "D": "to the bone"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (D) to the bone.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) chill to the bone (C) throw a bone to (D) to the bone",
+   "answer": {
+      "D": "to the bone"
+   },
+   "extracted_response": "The answer being given in the text is D) to the bone."
 }

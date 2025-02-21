@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows \"2 + 2 = 2\", which clearly represents putting two and two together (and getting the wrong answer).  Thus, the answer is (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eat for two (B) turn two (C) two for two (D) put two and two together",
-    "answer": {
-        "C": "two for two"
-    }
+   "gemini_pro_response": "The image shows \"2 + 2 = 2\", which clearly represents putting two and two together (and getting the wrong answer).  Thus, the answer is (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eat for two (B) turn two (C) two for two (D) put two and two together",
+   "answer": {
+      "C": "two for two"
+   },
+   "extracted_response": "D) put two and two together"
 }

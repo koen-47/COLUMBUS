@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image consists of the letters \"HU\" and \"NT\" with a dog icon in between, forming the word \"HUNT.\"\n\nLet's map each part of the image to the answer choices:\n\n1. \"HU\" + Dog Icon + \"NT\" = \"HUNT\"\n\nThe correct answer is:\n(A) dog in the hunt\n\nThis choice is consistent with the image, as the dog icon is placed between \"HU\" and \"NT\" to form the word \"HUNT.\"",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"Text HU\",\n    \"description\": \"The letters 'HU' in uppercase.\",\n    \"relation\": \"The first part of the word 'HUNT'.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"Dog Icon\",\n    \"description\": \"An icon of a dog.\",\n    \"relation\": \"Placed between the letters 'HU' and 'NT' to form the word 'HUNT'.\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"Text NT\",\n    \"description\": \"The letters 'NT' in uppercase.\",\n    \"relation\": \"The second part of the word 'HUNT'.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) dog in the hunt (B) dog eat dog (C) dog around (D) snipe hunt\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "dog in the hunt"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image clearly shows the words \"CHILD GUARD\".  Therefore, the correct answer is **(B) child cross guard**. Although grammatically \"crossing guard\" might be slightly preferable, the image presents the words without a space, suggesting it's intended as a compound word like \"cross guard\".  Options C and D are not present in the image at all.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) child crossing guard (B) child cross guard (C) take guard (D) love child",
-    "answer": {
-        "B": "child cross guard"
-    }
+   "gemini_pro_response": "The image clearly shows the words \"CHILD GUARD\".  Therefore, the correct answer is **(B) child cross guard**. Although grammatically \"crossing guard\" might be slightly preferable, the image presents the words without a space, suggesting it's intended as a compound word like \"cross guard\".  Options C and D are not present in the image at all.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) child crossing guard (B) child cross guard (C) take guard (D) love child",
+   "answer": {
+      "B": "child cross guard"
+   },
+   "extracted_response": "B"
 }

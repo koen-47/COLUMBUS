@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "None of the provided options relate directly to a single image of a beer mug. The image itself is simply a beer. The options refer to idioms or expressions related to beer consumption.  There's no information in the image to suggest any of those specific phrases.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beer goggles (B) beer and skittles (C) small beer (D) beer muscles",
-    "answer": {
-        "C": "small beer"
-    }
+   "gemini_pro_response": "None of the provided options relate directly to a single image of a beer mug. The image itself is simply a beer. The options refer to idioms or expressions related to beer consumption.  There's no information in the image to suggest any of those specific phrases.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beer goggles (B) beer and skittles (C) small beer (D) beer muscles",
+   "answer": {
+      "C": "small beer"
+   },
+   "extracted_response": "None of the provided options relate directly to a single image of a beer mug. The image itself is simply a beer. The options refer to idioms or expressions related to beer consumption.  There's no information in the image to suggest any of those specific phrases."
 }

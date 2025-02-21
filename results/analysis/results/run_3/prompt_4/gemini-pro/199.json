@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the words \"EXIT\" and \"STAGE\" next to each other.  There's a down arrow above \"EXIT\" and an up arrow below \"STAGE\". This implies \"EXIT\" is above/before \"STAGE\", specifically \"left\".\n\nThe highlighted part of the description *highlight: before* also reinforces this idea.  Thus the rebus represents **(D) exit stage left**.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: EXIT, repeat: 1)\nNode 2 attributes: (text: STAGE, repeat: 1, highlight: before)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) stage right (B) set the stage (C) hold the stage (D) exit stage left",
-    "answer": {
-        "D": "exit stage left"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the words \"EXIT\" and \"STAGE\" next to each other.  There's a down arrow above \"EXIT\" and an up arrow below \"STAGE\". This implies \"EXIT\" is above/before \"STAGE\", specifically \"left\".\n\nThe highlighted part of the description *highlight: before* also reinforces this idea.  Thus the rebus represents **(D) exit stage left**.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: EXIT, repeat: 1)\nNode 2 attributes: (text: STAGE, repeat: 1, highlight: before)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) stage right (B) set the stage (C) hold the stage (D) exit stage left",
+   "answer": {
+      "D": "exit stage left"
+   },
+   "extracted_response": "D) exit stage left"
 }

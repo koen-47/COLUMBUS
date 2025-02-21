@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B) deer in the headlights.\n\nThe words \"HEADL\" and \"IGHTS\" are separated by an image of a deer.  This combines to spell \"HEADLIGHTS\" with the deer visually placed \"in\" them, creating the idiom \"deer in the headlights\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) deerskins (B) deer in the headlights (C) headlights (D) deerstalkers",
-    "answer": {
-        "B": "deer in the headlights"
-    }
+   "gemini_pro_response": "The answer is (B) deer in the headlights.\n\nThe words \"HEADL\" and \"IGHTS\" are separated by an image of a deer.  This combines to spell \"HEADLIGHTS\" with the deer visually placed \"in\" them, creating the idiom \"deer in the headlights\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) deerskins (B) deer in the headlights (C) headlights (D) deerstalkers",
+   "answer": {
+      "B": "deer in the headlights"
+   },
+   "extracted_response": "B) deer in the headlights"
 }

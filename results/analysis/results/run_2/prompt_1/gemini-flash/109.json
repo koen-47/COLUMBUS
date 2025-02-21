@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(A) in the post**.\n\nThe image shows arrows pointing up and down around the letters \"BE,\" which represents \"to be.\"  The envelope symbol represents mail.  Therefore, the image conveys the idea of something being \"in the post\" (i.e., in the mail).\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the post (B) be left at the post (C) near post (D) far post",
-    "answer": {
-        "B": "be left at the post"
-    }
+   "gemini_pro_response": "The correct answer is **(A) in the post**.\n\nThe image shows arrows pointing up and down around the letters \"BE,\" which represents \"to be.\"  The envelope symbol represents mail.  Therefore, the image conveys the idea of something being \"in the post\" (i.e., in the mail).\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the post (B) be left at the post (C) near post (D) far post",
+   "answer": {
+      "B": "be left at the post"
+   },
+   "extracted_response": "A) in the post"
 }

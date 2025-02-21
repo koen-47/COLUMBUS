@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase \"piffy on a rock bun\" (C). It's a visual representation of the words, with \"PIFFY\" placed on top of \"ROCK BUN\", separated by a horizontal line, mimicking the idea of something being \"on\" something else.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bun fight (B) rock hound (C) piffy on a rock bun (D) bun in the oven",
-    "answer": {
-        "C": "piffy on a rock bun"
-    }
+   "gemini_pro_response": "The image conveys the phrase \"piffy on a rock bun\" (C). It's a visual representation of the words, with \"PIFFY\" placed on top of \"ROCK BUN\", separated by a horizontal line, mimicking the idea of something being \"on\" something else.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bun fight (B) rock hound (C) piffy on a rock bun (D) bun in the oven",
+   "answer": {
+      "C": "piffy on a rock bun"
+   },
+   "extracted_response": "C) piffy on a rock bun"
 }

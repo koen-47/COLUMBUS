@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts \"LOT\" on top of \"PLATE\" with a downward arrow from \"LOT\" to \"PLATE\". This signifies a large quantity (LOT) being placed on a plate.  The correct answer is (B) a lot on my plate.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step up to the plate (B) a lot on my plate (C) a bit too much (D) platelayer",
-    "answer": {
-        "B": "a lot on my plate"
-    }
+   "gemini_pro_response": "The image depicts \"LOT\" on top of \"PLATE\" with a downward arrow from \"LOT\" to \"PLATE\". This signifies a large quantity (LOT) being placed on a plate.  The correct answer is (B) a lot on my plate.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step up to the plate (B) a lot on my plate (C) a bit too much (D) platelayer",
+   "answer": {
+      "B": "a lot on my plate"
+   },
+   "extracted_response": "B) a lot on my plate"
 }

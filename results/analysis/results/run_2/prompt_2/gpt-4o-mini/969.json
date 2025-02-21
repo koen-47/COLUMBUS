@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"snow job.\" The \"SN\" and \"OW\" with a person in between suggests the idea of a \"job\" related to snow. Therefore, the correct answer is (C) snow job.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) walk in the snow (B) snow under (C) snow job (D) snow out",
-    "answer": {
-        "A": "walk in the snow"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"snow job.\" The \"SN\" and \"OW\" with a person in between suggests the idea of a \"job\" related to snow. Therefore, the correct answer is (C) snow job.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) walk in the snow (B) snow under (C) snow job (D) snow out",
+   "answer": {
+      "A": "walk in the snow"
+   },
+   "extracted_response": "C) snow job"
 }

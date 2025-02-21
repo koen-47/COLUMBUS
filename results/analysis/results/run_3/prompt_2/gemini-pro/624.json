@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) feel for.\n\nThe word \"FEEL\" is repeated four times.  This represents \"feel four\", which sounds like \"feel for\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) feel up (B) feel free (C) feel for (D) feel out",
-    "answer": {
-        "C": "feel for"
-    }
+   "gemini_pro_response": "The answer is (C) feel for.\n\nThe word \"FEEL\" is repeated four times.  This represents \"feel four\", which sounds like \"feel for\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) feel up (B) feel free (C) feel for (D) feel out",
+   "answer": {
+      "C": "feel for"
+   },
+   "extracted_response": "C) feel for"
 }

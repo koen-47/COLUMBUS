@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "C) stopwatch",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) deathwatch (B) midgame (C) stopwatch (D) midwatch",
-    "answer": {
-        "D": "midwatch"
-    }
+   "gpt4v_response": "C) stopwatch",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) deathwatch (B) midgame (C) stopwatch (D) midwatch",
+   "answer": {
+      "D": "midwatch"
+   },
+   "extracted_response": "C) stopwatch"
 }

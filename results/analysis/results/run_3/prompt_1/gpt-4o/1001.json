@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(B) with a view to",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) with an eye towards (B) with a view to (C) with an eye to (D) in view of",
-    "answer": {
-        "B": "with a view to"
-    }
+   "gpt4v_response": "(B) with a view to",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) with an eye towards (B) with a view to (C) with an eye to (D) in view of",
+   "answer": {
+      "B": "with a view to"
+   },
+   "extracted_response": "B"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) ages.  The image shows the word \"AGES\" repeated four times.  While (A) \"for the ages\" is a common phrase, it isn't directly shown.  (B) and (D) aren't depicted at all.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for the ages (B) of age (C) ages (D) for the book",
-    "answer": {
-        "A": "for the ages"
-    }
+   "gemini_pro_response": "The correct answer is (C) ages.  The image shows the word \"AGES\" repeated four times.  While (A) \"for the ages\" is a common phrase, it isn't directly shown.  (B) and (D) aren't depicted at all.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for the ages (B) of age (C) ages (D) for the book",
+   "answer": {
+      "A": "for the ages"
+   },
+   "extracted_response": "C) ages"
 }

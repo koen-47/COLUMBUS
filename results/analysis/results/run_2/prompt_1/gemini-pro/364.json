@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase **(A) hard on the eyes**.  The word \"PAINFUL\" is placed above \"IIII\", which looks like tightly spaced vertical lines, possibly simulating something visually unpleasant to look at.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hard on the eyes (B) sight for sore eyes (C) easy on the eye (D) painful on the eyes",
-    "answer": {
-        "D": "painful on the eyes"
-    }
+   "gemini_pro_response": "The image conveys the phrase **(A) hard on the eyes**.  The word \"PAINFUL\" is placed above \"IIII\", which looks like tightly spaced vertical lines, possibly simulating something visually unpleasant to look at.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hard on the eyes (B) sight for sore eyes (C) easy on the eye (D) painful on the eyes",
+   "answer": {
+      "D": "painful on the eyes"
+   },
+   "extracted_response": "A) hard on the eyes"
 }

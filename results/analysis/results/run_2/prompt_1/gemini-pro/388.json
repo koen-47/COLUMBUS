@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image represents a **(A) dead end**.  The arrows pointing in opposite directions, combined with the word \"dead,\" signify a point where no further progress is possible.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead end (B) dead loss (C) dead last (D) dead end job",
-    "answer": {
-        "A": "dead end"
-    }
+   "gemini_pro_response": "The image represents a **(A) dead end**.  The arrows pointing in opposite directions, combined with the word \"dead,\" signify a point where no further progress is possible.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead end (B) dead loss (C) dead last (D) dead end job",
+   "answer": {
+      "A": "dead end"
+   },
+   "extracted_response": "A) dead end"
 }

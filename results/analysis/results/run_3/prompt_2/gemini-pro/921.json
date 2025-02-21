@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus represents \"too big for one's boots.\"  Here's why:\n\n* **BIG:** The word \"BIG\" appears twice.\n* **1111:** This can be read as \"four ones,\" which sounds like \"for ones.\"\n* **Boots:** Two boots are depicted.\n\nCombining these elements, we get \"Big for ones boots,\" which implies \"too big for one's boots.\"  This idiom means someone is conceited or arrogant. Thus, the answer is (A).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) too big for one's boots (B) kicking boots (C) fill one's boots (D) hang up one's boots",
-    "answer": {
-        "A": "too big for one's boots"
-    }
+   "gemini_pro_response": "The rebus represents \"too big for one's boots.\"  Here's why:\n\n* **BIG:** The word \"BIG\" appears twice.\n* **1111:** This can be read as \"four ones,\" which sounds like \"for ones.\"\n* **Boots:** Two boots are depicted.\n\nCombining these elements, we get \"Big for ones boots,\" which implies \"too big for one's boots.\"  This idiom means someone is conceited or arrogant. Thus, the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) too big for one's boots (B) kicking boots (C) fill one's boots (D) hang up one's boots",
+   "answer": {
+      "A": "too big for one's boots"
+   },
+   "extracted_response": "A) too big for one's boots"
 }

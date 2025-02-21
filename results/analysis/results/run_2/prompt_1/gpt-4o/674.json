@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "C) melt in the mouth",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) butter wouldn't melt in someone's mouth (B) run at the mouth (C) melt in the mouth (D) melt into",
-    "answer": {
-        "C": "melt in the mouth"
-    }
+   "gpt4v_response": "C) melt in the mouth",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) butter wouldn't melt in someone's mouth (B) run at the mouth (C) melt in the mouth (D) melt into",
+   "answer": {
+      "C": "melt in the mouth"
+   },
+   "extracted_response": "C) melt in the mouth"
 }

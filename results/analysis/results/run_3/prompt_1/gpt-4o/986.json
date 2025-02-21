@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) for show.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what with (B) what for (C) for show (D) give what for",
-    "answer": {
-        "B": "what for"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) for show.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what with (B) what for (C) for show (D) give what for",
+   "answer": {
+      "B": "what for"
+   },
+   "extracted_response": "C"
 }

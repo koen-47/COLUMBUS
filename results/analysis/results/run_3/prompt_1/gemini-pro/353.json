@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image represents a rebus puzzle. The answer is **(C) notch on one's bedpost**.\n\nThe words \"NOTCH\" over \"BEDPOST\" visually represent the idea of a notch being *on* a bedpost.  It's a play on words and positioning.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bedposts (B) bedpost (C) notch on one's bedpost (D) take down a notch",
-    "answer": {
-        "C": "notch on one's bedpost"
-    }
+   "gemini_pro_response": "The image represents a rebus puzzle. The answer is **(C) notch on one's bedpost**.\n\nThe words \"NOTCH\" over \"BEDPOST\" visually represent the idea of a notch being *on* a bedpost.  It's a play on words and positioning.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bedposts (B) bedpost (C) notch on one's bedpost (D) take down a notch",
+   "answer": {
+      "C": "notch on one's bedpost"
+   },
+   "extracted_response": "C) notch on one's bedpost"
 }

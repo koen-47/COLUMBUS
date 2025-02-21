@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (A) nose out of joint.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nose out of joint (B) keep one's nose clean (C) turn up one's nose (D) button nose",
-    "answer": {
-        "A": "nose out of joint"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) nose out of joint.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nose out of joint (B) keep one's nose clean (C) turn up one's nose (D) button nose",
+   "answer": {
+      "A": "nose out of joint"
+   },
+   "extracted_response": "A) nose out of joint"
 }

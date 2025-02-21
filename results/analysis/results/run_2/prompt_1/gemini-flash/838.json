@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) somewhere over the rainbow.\n\nThe image contains the word \"SOMEWHERE\" and a stylized image of a rainbow arc.  This directly represents the phrase \"Somewhere Over the Rainbow.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rainbow (B) somewhere over the rainbow (C) end of the rainbow (D) rainbow baby",
-    "answer": {
-        "B": "somewhere over the rainbow"
-    }
+   "gemini_pro_response": "The correct answer is (B) somewhere over the rainbow.\n\nThe image contains the word \"SOMEWHERE\" and a stylized image of a rainbow arc.  This directly represents the phrase \"Somewhere Over the Rainbow.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rainbow (B) somewhere over the rainbow (C) end of the rainbow (D) rainbow baby",
+   "answer": {
+      "B": "somewhere over the rainbow"
+   },
+   "extracted_response": "B, somewhere over the rainbow"
 }

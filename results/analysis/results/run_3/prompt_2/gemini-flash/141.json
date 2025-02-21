@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(A) on one's mind**.\n\nThe image shows four ones (1111) crossed out, next to the word \"MIND\".  This can be interpreted as \"one one one one\" being crossed out (or \"not one one one one\") and therefore \"on one's mind\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on one's mind (B) cross one's mind (C) lose one's mind (D) of one mind",
-    "answer": {
-        "B": "cross one's mind"
-    }
+   "gemini_pro_response": "The answer is **(A) on one's mind**.\n\nThe image shows four ones (1111) crossed out, next to the word \"MIND\".  This can be interpreted as \"one one one one\" being crossed out (or \"not one one one one\") and therefore \"on one's mind\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on one's mind (B) cross one's mind (C) lose one's mind (D) of one mind",
+   "answer": {
+      "B": "cross one's mind"
+   },
+   "extracted_response": "A) on one's mind"
 }

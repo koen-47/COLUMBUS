@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) punch above one's weight.\n\nHere's why:\n\nThe image shows \"1111 WEIGHT\".  The number 1111 is visually represented as being *under* the word WEIGHT.  This represents something small (1111) accomplishing something greater (WEIGHT).  This is the essence of \"punching above one's weight\"\u2014achieving more than expected given one's apparent capabilities or resources.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) punch below one's weight (B) hit below one's weight (C) throw one's weight behind (D) punch above one's weight",
-    "answer": {
-        "D": "punch above one's weight"
-    }
+   "gemini_pro_response": "The correct answer is (D) punch above one's weight.\n\nHere's why:\n\nThe image shows \"1111 WEIGHT\".  The number 1111 is visually represented as being *under* the word WEIGHT.  This represents something small (1111) accomplishing something greater (WEIGHT).  This is the essence of \"punching above one's weight\"\u2014achieving more than expected given one's apparent capabilities or resources.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) punch below one's weight (B) hit below one's weight (C) throw one's weight behind (D) punch above one's weight",
+   "answer": {
+      "D": "punch above one's weight"
+   },
+   "extracted_response": "D) punch above one's weight"
 }

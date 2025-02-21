@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"DEAD\" is written between two arrows. The upward and downward arrow signifies 'dead center' which is same as 'dead end'.\n(A) dead end: The word DEAD with an arrow going down and an arrow going up can be interpreted as being in the dead center or at a dead end.\n(B) dead loss: There are no symbols to suggest \"loss\".\n(C) dead last: There are no symbols to suggest \"last\".\n(D) dead end job: There are no symbols to suggest \"job\".\n\nFinal Answer: The final answer is $\\boxed{A}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"Text\",\n    \"description\": \"The word 'DEAD' written in uppercase letters.\",\n    \"relation\": \"Below the arrow symbol\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"Arrow\",\n    \"description\": \"A downward-pointing arrow symbol.\",\n    \"relation\": \"Above the word 'DEAD'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) dead end (B) dead loss (C) dead last (D) dead end job\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "dead end"
+    }
+}

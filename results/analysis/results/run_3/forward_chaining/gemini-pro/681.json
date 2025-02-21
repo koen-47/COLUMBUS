@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows a brain in the middle of two arrows pointing towards it.  The json describes the brain icon as being in the center.  This maps to \"mid\" + \"brain\".\n\nThus the answer is (C) midbrain.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"1\",\n    \"name\": \"brain_icon\",\n    \"description\": \"An icon depicting a brain with circuit-like patterns inside, symbolizing artificial intelligence or technology.\",\n    \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) midrib (B) midribs (C) midbrain (D) midvein\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "midbrain"
+    }
+}

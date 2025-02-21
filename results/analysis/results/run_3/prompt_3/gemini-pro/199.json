@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the words \"EXIT\" and \"STAGE\" with an up arrow below the word EXIT and a down arrow above. The graph description mentions \"highlight: before\" for the \"STAGE\" node, suggesting that we emphasize the direction before \"STAGE\".  Since the down arrow points to the left side, the solution is \"exit stage left\" (D).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: EXIT, repeat: 1)\nNode 2 attributes: (text: STAGE, repeat: 1, highlight: before)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) stage right (B) set the stage (C) hold the stage (D) exit stage left",
-    "answer": {
-        "D": "exit stage left"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the words \"EXIT\" and \"STAGE\" with an up arrow below the word EXIT and a down arrow above. The graph description mentions \"highlight: before\" for the \"STAGE\" node, suggesting that we emphasize the direction before \"STAGE\".  Since the down arrow points to the left side, the solution is \"exit stage left\" (D).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: EXIT, repeat: 1)\nNode 2 attributes: (text: STAGE, repeat: 1, highlight: before)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) stage right (B) set the stage (C) hold the stage (D) exit stage left",
+   "answer": {
+      "D": "exit stage left"
+   },
+   "extracted_response": "D) exit stage left"
 }

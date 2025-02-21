@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"MELT\" between two mouth icons. This represents the phrase \"melt in the mouth\".\n\nSo the answer is (C).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MELT, repeat: 1)\nNode 2 attributes: (text: \ud83d\udc44, repeat: 1, icon: (mouth: \ud83d\udc44))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) butter wouldn't melt in someone's mouth (B) run at the mouth (C) melt in the mouth (D) melt into",
-    "answer": {
-        "C": "melt in the mouth"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"MELT\" between two mouth icons. This represents the phrase \"melt in the mouth\".\n\nSo the answer is (C).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MELT, repeat: 1)\nNode 2 attributes: (text: \ud83d\udc44, repeat: 1, icon: (mouth: \ud83d\udc44))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) butter wouldn't melt in someone's mouth (B) run at the mouth (C) melt in the mouth (D) melt into",
+   "answer": {
+      "C": "melt in the mouth"
+   },
+   "extracted_response": "C"
 }

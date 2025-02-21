@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) up to eleven.  It shows the words \"UP\" twice, followed by \"ELEVEN.\" This is a common expression meaning to take something to its maximum level or beyond.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) average up (B) ten to one (C) up to eleven (D) up to something",
-    "answer": {
-        "C": "up to eleven"
-    }
+   "gemini_pro_response": "The image conveys (C) up to eleven.  It shows the words \"UP\" twice, followed by \"ELEVEN.\" This is a common expression meaning to take something to its maximum level or beyond.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) average up (B) ten to one (C) up to eleven (D) up to something",
+   "answer": {
+      "C": "up to eleven"
+   },
+   "extracted_response": "C"
 }

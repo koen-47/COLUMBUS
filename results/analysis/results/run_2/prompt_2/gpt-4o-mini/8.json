@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"ABOUT\" repeated twice, which suggests the phrase \"just about.\" Therefore, the correct answer is (B) just about.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run about (B) just about (C) about to (D) up and about",
-    "answer": {
-        "C": "about to"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"ABOUT\" repeated twice, which suggests the phrase \"just about.\" Therefore, the correct answer is (B) just about.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run about (B) just about (C) about to (D) up and about",
+   "answer": {
+      "C": "about to"
+   },
+   "extracted_response": "B) just about"
 }

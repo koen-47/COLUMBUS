@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) cross a bridge too far.\n\nHere's why:\n\n* **Node 1:** The image shows a bridge with a line crossing it.  The \"cross\" attribute and the bridge icon clearly indicate \"cross the bridge\".\n\n* **Node 2:** \"FAR\" is repeated twice.  This can be interpreted as \"too far\" because of the repetitive nature which represents the word \"too\".\n\nCombining these, we get \"cross a bridge too far\".",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83c\udf09, cross: True, repeat: 1, icon: (bridge: \ud83c\udf09))\nNode 2 attributes: (text: FAR, repeat: 2, sound: (too: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) go too far (B) cross the bridge (C) cross that bridge when one comes to it (D) cross a bridge too far",
-    "answer": {
-        "D": "cross a bridge too far"
-    }
+   "gemini_pro_response": "The correct answer is (D) cross a bridge too far.\n\nHere's why:\n\n* **Node 1:** The image shows a bridge with a line crossing it.  The \"cross\" attribute and the bridge icon clearly indicate \"cross the bridge\".\n\n* **Node 2:** \"FAR\" is repeated twice.  This can be interpreted as \"too far\" because of the repetitive nature which represents the word \"too\".\n\nCombining these, we get \"cross a bridge too far\".",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83c\udf09, cross: True, repeat: 1, icon: (bridge: \ud83c\udf09))\nNode 2 attributes: (text: FAR, repeat: 2, sound: (too: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) go too far (B) cross the bridge (C) cross that bridge when one comes to it (D) cross a bridge too far",
+   "answer": {
+      "D": "cross a bridge too far"
+   },
+   "extracted_response": "D) cross a bridge too far"
 }

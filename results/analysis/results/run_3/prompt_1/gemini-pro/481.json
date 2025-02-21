@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"Get to the point\" (D).  The two \"GETs\" imply getting somewhere, and the point visually represents \"the point.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to the point (B) get the point (C) take the point (D) get to the point",
-    "answer": {
-        "D": "get to the point"
-    }
+   "gemini_pro_response": "The image conveys \"Get to the point\" (D).  The two \"GETs\" imply getting somewhere, and the point visually represents \"the point.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to the point (B) get the point (C) take the point (D) get to the point",
+   "answer": {
+      "D": "get to the point"
+   },
+   "extracted_response": "D) get to the point"
 }

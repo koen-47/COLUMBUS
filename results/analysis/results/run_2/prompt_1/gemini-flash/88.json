@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) bogged down.  The image shows the letters B O G G E D vertically, which spells out \"bogged\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bog off (B) bogged down (C) bogeyman (D) throw down",
-    "answer": {
-        "B": "bogged down"
-    }
+   "gemini_pro_response": "The correct answer is (B) bogged down.  The image shows the letters B O G G E D vertically, which spells out \"bogged\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bog off (B) bogged down (C) bogeyman (D) throw down",
+   "answer": {
+      "B": "bogged down"
+   },
+   "extracted_response": "B) bogged down"
 }

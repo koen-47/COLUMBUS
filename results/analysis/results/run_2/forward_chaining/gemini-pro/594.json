@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"EAT\" written four times vertically. The number \"2\" is placed next to the second \"EAT\". This represents \"EAT 2\". Therefore, the rebus represents the phrase \"eat for two\".\n\nThe answer is (D).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Text EAT\",\n        \"description\": \"The word 'EAT' written vertically four times.\",\n        \"relation\": \"Left side of the image, aligned vertically.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Number 2\",\n        \"description\": \"The number '2' written once.\",\n        \"relation\": \"To the right of the vertical 'EAT' texts, aligned with the second 'EAT'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) eat one's own (B) two for two (C) eat one's young (D) eat for two\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "eat for two"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B) the big bucks.  \"Bucks\" is slang for dollars, and \"the big bucks\" refers to a large amount of money.  The other options are all related to the word \"buck,\" but not to the concept of money.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bighorns (B) the big bucks (C) bucksaws (D) buckskin",
-    "answer": {
-        "B": "the big bucks"
-    }
+   "gemini_pro_response": "The answer is (B) the big bucks.  \"Bucks\" is slang for dollars, and \"the big bucks\" refers to a large amount of money.  The other options are all related to the word \"buck,\" but not to the concept of money.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bighorns (B) the big bucks (C) bucksaws (D) buckskin",
+   "answer": {
+      "B": "the big bucks"
+   },
+   "extracted_response": "B) the big bucks"
 }

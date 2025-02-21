@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (A) two left hands.  The image shows the word \"LEFT\" twice, next to the word \"FEET\".  This can be interpreted as \"two left feet\", but it's a common phrase to say \"two left hands\" to describe someone clumsy.  Since \"hands\" and \"feet\" are similar, the rebus uses wordplay.\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two left hands (B) two left feet (C) at one's feet (D) feet first",
-    "answer": {
-        "B": "two left feet"
-    }
+   "gemini_pro_response": "The answer is (A) two left hands.  The image shows the word \"LEFT\" twice, next to the word \"FEET\".  This can be interpreted as \"two left feet\", but it's a common phrase to say \"two left hands\" to describe someone clumsy.  Since \"hands\" and \"feet\" are similar, the rebus uses wordplay.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two left hands (B) two left feet (C) at one's feet (D) feet first",
+   "answer": {
+      "B": "two left feet"
+   },
+   "extracted_response": "A) two left hands"
 }

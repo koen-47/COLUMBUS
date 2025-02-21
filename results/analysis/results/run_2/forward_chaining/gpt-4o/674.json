@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image consists of:\n\n1. **Left lips icon** - An icon of lips on the left side.\n2. **Text 'MELT'** - The word 'MELT' in uppercase letters.\n3. **Right lips icon** - An icon of lips on the right side.\n\nThe combination of lips and the word \"MELT\" suggests the phrase \"melt in the mouth.\"\n\nTherefore, the correct answer is:\n\n(C) melt in the mouth.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"item1\",\n    \"name\": \"left_lips_icon\",\n    \"description\": \"An icon of lips on the left side.\",\n    \"relation\": \"left of the text 'MELT'\"\n}\n```\n\n```json\n{\n    \"id\": \"item2\",\n    \"name\": \"text_melt\",\n    \"description\": \"The word 'MELT' in uppercase letters.\",\n    \"relation\": \"between the two lips icons\"\n}\n```\n\n```json\n{\n    \"id\": \"item3\",\n    \"name\": \"right_lips_icon\",\n    \"description\": \"An icon of lips on the right side.\",\n    \"relation\": \"right of the text 'MELT'\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) butter wouldn't melt in someone's mouth (B) run at the mouth (C) melt in the mouth (D) melt into\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "melt in the mouth"
+    }
+}

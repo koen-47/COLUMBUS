@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle \"OCSPITEAN\" can be solved by visually separating the letters \"OC\" from \"SPITEAN\".  This translates to \"Ocean\" and \"Spit in\".\n\nTherefore, the answer is (A) spit in the ocean.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) spit out (C) spit on (D) spit in the wind",
-    "answer": {
-        "A": "spit in the ocean"
-    }
+   "gemini_pro_response": "The rebus puzzle \"OCSPITEAN\" can be solved by visually separating the letters \"OC\" from \"SPITEAN\".  This translates to \"Ocean\" and \"Spit in\".\n\nTherefore, the answer is (A) spit in the ocean.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) spit out (C) spit on (D) spit in the wind",
+   "answer": {
+      "A": "spit in the ocean"
+   },
+   "extracted_response": "A) spit in the ocean"
 }

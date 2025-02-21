@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows \"STAND\" over \"1111 HEAD\".  \"1111\" looks like four upright figures.  This represents \"STAND\"ing on your \"HEAD\".\n\nSo the answer is (C) stand on one's head.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold one's head high (B) keep one's head (C) stand on one's head (D) with one's head held high",
-    "answer": {
-        "C": "stand on one's head"
-    }
+   "gemini_pro_response": "The image shows \"STAND\" over \"1111 HEAD\".  \"1111\" looks like four upright figures.  This represents \"STAND\"ing on your \"HEAD\".\n\nSo the answer is (C) stand on one's head.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold one's head high (B) keep one's head (C) stand on one's head (D) with one's head held high",
+   "answer": {
+      "C": "stand on one's head"
+   },
+   "extracted_response": "C) stand on one's head"
 }

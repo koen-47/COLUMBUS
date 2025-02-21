@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"speak out of turn.\" \n\nThe word \"SPEAK\" is outside of the \"turn\" icon, which suggests the phrase \"speak out of turn.\"\n\nSo, the correct answer is (C) speak out of turn.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: SPEAK, repeat: 1)\nNode 2 attributes: (text: \ud83d\udd04, repeat: 1, icon: (turn: \ud83d\udd04))\nEdge 1: node 1 to node 2 (rule: OUTSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak out of turn (D) talk out of turn",
-    "answer": {
-        "C": "speak out of turn"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"speak out of turn.\" \n\nThe word \"SPEAK\" is outside of the \"turn\" icon, which suggests the phrase \"speak out of turn.\"\n\nSo, the correct answer is (C) speak out of turn.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: SPEAK, repeat: 1)\nNode 2 attributes: (text: \ud83d\udd04, repeat: 1, icon: (turn: \ud83d\udd04))\nEdge 1: node 1 to node 2 (rule: OUTSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak out of turn (D) talk out of turn",
+   "answer": {
+      "C": "speak out of turn"
+   },
+   "extracted_response": "C) speak out of turn"
 }

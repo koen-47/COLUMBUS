@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"PRONE\" written twice, one above the other. This arrangement suggests the phrase \"prone to,\" as it indicates a repetition or emphasis on the word \"prone.\"\n\nThe correct answer is (C) prone to.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"PRONE\",\n        \"description\": \"The word 'PRONE' written in bold uppercase letters.\",\n        \"relation\": \"Located at the top of the image.\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"PRONE\",\n        \"description\": \"The word 'PRONE' written in bold uppercase letters.\",\n        \"relation\": \"Located below the first 'PRONE', at the bottom of the image.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) forward-leaning (B) falling out (C) prone to (D) doomed if you do, doomed if you don't\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "prone to"
+    }
+}

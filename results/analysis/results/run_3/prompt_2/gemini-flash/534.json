@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **pit against**.\n\nThe letters \"TSNIAGA\" are presented vertically.  If you read them from top to bottom, and then from bottom to top, you get \"AGAINST\". The word \"PIT\" is missing, and if you put it in front you get \"PIT AGAINST\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tell against (B) turn against (C) pit against (D) up against",
-    "answer": {
-        "D": "up against"
-    }
+   "gemini_pro_response": "The correct answer is (C) **pit against**.\n\nThe letters \"TSNIAGA\" are presented vertically.  If you read them from top to bottom, and then from bottom to top, you get \"AGAINST\". The word \"PIT\" is missing, and if you put it in front you get \"PIT AGAINST\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tell against (B) turn against (C) pit against (D) up against",
+   "answer": {
+      "D": "up against"
+   },
+   "extracted_response": "C) pit against"
 }

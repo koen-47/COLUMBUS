@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"the devil is in the detail.\" The word \"detail\" is split with \"DEVIL\" in the middle, indicating that the devil is associated with the details. \n\nSo the answer is (D) the devil is in the detail.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) talk of the devil (B) speak of the devil and he appears (C) the devil is a liar (D) the devil is in the detail",
-    "answer": {
-        "D": "the devil is in the detail"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"the devil is in the detail.\" The word \"detail\" is split with \"DEVIL\" in the middle, indicating that the devil is associated with the details. \n\nSo the answer is (D) the devil is in the detail.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) talk of the devil (B) speak of the devil and he appears (C) the devil is a liar (D) the devil is in the detail",
+   "answer": {
+      "D": "the devil is in the detail"
+   },
+   "extracted_response": "D) the devil is in the detail"
 }

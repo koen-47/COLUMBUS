@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows arrows pointing up and down, surrounding the word \"WITH\", followed by the image of an explosion/bang.  This represents \"Up WITH a bang\", so \"A\" is the correct answer.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start with a bang (B) go out with a bang (C) bang out (D) bang up",
-    "answer": {
-        "A": "start with a bang"
-    }
+   "gemini_pro_response": "The rebus shows arrows pointing up and down, surrounding the word \"WITH\", followed by the image of an explosion/bang.  This represents \"Up WITH a bang\", so \"A\" is the correct answer.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start with a bang (B) go out with a bang (C) bang out (D) bang up",
+   "answer": {
+      "A": "start with a bang"
+   },
+   "extracted_response": "A"
 }

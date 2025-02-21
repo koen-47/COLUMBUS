@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) put someone in their place.\n\nThe image shows the words \"PUT SOMEONE\" with the number \"2\" underneath, suggesting the phrase requires two words to complete it.  \"In their place\" fits this perfectly and forms a common idiom.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put someone on to (B) put someone to their trumps (C) put someone in their place (D) put someone under",
-    "answer": {
-        "A": "put someone on to"
-    }
+   "gemini_pro_response": "The answer is (C) put someone in their place.\n\nThe image shows the words \"PUT SOMEONE\" with the number \"2\" underneath, suggesting the phrase requires two words to complete it.  \"In their place\" fits this perfectly and forms a common idiom.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put someone on to (B) put someone to their trumps (C) put someone in their place (D) put someone under",
+   "answer": {
+      "A": "put someone on to"
+   },
+   "extracted_response": "C) put someone in their place"
 }

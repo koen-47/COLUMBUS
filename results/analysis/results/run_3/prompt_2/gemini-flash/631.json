@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) fish out of water.\n\nThe image shows a single fish outside of a box, which represents water.  This visually represents a fish being \"out of water\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish out (B) fish out of water (C) fish in troubled waters (D) other fish in the sea",
-    "answer": {
-        "B": "fish out of water"
-    }
+   "gemini_pro_response": "The correct answer is (B) fish out of water.\n\nThe image shows a single fish outside of a box, which represents water.  This visually represents a fish being \"out of water\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish out (B) fish out of water (C) fish in troubled waters (D) other fish in the sea",
+   "answer": {
+      "B": "fish out of water"
+   },
+   "extracted_response": "B) fish out of water"
 }

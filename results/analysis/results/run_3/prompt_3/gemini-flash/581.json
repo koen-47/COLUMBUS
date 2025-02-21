@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) dressed to the nines.\n\nHere's why:\n\n* **Node 1:** Represents \"DRESSED\" repeated twice.\n* **Node 2:** Represents \"999,\" which phonetically sounds like \"nines.\"\n* **Sound Attribute:** The \"sound\" attribute indicates a connection between the nodes.  Node 1's sound attribute \"to: 2\" directs us to interpret Node 2's sound attribute, \"nines.\"\n\nTherefore, combining the elements, we get \"DRESSED to the NINES.\"",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: DRESSED, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: 999, repeat: 1, sound: (nines: 999))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) to the nines (B) nightmare dressed like a daydream (C) dressed to the nines (D) dressed to kill",
-    "answer": {
-        "C": "dressed to the nines"
-    }
+   "gemini_pro_response": "The correct answer is (C) dressed to the nines.\n\nHere's why:\n\n* **Node 1:** Represents \"DRESSED\" repeated twice.\n* **Node 2:** Represents \"999,\" which phonetically sounds like \"nines.\"\n* **Sound Attribute:** The \"sound\" attribute indicates a connection between the nodes.  Node 1's sound attribute \"to: 2\" directs us to interpret Node 2's sound attribute, \"nines.\"\n\nTherefore, combining the elements, we get \"DRESSED to the NINES.\"",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: DRESSED, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: 999, repeat: 1, sound: (nines: 999))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) to the nines (B) nightmare dressed like a daydream (C) dressed to the nines (D) dressed to kill",
+   "answer": {
+      "C": "dressed to the nines"
+   },
+   "extracted_response": "C) dressed to the nines"
 }

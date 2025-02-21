@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) bighorns.\n\nThe image shows two bighorn sheep.  While the image is stylized, the horns are the key identifier.  Bighorns are a type of wild sheep known for their large, curved horns.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the big bucks (B) buckskin (C) bucksaws (D) bighorns",
-    "answer": {
-        "A": "the big bucks"
-    }
+   "gemini_pro_response": "The correct answer is (D) bighorns.\n\nThe image shows two bighorn sheep.  While the image is stylized, the horns are the key identifier.  Bighorns are a type of wild sheep known for their large, curved horns.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the big bucks (B) buckskin (C) bucksaws (D) bighorns",
+   "answer": {
+      "A": "the big bucks"
+   },
+   "extracted_response": "D) bighorns"
 }

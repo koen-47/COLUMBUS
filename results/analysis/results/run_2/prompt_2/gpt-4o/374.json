@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(A) devil is in the details",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) devil is in the details (B) talk of the devil (C) devil in disguise (D) speak of the devil",
-    "answer": {
-        "A": "devil is in the details"
-    }
+   "gpt4v_response": "(A) devil is in the details",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) devil is in the details (B) talk of the devil (C) devil in disguise (D) speak of the devil",
+   "answer": {
+      "A": "devil is in the details"
+   },
+   "extracted_response": "A"
 }

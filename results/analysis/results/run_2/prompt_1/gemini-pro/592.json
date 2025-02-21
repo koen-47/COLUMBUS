@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys **(B) easy on the eye**.\n\n\"EZ\" is slang for \"easy.\"  The image uses the eyes below the word to create a visual pun, replacing the word \"eye\" with a pair of eyes.  So \"EZ on [eyes]\" becomes \"easy on the eye.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) easy on the eyes (B) easy on the eye (C) hard on the eyes (D) take one's eyes off",
-    "answer": {
-        "A": "easy on the eyes"
-    }
+   "gemini_pro_response": "The image conveys **(B) easy on the eye**.\n\n\"EZ\" is slang for \"easy.\"  The image uses the eyes below the word to create a visual pun, replacing the word \"eye\" with a pair of eyes.  So \"EZ on [eyes]\" becomes \"easy on the eye.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) easy on the eyes (B) easy on the eye (C) hard on the eyes (D) take one's eyes off",
+   "answer": {
+      "A": "easy on the eyes"
+   },
+   "extracted_response": "B) easy on the eye"
 }

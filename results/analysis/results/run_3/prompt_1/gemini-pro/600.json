@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys **(D) rainbow baby**.\n\nThe arrows pointing down and up symbolically represent a loss (miscarriage or stillbirth) followed by a new birth. A \"rainbow baby\" is a term for a child born after a previous pregnancy loss.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chase a rainbow (B) end of the rainbow (C) rainbow (D) rainbow baby",
-    "answer": {
-        "B": "end of the rainbow"
-    }
+   "gemini_pro_response": "The image conveys **(D) rainbow baby**.\n\nThe arrows pointing down and up symbolically represent a loss (miscarriage or stillbirth) followed by a new birth. A \"rainbow baby\" is a term for a child born after a previous pregnancy loss.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chase a rainbow (B) end of the rainbow (C) rainbow (D) rainbow baby",
+   "answer": {
+      "B": "end of the rainbow"
+   },
+   "extracted_response": "D) rainbow baby"
 }

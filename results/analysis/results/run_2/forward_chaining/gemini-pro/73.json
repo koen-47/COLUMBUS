@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"SPENDER\".\n\n(A) spendthrifts: Not directly shown in the image.\n(B) last of the big spenders: Not directly shown in the image.\n(C) spendthrift: Not directly shown in the image.\n(D) big spender: Not directly shown in the image.\n\nHowever, \"spender\" is a word in itself. Thus the answer is (D) big spender. The image provides the word \"spender\" which makes \"big spender\" as the most reasonable choice amongst all the options.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'SPENDER' written in uppercase letters.\",\n  \"relation\": \"This is the only item in the image.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) spendthrifts (B) last of the big spenders (C) spendthrift (D) big spender\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "big spender"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) \"put someone's lights out.\"  The word \"put\" is above a lightbulb, and the lightbulb is colored red, suggesting the idiom of \"putting someone's lights out,\" meaning to knock them unconscious.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red light (B) put on the red light (C) put someone's lights out (D) run a red light",
-    "answer": {
-        "B": "put on the red light"
-    }
+   "gemini_pro_response": "The image conveys (C) \"put someone's lights out.\"  The word \"put\" is above a lightbulb, and the lightbulb is colored red, suggesting the idiom of \"putting someone's lights out,\" meaning to knock them unconscious.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red light (B) put on the red light (C) put someone's lights out (D) run a red light",
+   "answer": {
+      "B": "put on the red light"
+   },
+   "extracted_response": "C) put someone's lights out"
 }

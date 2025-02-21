@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (A) hand to mouth.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand to mouth (B) hand in hand (C) hand over hand (D) hand to God",
-    "answer": {
-        "A": "hand to mouth"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) hand to mouth.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand to mouth (B) hand in hand (C) hand over hand (D) hand to God",
+   "answer": {
+      "A": "hand to mouth"
+   },
+   "extracted_response": "A"
 }

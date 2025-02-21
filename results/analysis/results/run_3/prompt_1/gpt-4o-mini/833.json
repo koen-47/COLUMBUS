@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (A) small piece of the puzzle.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small piece of the puzzle (B) of a piece (C) a piece of cake (D) piece of cake",
-    "answer": {
-        "A": "small piece of the puzzle"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) small piece of the puzzle.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small piece of the puzzle (B) of a piece (C) a piece of cake (D) piece of cake",
+   "answer": {
+      "A": "small piece of the puzzle"
+   },
+   "extracted_response": "A) small piece of the puzzle"
 }

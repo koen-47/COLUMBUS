@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"moment\" with \"sun\" represented by \"tun\" (which sounds like \"ton\"). This suggests the phrase \"moment in the sun.\" \n\nSo, the answer is (A) moment in the sun.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) moment in the sun (B) in the heat of the moment (C) catch the sun (D) moment of truth",
-    "answer": {
-        "A": "moment in the sun"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"moment\" with \"sun\" represented by \"tun\" (which sounds like \"ton\"). This suggests the phrase \"moment in the sun.\" \n\nSo, the answer is (A) moment in the sun.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) moment in the sun (B) in the heat of the moment (C) catch the sun (D) moment of truth",
+   "answer": {
+      "A": "moment in the sun"
+   },
+   "extracted_response": "A) moment in the sun"
 }

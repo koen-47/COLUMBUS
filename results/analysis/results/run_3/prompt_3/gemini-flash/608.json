@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) eye for an eye.\n\nHere's why:\n\n* **Node 1:** Represents \"eye\"  four times. The repetition and the icon solidify this.\n* **Node 2:** Represents \"AN\".\n* **Node 3:** Represents \"I\".\n\nPutting it together, four eyes (representing four instances of \"eye\") positioned before \"AN\" and \"I\" creates the idiom \"eye for an eye\".",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc41, repeat: 4, icon: (eye: \ud83d\udc41), sound: (for: 4))\nNode 2 attributes: (text: AN, repeat: 1)\nNode 3 attributes: (text: I, repeat: 1, sound: (eye: i))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) see eye to eye (B) eye for an eye (C) have an eye for (D) one in the eye for",
-    "answer": {
-        "B": "eye for an eye"
-    }
+   "gemini_pro_response": "The correct answer is (B) eye for an eye.\n\nHere's why:\n\n* **Node 1:** Represents \"eye\"  four times. The repetition and the icon solidify this.\n* **Node 2:** Represents \"AN\".\n* **Node 3:** Represents \"I\".\n\nPutting it together, four eyes (representing four instances of \"eye\") positioned before \"AN\" and \"I\" creates the idiom \"eye for an eye\".",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc41, repeat: 4, icon: (eye: \ud83d\udc41), sound: (for: 4))\nNode 2 attributes: (text: AN, repeat: 1)\nNode 3 attributes: (text: I, repeat: 1, sound: (eye: i))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) see eye to eye (B) eye for an eye (C) have an eye for (D) one in the eye for",
+   "answer": {
+      "B": "eye for an eye"
+   },
+   "extracted_response": "B) eye for an eye"
 }

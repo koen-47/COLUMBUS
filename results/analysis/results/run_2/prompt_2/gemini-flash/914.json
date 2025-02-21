@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) wait for the other shoe to drop.\n\nThe rebus shows a shoe above a line, and then the word \"OTHER\" followed by a shoe below the line.  This visually represents the idiom \"wait for the other shoe to drop,\" which means to wait for the other piece of bad news to happen after receiving some bad news already.\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wait for the other shoe to drop (B) which foot the shoe is on (C) kick with the other foot (D) the shoe is on the other foot",
-    "answer": {
-        "D": "the shoe is on the other foot"
-    }
+   "gemini_pro_response": "The correct answer is (A) wait for the other shoe to drop.\n\nThe rebus shows a shoe above a line, and then the word \"OTHER\" followed by a shoe below the line.  This visually represents the idiom \"wait for the other shoe to drop,\" which means to wait for the other piece of bad news to happen after receiving some bad news already.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wait for the other shoe to drop (B) which foot the shoe is on (C) kick with the other foot (D) the shoe is on the other foot",
+   "answer": {
+      "D": "the shoe is on the other foot"
+   },
+   "extracted_response": "A) wait for the other shoe to drop"
 }

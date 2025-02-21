@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus is \"Take (one) to one's heels\".  The \"1111\" is to be read as \"one to one\", and the high heels complete the phrase.\n\nSo the answer is (C).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick up one's heels (B) kick one's heels (C) take to one's heels (D) dig one's heels in",
-    "answer": {
-        "C": "take to one's heels"
-    }
+   "gemini_pro_response": "The rebus is \"Take (one) to one's heels\".  The \"1111\" is to be read as \"one to one\", and the high heels complete the phrase.\n\nSo the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick up one's heels (B) kick one's heels (C) take to one's heels (D) dig one's heels in",
+   "answer": {
+      "C": "take to one's heels"
+   },
+   "extracted_response": "C) take to one's heels"
 }

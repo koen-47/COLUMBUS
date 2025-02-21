@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "None of the options are conveyed in the image. The image shows the word \"LAID\".  The options refer to adjusting a dial, while the image is simply the word \"laid\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) reset the dial (B) dial back (C) dial down (D) shift the dial",
-    "answer": {
-        "B": "dial back"
-    }
+   "gemini_pro_response": "None of the options are conveyed in the image. The image shows the word \"LAID\".  The options refer to adjusting a dial, while the image is simply the word \"laid\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) reset the dial (B) dial back (C) dial down (D) shift the dial",
+   "answer": {
+      "B": "dial back"
+   },
+   "extracted_response": "None of the options are conveyed in the image. The image shows the word \"LAID\".  The options refer to adjusting a dial, while the image is simply the word \"laid\"."
 }

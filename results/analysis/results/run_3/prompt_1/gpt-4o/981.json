@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "C) water over the dam",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head above water (B) water down (C) water over the dam (D) water under the bridge",
-    "answer": {
-        "C": "water over the dam"
-    }
+   "gpt4v_response": "C) water over the dam",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head above water (B) water down (C) water over the dam (D) water under the bridge",
+   "answer": {
+      "C": "water over the dam"
+   },
+   "extracted_response": "C) water over the dam"
 }

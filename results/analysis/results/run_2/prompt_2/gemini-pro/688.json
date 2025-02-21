@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows \"MAN\" with arrows pointing up and down.  This represents \"middle MAN\".  Since there are two instances of this, the answer is (C) middlemen.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midshipmen (B) middleman (C) middlemen (D) middlebrows",
-    "answer": {
-        "C": "middlemen"
-    }
+   "gemini_pro_response": "The rebus puzzle shows \"MAN\" with arrows pointing up and down.  This represents \"middle MAN\".  Since there are two instances of this, the answer is (C) middlemen.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midshipmen (B) middleman (C) middlemen (D) middlebrows",
+   "answer": {
+      "C": "middlemen"
+   },
+   "extracted_response": "C) middlemen"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) put someone in their place.\n\nThe rebus shows \"PUT SOMEONE\" with \"2\" underneath, indicating that the number 2 should be placed \"under\" the phrase.  Therefore, the solution is \"PUT SOMEONE UNDER\". This is not one of the options. However, a similar expression that conveys a similar meaning of establishing dominance or control is \"put someone in their place\".\n\nThe other options don't fit the visual representation of the rebus.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: PUT, repeat: 1)\nNode 2 attributes: (text: SOMEONE, repeat: 1)\nNode 3 attributes: (text: 2, repeat: 1, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) put someone on to (B) put someone to their trumps (C) put someone in their place (D) put someone under",
-    "answer": {
-        "A": "put someone on to"
-    }
+   "gemini_pro_response": "The correct answer is (C) put someone in their place.\n\nThe rebus shows \"PUT SOMEONE\" with \"2\" underneath, indicating that the number 2 should be placed \"under\" the phrase.  Therefore, the solution is \"PUT SOMEONE UNDER\". This is not one of the options. However, a similar expression that conveys a similar meaning of establishing dominance or control is \"put someone in their place\".\n\nThe other options don't fit the visual representation of the rebus.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: PUT, repeat: 1)\nNode 2 attributes: (text: SOMEONE, repeat: 1)\nNode 3 attributes: (text: 2, repeat: 1, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) put someone on to (B) put someone to their trumps (C) put someone in their place (D) put someone under",
+   "answer": {
+      "A": "put someone on to"
+   },
+   "extracted_response": "C) put someone in their place"
 }

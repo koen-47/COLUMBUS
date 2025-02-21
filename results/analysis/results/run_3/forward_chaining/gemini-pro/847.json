@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The text \"OCSPITEAN\" can be broken down into \"OC\" + \"SPIT\" + \"EAN\".  \"OC\" sounds like \"ocean\", and \"EAN\" sounds like \"in\". So, the rebus represents \"Ocean SPIT in\".\n\nThe answer is (A) spit in the ocean.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'OCSPITEAN' in black font on a white background.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) spit in the ocean (B) spit out (C) spit on (D) spit in the wind\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "spit in the ocean"
+    }
+}

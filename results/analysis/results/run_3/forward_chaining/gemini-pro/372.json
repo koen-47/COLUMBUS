@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The two skulls represent \"dead\". The word to the right of the skulls is \"RIGHTS\". Combining these gives us \"dead to rights\".\n\nTherefore, the answer is (D).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"skull_1\",\n        \"description\": \"A skull icon located at the top left of the image.\",\n        \"relation\": \"above skull_2\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"skull_2\",\n        \"description\": \"A skull icon located below skull_1 at the bottom left of the image.\",\n        \"relation\": \"below skull_1\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"text_RIGHTS\",\n        \"description\": \"The word 'RIGHTS' in uppercase letters located to the right of the skull icons.\",\n        \"relation\": \"to the right of skull_1 and skull_2\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) dead of night (B) dead last (C) dead and buried (D) dead to rights\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "dead to rights"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **aftereffects**.\n\nThe image shows the word \"EFFECT\" with arrows pointing both up and down, suggesting effects that continue both before and after the main event.  This aligns perfectly with the meaning of \"aftereffects,\" which refers to the consequences or results that occur after a particular event.  The other options don't fit this visual representation.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftereffect (B) aftercare (C) afterburner (D) aftereffects",
-    "answer": {
-        "A": "aftereffect"
-    }
+   "gemini_pro_response": "The correct answer is (D) **aftereffects**.\n\nThe image shows the word \"EFFECT\" with arrows pointing both up and down, suggesting effects that continue both before and after the main event.  This aligns perfectly with the meaning of \"aftereffects,\" which refers to the consequences or results that occur after a particular event.  The other options don't fit this visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftereffect (B) aftercare (C) afterburner (D) aftereffects",
+   "answer": {
+      "A": "aftereffect"
+   },
+   "extracted_response": "D) aftereffects"
 }

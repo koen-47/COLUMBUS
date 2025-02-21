@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the idea of the **(A) middle of nowhere**.  The arrows pointing in opposite directions, centered on the word \"nowhere,\" suggest being equidistant from any recognizable or significant place.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) middle of nowhere (B) nowhere near (C) arse end of nowhere (D) out of nowhere",
-    "answer": {
-        "A": "middle of nowhere"
-    }
+   "gemini_pro_response": "The image conveys the idea of the **(A) middle of nowhere**.  The arrows pointing in opposite directions, centered on the word \"nowhere,\" suggest being equidistant from any recognizable or significant place.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) middle of nowhere (B) nowhere near (C) arse end of nowhere (D) out of nowhere",
+   "answer": {
+      "A": "middle of nowhere"
+   },
+   "extracted_response": "A) middle of nowhere"
 }

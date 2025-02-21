@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle \"DIE DIE 4\" is meant to be read as \"Die for\".  The number 4 is a homophone for \"for.\"  Therefore, the answer is (C).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what for (B) to the death (C) to die for (D) die",
-    "answer": {
-        "C": "to die for"
-    }
+   "gemini_pro_response": "The rebus puzzle \"DIE DIE 4\" is meant to be read as \"Die for\".  The number 4 is a homophone for \"for.\"  Therefore, the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what for (B) to the death (C) to die for (D) die",
+   "answer": {
+      "C": "to die for"
+   },
+   "extracted_response": "C"
 }

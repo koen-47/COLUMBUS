@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle represents \"hang over one's head\". Here's why:\n\n* **HANG:**  The word \"HANG\" is present.\n* **over:** The horizontal line suggests \"over\".\n* **one's:** The \"1111\" is interpreted as \"one's\" (four ones).\n* **HEAD:** The word \"HEAD\" is present.\n\nPutting it together, we get \"hang over one's head.\"\n\nSo the correct answer is (A).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: HANG, repeat: 1)\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: HEAD, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) hang over one's head (B) hold over someone's head (C) hang one's hat (D) hang up one's hat",
-    "answer": {
-        "A": "hang over one's head"
-    }
+   "gemini_pro_response": "The rebus puzzle represents \"hang over one's head\". Here's why:\n\n* **HANG:**  The word \"HANG\" is present.\n* **over:** The horizontal line suggests \"over\".\n* **one's:** The \"1111\" is interpreted as \"one's\" (four ones).\n* **HEAD:** The word \"HEAD\" is present.\n\nPutting it together, we get \"hang over one's head.\"\n\nSo the correct answer is (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: HANG, repeat: 1)\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: HEAD, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) hang over one's head (B) hold over someone's head (C) hang one's hat (D) hang up one's hat",
+   "answer": {
+      "A": "hang over one's head"
+   },
+   "extracted_response": "A"
 }

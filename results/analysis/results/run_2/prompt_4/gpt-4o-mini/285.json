@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The word \"HOLD\" is positioned above the number \"1111,\" which is pronounced as \"one's.\"\n- The spatial relationship indicated by the edge suggests that \"HOLD\" is next to \"one's.\"\n\nPutting this together, the phrase conveyed is \"hold up one's end.\"\n\nTherefore, the correct answer is (A) hold up one's end.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: HOLD, repeat: 1, direction: up)\nNode 2 attributes: (text: 1111, repeat: 1, highlight: after, sound: (one's: 1111))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) hold up one's end (B) hold one's own (C) hold off (D) hold over",
-    "answer": {
-        "A": "hold up one's end"
-    }
+   "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The word \"HOLD\" is positioned above the number \"1111,\" which is pronounced as \"one's.\"\n- The spatial relationship indicated by the edge suggests that \"HOLD\" is next to \"one's.\"\n\nPutting this together, the phrase conveyed is \"hold up one's end.\"\n\nTherefore, the correct answer is (A) hold up one's end.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: HOLD, repeat: 1, direction: up)\nNode 2 attributes: (text: 1111, repeat: 1, highlight: after, sound: (one's: 1111))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) hold up one's end (B) hold one's own (C) hold off (D) hold over",
+   "answer": {
+      "A": "hold up one's end"
+   },
+   "extracted_response": "A) hold up one's end"
 }

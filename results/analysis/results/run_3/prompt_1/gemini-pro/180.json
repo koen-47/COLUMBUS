@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"blow water\", which is visually represented by the word \"BLOW\" next to a boxed \"WATER\". This aligns with option **(C) blow out of the water**, an idiom meaning to greatly impress or surpass someone or something.  The box around \"WATER\" could be interpreted as highlighting it, emphasizing the action of blowing it out.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow off (B) blow away (C) blow out of the water (D) dry up and blow away",
-    "answer": {
-        "C": "blow out of the water"
-    }
+   "gemini_pro_response": "The image conveys \"blow water\", which is visually represented by the word \"BLOW\" next to a boxed \"WATER\". This aligns with option **(C) blow out of the water**, an idiom meaning to greatly impress or surpass someone or something.  The box around \"WATER\" could be interpreted as highlighting it, emphasizing the action of blowing it out.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow off (B) blow away (C) blow out of the water (D) dry up and blow away",
+   "answer": {
+      "C": "blow out of the water"
+   },
+   "extracted_response": "C) blow out of the water"
 }

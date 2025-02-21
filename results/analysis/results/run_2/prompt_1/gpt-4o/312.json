@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(A) come down to earth",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down to earth (B) come down (C) come down to us (D) down to earth",
-    "answer": {
-        "A": "come down to earth"
-    }
+   "gpt4v_response": "(A) come down to earth",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down to earth (B) come down (C) come down to us (D) down to earth",
+   "answer": {
+      "A": "come down to earth"
+   },
+   "extracted_response": "A) come down to earth"
 }

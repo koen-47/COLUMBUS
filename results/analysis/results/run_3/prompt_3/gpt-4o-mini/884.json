@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle you provided conveys the phrase \"stuck in the stone age.\" \n\nThe reasoning is as follows:\n- \"STUCK\" from Node 1.\n- The stone emoji (\ud83e\udea8) represents \"stone.\"\n- \"AGE\" from Node 3.\n\nPutting it all together, it forms \"stuck in the stone age.\"\n\nSo the correct answer is (B) stuck in the stone age.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: STUCK, repeat: 1)\nNode 2 attributes: (text: \ud83e\udea8, repeat: 1, icon: (stone: \ud83e\udea8))\nNode 3 attributes: (text: AGE, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) stone dead (B) stuck in the stone age (C) carved in stone (D) set in stone",
-    "answer": {
-        "B": "stuck in the stone age"
-    }
+   "gpt4v_response": "The rebus puzzle you provided conveys the phrase \"stuck in the stone age.\" \n\nThe reasoning is as follows:\n- \"STUCK\" from Node 1.\n- The stone emoji (\ud83e\udea8) represents \"stone.\"\n- \"AGE\" from Node 3.\n\nPutting it all together, it forms \"stuck in the stone age.\"\n\nSo the correct answer is (B) stuck in the stone age.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: STUCK, repeat: 1)\nNode 2 attributes: (text: \ud83e\udea8, repeat: 1, icon: (stone: \ud83e\udea8))\nNode 3 attributes: (text: AGE, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) stone dead (B) stuck in the stone age (C) carved in stone (D) set in stone",
+   "answer": {
+      "B": "stuck in the stone age"
+   },
+   "extracted_response": "B) stuck in the stone age"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **dig one's heels in**.\n\nThe image shows the word \"DIG\" with four \"1\"s before it, representing four heels.  The two shoe images further reinforce the imagery of heels.  \"Dig one's heels in\" means to stubbornly refuse to change one's position or opinion.  The other options don't fit the visual representation.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig in one's heels (B) dig one's heels in (C) dig heels in (D) take to one's heels",
-    "answer": {
-        "A": "dig in one's heels"
-    }
+   "gemini_pro_response": "The correct answer is (B) **dig one's heels in**.\n\nThe image shows the word \"DIG\" with four \"1\"s before it, representing four heels.  The two shoe images further reinforce the imagery of heels.  \"Dig one's heels in\" means to stubbornly refuse to change one's position or opinion.  The other options don't fit the visual representation.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig in one's heels (B) dig one's heels in (C) dig heels in (D) take to one's heels",
+   "answer": {
+      "A": "dig in one's heels"
+   },
+   "extracted_response": "B) dig one's heels in"
 }

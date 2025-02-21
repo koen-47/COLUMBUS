@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"LEVEL\" repeated above and below the word \"GROUND.\" This arrangement suggests a phrase related to being even or flat with the ground.\n\nThe correct answer is (A) level to the ground.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) level to the ground (B) from the ground up (C) go to ground (D) high ground",
-    "answer": {
-        "A": "level to the ground"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"LEVEL\" repeated above and below the word \"GROUND.\" This arrangement suggests a phrase related to being even or flat with the ground.\n\nThe correct answer is (A) level to the ground.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) level to the ground (B) from the ground up (C) go to ground (D) high ground",
+   "answer": {
+      "A": "level to the ground"
+   },
+   "extracted_response": "A) level to the ground"
 }

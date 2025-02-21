@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle represents the phrase \"It takes two to tango.\"\n\nThe words \"TAKES\" and \"TANGO\" are repeated twice.  The description indicates a sound attribute \"(two: 2)\" for the word \"TAKES\" suggesting \"takes two\". Combining this with the word \"TANGO\" (repeated twice, like \"TAKES\") forms the common idiom \"It takes two to tango.\"\n\nSo the answer is (A).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: TAKES, repeat: 2, sound: (two: 2))\nNode 2 attributes: (text: TANGO, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) takes two to tango (B) turn two (C) horizontal tango (D) it takes two to make a quarrel",
-    "answer": {
-        "A": "takes two to tango"
-    }
+   "gemini_pro_response": "The rebus puzzle represents the phrase \"It takes two to tango.\"\n\nThe words \"TAKES\" and \"TANGO\" are repeated twice.  The description indicates a sound attribute \"(two: 2)\" for the word \"TAKES\" suggesting \"takes two\". Combining this with the word \"TANGO\" (repeated twice, like \"TAKES\") forms the common idiom \"It takes two to tango.\"\n\nSo the answer is (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: TAKES, repeat: 2, sound: (two: 2))\nNode 2 attributes: (text: TANGO, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) takes two to tango (B) turn two (C) horizontal tango (D) it takes two to make a quarrel",
+   "answer": {
+      "A": "takes two to tango"
+   },
+   "extracted_response": "A"
 }

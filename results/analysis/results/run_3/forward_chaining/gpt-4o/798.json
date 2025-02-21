@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image consists of the text \"GRO\" and \"UND\" with a running man icon between them. This forms the phrase \"GROUND\" with the running man suggesting the action \"hit the ground running.\"\n\nThe correct answer is (D) hit the ground running.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_GRO\",\n        \"description\": \"The text 'GRO'\",\n        \"relation\": \"to the left of the running man icon\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"running_man_icon\",\n        \"description\": \"An icon of a running man\",\n        \"relation\": \"between the text 'GRO' and 'UND'\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"text_UND\",\n        \"description\": \"The text 'UND'\",\n        \"relation\": \"to the right of the running man icon\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) go to ground (B) run into the ground (C) put in the ground (D) hit the ground running\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "run into the ground"
+    }
+}

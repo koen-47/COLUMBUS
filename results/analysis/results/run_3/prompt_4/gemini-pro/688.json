@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows the word \"MAN\" repeated twice, with arrows pointing towards and away from the middle of the word.  The description mentions \"highlight: middle\". This points to emphasizing the middle part of \"MAN\", which is \"A\".  Since MAN is repeated twice, we get \"A\" twice, making \"AA\". This sounds like \"Middle AA men\", making the answer \"Middlemen\". Therefore, the correct answer is (C).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: MAN, repeat: 2, highlight: middle)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) midshipmen (B) middleman (C) middlemen (D) middlebrows",
-    "answer": {
-        "C": "middlemen"
-    }
+   "gemini_pro_response": "The rebus shows the word \"MAN\" repeated twice, with arrows pointing towards and away from the middle of the word.  The description mentions \"highlight: middle\". This points to emphasizing the middle part of \"MAN\", which is \"A\".  Since MAN is repeated twice, we get \"A\" twice, making \"AA\". This sounds like \"Middle AA men\", making the answer \"Middlemen\". Therefore, the correct answer is (C).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: MAN, repeat: 2, highlight: middle)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) midshipmen (B) middleman (C) middlemen (D) middlebrows",
+   "answer": {
+      "C": "middlemen"
+   },
+   "extracted_response": "C) middlemen"
 }

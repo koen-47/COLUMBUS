@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- Node 1 has \"20\" repeated twice, which can be read as \"twenty to.\"\n- Node 2 has \"12,\" which can be interpreted as \"dozen.\"\n\nPutting these together, you get \"twenty to the dozen.\"\n\nTherefore, the correct answer is (C) twenty to the dozen.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: 20, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: 12, repeat: 1, sound: (dozen: 12))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) decimal dozen (B) cheaper by the dozen (C) twenty to the dozen (D) a dime a dozen",
-    "answer": {
-        "C": "twenty to the dozen"
-    }
+   "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- Node 1 has \"20\" repeated twice, which can be read as \"twenty to.\"\n- Node 2 has \"12,\" which can be interpreted as \"dozen.\"\n\nPutting these together, you get \"twenty to the dozen.\"\n\nTherefore, the correct answer is (C) twenty to the dozen.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: 20, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: 12, repeat: 1, sound: (dozen: 12))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) decimal dozen (B) cheaper by the dozen (C) twenty to the dozen (D) a dime a dozen",
+   "answer": {
+      "C": "twenty to the dozen"
+   },
+   "extracted_response": "C) twenty to the dozen"
 }

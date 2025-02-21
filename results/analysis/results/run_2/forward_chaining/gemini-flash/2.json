@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) a bird in the hand.\n\nHere's why:\n\nThe JSON data describes a bird positioned between a left and a right hand.  This directly corresponds to the imagery of \"a bird in the hand\".  Options B, C, and D don't align with the simple, visual representation provided by the image and JSON.  The rebus doesn't depict a bush, the concept of \"early\", or a \"bosom\".\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"left hand\",\n    \"description\": \"An icon of a left hand with fingers spread apart.\",\n    \"relation\": \"left of the bird\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"bird\",\n    \"description\": \"An icon of a bird facing right.\",\n    \"relation\": \"between the left hand and the right hand\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"right hand\",\n    \"description\": \"An icon of a right hand with fingers spread apart.\",\n    \"relation\": \"right of the bird\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) a bird in the hand (B) a bird in the hand is worth two in the bush (C) early bird (D) bird in the bosom\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "a bird in the hand"
+    }
+}

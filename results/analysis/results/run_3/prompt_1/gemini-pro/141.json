@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows \"1111\" crossed out, followed by the word \"MIND\".  This represents **(B) cross one's mind**.  The crossing out symbolizes removing something from thought.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on one's mind (B) cross one's mind (C) lose one's mind (D) of one mind",
-    "answer": {
-        "B": "cross one's mind"
-    }
+   "gemini_pro_response": "The image shows \"1111\" crossed out, followed by the word \"MIND\".  This represents **(B) cross one's mind**.  The crossing out symbolizes removing something from thought.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on one's mind (B) cross one's mind (C) lose one's mind (D) of one mind",
+   "answer": {
+      "B": "cross one's mind"
+   },
+   "extracted_response": "B) cross one's mind"
 }

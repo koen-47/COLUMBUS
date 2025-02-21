@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains the text \"EMOC FROM\" and a skull icon. The text \"EMOC FROM\" is \"COME FROM\" spelled backward, and the skull icon represents \"the dead.\"\n\nThe phrase conveyed is \"come back from the dead.\"\n\nThe correct answer is (B) come back from the dead.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text_emoc_from\",\n    \"description\": \"The text 'EMOC FROM' written in uppercase letters.\",\n    \"relation\": \"next to skull_icon\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"skull_icon\",\n    \"description\": \"An icon of a skull with two black eyes and a black nose.\",\n    \"relation\": \"next to text_emoc_from\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) stop dead (B) come back from the dead (C) come alive (D) come to grief\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "come back from the dead"
+    }
+}

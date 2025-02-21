@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"big spender.\" The word \"spender\" is prominently displayed, suggesting a focus on spending. Therefore, the correct answer is:\n\n(D) big spender.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spendthrifts (B) last of the big spenders (C) spendthrift (D) big spender",
-    "answer": {
-        "D": "big spender"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"big spender.\" The word \"spender\" is prominently displayed, suggesting a focus on spending. Therefore, the correct answer is:\n\n(D) big spender.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spendthrifts (B) last of the big spenders (C) spendthrift (D) big spender",
+   "answer": {
+      "D": "big spender"
+   },
+   "extracted_response": "D) big spender"
 }

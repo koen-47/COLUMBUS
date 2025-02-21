@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (D) **word on the street**.\n\nThe jumbled letters \"STRMANEET\" can be rearranged to form \"STREETMAN ON WORD\".  This is a slightly altered version of the idiom, but clearly refers to the phrase \"word on the street\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up someone's street (B) man in the street (C) man on the street (D) word on the street",
-    "answer": {
-        "B": "man in the street"
-    }
+   "gemini_pro_response": "The answer is (D) **word on the street**.\n\nThe jumbled letters \"STRMANEET\" can be rearranged to form \"STREETMAN ON WORD\".  This is a slightly altered version of the idiom, but clearly refers to the phrase \"word on the street\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up someone's street (B) man in the street (C) man on the street (D) word on the street",
+   "answer": {
+      "B": "man in the street"
+   },
+   "extracted_response": "D) word on the street"
 }

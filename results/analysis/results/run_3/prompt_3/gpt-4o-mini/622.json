@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- \"FALL\" represents the word \"fall.\"\n- \"1111\" sounds like \"one's.\"\n- \"SWORD\" represents the word \"sword.\"\n\nPutting these together, the phrase conveyed is \"fall on one's sword.\"\n\nTherefore, the correct answer is (A) fall on one's sword.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: FALL, repeat: 1)\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: SWORD, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) fall on one's sword (B) sword and sorcery (C) flesh one's maiden sword (D) put to the sword",
-    "answer": {
-        "A": "fall on one's sword"
-    }
+   "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- \"FALL\" represents the word \"fall.\"\n- \"1111\" sounds like \"one's.\"\n- \"SWORD\" represents the word \"sword.\"\n\nPutting these together, the phrase conveyed is \"fall on one's sword.\"\n\nTherefore, the correct answer is (A) fall on one's sword.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: FALL, repeat: 1)\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: SWORD, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) fall on one's sword (B) sword and sorcery (C) flesh one's maiden sword (D) put to the sword",
+   "answer": {
+      "A": "fall on one's sword"
+   },
+   "extracted_response": "A) fall on one's sword"
 }

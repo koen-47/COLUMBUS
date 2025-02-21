@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word is \"BREAK\" spelled backward.  The closest idiom is (B) break the back of, which means to complete the hardest part of a task.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break one's back (B) break the back of (C) break one's neck (D) break someone's back",
-    "answer": {
-        "B": "break the back of"
-    }
+   "gemini_pro_response": "The word is \"BREAK\" spelled backward.  The closest idiom is (B) break the back of, which means to complete the hardest part of a task.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break one's back (B) break the back of (C) break one's neck (D) break someone's back",
+   "answer": {
+      "B": "break the back of"
+   },
+   "extracted_response": "B"
 }

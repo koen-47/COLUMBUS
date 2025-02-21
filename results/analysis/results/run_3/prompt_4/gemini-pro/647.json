@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"KICK\" between two teeth icons.  The graph description confirms this spatial arrangement, with \"KICK\" INSIDE the teeth.  This represents the idiom \"kick in the teeth,\" which means a setback or disappointment.\n\nSo the answer is (C).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: KICK, repeat: 1)\nNode 2 attributes: (text: \ud83e\uddb7\ud83e\uddb7, repeat: 1, icon: (teeth: \ud83e\uddb7\ud83e\uddb7))\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) armed to the teeth (B) kick in (C) kick in the teeth (D) pull teeth",
-    "answer": {
-        "C": "kick in the teeth"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"KICK\" between two teeth icons.  The graph description confirms this spatial arrangement, with \"KICK\" INSIDE the teeth.  This represents the idiom \"kick in the teeth,\" which means a setback or disappointment.\n\nSo the answer is (C).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: KICK, repeat: 1)\nNode 2 attributes: (text: \ud83e\uddb7\ud83e\uddb7, repeat: 1, icon: (teeth: \ud83e\uddb7\ud83e\uddb7))\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) armed to the teeth (B) kick in (C) kick in the teeth (D) pull teeth",
+   "answer": {
+      "C": "kick in the teeth"
+   },
+   "extracted_response": "C) kick in the teeth"
 }

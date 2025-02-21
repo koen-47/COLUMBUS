@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **vast majority**.\n\nThe image shows the word \"GO\" above a line, with the word \"MAJORITY\" repeated twice below the line.  This visually represents the idea of a \"vast majority\" \u2013 a large number of majorities.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go over to the majority (B) vast majority (C) go to the polls (D) go over",
-    "answer": {
-        "A": "go over to the majority"
-    }
+   "gemini_pro_response": "The correct answer is (B) **vast majority**.\n\nThe image shows the word \"GO\" above a line, with the word \"MAJORITY\" repeated twice below the line.  This visually represents the idea of a \"vast majority\" \u2013 a large number of majorities.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go over to the majority (B) vast majority (C) go to the polls (D) go over",
+   "answer": {
+      "A": "go over to the majority"
+   },
+   "extracted_response": "B"
 }

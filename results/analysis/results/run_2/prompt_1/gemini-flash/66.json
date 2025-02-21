@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) everyone and their brother**.\n\nThe idiom \"everyone and their brother\" (or sometimes \"everybody and their brother\") means a large number of people, often implying an unexpectedly large crowd or a great many people.  The image shows the word \"BROTHER,\" which is a key part of the idiom.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) everybody and their brother (B) everyone and their brother (C) big talk (D) big brother",
-    "answer": {
-        "D": "big brother"
-    }
+   "gemini_pro_response": "The correct answer is **(B) everyone and their brother**.\n\nThe idiom \"everyone and their brother\" (or sometimes \"everybody and their brother\") means a large number of people, often implying an unexpectedly large crowd or a great many people.  The image shows the word \"BROTHER,\" which is a key part of the idiom.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) everybody and their brother (B) everyone and their brother (C) big talk (D) big brother",
+   "answer": {
+      "D": "big brother"
+   },
+   "extracted_response": "B) everyone and their brother"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the word \"VERSION\" in a small font next to the word \"TRUTH\" in a large font.  This implies that the \"version\" is only a small part of the larger \"truth.\" The closest option to this concept is (C) miniature version of the truth.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nugget of truth (B) grain of truth (C) miniature version of the truth (D) stretch the truth",
-    "answer": {
-        "C": "miniature version of the truth"
-    }
+   "gemini_pro_response": "The image shows the word \"VERSION\" in a small font next to the word \"TRUTH\" in a large font.  This implies that the \"version\" is only a small part of the larger \"truth.\" The closest option to this concept is (C) miniature version of the truth.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nugget of truth (B) grain of truth (C) miniature version of the truth (D) stretch the truth",
+   "answer": {
+      "C": "miniature version of the truth"
+   },
+   "extracted_response": "C) miniature version of the truth"
 }

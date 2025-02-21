@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(C) stars align**.\n\nThe image shows four \"I\"s on either side of the word \"STARS\".  These \"I\"s represent four stars aligning.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) written in the stars (B) stars in one's eyes (C) stars align (D) see stars",
-    "answer": {
-        "B": "stars in one's eyes"
-    }
+   "gemini_pro_response": "The answer is **(C) stars align**.\n\nThe image shows four \"I\"s on either side of the word \"STARS\".  These \"I\"s represent four stars aligning.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) written in the stars (B) stars in one's eyes (C) stars align (D) see stars",
+   "answer": {
+      "B": "stars in one's eyes"
+   },
+   "extracted_response": "C) stars align"
 }

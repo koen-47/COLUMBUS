@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows the word \"TAKE\" twice, then the word \"BANK\". This represents \"double take bank\", which means to \"take to the bank\". Thus, the answer is (D).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break the bank (B) bank night (C) laugh all the way to the bank (D) take to the bank",
-    "answer": {
-        "D": "take to the bank"
-    }
+   "gemini_pro_response": "The rebus shows the word \"TAKE\" twice, then the word \"BANK\". This represents \"double take bank\", which means to \"take to the bank\". Thus, the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break the bank (B) bank night (C) laugh all the way to the bank (D) take to the bank",
+   "answer": {
+      "D": "take to the bank"
+   },
+   "extracted_response": "D) take to the bank"
 }

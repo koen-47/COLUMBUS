@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the idiom \"dressed to the nines\" (C).  The repetition of \"dressed\" and the presence of \"999\" (representing \"nines\") visually represent the phrase.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to the nines (B) nightmare dressed like a daydream (C) dressed to the nines (D) dressed to kill",
-    "answer": {
-        "C": "dressed to the nines"
-    }
+   "gemini_pro_response": "The image conveys the idiom \"dressed to the nines\" (C).  The repetition of \"dressed\" and the presence of \"999\" (representing \"nines\") visually represent the phrase.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to the nines (B) nightmare dressed like a daydream (C) dressed to the nines (D) dressed to kill",
+   "answer": {
+      "C": "dressed to the nines"
+   },
+   "extracted_response": "C"
 }

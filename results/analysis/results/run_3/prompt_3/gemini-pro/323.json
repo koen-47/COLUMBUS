@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word \"ECONOMICS\" is written in a small size, and the node has the attribute \"repeat: 2\".  This suggests a doubled, small \"ECONOMICS\", hinting at \"microeconomics\".\n\nTherefore, the answer is (A).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: ECONOMIC, repeat: 2, size: small)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) microeconomics (B) micromanagement (C) hypermarkets (D) economical with the truth",
-    "answer": {
-        "A": "microeconomics"
-    }
+   "gemini_pro_response": "The word \"ECONOMICS\" is written in a small size, and the node has the attribute \"repeat: 2\".  This suggests a doubled, small \"ECONOMICS\", hinting at \"microeconomics\".\n\nTherefore, the answer is (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: ECONOMIC, repeat: 2, size: small)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) microeconomics (B) micromanagement (C) hypermarkets (D) economical with the truth",
+   "answer": {
+      "A": "microeconomics"
+   },
+   "extracted_response": "A) microeconomics"
 }

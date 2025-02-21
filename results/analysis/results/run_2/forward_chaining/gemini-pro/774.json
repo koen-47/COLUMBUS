@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The JSON describes a red shirt icon.\n\n* **(A) redcoat:**  A redcoat historically refers to a British soldier, so named because of their red coats. The red icon of a shirt could represent this.\n* **(B) turncoat:** This refers to someone who switches sides. The image doesn't convey any switching of sides.\n* **(C) bluecoat:** This term refers to a police officer. The icon is red, not blue.\n* **(D) redcoats:** The plural of redcoat. The image shows a single shirt, so this is less likely than \"redcoat\".\n\nThe most fitting answer is (A) redcoat. \nFinal Answer: The final answer is $\\boxed{A}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"red_shirt_icon\",\n  \"description\": \"A small red icon of a shirt with a collar and buttons.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) redcoat (B) turncoat (C) bluecoat (D) redcoats\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "redcoat"
+    }
+}

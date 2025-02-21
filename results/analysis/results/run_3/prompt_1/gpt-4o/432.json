@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (B) skeleton in the cupboard.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cupboard love (B) skeleton in the cupboard (C) cupboard (D) skeleton in the closet",
-    "answer": {
-        "B": "skeleton in the cupboard"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) skeleton in the cupboard.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cupboard love (B) skeleton in the cupboard (C) cupboard (D) skeleton in the closet",
+   "answer": {
+      "B": "skeleton in the cupboard"
+   },
+   "extracted_response": "B) skeleton in the cupboard"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (D) dog in the manger.\n\nThe image shows the word \"MAN\" followed by a picture of a dog, followed by the word \"GER\".  When combined, it creates the phrase \"dog in the manger\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see a man about a dog (B) mantiger (C) dog around (D) dog in the manger",
-    "answer": {
-        "D": "dog in the manger"
-    }
+   "gemini_pro_response": "The answer is (D) dog in the manger.\n\nThe image shows the word \"MAN\" followed by a picture of a dog, followed by the word \"GER\".  When combined, it creates the phrase \"dog in the manger\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see a man about a dog (B) mantiger (C) dog around (D) dog in the manger",
+   "answer": {
+      "D": "dog in the manger"
+   },
+   "extracted_response": "D) dog in the manger"
 }

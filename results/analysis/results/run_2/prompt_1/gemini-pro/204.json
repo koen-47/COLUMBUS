@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the idiom \"Hit the nail on the head\" (C).  The words \"HIT NAIL\" are placed above a line, and the word \"HEAD\" is below it, visually representing the action of hitting a nail directly on its head.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail the hammer on the head (B) nail in the coffin (C) hit the nail on the head (D) nail down",
-    "answer": {
-        "C": "hit the nail on the head"
-    }
+   "gemini_pro_response": "The image conveys the idiom \"Hit the nail on the head\" (C).  The words \"HIT NAIL\" are placed above a line, and the word \"HEAD\" is below it, visually representing the action of hitting a nail directly on its head.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail the hammer on the head (B) nail in the coffin (C) hit the nail on the head (D) nail down",
+   "answer": {
+      "C": "hit the nail on the head"
+   },
+   "extracted_response": "C"
 }

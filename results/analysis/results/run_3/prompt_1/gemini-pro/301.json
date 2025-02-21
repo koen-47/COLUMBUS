@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (A) dead center.  The arrows pointing directly to the word \"CENTER\" emphasize the exact center point.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead center (B) front and center (C) center field (D) left of center",
-    "answer": {
-        "D": "left of center"
-    }
+   "gemini_pro_response": "The image conveys (A) dead center.  The arrows pointing directly to the word \"CENTER\" emphasize the exact center point.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead center (B) front and center (C) center field (D) left of center",
+   "answer": {
+      "D": "left of center"
+   },
+   "extracted_response": "A"
 }

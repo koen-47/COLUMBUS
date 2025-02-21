@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (B) stuck in the stone age.  The word \"STUCK\" is prominent, and combined with the image of a stone and the suffix \"-AGE\", it creates the idiom \"stuck in the stone age.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stone dead (B) stuck in the stone age (C) carved in stone (D) set in stone",
-    "answer": {
-        "B": "stuck in the stone age"
-    }
+   "gemini_pro_response": "The image conveys (B) stuck in the stone age.  The word \"STUCK\" is prominent, and combined with the image of a stone and the suffix \"-AGE\", it creates the idiom \"stuck in the stone age.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stone dead (B) stuck in the stone age (C) carved in stone (D) set in stone",
+   "answer": {
+      "B": "stuck in the stone age"
+   },
+   "extracted_response": "B"
 }

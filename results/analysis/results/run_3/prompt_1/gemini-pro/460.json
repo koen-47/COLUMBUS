@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) hand over hand.  This term describes a climbing technique where one hand follows the other. The sequential nature of the hands in the image suggests this movement.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in hand (B) hand in hand (C) hand over hand (D) hand in glove",
-    "answer": {
-        "B": "hand in hand"
-    }
+   "gemini_pro_response": "The image conveys (C) hand over hand.  This term describes a climbing technique where one hand follows the other. The sequential nature of the hands in the image suggests this movement.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in hand (B) hand in hand (C) hand over hand (D) hand in glove",
+   "answer": {
+      "B": "hand in hand"
+   },
+   "extracted_response": "C"
 }

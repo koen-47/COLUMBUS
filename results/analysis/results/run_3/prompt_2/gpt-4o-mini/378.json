@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"skate on thin ice.\" Therefore, the correct answer is (A) skate on thin ice.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skate on thin ice (B) skate over (C) on thin ice (D) get one's skates on",
-    "answer": {
-        "A": "skate on thin ice"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"skate on thin ice.\" Therefore, the correct answer is (A) skate on thin ice.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skate on thin ice (B) skate over (C) on thin ice (D) get one's skates on",
+   "answer": {
+      "A": "skate on thin ice"
+   },
+   "extracted_response": "A) skate on thin ice"
 }

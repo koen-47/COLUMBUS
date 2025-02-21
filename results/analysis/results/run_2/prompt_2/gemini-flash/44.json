@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(A) backspace**.\n\nThe word \"ECAPS\" is shown twice.  If you read it backward, it spells \"SPACE\".  The two instances of \"ECAPS\" are stacked on top of each other, representing \"back\" to \"space\".  Therefore, the rebus represents \"backspace\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backspace (B) backspaces (C) backspacer (D) space out",
-    "answer": {
-        "B": "backspaces"
-    }
+   "gemini_pro_response": "The answer is **(A) backspace**.\n\nThe word \"ECAPS\" is shown twice.  If you read it backward, it spells \"SPACE\".  The two instances of \"ECAPS\" are stacked on top of each other, representing \"back\" to \"space\".  Therefore, the rebus represents \"backspace\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backspace (B) backspaces (C) backspacer (D) space out",
+   "answer": {
+      "B": "backspaces"
+   },
+   "extracted_response": "A) backspace"
 }

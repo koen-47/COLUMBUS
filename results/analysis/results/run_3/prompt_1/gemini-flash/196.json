@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) come to an end.  The letters DNE are vertically stacked, which is a visual representation of the phrase \"done,\" meaning finished or concluded.  This aligns perfectly with the meaning of \"come to an end.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) end of (B) end up (C) put an end to (D) come to an end",
-    "answer": {
-        "B": "end up"
-    }
+   "gemini_pro_response": "The correct answer is (D) come to an end.  The letters DNE are vertically stacked, which is a visual representation of the phrase \"done,\" meaning finished or concluded.  This aligns perfectly with the meaning of \"come to an end.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) end of (B) end up (C) put an end to (D) come to an end",
+   "answer": {
+      "B": "end up"
+   },
+   "extracted_response": "D) come to an end"
 }

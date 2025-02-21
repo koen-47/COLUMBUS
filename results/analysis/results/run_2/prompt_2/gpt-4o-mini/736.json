@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"SPIEKY\" with the letters arranged in a way that suggests a play on words. The correct answer is (A) pie in the sky.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pie in the sky (B) finger in the pie (C) piece of the pie (D) humble pie",
-    "answer": {
-        "A": "pie in the sky"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"SPIEKY\" with the letters arranged in a way that suggests a play on words. The correct answer is (A) pie in the sky.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pie in the sky (B) finger in the pie (C) piece of the pie (D) humble pie",
+   "answer": {
+      "A": "pie in the sky"
+   },
+   "extracted_response": "A) pie in the sky"
 }

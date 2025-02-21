@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"HUDOGNT,\" which is a rebus puzzle representing \"huge dog in the hunt.\" Thus, the answer is (B).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snipe hunt (B) dog in the hunt (C) dog around (D) dog eat dog",
-    "answer": {
-        "B": "dog in the hunt"
-    }
+   "gemini_pro_response": "The image says \"HUDOGNT,\" which is a rebus puzzle representing \"huge dog in the hunt.\" Thus, the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snipe hunt (B) dog in the hunt (C) dog around (D) dog eat dog",
+   "answer": {
+      "B": "dog in the hunt"
+   },
+   "extracted_response": "B) dog in the hunt"
 }

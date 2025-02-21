@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(C) think on one's feet",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) find one's feet (B) on one's feet (C) think on one's feet (D) at one's feet",
-    "answer": {
-        "C": "think on one's feet"
-    }
+   "gpt4v_response": "(C) think on one's feet",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) find one's feet (B) on one's feet (C) think on one's feet (D) at one's feet",
+   "answer": {
+      "C": "think on one's feet"
+   },
+   "extracted_response": "C) think on one's feet"
 }

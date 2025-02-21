@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) left holding the baby.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) leave someone holding the baby (B) left holding the bag (C) left holding the baby (D) throw the baby out with the bathwater",
-    "answer": {
-        "C": "left holding the baby"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) left holding the baby.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) leave someone holding the baby (B) left holding the bag (C) left holding the baby (D) throw the baby out with the bathwater",
+   "answer": {
+      "C": "left holding the baby"
+   },
+   "extracted_response": "C) left holding the baby"
 }

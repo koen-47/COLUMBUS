@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "* \"COME\" maps to the word \"come\".\n* \"2\" maps to the word \"to\".\n* \"Globe icon\" maps to the words \"earth\".\n\nTherefore, the rebus puzzle represents \"come to earth\" which is answer (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"Text COME\",\n    \"description\": \"The word 'COME' written vertically.\",\n    \"relation\": \"Located on the left side of the image.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"Number 2\",\n    \"description\": \"The number '2' written in the center of the image.\",\n    \"relation\": \"Located between the text 'COME' and the globe icon.\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"Globe icon\",\n    \"description\": \"An icon of a globe showing continents.\",\n    \"relation\": \"Located on the right side of the image.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) come down to us (B) down to earth (C) come down to earth (D) come down\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "come down to earth"
+    }
+}

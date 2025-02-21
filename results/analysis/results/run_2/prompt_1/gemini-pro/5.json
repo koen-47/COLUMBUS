@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The idiom represented is **(B) a drop in the ocean**.  The image shows a small drop of water between two large ocean waves, symbolizing a tiny, insignificant amount compared to a vast quantity.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) a drop in the ocean (C) cross the ocean (D) drop in the pond",
-    "answer": {
-        "B": "a drop in the ocean"
-    }
+   "gemini_pro_response": "The idiom represented is **(B) a drop in the ocean**.  The image shows a small drop of water between two large ocean waves, symbolizing a tiny, insignificant amount compared to a vast quantity.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) a drop in the ocean (C) cross the ocean (D) drop in the pond",
+   "answer": {
+      "B": "a drop in the ocean"
+   },
+   "extracted_response": "B) a drop in the ocean"
 }

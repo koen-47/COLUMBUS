@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows \"up,\" \"1111,\" \"down\" and a pair of eyes. This represents \"before one's eyes.\"\n\nSo the answer is (A).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's eyes (B) before someone's time (C) before one's time (D) set eyes on",
-    "answer": {
-        "A": "before one's eyes"
-    }
+   "gemini_pro_response": "The rebus puzzle shows \"up,\" \"1111,\" \"down\" and a pair of eyes. This represents \"before one's eyes.\"\n\nSo the answer is (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's eyes (B) before someone's time (C) before one's time (D) set eyes on",
+   "answer": {
+      "A": "before one's eyes"
+   },
+   "extracted_response": "A"
 }

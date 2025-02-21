@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle described conveys the phrase \"put a hat on a hat.\" This is indicated by the word \"PUT\" next to two hat icons (\ud83c\udfa9). Therefore, the correct answer is:\n\n(B) put a hat on a hat.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: PUT, repeat: 1)\nNode 2 attributes: (text: \ud83c\udfa9, repeat: 1, icon: (hat: \ud83c\udfa9))\nNode 3 attributes: (text: \ud83c\udfa9, repeat: 1, icon: (hat: \ud83c\udfa9))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\nEdge 2: node 2 to node 3 (rule: ABOVE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) put one's name in the hat (B) put a hat on a hat (C) pick out of a hat (D) pass the hat",
-    "answer": {
-        "B": "put a hat on a hat"
-    }
+   "gpt4v_response": "The rebus puzzle described conveys the phrase \"put a hat on a hat.\" This is indicated by the word \"PUT\" next to two hat icons (\ud83c\udfa9). Therefore, the correct answer is:\n\n(B) put a hat on a hat.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: PUT, repeat: 1)\nNode 2 attributes: (text: \ud83c\udfa9, repeat: 1, icon: (hat: \ud83c\udfa9))\nNode 3 attributes: (text: \ud83c\udfa9, repeat: 1, icon: (hat: \ud83c\udfa9))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\nEdge 2: node 2 to node 3 (rule: ABOVE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) put one's name in the hat (B) put a hat on a hat (C) pick out of a hat (D) pass the hat",
+   "answer": {
+      "B": "put a hat on a hat"
+   },
+   "extracted_response": "B) put a hat on a hat"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **the big guns**.\n\nThe image shows two guns, implying a significant amount of firepower or influence.  \"The big guns\" is an idiom referring to the most important or powerful people or things involved in a situation.  The other options don't fit the visual as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) guns blazing (B) the big guns (C) big shot (D) big gun",
-    "answer": {
-        "B": "the big guns"
-    }
+   "gemini_pro_response": "The correct answer is (B) **the big guns**.\n\nThe image shows two guns, implying a significant amount of firepower or influence.  \"The big guns\" is an idiom referring to the most important or powerful people or things involved in a situation.  The other options don't fit the visual as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) guns blazing (B) the big guns (C) big shot (D) big gun",
+   "answer": {
+      "B": "the big guns"
+   },
+   "extracted_response": "B"
 }

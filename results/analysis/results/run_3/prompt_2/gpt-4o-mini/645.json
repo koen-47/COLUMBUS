@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"keep someone on ice.\" Therefore, the correct answer is (B) keep someone on ice.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break the ice (B) keep someone on ice (C) on ice (D) keep one's stick on the ice",
-    "answer": {
-        "B": "keep someone on ice"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"keep someone on ice.\" Therefore, the correct answer is (B) keep someone on ice.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break the ice (B) keep someone on ice (C) on ice (D) keep one's stick on the ice",
+   "answer": {
+      "B": "keep someone on ice"
+   },
+   "extracted_response": "B) keep someone on ice"
 }

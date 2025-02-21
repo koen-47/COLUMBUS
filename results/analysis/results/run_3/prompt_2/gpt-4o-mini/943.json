@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"LEFT\" above the word \"FEET.\" This suggests the phrase \"two left feet,\" as it indicates that there are two feet that are both \"left.\" \n\nSo, the correct answer is (B) two left feet.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two left hands (B) two left feet (C) at one's feet (D) feet first",
-    "answer": {
-        "B": "two left feet"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"LEFT\" above the word \"FEET.\" This suggests the phrase \"two left feet,\" as it indicates that there are two feet that are both \"left.\" \n\nSo, the correct answer is (B) two left feet.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two left hands (B) two left feet (C) at one's feet (D) feet first",
+   "answer": {
+      "B": "two left feet"
+   },
+   "extracted_response": "B) two left feet"
 }

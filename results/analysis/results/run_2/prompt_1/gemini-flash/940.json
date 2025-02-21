@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) a dime a dozen.\n\nThe image shows \"20\" twice and \"12\" once.  This visually represents the idea of something being plentiful and inexpensive,  like a dime a dozen (meaning very common and inexpensive).  The other options don't fit this visual representation.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) decimal dozen (B) cheaper by the dozen (C) twenty to the dozen (D) a dime a dozen",
-    "answer": {
-        "C": "twenty to the dozen"
-    }
+   "gemini_pro_response": "The correct answer is (D) a dime a dozen.\n\nThe image shows \"20\" twice and \"12\" once.  This visually represents the idea of something being plentiful and inexpensive,  like a dime a dozen (meaning very common and inexpensive).  The other options don't fit this visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) decimal dozen (B) cheaper by the dozen (C) twenty to the dozen (D) a dime a dozen",
+   "answer": {
+      "C": "twenty to the dozen"
+   },
+   "extracted_response": "D) a dime a dozen"
 }

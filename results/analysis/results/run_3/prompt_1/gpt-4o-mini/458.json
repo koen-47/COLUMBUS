@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (D) to date.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of date (B) blind date (C) double date (D) to date",
-    "answer": {
-        "D": "to date"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (D) to date.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of date (B) blind date (C) double date (D) to date",
+   "answer": {
+      "D": "to date"
+   },
+   "extracted_response": "D) to date"
 }

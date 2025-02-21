@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) up on one's ear.\n\nHere's why:\n\n* **\"UP\"**:  Represents the word \"up\".\n* **\"1111\"**:  Phonetically sounds like \"one's\" (as indicated by the 'sound' attribute).\n* **\"EAR\"**: Represents the word \"ear\".\n\nThe spatial arrangement (\"ABOVE\" and \"NEXT-TO\") and the phonetic element combine to create the phrase \"up on one's ear\".",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: UP, repeat: 1)\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: EAR, repeat: 1)\nEdge 1: node 1 to node 2 (rule: ABOVE)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) prick up ears (B) ear to the ground (C) up on one's ear (D) up to one's ears",
-    "answer": {
-        "C": "up on one's ear"
-    }
+   "gemini_pro_response": "The correct answer is (C) up on one's ear.\n\nHere's why:\n\n* **\"UP\"**:  Represents the word \"up\".\n* **\"1111\"**:  Phonetically sounds like \"one's\" (as indicated by the 'sound' attribute).\n* **\"EAR\"**: Represents the word \"ear\".\n\nThe spatial arrangement (\"ABOVE\" and \"NEXT-TO\") and the phonetic element combine to create the phrase \"up on one's ear\".",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: UP, repeat: 1)\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: EAR, repeat: 1)\nEdge 1: node 1 to node 2 (rule: ABOVE)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) prick up ears (B) ear to the ground (C) up on one's ear (D) up to one's ears",
+   "answer": {
+      "C": "up on one's ear"
+   },
+   "extracted_response": "C) up on one's ear"
 }

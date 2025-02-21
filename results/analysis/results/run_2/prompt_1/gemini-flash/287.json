@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **on the heels of**.\n\nThe image uses the word \"CLOSE\" and depicts two heels close together.  This visually represents the idiom \"on the heels of,\" meaning something follows something else very closely.  The other options don't fit the visual representation.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) close on the heels of (C) dig heels in (D) on the heels of",
-    "answer": {
-        "B": "close on the heels of"
-    }
+   "gemini_pro_response": "The correct answer is (D) **on the heels of**.\n\nThe image uses the word \"CLOSE\" and depicts two heels close together.  This visually represents the idiom \"on the heels of,\" meaning something follows something else very closely.  The other options don't fit the visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) close on the heels of (C) dig heels in (D) on the heels of",
+   "answer": {
+      "B": "close on the heels of"
+   },
+   "extracted_response": "D) on the heels of"
 }

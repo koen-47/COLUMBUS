@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(A) paradise on earth**.\n\nThe image shows the word \"PARADISE\" above a line, with a globe underneath.  This visually represents \"paradise on earth\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) paradise on earth (B) hell on earth (C) fool's paradise (D) trouble in paradise",
-    "answer": {
-        "A": "paradise on earth"
-    }
+   "gemini_pro_response": "The correct answer is **(A) paradise on earth**.\n\nThe image shows the word \"PARADISE\" above a line, with a globe underneath.  This visually represents \"paradise on earth\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) paradise on earth (B) hell on earth (C) fool's paradise (D) trouble in paradise",
+   "answer": {
+      "A": "paradise on earth"
+   },
+   "extracted_response": "A) paradise on earth"
 }

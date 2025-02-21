@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **pull out of the fire**.\n\nThe image shows the word \"PULL\" next to a box containing the word \"FIRE\".  This visually represents the act of pulling something (or someone) out of a dangerous situation (the fire).  The other options don't accurately reflect this visual representation.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) open fire (B) pull out (C) pull out of the fire (D) put out a fire",
-    "answer": {
-        "C": "pull out of the fire"
-    }
+   "gemini_pro_response": "The correct answer is (C) **pull out of the fire**.\n\nThe image shows the word \"PULL\" next to a box containing the word \"FIRE\".  This visually represents the act of pulling something (or someone) out of a dangerous situation (the fire).  The other options don't accurately reflect this visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) open fire (B) pull out (C) pull out of the fire (D) put out a fire",
+   "answer": {
+      "C": "pull out of the fire"
+   },
+   "extracted_response": "C) pull out of the fire"
 }

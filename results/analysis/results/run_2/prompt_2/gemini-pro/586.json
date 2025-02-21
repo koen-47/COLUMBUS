@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows \"sea\" on either side of a \"drop\".  Therefore, the answer is (C) drop in the sea.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at sea (B) drop dead (C) drop in the sea (D) drop in the pond",
-    "answer": {
-        "C": "drop in the sea"
-    }
+   "gemini_pro_response": "The rebus puzzle shows \"sea\" on either side of a \"drop\".  Therefore, the answer is (C) drop in the sea.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at sea (B) drop dead (C) drop in the sea (D) drop in the pond",
+   "answer": {
+      "C": "drop in the sea"
+   },
+   "extracted_response": "C) drop in the sea"
 }

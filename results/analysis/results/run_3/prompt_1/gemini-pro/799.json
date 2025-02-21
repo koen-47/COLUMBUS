@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"GRORUND\", which can be interpreted as a stylized version of \"Go Round\".  While none of the options perfectly match this, the closest in meaning would likely be **(D) run into the ground**.  This phrase implies overuse or exhaustion, similar to the cyclical nature of going around and around.\n\nThe other options aren't as fitting:\n\n* **(A) go to ground:**  Means to hide or go into hiding.\n* **(B) hit the ground running:**  Means to start something energetically and efficiently.\n* **(C) put in the ground:** Means to bury something.\n\n\nSo, although imperfect, (D) is the most plausible interpretation given the provided options.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to ground (B) hit the ground running (C) put in the ground (D) run into the ground",
-    "answer": {
-        "D": "run into the ground"
-    }
+   "gemini_pro_response": "The image says \"GRORUND\", which can be interpreted as a stylized version of \"Go Round\".  While none of the options perfectly match this, the closest in meaning would likely be **(D) run into the ground**.  This phrase implies overuse or exhaustion, similar to the cyclical nature of going around and around.\n\nThe other options aren't as fitting:\n\n* **(A) go to ground:**  Means to hide or go into hiding.\n* **(B) hit the ground running:**  Means to start something energetically and efficiently.\n* **(C) put in the ground:** Means to bury something.\n\n\nSo, although imperfect, (D) is the most plausible interpretation given the provided options.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to ground (B) hit the ground running (C) put in the ground (D) run into the ground",
+   "answer": {
+      "D": "run into the ground"
+   },
+   "extracted_response": "D) run into the ground"
 }

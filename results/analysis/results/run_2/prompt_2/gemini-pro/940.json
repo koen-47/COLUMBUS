@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows \"20\" placed above another \"20,\" with \"12\" to the right. This represents \"twenty\" on top of \"twenty,\" making \"plenty.\"  The \"12\" represents a dozen.  Therefore, the answer is (D) a dime a dozen, which is an idiom meaning something is plentiful or common.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) decimal dozen (B) cheaper by the dozen (C) twenty to the dozen (D) a dime a dozen",
-    "answer": {
-        "C": "twenty to the dozen"
-    }
+   "gemini_pro_response": "The rebus puzzle shows \"20\" placed above another \"20,\" with \"12\" to the right. This represents \"twenty\" on top of \"twenty,\" making \"plenty.\"  The \"12\" represents a dozen.  Therefore, the answer is (D) a dime a dozen, which is an idiom meaning something is plentiful or common.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) decimal dozen (B) cheaper by the dozen (C) twenty to the dozen (D) a dime a dozen",
+   "answer": {
+      "C": "twenty to the dozen"
+   },
+   "extracted_response": "D) a dime a dozen"
 }

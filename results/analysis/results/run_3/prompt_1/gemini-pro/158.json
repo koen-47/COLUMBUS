@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (A) crossovers.  The word \"OVER\" is crossed over twice.  This is the plural form, representing multiple crossovers.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossovers (B) crossover (C) overcrossing (D) crosscuts",
-    "answer": {
-        "A": "crossovers"
-    }
+   "gemini_pro_response": "The image conveys (A) crossovers.  The word \"OVER\" is crossed over twice.  This is the plural form, representing multiple crossovers.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossovers (B) crossover (C) overcrossing (D) crosscuts",
+   "answer": {
+      "A": "crossovers"
+   },
+   "extracted_response": "A) crossovers"
 }

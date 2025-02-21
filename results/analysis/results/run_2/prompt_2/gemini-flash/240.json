@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) wheel within a wheel.\n\nThe rebus shows the word \"BUTTERFLY\" above a line, and the word \"WHEEL\" below the line.  This signifies that a \"butterfly\" is *under* or *within* a \"wheel\".  Therefore, the solution is \"butterfly within a wheel\".  The closest option is (D).\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wheel away (B) butterfly upon a wheel (C) butterfly (D) wheel within a wheel",
-    "answer": {
-        "B": "butterfly upon a wheel"
-    }
+   "gemini_pro_response": "The correct answer is (D) wheel within a wheel.\n\nThe rebus shows the word \"BUTTERFLY\" above a line, and the word \"WHEEL\" below the line.  This signifies that a \"butterfly\" is *under* or *within* a \"wheel\".  Therefore, the solution is \"butterfly within a wheel\".  The closest option is (D).\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wheel away (B) butterfly upon a wheel (C) butterfly (D) wheel within a wheel",
+   "answer": {
+      "B": "butterfly upon a wheel"
+   },
+   "extracted_response": "D) wheel within a wheel"
 }

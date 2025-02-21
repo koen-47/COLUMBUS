@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"money for jam.\" This is derived from the four money icons (\ud83d\udcb5) representing \"money\" and the word \"JAM\" next to it. \n\nSo, the correct answer is (B) money for jam.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udcb5, repeat: 4, icon: (money: \ud83d\udcb5), sound: (for: 4))\nNode 2 attributes: (text: JAM, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) jam today (B) money for jam (C) jampot (D) jam tomorrow",
-    "answer": {
-        "B": "money for jam"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"money for jam.\" This is derived from the four money icons (\ud83d\udcb5) representing \"money\" and the word \"JAM\" next to it. \n\nSo, the correct answer is (B) money for jam.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udcb5, repeat: 4, icon: (money: \ud83d\udcb5), sound: (for: 4))\nNode 2 attributes: (text: JAM, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) jam today (B) money for jam (C) jampot (D) jam tomorrow",
+   "answer": {
+      "B": "money for jam"
+   },
+   "extracted_response": "B) money for jam"
 }

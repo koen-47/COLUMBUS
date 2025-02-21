@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"cut red tape.\" The word \"TAPE\" is in red, suggesting \"red tape,\" and the animation implies cutting. Therefore, the answer is (D) cut red tape.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red tape (B) tapeline (C) play the same tape (D) cut red tape",
-    "answer": {
-        "A": "red tape"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"cut red tape.\" The word \"TAPE\" is in red, suggesting \"red tape,\" and the animation implies cutting. Therefore, the answer is (D) cut red tape.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red tape (B) tapeline (C) play the same tape (D) cut red tape",
+   "answer": {
+      "A": "red tape"
+   },
+   "extracted_response": "D) cut red tape"
 }

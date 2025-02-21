@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **take to the bank**.  The image shows the words \"TAKE\" stacked vertically above \"TAKE\" and the word \"BANK\" to the right.  This visually represents the phrase \"take to the bank\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break the bank (B) bank night (C) laugh all the way to the bank (D) take to the bank",
-    "answer": {
-        "D": "take to the bank"
-    }
+   "gemini_pro_response": "The correct answer is (D) **take to the bank**.  The image shows the words \"TAKE\" stacked vertically above \"TAKE\" and the word \"BANK\" to the right.  This visually represents the phrase \"take to the bank\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break the bank (B) bank night (C) laugh all the way to the bank (D) take to the bank",
+   "answer": {
+      "D": "take to the bank"
+   },
+   "extracted_response": "D) take to the bank"
 }

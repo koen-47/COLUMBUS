@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (D) bone in the throat.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone in her teeth (B) lump in one's throat (C) funny bone (D) bone in the throat",
-    "answer": {
-        "D": "bone in the throat"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (D) bone in the throat.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone in her teeth (B) lump in one's throat (C) funny bone (D) bone in the throat",
+   "answer": {
+      "D": "bone in the throat"
+   },
+   "extracted_response": "D) bone in the throat"
 }

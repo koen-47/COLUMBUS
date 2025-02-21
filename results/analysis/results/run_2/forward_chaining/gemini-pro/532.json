@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two hands shaking, forming a heart shape. This represents a handshake.\n\n* **(A) golden handshake:**  A golden handshake refers to a large payment or other financial incentives given to an employee upon their termination. The image doesn't depict any money or financial incentives.\n* **(B) handshake:** This is a direct representation of the image.\n* **(C) handshaking:**  While the image does show the act of handshaking, the noun \"handshake\" is more appropriate. \"Handshaking\" is usually used as a verb or adjective (e.g., \"they are handshaking,\" \"a handshaking agreement\").\n* **(D) green handshake:** While the image is green, \"green handshake\" typically refers to agreements relating to environmental concerns, sustainability, or ethical business practices. There's nothing in the image to suggest this.\n\nTherefore, the answer is (B) handshake.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\nI'm unable to identify or describe the content of the image.\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) golden handshake (B) handshake (C) handshaking (D) green handshake\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "green handshake"
+    }
+}

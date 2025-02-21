@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts the words \"GET,\" a firework, and a factory.  This conveys the phrase \"Get to the fireworks factory\" (C).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) firework (B) fireworks (C) get to the fireworks factory (D) firecrackers",
-    "answer": {
-        "C": "get to the fireworks factory"
-    }
+   "gemini_pro_response": "The image depicts the words \"GET,\" a firework, and a factory.  This conveys the phrase \"Get to the fireworks factory\" (C).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) firework (B) fireworks (C) get to the fireworks factory (D) firecrackers",
+   "answer": {
+      "C": "get to the fireworks factory"
+   },
+   "extracted_response": "C"
 }

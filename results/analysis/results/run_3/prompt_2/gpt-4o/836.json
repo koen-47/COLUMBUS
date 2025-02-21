@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"small window of time.\" The small window icon combined with the clock suggests this phrase. So, the answer is (A) small window of time.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small window of time (B) matter of time (C) window on the world (D) make time",
-    "answer": {
-        "A": "small window of time"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"small window of time.\" The small window icon combined with the clock suggests this phrase. So, the answer is (A) small window of time.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small window of time (B) matter of time (C) window on the world (D) make time",
+   "answer": {
+      "A": "small window of time"
+   },
+   "extracted_response": "A) small window of time"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) paint the town red.\n\nThe word \"TOWN\" is written in red, suggesting that the town is being \"painted\" red.  This is a reference to the idiom \"paint the town red,\" which means to celebrate wildly and noisily.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn a number of shades of red (B) paint the town red (C) paint the wagon (D) town and gown",
-    "answer": {
-        "B": "paint the town red"
-    }
+   "gemini_pro_response": "The correct answer is (B) paint the town red.\n\nThe word \"TOWN\" is written in red, suggesting that the town is being \"painted\" red.  This is a reference to the idiom \"paint the town red,\" which means to celebrate wildly and noisily.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn a number of shades of red (B) paint the town red (C) paint the wagon (D) town and gown",
+   "answer": {
+      "B": "paint the town red"
+   },
+   "extracted_response": "B"
 }

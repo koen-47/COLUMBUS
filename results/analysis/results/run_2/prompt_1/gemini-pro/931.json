@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys **(D) turn on its head**.\n\nThe refresh/reload symbol above \"ITS\" suggests a reversal or change, and the surprised face reinforces that something unexpected or inverting has happened. This aligns with the idiom \"turn on its head,\" which means to completely change something, often in a surprising way.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) use one's head (B) turn heads (C) turn someone's head (D) turn on its head",
-    "answer": {
-        "D": "turn on its head"
-    }
+   "gemini_pro_response": "The image conveys **(D) turn on its head**.\n\nThe refresh/reload symbol above \"ITS\" suggests a reversal or change, and the surprised face reinforces that something unexpected or inverting has happened. This aligns with the idiom \"turn on its head,\" which means to completely change something, often in a surprising way.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) use one's head (B) turn heads (C) turn someone's head (D) turn on its head",
+   "answer": {
+      "D": "turn on its head"
+   },
+   "extracted_response": "D) turn on its head"
 }

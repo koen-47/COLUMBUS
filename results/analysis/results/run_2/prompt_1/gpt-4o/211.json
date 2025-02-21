@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (A) bust a cap.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust a cap (B) cap in hand (C) hat in hand (D) set one's cap at",
-    "answer": {
-        "B": "cap in hand"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) bust a cap.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust a cap (B) cap in hand (C) hat in hand (D) set one's cap at",
+   "answer": {
+      "B": "cap in hand"
+   },
+   "extracted_response": "A) bust a cap"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"CHRISSake\" repeated multiple times. This suggests emphasis on the word \"chrissake.\" \n\nThe correct answer is (D) for chrissake.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what for (B) for show (C) for crying out loud (D) for chrissake",
-    "answer": {
-        "D": "for chrissake"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"CHRISSake\" repeated multiple times. This suggests emphasis on the word \"chrissake.\" \n\nThe correct answer is (D) for chrissake.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what for (B) for show (C) for crying out loud (D) for chrissake",
+   "answer": {
+      "D": "for chrissake"
+   },
+   "extracted_response": "D) for chrissake"
 }

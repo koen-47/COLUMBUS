@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(A) too close to call**.\n\nThe rebus shows the phrase \"CLOSE CALL\" repeated twice, one directly on top of the other.  This visually represents something being \"too close to call\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) too close to call (B) close call (C) come to a close (D) call out",
-    "answer": {
-        "A": "too close to call"
-    }
+   "gemini_pro_response": "The answer is **(A) too close to call**.\n\nThe rebus shows the phrase \"CLOSE CALL\" repeated twice, one directly on top of the other.  This visually represents something being \"too close to call\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) too close to call (B) close call (C) come to a close (D) call out",
+   "answer": {
+      "A": "too close to call"
+   },
+   "extracted_response": "A) too close to call"
 }

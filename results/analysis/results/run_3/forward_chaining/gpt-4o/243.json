@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the letter \"K\" followed by the word \"TILLER,\" which together form the word \"KILLER.\" \n\nMapping this to the answer choices:\n- (A) giant killer\n- (B) sleeping giant\n- (C) silent killer\n- (D) killer instinct\n\nThe correct answer is (C) silent killer.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"K\",\n    \"description\": \"The letter 'K' in uppercase.\",\n    \"relation\": \"Part of the word 'KILLER'.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"TILLER\",\n    \"description\": \"The word 'TILLER' in uppercase.\",\n    \"relation\": \"Part of the word 'KILLER'.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) giant killer (B) sleeping giant (C) silent killer (D) killer instinct\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "giant killer"
+    }
+}

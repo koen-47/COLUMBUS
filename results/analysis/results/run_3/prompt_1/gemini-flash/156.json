@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(D) in the crosshairs**.\n\nThe image shows the word \"HAIR\" with lines through the letters \"H\" and \"R\". This visually represents the concept of being \"in the crosshairs,\" which means being the target of attention, scrutiny, or danger.  The other options don't fit this visual representation.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wirehairs (B) crosshairs (C) wirehair (D) in the crosshairs",
-    "answer": {
-        "B": "crosshairs"
-    }
+   "gemini_pro_response": "The correct answer is **(D) in the crosshairs**.\n\nThe image shows the word \"HAIR\" with lines through the letters \"H\" and \"R\". This visually represents the concept of being \"in the crosshairs,\" which means being the target of attention, scrutiny, or danger.  The other options don't fit this visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wirehairs (B) crosshairs (C) wirehair (D) in the crosshairs",
+   "answer": {
+      "B": "crosshairs"
+   },
+   "extracted_response": "D) in the crosshairs"
 }

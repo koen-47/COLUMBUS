@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows a cityscape at night (\ud83c\udf03) with arrows pointing above and below it. This indicates a repositioning of \"night\", implying \"after dark\". The description confirms this with \"highlight: after\". Therefore, the answer is (A) after dark.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83c\udf03, repeat: 1, highlight: after, icon: (dark: \ud83c\udf03))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) after dark (B) dark cloud (C) shot in the dark (D) in the dark",
-    "answer": {
-        "A": "after dark"
-    }
+   "gemini_pro_response": "The image shows a cityscape at night (\ud83c\udf03) with arrows pointing above and below it. This indicates a repositioning of \"night\", implying \"after dark\". The description confirms this with \"highlight: after\". Therefore, the answer is (A) after dark.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83c\udf03, repeat: 1, highlight: after, icon: (dark: \ud83c\udf03))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) after dark (B) dark cloud (C) shot in the dark (D) in the dark",
+   "answer": {
+      "A": "after dark"
+   },
+   "extracted_response": "A) after dark"
 }

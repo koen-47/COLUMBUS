@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (A) castle in the air.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) castle in the air (B) king of the castle (C) in the air (D) castles in the air",
-    "answer": {
-        "A": "castle in the air"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) castle in the air.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) castle in the air (B) king of the castle (C) in the air (D) castles in the air",
+   "answer": {
+      "A": "castle in the air"
+   },
+   "extracted_response": "A) castle in the air"
 }

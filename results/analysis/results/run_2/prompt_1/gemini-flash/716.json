@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) off on the wrong foot.\n\nThe image shows the words \"OFF\" and \"WRONG\" with a small drawing of a foot.  This visually represents the idiom \"off on the wrong foot,\" meaning to make a bad start.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a foot wrong (B) start off on the wrong foot (C) off the back foot (D) off on the wrong foot",
-    "answer": {
-        "D": "off on the wrong foot"
-    }
+   "gemini_pro_response": "The correct answer is (D) off on the wrong foot.\n\nThe image shows the words \"OFF\" and \"WRONG\" with a small drawing of a foot.  This visually represents the idiom \"off on the wrong foot,\" meaning to make a bad start.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a foot wrong (B) start off on the wrong foot (C) off the back foot (D) off on the wrong foot",
+   "answer": {
+      "D": "off on the wrong foot"
+   },
+   "extracted_response": "D) off on the wrong foot"
 }

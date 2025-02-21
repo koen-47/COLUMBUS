@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts \"TIME\" outside of a box containing \"MIND.\" This represents **(C) time out**.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of mind (B) time out of mind (C) time out (D) out of one's mind",
-    "answer": {
-        "B": "time out of mind"
-    }
+   "gemini_pro_response": "The image depicts \"TIME\" outside of a box containing \"MIND.\" This represents **(C) time out**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of mind (B) time out of mind (C) time out (D) out of one's mind",
+   "answer": {
+      "B": "time out of mind"
+   },
+   "extracted_response": "C) time out"
 }

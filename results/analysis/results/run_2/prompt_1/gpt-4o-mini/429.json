@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) dig out of a hole.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig deep (B) dig oneself in a hole (C) dig out of a hole (D) blow a hole through",
-    "answer": {
-        "C": "dig out of a hole"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) dig out of a hole.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig deep (B) dig oneself in a hole (C) dig out of a hole (D) blow a hole through",
+   "answer": {
+      "C": "dig out of a hole"
+   },
+   "extracted_response": "C"
 }

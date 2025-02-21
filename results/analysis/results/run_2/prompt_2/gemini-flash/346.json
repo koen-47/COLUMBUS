@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) my bad.\n\nThe image shows the word \"BAD\" with an upward-pointing arrow underneath and a downward-pointing arrow above. This visually represents the word \"BAD\" being turned upside down (\"upside down BAD\" becomes \"my bad\").",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) it's all good (B) too bad (C) good grief (D) my bad",
-    "answer": {
-        "D": "my bad"
-    }
+   "gemini_pro_response": "The correct answer is (D) my bad.\n\nThe image shows the word \"BAD\" with an upward-pointing arrow underneath and a downward-pointing arrow above. This visually represents the word \"BAD\" being turned upside down (\"upside down BAD\" becomes \"my bad\").",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) it's all good (B) too bad (C) good grief (D) my bad",
+   "answer": {
+      "D": "my bad"
+   },
+   "extracted_response": "D) my bad"
 }

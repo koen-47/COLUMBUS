@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) takes two to tango.\n\nThe image shows the phrase \"TAKES TANGO\" repeated twice.  The graph description indicates that \"TAKES\" is repeated twice and has a sound element associated with \"two,\" and similarly, \"TANGO\" is repeated twice with a sound element associated with \"to.\"  This directly translates to the idiom \"It takes two to tango,\" which is essentially the same meaning as option A, and other options don't match the structure of the image and description.\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: TAKES, repeat: 2, sound: (two: 2))\nNode 2 attributes: (text: TANGO, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) takes two to tango (B) turn two (C) horizontal tango (D) it takes two to make a quarrel",
-    "answer": {
-        "A": "takes two to tango"
-    }
+   "gemini_pro_response": "The correct answer is (A) takes two to tango.\n\nThe image shows the phrase \"TAKES TANGO\" repeated twice.  The graph description indicates that \"TAKES\" is repeated twice and has a sound element associated with \"two,\" and similarly, \"TANGO\" is repeated twice with a sound element associated with \"to.\"  This directly translates to the idiom \"It takes two to tango,\" which is essentially the same meaning as option A, and other options don't match the structure of the image and description.\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: TAKES, repeat: 2, sound: (two: 2))\nNode 2 attributes: (text: TANGO, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) takes two to tango (B) turn two (C) horizontal tango (D) it takes two to make a quarrel",
+   "answer": {
+      "A": "takes two to tango"
+   },
+   "extracted_response": "A) takes two to tango"
 }

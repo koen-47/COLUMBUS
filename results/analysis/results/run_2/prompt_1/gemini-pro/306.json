@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"close on the heels of\" (D).  \"Close\" is directly above \"heels\" with a dividing line.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) dig heels in (C) on the heels of (D) close on the heels of",
-    "answer": {
-        "D": "close on the heels of"
-    }
+   "gemini_pro_response": "The image conveys \"close on the heels of\" (D).  \"Close\" is directly above \"heels\" with a dividing line.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) dig heels in (C) on the heels of (D) close on the heels of",
+   "answer": {
+      "D": "close on the heels of"
+   },
+   "extracted_response": "D) close on the heels of"
 }

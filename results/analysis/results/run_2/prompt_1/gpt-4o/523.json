@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(D) for my money",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the money (B) for the love of me (C) for the love of (D) for my money",
-    "answer": {
-        "D": "for my money"
-    }
+   "gpt4v_response": "(D) for my money",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the money (B) for the love of me (C) for the love of (D) for my money",
+   "answer": {
+      "D": "for my money"
+   },
+   "extracted_response": "D) for my money"
 }

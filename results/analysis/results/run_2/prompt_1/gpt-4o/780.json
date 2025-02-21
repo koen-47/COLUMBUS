@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(C) roll out the red carpet",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roll in the aisles (B) red carpet treatment (C) roll out the red carpet (D) under the carpet",
-    "answer": {
-        "C": "roll out the red carpet"
-    }
+   "gpt4v_response": "(C) roll out the red carpet",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roll in the aisles (B) red carpet treatment (C) roll out the red carpet (D) under the carpet",
+   "answer": {
+      "C": "roll out the red carpet"
+   },
+   "extracted_response": "C) roll out the red carpet"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **whip up a storm**.\n\nThe image shows the letters \"PIHW\" which is a phonetic representation of \"Pie-H-W\"  and the image of a cloud with lightning symbolizes a storm.  This together suggests the idiom \"whip up a storm,\" which means to create a lot of excitement or commotion, often in a culinary or creative context (like whipping up a dish).  The other options don't fit this visual combination as well.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take by storm (B) cook up a storm (C) whip up a storm (D) storm off",
-    "answer": {
-        "C": "whip up a storm"
-    }
+   "gemini_pro_response": "The correct answer is (C) **whip up a storm**.\n\nThe image shows the letters \"PIHW\" which is a phonetic representation of \"Pie-H-W\"  and the image of a cloud with lightning symbolizes a storm.  This together suggests the idiom \"whip up a storm,\" which means to create a lot of excitement or commotion, often in a culinary or creative context (like whipping up a dish).  The other options don't fit this visual combination as well.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take by storm (B) cook up a storm (C) whip up a storm (D) storm off",
+   "answer": {
+      "C": "whip up a storm"
+   },
+   "extracted_response": "C) whip up a storm"
 }

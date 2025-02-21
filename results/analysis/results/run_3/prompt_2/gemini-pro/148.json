@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) cross out.\n\nThe image shows \"\u20132\" and \"EKAT\".  \"\u20132\" looks like crossing something out, and \"EKAT\" is \"TAKE\" backward. Put together, they represent **cross out take**.  This leads to the answer **cross out**.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross off (D) cross out",
-    "answer": {
-        "B": "cross to take up"
-    }
+   "gemini_pro_response": "The answer is (C) cross out.\n\nThe image shows \"\u20132\" and \"EKAT\".  \"\u20132\" looks like crossing something out, and \"EKAT\" is \"TAKE\" backward. Put together, they represent **cross out take**.  This leads to the answer **cross out**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross off (D) cross out",
+   "answer": {
+      "B": "cross to take up"
+   },
+   "extracted_response": "D) cross out"
 }

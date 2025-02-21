@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) close to home.  The image uses the word \"CLOSE\" twice, visually referencing proximity, and includes a house icon representing home.  This directly conveys the meaning of \"close to home\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) home away from home (B) at home (C) close to home (D) hit too close to home",
-    "answer": {
-        "C": "close to home"
-    }
+   "gemini_pro_response": "The correct answer is (C) close to home.  The image uses the word \"CLOSE\" twice, visually referencing proximity, and includes a house icon representing home.  This directly conveys the meaning of \"close to home\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) home away from home (B) at home (C) close to home (D) hit too close to home",
+   "answer": {
+      "C": "close to home"
+   },
+   "extracted_response": "C) close to home"
 }

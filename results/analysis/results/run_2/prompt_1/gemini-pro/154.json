@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys **(B) crossbreed**.  The line crossing through \"BREEDING\" visually represents the concept of \"cross.\" Thus, it combines to form \"crossbreed.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossbreeding (B) crossbreed (C) offspring (D) crossbreeds",
-    "answer": {
-        "A": "crossbreeding"
-    }
+   "gemini_pro_response": "The image conveys **(B) crossbreed**.  The line crossing through \"BREEDING\" visually represents the concept of \"cross.\" Thus, it combines to form \"crossbreed.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossbreeding (B) crossbreed (C) offspring (D) crossbreeds",
+   "answer": {
+      "A": "crossbreeding"
+   },
+   "extracted_response": "B) crossbreed"
 }

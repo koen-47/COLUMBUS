@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image clearly shows the word \"BUCKS\".  While \"bucks\" is part of each phrase in the multiple-choice options, the image itself simply conveys \"bucks.\"  Therefore, none of the provided options are a perfect match, but \"bucks\" on its own would be the most accurate. Since the options are restricted to A, B, C, or D, and \"the big bucks\" (B) is the closest, B would be the most reasonable answer.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bighorns (B) the big bucks (C) bucksaws (D) buckskin",
-    "answer": {
-        "B": "the big bucks"
-    }
+   "gemini_pro_response": "The image clearly shows the word \"BUCKS\".  While \"bucks\" is part of each phrase in the multiple-choice options, the image itself simply conveys \"bucks.\"  Therefore, none of the provided options are a perfect match, but \"bucks\" on its own would be the most accurate. Since the options are restricted to A, B, C, or D, and \"the big bucks\" (B) is the closest, B would be the most reasonable answer.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bighorns (B) the big bucks (C) bucksaws (D) buckskin",
+   "answer": {
+      "B": "the big bucks"
+   },
+   "extracted_response": "B) the big bucks"
 }

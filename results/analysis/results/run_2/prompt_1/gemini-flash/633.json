@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **bigger fish to fry**.\n\nThe image shows two fish and the word \"FRY\".  This visually represents the idiom \"bigger fish to fry,\" which implies that there are more important matters to attend to.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish to fry (B) bigger fish to fry (C) fry up (D) go fish",
-    "answer": {
-        "A": "fish to fry"
-    }
+   "gemini_pro_response": "The correct answer is (B) **bigger fish to fry**.\n\nThe image shows two fish and the word \"FRY\".  This visually represents the idiom \"bigger fish to fry,\" which implies that there are more important matters to attend to.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish to fry (B) bigger fish to fry (C) fry up (D) go fish",
+   "answer": {
+      "A": "fish to fry"
+   },
+   "extracted_response": "B) bigger fish to fry"
 }

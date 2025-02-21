@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) **come into one's own**.\n\nThe image shows \"1111COMEOWN\", which is a visual representation of the phrase \"come into one's own\".  The repeated \"1\"s visually represent the \"one's\" aspect of the phrase.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into one's own (B) come to oneself (C) go one's own way (D) do one's own thing",
-    "answer": {
-        "A": "come into one's own"
-    }
+   "gemini_pro_response": "The correct answer is (A) **come into one's own**.\n\nThe image shows \"1111COMEOWN\", which is a visual representation of the phrase \"come into one's own\".  The repeated \"1\"s visually represent the \"one's\" aspect of the phrase.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into one's own (B) come to oneself (C) go one's own way (D) do one's own thing",
+   "answer": {
+      "A": "come into one's own"
+   },
+   "extracted_response": "A) come into one's own"
 }

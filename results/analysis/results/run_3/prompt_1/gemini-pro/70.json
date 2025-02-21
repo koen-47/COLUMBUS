@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows \"OL'\".  This corresponds to options A and C. Since \"ole\" is the more common spelling of this colloquial term, the most likely answer is **(C) big ole**.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big ol' (B) big name (C) big ole (D) big shot",
-    "answer": {
-        "A": "big ol'"
-    }
+   "gemini_pro_response": "The image shows \"OL'\".  This corresponds to options A and C. Since \"ole\" is the more common spelling of this colloquial term, the most likely answer is **(C) big ole**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big ol' (B) big name (C) big ole (D) big shot",
+   "answer": {
+      "A": "big ol'"
+   },
+   "extracted_response": "C) big ole"
 }

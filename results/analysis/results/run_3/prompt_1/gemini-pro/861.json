@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts the phrase **(B) stars in one's eyes**.\n\nThe number \"1111\" resembles the phrase \"one one one one\", which can be simplified as \"one's one's\", or more naturally, \"one's\". Then we have two stars followed by a pair of eyes. Put together, the image represents \"one's stars eyes\", which closely relates to the idiom \"stars in one's eyes\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) written in the stars (B) stars in one's eyes (C) believe one's eyes (D) see stars",
-    "answer": {
-        "B": "stars in one's eyes"
-    }
+   "gemini_pro_response": "The image depicts the phrase **(B) stars in one's eyes**.\n\nThe number \"1111\" resembles the phrase \"one one one one\", which can be simplified as \"one's one's\", or more naturally, \"one's\". Then we have two stars followed by a pair of eyes. Put together, the image represents \"one's stars eyes\", which closely relates to the idiom \"stars in one's eyes\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) written in the stars (B) stars in one's eyes (C) believe one's eyes (D) see stars",
+   "answer": {
+      "B": "stars in one's eyes"
+   },
+   "extracted_response": "B) stars in one's eyes"
 }

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the letter \"I\" repeated four times vertically on the left side and the text \"AN EYE\" on the right side. This setup represents the phrase \"Four I's and an eye,\" which sounds like \"eye for an eye.\"\n\nTherefore, the correct answer is:\n\n(D) eye for an eye",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Letter I\",\n        \"description\": \"The letter 'I' repeated four times vertically.\",\n        \"relation\": \"Left side of the image, aligned vertically.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Text AN EYE\",\n        \"description\": \"The text 'AN EYE' in capital letters.\",\n        \"relation\": \"Right side of the image, aligned horizontally.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) one in the eye for (B) see eye to eye (C) have an eye for (D) eye for an eye\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "eye for an eye"
+    }
+}

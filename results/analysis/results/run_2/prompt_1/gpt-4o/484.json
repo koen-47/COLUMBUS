@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) tie in with.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tie up (B) tie in (C) tie in with (D) tie one on",
-    "answer": {
-        "C": "tie in with"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) tie in with.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tie up (B) tie in (C) tie in with (D) tie one on",
+   "answer": {
+      "C": "tie in with"
+   },
+   "extracted_response": "C, tie in with"
 }

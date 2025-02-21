@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows a clock in the middle with arrows pointing towards it from the top and bottom. This represents the word \"mid\" + \"watch\" = \"midwatch\".\n\n(A) midgame: Although there is a clock, it doesn't suggest a \"game\" context.\n(B) midwatch: The clock in the middle, combined with the arrows from top and bottom converging on it, can represent \"mid\" and the clock can mean \"watch\".\n(C) stopwatch: The clock isn't a \"stopwatch\" and there's no indication of stopping.\n(D) deathwatch: This is unrelated to the image.\n\nThe answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"clock\",\n  \"description\": \"A small clock icon with hands pointing to 3 o'clock.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) midgame (B) midwatch (C) stopwatch (D) deathwatch\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "midwatch"
+    }
+}

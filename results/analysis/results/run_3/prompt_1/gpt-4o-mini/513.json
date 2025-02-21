@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) to hell in a handbasket.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to hell (B) raise hell (C) to hell in a handbasket (D) handbasket",
-    "answer": {
-        "C": "to hell in a handbasket"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) to hell in a handbasket.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to hell (B) raise hell (C) to hell in a handbasket (D) handbasket",
+   "answer": {
+      "C": "to hell in a handbasket"
+   },
+   "extracted_response": "C"
 }

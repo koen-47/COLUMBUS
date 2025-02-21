@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the word \"LIFE\" twice, each time followed by a downward arrow and then an upward arrow. This symbolizes death (downward arrow) and rebirth or continuation (upward arrow) happening after each life. This best corresponds to (D) afterlives.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftertastes (B) afterthought (C) afterthoughts (D) afterlives",
-    "answer": {
-        "D": "afterlives"
-    }
+   "gemini_pro_response": "The image shows the word \"LIFE\" twice, each time followed by a downward arrow and then an upward arrow. This symbolizes death (downward arrow) and rebirth or continuation (upward arrow) happening after each life. This best corresponds to (D) afterlives.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftertastes (B) afterthought (C) afterthoughts (D) afterlives",
+   "answer": {
+      "D": "afterlives"
+   },
+   "extracted_response": "D) afterlives"
 }

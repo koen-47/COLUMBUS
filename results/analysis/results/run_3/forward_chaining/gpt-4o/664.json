@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"TOLONGOTH.\" This can be broken down into \"TO LONG OTH,\" which sounds like \"TOOTH\" with \"LONG\" in the middle. This corresponds to the phrase \"long in the tooth.\"\n\nThe correct answer is (D) long in the tooth.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'TOLONGOTH' in bold, black uppercase letters.\",\n  \"relation\": \"centered in the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) hen's tooth (B) long finger (C) spicy tooth (D) long in the tooth\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "long in the tooth"
+    }
+}

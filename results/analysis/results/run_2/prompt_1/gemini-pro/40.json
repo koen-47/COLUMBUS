@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) cap in hand.  The idiom \"cap in hand\" means humbly or submissively, often when asking for something.  The image depicts two open hands as if offering or holding a cap.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hat in hand (B) set one's cap at (C) cap in hand (D) bust a cap",
-    "answer": {
-        "C": "cap in hand"
-    }
+   "gemini_pro_response": "The image conveys (C) cap in hand.  The idiom \"cap in hand\" means humbly or submissively, often when asking for something.  The image depicts two open hands as if offering or holding a cap.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hat in hand (B) set one's cap at (C) cap in hand (D) bust a cap",
+   "answer": {
+      "C": "cap in hand"
+   },
+   "extracted_response": "C) cap in hand"
 }

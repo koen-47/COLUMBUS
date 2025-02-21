@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"OCEAN\" is crossed out. This signifies removing or negating the word.  Crossing something out is also visually similar to crossing something off a list.\n\nTherefore, the answer is (C) cross the ocean.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"word_ocean\",\n  \"description\": \"The word 'OCEAN' with a horizontal line striking through the middle of the letters.\",\n  \"relation\": \"none\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) a drop in the ocean (B) motion of someone's ocean (C) cross the ocean (D) drop in the ocean\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "cross the ocean"
+    }
+}

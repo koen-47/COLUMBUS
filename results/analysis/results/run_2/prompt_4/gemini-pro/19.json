@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows the word LIFE with an arrow pointing down after it and an arrow pointing up after it. This implies \"life after death\". The description supports this as it says \"LIFE, repeat: 2, highlight: after\". This means there are two different parts of the puzzle both related to LIFE, and we have to emphasize what happens *after* LIFE.\n\nThus, the answer is (C) afterlife.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: LIFE, repeat: 2, highlight: after)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) graveyard (B) good life (C) afterlife (D) living death",
-    "answer": {
-        "C": "afterlife"
-    }
+   "gemini_pro_response": "The rebus shows the word LIFE with an arrow pointing down after it and an arrow pointing up after it. This implies \"life after death\". The description supports this as it says \"LIFE, repeat: 2, highlight: after\". This means there are two different parts of the puzzle both related to LIFE, and we have to emphasize what happens *after* LIFE.\n\nThus, the answer is (C) afterlife.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: LIFE, repeat: 2, highlight: after)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) graveyard (B) good life (C) afterlife (D) living death",
+   "answer": {
+      "C": "afterlife"
+   },
+   "extracted_response": "C) afterlife"
 }

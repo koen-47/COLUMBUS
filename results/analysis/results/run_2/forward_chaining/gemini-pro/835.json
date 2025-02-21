@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"PRICE\" on the left and the word \"PAY\" written twice on the right. This represents \"PRICE\" then \"PAY PAY\" or, put another way, \"small PRICE to PAY\".\n\nTherefore, the answer is (D).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Text PRICE\",\n        \"description\": \"The word 'PRICE' written in uppercase letters.\",\n        \"relation\": \"Located in the left part of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Text PAY\",\n        \"description\": \"The word 'PAY' written in uppercase letters.\",\n        \"relation\": \"Located in the upper right part of the image.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"Text PAY\",\n        \"description\": \"The word 'PAY' written in uppercase letters.\",\n        \"relation\": \"Located directly below the first 'PAY' in the right part of the image.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) price is right (B) small fortune (C) smallholders (D) small price to pay\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "small price to pay"
+    }
+}

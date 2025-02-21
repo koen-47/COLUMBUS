@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"walk on broken glass.\" The word \"WALK\" is positioned above \"BROKEN\" and \"GLASS,\" suggesting the action of walking on something. Therefore, the correct answer is (C) walk on broken glass.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) glass ceiling (B) glasswork (C) walk on broken glass (D) turn down a glass",
-    "answer": {
-        "C": "walk on broken glass"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"walk on broken glass.\" The word \"WALK\" is positioned above \"BROKEN\" and \"GLASS,\" suggesting the action of walking on something. Therefore, the correct answer is (C) walk on broken glass.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) glass ceiling (B) glasswork (C) walk on broken glass (D) turn down a glass",
+   "answer": {
+      "C": "walk on broken glass"
+   },
+   "extracted_response": "C) walk on broken glass"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) middleman.\n\nThe rebus shows a man (\ud83d\udc68) positioned in the middle of two arrows pointing up and down, indicating \"middle\".  Therefore, the image represents a \"middle man\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc68, repeat: 2, highlight: middle, icon: (man: \ud83d\udc68))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) midshipman (B) middlemen (C) main man (D) middleman",
-    "answer": {
-        "D": "middleman"
-    }
+   "gemini_pro_response": "The correct answer is (D) middleman.\n\nThe rebus shows a man (\ud83d\udc68) positioned in the middle of two arrows pointing up and down, indicating \"middle\".  Therefore, the image represents a \"middle man\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc68, repeat: 2, highlight: middle, icon: (man: \ud83d\udc68))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) midshipman (B) middlemen (C) main man (D) middleman",
+   "answer": {
+      "D": "middleman"
+   },
+   "extracted_response": "D) middleman"
 }

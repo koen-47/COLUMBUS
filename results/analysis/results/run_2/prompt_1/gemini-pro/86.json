@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows two instances of the word \"PRINT,\" with the bottom one being noticeably smaller. This suggests the concept of **(C) small print**.  The other options aren't represented visually.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blueprint (B) offprints (C) small print (D) blueprints",
-    "answer": {
-        "D": "blueprints"
-    }
+   "gemini_pro_response": "The image shows two instances of the word \"PRINT,\" with the bottom one being noticeably smaller. This suggests the concept of **(C) small print**.  The other options aren't represented visually.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blueprint (B) offprints (C) small print (D) blueprints",
+   "answer": {
+      "D": "blueprints"
+   },
+   "extracted_response": "C) small print"
 }

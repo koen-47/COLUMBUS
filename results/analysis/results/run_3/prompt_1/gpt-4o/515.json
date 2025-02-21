@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The phrase conveyed in the image is (B) to say the least.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not in the least (B) to say the least (C) at the very least (D) in the least",
-    "answer": {
-        "B": "to say the least"
-    }
+   "gpt4v_response": "The phrase conveyed in the image is (B) to say the least.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not in the least (B) to say the least (C) at the very least (D) in the least",
+   "answer": {
+      "B": "to say the least"
+   },
+   "extracted_response": "B"
 }

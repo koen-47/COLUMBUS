@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The text is \"COAT\". The color is red. It is repeated once (2 total). This implies \"red COAT\".\n\nThus the answer is (D) redcoat.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: COAT, color: red, repeat: 2)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) redcoats (B) turncoat (C) bluecoat (D) redcoat",
-    "answer": {
-        "D": "redcoat"
-    }
+   "gemini_pro_response": "The text is \"COAT\". The color is red. It is repeated once (2 total). This implies \"red COAT\".\n\nThus the answer is (D) redcoat.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: COAT, color: red, repeat: 2)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) redcoats (B) turncoat (C) bluecoat (D) redcoat",
+   "answer": {
+      "D": "redcoat"
+   },
+   "extracted_response": "D) redcoat"
 }

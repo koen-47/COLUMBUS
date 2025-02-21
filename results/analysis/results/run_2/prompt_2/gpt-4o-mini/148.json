@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle you provided can be interpreted as follows:\n\n- The \"2\" can represent \"to\" or \"too.\"\n- The \"K\" can be interpreted as \"K\" or \"OK.\"\n- The \"E\" can be seen as \"E\" or \"eat.\"\n- The \"A\" can represent \"A\" or \"a.\"\n- The \"T\" can represent \"T\" or \"tea.\"\n\nPutting these together, it sounds like \"to K eat A T,\" which phonetically resembles \"to take a break.\"\n\nHowever, based on the options provided, the closest match would be:\n\n**(B) cross to take up.**\n\nThis interpretation aligns with the idea of \"cross\" and \"take up.\"",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross off (D) cross out",
-    "answer": {
-        "B": "cross to take up"
-    }
+   "gpt4v_response": "The rebus puzzle you provided can be interpreted as follows:\n\n- The \"2\" can represent \"to\" or \"too.\"\n- The \"K\" can be interpreted as \"K\" or \"OK.\"\n- The \"E\" can be seen as \"E\" or \"eat.\"\n- The \"A\" can represent \"A\" or \"a.\"\n- The \"T\" can represent \"T\" or \"tea.\"\n\nPutting these together, it sounds like \"to K eat A T,\" which phonetically resembles \"to take a break.\"\n\nHowever, based on the options provided, the closest match would be:\n\n**(B) cross to take up.**\n\nThis interpretation aligns with the idea of \"cross\" and \"take up.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross off (D) cross out",
+   "answer": {
+      "B": "cross to take up"
+   },
+   "extracted_response": "B) cross to take up"
 }

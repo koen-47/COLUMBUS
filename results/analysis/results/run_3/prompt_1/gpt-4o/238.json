@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(A) hit too close to home",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hit too close to home (B) home away from home (C) close to home (D) hit home",
-    "answer": {
-        "A": "hit too close to home"
-    }
+   "gpt4v_response": "(A) hit too close to home",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hit too close to home (B) home away from home (C) close to home (D) hit home",
+   "answer": {
+      "A": "hit too close to home"
+   },
+   "extracted_response": "A) hit too close to home"
 }

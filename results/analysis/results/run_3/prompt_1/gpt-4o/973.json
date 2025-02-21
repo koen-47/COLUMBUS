@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word conveyed in the image is (A) eggshells.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eggshells (B) eggshell (C) cake walk (D) walk on eggshells",
-    "answer": {
-        "D": "walk on eggshells"
-    }
+   "gpt4v_response": "The word conveyed in the image is (A) eggshells.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eggshells (B) eggshell (C) cake walk (D) walk on eggshells",
+   "answer": {
+      "D": "walk on eggshells"
+   },
+   "extracted_response": "A) eggshells"
 }

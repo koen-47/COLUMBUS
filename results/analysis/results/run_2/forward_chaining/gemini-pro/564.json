@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the letters P, I, and Z arranged vertically, with P above I, and I above Z. This represents \"P on I Z\", which sounds like \"Peace\". Therefore only option D) **zip it** (be quite), which is an idiom with a similar meaning to \"Peace\" matches the rebus.\n\nThe other options do not fit the arrangement or meaning of the rebus.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"Letter P\",\n  \"description\": \"The letter 'P' is at the top of the image.\",\n  \"relation\": \"above the letter 'I'\"\n}\n```\n\n```json\n{\n  \"id\": \"2\",\n  \"name\": \"Letter I\",\n  \"description\": \"The letter 'I' is in the middle of the image.\",\n  \"relation\": \"between the letters 'P' and 'Z'\"\n}\n```\n\n```json\n{\n  \"id\": \"3\",\n  \"name\": \"Letter Z\",\n  \"description\": \"The letter 'Z' is at the bottom of the image.\",\n  \"relation\": \"below the letter 'I'\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) zip past (B) zip one's lip (C) zip up (D) zip it\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "zip up"
+    }
+}

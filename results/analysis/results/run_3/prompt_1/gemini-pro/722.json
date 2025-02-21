@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the words \"PACKED\" and \"GILLS\". Together, they create the phrase \"packed to the gills\". So the answer is (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) full to the gills (B) stuffed to the gills (C) to the gills (D) packed to the gills",
-    "answer": {
-        "D": "packed to the gills"
-    }
+   "gemini_pro_response": "The image shows the words \"PACKED\" and \"GILLS\". Together, they create the phrase \"packed to the gills\". So the answer is (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) full to the gills (B) stuffed to the gills (C) to the gills (D) packed to the gills",
+   "answer": {
+      "D": "packed to the gills"
+   },
+   "extracted_response": "D) packed to the gills"
 }

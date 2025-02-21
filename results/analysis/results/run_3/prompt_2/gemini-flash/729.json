@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) two pennies' worth**.\n\nThe rebus shows the word \"Pennies\" with a line under it, and below the line is an image of two pennies.  This visually represents \"two pennies' worth\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pretty penny (B) two pennies to rub together (C) two pennies' worth (D) pennies on the dollar",
-    "answer": {
-        "D": "pennies on the dollar"
-    }
+   "gemini_pro_response": "The correct answer is **(C) two pennies' worth**.\n\nThe rebus shows the word \"Pennies\" with a line under it, and below the line is an image of two pennies.  This visually represents \"two pennies' worth\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pretty penny (B) two pennies to rub together (C) two pennies' worth (D) pennies on the dollar",
+   "answer": {
+      "D": "pennies on the dollar"
+   },
+   "extracted_response": "C"
 }

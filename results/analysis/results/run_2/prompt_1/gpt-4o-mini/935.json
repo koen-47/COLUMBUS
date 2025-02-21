@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (B) collect dust.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch dust (B) collect dust (C) turn to dust (D) dust settles",
-    "answer": {
-        "C": "turn to dust"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (B) collect dust.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch dust (B) collect dust (C) turn to dust (D) dust settles",
+   "answer": {
+      "C": "turn to dust"
+   },
+   "extracted_response": "B) collect dust"
 }

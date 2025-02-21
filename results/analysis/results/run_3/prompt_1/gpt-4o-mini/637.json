@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) hurt a fly.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly by (B) fly in the face of (C) hurt a fly (D) fly on the wall",
-    "answer": {
-        "B": "fly in the face of"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) hurt a fly.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly by (B) fly in the face of (C) hurt a fly (D) fly on the wall",
+   "answer": {
+      "B": "fly in the face of"
+   },
+   "extracted_response": "C) hurt a fly"
 }

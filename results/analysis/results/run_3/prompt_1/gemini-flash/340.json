@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B) pink elephant.  The image depicts a pink elephant. While other options involve elephants, this is the most direct and accurate description of the visual.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) baby elephant in the room (D) white elephant",
-    "answer": {
-        "B": "pink elephant"
-    }
+   "gemini_pro_response": "The answer is (B) pink elephant.  The image depicts a pink elephant. While other options involve elephants, this is the most direct and accurate description of the visual.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) baby elephant in the room (D) white elephant",
+   "answer": {
+      "B": "pink elephant"
+   },
+   "extracted_response": "B) pink elephant"
 }

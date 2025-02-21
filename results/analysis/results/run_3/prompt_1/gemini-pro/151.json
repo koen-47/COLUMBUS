@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase \"cross out\", making option (B) the correct answer. The word \"cross\" appears twice, and vertically reads \"EKAT\". This represents striking out something on a list, hence \"cross EKAT\" or \"cross out\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross out (C) cross off (D) off one's cross",
-    "answer": {
-        "A": "cross to take up"
-    }
+   "gemini_pro_response": "The image conveys the phrase \"cross out\", making option (B) the correct answer. The word \"cross\" appears twice, and vertically reads \"EKAT\". This represents striking out something on a list, hence \"cross EKAT\" or \"cross out\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross out (C) cross off (D) off one's cross",
+   "answer": {
+      "A": "cross to take up"
+   },
+   "extracted_response": "B) cross out"
 }

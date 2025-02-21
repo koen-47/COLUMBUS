@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows two raised hands to the left and a mouth to the right. This corresponds to the phrase \"hand to mouth.\"\n\nThe correct answer is (B) hand to mouth.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"raised hands\",\n    \"description\": \"Two raised hands with palms facing forward\",\n    \"relation\": \"left of the mouth\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"mouth\",\n    \"description\": \"A mouth with lips closed\",\n    \"relation\": \"right of the raised hands\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) hand to God (B) hand to mouth (C) hand in hand (D) hand over hand\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "hand to mouth"
+    }
+}

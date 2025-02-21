@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows \"1111\" followed by \"DIGHEELS.\" The \"1111\" can be interpreted as \"one\" repeated four times, which sounds like \"dig in.\" Therefore, the phrase conveyed is \"dig in one's heels.\"\n\nThe correct answer is (C) dig in one's heels.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's heels in (B) dig heels in (C) dig in one's heels (D) take to one's heels",
-    "answer": {
-        "C": "dig in one's heels"
-    }
+   "gpt4v_response": "The rebus puzzle shows \"1111\" followed by \"DIGHEELS.\" The \"1111\" can be interpreted as \"one\" repeated four times, which sounds like \"dig in.\" Therefore, the phrase conveyed is \"dig in one's heels.\"\n\nThe correct answer is (C) dig in one's heels.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's heels in (B) dig heels in (C) dig in one's heels (D) take to one's heels",
+   "answer": {
+      "C": "dig in one's heels"
+   },
+   "extracted_response": "C) dig in one's heels"
 }

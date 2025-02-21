@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) run for the roses.\n\nThe rebus shows \"RUN\" repeated four times, next to \"ROSES\".  This visually represents \"Run for the roses\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stop and smell the roses (B) a bed of roses (C) come up roses (D) run for the roses",
-    "answer": {
-        "D": "run for the roses"
-    }
+   "gemini_pro_response": "The correct answer is (D) run for the roses.\n\nThe rebus shows \"RUN\" repeated four times, next to \"ROSES\".  This visually represents \"Run for the roses\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stop and smell the roses (B) a bed of roses (C) come up roses (D) run for the roses",
+   "answer": {
+      "D": "run for the roses"
+   },
+   "extracted_response": "D) run for the roses"
 }

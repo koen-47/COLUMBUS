@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (D) turn on its head.\n\nThe refresh symbol signifies a change or reversal, and the surprised face below emphasizes the unexpected nature of this reversal.  \"Turn on its head\" means to completely change or reverse something, often in a surprising or unexpected way. This aligns perfectly with the image's symbolism.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) use one's head (B) turn heads (C) turn someone's head (D) turn on its head",
-    "answer": {
-        "D": "turn on its head"
-    }
+   "gemini_pro_response": "The image conveys (D) turn on its head.\n\nThe refresh symbol signifies a change or reversal, and the surprised face below emphasizes the unexpected nature of this reversal.  \"Turn on its head\" means to completely change or reverse something, often in a surprising or unexpected way. This aligns perfectly with the image's symbolism.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) use one's head (B) turn heads (C) turn someone's head (D) turn on its head",
+   "answer": {
+      "D": "turn on its head"
+   },
+   "extracted_response": "D) turn on its head"
 }

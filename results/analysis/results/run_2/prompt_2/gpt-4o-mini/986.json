@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"WHAT\" repeated multiple times, with variations in spacing and alignment. This suggests a focus on the word \"what.\"\n\nThe correct answer is (A) what with.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what with (B) what for (C) for show (D) give what for",
-    "answer": {
-        "B": "what for"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"WHAT\" repeated multiple times, with variations in spacing and alignment. This suggests a focus on the word \"what.\"\n\nThe correct answer is (A) what with.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what with (B) what for (C) for show (D) give what for",
+   "answer": {
+      "B": "what for"
+   },
+   "extracted_response": "A) what with"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word conveyed in the image is \"STRMANEET.\" However, it doesn't match any of the options provided (A, B, C, or D). If you have another image or context, feel free to share!",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up someone's street (B) man in the street (C) man on the street (D) word on the street",
-    "answer": {
-        "B": "man in the street"
-    }
+   "gpt4v_response": "The word conveyed in the image is \"STRMANEET.\" However, it doesn't match any of the options provided (A, B, C, or D). If you have another image or context, feel free to share!",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up someone's street (B) man in the street (C) man on the street (D) word on the street",
+   "answer": {
+      "B": "man in the street"
+   },
+   "extracted_response": "The word conveyed in the image is \"STRMANEET.\" However, it doesn't match any of the options provided (A, B, C, or D). If you have another image or context, feel free to share!"
 }

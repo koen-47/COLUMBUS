@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows a child's face with a line crossing it out, followed by an image of a guard. This represents \"cross\" + \"child\" + \"guard\". Therefore, the answer is (D) child crossing guard.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take guard (B) child cross guard (C) love child (D) child crossing guard",
-    "answer": {
-        "B": "child cross guard"
-    }
+   "gemini_pro_response": "The rebus puzzle shows a child's face with a line crossing it out, followed by an image of a guard. This represents \"cross\" + \"child\" + \"guard\". Therefore, the answer is (D) child crossing guard.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take guard (B) child cross guard (C) love child (D) child crossing guard",
+   "answer": {
+      "B": "child cross guard"
+   },
+   "extracted_response": "D) child crossing guard"
 }

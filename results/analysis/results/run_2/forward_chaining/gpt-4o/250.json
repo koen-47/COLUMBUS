@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"GO\" above a horizontal line, and the word \"MAJORITY\" written twice below the line. This setup suggests the phrase \"go over the majority,\" as \"GO\" is positioned over the repeated word \"MAJORITY.\"\n\nTherefore, the correct answer is:\n\n(A) go over to the majority",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"GO\",\n    \"description\": \"The word 'GO' written in uppercase letters.\",\n    \"relation\": \"Placed above a horizontal line.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"Horizontal Line\",\n    \"description\": \"A horizontal line separating the word 'GO' from the words 'MAJORITY'.\",\n    \"relation\": \"Placed between the word 'GO' and the words 'MAJORITY'.\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"MAJORITY\",\n    \"description\": \"The word 'MAJORITY' written twice in uppercase letters, one below the other.\",\n    \"relation\": \"Placed below the horizontal line.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) go over to the majority (B) vast majority (C) go to the polls (D) go over\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "go over to the majority"
+    }
+}

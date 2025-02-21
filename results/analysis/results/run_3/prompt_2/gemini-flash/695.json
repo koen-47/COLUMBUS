@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) midwatch**.\n\nThe image shows a wristwatch with arrows pointing both up and down, indicating that it's in the middle.  \"Midwatch\" is a nautical term referring to the middle of a watch (a period of duty).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midgame (B) midwatch (C) stopwatch (D) deathwatch",
-    "answer": {
-        "B": "midwatch"
-    }
+   "gemini_pro_response": "The correct answer is **(B) midwatch**.\n\nThe image shows a wristwatch with arrows pointing both up and down, indicating that it's in the middle.  \"Midwatch\" is a nautical term referring to the middle of a watch (a period of duty).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midgame (B) midwatch (C) stopwatch (D) deathwatch",
+   "answer": {
+      "B": "midwatch"
+   },
+   "extracted_response": "B) midwatch"
 }

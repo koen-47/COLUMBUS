@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows \"STICK\" and \"IT\" written twice. This represents the phrase \"stick it to it.\"\n\nSo the answer is (D).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stick to (B) stick it to the man (C) put it to (D) stick it to",
-    "answer": {
-        "D": "stick it to"
-    }
+   "gemini_pro_response": "The rebus puzzle shows \"STICK\" and \"IT\" written twice. This represents the phrase \"stick it to it.\"\n\nSo the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stick to (B) stick it to the man (C) put it to (D) stick it to",
+   "answer": {
+      "D": "stick it to"
+   },
+   "extracted_response": "D) stick it to"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **small wonder**.\n\nThe image shows the word \"WONDER\" on a plain white background.  \"Small wonder\" is an idiom meaning \"it's not surprising.\"  The minimalism of the image visually represents the simplicity or lack of complexity that might make something unsurprising.  The other options relate to musical success and don't fit the visual context.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two-hit wonder (B) one-hit wonder (C) small wonder (D) no-hit wonder",
-    "answer": {
-        "C": "small wonder"
-    }
+   "gemini_pro_response": "The correct answer is (C) **small wonder**.\n\nThe image shows the word \"WONDER\" on a plain white background.  \"Small wonder\" is an idiom meaning \"it's not surprising.\"  The minimalism of the image visually represents the simplicity or lack of complexity that might make something unsurprising.  The other options relate to musical success and don't fit the visual context.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two-hit wonder (B) one-hit wonder (C) small wonder (D) no-hit wonder",
+   "answer": {
+      "C": "small wonder"
+   },
+   "extracted_response": "C) small wonder"
 }

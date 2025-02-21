@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts a face within the word \"Clouds\". This conveys the idiom \"**head in the clouds (C)**\", meaning someone is dreamy, impractical, or not fully attentive to reality.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in one's head (B) lose head (C) head in the clouds (D) head of steam",
-    "answer": {
-        "C": "head in the clouds"
-    }
+   "gemini_pro_response": "The image depicts a face within the word \"Clouds\". This conveys the idiom \"**head in the clouds (C)**\", meaning someone is dreamy, impractical, or not fully attentive to reality.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in one's head (B) lose head (C) head in the clouds (D) head of steam",
+   "answer": {
+      "C": "head in the clouds"
+   },
+   "extracted_response": "C"
 }

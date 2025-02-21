@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) the genie's out of the bottle.\n\nThe image shows \"Genie's\" outside a box labeled \"Bottle\".  This visually represents the genie escaping from the bottle, which is the meaning of the idiom \"the genie's out of the bottle\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put the genie back in the bottle (B) bottle up (C) bottle away (D) the genie's out of the bottle",
-    "answer": {
-        "D": "the genie's out of the bottle"
-    }
+   "gemini_pro_response": "The correct answer is (D) the genie's out of the bottle.\n\nThe image shows \"Genie's\" outside a box labeled \"Bottle\".  This visually represents the genie escaping from the bottle, which is the meaning of the idiom \"the genie's out of the bottle\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put the genie back in the bottle (B) bottle up (C) bottle away (D) the genie's out of the bottle",
+   "answer": {
+      "D": "the genie's out of the bottle"
+   },
+   "extracted_response": "D) the genie's out of the bottle"
 }

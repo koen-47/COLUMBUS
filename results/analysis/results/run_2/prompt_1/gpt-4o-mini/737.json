@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word conveyed in the image is \"settle.\" However, I cannot determine which specific option (A, B, C, or D) it corresponds to based solely on the image.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) settle into (B) settle upon (C) settle in (D) settle for",
-    "answer": {
-        "D": "settle for"
-    }
+   "gpt4v_response": "The word conveyed in the image is \"settle.\" However, I cannot determine which specific option (A, B, C, or D) it corresponds to based solely on the image.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) settle into (B) settle upon (C) settle in (D) settle for",
+   "answer": {
+      "D": "settle for"
+   },
+   "extracted_response": "The word conveyed in the image is \"settle.\" However, I cannot determine which specific option (A, B, C, or D) it corresponds to based solely on the image."
 }

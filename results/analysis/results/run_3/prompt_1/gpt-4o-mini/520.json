@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) go to the wall.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up the wall (B) back to the wall (C) go to the wall (D) drive up the wall",
-    "answer": {
-        "C": "go to the wall"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) go to the wall.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up the wall (B) back to the wall (C) go to the wall (D) drive up the wall",
+   "answer": {
+      "C": "go to the wall"
+   },
+   "extracted_response": "C"
 }

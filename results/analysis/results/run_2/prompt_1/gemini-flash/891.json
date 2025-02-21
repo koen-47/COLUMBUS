@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) laugh all the way to the bank.\n\nThe image shows the word \"TAKE\" repeated twice, with a bank symbol next to it.  This visually represents the idiom \"take to the bank,\" but the options provided lead to the interpretation of the phrase \"laugh all the way to the bank\", which implies making a lot of money easily.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take to the bank (B) break the bank (C) bank night (D) laugh all the way to the bank",
-    "answer": {
-        "A": "take to the bank"
-    }
+   "gemini_pro_response": "The correct answer is (D) laugh all the way to the bank.\n\nThe image shows the word \"TAKE\" repeated twice, with a bank symbol next to it.  This visually represents the idiom \"take to the bank,\" but the options provided lead to the interpretation of the phrase \"laugh all the way to the bank\", which implies making a lot of money easily.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take to the bank (B) break the bank (C) bank night (D) laugh all the way to the bank",
+   "answer": {
+      "A": "take to the bank"
+   },
+   "extracted_response": "D) laugh all the way to the bank"
 }

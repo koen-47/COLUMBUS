@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(B) go through the mill**.\n\nThe image shows two depictions of a wave crashing, representing the challenges and difficulties of life.  The \"1111 MILL\" reinforces the idea of repeatedly going through hardship or a difficult process.  This directly aligns with the idiom \"go through the mill,\" which means to experience many difficulties or hardships.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) water to one's mill (B) go through the mill (C) millwork (D) trouble at mill",
-    "answer": {
-        "A": "water to one's mill"
-    }
+   "gemini_pro_response": "The answer is **(B) go through the mill**.\n\nThe image shows two depictions of a wave crashing, representing the challenges and difficulties of life.  The \"1111 MILL\" reinforces the idea of repeatedly going through hardship or a difficult process.  This directly aligns with the idiom \"go through the mill,\" which means to experience many difficulties or hardships.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) water to one's mill (B) go through the mill (C) millwork (D) trouble at mill",
+   "answer": {
+      "A": "water to one's mill"
+   },
+   "extracted_response": "B) go through the mill"
 }

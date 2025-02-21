@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) knock on wood.\n\nThe image shows the word \"KNOCK\" with a picture of a piece of wood underneath.  This is a visual representation of the idiom \"knock on wood,\" which is used to express a hope that something good will continue or that something bad will not happen.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock down (B) knock out (C) knock on wood (D) knock together",
-    "answer": {
-        "C": "knock on wood"
-    }
+   "gemini_pro_response": "The correct answer is (C) knock on wood.\n\nThe image shows the word \"KNOCK\" with a picture of a piece of wood underneath.  This is a visual representation of the idiom \"knock on wood,\" which is used to express a hope that something good will continue or that something bad will not happen.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock down (B) knock out (C) knock on wood (D) knock together",
+   "answer": {
+      "C": "knock on wood"
+   },
+   "extracted_response": "C) knock on wood"
 }

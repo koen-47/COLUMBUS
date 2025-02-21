@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle \"SAMEBEBOAT\" can be read as \"same be boat\". This sounds like the expression \"be in the same boat\".  So the answer is (B).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the same boat (B) be in the same boat (C) row in the same boat (D) rock the boat",
-    "answer": {
-        "B": "be in the same boat"
-    }
+   "gemini_pro_response": "The rebus puzzle \"SAMEBEBOAT\" can be read as \"same be boat\". This sounds like the expression \"be in the same boat\".  So the answer is (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the same boat (B) be in the same boat (C) row in the same boat (D) rock the boat",
+   "answer": {
+      "B": "be in the same boat"
+   },
+   "extracted_response": "B"
 }

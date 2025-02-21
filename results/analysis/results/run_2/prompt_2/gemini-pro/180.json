@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word \"WATER\" is in a box, so it can be read as \"water in a box.\" Combining that with the word \"BLOW,\" the phrase becomes \"blow water in a box,\" which sounds similar to \"blow [someone] out of the water.\"\n\nSo the answer is (C).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow off (B) blow away (C) blow out of the water (D) dry up and blow away",
-    "answer": {
-        "C": "blow out of the water"
-    }
+   "gemini_pro_response": "The word \"WATER\" is in a box, so it can be read as \"water in a box.\" Combining that with the word \"BLOW,\" the phrase becomes \"blow water in a box,\" which sounds similar to \"blow [someone] out of the water.\"\n\nSo the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow off (B) blow away (C) blow out of the water (D) dry up and blow away",
+   "answer": {
+      "C": "blow out of the water"
+   },
+   "extracted_response": "C) blow out of the water"
 }

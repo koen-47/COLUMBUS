@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys **(B) speak out**.  The circular arrow implies sharing or expressing something, which aligns with the meaning of \"speak out\".  \"Speak up\" implies increasing volume, while \"speak/talk out of turn\" implies interrupting or speaking at an inappropriate time. The symbol doesn't suggest either of those meanings.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak out of turn (D) talk out of turn",
-    "answer": {
-        "C": "speak out of turn"
-    }
+   "gemini_pro_response": "The image conveys **(B) speak out**.  The circular arrow implies sharing or expressing something, which aligns with the meaning of \"speak out\".  \"Speak up\" implies increasing volume, while \"speak/talk out of turn\" implies interrupting or speaking at an inappropriate time. The symbol doesn't suggest either of those meanings.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak out of turn (D) talk out of turn",
+   "answer": {
+      "C": "speak out of turn"
+   },
+   "extracted_response": "B"
 }

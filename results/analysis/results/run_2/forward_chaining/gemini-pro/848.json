@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"SPLIT\" above a horizontal line and a rock icon below the line. This represents \"SPLIT\" over \"ROCK.\"\n\n* **(A) rockslide:**  Doesn't fit the \"SPLIT over ROCK\" structure.\n* **(B) split up:** Doesn't relate to the rock image.\n* **(C) split on a rock:** This accurately describes the image \"SPLIT\" over/on \"ROCK\".\n* **(D) split one's sides:**  Figurative language that doesn't match the visual.\n\nTherefore, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"item1\",\n    \"name\": \"word_SPLIT\",\n    \"description\": \"The word 'SPLIT' written in capital letters.\",\n    \"relation\": \"above the line\"\n}\n```\n\n```json\n{\n    \"id\": \"item2\",\n    \"name\": \"horizontal_line\",\n    \"description\": \"A horizontal line.\",\n    \"relation\": \"below the word 'SPLIT' and above the brain icon\"\n}\n```\n\n```json\n{\n    \"id\": \"item3\",\n    \"name\": \"brain_icon\",\n    \"description\": \"An icon of a brain.\",\n    \"relation\": \"below the horizontal line\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) rockslide (B) split up (C) split on a rock (D) split one's sides\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "split on a rock"
+    }
+}

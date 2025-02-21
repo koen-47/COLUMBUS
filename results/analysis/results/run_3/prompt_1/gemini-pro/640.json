@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the idiom \"fly too close to the sun\" (A).  The words \"FLY CLOSE\" are repeated, and the word \"SUN\" is placed slightly above and to the right, visually representing the idea of getting too close to the sun.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly too close to the sun (B) a trip to the sun (C) fly low (D) catch the sun",
-    "answer": {
-        "A": "fly too close to the sun"
-    }
+   "gemini_pro_response": "The image conveys the idiom \"fly too close to the sun\" (A).  The words \"FLY CLOSE\" are repeated, and the word \"SUN\" is placed slightly above and to the right, visually representing the idea of getting too close to the sun.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly too close to the sun (B) a trip to the sun (C) fly low (D) catch the sun",
+   "answer": {
+      "A": "fly too close to the sun"
+   },
+   "extracted_response": "A"
 }

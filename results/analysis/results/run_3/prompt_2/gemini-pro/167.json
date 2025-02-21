@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"BALLS\" twice, with the word \"WALL\" positioned to the right of the lower \"BALLS\". This placement represents \"BALLS\" by/to the \"WALL\".\n\nTherefore, the answer is (D) balls to the wall.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grow some balls (B) bust one's balls (C) have someone by the balls (D) balls to the wall",
-    "answer": {
-        "D": "balls to the wall"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"BALLS\" twice, with the word \"WALL\" positioned to the right of the lower \"BALLS\". This placement represents \"BALLS\" by/to the \"WALL\".\n\nTherefore, the answer is (D) balls to the wall.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grow some balls (B) bust one's balls (C) have someone by the balls (D) balls to the wall",
+   "answer": {
+      "D": "balls to the wall"
+   },
+   "extracted_response": "D) balls to the wall"
 }

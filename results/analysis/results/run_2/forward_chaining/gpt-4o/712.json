@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"NOSE\" next to a rectangle containing the word \"JOINT.\" This represents the phrase \"nose out of joint.\"\n\nThe correct answer is (A) nose out of joint.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"text_nose\",\n        \"description\": \"The word 'NOSE' written in uppercase letters.\",\n        \"relation\": \"Located to the left of the rectangle.\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"rectangle\",\n        \"description\": \"A rectangle with the word 'JOINT' inside it.\",\n        \"relation\": \"Located to the right of the word 'NOSE'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) nose out of joint (B) keep one's nose clean (C) turn up one's nose (D) button nose\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "nose out of joint"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle is \"Cross off\". Here's why:\n\n* **Node 1:** \"2\" is crossed out, indicated by the \"cross: True\" attribute. This visually represents \"cross\". The \"sound:(to: 2)\" attribute could imply a connection or sound-alike to the following node, which contains the word \"take\". However, due to the cross-out it means off.\n* **Node 2 & 3:** \"TAKE UP\" are ignored as a result from the cross-out operation. The word off is used to cancel the phrase \"TAKE UP\".\n\nTherefore, the answer is (D).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: 2, cross: True, repeat: 1, sound: (to: 2))\nNode 2 attributes: (text: TAKE, repeat: 1)\nNode 3 attributes: (text: UP, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross out (C) cross to take up (D) cross off",
-    "answer": {
-        "C": "cross to take up"
-    }
+   "gemini_pro_response": "The rebus puzzle is \"Cross off\". Here's why:\n\n* **Node 1:** \"2\" is crossed out, indicated by the \"cross: True\" attribute. This visually represents \"cross\". The \"sound:(to: 2)\" attribute could imply a connection or sound-alike to the following node, which contains the word \"take\". However, due to the cross-out it means off.\n* **Node 2 & 3:** \"TAKE UP\" are ignored as a result from the cross-out operation. The word off is used to cancel the phrase \"TAKE UP\".\n\nTherefore, the answer is (D).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: 2, cross: True, repeat: 1, sound: (to: 2))\nNode 2 attributes: (text: TAKE, repeat: 1)\nNode 3 attributes: (text: UP, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross out (C) cross to take up (D) cross off",
+   "answer": {
+      "C": "cross to take up"
+   },
+   "extracted_response": "D) cross off"
 }

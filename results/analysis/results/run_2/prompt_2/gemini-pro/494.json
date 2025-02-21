@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows four instances of \"1111\". This translates to \"four ones\", which sounds like \"for once\".\n\nSo the answer is (B).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for this once (B) for once (C) once and for all (D) once again",
-    "answer": {
-        "B": "for once"
-    }
+   "gemini_pro_response": "The rebus shows four instances of \"1111\". This translates to \"four ones\", which sounds like \"for once\".\n\nSo the answer is (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for this once (B) for once (C) once and for all (D) once again",
+   "answer": {
+      "B": "for once"
+   },
+   "extracted_response": "B) for once"
 }

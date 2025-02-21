@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe image shows three \"I\"s on the left, \"AN\" in the center, and one \"I\" on the right.  This translates to \"Eye to eye\".\n\nTherefore, the answer is (C) see eye to eye.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Letter I\",\n        \"description\": \"The letter 'I' repeated three times vertically.\",\n        \"relation\": \"Left side of the image\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Letters AN\",\n        \"description\": \"The letters 'AN' in uppercase.\",\n        \"relation\": \"Center of the image\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"Letter I\",\n        \"description\": \"The letter 'I' in uppercase.\",\n        \"relation\": \"Right side of the image\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) have an eye for (B) eye for an eye (C) see eye to eye (D) one in the eye for\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "eye for an eye"
+    }
+}

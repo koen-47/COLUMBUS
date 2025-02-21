@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (D) brick in one's hat.\n\nThe image shows \"1111,\" which can be read as \"four ones,\" next to a picture of a brick. This sounds like \"four o' ones brick,\" or \"for once brick.\"  Then, there is a picture of a hat.  Put together, these images represent the phrase \"brick in one's hat\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) brick in (B) bang one's head against a brick wall (C) drop a brick (D) brick in one's hat",
-    "answer": {
-        "D": "brick in one's hat"
-    }
+   "gemini_pro_response": "The answer is (D) brick in one's hat.\n\nThe image shows \"1111,\" which can be read as \"four ones,\" next to a picture of a brick. This sounds like \"four o' ones brick,\" or \"for once brick.\"  Then, there is a picture of a hat.  Put together, these images represent the phrase \"brick in one's hat\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) brick in (B) bang one's head against a brick wall (C) drop a brick (D) brick in one's hat",
+   "answer": {
+      "D": "brick in one's hat"
+   },
+   "extracted_response": "D) brick in one's hat"
 }

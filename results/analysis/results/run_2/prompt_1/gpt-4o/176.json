@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(B) wall of silence",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pact of silence (B) wall of silence (C) blue wall of silence (D) silence is golden",
-    "answer": {
-        "C": "blue wall of silence"
-    }
+   "gpt4v_response": "(B) wall of silence",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pact of silence (B) wall of silence (C) blue wall of silence (D) silence is golden",
+   "answer": {
+      "C": "blue wall of silence"
+   },
+   "extracted_response": "B) wall of silence"
 }

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) ear to the ground.\n\nHere's why:\n\nThe JSON data describes the image as having \"EAR\" at the top, \"GROUND\" to the right, and \"EAR\" at the bottom. This arrangement visually represents the idiom \"ear to the ground,\" implying to be attentive and aware of what is happening.  None of the other options match the arrangement of words in the image.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Text EAR\",\n        \"description\": \"The word 'EAR' written in capital letters.\",\n        \"relation\": \"Located at the top left of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Text GROUND\",\n        \"description\": \"The word 'GROUND' written in capital letters.\",\n        \"relation\": \"Located to the right of the first 'EAR'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"Text EAR\",\n        \"description\": \"The word 'EAR' written in capital letters.\",\n        \"relation\": \"Located below the first 'EAR'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) up on one's ear (B) give ear (C) ear to the ground (D) play by ear\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "ear to the ground"
+    }
+}

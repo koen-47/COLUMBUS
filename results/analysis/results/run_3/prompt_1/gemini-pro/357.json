@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"MO1111ON\". The blue \"MO\" and \"ON\" suggest \"Moon\". The four 1s could be read as \"once in\". So, the image depicts \"Moon once in Moon\", or \"Once in a Blue Moon\".\n\nThus, the correct answer is (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue moon (B) once in a purple moon (C) over the moon (D) once in a blue moon",
-    "answer": {
-        "D": "once in a blue moon"
-    }
+   "gemini_pro_response": "The image says \"MO1111ON\". The blue \"MO\" and \"ON\" suggest \"Moon\". The four 1s could be read as \"once in\". So, the image depicts \"Moon once in Moon\", or \"Once in a Blue Moon\".\n\nThus, the correct answer is (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue moon (B) once in a purple moon (C) over the moon (D) once in a blue moon",
+   "answer": {
+      "D": "once in a blue moon"
+   },
+   "extracted_response": "D) once in a blue moon"
 }

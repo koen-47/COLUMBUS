@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) shot in the dark. The arrows pointing in opposite directions represent a guess, which is the meaning of the idiom \"a shot in the dark\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the dark (B) dark cloud (C) shot in the dark (D) after dark",
-    "answer": {
-        "D": "after dark"
-    }
+   "gemini_pro_response": "The image conveys (C) shot in the dark. The arrows pointing in opposite directions represent a guess, which is the meaning of the idiom \"a shot in the dark\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the dark (B) dark cloud (C) shot in the dark (D) after dark",
+   "answer": {
+      "D": "after dark"
+   },
+   "extracted_response": "C) shot in the dark"
 }

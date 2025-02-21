@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows two hands shaking inside the outline of a heart. This represents a loving or friendly handshake. The color green can symbolize concepts like nature, growth, or money. However, none of the provided options specifically reference these ideas.\n\nWhile \"green handshake\" could be a valid literal interpretation, it's less likely to be the intended meaning of the rebus in a general context.  The heart shape suggests a focus on the emotional aspect of the handshake rather than the color.  Therefore, simply **(B) handshake** is the best fit among the given options.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) golden handshake (B) handshake (C) handshaking (D) green handshake",
-    "answer": {
-        "D": "green handshake"
-    }
+   "gemini_pro_response": "The rebus shows two hands shaking inside the outline of a heart. This represents a loving or friendly handshake. The color green can symbolize concepts like nature, growth, or money. However, none of the provided options specifically reference these ideas.\n\nWhile \"green handshake\" could be a valid literal interpretation, it's less likely to be the intended meaning of the rebus in a general context.  The heart shape suggests a focus on the emotional aspect of the handshake rather than the color.  Therefore, simply **(B) handshake** is the best fit among the given options.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) golden handshake (B) handshake (C) handshaking (D) green handshake",
+   "answer": {
+      "D": "green handshake"
+   },
+   "extracted_response": "B) handshake"
 }

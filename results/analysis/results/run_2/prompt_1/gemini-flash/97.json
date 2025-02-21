@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) a little bird told me.  The image depicts a small bird alongside the words \"told me,\" directly representing the idiom.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bird of one's own brain (B) a little bird told me (C) bird in the bosom (D) early bird",
-    "answer": {
-        "B": "a little bird told me"
-    }
+   "gemini_pro_response": "The correct answer is (B) a little bird told me.  The image depicts a small bird alongside the words \"told me,\" directly representing the idiom.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bird of one's own brain (B) a little bird told me (C) bird in the bosom (D) early bird",
+   "answer": {
+      "B": "a little bird told me"
+   },
+   "extracted_response": "B) a little bird told me"
 }

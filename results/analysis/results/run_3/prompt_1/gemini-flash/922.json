@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B) hang up one's boots.\n\nThe image shows the number 2 followed by three rows of four \"1\"s.  This can be interpreted as \"2 + 2 + 2 + 2\" which equals 8.  The number 8, visually resembles a pair of boots.  The pair of boots being next to the number '2', indicates that there are only two pairs.  Since boots are often used in the idiom to describe retirement, and 2 pairs is generally associated with someone finishing their work, the most suitable idiom is \"hang up one's boots\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fill one's boots (B) hang up one's boots (C) too big for one's boots (D) kicking boots",
-    "answer": {
-        "C": "too big for one's boots"
-    }
+   "gemini_pro_response": "The answer is (B) hang up one's boots.\n\nThe image shows the number 2 followed by three rows of four \"1\"s.  This can be interpreted as \"2 + 2 + 2 + 2\" which equals 8.  The number 8, visually resembles a pair of boots.  The pair of boots being next to the number '2', indicates that there are only two pairs.  Since boots are often used in the idiom to describe retirement, and 2 pairs is generally associated with someone finishing their work, the most suitable idiom is \"hang up one's boots\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fill one's boots (B) hang up one's boots (C) too big for one's boots (D) kicking boots",
+   "answer": {
+      "C": "too big for one's boots"
+   },
+   "extracted_response": "B) hang up one's boots"
 }

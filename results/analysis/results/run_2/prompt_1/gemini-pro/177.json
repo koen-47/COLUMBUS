@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"ELBUOD\", which is \"DOUBLE\" spelled backward. This implies a **(D) double take**.  A double take is when someone looks at something, looks away, then looks back again in surprise or disbelief, as if questioning what they saw.  The backward spelling visually represents this action of looking back.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) double over (B) double back (C) on the double (D) double take",
-    "answer": {
-        "B": "double back"
-    }
+   "gemini_pro_response": "The image says \"ELBUOD\", which is \"DOUBLE\" spelled backward. This implies a **(D) double take**.  A double take is when someone looks at something, looks away, then looks back again in surprise or disbelief, as if questioning what they saw.  The backward spelling visually represents this action of looking back.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) double over (B) double back (C) on the double (D) double take",
+   "answer": {
+      "B": "double back"
+   },
+   "extracted_response": "D) double take"
 }

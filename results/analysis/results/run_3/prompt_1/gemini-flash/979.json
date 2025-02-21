@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **walking on air**.\n\nThe image depicts a person walking on a line labeled \"AIR,\" visually representing the idiom \"walking on air,\" which signifies feeling elated or extremely happy.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take air (B) in the air (C) catch air (D) walking on air",
-    "answer": {
-        "D": "walking on air"
-    }
+   "gemini_pro_response": "The correct answer is (D) **walking on air**.\n\nThe image depicts a person walking on a line labeled \"AIR,\" visually representing the idiom \"walking on air,\" which signifies feeling elated or extremely happy.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take air (B) in the air (C) catch air (D) walking on air",
+   "answer": {
+      "D": "walking on air"
+   },
+   "extracted_response": "D"
 }

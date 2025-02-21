@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) be around.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) be on to (B) be there (C) be around (D) be supposed to",
-    "answer": {
-        "A": "be on to"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) be around.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) be on to (B) be there (C) be around (D) be supposed to",
+   "answer": {
+      "A": "be on to"
+   },
+   "extracted_response": "C) be around"
 }

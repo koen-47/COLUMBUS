@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The phrase conveyed in the image is (D) steady hand on the tiller.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have one's hand in the till (B) on the gripping hand (C) lay hands on (D) steady hand on the tiller",
-    "answer": {
-        "D": "steady hand on the tiller"
-    }
+   "gpt4v_response": "The phrase conveyed in the image is (D) steady hand on the tiller.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have one's hand in the till (B) on the gripping hand (C) lay hands on (D) steady hand on the tiller",
+   "answer": {
+      "D": "steady hand on the tiller"
+   },
+   "extracted_response": "D) steady hand on the tiller"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- \"ROW\" indicates the action of rowing.\n- \"SAME\" suggests similarity or togetherness.\n- The boat icon (\u26f5) represents a boat.\n\nPutting these elements together, the phrase conveyed is \"row in the same boat.\"\n\nTherefore, the correct answer is (B) row in the same boat.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: ROW, repeat: 1)\nNode 2 attributes: (text: SAME, repeat: 1)\nNode 3 attributes: (text: \u26f5, repeat: 1, icon: (boat: \u26f5))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) row back (B) row in the same boat (C) get in the boat and row (D) rowboat",
-    "answer": {
-        "B": "row in the same boat"
-    }
+   "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- \"ROW\" indicates the action of rowing.\n- \"SAME\" suggests similarity or togetherness.\n- The boat icon (\u26f5) represents a boat.\n\nPutting these elements together, the phrase conveyed is \"row in the same boat.\"\n\nTherefore, the correct answer is (B) row in the same boat.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: ROW, repeat: 1)\nNode 2 attributes: (text: SAME, repeat: 1)\nNode 3 attributes: (text: \u26f5, repeat: 1, icon: (boat: \u26f5))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) row back (B) row in the same boat (C) get in the boat and row (D) rowboat",
+   "answer": {
+      "B": "row in the same boat"
+   },
+   "extracted_response": "B) row in the same boat"
 }

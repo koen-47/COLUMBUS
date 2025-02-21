@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **have an eye for**.\n\nThe image shows four \"I\"s, followed by \"AN EYE\".  This visually represents \"I I I I AN EYE\", which can be read as \"I have an eye for\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one in the eye for (B) see eye to eye (C) have an eye for (D) eye for an eye",
-    "answer": {
-        "D": "eye for an eye"
-    }
+   "gemini_pro_response": "The correct answer is (C) **have an eye for**.\n\nThe image shows four \"I\"s, followed by \"AN EYE\".  This visually represents \"I I I I AN EYE\", which can be read as \"I have an eye for\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one in the eye for (B) see eye to eye (C) have an eye for (D) eye for an eye",
+   "answer": {
+      "D": "eye for an eye"
+   },
+   "extracted_response": "C) have an eye for"
 }

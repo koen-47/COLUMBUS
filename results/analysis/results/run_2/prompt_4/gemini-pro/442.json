@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word \"FORTUNE\" is written in a small font size. The attribute \"size: small\" suggests we are referring to a \"small fortune\".\n\nFinal Answer: The final answer is $\\boxed{B}$",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: FORTUNE, repeat: 1, size: small)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) fortune favours the bold (B) small fortune (C) spend a fortune (D) tell fortunes",
-    "answer": {
-        "B": "small fortune"
-    }
+   "gemini_pro_response": "The word \"FORTUNE\" is written in a small font size. The attribute \"size: small\" suggests we are referring to a \"small fortune\".\n\nFinal Answer: The final answer is $\\boxed{B}$",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: FORTUNE, repeat: 1, size: small)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) fortune favours the bold (B) small fortune (C) spend a fortune (D) tell fortunes",
+   "answer": {
+      "B": "small fortune"
+   },
+   "extracted_response": "B) small fortune"
 }

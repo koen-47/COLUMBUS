@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(D) stand for**.\n\nThe image shows the word \"STAND\" repeated four times vertically.  This visually represents the idea of something standing in for or representing something else \u2014 the multiple instances of \"STAND\" are all standing in for a single, unified concept.  The other options don't fit the visual representation as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stand with (B) stand up (C) stand in for (D) stand for",
-    "answer": {
-        "D": "stand for"
-    }
+   "gemini_pro_response": "The answer is **(D) stand for**.\n\nThe image shows the word \"STAND\" repeated four times vertically.  This visually represents the idea of something standing in for or representing something else \u2014 the multiple instances of \"STAND\" are all standing in for a single, unified concept.  The other options don't fit the visual representation as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stand with (B) stand up (C) stand in for (D) stand for",
+   "answer": {
+      "D": "stand for"
+   },
+   "extracted_response": "D) stand for"
 }

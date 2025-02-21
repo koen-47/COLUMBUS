@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) to say the least.  The image shows the words \"SAY\" stacked vertically, and then the word \"LEAST\" to the right.  This visually represents the idiom \"to say the least\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not in the least (B) to say the least (C) at the very least (D) in the least",
-    "answer": {
-        "B": "to say the least"
-    }
+   "gemini_pro_response": "The correct answer is (B) to say the least.  The image shows the words \"SAY\" stacked vertically, and then the word \"LEAST\" to the right.  This visually represents the idiom \"to say the least\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not in the least (B) to say the least (C) at the very least (D) in the least",
+   "answer": {
+      "B": "to say the least"
+   },
+   "extracted_response": "B) to say the least"
 }

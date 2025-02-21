@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) crosswalks.\n\nThe image depicts two figures crossing a road at a designated crossing, which is represented by the thick black lines.  This is the visual representation of a crosswalk.  The other options don't fit the imagery.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross paths (B) crosswalk (C) catwalks (D) crosswalks",
-    "answer": {
-        "D": "crosswalks"
-    }
+   "gemini_pro_response": "The correct answer is (D) crosswalks.\n\nThe image depicts two figures crossing a road at a designated crossing, which is represented by the thick black lines.  This is the visual representation of a crosswalk.  The other options don't fit the imagery.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross paths (B) crosswalk (C) catwalks (D) crosswalks",
+   "answer": {
+      "D": "crosswalks"
+   },
+   "extracted_response": "D) crosswalks"
 }

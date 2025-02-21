@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) hang up one's hat.\n\nHere's why:\n\n* **GNAH:**  This is \"HANG\" spelled backward.\n* **1111:** This represents \"one's\".  The number one is repeated four times.\n* **Hat:** The image of a hat represents a hat.\n\nPutting it together, \"HANG\" (backward) + \"one's\" + \"hat\" = \"Hang up one's hat\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tip one's hat (B) hang over one's head (C) hang up one's hat (D) hang one's hat",
-    "answer": {
-        "C": "hang up one's hat"
-    }
+   "gemini_pro_response": "The answer is (C) hang up one's hat.\n\nHere's why:\n\n* **GNAH:**  This is \"HANG\" spelled backward.\n* **1111:** This represents \"one's\".  The number one is repeated four times.\n* **Hat:** The image of a hat represents a hat.\n\nPutting it together, \"HANG\" (backward) + \"one's\" + \"hat\" = \"Hang up one's hat\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tip one's hat (B) hang over one's head (C) hang up one's hat (D) hang one's hat",
+   "answer": {
+      "C": "hang up one's hat"
+   },
+   "extracted_response": "C) hang up one's hat"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The downward arrows (\u2193) suggest \"down\" or \"under.\"\n- The Roman numeral \"1111\" represents the number 11.\n- The \"IIII\" represents the number 4.\n\nPutting these together, it suggests \"under 11 eyes\" or \"under one's very eyes.\"\n\nTherefore, the correct answer is (C) under one's very eyes.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's time (B) before one's eyes (C) under one's very eyes (D) before someone's time",
-    "answer": {
-        "B": "before one's eyes"
-    }
+   "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The downward arrows (\u2193) suggest \"down\" or \"under.\"\n- The Roman numeral \"1111\" represents the number 11.\n- The \"IIII\" represents the number 4.\n\nPutting these together, it suggests \"under 11 eyes\" or \"under one's very eyes.\"\n\nTherefore, the correct answer is (C) under one's very eyes.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's time (B) before one's eyes (C) under one's very eyes (D) before someone's time",
+   "answer": {
+      "B": "before one's eyes"
+   },
+   "extracted_response": "C) under one's very eyes"
 }

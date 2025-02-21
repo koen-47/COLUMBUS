@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) armed to the teeth.  The image shows the words \"ARMED\" and \"TEETH\" arranged in a way that visually represents the idiom \"armed to the teeth\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick in the teeth (B) armed to the teeth (C) show one's teeth (D) bare one's teeth",
-    "answer": {
-        "B": "armed to the teeth"
-    }
+   "gemini_pro_response": "The correct answer is (B) armed to the teeth.  The image shows the words \"ARMED\" and \"TEETH\" arranged in a way that visually represents the idiom \"armed to the teeth\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick in the teeth (B) armed to the teeth (C) show one's teeth (D) bare one's teeth",
+   "answer": {
+      "B": "armed to the teeth"
+   },
+   "extracted_response": "B) armed to the teeth"
 }

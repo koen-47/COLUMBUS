@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image, with the word \"ROAD\" and arrows pointing up and down, represents two diverging paths.  This aligns with the idiom \"high road\" and \"low road,\" where the \"high road\" represents the morally superior path and the \"low road\" represents the less ethical or more aggressive one.\n\nSo the answer is **(D) high road**.  While the image doesn't explicitly show *which* is the high or low road, the presence of two opposing directions coupled with the word \"road\" suggests the high road/low road dichotomy.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) middle of the road (B) roadside (C) low road (D) high road",
-    "answer": {
-        "A": "middle of the road"
-    }
+   "gemini_pro_response": "The image, with the word \"ROAD\" and arrows pointing up and down, represents two diverging paths.  This aligns with the idiom \"high road\" and \"low road,\" where the \"high road\" represents the morally superior path and the \"low road\" represents the less ethical or more aggressive one.\n\nSo the answer is **(D) high road**.  While the image doesn't explicitly show *which* is the high or low road, the presence of two opposing directions coupled with the word \"road\" suggests the high road/low road dichotomy.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) middle of the road (B) roadside (C) low road (D) high road",
+   "answer": {
+      "A": "middle of the road"
+   },
+   "extracted_response": "D) high road"
 }

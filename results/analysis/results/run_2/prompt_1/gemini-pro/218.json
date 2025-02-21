@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (A) hell on earth.\n\nThe word \"HELL\" is placed above an image of the Earth, suggesting that Earth is hell.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hell on earth (B) to hell (C) paradise on earth (D) give hell",
-    "answer": {
-        "A": "hell on earth"
-    }
+   "gemini_pro_response": "The image conveys (A) hell on earth.\n\nThe word \"HELL\" is placed above an image of the Earth, suggesting that Earth is hell.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hell on earth (B) to hell (C) paradise on earth (D) give hell",
+   "answer": {
+      "A": "hell on earth"
+   },
+   "extracted_response": "A"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) face to face.\n\nThe image shows three faces arranged in a way that suggests a face-to-face interaction or meeting.  Two faces are close together, while a third is slightly separate but still oriented towards the other two.  This visual arrangement best represents the concept of \"face to face.\"\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give face (B) lose face (C) face to face (D) face down",
-    "answer": {
-        "C": "face to face"
-    }
+   "gemini_pro_response": "The correct answer is (C) face to face.\n\nThe image shows three faces arranged in a way that suggests a face-to-face interaction or meeting.  Two faces are close together, while a third is slightly separate but still oriented towards the other two.  This visual arrangement best represents the concept of \"face to face.\"\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give face (B) lose face (C) face to face (D) face down",
+   "answer": {
+      "C": "face to face"
+   },
+   "extracted_response": "C) face to face"
 }

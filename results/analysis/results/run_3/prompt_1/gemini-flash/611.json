@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **have an eye for**.\n\nThe image displays the words \"EYE EYE EYE EYE AN EYE\".  This visually represents the phrase \"have an eye for\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) bat an eye (C) have an eye for (D) see eye to eye",
-    "answer": {
-        "A": "eye for an eye"
-    }
+   "gemini_pro_response": "The correct answer is (C) **have an eye for**.\n\nThe image displays the words \"EYE EYE EYE EYE AN EYE\".  This visually represents the phrase \"have an eye for\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) bat an eye (C) have an eye for (D) see eye to eye",
+   "answer": {
+      "A": "eye for an eye"
+   },
+   "extracted_response": "C) have an eye for"
 }

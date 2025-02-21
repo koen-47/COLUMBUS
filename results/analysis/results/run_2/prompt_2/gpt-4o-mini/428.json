@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows \"1111SETWAYS.\" The \"1111\" can be interpreted as \"one\" repeated four times, which sounds like \"set.\" Therefore, the phrase conveyed is \"set in one's ways.\"\n\nThe correct answer is (C) set in one's ways.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in ways (B) mend one's ways (C) set in one's ways (D) make one's way",
-    "answer": {
-        "C": "set in one's ways"
-    }
+   "gpt4v_response": "The rebus puzzle shows \"1111SETWAYS.\" The \"1111\" can be interpreted as \"one\" repeated four times, which sounds like \"set.\" Therefore, the phrase conveyed is \"set in one's ways.\"\n\nThe correct answer is (C) set in one's ways.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in ways (B) mend one's ways (C) set in one's ways (D) make one's way",
+   "answer": {
+      "C": "set in one's ways"
+   },
+   "extracted_response": "C) set in one's ways"
 }

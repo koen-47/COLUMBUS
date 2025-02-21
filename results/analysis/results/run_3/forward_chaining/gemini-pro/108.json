@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word BANG is written vertically and the word DOOR is to the right of BANG. This represents \"bang\" + \"door\", which maps to \"bang [on the] door\". The closest answer choice is (A) bang down the door, where down is inferred from the spatial arrangement of BANG next to DOOR. \n\n(B) bang up, (C) bang out, and (D) bang away are not supported by the spatial arrangement in the image.\n\nFinal Answer: The final answer is $\\boxed{A}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"text_BANG\",\n    \"description\": \"The word 'BANG' written vertically with each letter on a new line.\",\n    \"relation\": \"left of item2\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"text_DOOR\",\n    \"description\": \"The word 'DOOR' written horizontally.\",\n    \"relation\": \"right of item1\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) bang down the door (B) bang up (C) bang out (D) bang away\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "bang down the door"
+    }
+}

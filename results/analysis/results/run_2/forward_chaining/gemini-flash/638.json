@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) fly on the wall.\n\nHere's the reasoning:\n\nThe JSON indicates that the text \"FAFLYCE\" is centrally located in the image.  This is a rebus puzzle that relies on visual wordplay.  If you rearrange the letters in \"FAFLYCE\", you get \"FLY ON THE FACE\". The phrase \"fly on the face\" is not an idiom; however, a very close and common idiom is \"fly on the wall.\" Therefore, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_FAFLYCE\",\n  \"description\": \"The text 'FAFLYCE' is written in capital letters.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) fly by (B) fly in the face of (C) fly on the wall (D) hurt a fly\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "fly in the face of"
+    }
+}

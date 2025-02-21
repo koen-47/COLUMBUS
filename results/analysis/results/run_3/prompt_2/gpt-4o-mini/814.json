@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows two figures running and an image of the Earth. This suggests the phrase \"run to earth.\" \n\nSo, the answer is (B) run to earth.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down to earth (B) run to earth (C) run to (D) run into the ground",
-    "answer": {
-        "B": "run to earth"
-    }
+   "gpt4v_response": "The rebus puzzle shows two figures running and an image of the Earth. This suggests the phrase \"run to earth.\" \n\nSo, the answer is (B) run to earth.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down to earth (B) run to earth (C) run to (D) run into the ground",
+   "answer": {
+      "B": "run to earth"
+   },
+   "extracted_response": "B) run to earth"
 }

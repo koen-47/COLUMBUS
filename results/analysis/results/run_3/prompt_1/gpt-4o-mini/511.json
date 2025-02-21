@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (D) die.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what for (B) to the death (C) to die for (D) die",
-    "answer": {
-        "C": "to die for"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (D) die.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what for (B) to the death (C) to die for (D) die",
+   "answer": {
+      "C": "to die for"
+   },
+   "extracted_response": "D) die"
 }

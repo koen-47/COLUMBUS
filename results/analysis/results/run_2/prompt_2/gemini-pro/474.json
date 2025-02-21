@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word is written in green. Green is often associated with the environment. A \"green handshake\" is a term sometimes used to describe agreements that benefit both business and the environment. So the answer is (A).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) green handshake (B) golden handshake (C) handshake (D) handshaking",
-    "answer": {
-        "A": "green handshake"
-    }
+   "gemini_pro_response": "The word is written in green. Green is often associated with the environment. A \"green handshake\" is a term sometimes used to describe agreements that benefit both business and the environment. So the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) green handshake (B) golden handshake (C) handshake (D) handshaking",
+   "answer": {
+      "A": "green handshake"
+   },
+   "extracted_response": "A) green handshake"
 }

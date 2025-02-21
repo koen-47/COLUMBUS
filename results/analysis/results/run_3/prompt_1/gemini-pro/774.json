@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image is of a red coat.  The options differentiate between singular and plural, and the color of the coat.  Since the image depicts a single red coat, the answer is (A) redcoat.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) redcoat (B) turncoat (C) bluecoat (D) redcoats",
-    "answer": {
-        "A": "redcoat"
-    }
+   "gemini_pro_response": "The image is of a red coat.  The options differentiate between singular and plural, and the color of the coat.  Since the image depicts a single red coat, the answer is (A) redcoat.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) redcoat (B) turncoat (C) bluecoat (D) redcoats",
+   "answer": {
+      "A": "redcoat"
+   },
+   "extracted_response": "A) redcoat"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) done deal.\n\nThe rebus shows the word \"DONE\" repeated four times.  This visually represents \"four DONE deals\" which simplifies to \"done deal\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) done in (B) done for (C) done deal (D) well done",
-    "answer": {
-        "B": "done for"
-    }
+   "gemini_pro_response": "The answer is (C) done deal.\n\nThe rebus shows the word \"DONE\" repeated four times.  This visually represents \"four DONE deals\" which simplifies to \"done deal\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) done in (B) done for (C) done deal (D) well done",
+   "answer": {
+      "B": "done for"
+   },
+   "extracted_response": "C) done deal"
 }

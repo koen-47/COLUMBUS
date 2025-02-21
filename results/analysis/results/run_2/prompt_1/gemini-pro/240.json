@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"Butterfly Wheel\" because the words \"BUTTERFLY\" and \"WHEEL\" are displayed with a horizontal line separating them. This presentation suggests a combined phrase. So the correct answer is **(B) butterfly upon a wheel**.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wheel away (B) butterfly upon a wheel (C) butterfly (D) wheel within a wheel",
-    "answer": {
-        "B": "butterfly upon a wheel"
-    }
+   "gemini_pro_response": "The image conveys \"Butterfly Wheel\" because the words \"BUTTERFLY\" and \"WHEEL\" are displayed with a horizontal line separating them. This presentation suggests a combined phrase. So the correct answer is **(B) butterfly upon a wheel**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wheel away (B) butterfly upon a wheel (C) butterfly (D) wheel within a wheel",
+   "answer": {
+      "B": "butterfly upon a wheel"
+   },
+   "extracted_response": "B) butterfly upon a wheel"
 }

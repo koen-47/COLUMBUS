@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (D) run on fumes.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run riot (C) run through (D) run on fumes",
-    "answer": {
-        "D": "run on fumes"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (D) run on fumes.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run riot (C) run through (D) run on fumes",
+   "answer": {
+      "D": "run on fumes"
+   },
+   "extracted_response": "D) run on fumes"
 }

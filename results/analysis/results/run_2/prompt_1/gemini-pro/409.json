@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the letters \"WOR\".  This is likely part of a rebus puzzle.  The answer is (A) row in the same boat, as \"WOR\" sounds like \"oar\", as in using an oar to row a boat.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) row in the same boat (B) skid row (C) in a row (D) row back",
-    "answer": {
-        "D": "row back"
-    }
+   "gemini_pro_response": "The image shows the letters \"WOR\".  This is likely part of a rebus puzzle.  The answer is (A) row in the same boat, as \"WOR\" sounds like \"oar\", as in using an oar to row a boat.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) row in the same boat (B) skid row (C) in a row (D) row back",
+   "answer": {
+      "D": "row back"
+   },
+   "extracted_response": "A) row in the same boat"
 }

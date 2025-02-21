@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows \"SHEETS\" four times and \"WIND\" twice.  This represents \"four sheets to the wind.\"\n\nSo the answer is (A).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) four sheets to the wind (B) three sheets to the wind (C) get wind (D) wind at one's back",
-    "answer": {
-        "A": "four sheets to the wind"
-    }
+   "gemini_pro_response": "The rebus shows \"SHEETS\" four times and \"WIND\" twice.  This represents \"four sheets to the wind.\"\n\nSo the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) four sheets to the wind (B) three sheets to the wind (C) get wind (D) wind at one's back",
+   "answer": {
+      "A": "four sheets to the wind"
+   },
+   "extracted_response": "A) four sheets to the wind"
 }

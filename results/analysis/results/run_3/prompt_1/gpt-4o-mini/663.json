@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (B) long in the tooth.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spicy tooth (B) long in the tooth (C) long finger (D) hen's tooth",
-    "answer": {
-        "B": "long in the tooth"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) long in the tooth.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spicy tooth (B) long in the tooth (C) long finger (D) hen's tooth",
+   "answer": {
+      "B": "long in the tooth"
+   },
+   "extracted_response": "B) long in the tooth"
 }

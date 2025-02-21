@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) everyone and their brother.\n\nThe rebus shows the word \"BROTHER\".  The solution relies on interpreting \"BROTHER\" as meaning \"and their brother\". Since \"everyone\" is implied, the complete phrase is \"everyone and their brother\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) everybody and their brother (B) everyone and their brother (C) big talk (D) big brother",
-    "answer": {
-        "D": "big brother"
-    }
+   "gemini_pro_response": "The correct answer is (B) everyone and their brother.\n\nThe rebus shows the word \"BROTHER\".  The solution relies on interpreting \"BROTHER\" as meaning \"and their brother\". Since \"everyone\" is implied, the complete phrase is \"everyone and their brother\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) everybody and their brother (B) everyone and their brother (C) big talk (D) big brother",
+   "answer": {
+      "D": "big brother"
+   },
+   "extracted_response": "B) everyone and their brother"
 }

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"WALK\" above a horizontal line and the words \"WILD SIDE\" below the line. This arrangement suggests the phrase \"walk on the wild side.\"\n\nTherefore, the correct answer is (C) walk on the wild side.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"WALK\",\n        \"description\": \"The word 'WALK' in uppercase letters.\",\n        \"relation\": \"Above the horizontal line.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Horizontal Line\",\n        \"description\": \"A straight horizontal line.\",\n        \"relation\": \"Between the words 'WALK' and 'WILD SIDE'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"WILD SIDE\",\n        \"description\": \"The words 'WILD SIDE' in uppercase letters.\",\n        \"relation\": \"Below the horizontal line.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) run wild (B) call of the wild (C) walk on the wild side (D) go wild\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "walk on the wild side"
+    }
+}

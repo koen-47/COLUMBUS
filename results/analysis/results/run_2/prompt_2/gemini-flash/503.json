@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) **think on one's feet**.\n\nThe rebus shows \"THINK\" over \"1111 FEET\".  \"1111\" represents \"one one one one\", which sounds like \"on one's\". Therefore, the entire rebus reads \"Think on one's feet\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) find one's feet (B) on one's feet (C) think on one's feet (D) at one's feet",
-    "answer": {
-        "C": "think on one's feet"
-    }
+   "gemini_pro_response": "The answer is (C) **think on one's feet**.\n\nThe rebus shows \"THINK\" over \"1111 FEET\".  \"1111\" represents \"one one one one\", which sounds like \"on one's\". Therefore, the entire rebus reads \"Think on one's feet\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) find one's feet (B) on one's feet (C) think on one's feet (D) at one's feet",
+   "answer": {
+      "C": "think on one's feet"
+   },
+   "extracted_response": "C) think on one's feet"
 }

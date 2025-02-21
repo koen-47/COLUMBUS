@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(A) fall into one's lap**.\n\nThe image shows \"1111FALL LAP\".  Reading this as \"1111 fall lap\" creates a visual pun, suggesting something (represented by the repeated \"1\"s) falls into one's lap.  The other options don't fit the visual representation as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall into one's lap (B) land in someone's lap (C) with one's jaw in one's lap (D) lap up",
-    "answer": {
-        "A": "fall into one's lap"
-    }
+   "gemini_pro_response": "The correct answer is **(A) fall into one's lap**.\n\nThe image shows \"1111FALL LAP\".  Reading this as \"1111 fall lap\" creates a visual pun, suggesting something (represented by the repeated \"1\"s) falls into one's lap.  The other options don't fit the visual representation as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall into one's lap (B) land in someone's lap (C) with one's jaw in one's lap (D) lap up",
+   "answer": {
+      "A": "fall into one's lap"
+   },
+   "extracted_response": "A) fall into one's lap"
 }

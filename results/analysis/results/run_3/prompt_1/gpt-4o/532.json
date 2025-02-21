@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (D) green handshake.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) golden handshake (B) handshake (C) handshaking (D) green handshake",
-    "answer": {
-        "D": "green handshake"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (D) green handshake.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) golden handshake (B) handshake (C) handshaking (D) green handshake",
+   "answer": {
+      "D": "green handshake"
+   },
+   "extracted_response": "D) green handshake"
 }

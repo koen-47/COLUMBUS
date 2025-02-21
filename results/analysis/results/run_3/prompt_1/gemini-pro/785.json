@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts people running, likely to seek shelter or protection. The phrase that best describes this action is **(D) take cover**. This idiom means to quickly seek shelter from danger.\n\nThe other options don't fit the image:\n\n* **(A) cover up:**  Means to conceal something.\n* **(B) from cover to cover:** Refers to reading a book entirely.\n* **(C) run for cover:** While similar to \"take cover,\" it implies running from something specific (e.g., rain, an attacker). \"Take cover\" is more general and fits the image better.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cover up (B) from cover to cover (C) run for cover (D) take cover",
-    "answer": {
-        "C": "run for cover"
-    }
+   "gemini_pro_response": "The image depicts people running, likely to seek shelter or protection. The phrase that best describes this action is **(D) take cover**. This idiom means to quickly seek shelter from danger.\n\nThe other options don't fit the image:\n\n* **(A) cover up:**  Means to conceal something.\n* **(B) from cover to cover:** Refers to reading a book entirely.\n* **(C) run for cover:** While similar to \"take cover,\" it implies running from something specific (e.g., rain, an attacker). \"Take cover\" is more general and fits the image better.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cover up (B) from cover to cover (C) run for cover (D) take cover",
+   "answer": {
+      "C": "run for cover"
+   },
+   "extracted_response": "D) take cover"
 }

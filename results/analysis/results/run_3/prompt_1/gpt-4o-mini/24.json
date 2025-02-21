@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (B) have one's heart in.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross one's heart (B) have one's heart in (C) after one's own heart (D) put one's heart in",
-    "answer": {
-        "C": "after one's own heart"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) have one's heart in.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross one's heart (B) have one's heart in (C) after one's own heart (D) put one's heart in",
+   "answer": {
+      "C": "after one's own heart"
+   },
+   "extracted_response": "B) have one's heart in"
 }

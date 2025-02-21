@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) belly up to the bar**.\n\nThe image shows the letters \"Y L L E B\" on the left, and \"BAR\" twice on the right.  Reading the left column vertically and adding the \"BAR\" from the right creates the phrase \"Belly up to the bar\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) raise the bar (B) prop up the bar (C) belly up to the bar (D) belly up",
-    "answer": {
-        "C": "belly up to the bar"
-    }
+   "gemini_pro_response": "The correct answer is **(C) belly up to the bar**.\n\nThe image shows the letters \"Y L L E B\" on the left, and \"BAR\" twice on the right.  Reading the left column vertically and adding the \"BAR\" from the right creates the phrase \"Belly up to the bar\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) raise the bar (B) prop up the bar (C) belly up to the bar (D) belly up",
+   "answer": {
+      "C": "belly up to the bar"
+   },
+   "extracted_response": "C) belly up to the bar"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle consists of the word \"PLAY\" repeated four times and the word \"TIME\" once. The repetition of \"PLAY\" suggests a focus on the concept of playing, while \"TIME\" indicates a relationship with time.\n\nGiven the options:\n(A) buy time\n(B) make time\n(C) play to win\n(D) play for time\n\nThe correct interpretation of the rebus is (D) play for time, as it combines the repeated \"PLAY\" with \"TIME\" in a way that suggests using play to gain or extend time.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: PLAY, repeat: 4, sound: (for: 4))\nNode 2 attributes: (text: TIME, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) buy time (B) make time (C) play to win (D) play for time",
-    "answer": {
-        "D": "play for time"
-    }
+   "gpt4v_response": "The rebus puzzle consists of the word \"PLAY\" repeated four times and the word \"TIME\" once. The repetition of \"PLAY\" suggests a focus on the concept of playing, while \"TIME\" indicates a relationship with time.\n\nGiven the options:\n(A) buy time\n(B) make time\n(C) play to win\n(D) play for time\n\nThe correct interpretation of the rebus is (D) play for time, as it combines the repeated \"PLAY\" with \"TIME\" in a way that suggests using play to gain or extend time.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: PLAY, repeat: 4, sound: (for: 4))\nNode 2 attributes: (text: TIME, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) buy time (B) make time (C) play to win (D) play for time",
+   "answer": {
+      "D": "play for time"
+   },
+   "extracted_response": "D) play for time"
 }

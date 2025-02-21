@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (B) tie in.  The image of a tie is inserted between the words \"WI\" and \"TH\" to create the phrase \"tie in with.\" However, the question asks which word/phrase is conveyed *in the image*, and the image itself only shows the \u201ctie in\u201d portion.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tie up (B) tie in (C) tie in with (D) tie one on",
-    "answer": {
-        "C": "tie in with"
-    }
+   "gemini_pro_response": "The image conveys (B) tie in.  The image of a tie is inserted between the words \"WI\" and \"TH\" to create the phrase \"tie in with.\" However, the question asks which word/phrase is conveyed *in the image*, and the image itself only shows the \u201ctie in\u201d portion.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tie up (B) tie in (C) tie in with (D) tie one on",
+   "answer": {
+      "C": "tie in with"
+   },
+   "extracted_response": "B, tie in"
 }

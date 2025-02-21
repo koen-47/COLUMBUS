@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (B) play to win.  It positions \"PLAY\" twice, with \"WIN\" in the upper right, visually suggesting an aim or objective.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) win over (B) play to win (C) play for time (D) play ball",
-    "answer": {
-        "B": "play to win"
-    }
+   "gemini_pro_response": "The image conveys (B) play to win.  It positions \"PLAY\" twice, with \"WIN\" in the upper right, visually suggesting an aim or objective.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) win over (B) play to win (C) play for time (D) play ball",
+   "answer": {
+      "B": "play to win"
+   },
+   "extracted_response": "B) play to win"
 }

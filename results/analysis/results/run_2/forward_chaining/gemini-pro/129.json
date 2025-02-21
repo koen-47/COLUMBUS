@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The two crossed bones represent \"bone\", and the pickaxe represents \"to pick\". Together they are located next to each other making the phrase \"bone to pick\".\n\nThe answer is (A).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"crossed bones\",\n        \"description\": \"Two bones crossed in an 'X' shape\",\n        \"relation\": \"left of the pickaxe\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"pickaxe\",\n        \"description\": \"A pickaxe with a handle and a pointed end\",\n        \"relation\": \"right of the crossed bones\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) bone to pick (B) funny bone (C) throw a bone to (D) to the bone\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "bone to pick"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) big ole.  The image shows \"OL'\", which is a common abbreviation for \"ole\" in informal speech.  Therefore, when combined with \"big\", it forms \"big ole\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big ol' (B) big name (C) big ole (D) big shot",
-    "answer": {
-        "A": "big ol'"
-    }
+   "gemini_pro_response": "The correct answer is (C) big ole.  The image shows \"OL'\", which is a common abbreviation for \"ole\" in informal speech.  Therefore, when combined with \"big\", it forms \"big ole\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big ol' (B) big name (C) big ole (D) big shot",
+   "answer": {
+      "A": "big ol'"
+   },
+   "extracted_response": "C) big ole"
 }

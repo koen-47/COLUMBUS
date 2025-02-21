@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) hand over hand.  The words and the line between them suggest the motion of one hand placed over the other, as when climbing a rope.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over fist (B) hand over (C) hand over hand (D) hand in hand",
-    "answer": {
-        "C": "hand over hand"
-    }
+   "gemini_pro_response": "The image conveys (C) hand over hand.  The words and the line between them suggest the motion of one hand placed over the other, as when climbing a rope.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over fist (B) hand over (C) hand over hand (D) hand in hand",
+   "answer": {
+      "C": "hand over hand"
+   },
+   "extracted_response": "C"
 }

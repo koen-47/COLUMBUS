@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"blue wall of silence.\" The blue color and the brick pattern suggest a wall, combined with the word \"silence.\" Therefore, the correct answer is (C) blue wall of silence.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pact of silence (B) wall of silence (C) blue wall of silence (D) silence is golden",
-    "answer": {
-        "C": "blue wall of silence"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"blue wall of silence.\" The blue color and the brick pattern suggest a wall, combined with the word \"silence.\" Therefore, the correct answer is (C) blue wall of silence.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pact of silence (B) wall of silence (C) blue wall of silence (D) silence is golden",
+   "answer": {
+      "C": "blue wall of silence"
+   },
+   "extracted_response": "C) blue wall of silence"
 }

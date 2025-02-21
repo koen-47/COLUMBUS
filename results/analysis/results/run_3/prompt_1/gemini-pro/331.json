@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image clearly spells out \"EAST\".  So, the answer is none of the provided multiple-choice options.  The correct answer would simply be **East**.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) northeast (B) middlemen (C) southeast (D) middle east",
-    "answer": {
-        "D": "middle east"
-    }
+   "gemini_pro_response": "The image clearly spells out \"EAST\".  So, the answer is none of the provided multiple-choice options.  The correct answer would simply be **East**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) northeast (B) middlemen (C) southeast (D) middle east",
+   "answer": {
+      "D": "middle east"
+   },
+   "extracted_response": "The image clearly spells out \"EAST\".  So, the answer is none of the provided multiple-choice options.  The correct answer would simply be **East**."
 }

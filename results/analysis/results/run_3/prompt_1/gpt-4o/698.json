@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(A) moment in the sun",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) moment in the sun (B) catch the sun (C) moment of truth (D) in the heat of the moment",
-    "answer": {
-        "A": "moment in the sun"
-    }
+   "gpt4v_response": "(A) moment in the sun",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) moment in the sun (B) catch the sun (C) moment of truth (D) in the heat of the moment",
+   "answer": {
+      "A": "moment in the sun"
+   },
+   "extracted_response": "A) moment in the sun"
 }

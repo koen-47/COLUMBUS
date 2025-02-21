@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (D) for my money.\n\nThe arrangement of the words \"MY\" repeated vertically alongside the word \"MONEY\" creates the phrase \"for my money,\" which is an idiom expressing one's opinion or preference.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the money (B) for the love of me (C) for the love of (D) for my money",
-    "answer": {
-        "D": "for my money"
-    }
+   "gemini_pro_response": "The image conveys (D) for my money.\n\nThe arrangement of the words \"MY\" repeated vertically alongside the word \"MONEY\" creates the phrase \"for my money,\" which is an idiom expressing one's opinion or preference.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the money (B) for the love of me (C) for the love of (D) for my money",
+   "answer": {
+      "D": "for my money"
+   },
+   "extracted_response": "D) for my money"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image clearly shows the word \"STEP\".  None of the other words in the multiple-choice options are present.  While \"a small step for man\" might be alluded to, the image only contains the word \"STEP\".  Therefore, none of the options besides \"STEP\" are valid. Since the question is posed as multiple choice, none of the options (A,B,C,D) are strictly correct. However, options B, C, and D all include the word \"step\" in them, so if the answer *has* to be from the choices, none are fully correct, but B,C,D are partially correct.\n\n\nWithout the options, the answer would be \"STEP\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) giant step (B) a small step for man (C) step over (D) step lively",
-    "answer": {
-        "A": "giant step"
-    }
+   "gemini_pro_response": "The image clearly shows the word \"STEP\".  None of the other words in the multiple-choice options are present.  While \"a small step for man\" might be alluded to, the image only contains the word \"STEP\".  Therefore, none of the options besides \"STEP\" are valid. Since the question is posed as multiple choice, none of the options (A,B,C,D) are strictly correct. However, options B, C, and D all include the word \"step\" in them, so if the answer *has* to be from the choices, none are fully correct, but B,C,D are partially correct.\n\n\nWithout the options, the answer would be \"STEP\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) giant step (B) a small step for man (C) step over (D) step lively",
+   "answer": {
+      "A": "giant step"
+   },
+   "extracted_response": "B, C, D"
 }

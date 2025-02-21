@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts a single word with a line through it, visually representing a word in a crossword puzzle. Therefore, the answer is **(B) headword**. A headword is the word written across or down in a crossword puzzle to be guessed by the solver.  Options (A) and (C) refer to the puzzle itself, not individual words within the puzzle. (D) is an unrelated term.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossword (B) headword (C) crosswords (D) backsword",
-    "answer": {
-        "A": "crossword"
-    }
+   "gemini_pro_response": "The image depicts a single word with a line through it, visually representing a word in a crossword puzzle. Therefore, the answer is **(B) headword**. A headword is the word written across or down in a crossword puzzle to be guessed by the solver.  Options (A) and (C) refer to the puzzle itself, not individual words within the puzzle. (D) is an unrelated term.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossword (B) headword (C) crosswords (D) backsword",
+   "answer": {
+      "A": "crossword"
+   },
+   "extracted_response": "B) headword"
 }

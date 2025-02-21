@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows a rainbow with an arrow pointing down on the right and an arrow pointing up on the left. This suggests the phrase \"over the rainbow.\" The description doesn't add any extra information relevant to solving the puzzle other than stating the rainbow is the primary subject.  Since \"over the rainbow\" isn't an option, and the arrows can be visually seen going over the rainbow, then the closest option is (A) end of the rainbow.\n\nFinal Answer: The final answer is $\\boxed{A}$",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83c\udf08, repeat: 1, highlight: after, icon: (rainbow: \ud83c\udf08))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) end of the rainbow (B) rainbow (C) chase a rainbow (D) rainbow baby",
-    "answer": {
-        "A": "end of the rainbow"
-    }
+   "gemini_pro_response": "The image shows a rainbow with an arrow pointing down on the right and an arrow pointing up on the left. This suggests the phrase \"over the rainbow.\" The description doesn't add any extra information relevant to solving the puzzle other than stating the rainbow is the primary subject.  Since \"over the rainbow\" isn't an option, and the arrows can be visually seen going over the rainbow, then the closest option is (A) end of the rainbow.\n\nFinal Answer: The final answer is $\\boxed{A}$",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83c\udf08, repeat: 1, highlight: after, icon: (rainbow: \ud83c\udf08))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) end of the rainbow (B) rainbow (C) chase a rainbow (D) rainbow baby",
+   "answer": {
+      "A": "end of the rainbow"
+   },
+   "extracted_response": "A) end of the rainbow"
 }

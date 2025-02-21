@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "None of the phrases are a perfect fit for just an image of guns.  However, **(D) big gun** is the closest.  The other options imply action or status, whereas the image simply presents the objects.  \"Big gun\" can refer to a powerful weapon literally, while the others are more figurative.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) guns blazing (B) the big guns (C) big shot (D) big gun",
-    "answer": {
-        "B": "the big guns"
-    }
+   "gemini_pro_response": "None of the phrases are a perfect fit for just an image of guns.  However, **(D) big gun** is the closest.  The other options imply action or status, whereas the image simply presents the objects.  \"Big gun\" can refer to a powerful weapon literally, while the others are more figurative.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) guns blazing (B) the big guns (C) big shot (D) big gun",
+   "answer": {
+      "B": "the big guns"
+   },
+   "extracted_response": "D) big gun"
 }

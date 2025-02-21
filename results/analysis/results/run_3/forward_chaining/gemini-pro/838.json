@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"SOMEWHERE\" is above the line. The Wi-Fi symbol, resembling a partial rainbow, is below the line. This can be interpreted as \"SOMEWHERE over the rainbow\".\nTherefore, the answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"text_somewhere\",\n  \"description\": \"The word 'SOMEWHERE' in uppercase letters.\",\n  \"relation\": \"above the horizontal line\"\n}\n```\n\n```json\n{\n  \"id\": \"item2\",\n  \"name\": \"horizontal_line\",\n  \"description\": \"A straight horizontal line.\",\n  \"relation\": \"below the word 'SOMEWHERE' and above the Wi-Fi symbol\"\n}\n```\n\n```json\n{\n  \"id\": \"item3\",\n  \"name\": \"wifi_symbol\",\n  \"description\": \"A Wi-Fi symbol with curved lines.\",\n  \"relation\": \"below the horizontal line\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) rainbow (B) somewhere over the rainbow (C) end of the rainbow (D) rainbow baby\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "somewhere over the rainbow"
+    }
+}

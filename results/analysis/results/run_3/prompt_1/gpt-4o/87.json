@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (B) crossbar.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sidebars (B) crossbar (C) handlebars (D) crossbars",
-    "answer": {
-        "D": "crossbars"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) crossbar.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sidebars (B) crossbar (C) handlebars (D) crossbars",
+   "answer": {
+      "D": "crossbars"
+   },
+   "extracted_response": "B) crossbar"
 }

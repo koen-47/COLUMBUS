@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) turn back.\n\nHere's why:\n\nThe node attributes indicate that the text \"TURN\" should be reversed.  Reversing \"TURN\" gives you \"NRUT\", which is exactly what's shown in the image.  Therefore, the rebus represents the phrase \"turn back\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: TURN, repeat: 1, direction: reverse)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) turn over (B) turn back (C) turn down (D) turn back on",
-    "answer": {
-        "B": "turn back"
-    }
+   "gemini_pro_response": "The correct answer is (B) turn back.\n\nHere's why:\n\nThe node attributes indicate that the text \"TURN\" should be reversed.  Reversing \"TURN\" gives you \"NRUT\", which is exactly what's shown in the image.  Therefore, the rebus represents the phrase \"turn back\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: TURN, repeat: 1, direction: reverse)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) turn over (B) turn back (C) turn down (D) turn back on",
+   "answer": {
+      "B": "turn back"
+   },
+   "extracted_response": "B) turn back"
 }

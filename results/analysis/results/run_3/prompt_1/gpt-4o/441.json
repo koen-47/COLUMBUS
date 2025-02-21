@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The image conveys the word/phrase: (A) for a change.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for a change (B) small change (C) change over (D) loose change",
-    "answer": {
-        "B": "small change"
-    }
+   "gpt4v_response": "The image conveys the word/phrase: (A) for a change.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for a change (B) small change (C) change over (D) loose change",
+   "answer": {
+      "B": "small change"
+   },
+   "extracted_response": "A) for a change"
 }

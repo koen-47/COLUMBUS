@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "D) close on the heels of",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) dig heels in (C) on the heels of (D) close on the heels of",
-    "answer": {
-        "D": "close on the heels of"
-    }
+   "gpt4v_response": "D) close on the heels of",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) dig heels in (C) on the heels of (D) close on the heels of",
+   "answer": {
+      "D": "close on the heels of"
+   },
+   "extracted_response": "D) close on the heels of"
 }

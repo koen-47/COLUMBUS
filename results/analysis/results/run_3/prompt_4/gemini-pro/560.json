@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows the word \"FACT\" repeated four times. The description indicates that the sound of \"FACT\" should be replaced with \"FOR\" four times. This leads to the phrase \"FOR FOR FOR FOR,\" which sounds like \"for for for for.\"  Option C is very close. However, option D, \"as a matter of fact\" is an even closer match.\n\nTherefore, the answer is (D).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: FACT, repeat: 4, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) fact is (B) for real and for true (C) for a fact (D) as a matter of fact",
-    "answer": {
-        "C": "for a fact"
-    }
+   "gemini_pro_response": "The rebus shows the word \"FACT\" repeated four times. The description indicates that the sound of \"FACT\" should be replaced with \"FOR\" four times. This leads to the phrase \"FOR FOR FOR FOR,\" which sounds like \"for for for for.\"  Option C is very close. However, option D, \"as a matter of fact\" is an even closer match.\n\nTherefore, the answer is (D).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: FACT, repeat: 4, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) fact is (B) for real and for true (C) for a fact (D) as a matter of fact",
+   "answer": {
+      "C": "for a fact"
+   },
+   "extracted_response": "D) as a matter of fact"
 }

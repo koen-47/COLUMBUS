@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word conveyed in the image is (A) speak up.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak to (D) talk up",
-    "answer": {
-        "A": "speak up"
-    }
+   "gpt4v_response": "The word conveyed in the image is (A) speak up.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak to (D) talk up",
+   "answer": {
+      "A": "speak up"
+   },
+   "extracted_response": "A) speak up"
 }

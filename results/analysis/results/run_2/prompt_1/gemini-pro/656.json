@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts (B) give someone the bag.  It shows the word \"cat\" outside a bordered box containing the word \"bag\". This visualizes the act of placing a cat inside a bag and handing it to someone. While similar to \"cat in the sack,\" the emphasis here is on the *giving* of the bag.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) let the cat out of the bag (B) give someone the bag (C) cat in the sack (D) left holding the bag",
-    "answer": {
-        "A": "let the cat out of the bag"
-    }
+   "gemini_pro_response": "The image depicts (B) give someone the bag.  It shows the word \"cat\" outside a bordered box containing the word \"bag\". This visualizes the act of placing a cat inside a bag and handing it to someone. While similar to \"cat in the sack,\" the emphasis here is on the *giving* of the bag.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) let the cat out of the bag (B) give someone the bag (C) cat in the sack (D) left holding the bag",
+   "answer": {
+      "A": "let the cat out of the bag"
+   },
+   "extracted_response": "B) give someone the bag"
 }

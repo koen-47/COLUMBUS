@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (D) aftershocks.  The initial \"SHOCK\" is followed by smaller \"shocks\" represented by the up and down arrows.  These smaller shocks following a larger one are aftershocks.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snowshoes (B) snowshoe (C) aftershock (D) aftershocks",
-    "answer": {
-        "D": "aftershocks"
-    }
+   "gemini_pro_response": "The image conveys (D) aftershocks.  The initial \"SHOCK\" is followed by smaller \"shocks\" represented by the up and down arrows.  These smaller shocks following a larger one are aftershocks.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snowshoes (B) snowshoe (C) aftershock (D) aftershocks",
+   "answer": {
+      "D": "aftershocks"
+   },
+   "extracted_response": "D) aftershocks"
 }

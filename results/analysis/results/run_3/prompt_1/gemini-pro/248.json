@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"1111GOSHELL\". This can be interpreted as \"I, I, I, I go shell\".  It's a visual representation of the idiom \"go into one's shell\" (C).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go one's own way (B) go out of one's way (C) go into one's shell (D) come out of one's shell",
-    "answer": {
-        "C": "go into one's shell"
-    }
+   "gemini_pro_response": "The image says \"1111GOSHELL\". This can be interpreted as \"I, I, I, I go shell\".  It's a visual representation of the idiom \"go into one's shell\" (C).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go one's own way (B) go out of one's way (C) go into one's shell (D) come out of one's shell",
+   "answer": {
+      "C": "go into one's shell"
+   },
+   "extracted_response": "C"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the number \"1111\" with an arrow pointing down and a four-leaf clover (which symbolizes luck). \n\nThis suggests the phrase \"down on one's luck,\" as the arrow indicates \"down\" and the clover represents \"luck.\"\n\nSo, the answer is (B) down on one's luck.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) push one's luck (B) down on one's luck (C) cross fingers for luck (D) ride one's luck",
-    "answer": {
-        "B": "down on one's luck"
-    }
+   "gpt4v_response": "The rebus puzzle shows the number \"1111\" with an arrow pointing down and a four-leaf clover (which symbolizes luck). \n\nThis suggests the phrase \"down on one's luck,\" as the arrow indicates \"down\" and the clover represents \"luck.\"\n\nSo, the answer is (B) down on one's luck.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) push one's luck (B) down on one's luck (C) cross fingers for luck (D) ride one's luck",
+   "answer": {
+      "B": "down on one's luck"
+   },
+   "extracted_response": "B) down on one's luck"
 }

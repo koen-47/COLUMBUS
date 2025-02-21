@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(A) two thumbs up",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two thumbs up (B) thumbstall (C) thumbscrews (D) thumbscrew",
-    "answer": {
-        "A": "two thumbs up"
-    }
+   "gpt4v_response": "(A) two thumbs up",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two thumbs up (B) thumbstall (C) thumbscrews (D) thumbscrew",
+   "answer": {
+      "A": "two thumbs up"
+   },
+   "extracted_response": "A) two thumbs up"
 }

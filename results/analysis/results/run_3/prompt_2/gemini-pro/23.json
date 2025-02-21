@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle \"QUIARROWVER\" represents (A) **arrow in the quiver**.  \"Qui\" sounds like \"kwee,\" similar to the first syllable of \"quiver.\"  \"Arrow\" is plainly written, and \"ver\" sounds like the last syllable of \"quiver.\" So, the puzzle puts an \"arrow\" inside of the sound of \"quiver.\"",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) arrow in the quiver (B) arrowheads (C) draw the long bow (D) make one's bow",
-    "answer": {
-        "A": "arrow in the quiver"
-    }
+   "gemini_pro_response": "The rebus puzzle \"QUIARROWVER\" represents (A) **arrow in the quiver**.  \"Qui\" sounds like \"kwee,\" similar to the first syllable of \"quiver.\"  \"Arrow\" is plainly written, and \"ver\" sounds like the last syllable of \"quiver.\" So, the puzzle puts an \"arrow\" inside of the sound of \"quiver.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) arrow in the quiver (B) arrowheads (C) draw the long bow (D) make one's bow",
+   "answer": {
+      "A": "arrow in the quiver"
+   },
+   "extracted_response": "A) arrow in the quiver"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase \"**D) down in the dumps**.\" The downward arrow visually represents \"down,\" and it's placed within the word \"dumps.\" This creates a visual pun, emphasizing the feeling of being low or depressed.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down the drain (B) down in the mouth (C) down the toilet (D) down in the dumps",
-    "answer": {
-        "D": "down in the dumps"
-    }
+   "gemini_pro_response": "The image conveys the phrase \"**D) down in the dumps**.\" The downward arrow visually represents \"down,\" and it's placed within the word \"dumps.\" This creates a visual pun, emphasizing the feeling of being low or depressed.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down the drain (B) down in the mouth (C) down the toilet (D) down in the dumps",
+   "answer": {
+      "D": "down in the dumps"
+   },
+   "extracted_response": "D) down in the dumps"
 }

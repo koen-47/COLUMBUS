@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"spanner in the works.\" \n\nThe image shows a spanner (\ud83d\udd27) between the letters \"WO\" and \"RKS,\" which represents the phrase \"spanner in the works.\"\n\nThe correct answer is (A) spanner in the works.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udd27, repeat: 1, icon: (spanner: \ud83d\udd27))\nNode 2 attributes: (text: WORKS, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) spanner in the works (B) throw a spanner in the works (C) spick and span (D) spick-and-span",
-    "answer": {
-        "A": "spanner in the works"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"spanner in the works.\" \n\nThe image shows a spanner (\ud83d\udd27) between the letters \"WO\" and \"RKS,\" which represents the phrase \"spanner in the works.\"\n\nThe correct answer is (A) spanner in the works.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udd27, repeat: 1, icon: (spanner: \ud83d\udd27))\nNode 2 attributes: (text: WORKS, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) spanner in the works (B) throw a spanner in the works (C) spick and span (D) spick-and-span",
+   "answer": {
+      "A": "spanner in the works"
+   },
+   "extracted_response": "A) spanner in the works"
 }

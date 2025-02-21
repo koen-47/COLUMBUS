@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows a ship between an upwards arrow and a downwards arrow. This symbolizes going \"up and down\" or \"raising and lowering\" the sails.  Combined with the word \"SAILS\", the solution is **(B) steady the ship**.\n\nThe other options are incorrect:\n\n* **(A) before the ship sails:**  The image shows the ship already in the water.\n* **(C) sinking ship:** The arrows don't represent the ship sinking.\n* **(D) under sail:**  The arrows hint at an action being performed on the sails, not just their presence.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before the ship sails (B) steady the ship (C) sinking ship (D) under sail",
-    "answer": {
-        "A": "before the ship sails"
-    }
+   "gemini_pro_response": "The rebus puzzle shows a ship between an upwards arrow and a downwards arrow. This symbolizes going \"up and down\" or \"raising and lowering\" the sails.  Combined with the word \"SAILS\", the solution is **(B) steady the ship**.\n\nThe other options are incorrect:\n\n* **(A) before the ship sails:**  The image shows the ship already in the water.\n* **(C) sinking ship:** The arrows don't represent the ship sinking.\n* **(D) under sail:**  The arrows hint at an action being performed on the sails, not just their presence.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before the ship sails (B) steady the ship (C) sinking ship (D) under sail",
+   "answer": {
+      "A": "before the ship sails"
+   },
+   "extracted_response": "B) steady the ship"
 }

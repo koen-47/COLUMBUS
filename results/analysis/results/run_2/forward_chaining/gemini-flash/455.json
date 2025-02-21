@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe JSON data indicates two bone icons, one above the other.  This visually represents \"bone to bone\". The closest option is **(C) to the bone**.\n\nTherefore, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"bone_icon_1\",\n    \"description\": \"An icon of a bone, located at the top of the image.\",\n    \"relation\": \"above bone_icon_2\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"bone_icon_2\",\n    \"description\": \"An icon of a bone, located below bone_icon_1.\",\n    \"relation\": \"below bone_icon_1\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) bone to pick (B) throw a bone to (C) to the bone (D) chill to the bone\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "to the bone"
+    }
+}

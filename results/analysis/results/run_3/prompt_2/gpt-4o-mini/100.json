@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"BRING\" repeated above the word \"BEAR.\" This suggests the phrase \"bring to bear.\" \n\nSo, the correct answer is (B) bring to bear.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to bear (B) bring to bear (C) loaded for bear (D) poke the bear",
-    "answer": {
-        "B": "bring to bear"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"BRING\" repeated above the word \"BEAR.\" This suggests the phrase \"bring to bear.\" \n\nSo, the correct answer is (B) bring to bear.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to bear (B) bring to bear (C) loaded for bear (D) poke the bear",
+   "answer": {
+      "B": "bring to bear"
+   },
+   "extracted_response": "B) bring to bear"
 }

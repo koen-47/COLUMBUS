@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(A) bred-in-the-bone",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bred-in-the-bone (B) bone hard (C) bone to pick (D) breed in the bone",
-    "answer": {
-        "D": "breed in the bone"
-    }
+   "gpt4v_response": "(A) bred-in-the-bone",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bred-in-the-bone (B) bone hard (C) bone to pick (D) breed in the bone",
+   "answer": {
+      "D": "breed in the bone"
+   },
+   "extracted_response": "A) bred-in-the-bone"
 }

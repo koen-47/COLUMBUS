@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) for all the world to see.\n\nThe rebus uses the word \"ALL\" repeated four times, visually representing \"all\" as in \"all the world\". The two globe icons represent the world.  Finally, the word \"SEE\" completes the phrase.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for all the world (B) not for the world (C) there for everyone to see (D) for all the world to see",
-    "answer": {
-        "D": "for all the world to see"
-    }
+   "gemini_pro_response": "The correct answer is (D) for all the world to see.\n\nThe rebus uses the word \"ALL\" repeated four times, visually representing \"all\" as in \"all the world\". The two globe icons represent the world.  Finally, the word \"SEE\" completes the phrase.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for all the world (B) not for the world (C) there for everyone to see (D) for all the world to see",
+   "answer": {
+      "D": "for all the world to see"
+   },
+   "extracted_response": "D) for all the world to see"
 }

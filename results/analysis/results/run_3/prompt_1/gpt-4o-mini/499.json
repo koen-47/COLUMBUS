@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (D) gavel to order.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in order (B) out of order (C) buy to let (D) gavel to order",
-    "answer": {
-        "D": "gavel to order"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (D) gavel to order.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in order (B) out of order (C) buy to let (D) gavel to order",
+   "answer": {
+      "D": "gavel to order"
+   },
+   "extracted_response": "D) gavel to order"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts the phrase **(A) dig deep**. It shows a hole, implying the action of digging, and the word \"DIG\" reinforces this.  The hole is relatively small and dark, suggesting depth. The other options don't fit the visual:\n\n* **(B) dig oneself in a hole:** This implies creating a problem for oneself, which isn't depicted.\n* **(C) dig out of a hole:** This would show someone or something emerging from a hole, which is not the case here.\n* **(D) blow a hole through:** This implies a forceful, explosive creation of a hole, not the gradual process of digging.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig deep (B) dig oneself in a hole (C) dig out of a hole (D) blow a hole through",
-    "answer": {
-        "C": "dig out of a hole"
-    }
+   "gemini_pro_response": "The image depicts the phrase **(A) dig deep**. It shows a hole, implying the action of digging, and the word \"DIG\" reinforces this.  The hole is relatively small and dark, suggesting depth. The other options don't fit the visual:\n\n* **(B) dig oneself in a hole:** This implies creating a problem for oneself, which isn't depicted.\n* **(C) dig out of a hole:** This would show someone or something emerging from a hole, which is not the case here.\n* **(D) blow a hole through:** This implies a forceful, explosive creation of a hole, not the gradual process of digging.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig deep (B) dig oneself in a hole (C) dig out of a hole (D) blow a hole through",
+   "answer": {
+      "C": "dig out of a hole"
+   },
+   "extracted_response": "A) dig deep"
 }

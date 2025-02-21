@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "Based on the image, the word conveyed is likely (A) leftover.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) leftover (B) stopover (C) holdovers (D) handover",
-    "answer": {
-        "A": "leftover"
-    }
+   "gpt4v_response": "Based on the image, the word conveyed is likely (A) leftover.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) leftover (B) stopover (C) holdovers (D) handover",
+   "answer": {
+      "A": "leftover"
+   },
+   "extracted_response": "A) leftover"
 }

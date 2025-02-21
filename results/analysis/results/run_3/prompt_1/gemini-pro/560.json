@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The repetition of \"FACT\" emphasizes the truthfulness of something. The closest option in meaning is (B) for real and for true.  While the others use the word \"fact,\" they are used in a sentence structure way, whereas the image conveys a more emphatic, standalone declaration of truth.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fact is (B) for real and for true (C) for a fact (D) as a matter of fact",
-    "answer": {
-        "C": "for a fact"
-    }
+   "gemini_pro_response": "The repetition of \"FACT\" emphasizes the truthfulness of something. The closest option in meaning is (B) for real and for true.  While the others use the word \"fact,\" they are used in a sentence structure way, whereas the image conveys a more emphatic, standalone declaration of truth.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fact is (B) for real and for true (C) for a fact (D) as a matter of fact",
+   "answer": {
+      "C": "for a fact"
+   },
+   "extracted_response": "B) for real and for true"
 }

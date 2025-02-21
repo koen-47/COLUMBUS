@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the word \"SPARE\" repeated twice. This could represent a \"spare spare,\" or a \"spare tire/tyre.\" Thus the answer is (A) or (B). Since both are correct spellings, either works.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spare tyre (B) spare tire (C) to spare (D) have time to spare",
-    "answer": {
-        "C": "to spare"
-    }
+   "gemini_pro_response": "The image shows the word \"SPARE\" repeated twice. This could represent a \"spare spare,\" or a \"spare tire/tyre.\" Thus the answer is (A) or (B). Since both are correct spellings, either works.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spare tyre (B) spare tire (C) to spare (D) have time to spare",
+   "answer": {
+      "C": "to spare"
+   },
+   "extracted_response": "A, B"
 }

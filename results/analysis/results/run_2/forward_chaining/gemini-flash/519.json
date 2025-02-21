@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) **too bad**.\n\nThe image shows the word \"BAD\" written twice, one above the other.  This visually represents \"BAD\" stacked on top of \"BAD\", which can be interpreted as \"too bad\".  The other options don't fit this visual representation.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Text BAD (top)\",\n        \"description\": \"The word 'BAD' written in uppercase letters.\",\n        \"relation\": \"Located at the top of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Text BAD (bottom)\",\n        \"description\": \"The word 'BAD' written in uppercase letters.\",\n        \"relation\": \"Located below the first 'BAD' text, in the center of the image.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) not half bad (B) too bad (C) bad news (D) good grief\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "too bad"
+    }
+}

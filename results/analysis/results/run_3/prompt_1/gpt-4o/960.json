@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(B) up to here",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up for (B) up to here (C) up to something (D) put up to",
-    "answer": {
-        "B": "up to here"
-    }
+   "gpt4v_response": "(B) up to here",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up for (B) up to here (C) up to something (D) put up to",
+   "answer": {
+      "B": "up to here"
+   },
+   "extracted_response": "B) up to here"
 }

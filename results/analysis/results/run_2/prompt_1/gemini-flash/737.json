@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) settle in.\n\nThe image shows the word \"SETTLE\" repeated four times, implying a sense of settling down or becoming established.  \"Settle in\" is the phrase that best conveys this meaning of becoming comfortable and established in a new place or situation.  The other options don't fit the visual as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) settle into (B) settle upon (C) settle in (D) settle for",
-    "answer": {
-        "D": "settle for"
-    }
+   "gemini_pro_response": "The answer is (C) settle in.\n\nThe image shows the word \"SETTLE\" repeated four times, implying a sense of settling down or becoming established.  \"Settle in\" is the phrase that best conveys this meaning of becoming comfortable and established in a new place or situation.  The other options don't fit the visual as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) settle into (B) settle upon (C) settle in (D) settle for",
+   "answer": {
+      "D": "settle for"
+   },
+   "extracted_response": "C) settle in"
 }

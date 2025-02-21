@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (B) out of luck.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out (B) out of luck (C) luck out (D) run out of luck",
-    "answer": {
-        "D": "run out of luck"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) out of luck.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out (B) out of luck (C) luck out (D) run out of luck",
+   "answer": {
+      "D": "run out of luck"
+   },
+   "extracted_response": "B) out of luck"
 }

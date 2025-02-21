@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The small beer glass could represent **(C) small beer**.  This idiom refers to something unimportant or insignificant.  The other options relate to the effects of drinking beer, not the beer itself.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beer goggles (B) beer and skittles (C) small beer (D) beer muscles",
-    "answer": {
-        "C": "small beer"
-    }
+   "gemini_pro_response": "The small beer glass could represent **(C) small beer**.  This idiom refers to something unimportant or insignificant.  The other options relate to the effects of drinking beer, not the beer itself.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beer goggles (B) beer and skittles (C) small beer (D) beer muscles",
+   "answer": {
+      "C": "small beer"
+   },
+   "extracted_response": "C"
 }

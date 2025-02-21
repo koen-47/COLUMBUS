@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image clearly depicts and is labeled \"ICING\" (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cake crumbs (B) a piece of cake (C) take the cake (D) icing on the cake",
-    "answer": {
-        "D": "icing on the cake"
-    }
+   "gemini_pro_response": "The image clearly depicts and is labeled \"ICING\" (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cake crumbs (B) a piece of cake (C) take the cake (D) icing on the cake",
+   "answer": {
+      "D": "icing on the cake"
+   },
+   "extracted_response": "D) icing on the cake"
 }

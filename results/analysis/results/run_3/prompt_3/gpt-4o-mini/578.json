@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle consists of the word \"DOWN\" repeated twice and the word \"WIRE\" once. The repetition of \"DOWN\" suggests a downward motion, and \"WIRE\" can imply something related to connection or timing.\n\nGiven the options:\n(A) under the wire\n(B) down the line\n(C) down under\n(D) down to the wire\n\nThe correct answer is (D) down to the wire, as it captures the idea of \"DOWN\" being emphasized and relates to the urgency or finality implied by \"WIRE.\"",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: DOWN, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: WIRE, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) under the wire (B) down the line (C) down under (D) down to the wire",
-    "answer": {
-        "D": "down to the wire"
-    }
+   "gpt4v_response": "The rebus puzzle consists of the word \"DOWN\" repeated twice and the word \"WIRE\" once. The repetition of \"DOWN\" suggests a downward motion, and \"WIRE\" can imply something related to connection or timing.\n\nGiven the options:\n(A) under the wire\n(B) down the line\n(C) down under\n(D) down to the wire\n\nThe correct answer is (D) down to the wire, as it captures the idea of \"DOWN\" being emphasized and relates to the urgency or finality implied by \"WIRE.\"",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: DOWN, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: WIRE, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) under the wire (B) down the line (C) down under (D) down to the wire",
+   "answer": {
+      "D": "down to the wire"
+   },
+   "extracted_response": "D) down to the wire"
 }

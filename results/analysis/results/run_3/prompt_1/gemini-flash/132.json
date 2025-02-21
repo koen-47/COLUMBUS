@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **come to a close**.\n\nThe image shows the words \"COME\" and \"CLOSE\" arranged in a way that visually represents the phrase \"come to a close\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come to (B) come to an end (C) close call (D) come to a close",
-    "answer": {
-        "D": "come to a close"
-    }
+   "gemini_pro_response": "The correct answer is (D) **come to a close**.\n\nThe image shows the words \"COME\" and \"CLOSE\" arranged in a way that visually represents the phrase \"come to a close\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come to (B) come to an end (C) close call (D) come to a close",
+   "answer": {
+      "D": "come to a close"
+   },
+   "extracted_response": "D) come to a close"
 }

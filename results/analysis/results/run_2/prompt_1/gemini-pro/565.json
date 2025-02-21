@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word in the image is \"MANDOGGER\".  None of the provided phrases match this word exactly. \"Mantiger\" (D) is closest visually, but the image clearly shows \"MANDOGGER\".  It's possible the image represents a misspelling or a neologism.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see a man about a dog (B) dog around (C) dog in the manger (D) mantiger",
-    "answer": {
-        "C": "dog in the manger"
-    }
+   "gemini_pro_response": "The word in the image is \"MANDOGGER\".  None of the provided phrases match this word exactly. \"Mantiger\" (D) is closest visually, but the image clearly shows \"MANDOGGER\".  It's possible the image represents a misspelling or a neologism.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see a man about a dog (B) dog around (C) dog in the manger (D) mantiger",
+   "answer": {
+      "C": "dog in the manger"
+   },
+   "extracted_response": "D"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) come to light**.\n\nThe rebus shows the word \"COME\" stacked on top of itself, with \"LIGHT\" to the right. This visually represents the phrase \"come to light\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bring to light (B) come to light (C) see the light (D) give a light",
-    "answer": {
-        "B": "come to light"
-    }
+   "gemini_pro_response": "The correct answer is **(B) come to light**.\n\nThe rebus shows the word \"COME\" stacked on top of itself, with \"LIGHT\" to the right. This visually represents the phrase \"come to light\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bring to light (B) come to light (C) see the light (D) give a light",
+   "answer": {
+      "B": "come to light"
+   },
+   "extracted_response": "B) come to light"
 }

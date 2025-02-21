@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"come to a head.\" The word \"come\" is repeated, and the face with wide eyes suggests a sense of realization or climax, which aligns with the phrase. \n\nSo the answer is (C) come to a head.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to someone's head (B) lose head (C) come to a head (D) give head",
-    "answer": {
-        "C": "come to a head"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"come to a head.\" The word \"come\" is repeated, and the face with wide eyes suggests a sense of realization or climax, which aligns with the phrase. \n\nSo the answer is (C) come to a head.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to someone's head (B) lose head (C) come to a head (D) give head",
+   "answer": {
+      "C": "come to a head"
+   },
+   "extracted_response": "C) come to a head"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **set for life**.\n\nThe image shows the word \"SET\" repeated three times, with the word \"LIFE\" to the right. This visually represents the idiom \"set for life\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in ways (B) set to work (C) set for life (D) change of life",
-    "answer": {
-        "C": "set for life"
-    }
+   "gemini_pro_response": "The correct answer is (C) **set for life**.\n\nThe image shows the word \"SET\" repeated three times, with the word \"LIFE\" to the right. This visually represents the idiom \"set for life\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in ways (B) set to work (C) set for life (D) change of life",
+   "answer": {
+      "C": "set for life"
+   },
+   "extracted_response": "C) set for life"
 }

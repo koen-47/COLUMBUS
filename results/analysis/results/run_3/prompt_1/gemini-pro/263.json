@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"BOBREEDNE\".  This appears to be \"bred in the bone\" (or \"breed in the bone\") with an extra 'O' inserted. The closest correct option is **(A) bred-in-the-bone** or **(D) breed in the bone**.  Neither of these is exactly right as spelled in the image, but these are idiom phrases meaning an ingrained trait, and both could be represented by the word in the image, if there was an error in spelling.  Therefore either could be counted as the correct answer.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bred-in-the-bone (B) bone hard (C) bone to pick (D) breed in the bone",
-    "answer": {
-        "D": "breed in the bone"
-    }
+   "gemini_pro_response": "The image says \"BOBREEDNE\".  This appears to be \"bred in the bone\" (or \"breed in the bone\") with an extra 'O' inserted. The closest correct option is **(A) bred-in-the-bone** or **(D) breed in the bone**.  Neither of these is exactly right as spelled in the image, but these are idiom phrases meaning an ingrained trait, and both could be represented by the word in the image, if there was an error in spelling.  Therefore either could be counted as the correct answer.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bred-in-the-bone (B) bone hard (C) bone to pick (D) breed in the bone",
+   "answer": {
+      "D": "breed in the bone"
+   },
+   "extracted_response": "A, D"
 }

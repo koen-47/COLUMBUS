@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(C) be left at the post**.\n\nThe rebus shows \"EB\" before \"POST\".  \"EB\" is short for \"to be\", and  \"left at the post\" is a common idiom, so the image represents \"to be left at the post.\"",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) far post (B) in the post (C) be left at the post (D) near post",
-    "answer": {
-        "C": "be left at the post"
-    }
+   "gemini_pro_response": "The answer is **(C) be left at the post**.\n\nThe rebus shows \"EB\" before \"POST\".  \"EB\" is short for \"to be\", and  \"left at the post\" is a common idiom, so the image represents \"to be left at the post.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) far post (B) in the post (C) be left at the post (D) near post",
+   "answer": {
+      "C": "be left at the post"
+   },
+   "extracted_response": "C) be left at the post"
 }

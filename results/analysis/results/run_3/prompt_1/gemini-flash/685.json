@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) nighttime.\n\nThe image shows the word \"NIGHT\" with arrows pointing up and down, indicating the passage of time throughout the night.  This encompasses the entire period of nighttime, not a specific part of it or a particular type of nighttime activity.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bank night (B) night out (C) middle of the night (D) nighttime",
-    "answer": {
-        "C": "middle of the night"
-    }
+   "gemini_pro_response": "The correct answer is (D) nighttime.\n\nThe image shows the word \"NIGHT\" with arrows pointing up and down, indicating the passage of time throughout the night.  This encompasses the entire period of nighttime, not a specific part of it or a particular type of nighttime activity.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bank night (B) night out (C) middle of the night (D) nighttime",
+   "answer": {
+      "C": "middle of the night"
+   },
+   "extracted_response": "D) nighttime"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(B) straight out of the chute**.\n\nThe word \"WACHUMTER\" is a combination of \"WACH\" and \"UMTER\".  If you take away the \"WACH\" and \"TER\" from the beginning and end, you get \"CHUM\".  Therefore the word \"chum\" is \"straight out of the chute.\"",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of the chute (B) straight out of the chute (C) chum in the water (D) chum up",
-    "answer": {
-        "C": "chum in the water"
-    }
+   "gemini_pro_response": "The answer is **(B) straight out of the chute**.\n\nThe word \"WACHUMTER\" is a combination of \"WACH\" and \"UMTER\".  If you take away the \"WACH\" and \"TER\" from the beginning and end, you get \"CHUM\".  Therefore the word \"chum\" is \"straight out of the chute.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of the chute (B) straight out of the chute (C) chum in the water (D) chum up",
+   "answer": {
+      "C": "chum in the water"
+   },
+   "extracted_response": "B) straight out of the chute"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) out on the town.\n\nThe image shows \"RUN\" outside of the box containing \"TOWN,\" indicating that the action of \"running\" is happening outside or away from the town.  \"Out on the town\" implies going out for enjoyment in a town or city.  The other options don't fit the visual representation.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of town (B) run out (C) out on the town (D) run off",
-    "answer": {
-        "A": "run out of town"
-    }
+   "gemini_pro_response": "The correct answer is (C) out on the town.\n\nThe image shows \"RUN\" outside of the box containing \"TOWN,\" indicating that the action of \"running\" is happening outside or away from the town.  \"Out on the town\" implies going out for enjoyment in a town or city.  The other options don't fit the visual representation.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of town (B) run out (C) out on the town (D) run off",
+   "answer": {
+      "A": "run out of town"
+   },
+   "extracted_response": "C) out on the town"
 }

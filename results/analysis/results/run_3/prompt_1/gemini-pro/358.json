@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase \"once in a blue moon.\"  \"MO\" and \"ON\" are colored like a **moon**, and \"1111\" looks like \"once\" when said aloud. This combines to create \"moon once in a moon,\" which is a visual pun for the idiom \"once in a blue moon.\" Thus, the answer is (B).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) once in a purple moon (B) once in a blue moon (C) blue moon (D) over the moon",
-    "answer": {
-        "A": "once in a purple moon"
-    }
+   "gemini_pro_response": "The image conveys the phrase \"once in a blue moon.\"  \"MO\" and \"ON\" are colored like a **moon**, and \"1111\" looks like \"once\" when said aloud. This combines to create \"moon once in a moon,\" which is a visual pun for the idiom \"once in a blue moon.\" Thus, the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) once in a purple moon (B) once in a blue moon (C) blue moon (D) over the moon",
+   "answer": {
+      "A": "once in a purple moon"
+   },
+   "extracted_response": "B) once in a blue moon"
 }

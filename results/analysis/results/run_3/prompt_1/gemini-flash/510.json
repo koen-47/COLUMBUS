@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(D) hold down**.\n\nThe image shows the word \"HOLD\" and the number \"4\".  This visually represents \"HOLD 4\", which is a common instruction to \"hold down\" something (e.g., a button, a key).  The other options don't fit the visual representation as well.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold off (B) hold out for (C) hold out (D) hold down",
-    "answer": {
-        "B": "hold out for"
-    }
+   "gemini_pro_response": "The answer is **(D) hold down**.\n\nThe image shows the word \"HOLD\" and the number \"4\".  This visually represents \"HOLD 4\", which is a common instruction to \"hold down\" something (e.g., a button, a key).  The other options don't fit the visual representation as well.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold off (B) hold out for (C) hold out (D) hold down",
+   "answer": {
+      "B": "hold out for"
+   },
+   "extracted_response": "D) hold down"
 }

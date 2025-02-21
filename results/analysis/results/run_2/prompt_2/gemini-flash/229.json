@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) toe the line**.\n\nThe image shows two faces (\"heads\") above the word \"TOE\".  This visually represents the phrase \"head to toe\", but in the context of the options provided,  \"toe the line\" is the best fit as a rebus.  The heads represent people who are expected to follow or conform to rules or expectations (toe the line).\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head to toe (B) lose head (C) toe the line (D) head over heels",
-    "answer": {
-        "A": "head to toe"
-    }
+   "gemini_pro_response": "The correct answer is **(C) toe the line**.\n\nThe image shows two faces (\"heads\") above the word \"TOE\".  This visually represents the phrase \"head to toe\", but in the context of the options provided,  \"toe the line\" is the best fit as a rebus.  The heads represent people who are expected to follow or conform to rules or expectations (toe the line).\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head to toe (B) lose head (C) toe the line (D) head over heels",
+   "answer": {
+      "A": "head to toe"
+   },
+   "extracted_response": "C) toe the line"
 }

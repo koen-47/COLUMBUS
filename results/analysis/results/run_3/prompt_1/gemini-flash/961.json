@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) up to here.  The image visually represents the phrase \"up to here\" by stacking \"UP\" above \"HERE\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to something (B) put up to (C) up to here (D) up for",
-    "answer": {
-        "C": "up to here"
-    }
+   "gemini_pro_response": "The correct answer is (C) up to here.  The image visually represents the phrase \"up to here\" by stacking \"UP\" above \"HERE\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to something (B) put up to (C) up to here (D) up for",
+   "answer": {
+      "C": "up to here"
+   },
+   "extracted_response": "C) up to here"
 }

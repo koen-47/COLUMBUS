@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the words \"PUT\" next to a box containing a fire icon. This represents putting the fire in the box, which means extinguishing it. So the answer is (C) put out a fire.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch fire (B) pull out of the fire (C) put out a fire (D) feed the fire",
-    "answer": {
-        "C": "put out a fire"
-    }
+   "gemini_pro_response": "The image shows the words \"PUT\" next to a box containing a fire icon. This represents putting the fire in the box, which means extinguishing it. So the answer is (C) put out a fire.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch fire (B) pull out of the fire (C) put out a fire (D) feed the fire",
+   "answer": {
+      "C": "put out a fire"
+   },
+   "extracted_response": "C) put out a fire"
 }

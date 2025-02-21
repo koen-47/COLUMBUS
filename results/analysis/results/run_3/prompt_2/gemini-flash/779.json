@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) roll in wealth.\n\nThe word \"roll\" is repeated multiple times in \"WEAR OLL L L TH\", and the extra \"LL\" represents \"double L\", hence the \"wealth\" part of the phrase.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rollover (B) call roll (C) roll in wealth (D) on a roll",
-    "answer": {
-        "C": "roll in wealth"
-    }
+   "gemini_pro_response": "The answer is (C) roll in wealth.\n\nThe word \"roll\" is repeated multiple times in \"WEAR OLL L L TH\", and the extra \"LL\" represents \"double L\", hence the \"wealth\" part of the phrase.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rollover (B) call roll (C) roll in wealth (D) on a roll",
+   "answer": {
+      "C": "roll in wealth"
+   },
+   "extracted_response": "C) roll in wealth"
 }

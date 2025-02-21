@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) shimmy on down.  The image shows the word \"SHIMMY\" with a downward-pointing arrow, clearly indicating a downward shimmying motion.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hunker down (B) face down (C) shimmy on down (D) down at heel",
-    "answer": {
-        "C": "shimmy on down"
-    }
+   "gemini_pro_response": "The correct answer is (C) shimmy on down.  The image shows the word \"SHIMMY\" with a downward-pointing arrow, clearly indicating a downward shimmying motion.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hunker down (B) face down (C) shimmy on down (D) down at heel",
+   "answer": {
+      "C": "shimmy on down"
+   },
+   "extracted_response": "C) shimmy on down"
 }

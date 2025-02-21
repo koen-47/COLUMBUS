@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (A) jot and tittle.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) jot and tittle (B) jog on (C) jot down (D) jot or tittle",
-    "answer": {
-        "C": "jot down"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) jot and tittle.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) jot and tittle (B) jog on (C) jot down (D) jot or tittle",
+   "answer": {
+      "C": "jot down"
+   },
+   "extracted_response": "A) jot and tittle"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus represents \"Start off on the wrong foot\".\n\nThe up arrow indicates \"start\". \"OFF\" is written out. The horizontal line separates \"OFF\" from \"WRONG FOOT\", with an implied \"on the\".\n\nSo the answer is (C).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a foot wrong (B) off on the wrong foot (C) start off on the wrong foot (D) start off on the right foot",
-    "answer": {
-        "C": "start off on the wrong foot"
-    }
+   "gemini_pro_response": "The rebus represents \"Start off on the wrong foot\".\n\nThe up arrow indicates \"start\". \"OFF\" is written out. The horizontal line separates \"OFF\" from \"WRONG FOOT\", with an implied \"on the\".\n\nSo the answer is (C).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a foot wrong (B) off on the wrong foot (C) start off on the wrong foot (D) start off on the right foot",
+   "answer": {
+      "C": "start off on the wrong foot"
+   },
+   "extracted_response": "C) start off on the wrong foot"
 }

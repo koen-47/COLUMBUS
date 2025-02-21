@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) through the roof**.\n\nThe rebus shows \"ROOF\" over \"1111 HEAD\".  \"1111\" represents \"one one one one,\" which sounds like \"one over one.\"  Therefore, the phrase becomes \"roof over one's head,\" but in the context of the options, the intended meaning is likely \"through the roof\" which is an idiom meaning a sudden and significant increase.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hit the roof (B) raise the roof (C) through the roof (D) roof over one's head",
-    "answer": {
-        "D": "roof over one's head"
-    }
+   "gemini_pro_response": "The correct answer is **(C) through the roof**.\n\nThe rebus shows \"ROOF\" over \"1111 HEAD\".  \"1111\" represents \"one one one one,\" which sounds like \"one over one.\"  Therefore, the phrase becomes \"roof over one's head,\" but in the context of the options, the intended meaning is likely \"through the roof\" which is an idiom meaning a sudden and significant increase.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hit the roof (B) raise the roof (C) through the roof (D) roof over one's head",
+   "answer": {
+      "D": "roof over one's head"
+   },
+   "extracted_response": "C) through the roof"
 }

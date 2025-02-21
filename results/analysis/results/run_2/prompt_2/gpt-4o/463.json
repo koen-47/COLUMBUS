@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The answer is (A) go to bat.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to bat (B) off one's own bat (C) bat for the other team (D) bat five hundred",
-    "answer": {
-        "A": "go to bat"
-    }
+   "gpt4v_response": "The answer is (A) go to bat.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to bat (B) off one's own bat (C) bat for the other team (D) bat five hundred",
+   "answer": {
+      "A": "go to bat"
+   },
+   "extracted_response": "A) go to bat"
 }

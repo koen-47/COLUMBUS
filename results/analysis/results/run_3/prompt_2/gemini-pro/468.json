@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle \"RO GOR I LLA OM\" represents **(A) gorilla in the room**.\n\nThe puzzle uses the word \"gorilla\" and places it \"in\" the letters \"ROOM\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gorilla in the room (B) elephant in the room (C) baby elephant in the room (D) naked ape",
-    "answer": {
-        "A": "gorilla in the room"
-    }
+   "gemini_pro_response": "The rebus puzzle \"RO GOR I LLA OM\" represents **(A) gorilla in the room**.\n\nThe puzzle uses the word \"gorilla\" and places it \"in\" the letters \"ROOM\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gorilla in the room (B) elephant in the room (C) baby elephant in the room (D) naked ape",
+   "answer": {
+      "A": "gorilla in the room"
+   },
+   "extracted_response": "A) gorilla in the room"
 }

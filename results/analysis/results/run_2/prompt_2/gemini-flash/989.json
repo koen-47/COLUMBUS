@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B) cook up a storm.\n\nThe rebus shows the letters \"PIHW\" next to a picture of a storm cloud with a lightning bolt.  \"PIHW\" is a phonetic spelling of \"pie in the sky\" which is another way to say cook up a storm.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take by storm (B) cook up a storm (C) whip up a storm (D) storm off",
-    "answer": {
-        "C": "whip up a storm"
-    }
+   "gemini_pro_response": "The answer is (B) cook up a storm.\n\nThe rebus shows the letters \"PIHW\" next to a picture of a storm cloud with a lightning bolt.  \"PIHW\" is a phonetic spelling of \"pie in the sky\" which is another way to say cook up a storm.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take by storm (B) cook up a storm (C) whip up a storm (D) storm off",
+   "answer": {
+      "C": "whip up a storm"
+   },
+   "extracted_response": "B) cook up a storm"
 }

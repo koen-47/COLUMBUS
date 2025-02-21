@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus represents \"run for one's money.\" Here's why:\n\n* **Four running figures:**  Represent the word \"run\".\n* **\"1111\":**  Sounds like \"for one's\".\n* **Wallet:** Represents \"money.\"\n\nSo, the answer is (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a run for it (B) run with (C) run for one's life (D) run for one's money",
-    "answer": {
-        "D": "run for one's money"
-    }
+   "gemini_pro_response": "The rebus represents \"run for one's money.\" Here's why:\n\n* **Four running figures:**  Represent the word \"run\".\n* **\"1111\":**  Sounds like \"for one's\".\n* **Wallet:** Represents \"money.\"\n\nSo, the answer is (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a run for it (B) run with (C) run for one's life (D) run for one's money",
+   "answer": {
+      "D": "run for one's money"
+   },
+   "extracted_response": "D) run for one's money"
 }

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows three face icons. Two are positioned on the left, one above the other, and the third is to the right of them. This arrangement suggests the phrase \"face to face,\" as the two groups of faces are positioned opposite each other.\n\nThe correct answer is (C) face to face.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"face_icon_1\",\n        \"description\": \"A simple face icon with two eyes and a mouth.\",\n        \"relation\": \"top left\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"face_icon_2\",\n        \"description\": \"A simple face icon with two eyes and a mouth.\",\n        \"relation\": \"bottom left, below face_icon_1\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"face_icon_3\",\n        \"description\": \"A simple face icon with two eyes and a mouth.\",\n        \"relation\": \"right, to the right of face_icon_1 and face_icon_2\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) give face (B) lose face (C) face to face (D) face down\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "face to face"
+    }
+}

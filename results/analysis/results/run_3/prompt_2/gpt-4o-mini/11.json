@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"afterthoughts.\" The word \"LIFE\" appears twice, with arrows pointing up and down, suggesting something that comes after or is a thought about life. Therefore, the correct answer is (C) afterthoughts.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftertastes (B) afterthought (C) afterthoughts (D) afterlives",
-    "answer": {
-        "D": "afterlives"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"afterthoughts.\" The word \"LIFE\" appears twice, with arrows pointing up and down, suggesting something that comes after or is a thought about life. Therefore, the correct answer is (C) afterthoughts.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftertastes (B) afterthought (C) afterthoughts (D) afterlives",
+   "answer": {
+      "D": "afterlives"
+   },
+   "extracted_response": "C) afterthoughts"
 }

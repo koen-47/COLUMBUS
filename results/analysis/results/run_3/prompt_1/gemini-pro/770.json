@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (A) rear one's head.  The number \"1111\" looks like four heads or necks lined up, and the emoticon is the face at the end.  The word \"rear\" indicates it's the back end of something, hence \"rear one's head\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rear one's head (B) use one's head (C) in one's head (D) bring up the rear",
-    "answer": {
-        "A": "rear one's head"
-    }
+   "gemini_pro_response": "The image conveys (A) rear one's head.  The number \"1111\" looks like four heads or necks lined up, and the emoticon is the face at the end.  The word \"rear\" indicates it's the back end of something, hence \"rear one's head\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rear one's head (B) use one's head (C) in one's head (D) bring up the rear",
+   "answer": {
+      "A": "rear one's head"
+   },
+   "extracted_response": "A) rear one's head"
 }

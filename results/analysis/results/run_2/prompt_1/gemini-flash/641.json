@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) for all the world**.\n\nThe image visually represents the phrase \"for all the world\" by showing \"ALL\" repeated three times, followed by \"WORLD\".  This mirrors the meaning of the idiom, which suggests something is very much like something else or intensely so.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for all the world to see (B) in the world (C) for all the world (D) not for the world",
-    "answer": {
-        "C": "for all the world"
-    }
+   "gemini_pro_response": "The correct answer is **(C) for all the world**.\n\nThe image visually represents the phrase \"for all the world\" by showing \"ALL\" repeated three times, followed by \"WORLD\".  This mirrors the meaning of the idiom, which suggests something is very much like something else or intensely so.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for all the world to see (B) in the world (C) for all the world (D) not for the world",
+   "answer": {
+      "C": "for all the world"
+   },
+   "extracted_response": "C) for all the world"
 }

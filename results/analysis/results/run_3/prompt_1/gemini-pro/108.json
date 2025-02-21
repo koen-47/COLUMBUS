@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase \"**bang down the door (A)**\" because the letters B-A-N-G are arranged vertically, and the word DOOR is placed next to it, suggesting downward movement.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bang down the door (B) bang up (C) bang out (D) bang away",
-    "answer": {
-        "A": "bang down the door"
-    }
+   "gemini_pro_response": "The image conveys the phrase \"**bang down the door (A)**\" because the letters B-A-N-G are arranged vertically, and the word DOOR is placed next to it, suggesting downward movement.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bang down the door (B) bang up (C) bang out (D) bang away",
+   "answer": {
+      "A": "bang down the door"
+   },
+   "extracted_response": "A"
 }

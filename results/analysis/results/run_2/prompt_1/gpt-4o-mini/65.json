@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (A) cross the aisle.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross the aisle (B) roll in the aisles (C) cross the line (D) cross one's legs",
-    "answer": {
-        "A": "cross the aisle"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) cross the aisle.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross the aisle (B) roll in the aisles (C) cross the line (D) cross one's legs",
+   "answer": {
+      "A": "cross the aisle"
+   },
+   "extracted_response": "A) cross the aisle"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **left holding the baby**.\n\nThe image shows the word \"GNIDLOH BABY\".  This is \"HOLDING BABY\" spelled backward.  Therefore, it represents the idiom \"left holding the baby\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) leave someone holding the baby (B) left holding the baby (C) throw the baby out with the bathwater (D) left holding the bag",
-    "answer": {
-        "B": "left holding the baby"
-    }
+   "gemini_pro_response": "The correct answer is (B) **left holding the baby**.\n\nThe image shows the word \"GNIDLOH BABY\".  This is \"HOLDING BABY\" spelled backward.  Therefore, it represents the idiom \"left holding the baby\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) leave someone holding the baby (B) left holding the baby (C) throw the baby out with the bathwater (D) left holding the bag",
+   "answer": {
+      "B": "left holding the baby"
+   },
+   "extracted_response": "B) left holding the baby"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the idiom \"two left feet\" (B).  The repetition of \"LEFT\" and the presence of \"FEET\" visually represents the idea of having two left feet, which is a humorous way to describe someone who is clumsy or uncoordinated in dancing or other physical activities.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two left hands (B) two left feet (C) at one's feet (D) feet first",
-    "answer": {
-        "B": "two left feet"
-    }
+   "gemini_pro_response": "The image conveys the idiom \"two left feet\" (B).  The repetition of \"LEFT\" and the presence of \"FEET\" visually represents the idea of having two left feet, which is a humorous way to describe someone who is clumsy or uncoordinated in dancing or other physical activities.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two left hands (B) two left feet (C) at one's feet (D) feet first",
+   "answer": {
+      "B": "two left feet"
+   },
+   "extracted_response": "B"
 }

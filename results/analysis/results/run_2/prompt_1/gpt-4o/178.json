@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) be left at the post.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) far post (B) in the post (C) be left at the post (D) near post",
-    "answer": {
-        "C": "be left at the post"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) be left at the post.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) far post (B) in the post (C) be left at the post (D) near post",
+   "answer": {
+      "C": "be left at the post"
+   },
+   "extracted_response": "C"
 }

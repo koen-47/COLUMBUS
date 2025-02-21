@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"See Stars\". Here's the breakdown:\n\n* **1111:**  Can be read as \"four ones\" or, more simply, \"four\"\n* ****:  Two stars/asterisks symbols represents  \"stars\"\n* **IIII:** The Roman numeral for four.\n\nTherefore, the puzzle reads:  \"See Stars\".\n\nThe answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"number_sequence\",\n        \"description\": \"The number sequence '11111'\",\n        \"relation\": \"to the left of the asterisks\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"asterisks\",\n        \"description\": \"Two asterisk symbols\",\n        \"relation\": \"between the number sequence and the Roman numerals\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"roman_numerals\",\n        \"description\": \"The Roman numeral 'IIII'\",\n        \"relation\": \"to the right of the asterisks\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) stars in one's eyes (B) stars align (C) see stars (D) written in the stars\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "stars in one's eyes"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"start off on the wrong foot.\" The downward arrows suggest \"off,\" and the word \"WRONG\" is clearly indicated. Therefore, the correct answer is (B) start off on the wrong foot.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start off on the right foot (B) start off on the wrong foot (C) off on the wrong foot (D) put a foot wrong",
-    "answer": {
-        "B": "start off on the wrong foot"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"start off on the wrong foot.\" The downward arrows suggest \"off,\" and the word \"WRONG\" is clearly indicated. Therefore, the correct answer is (B) start off on the wrong foot.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start off on the right foot (B) start off on the wrong foot (C) off on the wrong foot (D) put a foot wrong",
+   "answer": {
+      "B": "start off on the wrong foot"
+   },
+   "extracted_response": "B) start off on the wrong foot"
 }

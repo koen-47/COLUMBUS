@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image represents (C) middle ground.  The arrows pointing towards the word \"GROUND\" from above and below symbolize finding a compromise or a point of agreement between two opposing sides.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high ground (B) middle ground strategy (C) middle ground (D) common ground",
-    "answer": {
-        "C": "middle ground"
-    }
+   "gemini_pro_response": "The image represents (C) middle ground.  The arrows pointing towards the word \"GROUND\" from above and below symbolize finding a compromise or a point of agreement between two opposing sides.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high ground (B) middle ground strategy (C) middle ground (D) common ground",
+   "answer": {
+      "C": "middle ground"
+   },
+   "extracted_response": "C) middle ground"
 }

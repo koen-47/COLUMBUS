@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(C) for show**.\n\nThe rebus shows the word \"WHAT\" repeated four times.  This can be interpreted as \"four WHATs\", which sounds like \"for what's\".  The closest option is \"for show\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what with (B) what for (C) for show (D) give what for",
-    "answer": {
-        "B": "what for"
-    }
+   "gemini_pro_response": "The answer is **(C) for show**.\n\nThe rebus shows the word \"WHAT\" repeated four times.  This can be interpreted as \"four WHATs\", which sounds like \"for what's\".  The closest option is \"for show\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what with (B) what for (C) for show (D) give what for",
+   "answer": {
+      "B": "what for"
+   },
+   "extracted_response": "C) for show"
 }

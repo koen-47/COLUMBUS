@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts a skull and crossbones next to the word \"JOB,\" with arrows pointing towards it.  This suggests that the job is undesirable or has negative consequences, perhaps leading to burnout or stress.  This aligns most closely with the phrase \"dead end job\" (B).\n\nA \"dead end\" (D) refers to a street or path that is blocked, not allowing further progress. While a dead end job might feel like it leads nowhere, the image is more specific to a job itself.\n\n\"Dead last\" (C) means to be in the final position in a race or competition, which isn't directly related to employment.\n\n\"Dead loss\" (A) refers to something completely useless or unprofitable, but doesn't specifically relate to employment.\n\nTherefore, the correct answer is (B).\nFinal Answer: The final answer is $\\boxed{B}$",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead loss (B) dead end job (C) dead last (D) dead end",
-    "answer": {
-        "B": "dead end job"
-    }
+   "gemini_pro_response": "The image depicts a skull and crossbones next to the word \"JOB,\" with arrows pointing towards it.  This suggests that the job is undesirable or has negative consequences, perhaps leading to burnout or stress.  This aligns most closely with the phrase \"dead end job\" (B).\n\nA \"dead end\" (D) refers to a street or path that is blocked, not allowing further progress. While a dead end job might feel like it leads nowhere, the image is more specific to a job itself.\n\n\"Dead last\" (C) means to be in the final position in a race or competition, which isn't directly related to employment.\n\n\"Dead loss\" (A) refers to something completely useless or unprofitable, but doesn't specifically relate to employment.\n\nTherefore, the correct answer is (B).\nFinal Answer: The final answer is $\\boxed{B}$",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead loss (B) dead end job (C) dead last (D) dead end",
+   "answer": {
+      "B": "dead end job"
+   },
+   "extracted_response": "B) dead end job"
 }

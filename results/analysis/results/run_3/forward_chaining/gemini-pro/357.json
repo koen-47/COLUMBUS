@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle is \"MO 11111 ON\".\nThe json describes \"MO\" and \"ON\" which are parts of the word and \"11111\" replacing the letters \"TI\".  Replacing \"11111\" with \"TI\" leads to \"MOTION\". This sounds like \"one time\", which further points to the idiom meaning infrequent.\nThe idiom that matches this pattern is \"once in a blue moon\" (D). The other options do not fit the rebus puzzle.\n\nFinal Answer: The final answer is $\\boxed{D}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"MO\",\n    \"description\": \"The letters 'MO' in blue color.\",\n    \"relation\": \"Part of the word 'MOTION'.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"11111\",\n    \"description\": \"The number '11111' in black color.\",\n    \"relation\": \"Replaces the letters 'TI' in the word 'MOTION'.\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"ON\",\n    \"description\": \"The letters 'ON' in blue color.\",\n    \"relation\": \"Part of the word 'MOTION'.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) blue moon (B) once in a purple moon (C) over the moon (D) once in a blue moon\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "once in a blue moon"
+    }
+}

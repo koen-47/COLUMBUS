@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (D) bookend. The arrows pointing up and down symbolize how bookends hold books in place.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) book in (B) bookends (C) bookstall (D) bookend",
-    "answer": {
-        "D": "bookend"
-    }
+   "gemini_pro_response": "The image conveys (D) bookend. The arrows pointing up and down symbolize how bookends hold books in place.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) book in (B) bookends (C) bookstall (D) bookend",
+   "answer": {
+      "D": "bookend"
+   },
+   "extracted_response": "D) bookend"
 }

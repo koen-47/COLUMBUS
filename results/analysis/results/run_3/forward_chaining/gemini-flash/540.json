@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe JSON data tells us the image shows the word \"LIGHT\" in green capital letters.  Let's consider each option:\n\n* **(A) red light:** This is incorrect because the light is green, not red.\n* **(B) yellow light:** This is incorrect because the light is green, not yellow.\n* **(C) long green:** This is incorrect; there's no suggestion of length.\n* **(D) green light:** This is correct.  The image shows a green \"LIGHT\".\n\nTherefore, the answer is (D) green light.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"word_light\",\n  \"description\": \"The word 'LIGHT' written in green capital letters.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) red light (B) yellow light (C) long green (D) green light\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "green light"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) man on the street.\n\nHere's why:\n\nThe rebus shows the word \"STRMANEET\".  Notice that \"STREET\" and \"MAN\" are embedded within the word. Reordering them slightly gives \"MAN ON STREET\".\n\nLet's look at why the other options don't fit:\n\n* **(A) up someone's street:** This doesn't use all the letters from \"STRMANEET\".\n* **(B) man in the street:**  The word arrangement doesn't reflect \"in\".\n* **(D) word on the street:** This phrase uses different words.\n\nTherefore, only option (C) aligns with the visual rebus.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'STRMANEET' in uppercase letters.\",\n  \"relation\": \"centered in the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) up someone's street (B) man in the street (C) man on the street (D) word on the street\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "man in the street"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus is \"take off\".  The \"2\" near the equals sign indicates that the word \"two\" is replaced with \"off\". The up arrow symbolizes something taking off.  Since none of the provided options is \"take off,\" this question cannot be answered as presented.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross out (D) cross off",
-    "answer": {
-        "B": "cross to take up"
-    }
+   "gemini_pro_response": "The rebus is \"take off\".  The \"2\" near the equals sign indicates that the word \"two\" is replaced with \"off\". The up arrow symbolizes something taking off.  Since none of the provided options is \"take off,\" this question cannot be answered as presented.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross out (D) cross off",
+   "answer": {
+      "B": "cross to take up"
+   },
+   "extracted_response": "The rebus is \"take off\".  The \"2\" near the equals sign indicates that the word \"two\" is replaced with \"off\". The up arrow symbolizes something taking off.  Since none of the provided options is \"take off,\" this question cannot be answered as presented."
 }

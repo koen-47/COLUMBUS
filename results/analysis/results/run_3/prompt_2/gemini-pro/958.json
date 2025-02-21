@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows two \"up\" arrows followed by the word \"ELEVEN.\" This represents \"up up to eleven\", so the answer is (B).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to something (B) up to eleven (C) ten to one (D) average up",
-    "answer": {
-        "B": "up to eleven"
-    }
+   "gemini_pro_response": "The rebus puzzle shows two \"up\" arrows followed by the word \"ELEVEN.\" This represents \"up up to eleven\", so the answer is (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to something (B) up to eleven (C) ten to one (D) average up",
+   "answer": {
+      "B": "up to eleven"
+   },
+   "extracted_response": "B) up to eleven"
 }

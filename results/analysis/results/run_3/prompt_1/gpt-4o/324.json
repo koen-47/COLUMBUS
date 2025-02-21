@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "I can't determine the specific word or phrase from the options based on the image provided.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) talent management (B) microeconomics (C) micromanagement (D) microcosm",
-    "answer": {
-        "C": "micromanagement"
-    }
+   "gpt4v_response": "I can't determine the specific word or phrase from the options based on the image provided.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) talent management (B) microeconomics (C) micromanagement (D) microcosm",
+   "answer": {
+      "C": "micromanagement"
+   },
+   "extracted_response": "I can't determine the specific word or phrase from the options based on the image provided."
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows a clock (representing \"time\") outside a box containing the word \"MIND\".  The edge rule \"OUTSIDE\" indicates a spatial relationship. Combining these elements means \"time\" is \"out of\" \"mind\".\n\nTherefore, the answer is (D) time out of mind.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udd5b, repeat: 1, icon: (time: \ud83d\udd5b))\nNode 2 attributes: (text: MIND, repeat: 1)\nEdge 1: node 1 to node 2 (rule: OUTSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) out of mind (B) out of one's mind (C) time out (D) time out of mind",
-    "answer": {
-        "D": "time out of mind"
-    }
+   "gemini_pro_response": "The rebus puzzle shows a clock (representing \"time\") outside a box containing the word \"MIND\".  The edge rule \"OUTSIDE\" indicates a spatial relationship. Combining these elements means \"time\" is \"out of\" \"mind\".\n\nTherefore, the answer is (D) time out of mind.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udd5b, repeat: 1, icon: (time: \ud83d\udd5b))\nNode 2 attributes: (text: MIND, repeat: 1)\nEdge 1: node 1 to node 2 (rule: OUTSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) out of mind (B) out of one's mind (C) time out (D) time out of mind",
+   "answer": {
+      "D": "time out of mind"
+   },
+   "extracted_response": "D) time out of mind"
 }

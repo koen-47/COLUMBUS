@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows \"WI CANDLE END\".  This sounds like \"wick at both ends\". The phrase related to this is \"burn the candle at both ends\" (B).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) candle in the wind (B) burn the candle at both ends (C) candlelight (D) candlepower",
-    "answer": {
-        "A": "candle in the wind"
-    }
+   "gemini_pro_response": "The rebus shows \"WI CANDLE END\".  This sounds like \"wick at both ends\". The phrase related to this is \"burn the candle at both ends\" (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) candle in the wind (B) burn the candle at both ends (C) candlelight (D) candlepower",
+   "answer": {
+      "A": "candle in the wind"
+   },
+   "extracted_response": "B"
 }

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The text \"STRMANEET\" can be rearranged as \"STREET MAN\".  This corresponds to the phrase \"man on the street\".\n\nThus, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'STRMANEET' in uppercase letters.\",\n  \"relation\": \"centered in the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) up someone's street (B) man in the street (C) man on the street (D) word on the street\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "man in the street"
+    }
+}

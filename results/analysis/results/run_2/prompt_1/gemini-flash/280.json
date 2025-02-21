@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) come to a head**.\n\nThe image shows the word \"COME\" repeated twice, suggesting something is building up or accumulating. The surprised/concerned-looking emoticon next to it implies that the buildup is reaching a critical point, or \"coming to a head\".  This phrase refers to a situation reaching a crisis or climax.\n\nThe other options don't fit the visual:\n\n* **(A) go to someone's head:** Implies arrogance due to success.\n* **(B) lose head:** Implies losing control or composure.\n* **(D) give head:** Has a completely different, sexual meaning.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to someone's head (B) lose head (C) come to a head (D) give head",
-    "answer": {
-        "C": "come to a head"
-    }
+   "gemini_pro_response": "The correct answer is **(C) come to a head**.\n\nThe image shows the word \"COME\" repeated twice, suggesting something is building up or accumulating. The surprised/concerned-looking emoticon next to it implies that the buildup is reaching a critical point, or \"coming to a head\".  This phrase refers to a situation reaching a crisis or climax.\n\nThe other options don't fit the visual:\n\n* **(A) go to someone's head:** Implies arrogance due to success.\n* **(B) lose head:** Implies losing control or composure.\n* **(D) give head:** Has a completely different, sexual meaning.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to someone's head (B) lose head (C) come to a head (D) give head",
+   "answer": {
+      "C": "come to a head"
+   },
+   "extracted_response": "C) come to a head"
 }

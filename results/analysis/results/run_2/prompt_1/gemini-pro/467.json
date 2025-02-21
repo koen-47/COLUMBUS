@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts (B) in line. The arrows indicate joining a line from the end (down arrow) and continuing in the line (up arrow).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start line (B) in line (C) lead the line (D) hold the line",
-    "answer": {
-        "A": "start line"
-    }
+   "gemini_pro_response": "The image depicts (B) in line. The arrows indicate joining a line from the end (down arrow) and continuing in the line (up arrow).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start line (B) in line (C) lead the line (D) hold the line",
+   "answer": {
+      "A": "start line"
+   },
+   "extracted_response": "B"
 }

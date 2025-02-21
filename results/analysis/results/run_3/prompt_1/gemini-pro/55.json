@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows \"1111\" with arrows pointing to it from above and below, followed by \"IIII\".  This represents watching something change from 1111 to IIII (or IV) right in front of you.\n\nThe correct answer is (B) before one's eyes.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's time (B) before one's eyes (C) under one's very eyes (D) before someone's time",
-    "answer": {
-        "B": "before one's eyes"
-    }
+   "gemini_pro_response": "The image shows \"1111\" with arrows pointing to it from above and below, followed by \"IIII\".  This represents watching something change from 1111 to IIII (or IV) right in front of you.\n\nThe correct answer is (B) before one's eyes.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's time (B) before one's eyes (C) under one's very eyes (D) before someone's time",
+   "answer": {
+      "B": "before one's eyes"
+   },
+   "extracted_response": "B) before one's eyes"
 }

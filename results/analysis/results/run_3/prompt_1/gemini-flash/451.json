@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **to the bone**.\n\nThe image shows the word \"BONE\" stacked on top of \"BONE,\" visually representing the phrase \"to the bone\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) chill to the bone (C) throw a bone to (D) to the bone",
-    "answer": {
-        "D": "to the bone"
-    }
+   "gemini_pro_response": "The correct answer is (D) **to the bone**.\n\nThe image shows the word \"BONE\" stacked on top of \"BONE,\" visually representing the phrase \"to the bone\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) chill to the bone (C) throw a bone to (D) to the bone",
+   "answer": {
+      "D": "to the bone"
+   },
+   "extracted_response": "D) to the bone"
 }

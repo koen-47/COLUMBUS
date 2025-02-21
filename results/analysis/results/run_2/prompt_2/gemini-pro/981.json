@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows water over a dam.  The word \"DAM\" is written below the image. Therefore, the answer is (C) water over the dam.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head above water (B) water down (C) water over the dam (D) water under the bridge",
-    "answer": {
-        "C": "water over the dam"
-    }
+   "gemini_pro_response": "The rebus shows water over a dam.  The word \"DAM\" is written below the image. Therefore, the answer is (C) water over the dam.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head above water (B) water down (C) water over the dam (D) water under the bridge",
+   "answer": {
+      "C": "water over the dam"
+   },
+   "extracted_response": "C) water over the dam"
 }

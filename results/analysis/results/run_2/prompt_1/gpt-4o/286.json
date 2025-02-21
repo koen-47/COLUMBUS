@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) hunker down.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hunchback (B) hurler on the ditch (C) hunker down (D) face down",
-    "answer": {
-        "C": "hunker down"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) hunker down.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hunchback (B) hurler on the ditch (C) hunker down (D) face down",
+   "answer": {
+      "C": "hunker down"
+   },
+   "extracted_response": "C, hunker down"
 }

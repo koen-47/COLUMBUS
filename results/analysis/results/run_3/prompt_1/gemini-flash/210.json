@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The best answer is (B) brown bread.  While the image is a simple representation of a loaf of bread, and doesn't explicitly show color, \"brown bread\" is the most likely and straightforward interpretation compared to the other, more metaphorical or complex options.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bread of life (B) brown bread (C) burn bread (D) bread and butter",
-    "answer": {
-        "B": "brown bread"
-    }
+   "gemini_pro_response": "The best answer is (B) brown bread.  While the image is a simple representation of a loaf of bread, and doesn't explicitly show color, \"brown bread\" is the most likely and straightforward interpretation compared to the other, more metaphorical or complex options.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bread of life (B) brown bread (C) burn bread (D) bread and butter",
+   "answer": {
+      "B": "brown bread"
+   },
+   "extracted_response": "B) brown bread"
 }

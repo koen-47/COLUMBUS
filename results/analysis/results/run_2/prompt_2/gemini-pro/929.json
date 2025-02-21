@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle depicts \"1111 <return> GRAVE\".  This represents \"turn in one's grave\". The four 1s look like the vertical bars of a grave marker, and the return symbol implies turning or rotating.\n\nThus, the answer is (D).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take someone to the grave (B) dig one's own grave (C) take to the grave (D) turn in one's grave",
-    "answer": {
-        "D": "turn in one's grave"
-    }
+   "gemini_pro_response": "The rebus puzzle depicts \"1111 <return> GRAVE\".  This represents \"turn in one's grave\". The four 1s look like the vertical bars of a grave marker, and the return symbol implies turning or rotating.\n\nThus, the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take someone to the grave (B) dig one's own grave (C) take to the grave (D) turn in one's grave",
+   "answer": {
+      "D": "turn in one's grave"
+   },
+   "extracted_response": "D) turn in one's grave"
 }

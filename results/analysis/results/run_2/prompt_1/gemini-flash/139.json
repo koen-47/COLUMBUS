@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) bird in the bosom.  The word \"BOBIRDSON\" is a visual pun, where \"BO\" and \"SON\" are placed on either side of \"BIRD,\" visually representing a bird nestled in someone's bosom.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bird of passage (B) ghetto bird (C) bird in the bosom (D) early bird",
-    "answer": {
-        "C": "bird in the bosom"
-    }
+   "gemini_pro_response": "The answer is (C) bird in the bosom.  The word \"BOBIRDSON\" is a visual pun, where \"BO\" and \"SON\" are placed on either side of \"BIRD,\" visually representing a bird nestled in someone's bosom.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bird of passage (B) ghetto bird (C) bird in the bosom (D) early bird",
+   "answer": {
+      "C": "bird in the bosom"
+   },
+   "extracted_response": "C) bird in the bosom"
 }

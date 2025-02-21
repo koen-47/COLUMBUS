@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus is \"K L A H C 2\". This represents \"Chalk two\", which sounds like \"Chalk to\". The similar sounding phrase from the options is **(A) chalk up to**.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chalk up to (B) drum up (C) chalk off (D) chalk something up to experience",
-    "answer": {
-        "A": "chalk up to"
-    }
+   "gemini_pro_response": "The rebus is \"K L A H C 2\". This represents \"Chalk two\", which sounds like \"Chalk to\". The similar sounding phrase from the options is **(A) chalk up to**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chalk up to (B) drum up (C) chalk off (D) chalk something up to experience",
+   "answer": {
+      "A": "chalk up to"
+   },
+   "extracted_response": "A) chalk up to"
 }

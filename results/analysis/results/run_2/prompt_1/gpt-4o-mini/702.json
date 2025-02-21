@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) move up in the world.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) move out (B) move heaven and earth (C) move up in the world (D) come into the world",
-    "answer": {
-        "C": "move up in the world"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) move up in the world.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) move out (B) move heaven and earth (C) move up in the world (D) come into the world",
+   "answer": {
+      "C": "move up in the world"
+   },
+   "extracted_response": "C) move up in the world"
 }

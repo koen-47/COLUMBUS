@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) tickled pink**.\n\nThe image shows the word \"TICKLED\".  \"Tickled pink\" is an idiom meaning to be very pleased or delighted.  While \"tickle pink\" (C) is grammatically incorrect, it's a close approximation. The other options are unrelated.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tick over (B) tickled pink (C) tickle pink (D) tickseed",
-    "answer": {
-        "B": "tickled pink"
-    }
+   "gemini_pro_response": "The correct answer is **(B) tickled pink**.\n\nThe image shows the word \"TICKLED\".  \"Tickled pink\" is an idiom meaning to be very pleased or delighted.  While \"tickle pink\" (C) is grammatically incorrect, it's a close approximation. The other options are unrelated.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tick over (B) tickled pink (C) tickle pink (D) tickseed",
+   "answer": {
+      "B": "tickled pink"
+   },
+   "extracted_response": "B, C"
 }

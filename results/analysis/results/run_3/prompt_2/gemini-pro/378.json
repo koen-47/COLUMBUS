@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows \"SKATE\" over \"THIN\" with a picture of a die, or one \"ICE.\"  Therefore, the answer is (C) on thin ice.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skate on thin ice (B) skate over (C) on thin ice (D) get one's skates on",
-    "answer": {
-        "A": "skate on thin ice"
-    }
+   "gemini_pro_response": "The rebus puzzle shows \"SKATE\" over \"THIN\" with a picture of a die, or one \"ICE.\"  Therefore, the answer is (C) on thin ice.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skate on thin ice (B) skate over (C) on thin ice (D) get one's skates on",
+   "answer": {
+      "A": "skate on thin ice"
+   },
+   "extracted_response": "C) on thin ice"
 }

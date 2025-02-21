@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle consists of the word \"COME\" surrounded by two globe icons (\ud83c\udf0d), which can be interpreted as \"world.\" This suggests the phrase \"come into the world.\"\n\nThe correct answer is (A) come into the world.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: COME, repeat: 1)\nNode 2 attributes: (text: \ud83c\udf0d, repeat: 1, icon: (world: \ud83c\udf0d))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) come to life (D) come down to earth",
-    "answer": {
-        "A": "come into the world"
-    }
+   "gpt4v_response": "The rebus puzzle consists of the word \"COME\" surrounded by two globe icons (\ud83c\udf0d), which can be interpreted as \"world.\" This suggests the phrase \"come into the world.\"\n\nThe correct answer is (A) come into the world.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: COME, repeat: 1)\nNode 2 attributes: (text: \ud83c\udf0d, repeat: 1, icon: (world: \ud83c\udf0d))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) come to life (D) come down to earth",
+   "answer": {
+      "A": "come into the world"
+   },
+   "extracted_response": "A) come into the world"
 }

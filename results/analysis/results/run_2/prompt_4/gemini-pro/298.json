@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows \"HIGH\" reversed and next to \"DRY\".  Reversing \"HIGH\" gives \"GIH\", which sounds like the second part of \"left **high** and dry\".\n\nThe answer is (D) high and dry.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: HIGH, repeat: 1, direction: reverse)\nNode 2 attributes: (text: DRY, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) on the dry (B) left high and dry (C) leave someone high and dry (D) high and dry",
-    "answer": {
-        "B": "left high and dry"
-    }
+   "gemini_pro_response": "The rebus puzzle shows \"HIGH\" reversed and next to \"DRY\".  Reversing \"HIGH\" gives \"GIH\", which sounds like the second part of \"left **high** and dry\".\n\nThe answer is (D) high and dry.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: HIGH, repeat: 1, direction: reverse)\nNode 2 attributes: (text: DRY, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) on the dry (B) left high and dry (C) leave someone high and dry (D) high and dry",
+   "answer": {
+      "B": "left high and dry"
+   },
+   "extracted_response": "D) high and dry"
 }

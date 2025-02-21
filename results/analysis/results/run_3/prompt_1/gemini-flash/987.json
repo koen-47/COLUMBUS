@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **what in time**.\n\nThe image shows the word \"WHAT\" flanked by clock icons, representing time.  This visually represents the question \"What in time?\"\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) why in time (B) what in time (C) matter of time (D) time after time",
-    "answer": {
-        "B": "what in time"
-    }
+   "gemini_pro_response": "The correct answer is (B) **what in time**.\n\nThe image shows the word \"WHAT\" flanked by clock icons, representing time.  This visually represents the question \"What in time?\"\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) why in time (B) what in time (C) matter of time (D) time after time",
+   "answer": {
+      "B": "what in time"
+   },
+   "extracted_response": "B) what in time"
 }

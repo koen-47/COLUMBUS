@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe JSON describes the image showing \"FISH\" above \"FISH\" with \"FRY\" to the right.  This visually represents the phrase \"bigger fish to fry\".\n\nTherefore, the answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"text_FISH\",\n        \"description\": \"The word 'FISH' written in uppercase letters.\",\n        \"relation\": \"Located in the top left corner.\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"text_FRY\",\n        \"description\": \"The word 'FRY' written in uppercase letters.\",\n        \"relation\": \"Located to the right of 'FISH'.\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"text_FISH\",\n        \"description\": \"The word 'FISH' written in uppercase letters.\",\n        \"relation\": \"Located below the first 'FISH'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) go fish (B) bigger fish to fry (C) fry up (D) fish to fry\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "fish to fry"
+    }
+}

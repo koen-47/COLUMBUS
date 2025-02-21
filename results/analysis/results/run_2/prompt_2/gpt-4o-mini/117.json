@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows \"CHIP\" above \"SHOULDER\" with \"1111\" in between. The number \"1111\" can be interpreted as \"on\" (since it looks like a line connecting the two words). \n\nTherefore, the phrase conveyed is \"chip on shoulder.\"\n\nThe correct answer is (C) chip on one's shoulder.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chip shot (B) chip on shoulder (C) chip on one's shoulder (D) chip away",
-    "answer": {
-        "C": "chip on one's shoulder"
-    }
+   "gpt4v_response": "The rebus puzzle shows \"CHIP\" above \"SHOULDER\" with \"1111\" in between. The number \"1111\" can be interpreted as \"on\" (since it looks like a line connecting the two words). \n\nTherefore, the phrase conveyed is \"chip on shoulder.\"\n\nThe correct answer is (C) chip on one's shoulder.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chip shot (B) chip on shoulder (C) chip on one's shoulder (D) chip away",
+   "answer": {
+      "C": "chip on one's shoulder"
+   },
+   "extracted_response": "C) chip on one's shoulder"
 }

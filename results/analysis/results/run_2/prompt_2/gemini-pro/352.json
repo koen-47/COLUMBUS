@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows \"BRIDGE\" crossed out, with the word \"FAR\" appearing twice.  This represents \"a bridge too far\".\n\nSo the answer is (D).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go too far (B) cross the bridge (C) cross that bridge when one comes to it (D) cross a bridge too far",
-    "answer": {
-        "D": "cross a bridge too far"
-    }
+   "gemini_pro_response": "The rebus shows \"BRIDGE\" crossed out, with the word \"FAR\" appearing twice.  This represents \"a bridge too far\".\n\nSo the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go too far (B) cross the bridge (C) cross that bridge when one comes to it (D) cross a bridge too far",
+   "answer": {
+      "D": "cross a bridge too far"
+   },
+   "extracted_response": "D) cross a bridge too far"
 }

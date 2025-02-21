@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle consists of the words \"PUT\" and \"DOG\" arranged vertically, which suggests a phrase involving both words. The correct interpretation of this arrangement is \"put on the dog,\" which means to show off or to make a big display.\n\nTherefore, the answer is (A) put on the dog.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: PUT, repeat: 1)\nNode 2 attributes: (text: DOG, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) put on the dog (B) dog around (C) put off (D) put someone on to",
-    "answer": {
-        "A": "put on the dog"
-    }
+   "gpt4v_response": "The rebus puzzle consists of the words \"PUT\" and \"DOG\" arranged vertically, which suggests a phrase involving both words. The correct interpretation of this arrangement is \"put on the dog,\" which means to show off or to make a big display.\n\nTherefore, the answer is (A) put on the dog.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: PUT, repeat: 1)\nNode 2 attributes: (text: DOG, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) put on the dog (B) dog around (C) put off (D) put someone on to",
+   "answer": {
+      "A": "put on the dog"
+   },
+   "extracted_response": "A) put on the dog"
 }

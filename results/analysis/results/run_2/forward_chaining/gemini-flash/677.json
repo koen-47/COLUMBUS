@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two icons of french fries, one above the other.  The word \"chip\" is related to french fries. The preposition \"in\" represents the vertical arrangement of the fries. Therefore, the rebus represents the phrase \"chip in\".\n\nThe correct answer is (C).  The other options do not fit the visual representation.\n\nFinal Answer: The final answer is $\\boxed{C}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"item1\",\n    \"name\": \"french_fries_icon_top\",\n    \"description\": \"An icon of a container of french fries.\",\n    \"relation\": \"above the other french fries icon\"\n}\n```\n\n```json\n{\n    \"id\": \"item2\",\n    \"name\": \"french_fries_icon_bottom\",\n    \"description\": \"An icon of a container of french fries.\",\n    \"relation\": \"below the other french fries icon\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) microchips (B) chipboard (C) chip in (D) hardware\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "microchips"
+    }
+}

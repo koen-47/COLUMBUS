@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows a rock icon followed by the word \"STUCKAGE.\" This maps to the phrase \"stuck in the stone age.\"\n\n* **Fist icon (incorrect description in the JSON, it is a rock icon)** \u2192 Stone Age (rock representing the Stone Age)\n* **STUCKAGE** \u2192 Stuck\n\nThus, the rebus puzzle represents **(B) stuck in the stone age.**\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"fist_icon\",\n  \"description\": \"An icon of a clenched fist.\",\n  \"relation\": \"to the left of the text\"\n}\n```\n\n```json\n{\n  \"id\": \"item2\",\n  \"name\": \"text_stuckage\",\n  \"description\": \"The word 'STUCKAGE' in bold uppercase letters.\",\n  \"relation\": \"to the right of the fist icon\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) stone dead (B) stuck in the stone age (C) carved in stone (D) set in stone\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "stuck in the stone age"
+    }
+}

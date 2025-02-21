@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word is \"midsection\". The graph description mentions SECTION is repeated twice, and also highlighting the middle. The arrows pointing in opposite directions around SECTION implies \"in the middle of SECTION\". The word \"midsection\" can also be verified from the picture itself, where the word SECTION is repeated twice with arrows converging on the middle of the words.\n\nTherefore, the answer is (C).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: SECTION, repeat: 2, highlight: middle)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) midsections (B) midbrain (C) midsection (D) midribs",
-    "answer": {
-        "A": "midsections"
-    }
+   "gemini_pro_response": "The word is \"midsection\". The graph description mentions SECTION is repeated twice, and also highlighting the middle. The arrows pointing in opposite directions around SECTION implies \"in the middle of SECTION\". The word \"midsection\" can also be verified from the picture itself, where the word SECTION is repeated twice with arrows converging on the middle of the words.\n\nTherefore, the answer is (C).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: SECTION, repeat: 2, highlight: middle)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) midsections (B) midbrain (C) midsection (D) midribs",
+   "answer": {
+      "A": "midsections"
+   },
+   "extracted_response": "C) midsection"
 }

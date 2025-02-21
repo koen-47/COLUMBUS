@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"WIG\" written twice, one above the other. This arrangement suggests the phrase \"bigwig,\" as the word \"big\" can be interpreted from the stacking of \"WIG\" on top of \"WIG.\"\n\nThe correct answer is (C) bigwig.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n{\n  \"id\": \"1\",\n  \"name\": \"WIG\",\n  \"description\": \"The word 'WIG' written in uppercase letters.\",\n  \"relation\": \"above the second 'WIG'\"\n}\n\n{\n  \"id\": \"2\",\n  \"name\": \"WIG\",\n  \"description\": \"The word 'WIG' written in uppercase letters.\",\n  \"relation\": \"below the first 'WIG'\"\n}\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) earwigs (B) bigwigs (C) bigwig (D) bigheads\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "bigwigs"
+    }
+}

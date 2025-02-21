@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) crossroads.\n\nThe image shows two roads intersecting, which is the definition of a crossroads.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossway (B) high road (C) crossroads (D) low road",
-    "answer": {
-        "C": "crossroads"
-    }
+   "gemini_pro_response": "The correct answer is (C) crossroads.\n\nThe image shows two roads intersecting, which is the definition of a crossroads.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossway (B) high road (C) crossroads (D) low road",
+   "answer": {
+      "C": "crossroads"
+   },
+   "extracted_response": "C) crossroads"
 }

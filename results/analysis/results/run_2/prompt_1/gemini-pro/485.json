@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows a clock with arrows pointing towards and away from it, then another clock. This represents time moving forward. The most fitting phrase is (D) time after time.  This idiom refers to something happening repeatedly over a period of time.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) time flies (B) what in time (C) make time (D) time after time",
-    "answer": {
-        "D": "time after time"
-    }
+   "gemini_pro_response": "The image shows a clock with arrows pointing towards and away from it, then another clock. This represents time moving forward. The most fitting phrase is (D) time after time.  This idiom refers to something happening repeatedly over a period of time.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) time flies (B) what in time (C) make time (D) time after time",
+   "answer": {
+      "D": "time after time"
+   },
+   "extracted_response": "D) time after time"
 }

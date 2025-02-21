@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) turn someone's head**.\n\nHere's why:\n\n* The top part of the image shows a refresh or \"turn\" symbol.\n* The bottom shows \"ITS\" followed by a face with wide eyes, suggesting someone is surprised or impressed.\n\nTogether, it implies that something (\"ITS\") is causing someone to \"turn their head\" in surprise or interest.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) use one's head (B) turn heads (C) turn someone's head (D) turn on its head",
-    "answer": {
-        "D": "turn on its head"
-    }
+   "gemini_pro_response": "The correct answer is **(C) turn someone's head**.\n\nHere's why:\n\n* The top part of the image shows a refresh or \"turn\" symbol.\n* The bottom shows \"ITS\" followed by a face with wide eyes, suggesting someone is surprised or impressed.\n\nTogether, it implies that something (\"ITS\") is causing someone to \"turn their head\" in surprise or interest.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) use one's head (B) turn heads (C) turn someone's head (D) turn on its head",
+   "answer": {
+      "D": "turn on its head"
+   },
+   "extracted_response": "C) turn someone's head"
 }

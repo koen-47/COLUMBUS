@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows \"1111\" next to \"LEGS.\" The number \"1111\" can be interpreted as \"one\" repeated four times, which suggests \"four legs.\" Therefore, the phrase conveyed is \"have legs.\"\n\nThe correct answer is (B) have legs.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) open one's legs (B) have legs (C) cross one's legs (D) on one's last legs",
-    "answer": {
-        "C": "cross one's legs"
-    }
+   "gpt4v_response": "The rebus puzzle shows \"1111\" next to \"LEGS.\" The number \"1111\" can be interpreted as \"one\" repeated four times, which suggests \"four legs.\" Therefore, the phrase conveyed is \"have legs.\"\n\nThe correct answer is (B) have legs.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) open one's legs (B) have legs (C) cross one's legs (D) on one's last legs",
+   "answer": {
+      "C": "cross one's legs"
+   },
+   "extracted_response": "B) have legs"
 }

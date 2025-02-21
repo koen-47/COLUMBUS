@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(A) put on the dog**.\n\nThe image shows \"PUT\" over \"DOG\" with a line in between, suggesting the phrase \"put on the dog\".  This idiom means to dress up ostentatiously or to live extravagantly.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the dog (B) dog around (C) put off (D) put someone on to",
-    "answer": {
-        "A": "put on the dog"
-    }
+   "gemini_pro_response": "The answer is **(A) put on the dog**.\n\nThe image shows \"PUT\" over \"DOG\" with a line in between, suggesting the phrase \"put on the dog\".  This idiom means to dress up ostentatiously or to live extravagantly.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the dog (B) dog around (C) put off (D) put someone on to",
+   "answer": {
+      "A": "put on the dog"
+   },
+   "extracted_response": "A) put on the dog"
 }

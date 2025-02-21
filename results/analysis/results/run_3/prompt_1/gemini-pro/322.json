@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the letters \"COSM.\"  This is part of the word \"microcosm\" (B).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) microeconomics (B) microcosm (C) pill mill (D) micromanagement",
-    "answer": {
-        "B": "microcosm"
-    }
+   "gemini_pro_response": "The image shows the letters \"COSM.\"  This is part of the word \"microcosm\" (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) microeconomics (B) microcosm (C) pill mill (D) micromanagement",
+   "answer": {
+      "B": "microcosm"
+   },
+   "extracted_response": "B"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(B) dead end",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead loss (B) dead end (C) dead last (D) dead end job",
-    "answer": {
-        "B": "dead end"
-    }
+   "gpt4v_response": "(B) dead end",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead loss (B) dead end (C) dead last (D) dead end job",
+   "answer": {
+      "B": "dead end"
+   },
+   "extracted_response": "B) dead end"
 }

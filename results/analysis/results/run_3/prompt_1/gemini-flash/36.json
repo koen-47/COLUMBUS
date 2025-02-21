@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) a small cog in a big wheel.\n\nThe image shows the word \"WHEEL\" with a small cogwheel replacing the letter \"O\".  This visually represents a small cog as part of a larger wheel.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big wheel (B) cogwheels (C) cogwheel (D) a small cog in a big wheel",
-    "answer": {
-        "D": "a small cog in a big wheel"
-    }
+   "gemini_pro_response": "The correct answer is (D) a small cog in a big wheel.\n\nThe image shows the word \"WHEEL\" with a small cogwheel replacing the letter \"O\".  This visually represents a small cog as part of a larger wheel.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big wheel (B) cogwheels (C) cogwheel (D) a small cog in a big wheel",
+   "answer": {
+      "D": "a small cog in a big wheel"
+   },
+   "extracted_response": "D) a small cog in a big wheel"
 }

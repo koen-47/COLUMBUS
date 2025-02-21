@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (A) rip to shreds.\n\nThe word \"RIP\" is shown twice, suggesting the repetition of the action of ripping.  The word \"SHREDS\" is placed next to the two \"RIP\"s, leading to the phrase \"rip to shreds,\" which means to tear something into many small pieces.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rip to shreds (B) rip into (C) rip off (D) give a rip",
-    "answer": {
-        "A": "rip to shreds"
-    }
+   "gemini_pro_response": "The answer is (A) rip to shreds.\n\nThe word \"RIP\" is shown twice, suggesting the repetition of the action of ripping.  The word \"SHREDS\" is placed next to the two \"RIP\"s, leading to the phrase \"rip to shreds,\" which means to tear something into many small pieces.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rip to shreds (B) rip into (C) rip off (D) give a rip",
+   "answer": {
+      "A": "rip to shreds"
+   },
+   "extracted_response": "A) rip to shreds"
 }

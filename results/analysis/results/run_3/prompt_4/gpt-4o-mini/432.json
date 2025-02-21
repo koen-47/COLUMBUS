@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"skeleton in the cupboard.\" The skeleton emoji (\ud83d\udc80) is placed inside the word \"cupboard,\" indicating the phrase. Therefore, the correct answer is (B) skeleton in the cupboard.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc80, repeat: 1, icon: (skeleton: \ud83d\udc80))\nNode 2 attributes: (text: CUPBOARD, repeat: 1)\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) cupboard love (B) skeleton in the cupboard (C) cupboard (D) skeleton in the closet",
-    "answer": {
-        "B": "skeleton in the cupboard"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"skeleton in the cupboard.\" The skeleton emoji (\ud83d\udc80) is placed inside the word \"cupboard,\" indicating the phrase. Therefore, the correct answer is (B) skeleton in the cupboard.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc80, repeat: 1, icon: (skeleton: \ud83d\udc80))\nNode 2 attributes: (text: CUPBOARD, repeat: 1)\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) cupboard love (B) skeleton in the cupboard (C) cupboard (D) skeleton in the closet",
+   "answer": {
+      "B": "skeleton in the cupboard"
+   },
+   "extracted_response": "B) skeleton in the cupboard"
 }

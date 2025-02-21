@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(A) fox in the henhouse**.\n\nThe word \"HENHOUSE\" has the word \"FOX\" embedded within it.  This visually represents a fox inside a henhouse.\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fox in the henhouse (B) fox sleep (C) cock in the henhouse (D) henhouse",
-    "answer": {
-        "A": "fox in the henhouse"
-    }
+   "gemini_pro_response": "The answer is **(A) fox in the henhouse**.\n\nThe word \"HENHOUSE\" has the word \"FOX\" embedded within it.  This visually represents a fox inside a henhouse.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fox in the henhouse (B) fox sleep (C) cock in the henhouse (D) henhouse",
+   "answer": {
+      "A": "fox in the henhouse"
+   },
+   "extracted_response": "A) fox in the henhouse"
 }

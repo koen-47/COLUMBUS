@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows \"2\" with a horizontal line through it and the letters \"E K A T\". This represents crossing off the number 2 from a list or striking it through.\n\nTherefore, the correct answer is (C) cross off or (D) cross out. Both are essentially synonyms in this context. However, \"cross off\" is typically used when removing an item from a list, while \"cross out\" is used to indicate deletion or invalidation of text.  Since we're talking about the number 2 next to the word \"EKAT,\" it seems most likely we're removing it from a list, making **(C) cross off** the slightly better answer.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross off (D) cross out",
-    "answer": {
-        "B": "cross to take up"
-    }
+   "gemini_pro_response": "The image shows \"2\" with a horizontal line through it and the letters \"E K A T\". This represents crossing off the number 2 from a list or striking it through.\n\nTherefore, the correct answer is (C) cross off or (D) cross out. Both are essentially synonyms in this context. However, \"cross off\" is typically used when removing an item from a list, while \"cross out\" is used to indicate deletion or invalidation of text.  Since we're talking about the number 2 next to the word \"EKAT,\" it seems most likely we're removing it from a list, making **(C) cross off** the slightly better answer.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross off (D) cross out",
+   "answer": {
+      "B": "cross to take up"
+   },
+   "extracted_response": "C) cross off, D) cross out"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) wait for the ball to drop.\n\nThe words \"WAIT\" are repeated, and the image shows two basketballs, followed by a teardrop shape, implying that the balls are waiting to drop. This aligns with the idiomatic expression \"wait for the ball to drop,\" which means to wait for something anticipated to happen.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop the ball (B) have a ball (C) wait for the ball to drop (D) carry the ball",
-    "answer": {
-        "C": "wait for the ball to drop"
-    }
+   "gemini_pro_response": "The image conveys (C) wait for the ball to drop.\n\nThe words \"WAIT\" are repeated, and the image shows two basketballs, followed by a teardrop shape, implying that the balls are waiting to drop. This aligns with the idiomatic expression \"wait for the ball to drop,\" which means to wait for something anticipated to happen.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop the ball (B) have a ball (C) wait for the ball to drop (D) carry the ball",
+   "answer": {
+      "C": "wait for the ball to drop"
+   },
+   "extracted_response": "C"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle \"AN (fire icon) GER\" represents the phrase \"fire in anger\". The fire icon is placed between \"AN\" and \"GER\" to form the word \"ANGER\", and the icon itself represents \"fire\", thus conveying \"fire in anger\".  So the answer is (C).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) escape fire (B) fight fire with fire (C) fire in anger (D) draw fire",
-    "answer": {
-        "C": "fire in anger"
-    }
+   "gemini_pro_response": "The rebus puzzle \"AN (fire icon) GER\" represents the phrase \"fire in anger\". The fire icon is placed between \"AN\" and \"GER\" to form the word \"ANGER\", and the icon itself represents \"fire\", thus conveying \"fire in anger\".  So the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) escape fire (B) fight fire with fire (C) fire in anger (D) draw fire",
+   "answer": {
+      "C": "fire in anger"
+   },
+   "extracted_response": "C) fire in anger"
 }

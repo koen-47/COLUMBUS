@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (B) one-hit wonder.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two-hit wonder (B) one-hit wonder (C) small wonder (D) no-hit wonder",
-    "answer": {
-        "C": "small wonder"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) one-hit wonder.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two-hit wonder (B) one-hit wonder (C) small wonder (D) no-hit wonder",
+   "answer": {
+      "C": "small wonder"
+   },
+   "extracted_response": "B) one-hit wonder"
 }

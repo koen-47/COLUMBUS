@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word \"STEAM\" is inside a box, indicating it's \"boxed in\". So we have \"RUN\" and \"boxed in STEAM\". This sounds like \"run out of steam\".\n\nFinal Answer: The final answer is $\\boxed{A}$",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: RUN, repeat: 1)\nNode 2 attributes: (text: STEAM, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) run out of steam (B) under one's own steam (C) head of steam (D) blow off steam",
-    "answer": {
-        "A": "run out of steam"
-    }
+   "gemini_pro_response": "The word \"STEAM\" is inside a box, indicating it's \"boxed in\". So we have \"RUN\" and \"boxed in STEAM\". This sounds like \"run out of steam\".\n\nFinal Answer: The final answer is $\\boxed{A}$",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: RUN, repeat: 1)\nNode 2 attributes: (text: STEAM, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) run out of steam (B) under one's own steam (C) head of steam (D) blow off steam",
+   "answer": {
+      "A": "run out of steam"
+   },
+   "extracted_response": "A) run out of steam"
 }

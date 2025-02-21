@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle described with the elements of a hat (\ud83c\udfa9) and a hand (\ud83e\udd1a) suggests the phrase \"hat in hand.\" The hat is represented as being inside the hand, which aligns with option (B) \"hat in hand.\" \n\nSo, the correct answer is (B) hat in hand.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83c\udfa9, repeat: 1, icon: (hat: \ud83c\udfa9))\nNode 2 attributes: (text: \ud83e\udd1a, repeat: 1, icon: (hand: \ud83e\udd1a))\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) pick out of a hat (B) hat in hand (C) hand someone his hat (D) put a hat on a hat",
-    "answer": {
-        "B": "hat in hand"
-    }
+   "gpt4v_response": "The rebus puzzle described with the elements of a hat (\ud83c\udfa9) and a hand (\ud83e\udd1a) suggests the phrase \"hat in hand.\" The hat is represented as being inside the hand, which aligns with option (B) \"hat in hand.\" \n\nSo, the correct answer is (B) hat in hand.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83c\udfa9, repeat: 1, icon: (hat: \ud83c\udfa9))\nNode 2 attributes: (text: \ud83e\udd1a, repeat: 1, icon: (hand: \ud83e\udd1a))\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) pick out of a hat (B) hat in hand (C) hand someone his hat (D) put a hat on a hat",
+   "answer": {
+      "B": "hat in hand"
+   },
+   "extracted_response": "B) hat in hand"
 }

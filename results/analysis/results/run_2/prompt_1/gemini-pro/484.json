@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"WITIETH\", which can be interpreted as \"TIE\" within the word \"WITH.\" This best corresponds to option (C) **tie in with**.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tie up (B) tie in (C) tie in with (D) tie one on",
-    "answer": {
-        "C": "tie in with"
-    }
+   "gemini_pro_response": "The image says \"WITIETH\", which can be interpreted as \"TIE\" within the word \"WITH.\" This best corresponds to option (C) **tie in with**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tie up (B) tie in (C) tie in with (D) tie one on",
+   "answer": {
+      "C": "tie in with"
+   },
+   "extracted_response": "C) tie in with"
 }

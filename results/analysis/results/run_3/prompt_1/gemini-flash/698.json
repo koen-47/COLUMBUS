@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The best answer is (A) moment in the sun.  The image uses sun-like symbols to flank the word \"moment,\" visually representing a \"moment in the sun.\"  The other options don't align as well with the visual element.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) moment in the sun (B) catch the sun (C) moment of truth (D) in the heat of the moment",
-    "answer": {
-        "A": "moment in the sun"
-    }
+   "gemini_pro_response": "The best answer is (A) moment in the sun.  The image uses sun-like symbols to flank the word \"moment,\" visually representing a \"moment in the sun.\"  The other options don't align as well with the visual element.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) moment in the sun (B) catch the sun (C) moment of truth (D) in the heat of the moment",
+   "answer": {
+      "A": "moment in the sun"
+   },
+   "extracted_response": "A) moment in the sun"
 }

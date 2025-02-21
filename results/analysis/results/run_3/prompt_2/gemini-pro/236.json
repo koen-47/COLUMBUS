@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows \"HEAD\" over \"HEAD\" and \"TOE\".  This represents \"head to toe\" (D).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) toe the line (C) lose head (D) head to toe",
-    "answer": {
-        "D": "head to toe"
-    }
+   "gemini_pro_response": "The rebus puzzle shows \"HEAD\" over \"HEAD\" and \"TOE\".  This represents \"head to toe\" (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) toe the line (C) lose head (D) head to toe",
+   "answer": {
+      "D": "head to toe"
+   },
+   "extracted_response": "D) head to toe"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the word/phrase **(A) hard on the eyes**.  The word \"PAINFUL\" is written above the fraction bar, and the Roman numeral \"IIII\" is written below, symbolizing the number 4. The fraction 4/4 is equal to 1, which is the same as \"I\" in Roman numerals.  Since \"IIII\" isn't the correct way to write 4 in Roman numerals (it should be \"IV\"), it is considered visually jarring and therefore \"hard on the eyes\" for someone familiar with Roman numerals.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hard on the eyes (B) sight for sore eyes (C) easy on the eye (D) painful on the eyes",
-    "answer": {
-        "D": "painful on the eyes"
-    }
+   "gemini_pro_response": "The image conveys the word/phrase **(A) hard on the eyes**.  The word \"PAINFUL\" is written above the fraction bar, and the Roman numeral \"IIII\" is written below, symbolizing the number 4. The fraction 4/4 is equal to 1, which is the same as \"I\" in Roman numerals.  Since \"IIII\" isn't the correct way to write 4 in Roman numerals (it should be \"IV\"), it is considered visually jarring and therefore \"hard on the eyes\" for someone familiar with Roman numerals.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hard on the eyes (B) sight for sore eyes (C) easy on the eye (D) painful on the eyes",
+   "answer": {
+      "D": "painful on the eyes"
+   },
+   "extracted_response": "A) hard on the eyes"
 }

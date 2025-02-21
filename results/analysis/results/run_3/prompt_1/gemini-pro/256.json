@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image clearly displays the word \"OPPORTUNITY\".  While it is written in gold letters, it simply says \"opportunity\", not \"gold opportunity\". It also doesn't convey the phrases  \"go for the gold\", \"land of opportunity\", or \"black gold\".\n\nTherefore, none of the provided options is a perfect match. However, if you have to choose one, (A) \"gold opportunity\" is the closest since the word \"opportunity\" is present and is colored gold, although it doesn't explicitly state \"gold opportunity\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gold opportunity (B) go for the gold (C) land of opportunity (D) black gold",
-    "answer": {
-        "A": "gold opportunity"
-    }
+   "gemini_pro_response": "The image clearly displays the word \"OPPORTUNITY\".  While it is written in gold letters, it simply says \"opportunity\", not \"gold opportunity\". It also doesn't convey the phrases  \"go for the gold\", \"land of opportunity\", or \"black gold\".\n\nTherefore, none of the provided options is a perfect match. However, if you have to choose one, (A) \"gold opportunity\" is the closest since the word \"opportunity\" is present and is colored gold, although it doesn't explicitly state \"gold opportunity\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gold opportunity (B) go for the gold (C) land of opportunity (D) black gold",
+   "answer": {
+      "A": "gold opportunity"
+   },
+   "extracted_response": "A) gold opportunity"
 }

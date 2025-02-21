@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus represents \"Look up the book\". The word \"BOOK\" appears multiple times, stacked up.  \"TURN UP\" is next to the stacked \"BOOK\"s and can be interpreted as indicating a search or looking for information *up* the column of books. It is a visual pun on looking up a book.\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn up (B) turn up for the book (C) throw the book at (D) write the book",
-    "answer": {
-        "B": "turn up for the book"
-    }
+   "gemini_pro_response": "The rebus represents \"Look up the book\". The word \"BOOK\" appears multiple times, stacked up.  \"TURN UP\" is next to the stacked \"BOOK\"s and can be interpreted as indicating a search or looking for information *up* the column of books. It is a visual pun on looking up a book.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn up (B) turn up for the book (C) throw the book at (D) write the book",
+   "answer": {
+      "B": "turn up for the book"
+   },
+   "extracted_response": "A) turn up"
 }

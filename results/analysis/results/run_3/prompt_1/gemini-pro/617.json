@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (D) face to face.  The words \"FACE\" are positioned as if two people are looking directly at each other.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) lose face (B) give face (C) face down (D) face to face",
-    "answer": {
-        "D": "face to face"
-    }
+   "gemini_pro_response": "The image conveys (D) face to face.  The words \"FACE\" are positioned as if two people are looking directly at each other.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) lose face (B) give face (C) face down (D) face to face",
+   "answer": {
+      "D": "face to face"
+   },
+   "extracted_response": "D) face to face"
 }

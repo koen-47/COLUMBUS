@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The words \"HEAD\" and \"START\" are written next to each other. This corresponds to the phrase \"head start\" (B).\n\n(A) head-on: Incorrect. This option requires the words \"HEAD\" and \"ON\", which are not present in the image or the json.\n(C) come to a head: Incorrect. This option requires the words \"COME\", \"TO\", \"A\", and \"HEAD\", most of which are not in the image or the json.\n(D) head to toe: Incorrect. This option requires the words \"HEAD\", \"TO\", and \"TOE\", some of which are not present in the image or the json.\n\nFinal Answer: The final answer is $\\boxed{B}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"HEAD\",\n    \"description\": \"The word 'HEAD' written in uppercase letters.\",\n    \"relation\": \"Placed above the word 'START'.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"START\",\n    \"description\": \"The word 'START' written in uppercase letters.\",\n    \"relation\": \"Placed below the word 'HEAD'.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) head-on (B) head start (C) come to a head (D) head to toe\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "head start"
+    }
+}

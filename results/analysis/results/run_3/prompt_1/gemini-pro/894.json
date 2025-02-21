@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase \"take the hills\".\n\nThe words \"TAKE\" are repeated twice, visually flanking the word \"HILLS\", implying the action of \"taking\" or capturing the hills. This aligns most closely with option A.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take to the hills (B) head for the hills (C) run for the hills (D) over the hills and far away",
-    "answer": {
-        "A": "take to the hills"
-    }
+   "gemini_pro_response": "The image conveys the phrase \"take the hills\".\n\nThe words \"TAKE\" are repeated twice, visually flanking the word \"HILLS\", implying the action of \"taking\" or capturing the hills. This aligns most closely with option A.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take to the hills (B) head for the hills (C) run for the hills (D) over the hills and far away",
+   "answer": {
+      "A": "take to the hills"
+   },
+   "extracted_response": "A"
 }

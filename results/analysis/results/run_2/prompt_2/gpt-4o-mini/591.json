@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows \"EZ\" above \"EYE,\" which suggests the phrase \"easy on the eye.\" Therefore, the correct answer is (A) easy on the eye.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) easy on the eye (B) easy on the eyes (C) hard on the eyes (D) roving eye",
-    "answer": {
-        "A": "easy on the eye"
-    }
+   "gpt4v_response": "The rebus puzzle shows \"EZ\" above \"EYE,\" which suggests the phrase \"easy on the eye.\" Therefore, the correct answer is (A) easy on the eye.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) easy on the eye (B) easy on the eyes (C) hard on the eyes (D) roving eye",
+   "answer": {
+      "A": "easy on the eye"
+   },
+   "extracted_response": "A) easy on the eye"
 }

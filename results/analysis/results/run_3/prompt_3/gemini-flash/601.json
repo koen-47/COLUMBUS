@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) not the end of the world.\n\nThe image shows a globe (representing the world) with an upward arrow and a downward arrow.  The upward arrow suggests something is going up, while the downward arrow shows something is going down. Together, they imply that the world is not ending (it's not all going down).  Therefore, the rebus solves to \"not the end of the world\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83c\udf0d, repeat: 1, highlight: after, icon: (world: \ud83c\udf0d))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) end of the world (B) not the end of the world (C) the world over (D) end of",
-    "answer": {
-        "A": "end of the world"
-    }
+   "gemini_pro_response": "The correct answer is (B) not the end of the world.\n\nThe image shows a globe (representing the world) with an upward arrow and a downward arrow.  The upward arrow suggests something is going up, while the downward arrow shows something is going down. Together, they imply that the world is not ending (it's not all going down).  Therefore, the rebus solves to \"not the end of the world\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83c\udf0d, repeat: 1, highlight: after, icon: (world: \ud83c\udf0d))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) end of the world (B) not the end of the world (C) the world over (D) end of",
+   "answer": {
+      "A": "end of the world"
+   },
+   "extracted_response": "B) not the end of the world"
 }

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains the word \"CLOSE\" above a horizontal line, with two legs below the line. This setup suggests the phrase \"close on the heels of,\" as the word \"CLOSE\" is positioned directly above the \"heels\" (legs).\n\nThe correct answer is (B) close on the heels of.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"word_close\",\n    \"description\": \"The word 'CLOSE' written in uppercase letters.\",\n    \"relation\": \"above_line\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"horizontal_line\",\n    \"description\": \"A horizontal line located below the word 'CLOSE'.\",\n    \"relation\": \"between_word_and_legs\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"legs\",\n    \"description\": \"Two legs positioned below the horizontal line, resembling the lower part of the letter 'H'.\",\n    \"relation\": \"below_line\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) head over heels (B) close on the heels of (C) dig heels in (D) on the heels of\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "close on the heels of"
+    }
+}

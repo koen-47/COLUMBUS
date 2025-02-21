@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) whip up a storm.\n\nThe letters \"PIHW\" are vertically stacked to the left of the word \"STORM\".  When rearranged, they spell \"WHIP\".  Therefore, the image conveys the idiom \"whip up a storm\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cook up a storm (B) storm off (C) take by storm (D) whip up a storm",
-    "answer": {
-        "D": "whip up a storm"
-    }
+   "gemini_pro_response": "The correct answer is (D) whip up a storm.\n\nThe letters \"PIHW\" are vertically stacked to the left of the word \"STORM\".  When rearranged, they spell \"WHIP\".  Therefore, the image conveys the idiom \"whip up a storm\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cook up a storm (B) storm off (C) take by storm (D) whip up a storm",
+   "answer": {
+      "D": "whip up a storm"
+   },
+   "extracted_response": "D) whip up a storm"
 }

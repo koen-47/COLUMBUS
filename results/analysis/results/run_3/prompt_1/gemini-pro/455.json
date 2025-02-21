@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image most likely conveys **(B) throw a bone to**.  This idiom means to offer something small or not very significant to someone, often as a way of appeasing them. The two separate bones could represent this idea.\n\nThe other options are less likely:\n\n* **(A) bone to pick:**  This idiom implies a grievance or unresolved issue, which isn't clearly conveyed by two separate bones.\n* **(C) to the bone:** This idiom implies something is thoroughly or completely done, often to an extreme degree (e.g., chilled to the bone). The image doesn't suggest this.\n* **(D) chill to the bone:** This idiom specifically refers to being extremely cold. The image doesn't convey temperature.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) throw a bone to (C) to the bone (D) chill to the bone",
-    "answer": {
-        "C": "to the bone"
-    }
+   "gemini_pro_response": "The image most likely conveys **(B) throw a bone to**.  This idiom means to offer something small or not very significant to someone, often as a way of appeasing them. The two separate bones could represent this idea.\n\nThe other options are less likely:\n\n* **(A) bone to pick:**  This idiom implies a grievance or unresolved issue, which isn't clearly conveyed by two separate bones.\n* **(C) to the bone:** This idiom implies something is thoroughly or completely done, often to an extreme degree (e.g., chilled to the bone). The image doesn't suggest this.\n* **(D) chill to the bone:** This idiom specifically refers to being extremely cold. The image doesn't convey temperature.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) throw a bone to (C) to the bone (D) chill to the bone",
+   "answer": {
+      "C": "to the bone"
+   },
+   "extracted_response": "B) throw a bone to"
 }

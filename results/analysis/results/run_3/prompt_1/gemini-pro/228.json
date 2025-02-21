@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"CLOHEADUDS,\" which is a play on the phrase **(B) head in the clouds**.  The letters are jumbled to visually represent someone who is not thinking clearly or is daydreaming.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) lose head (B) head in the clouds (C) in one's head (D) head of steam",
-    "answer": {
-        "B": "head in the clouds"
-    }
+   "gemini_pro_response": "The image says \"CLOHEADUDS,\" which is a play on the phrase **(B) head in the clouds**.  The letters are jumbled to visually represent someone who is not thinking clearly or is daydreaming.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) lose head (B) head in the clouds (C) in one's head (D) head of steam",
+   "answer": {
+      "B": "head in the clouds"
+   },
+   "extracted_response": "B"
 }

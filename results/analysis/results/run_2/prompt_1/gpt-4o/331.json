@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word conveyed in the image is (D) middle east.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) northeast (B) middlemen (C) southeast (D) middle east",
-    "answer": {
-        "D": "middle east"
-    }
+   "gpt4v_response": "The word conveyed in the image is (D) middle east.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) northeast (B) middlemen (C) southeast (D) middle east",
+   "answer": {
+      "D": "middle east"
+   },
+   "extracted_response": "D) middle east"
 }

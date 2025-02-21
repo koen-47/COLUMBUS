@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word conveyed is **(A) midbrain**.\n\nThe arrows pointing to the top and bottom of the word \"BRAIN\" can be interpreted as highlighting the middle portion of the brain.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midbrain (B) midribs (C) midvein (D) midrib",
-    "answer": {
-        "A": "midbrain"
-    }
+   "gemini_pro_response": "The word conveyed is **(A) midbrain**.\n\nThe arrows pointing to the top and bottom of the word \"BRAIN\" can be interpreted as highlighting the middle portion of the brain.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midbrain (B) midribs (C) midvein (D) midrib",
+   "answer": {
+      "A": "midbrain"
+   },
+   "extracted_response": "A"
 }

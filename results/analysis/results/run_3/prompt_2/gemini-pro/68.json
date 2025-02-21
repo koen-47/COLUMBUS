@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus represents \"after one's own heart\". Here's how:\n\n* **1111:**  Four ones is read as \"for one\".\n* The arrows pointing towards \"OWN\" indicate the words \"for one\" should be positioned \"after\" the word \"own\".\n* **OWN heart:** This combines to mean \"own heart\".\n\nTherefore, the combined meaning is \"after one's own heart\". So the answer is (D).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put one's heart in (B) cross one's heart (C) have one's heart in (D) after one's own heart",
-    "answer": {
-        "D": "after one's own heart"
-    }
+   "gemini_pro_response": "The rebus represents \"after one's own heart\". Here's how:\n\n* **1111:**  Four ones is read as \"for one\".\n* The arrows pointing towards \"OWN\" indicate the words \"for one\" should be positioned \"after\" the word \"own\".\n* **OWN heart:** This combines to mean \"own heart\".\n\nTherefore, the combined meaning is \"after one's own heart\". So the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put one's heart in (B) cross one's heart (C) have one's heart in (D) after one's own heart",
+   "answer": {
+      "D": "after one's own heart"
+   },
+   "extracted_response": "D) after one's own heart"
 }

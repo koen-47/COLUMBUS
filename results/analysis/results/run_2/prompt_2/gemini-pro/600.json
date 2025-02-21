@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B) end of the rainbow.\n\nThe up and down arrows at the end of the word \"RAINBOW\" represent the end of the rainbow.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chase a rainbow (B) end of the rainbow (C) rainbow (D) rainbow baby",
-    "answer": {
-        "B": "end of the rainbow"
-    }
+   "gemini_pro_response": "The answer is (B) end of the rainbow.\n\nThe up and down arrows at the end of the word \"RAINBOW\" represent the end of the rainbow.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chase a rainbow (B) end of the rainbow (C) rainbow (D) rainbow baby",
+   "answer": {
+      "B": "end of the rainbow"
+   },
+   "extracted_response": "B) end of the rainbow"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (D) \"stick it to\".  The words \"IT\" are positioned as if being *stuck* to the word \"STICK\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stick to (B) stick it to the man (C) put it to (D) stick it to",
-    "answer": {
-        "D": "stick it to"
-    }
+   "gemini_pro_response": "The image conveys (D) \"stick it to\".  The words \"IT\" are positioned as if being *stuck* to the word \"STICK\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stick to (B) stick it to the man (C) put it to (D) stick it to",
+   "answer": {
+      "D": "stick it to"
+   },
+   "extracted_response": "D) stick it to"
 }

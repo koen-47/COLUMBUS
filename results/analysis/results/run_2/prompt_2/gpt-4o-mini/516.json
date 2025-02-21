@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"SPARE\" repeated twice. This suggests the phrase \"to spare\" or \"have time to spare.\" \n\nThe best option that fits this interpretation is:\n\n**(C) to spare**.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spare tyre (B) spare tire (C) to spare (D) have time to spare",
-    "answer": {
-        "C": "to spare"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"SPARE\" repeated twice. This suggests the phrase \"to spare\" or \"have time to spare.\" \n\nThe best option that fits this interpretation is:\n\n**(C) to spare**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spare tyre (B) spare tire (C) to spare (D) have time to spare",
+   "answer": {
+      "C": "to spare"
+   },
+   "extracted_response": "C) to spare"
 }

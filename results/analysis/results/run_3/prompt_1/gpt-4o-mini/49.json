@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (A) be in for.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) be in for (B) in for it (C) sit in for (D) be in and out",
-    "answer": {
-        "A": "be in for"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) be in for.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) be in for (B) in for it (C) sit in for (D) be in and out",
+   "answer": {
+      "A": "be in for"
+   },
+   "extracted_response": "A"
 }

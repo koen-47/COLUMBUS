@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) for the most part.\n\nThe image shows the words \"MOST\" repeated three times, and then the word \"PART\" to the right.  This visually represents the phrase \"for the most part\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for real and for true (B) on the whole (C) for the most part (D) for a fact",
-    "answer": {
-        "C": "for the most part"
-    }
+   "gemini_pro_response": "The correct answer is (C) for the most part.\n\nThe image shows the words \"MOST\" repeated three times, and then the word \"PART\" to the right.  This visually represents the phrase \"for the most part\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for real and for true (B) on the whole (C) for the most part (D) for a fact",
+   "answer": {
+      "C": "for the most part"
+   },
+   "extracted_response": "C) for the most part"
 }

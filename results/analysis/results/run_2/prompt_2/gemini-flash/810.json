@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) run out the clock**.\n\nThe image shows a person running towards a clock inside a box.  This visually represents the act of running out the remaining time on a clock, a common strategy in sports to preserve a lead.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run the clock down (B) run out the clock (C) run down the clock (D) beat the clock",
-    "answer": {
-        "B": "run out the clock"
-    }
+   "gemini_pro_response": "The correct answer is **(B) run out the clock**.\n\nThe image shows a person running towards a clock inside a box.  This visually represents the act of running out the remaining time on a clock, a common strategy in sports to preserve a lead.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run the clock down (B) run out the clock (C) run down the clock (D) beat the clock",
+   "answer": {
+      "B": "run out the clock"
+   },
+   "extracted_response": "B) run out the clock"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the words \"BRING\" and \"HOUSE\" next to each other, forming the phrase \"bring house\".  There are two options among the choices that start with \"bring house\":\n\n* **(C) bring down the house:**  This idiom means to receive enthusiastic applause or laughter.\n* **(D) bring home:** While this *could* be interpreted as physically bringing a house somewhere, the idiomatic meaning is to emphasize or make something clear, or to earn money for one's family.\n\nNeither \"move house\" nor \"keep house\" appears in the image.  Given the image only has \"BRING\" and \"HOUSE\", the closest answer is **(D) bring home**.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) move house (B) keep house (C) bring down the house (D) bring home",
-    "answer": {
-        "C": "bring down the house"
-    }
+   "gemini_pro_response": "The image shows the words \"BRING\" and \"HOUSE\" next to each other, forming the phrase \"bring house\".  There are two options among the choices that start with \"bring house\":\n\n* **(C) bring down the house:**  This idiom means to receive enthusiastic applause or laughter.\n* **(D) bring home:** While this *could* be interpreted as physically bringing a house somewhere, the idiomatic meaning is to emphasize or make something clear, or to earn money for one's family.\n\nNeither \"move house\" nor \"keep house\" appears in the image.  Given the image only has \"BRING\" and \"HOUSE\", the closest answer is **(D) bring home**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) move house (B) keep house (C) bring down the house (D) bring home",
+   "answer": {
+      "C": "bring down the house"
+   },
+   "extracted_response": "D"
 }

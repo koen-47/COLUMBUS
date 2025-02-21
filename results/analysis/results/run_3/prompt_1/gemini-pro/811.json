@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"RUN CLOCK\".  This corresponds most closely to options (B), (C), and (D).  The phrase \"beat the clock\" (A) implies trying to finish something before a time limit, while the other options imply letting time expire.  The image itself is neutral and doesn't tell us whether \"RUN CLOCK\" is positive or negative. \n\nSince there's no visual indicator of \"down\" or \"out\", (B) \"run down the clock\" and (C) \"run the clock down\" seem to fit best. (D) could also work if \"out\" is implied by the boxed \"CLOCK,\" as if the clock is being contained or emptied.\n\nWithout further context, (B) and (C) are the most direct interpretations.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beat the clock (B) run down the clock (C) run the clock down (D) run out the clock",
-    "answer": {
-        "D": "run out the clock"
-    }
+   "gemini_pro_response": "The image conveys \"RUN CLOCK\".  This corresponds most closely to options (B), (C), and (D).  The phrase \"beat the clock\" (A) implies trying to finish something before a time limit, while the other options imply letting time expire.  The image itself is neutral and doesn't tell us whether \"RUN CLOCK\" is positive or negative. \n\nSince there's no visual indicator of \"down\" or \"out\", (B) \"run down the clock\" and (C) \"run the clock down\" seem to fit best. (D) could also work if \"out\" is implied by the boxed \"CLOCK,\" as if the clock is being contained or emptied.\n\nWithout further context, (B) and (C) are the most direct interpretations.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beat the clock (B) run down the clock (C) run the clock down (D) run out the clock",
+   "answer": {
+      "D": "run out the clock"
+   },
+   "extracted_response": "B, C"
 }

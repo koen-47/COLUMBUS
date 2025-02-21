@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **with one's head held high**.\n\nThe image presents a visual puzzle.  \"STAND\" is above a line, and below it are \"1111 HEAD\". The \"1111\" represents the four letters in the word \"HEAD\". Thus, it suggests \"STAND HEAD\" which is a figurative way of saying to stand with one's head held high.  This interpretation aligns directly with option (D).\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold one's head high (B) keep one's head (C) stand on one's head (D) with one's head held high",
-    "answer": {
-        "C": "stand on one's head"
-    }
+   "gemini_pro_response": "The correct answer is (D) **with one's head held high**.\n\nThe image presents a visual puzzle.  \"STAND\" is above a line, and below it are \"1111 HEAD\". The \"1111\" represents the four letters in the word \"HEAD\". Thus, it suggests \"STAND HEAD\" which is a figurative way of saying to stand with one's head held high.  This interpretation aligns directly with option (D).\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold one's head high (B) keep one's head (C) stand on one's head (D) with one's head held high",
+   "answer": {
+      "C": "stand on one's head"
+   },
+   "extracted_response": "D) with one's head held high"
 }

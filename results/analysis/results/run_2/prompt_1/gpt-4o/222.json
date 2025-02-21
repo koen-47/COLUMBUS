@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (A) hang up one's hat.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang up one's hat (B) hang over one's head (C) tip one's hat (D) hang one's hat",
-    "answer": {
-        "A": "hang up one's hat"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) hang up one's hat.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang up one's hat (B) hang over one's head (C) tip one's hat (D) hang one's hat",
+   "answer": {
+      "A": "hang up one's hat"
+   },
+   "extracted_response": "A) hang up one's hat"
 }

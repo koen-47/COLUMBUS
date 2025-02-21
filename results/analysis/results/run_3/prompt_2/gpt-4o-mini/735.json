@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows \"S\" at the bottom, \"KY\" at the top, and a pie in the middle. This suggests the phrase \"piece of the pie.\" \n\nSo the answer is (D) piece of the pie.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) finger in the pie (B) pie in the sky (C) humble pie (D) piece of the pie",
-    "answer": {
-        "B": "pie in the sky"
-    }
+   "gpt4v_response": "The rebus puzzle shows \"S\" at the bottom, \"KY\" at the top, and a pie in the middle. This suggests the phrase \"piece of the pie.\" \n\nSo the answer is (D) piece of the pie.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) finger in the pie (B) pie in the sky (C) humble pie (D) piece of the pie",
+   "answer": {
+      "B": "pie in the sky"
+   },
+   "extracted_response": "D) piece of the pie"
 }

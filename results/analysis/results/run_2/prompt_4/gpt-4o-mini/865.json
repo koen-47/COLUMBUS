@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle consists of a square (\u25a1) followed by the number 1. Based on the description and the visual elements, the phrase conveyed is \"square one.\" \n\nSo the correct answer is (D) square one.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \u25a1, repeat: 1, highlight: before, icon: (square: \u25a1))\nNode 2 attributes: (text: 1, repeat: 1, sound: (one: 1))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) back to square one (B) start at square one (C) on the square (D) square one",
-    "answer": {
-        "B": "start at square one"
-    }
+   "gpt4v_response": "The rebus puzzle consists of a square (\u25a1) followed by the number 1. Based on the description and the visual elements, the phrase conveyed is \"square one.\" \n\nSo the correct answer is (D) square one.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \u25a1, repeat: 1, highlight: before, icon: (square: \u25a1))\nNode 2 attributes: (text: 1, repeat: 1, sound: (one: 1))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) back to square one (B) start at square one (C) on the square (D) square one",
+   "answer": {
+      "B": "start at square one"
+   },
+   "extracted_response": "D) square one"
 }

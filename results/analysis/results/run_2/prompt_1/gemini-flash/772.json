@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The best answer is **(B) red light**.\n\nWhile the image is a *red* lightbulb, it's not directly related to traffic signals or the actions in options A or D.  Option C is incorrect because the lightbulb is red, not green.  Therefore, the simplest and most direct interpretation is that the image depicts a \"red light\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the red light (B) red light (C) green light (D) run a red light",
-    "answer": {
-        "B": "red light"
-    }
+   "gemini_pro_response": "The best answer is **(B) red light**.\n\nWhile the image is a *red* lightbulb, it's not directly related to traffic signals or the actions in options A or D.  Option C is incorrect because the lightbulb is red, not green.  Therefore, the simplest and most direct interpretation is that the image depicts a \"red light\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the red light (B) red light (C) green light (D) run a red light",
+   "answer": {
+      "B": "red light"
+   },
+   "extracted_response": "B) red light"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (B) come down to earth.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to earth (B) come down to earth (C) run into the ground (D) run to",
-    "answer": {
-        "A": "run to earth"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) come down to earth.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to earth (B) come down to earth (C) run into the ground (D) run to",
+   "answer": {
+      "A": "run to earth"
+   },
+   "extracted_response": "B"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (D) microscopes.\n\nThe word \"SCOPE\" is repeated twice in the image.  \"Scope\" is a synonym for microscope. Therefore, the image represents microscopes.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) under the microscope (B) eyepiece (C) eyepieces (D) microscopes",
-    "answer": {
-        "D": "microscopes"
-    }
+   "gemini_pro_response": "The answer is (D) microscopes.\n\nThe word \"SCOPE\" is repeated twice in the image.  \"Scope\" is a synonym for microscope. Therefore, the image represents microscopes.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) under the microscope (B) eyepiece (C) eyepieces (D) microscopes",
+   "answer": {
+      "D": "microscopes"
+   },
+   "extracted_response": "D) microscopes"
 }

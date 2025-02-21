@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word \"BEARING\" is crossed out. This represents **(C) off one's cross**.  A \"cross to bear\" would be represented differently, likely with an image of a cross.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross to bear (C) off one's cross (D) bearing the cross",
-    "answer": {
-        "D": "bearing the cross"
-    }
+   "gemini_pro_response": "The word \"BEARING\" is crossed out. This represents **(C) off one's cross**.  A \"cross to bear\" would be represented differently, likely with an image of a cross.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross to bear (C) off one's cross (D) bearing the cross",
+   "answer": {
+      "D": "bearing the cross"
+   },
+   "extracted_response": "C) off one's cross"
 }

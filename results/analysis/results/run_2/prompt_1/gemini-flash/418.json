@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (D) dead in the water.\n\nThe image shows the word \"WADEADTER\".  By removing the extra letters, it spells out \"DEAD IN THE WATER\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead and buried (B) dead inside (C) dead fish (D) dead in the water",
-    "answer": {
-        "D": "dead in the water"
-    }
+   "gemini_pro_response": "The answer is (D) dead in the water.\n\nThe image shows the word \"WADEADTER\".  By removing the extra letters, it spells out \"DEAD IN THE WATER\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead and buried (B) dead inside (C) dead fish (D) dead in the water",
+   "answer": {
+      "D": "dead in the water"
+   },
+   "extracted_response": "D) dead in the water"
 }

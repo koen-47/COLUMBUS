@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image contains the word \"BEER\". \n\nHere's how the JSON maps to the answer choices:\n\n* **(A) beer muscles:**  The image has \"BEER\", which matches part of this phrase.\n* **(B) beer goggles:** The image has \"BEER\", which matches part of this phrase.\n* **(C) beer and skittles:** The image has \"BEER\", which matches part of this phrase.\n* **(D) small beer:** The image has \"BEER\", which matches part of this phrase.\n\nSince all options are consistent with just the word beer, and the image only contains beer, a more precise solution is required since we cannot resolve between the various options with the given information. Based on the context of a rebus puzzle with a single image, it is most likely the plain word \"BEER\" is the solution given lack of other visual hints. But since we must pick one of the given options, the answer is just plain beer.\n\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'BEER' written in uppercase letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) beer muscles (B) beer goggles (C) beer and skittles (D) small beer\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "small beer"
+    }
+}

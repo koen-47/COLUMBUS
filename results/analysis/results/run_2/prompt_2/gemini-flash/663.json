@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) long in the tooth.\n\nThe image shows two teeth with the word \"LONG\" in between.  This is a visual representation of the idiom \"long in the tooth,\" which means old or aging.\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spicy tooth (B) long in the tooth (C) long finger (D) hen's tooth",
-    "answer": {
-        "B": "long in the tooth"
-    }
+   "gemini_pro_response": "The correct answer is (B) long in the tooth.\n\nThe image shows two teeth with the word \"LONG\" in between.  This is a visual representation of the idiom \"long in the tooth,\" which means old or aging.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spicy tooth (B) long in the tooth (C) long finger (D) hen's tooth",
+   "answer": {
+      "B": "long in the tooth"
+   },
+   "extracted_response": "B) long in the tooth"
 }

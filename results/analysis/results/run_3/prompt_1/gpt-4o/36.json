@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(C) cogwheel",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big wheel (B) cogwheels (C) cogwheel (D) a small cog in a big wheel",
-    "answer": {
-        "D": "a small cog in a big wheel"
-    }
+   "gpt4v_response": "(C) cogwheel",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big wheel (B) cogwheels (C) cogwheel (D) a small cog in a big wheel",
+   "answer": {
+      "D": "a small cog in a big wheel"
+   },
+   "extracted_response": "C) cogwheel"
 }

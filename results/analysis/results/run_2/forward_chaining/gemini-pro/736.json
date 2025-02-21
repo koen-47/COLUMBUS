@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"SPIEKY\" sounds like \"spikey\".  Spikey things have spikes, like a fork. So if you have a \"spikey\" in your pie, it sounds like you have a \"fork in the pie\". Therefore, the answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'SPIEKY' in bold, uppercase letters.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) pie in the sky (B) finger in the pie (C) piece of the pie (D) humble pie\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "pie in the sky"
+    }
+}

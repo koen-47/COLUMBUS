@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (A) what in time.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what in time (B) why in time (C) time after time (D) matter of time",
-    "answer": {
-        "A": "what in time"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) what in time.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what in time (B) why in time (C) time after time (D) matter of time",
+   "answer": {
+      "A": "what in time"
+   },
+   "extracted_response": "A"
 }

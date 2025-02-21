@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) not the end of the world**.\n\nThe image shows the word \"WORLD\" with an upward and downward arrow. The arrows suggest that the world is both going up and down, implying that despite challenges, it continues to exist; it's not the end.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) end of the world (B) not the end of the world (C) end of (D) the world over",
-    "answer": {
-        "A": "end of the world"
-    }
+   "gemini_pro_response": "The correct answer is **(B) not the end of the world**.\n\nThe image shows the word \"WORLD\" with an upward and downward arrow. The arrows suggest that the world is both going up and down, implying that despite challenges, it continues to exist; it's not the end.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) end of the world (B) not the end of the world (C) end of (D) the world over",
+   "answer": {
+      "A": "end of the world"
+   },
+   "extracted_response": "B) not the end of the world"
 }

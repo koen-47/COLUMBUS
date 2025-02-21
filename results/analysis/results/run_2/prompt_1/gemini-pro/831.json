@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (D) set the world on fire.  It shows the word \"SET,\" a globe, and a flame icon.  This visually represents the idiom.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put out a fire (B) on fire (C) play with fire (D) set the world on fire",
-    "answer": {
-        "D": "set the world on fire"
-    }
+   "gemini_pro_response": "The image conveys (D) set the world on fire.  It shows the word \"SET,\" a globe, and a flame icon.  This visually represents the idiom.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put out a fire (B) on fire (C) play with fire (D) set the world on fire",
+   "answer": {
+      "D": "set the world on fire"
+   },
+   "extracted_response": "D) set the world on fire"
 }

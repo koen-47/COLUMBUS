@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle consists of the word \"STAND\" repeated four times. Based on the description provided, the correct interpretation of this puzzle is:\n\n(D) stand for\n\nThis is because \"STAND\" repeated can be interpreted as \"for\" (as in \"for\" something), leading to the phrase \"stand for.\"",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: STAND, repeat: 4, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) stand with (B) stand up (C) stand in for (D) stand for",
-    "answer": {
-        "D": "stand for"
-    }
+   "gpt4v_response": "The rebus puzzle consists of the word \"STAND\" repeated four times. Based on the description provided, the correct interpretation of this puzzle is:\n\n(D) stand for\n\nThis is because \"STAND\" repeated can be interpreted as \"for\" (as in \"for\" something), leading to the phrase \"stand for.\"",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: STAND, repeat: 4, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) stand with (B) stand up (C) stand in for (D) stand for",
+   "answer": {
+      "D": "stand for"
+   },
+   "extracted_response": "D) stand for"
 }

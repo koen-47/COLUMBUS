@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows a downward arrow pointing to the word \"LIFE,\" followed by the word \"CRISIS.\" This setup suggests the phrase \"down life crisis,\" which aligns with the concept of a \"mid life crisis.\"\n\nTherefore, the correct answer is:\n\n(A) mid life crisis",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"downward_arrow\",\n    \"description\": \"A black downward arrow pointing towards the text 'LIFE'.\",\n    \"relation\": \"points to the word 'LIFE'\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"text_life\",\n    \"description\": \"The word 'LIFE' written in uppercase letters.\",\n    \"relation\": \"below the downward arrow and before the word 'CRISIS'\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"text_crisis\",\n    \"description\": \"The word 'CRISIS' written in uppercase letters.\",\n    \"relation\": \"after the word 'LIFE'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) mid life crisis (B) prime of life (C) fail at life (D) get a life\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "mid life crisis"
+    }
+}

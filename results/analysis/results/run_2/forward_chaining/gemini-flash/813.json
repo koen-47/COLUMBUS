@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe JSON data describes two instances of the word \"RUN\", one above the other.  This visually represents the preposition \"over\" or \"above\".\n\nTherefore, the answer is **(A) run over** (or run above, which wasn't an option.)  While none of the choices are exactly \"run over,\"  \"run above\" is the closest meaning to what is depicted.\n\nThe other options don't fit the visual representation of the two stacked words \"RUN\".\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"first_RUN\",\n        \"description\": \"The word 'RUN' in uppercase letters.\",\n        \"relation\": \"above the second 'RUN'\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"second_RUN\",\n        \"description\": \"The word 'RUN' in uppercase letters.\",\n        \"relation\": \"below the first 'RUN'\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) run to (B) run with (C) run about (D) run past\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "run to"
+    }
+}

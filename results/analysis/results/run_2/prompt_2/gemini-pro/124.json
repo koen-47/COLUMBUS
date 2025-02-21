@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B) come down in stair rods.\n\nThe word \"COME\" is positioned vertically and intersects with \"STAIR RODS\" such that the letter \"O\" is common to both words. This implies the phrase \"COME down in STAIR RODS.\"",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) staircase (B) come down in stair rods (C) stairwells (D) come down",
-    "answer": {
-        "B": "come down in stair rods"
-    }
+   "gemini_pro_response": "The answer is (B) come down in stair rods.\n\nThe word \"COME\" is positioned vertically and intersects with \"STAIR RODS\" such that the letter \"O\" is common to both words. This implies the phrase \"COME down in STAIR RODS.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) staircase (B) come down in stair rods (C) stairwells (D) come down",
+   "answer": {
+      "B": "come down in stair rods"
+   },
+   "extracted_response": "B"
 }

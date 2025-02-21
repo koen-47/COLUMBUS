@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"pressed for time.\" The repeated word \"PRESSED\" along with the clock icon suggests urgency or being short on time. Therefore, the answer is (D) pressed for time.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) buy time (B) waiting time (C) time after time (D) pressed for time",
-    "answer": {
-        "D": "pressed for time"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"pressed for time.\" The repeated word \"PRESSED\" along with the clock icon suggests urgency or being short on time. Therefore, the answer is (D) pressed for time.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) buy time (B) waiting time (C) time after time (D) pressed for time",
+   "answer": {
+      "D": "pressed for time"
+   },
+   "extracted_response": "D) pressed for time"
 }

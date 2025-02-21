@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows stacks of money next to the word \"JAM\". This represents the phrase \"money for jam\", which means something is easily earned. So, the answer is (B).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) jam today (B) money for jam (C) jampot (D) jam tomorrow",
-    "answer": {
-        "B": "money for jam"
-    }
+   "gemini_pro_response": "The image shows stacks of money next to the word \"JAM\". This represents the phrase \"money for jam\", which means something is easily earned. So, the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) jam today (B) money for jam (C) jampot (D) jam tomorrow",
+   "answer": {
+      "B": "money for jam"
+   },
+   "extracted_response": "B) money for jam"
 }

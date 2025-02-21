@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase \"Down to Earth\" (A).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down to earth (B) down the road (C) come down to earth (D) down under",
-    "answer": {
-        "A": "down to earth"
-    }
+   "gemini_pro_response": "The image conveys the phrase \"Down to Earth\" (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down to earth (B) down the road (C) come down to earth (D) down under",
+   "answer": {
+      "A": "down to earth"
+   },
+   "extracted_response": "A"
 }

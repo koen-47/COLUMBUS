@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) pull out of the hat.\n\nThe rebus shows the word \"PULL\" next to the word \"HAT\" inside a box.  This visually represents the phrase \"pull out of the hat\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take one's hat off to (B) pick out of a hat (C) put a hat on a hat (D) pull out of the hat",
-    "answer": {
-        "D": "pull out of the hat"
-    }
+   "gemini_pro_response": "The correct answer is (D) pull out of the hat.\n\nThe rebus shows the word \"PULL\" next to the word \"HAT\" inside a box.  This visually represents the phrase \"pull out of the hat\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take one's hat off to (B) pick out of a hat (C) put a hat on a hat (D) pull out of the hat",
+   "answer": {
+      "D": "pull out of the hat"
+   },
+   "extracted_response": "D) pull out of the hat"
 }

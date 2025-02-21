@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"handwriting on the wall.\" The word \"handwriting\" is above the word \"wall,\" which fits the phrase. Therefore, the correct answer is (B) handwriting on the wall.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pen picture (B) handwriting on the wall (C) handwriting (D) writing on the wall",
-    "answer": {
-        "B": "handwriting on the wall"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"handwriting on the wall.\" The word \"handwriting\" is above the word \"wall,\" which fits the phrase. Therefore, the correct answer is (B) handwriting on the wall.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pen picture (B) handwriting on the wall (C) handwriting (D) writing on the wall",
+   "answer": {
+      "B": "handwriting on the wall"
+   },
+   "extracted_response": "B) handwriting on the wall"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (D) speak soon.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak to (C) speak too soon (D) speak soon",
-    "answer": {
-        "C": "speak too soon"
-    }
+   "gemini_pro_response": "The image conveys (D) speak soon.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak to (C) speak too soon (D) speak soon",
+   "answer": {
+      "C": "speak too soon"
+   },
+   "extracted_response": "D) speak soon"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows two tickets and the word \"RIDE\". This conveys the idea of a \"ticket to ride\" (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take for a ride (B) free ride (C) take the ride (D) ticket to ride",
-    "answer": {
-        "D": "ticket to ride"
-    }
+   "gemini_pro_response": "The image shows two tickets and the word \"RIDE\". This conveys the idea of a \"ticket to ride\" (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take for a ride (B) free ride (C) take the ride (D) ticket to ride",
+   "answer": {
+      "D": "ticket to ride"
+   },
+   "extracted_response": "D) ticket to ride"
 }

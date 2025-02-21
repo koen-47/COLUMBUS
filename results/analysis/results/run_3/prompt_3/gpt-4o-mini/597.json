@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle consists of the text \"1111\" and the icon of a rope (\ud83e\udea2). The attributes suggest that \"1111\" is pronounced as \"one's\" and the rope icon represents \"rope.\" \n\nPutting these together, \"one's rope\" can lead to the phrase \"end of one's rope,\" which fits the context of the elements provided.\n\nTherefore, the correct answer is (D) end of one's rope.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: 1111, repeat: 1, highlight: after, sound: (one's: 1111))\nNode 2 attributes: (text: \ud83e\udea2, repeat: 1, icon: (rope: \ud83e\udea2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) skip rope (B) give someone enough rope (C) jump rope (D) end of one's rope",
-    "answer": {
-        "D": "end of one's rope"
-    }
+   "gpt4v_response": "The rebus puzzle consists of the text \"1111\" and the icon of a rope (\ud83e\udea2). The attributes suggest that \"1111\" is pronounced as \"one's\" and the rope icon represents \"rope.\" \n\nPutting these together, \"one's rope\" can lead to the phrase \"end of one's rope,\" which fits the context of the elements provided.\n\nTherefore, the correct answer is (D) end of one's rope.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: 1111, repeat: 1, highlight: after, sound: (one's: 1111))\nNode 2 attributes: (text: \ud83e\udea2, repeat: 1, icon: (rope: \ud83e\udea2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) skip rope (B) give someone enough rope (C) jump rope (D) end of one's rope",
+   "answer": {
+      "D": "end of one's rope"
+   },
+   "extracted_response": "D) end of one's rope"
 }

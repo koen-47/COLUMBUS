@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows a head followed by the word \"START\". This represents the phrase \"head start\".\n\nTherefore, the answer is (C).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head to toe (B) come to a head (C) head start (D) head-on",
-    "answer": {
-        "C": "head start"
-    }
+   "gemini_pro_response": "The rebus puzzle shows a head followed by the word \"START\". This represents the phrase \"head start\".\n\nTherefore, the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head to toe (B) come to a head (C) head start (D) head-on",
+   "answer": {
+      "C": "head start"
+   },
+   "extracted_response": "C"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word \"COURT\" is inside a box, and the word \"LAUGH\" is outside the box. The edge rule is \"OUTSIDE\", and the node \"LAUGH\" is outside of the node \"COURT\". Thus, the rebus represents \"Laugh out of court\".\n\nFinal Answer: The final answer is $\\boxed{A}$",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: LAUGH, repeat: 1)\nNode 2 attributes: (text: COURT, repeat: 1)\nEdge 1: node 1 to node 2 (rule: OUTSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) laugh out of court (B) laugh all the way to the bank (C) laugh one's head off (D) hold court",
-    "answer": {
-        "A": "laugh out of court"
-    }
+   "gemini_pro_response": "The word \"COURT\" is inside a box, and the word \"LAUGH\" is outside the box. The edge rule is \"OUTSIDE\", and the node \"LAUGH\" is outside of the node \"COURT\". Thus, the rebus represents \"Laugh out of court\".\n\nFinal Answer: The final answer is $\\boxed{A}$",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: LAUGH, repeat: 1)\nNode 2 attributes: (text: COURT, repeat: 1)\nEdge 1: node 1 to node 2 (rule: OUTSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) laugh out of court (B) laugh all the way to the bank (C) laugh one's head off (D) hold court",
+   "answer": {
+      "A": "laugh out of court"
+   },
+   "extracted_response": "A"
 }

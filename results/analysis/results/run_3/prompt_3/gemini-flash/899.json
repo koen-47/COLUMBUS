@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) ten to one.\n\nThe image shows the number 10 appearing twice, and the number 1 appearing once.  The graph description reinforces this: Node 1 (10) is repeated twice, and Node 2 (1) appears once. The \"sound\" attribute in the graph description suggests that the numbers should be interpreted as words (\"ten\" and \"one\").\n\nThe phrase \"ten to one\" accurately reflects the visual and textual representation of the rebus.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: 10, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: 1, repeat: 1, sound: (one: 1))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) one at a time (B) nine times out of ten (C) ten to one (D) five will get you ten",
-    "answer": {
-        "C": "ten to one"
-    }
+   "gemini_pro_response": "The correct answer is (C) ten to one.\n\nThe image shows the number 10 appearing twice, and the number 1 appearing once.  The graph description reinforces this: Node 1 (10) is repeated twice, and Node 2 (1) appears once. The \"sound\" attribute in the graph description suggests that the numbers should be interpreted as words (\"ten\" and \"one\").\n\nThe phrase \"ten to one\" accurately reflects the visual and textual representation of the rebus.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: 10, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: 1, repeat: 1, sound: (one: 1))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) one at a time (B) nine times out of ten (C) ten to one (D) five will get you ten",
+   "answer": {
+      "C": "ten to one"
+   },
+   "extracted_response": "C) ten to one"
 }

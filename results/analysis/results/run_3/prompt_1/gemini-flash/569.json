@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) down in the dumps.\n\nThe image shows \"DU\u2193MPS,\" where the downward arrow visually represents the \"down\" part of the phrase.  Combining this with \"dumps\" gives \"down in the dumps,\" which is an idiom meaning feeling unhappy or depressed.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down the drain (B) down in the mouth (C) down the toilet (D) down in the dumps",
-    "answer": {
-        "D": "down in the dumps"
-    }
+   "gemini_pro_response": "The correct answer is (D) down in the dumps.\n\nThe image shows \"DU\u2193MPS,\" where the downward arrow visually represents the \"down\" part of the phrase.  Combining this with \"dumps\" gives \"down in the dumps,\" which is an idiom meaning feeling unhappy or depressed.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down the drain (B) down in the mouth (C) down the toilet (D) down in the dumps",
+   "answer": {
+      "D": "down in the dumps"
+   },
+   "extracted_response": "D) down in the dumps"
 }

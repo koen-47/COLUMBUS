@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"DUDOWNMPS\".  This is a rebus puzzle, and it represents the phrase \"Down in the dumps\" (B).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down the drain (B) down in the dumps (C) down the toilet (D) down in the mouth",
-    "answer": {
-        "B": "down in the dumps"
-    }
+   "gemini_pro_response": "The image says \"DUDOWNMPS\".  This is a rebus puzzle, and it represents the phrase \"Down in the dumps\" (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down the drain (B) down in the dumps (C) down the toilet (D) down in the mouth",
+   "answer": {
+      "B": "down in the dumps"
+   },
+   "extracted_response": "B"
 }

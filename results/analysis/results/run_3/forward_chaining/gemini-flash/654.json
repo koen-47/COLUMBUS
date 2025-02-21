@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The text \"GNIDLOH BAG\" is a rebus.  If you read it backwards, it says \"HOLDING BAG\".  Therefore, the answer is (D) left holding the bag.\n\nThe JSON data simply confirms the text present in the image.  None of the other options are supported by the image.\n\nFinal Answer: The final answer is $\\boxed{D}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text reads 'GNIDLOH BAG'.\",\n  \"relation\": \"centered in the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) bag and baggage (B) in the bag (C) give someone the bag (D) left holding the bag\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "left holding the bag"
+    }
+}

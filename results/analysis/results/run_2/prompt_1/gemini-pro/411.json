@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys **(D) cross the t's and dot the i's**.  It visually represents the act of crossing a \"t\" and dotting an \"i\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's dot (B) dot the i's and cross the t's (C) on the dot (D) cross the t's and dot the i's",
-    "answer": {
-        "D": "cross the t's and dot the i's"
-    }
+   "gemini_pro_response": "The image conveys **(D) cross the t's and dot the i's**.  It visually represents the act of crossing a \"t\" and dotting an \"i\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's dot (B) dot the i's and cross the t's (C) on the dot (D) cross the t's and dot the i's",
+   "answer": {
+      "D": "cross the t's and dot the i's"
+   },
+   "extracted_response": "D"
 }

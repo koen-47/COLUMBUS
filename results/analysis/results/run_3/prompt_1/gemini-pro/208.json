@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase **(A) chum in the water**.  The image depicts waves and what appears to be bloody chum being dispersed.  \"Chum\" is commonly used in fishing to attract fish.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chum in the water (B) straight out of the chute (C) out of the chute (D) chum up",
-    "answer": {
-        "A": "chum in the water"
-    }
+   "gemini_pro_response": "The image conveys the phrase **(A) chum in the water**.  The image depicts waves and what appears to be bloody chum being dispersed.  \"Chum\" is commonly used in fishing to attract fish.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chum in the water (B) straight out of the chute (C) out of the chute (D) chum up",
+   "answer": {
+      "A": "chum in the water"
+   },
+   "extracted_response": "A"
 }

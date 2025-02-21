@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(A) before one's eyes**.\n\nHere's why:\n\n* **Node 1:** \"1111\" represents the number one repeated four times. The \"highlight: before\" attribute indicates that this should be interpreted as \"before.\"  The \"sound: (one's: 1111)\" reinforces the idea that it relates to the possessive \"one's\".\n\n* **Node 2:** \"\ud83d\udc40\" represents eyes.\n\nCombining these, the rebus presents \"before\" positioned above \"one's eyes\", leading to the phrase \"before one's eyes\".",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: 1111, repeat: 1, highlight: before, sound: (one's: 1111))\nNode 2 attributes: (text: \ud83d\udc40, repeat: 1, icon: (eyes: \ud83d\udc40))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) before one's eyes (B) before someone's time (C) before one's time (D) set eyes on",
-    "answer": {
-        "A": "before one's eyes"
-    }
+   "gemini_pro_response": "The correct answer is **(A) before one's eyes**.\n\nHere's why:\n\n* **Node 1:** \"1111\" represents the number one repeated four times. The \"highlight: before\" attribute indicates that this should be interpreted as \"before.\"  The \"sound: (one's: 1111)\" reinforces the idea that it relates to the possessive \"one's\".\n\n* **Node 2:** \"\ud83d\udc40\" represents eyes.\n\nCombining these, the rebus presents \"before\" positioned above \"one's eyes\", leading to the phrase \"before one's eyes\".",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: 1111, repeat: 1, highlight: before, sound: (one's: 1111))\nNode 2 attributes: (text: \ud83d\udc40, repeat: 1, icon: (eyes: \ud83d\udc40))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) before one's eyes (B) before someone's time (C) before one's time (D) set eyes on",
+   "answer": {
+      "A": "before one's eyes"
+   },
+   "extracted_response": "A) before one's eyes"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"PRICE\" with the word \"PAY\" written twice below it. This represents \"pay\" being \"under\" the \"price,\" implying a small price.\n\nThe answer is (D) small price to pay.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) price is right (B) small fortune (C) smallholders (D) small price to pay",
-    "answer": {
-        "D": "small price to pay"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"PRICE\" with the word \"PAY\" written twice below it. This represents \"pay\" being \"under\" the \"price,\" implying a small price.\n\nThe answer is (D) small price to pay.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) price is right (B) small fortune (C) smallholders (D) small price to pay",
+   "answer": {
+      "D": "small price to pay"
+   },
+   "extracted_response": "D) small price to pay"
 }

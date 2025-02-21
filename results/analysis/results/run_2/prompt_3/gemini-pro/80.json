@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows \"BELLY\" written vertically upwards.  Next to it is the word \"BAR\" written twice.  The description clarifies that BELLY is read upwards and BAR is repeated twice. The phrase \"sound: (to: 2)\" likely indicates \"up to.\"\n\nPutting it all together, the rebus represents \"belly up to the bar.\"\n\nFinal Answer: The final answer is $\\boxed{C}$",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BELLY, repeat: 1, direction: up)\nNode 2 attributes: (text: BAR, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) raise the bar (B) prop up the bar (C) belly up to the bar (D) belly up",
-    "answer": {
-        "C": "belly up to the bar"
-    }
+   "gemini_pro_response": "The image shows \"BELLY\" written vertically upwards.  Next to it is the word \"BAR\" written twice.  The description clarifies that BELLY is read upwards and BAR is repeated twice. The phrase \"sound: (to: 2)\" likely indicates \"up to.\"\n\nPutting it all together, the rebus represents \"belly up to the bar.\"\n\nFinal Answer: The final answer is $\\boxed{C}$",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BELLY, repeat: 1, direction: up)\nNode 2 attributes: (text: BAR, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) raise the bar (B) prop up the bar (C) belly up to the bar (D) belly up",
+   "answer": {
+      "C": "belly up to the bar"
+   },
+   "extracted_response": "C) belly up to the bar"
 }

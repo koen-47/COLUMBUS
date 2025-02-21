@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows a fist (punch) above the words \"1111 WEIGHT.\"  \"1111\" can be interpreted as \"one one one one\", which sounds like \"won.\"  So, the image conveys \"punch above won weight\", or **(D) punch above one's weight**.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) punch below one's weight (B) hit below one's weight (C) throw one's weight behind (D) punch above one's weight",
-    "answer": {
-        "D": "punch above one's weight"
-    }
+   "gemini_pro_response": "The rebus shows a fist (punch) above the words \"1111 WEIGHT.\"  \"1111\" can be interpreted as \"one one one one\", which sounds like \"won.\"  So, the image conveys \"punch above won weight\", or **(D) punch above one's weight**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) punch below one's weight (B) hit below one's weight (C) throw one's weight behind (D) punch above one's weight",
+   "answer": {
+      "D": "punch above one's weight"
+   },
+   "extracted_response": "D) punch above one's weight"
 }

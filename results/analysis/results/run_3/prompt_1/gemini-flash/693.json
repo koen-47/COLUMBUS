@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **midsection**.\n\nThe image shows the word \"SECTION\" with arrows pointing up and down, indicating a middle or central part.  \"Midsection\" accurately reflects this visual representation.  The other options are not appropriate in this context.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midsections (B) midbrain (C) midsection (D) midribs",
-    "answer": {
-        "A": "midsections"
-    }
+   "gemini_pro_response": "The correct answer is (C) **midsection**.\n\nThe image shows the word \"SECTION\" with arrows pointing up and down, indicating a middle or central part.  \"Midsection\" accurately reflects this visual representation.  The other options are not appropriate in this context.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midsections (B) midbrain (C) midsection (D) midribs",
+   "answer": {
+      "A": "midsections"
+   },
+   "extracted_response": "C"
 }

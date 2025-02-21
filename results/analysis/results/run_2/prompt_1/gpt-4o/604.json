@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(C) err on the side of caution",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) throw caution to the winds (B) throw caution to the wind (C) err on the side of caution (D) err on the side of",
-    "answer": {
-        "C": "err on the side of caution"
-    }
+   "gpt4v_response": "(C) err on the side of caution",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) throw caution to the winds (B) throw caution to the wind (C) err on the side of caution (D) err on the side of",
+   "answer": {
+      "C": "err on the side of caution"
+   },
+   "extracted_response": "C"
 }

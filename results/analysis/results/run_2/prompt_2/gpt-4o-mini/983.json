@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the number \"1111\" followed by the word \"MILL.\" This suggests the phrase \"go through the mill,\" as \"1111\" can be interpreted as \"one\" repeated four times, which can imply a process or going through something multiple times.\n\nSo, the answer is (B) go through the mill.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) water to one's mill (B) go through the mill (C) millwork (D) trouble at mill",
-    "answer": {
-        "A": "water to one's mill"
-    }
+   "gpt4v_response": "The rebus puzzle shows the number \"1111\" followed by the word \"MILL.\" This suggests the phrase \"go through the mill,\" as \"1111\" can be interpreted as \"one\" repeated four times, which can imply a process or going through something multiple times.\n\nSo, the answer is (B) go through the mill.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) water to one's mill (B) go through the mill (C) millwork (D) trouble at mill",
+   "answer": {
+      "A": "water to one's mill"
+   },
+   "extracted_response": "B) go through the mill"
 }

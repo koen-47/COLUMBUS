@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) midpoint.\n\nHere's why:\n\nThe image shows a point (\u25cf) with arrows pointing up and down, indicating a middle position.  The description reinforces this:  \"repeat: 2\" suggests the arrows above and below; \"highlight: middle\" focuses on the central point; and the icon is a point.  All these elements combine to represent a \"midpoint\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \u25cf, repeat: 2, highlight: middle, icon: (point: \u25cf))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) midgame (B) midline (C) midpoints (D) midpoint",
-    "answer": {
-        "D": "midpoint"
-    }
+   "gemini_pro_response": "The correct answer is (D) midpoint.\n\nHere's why:\n\nThe image shows a point (\u25cf) with arrows pointing up and down, indicating a middle position.  The description reinforces this:  \"repeat: 2\" suggests the arrows above and below; \"highlight: middle\" focuses on the central point; and the icon is a point.  All these elements combine to represent a \"midpoint\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \u25cf, repeat: 2, highlight: middle, icon: (point: \u25cf))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) midgame (B) midline (C) midpoints (D) midpoint",
+   "answer": {
+      "D": "midpoint"
+   },
+   "extracted_response": "D) midpoint"
 }

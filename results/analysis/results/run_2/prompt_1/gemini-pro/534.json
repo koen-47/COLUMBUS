@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the letters \"TSNIAGA\" arranged vertically. This is \"AGAINST\" spelled backwards. The phrase that relates to this visual representation is **(D) up against**. \n\nWhile the other options use \"against,\" they imply setting one thing in opposition to another. \"Up against\" suggests a direct confrontation or challenge, which better fits the idea of something being presented backward or reversed as a puzzle.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tell against (B) turn against (C) pit against (D) up against",
-    "answer": {
-        "D": "up against"
-    }
+   "gemini_pro_response": "The image shows the letters \"TSNIAGA\" arranged vertically. This is \"AGAINST\" spelled backwards. The phrase that relates to this visual representation is **(D) up against**. \n\nWhile the other options use \"against,\" they imply setting one thing in opposition to another. \"Up against\" suggests a direct confrontation or challenge, which better fits the idea of something being presented backward or reversed as a puzzle.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tell against (B) turn against (C) pit against (D) up against",
+   "answer": {
+      "D": "up against"
+   },
+   "extracted_response": "D) up against"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows four running men, the number 1111, and a wallet.\n\n* Four running men represent \"run for\"\n* 1111 can be read as \"one one one one\", which sounds like \"won\".\n* The wallet represents money.\n\nPutting it together gives us **(D) run for one's money.**",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a run for it (B) run with (C) run for one's life (D) run for one's money",
-    "answer": {
-        "D": "run for one's money"
-    }
+   "gemini_pro_response": "The rebus puzzle shows four running men, the number 1111, and a wallet.\n\n* Four running men represent \"run for\"\n* 1111 can be read as \"one one one one\", which sounds like \"won\".\n* The wallet represents money.\n\nPutting it together gives us **(D) run for one's money.**",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a run for it (B) run with (C) run for one's life (D) run for one's money",
+   "answer": {
+      "D": "run for one's money"
+   },
+   "extracted_response": "D) run for one's money"
 }

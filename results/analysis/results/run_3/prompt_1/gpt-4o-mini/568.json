@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The phrase conveyed in the image is (C) down for the count.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put down for (B) down but not out (C) down for the count (D) take the count",
-    "answer": {
-        "C": "down for the count"
-    }
+   "gpt4v_response": "The phrase conveyed in the image is (C) down for the count.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put down for (B) down but not out (C) down for the count (D) take the count",
+   "answer": {
+      "C": "down for the count"
+   },
+   "extracted_response": "C) down for the count"
 }

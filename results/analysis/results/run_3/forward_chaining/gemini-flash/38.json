@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe text \"SAMEBE\" is next to a picture of a boat.  Combining them, we get \"in the same boat\".\n\nTherefore, the correct answer is (D).\n\nLet's look at why the other options don't fit:\n\n* **(A) rock the boat:** This phrase doesn't directly relate to the image.\n* **(B) be in the same boat:** While this is similar to the correct answer, the word \"be\" is missing from the image.\n* **(C) row in the same boat:** The image doesn't show anyone rowing.\n\nOnly (D) \"in the same boat\" aligns perfectly with the visual components.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text_samebe\",\n    \"description\": \"The text 'SAMEBE' written in uppercase letters.\",\n    \"relation\": \"next to the boat icon\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"icon_boat\",\n    \"description\": \"An icon of a boat on water.\",\n    \"relation\": \"next to the text 'SAMEBE'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) rock the boat (B) be in the same boat (C) row in the same boat (D) in the same boat\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "be in the same boat"
+    }
+}

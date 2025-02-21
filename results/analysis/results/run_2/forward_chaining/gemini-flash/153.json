@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe image shows the word \"BOW\" with a line through it, twice.  The line through \"BOW\" represents \"cross\". Since there are two \"BOW\"s,  it signifies \"cross bows\".\n\nTherefore, the answer is **(A) crossbows**.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"word_bow_top\",\n    \"description\": \"The word 'BOW' with a horizontal line through the middle, located at the top of the image.\",\n    \"relation\": \"none\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"word_bow_bottom\",\n    \"description\": \"The word 'BOW' with a horizontal line through the middle, located at the bottom of the image.\",\n    \"relation\": \"none\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) crossbows (B) crossbow (C) bowstrings (D) shot across the bow\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "crossbows"
+    }
+}

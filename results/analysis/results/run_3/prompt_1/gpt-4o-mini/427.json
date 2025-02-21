@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word conveyed in the image is (B) serve time.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) serve someone right (B) serve time (C) serve up (D) serve the turn",
-    "answer": {
-        "C": "serve up"
-    }
+   "gpt4v_response": "The word conveyed in the image is (B) serve time.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) serve someone right (B) serve time (C) serve up (D) serve the turn",
+   "answer": {
+      "C": "serve up"
+   },
+   "extracted_response": "B"
 }

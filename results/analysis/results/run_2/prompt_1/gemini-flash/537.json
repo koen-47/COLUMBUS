@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **get down to business**.\n\nThe image uses the letters G, E, and T vertically, alongside the word \"BUSINESS\" to create the phrase \"GET DOWN TO BUSINESS\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sell down (B) get down to business (C) take care of business (D) out of business",
-    "answer": {
-        "B": "get down to business"
-    }
+   "gemini_pro_response": "The correct answer is (B) **get down to business**.\n\nThe image uses the letters G, E, and T vertically, alongside the word \"BUSINESS\" to create the phrase \"GET DOWN TO BUSINESS\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sell down (B) get down to business (C) take care of business (D) out of business",
+   "answer": {
+      "B": "get down to business"
+   },
+   "extracted_response": "B"
 }

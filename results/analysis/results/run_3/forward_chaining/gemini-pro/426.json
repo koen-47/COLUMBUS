@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The text \"CLOSKELETONSET\" can be broken down into \"CLOSET\" and \"SKELETON\". This visually represents a \"SKELETON\" inside a \"CLOSET.\"\n\nTherefore, the answer is (A) skeleton in the closet. \n\n(B) skeleton crew, (C) skeleton in the cupboard, and (D) out of the closet are not consistent with the image \"CLOSKELETONSET.\"",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'CLOSKELETONSET' written in uppercase letters.\",\n  \"relation\": \"This is the only item in the image and forms the entire content of the rebus puzzle.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) skeleton in the closet (B) skeleton crew (C) skeleton in the cupboard (D) out of the closet\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "skeleton in the closet"
+    }
+}

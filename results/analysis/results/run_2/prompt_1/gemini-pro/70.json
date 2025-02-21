@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows \"OL'\".  This corresponds to options A and C.  Since \"ol'\" is a contraction of \"old\", the more common spelling is \"ole\" as seen in option C. Therefore, the answer is (C).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big ol' (B) big name (C) big ole (D) big shot",
-    "answer": {
-        "A": "big ol'"
-    }
+   "gemini_pro_response": "The image shows \"OL'\".  This corresponds to options A and C.  Since \"ol'\" is a contraction of \"old\", the more common spelling is \"ole\" as seen in option C. Therefore, the answer is (C).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big ol' (B) big name (C) big ole (D) big shot",
+   "answer": {
+      "A": "big ol'"
+   },
+   "extracted_response": "C"
 }

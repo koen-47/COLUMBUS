@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"nose out of joint\".\n\n* **Item 1 (nose_icon):** Maps to the \"nose\" part of the phrases in options (A), (B), (C), and (D).\n* **Item 2 (text_joint):** Maps to the \"joint\" part of option (C). The relationship \"to the right of\" doesn't have a direct meaning in this context other than indicating placement.\n\nOptions (A), (B), and (D) don't fit the combination of the elements and their relationship as described. Only option (C) incorporates both \"nose\" and \"joint\" as suggested by the JSON descriptions and the image.\n\nTherefore, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"nose_icon\",\n  \"description\": \"An icon resembling a human nose.\",\n  \"relation\": \"to the left of the text 'JOINT'\"\n}\n```\n\n```json\n{\n  \"id\": \"item2\",\n  \"name\": \"text_joint\",\n  \"description\": \"The word 'JOINT' inside a rectangle.\",\n  \"relation\": \"to the right of the nose icon\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) keep one's nose clean (B) button nose (C) nose out of joint (D) turn up one's nose\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "nose out of joint"
+    }
+}

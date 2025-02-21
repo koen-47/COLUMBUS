@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image, with the downward and upward arrows flanking the word \"FRESH,\" conveys the idea of something being replaced or renewed.  This best aligns with **(C) fresh start**.  The arrows symbolize something going out and something new coming in.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get fresh (B) fresh out of (C) fresh start (D) fresh legs",
-    "answer": {
-        "C": "fresh start"
-    }
+   "gemini_pro_response": "The image, with the downward and upward arrows flanking the word \"FRESH,\" conveys the idea of something being replaced or renewed.  This best aligns with **(C) fresh start**.  The arrows symbolize something going out and something new coming in.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get fresh (B) fresh out of (C) fresh start (D) fresh legs",
+   "answer": {
+      "C": "fresh start"
+   },
+   "extracted_response": "C) fresh start"
 }

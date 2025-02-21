@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) at the receiving end. The word \"RECEIVING\" and the downward arrow pointing towards an upward arrow suggest something is being received. The phrase \"at the receiving end\" means to be the person or thing that something is directed or aimed at.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the receiving end (B) from beginning to end (C) at the receiving end (D) at loose ends",
-    "answer": {
-        "C": "at the receiving end"
-    }
+   "gemini_pro_response": "The image conveys (C) at the receiving end. The word \"RECEIVING\" and the downward arrow pointing towards an upward arrow suggest something is being received. The phrase \"at the receiving end\" means to be the person or thing that something is directed or aimed at.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the receiving end (B) from beginning to end (C) at the receiving end (D) at loose ends",
+   "answer": {
+      "C": "at the receiving end"
+   },
+   "extracted_response": "C) at the receiving end"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **take on water**.\n\nThe image shows a container taking in water, represented by the wave and water droplets.  This visually represents the phrase \"take on water,\" which means to begin to fill with water, usually unintentionally.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) walk on water (B) hold one's water (C) hold water (D) take on water",
-    "answer": {
-        "D": "take on water"
-    }
+   "gemini_pro_response": "The correct answer is (D) **take on water**.\n\nThe image shows a container taking in water, represented by the wave and water droplets.  This visually represents the phrase \"take on water,\" which means to begin to fill with water, usually unintentionally.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) walk on water (B) hold one's water (C) hold water (D) take on water",
+   "answer": {
+      "D": "take on water"
+   },
+   "extracted_response": "D) take on water"
 }

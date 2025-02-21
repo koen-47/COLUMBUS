@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "A) hand over fist",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over fist (B) hand over hand (C) hand in hand (D) hand over",
-    "answer": {
-        "A": "hand over fist"
-    }
+   "gpt4v_response": "A) hand over fist",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over fist (B) hand over hand (C) hand in hand (D) hand over",
+   "answer": {
+      "A": "hand over fist"
+   },
+   "extracted_response": "A) hand over fist"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows \"EB\" followed by an envelope icon. This represents \"E-mail\".  None of the provided options relate to email, so none of them are correct.  The closest answer might be (B) \"in the post\" if we're thinking generally about mail, but it's not specific to email.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) far post (B) in the post (C) be left at the post (D) near post",
-    "answer": {
-        "C": "be left at the post"
-    }
+   "gemini_pro_response": "The image shows \"EB\" followed by an envelope icon. This represents \"E-mail\".  None of the provided options relate to email, so none of them are correct.  The closest answer might be (B) \"in the post\" if we're thinking generally about mail, but it's not specific to email.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) far post (B) in the post (C) be left at the post (D) near post",
+   "answer": {
+      "C": "be left at the post"
+   },
+   "extracted_response": "The image shows \"EB\" followed by an envelope icon. This represents \"E-mail\".  None of the provided options relate to email, so none of them are correct.  The closest answer might be (B) \"in the post\" if we're thinking generally about mail, but it's not specific to email."
 }

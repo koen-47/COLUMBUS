@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"RUN 1111 LIFE\".  The number \"1\" looks like the lowercase letter \"l\". Thus, it reads as \"RUN FOR LIFE\".\n\nThis corresponds to **(A) run for one's life**.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for one's life (B) run for one's money (C) fight for one's life (D) run with",
-    "answer": {
-        "A": "run for one's life"
-    }
+   "gemini_pro_response": "The image says \"RUN 1111 LIFE\".  The number \"1\" looks like the lowercase letter \"l\". Thus, it reads as \"RUN FOR LIFE\".\n\nThis corresponds to **(A) run for one's life**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for one's life (B) run for one's money (C) fight for one's life (D) run with",
+   "answer": {
+      "A": "run for one's life"
+   },
+   "extracted_response": "A"
 }

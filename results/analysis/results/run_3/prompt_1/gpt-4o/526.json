@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(C) for the most part",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for real and for true (B) on the whole (C) for the most part (D) for a fact",
-    "answer": {
-        "C": "for the most part"
-    }
+   "gpt4v_response": "(C) for the most part",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for real and for true (B) on the whole (C) for the most part (D) for a fact",
+   "answer": {
+      "C": "for the most part"
+   },
+   "extracted_response": "C) for the most part"
 }

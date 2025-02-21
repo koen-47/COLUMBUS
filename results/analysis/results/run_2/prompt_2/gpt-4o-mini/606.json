@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"eye for an eye.\" Therefore, the correct answer is (A) eye for an eye.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) see eye to eye (C) one in the eye for (D) have an eye for",
-    "answer": {
-        "A": "eye for an eye"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"eye for an eye.\" Therefore, the correct answer is (A) eye for an eye.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) see eye to eye (C) one in the eye for (D) have an eye for",
+   "answer": {
+      "A": "eye for an eye"
+   },
+   "extracted_response": "A) eye for an eye"
 }

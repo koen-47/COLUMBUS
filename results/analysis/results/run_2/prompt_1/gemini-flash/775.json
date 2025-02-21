@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) redcoat.\n\nThe image shows the word \"COAT\" in red.  A redcoat is a British soldier historically known for wearing a red coat.  The color of the word in the image is a clue.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) redcoats (B) turncoat (C) bluecoat (D) redcoat",
-    "answer": {
-        "D": "redcoat"
-    }
+   "gemini_pro_response": "The correct answer is (D) redcoat.\n\nThe image shows the word \"COAT\" in red.  A redcoat is a British soldier historically known for wearing a red coat.  The color of the word in the image is a clue.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) redcoats (B) turncoat (C) bluecoat (D) redcoat",
+   "answer": {
+      "D": "redcoat"
+   },
+   "extracted_response": "D) redcoat"
 }

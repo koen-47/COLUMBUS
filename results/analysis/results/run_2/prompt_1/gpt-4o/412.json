@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(A) cross the t's and dot the i's",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross the t's and dot the i's (B) on the dot (C) off one's dot (D) dot the i's and cross the t's",
-    "answer": {
-        "A": "cross the t's and dot the i's"
-    }
+   "gpt4v_response": "(A) cross the t's and dot the i's",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross the t's and dot the i's (B) on the dot (C) off one's dot (D) dot the i's and cross the t's",
+   "answer": {
+      "A": "cross the t's and dot the i's"
+   },
+   "extracted_response": "A, D"
 }

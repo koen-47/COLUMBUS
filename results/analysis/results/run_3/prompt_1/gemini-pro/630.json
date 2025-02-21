@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word conveyed is **(D) fire in the belly**.  \"BE FIRELLY\" is a stylized way of writing \"be fiery,\" which is synonymous with having a \"fire in the belly\" (passion and drive).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) line of fire (B) pull out of the fire (C) draw fire (D) fire in the belly",
-    "answer": {
-        "D": "fire in the belly"
-    }
+   "gemini_pro_response": "The word conveyed is **(D) fire in the belly**.  \"BE FIRELLY\" is a stylized way of writing \"be fiery,\" which is synonymous with having a \"fire in the belly\" (passion and drive).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) line of fire (B) pull out of the fire (C) draw fire (D) fire in the belly",
+   "answer": {
+      "D": "fire in the belly"
+   },
+   "extracted_response": "D"
 }

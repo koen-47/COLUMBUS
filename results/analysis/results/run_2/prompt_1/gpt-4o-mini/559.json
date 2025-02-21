@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (D) for crying out loud.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for the love of (B) out loud (C) for reasons (D) for crying out loud",
-    "answer": {
-        "D": "for crying out loud"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (D) for crying out loud.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for the love of (B) out loud (C) for reasons (D) for crying out loud",
+   "answer": {
+      "D": "for crying out loud"
+   },
+   "extracted_response": "D) for crying out loud"
 }

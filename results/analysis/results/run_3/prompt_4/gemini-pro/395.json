@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle represents \"Put someone on to\". Here's why:\n\n* **\"PUT SOMEONE\"**: These words are presented directly.\n* **\"ON TO\"**: The number \"2\" below \"SOMEONE\" represents the sound \"two,\" which sounds like \"to\". The spatial relationship \"ABOVE\" reinforces the idea of \"on to.\"\n\nTherefore, the answer is (A).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: PUT, repeat: 1)\nNode 2 attributes: (text: SOMEONE, repeat: 1)\nNode 3 attributes: (text: 2, repeat: 1, sound: (to: 2))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\nEdge 2: node 2 to node 3 (rule: ABOVE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) put someone on to (B) put someone to their trumps (C) put someone in their place (D) put someone under",
-    "answer": {
-        "A": "put someone on to"
-    }
+   "gemini_pro_response": "The rebus puzzle represents \"Put someone on to\". Here's why:\n\n* **\"PUT SOMEONE\"**: These words are presented directly.\n* **\"ON TO\"**: The number \"2\" below \"SOMEONE\" represents the sound \"two,\" which sounds like \"to\". The spatial relationship \"ABOVE\" reinforces the idea of \"on to.\"\n\nTherefore, the answer is (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: PUT, repeat: 1)\nNode 2 attributes: (text: SOMEONE, repeat: 1)\nNode 3 attributes: (text: 2, repeat: 1, sound: (to: 2))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\nEdge 2: node 2 to node 3 (rule: ABOVE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) put someone on to (B) put someone to their trumps (C) put someone in their place (D) put someone under",
+   "answer": {
+      "A": "put someone on to"
+   },
+   "extracted_response": "A"
 }

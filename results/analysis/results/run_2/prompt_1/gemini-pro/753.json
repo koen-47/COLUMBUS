@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts the idiom \"pull the wool over [someone's] eyes.\" The words \"PULL\" and \"WOOL\" are above a line, under which are two eyes. This represents the action of covering someone's eyes with wool, thus deceiving them.\n\nSo the answer is (B).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dyed in the wool (B) pull the wool over eyes (C) wrap in cotton wool (D) more cry than wool",
-    "answer": {
-        "B": "pull the wool over eyes"
-    }
+   "gemini_pro_response": "The image depicts the idiom \"pull the wool over [someone's] eyes.\" The words \"PULL\" and \"WOOL\" are above a line, under which are two eyes. This represents the action of covering someone's eyes with wool, thus deceiving them.\n\nSo the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dyed in the wool (B) pull the wool over eyes (C) wrap in cotton wool (D) more cry than wool",
+   "answer": {
+      "B": "pull the wool over eyes"
+   },
+   "extracted_response": "B) pull the wool over eyes"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"TONGUE\" being split by the letters \"C\" and \"EEK\" on either side. This suggests the phrase \"hold tongue,\" as the \"C\" can represent \"C\" for \"see\" or \"hold,\" and \"EEK\" sounds like \"eek,\" which can imply a reaction to holding back. \n\nSo, the answer is (B) hold tongue.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bite tongue (B) hold tongue (C) turn the other cheek (D) tongue in cheek",
-    "answer": {
-        "D": "tongue in cheek"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"TONGUE\" being split by the letters \"C\" and \"EEK\" on either side. This suggests the phrase \"hold tongue,\" as the \"C\" can represent \"C\" for \"see\" or \"hold,\" and \"EEK\" sounds like \"eek,\" which can imply a reaction to holding back. \n\nSo, the answer is (B) hold tongue.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bite tongue (B) hold tongue (C) turn the other cheek (D) tongue in cheek",
+   "answer": {
+      "D": "tongue in cheek"
+   },
+   "extracted_response": "B) hold tongue"
 }

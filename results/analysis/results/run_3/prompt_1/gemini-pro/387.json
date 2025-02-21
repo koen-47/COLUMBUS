@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image represents **(D) pull the wool over eyes**.  The word \"IIII\" is under \"PULL WOOL\", visually suggesting that the wool is being pulled over the eyes.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dyed in the wool (B) more cry than wool (C) wrap in cotton wool (D) pull the wool over eyes",
-    "answer": {
-        "D": "pull the wool over eyes"
-    }
+   "gemini_pro_response": "The image represents **(D) pull the wool over eyes**.  The word \"IIII\" is under \"PULL WOOL\", visually suggesting that the wool is being pulled over the eyes.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dyed in the wool (B) more cry than wool (C) wrap in cotton wool (D) pull the wool over eyes",
+   "answer": {
+      "D": "pull the wool over eyes"
+   },
+   "extracted_response": "D) pull the wool over eyes"
 }

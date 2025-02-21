@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows \"GO\" twice, indicating \"GO TO\". It's placed next to \"BAT\". Thus, the solution is \"GO TO BAT\" (A).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: BAT, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) go to bat (B) off one's own bat (C) bat for the other team (D) bat five hundred",
-    "answer": {
-        "A": "go to bat"
-    }
+   "gemini_pro_response": "The rebus puzzle shows \"GO\" twice, indicating \"GO TO\". It's placed next to \"BAT\". Thus, the solution is \"GO TO BAT\" (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: GO, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: BAT, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) go to bat (B) off one's own bat (C) bat for the other team (D) bat five hundred",
+   "answer": {
+      "A": "go to bat"
+   },
+   "extracted_response": "A) go to bat"
 }

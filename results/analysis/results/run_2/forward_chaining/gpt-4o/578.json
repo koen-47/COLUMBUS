@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains the words \"DOWN\" and \"WIRE\" arranged as follows:\n\n1. \"DOWN\" is written twice, one above the other.\n2. \"WIRE\" is to the right of the second \"DOWN\".\n\nThis arrangement corresponds to the phrase \"down to the wire.\"\n\nTherefore, the correct answer is (D) down to the wire.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"text_DOWN\",\n        \"description\": \"The word 'DOWN' written in uppercase letters.\",\n        \"relation\": \"Located at the top left of the image.\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"text_WIRE\",\n        \"description\": \"The word 'WIRE' written in uppercase letters.\",\n        \"relation\": \"Located to the right of the second 'DOWN'.\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"text_DOWN_2\",\n        \"description\": \"The word 'DOWN' written in uppercase letters.\",\n        \"relation\": \"Located below the first 'DOWN' and to the left of 'WIRE'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) under the wire (B) down the line (C) down under (D) down to the wire\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "down to the wire"
+    }
+}

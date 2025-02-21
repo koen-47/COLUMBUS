@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"REENGINE\".  This is a variation/shortening of \"re-engineer,\" which is another way of saying \"reverse engineer\". So the answer is (B).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) software (B) reverse engineer (C) down tools (D) reverse psychology",
-    "answer": {
-        "B": "reverse engineer"
-    }
+   "gemini_pro_response": "The image says \"REENGINE\".  This is a variation/shortening of \"re-engineer,\" which is another way of saying \"reverse engineer\". So the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) software (B) reverse engineer (C) down tools (D) reverse psychology",
+   "answer": {
+      "B": "reverse engineer"
+   },
+   "extracted_response": "B"
 }

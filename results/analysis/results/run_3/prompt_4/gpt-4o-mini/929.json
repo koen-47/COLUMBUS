@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The first node (\ud83d\udd04) suggests \"turn.\"\n- The second node (1111) sounds like \"one's.\"\n- The third node (GRAVE) is straightforward.\n\nPutting these together, we get \"turn in one's grave.\"\n\nTherefore, the correct answer is (D) turn in one's grave.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udd04, repeat: 1, icon: (turn: \ud83d\udd04))\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: GRAVE, repeat: 1)\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) take someone to the grave (B) dig one's own grave (C) take to the grave (D) turn in one's grave",
-    "answer": {
-        "D": "turn in one's grave"
-    }
+   "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The first node (\ud83d\udd04) suggests \"turn.\"\n- The second node (1111) sounds like \"one's.\"\n- The third node (GRAVE) is straightforward.\n\nPutting these together, we get \"turn in one's grave.\"\n\nTherefore, the correct answer is (D) turn in one's grave.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83d\udd04, repeat: 1, icon: (turn: \ud83d\udd04))\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: GRAVE, repeat: 1)\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) take someone to the grave (B) dig one's own grave (C) take to the grave (D) turn in one's grave",
+   "answer": {
+      "D": "turn in one's grave"
+   },
+   "extracted_response": "D) turn in one's grave"
 }

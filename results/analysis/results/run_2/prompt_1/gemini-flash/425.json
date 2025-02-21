@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) hang out to dry.\n\nThe image shows the word \"HANG\" separate from a box containing the word \"DRY\" twice.  This visually represents the idiom \"hang out to dry,\" which means to leave someone in a difficult situation without help or support.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang out (B) hang out to dry (C) dry out (D) suck dry",
-    "answer": {
-        "B": "hang out to dry"
-    }
+   "gemini_pro_response": "The correct answer is (B) hang out to dry.\n\nThe image shows the word \"HANG\" separate from a box containing the word \"DRY\" twice.  This visually represents the idiom \"hang out to dry,\" which means to leave someone in a difficult situation without help or support.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang out (B) hang out to dry (C) dry out (D) suck dry",
+   "answer": {
+      "B": "hang out to dry"
+   },
+   "extracted_response": "B) hang out to dry"
 }

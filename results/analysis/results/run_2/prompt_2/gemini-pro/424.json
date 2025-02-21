@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle \"HU{dog image}NT\" represents the phrase **(A) dog in the hunt**. \n\nThe image of the dog is placed \"in\" the word \"hunt,\" literally representing a dog within the word.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dog in the hunt (B) dog eat dog (C) dog around (D) snipe hunt",
-    "answer": {
-        "A": "dog in the hunt"
-    }
+   "gemini_pro_response": "The rebus puzzle \"HU{dog image}NT\" represents the phrase **(A) dog in the hunt**. \n\nThe image of the dog is placed \"in\" the word \"hunt,\" literally representing a dog within the word.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dog in the hunt (B) dog eat dog (C) dog around (D) snipe hunt",
+   "answer": {
+      "A": "dog in the hunt"
+   },
+   "extracted_response": "A) dog in the hunt"
 }

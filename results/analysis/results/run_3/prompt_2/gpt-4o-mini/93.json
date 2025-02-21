@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"in the dark.\" The image of a city at night suggests darkness, and the arrows pointing down can imply being \"in\" something. Therefore, the correct answer is (D) in the dark.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) after dark (B) dark cloud (C) shot in the dark (D) in the dark",
-    "answer": {
-        "A": "after dark"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"in the dark.\" The image of a city at night suggests darkness, and the arrows pointing down can imply being \"in\" something. Therefore, the correct answer is (D) in the dark.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) after dark (B) dark cloud (C) shot in the dark (D) in the dark",
+   "answer": {
+      "A": "after dark"
+   },
+   "extracted_response": "D) in the dark"
 }

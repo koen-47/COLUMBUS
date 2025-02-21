@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"run a red light.\" The word \"LIGHT\" is in red, suggesting the concept of a red light, and the positioning implies action. Therefore, the answer is (B) run a red light.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the red light (B) run a red light (C) green light (D) red light",
-    "answer": {
-        "D": "red light"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"run a red light.\" The word \"LIGHT\" is in red, suggesting the concept of a red light, and the positioning implies action. Therefore, the answer is (B) run a red light.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the red light (B) run a red light (C) green light (D) red light",
+   "answer": {
+      "D": "red light"
+   },
+   "extracted_response": "B) run a red light"
 }

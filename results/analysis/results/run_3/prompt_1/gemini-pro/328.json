@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) midafternoon. The arrows pointing towards the middle of the word \"AFTERNOON\" suggest \"mid\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midpoint (B) midrib (C) midafternoon (D) midribs",
-    "answer": {
-        "C": "midafternoon"
-    }
+   "gemini_pro_response": "The image conveys (C) midafternoon. The arrows pointing towards the middle of the word \"AFTERNOON\" suggest \"mid\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midpoint (B) midrib (C) midafternoon (D) midribs",
+   "answer": {
+      "C": "midafternoon"
+   },
+   "extracted_response": "C"
 }

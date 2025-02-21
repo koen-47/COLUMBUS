@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (B) collect dust. The repeating arrows symbolize a cycle, suggesting something happens repeatedly.  \"Collect dust\" implies an ongoing accumulation of dust, fitting the cyclical imagery. The other options are less appropriate: \"catch dust\" is less common and doesn't imply continuous action, \"turn to dust\" implies disintegration, and \"dust settles\" refers to a single event, not a cycle.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch dust (B) collect dust (C) turn to dust (D) dust settles",
-    "answer": {
-        "C": "turn to dust"
-    }
+   "gemini_pro_response": "The image conveys (B) collect dust. The repeating arrows symbolize a cycle, suggesting something happens repeatedly.  \"Collect dust\" implies an ongoing accumulation of dust, fitting the cyclical imagery. The other options are less appropriate: \"catch dust\" is less common and doesn't imply continuous action, \"turn to dust\" implies disintegration, and \"dust settles\" refers to a single event, not a cycle.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch dust (B) collect dust (C) turn to dust (D) dust settles",
+   "answer": {
+      "C": "turn to dust"
+   },
+   "extracted_response": "B) collect dust"
 }

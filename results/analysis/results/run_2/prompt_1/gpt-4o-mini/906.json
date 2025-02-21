@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) the big guns.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) guns blazing (B) big gun (C) the big guns (D) big shot",
-    "answer": {
-        "C": "the big guns"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) the big guns.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) guns blazing (B) big gun (C) the big guns (D) big shot",
+   "answer": {
+      "C": "the big guns"
+   },
+   "extracted_response": "C) the big guns"
 }

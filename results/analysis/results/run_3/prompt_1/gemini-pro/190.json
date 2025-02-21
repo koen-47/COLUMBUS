@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts two boats and a boy's face between them. This visually represents the idiom \"**miss the boat**,\" which means to miss an opportunity.  The boy is in between the two boats, implying he missed getting on either one.\n\nSo the answer is (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) push the boat out (B) boy in the boat (C) turn the boat (D) miss the boat",
-    "answer": {
-        "B": "boy in the boat"
-    }
+   "gemini_pro_response": "The image depicts two boats and a boy's face between them. This visually represents the idiom \"**miss the boat**,\" which means to miss an opportunity.  The boy is in between the two boats, implying he missed getting on either one.\n\nSo the answer is (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) push the boat out (B) boy in the boat (C) turn the boat (D) miss the boat",
+   "answer": {
+      "B": "boy in the boat"
+   },
+   "extracted_response": "D) miss the boat"
 }

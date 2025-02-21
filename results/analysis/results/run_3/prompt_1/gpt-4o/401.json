@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (A) red tape.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red tape (B) tapeline (C) play the same tape (D) cut red tape",
-    "answer": {
-        "A": "red tape"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) red tape.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red tape (B) tapeline (C) play the same tape (D) cut red tape",
+   "answer": {
+      "A": "red tape"
+   },
+   "extracted_response": "A) red tape"
 }

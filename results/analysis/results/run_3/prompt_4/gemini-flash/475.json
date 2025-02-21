@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) to boot**.\n\nThe rebus shows the word \"BOOT\" repeated twice.  The graph description indicates a sound relationship (to: 2), implying that the word \"BOOT\" is repeated to create the phrase \"to boot\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BOOT, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) give someone the boot (B) to boot (C) put the boot in (D) get the boot",
-    "answer": {
-        "B": "to boot"
-    }
+   "gemini_pro_response": "The correct answer is **(B) to boot**.\n\nThe rebus shows the word \"BOOT\" repeated twice.  The graph description indicates a sound relationship (to: 2), implying that the word \"BOOT\" is repeated to create the phrase \"to boot\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BOOT, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) give someone the boot (B) to boot (C) put the boot in (D) get the boot",
+   "answer": {
+      "B": "to boot"
+   },
+   "extracted_response": "B) to boot"
 }

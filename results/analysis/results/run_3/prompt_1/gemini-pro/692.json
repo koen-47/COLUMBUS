@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (B) midpoint.  The arrows pointing towards the 'I' in \"POINT\" indicate the middle of something.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midpoints (B) midpoint (C) midgame (D) midline",
-    "answer": {
-        "B": "midpoint"
-    }
+   "gemini_pro_response": "The image conveys (B) midpoint.  The arrows pointing towards the 'I' in \"POINT\" indicate the middle of something.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midpoints (B) midpoint (C) midgame (D) midline",
+   "answer": {
+      "B": "midpoint"
+   },
+   "extracted_response": "B) midpoint"
 }

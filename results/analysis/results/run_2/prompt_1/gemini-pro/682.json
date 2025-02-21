@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word conveyed is **(A) midbrain**.\n\nThe arrows point to the letters \"I\" in \"BRAIN\", changing the word to \"BRAIN\". \"Mid\" means middle, and the arrows are pointing to the middle letter, \"I\". Thus, the image represents the word \"midbrain\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midbrain (B) midribs (C) midvein (D) midrib",
-    "answer": {
-        "A": "midbrain"
-    }
+   "gemini_pro_response": "The word conveyed is **(A) midbrain**.\n\nThe arrows point to the letters \"I\" in \"BRAIN\", changing the word to \"BRAIN\". \"Mid\" means middle, and the arrows are pointing to the middle letter, \"I\". Thus, the image represents the word \"midbrain\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midbrain (B) midribs (C) midvein (D) midrib",
+   "answer": {
+      "A": "midbrain"
+   },
+   "extracted_response": "A) midbrain"
 }

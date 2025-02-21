@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"COSM\" with \"C\" appearing smaller than the rest of the letters. This suggests the phrase \"microcosm,\" where \"micro\" indicates something small and \"cosm\" refers to the universe or world. \n\nTherefore, the correct answer is (B) microcosm.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) microeconomics (B) microcosm (C) pill mill (D) micromanagement",
-    "answer": {
-        "B": "microcosm"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"COSM\" with \"C\" appearing smaller than the rest of the letters. This suggests the phrase \"microcosm,\" where \"micro\" indicates something small and \"cosm\" refers to the universe or world. \n\nTherefore, the correct answer is (B) microcosm.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) microeconomics (B) microcosm (C) pill mill (D) micromanagement",
+   "answer": {
+      "B": "microcosm"
+   },
+   "extracted_response": "B) microcosm"
 }

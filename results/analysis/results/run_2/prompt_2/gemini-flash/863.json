@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(C) start a family**.\n\nThe image shows three faces (a family) with an arrow pointing down (representing parents passing down genes), and an arrow pointing up (representing a new child).  This visually represents the act of starting a family.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run in the family (B) keep it in the family (C) start a family (D) family jewels",
-    "answer": {
-        "C": "start a family"
-    }
+   "gemini_pro_response": "The answer is **(C) start a family**.\n\nThe image shows three faces (a family) with an arrow pointing down (representing parents passing down genes), and an arrow pointing up (representing a new child).  This visually represents the act of starting a family.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run in the family (B) keep it in the family (C) start a family (D) family jewels",
+   "answer": {
+      "C": "start a family"
+   },
+   "extracted_response": "C) start a family"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"spit in the ocean\" (A). The image depicts an ocean wave spitting.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) spit out (C) spit in the wind (D) spit on",
-    "answer": {
-        "A": "spit in the ocean"
-    }
+   "gemini_pro_response": "The image conveys \"spit in the ocean\" (A). The image depicts an ocean wave spitting.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) spit out (C) spit in the wind (D) spit on",
+   "answer": {
+      "A": "spit in the ocean"
+   },
+   "extracted_response": "A"
 }

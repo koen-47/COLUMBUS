@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **pour fuel on the fire**.  The image directly displays the words \"pour fuel\" above the word \"fire,\" making this the most accurate representation.  While the other options convey similar meanings (exacerbating a situation), only option B is directly depicted in the image.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pour gasoline on the fire (B) pour fuel on the fire (C) feed the fire (D) add fuel to the flames",
-    "answer": {
-        "B": "pour fuel on the fire"
-    }
+   "gemini_pro_response": "The correct answer is (B) **pour fuel on the fire**.  The image directly displays the words \"pour fuel\" above the word \"fire,\" making this the most accurate representation.  While the other options convey similar meanings (exacerbating a situation), only option B is directly depicted in the image.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pour gasoline on the fire (B) pour fuel on the fire (C) feed the fire (D) add fuel to the flames",
+   "answer": {
+      "B": "pour fuel on the fire"
+   },
+   "extracted_response": "B) pour fuel on the fire"
 }

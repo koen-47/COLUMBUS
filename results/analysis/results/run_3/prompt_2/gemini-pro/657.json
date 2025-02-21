@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (A) level to the ground.\n\nThe word \"GROUND\" is positioned between two instances of the word \"LEVEL\". This visually represents something being level with the ground.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) level to the ground (B) from the ground up (C) go to ground (D) high ground",
-    "answer": {
-        "A": "level to the ground"
-    }
+   "gemini_pro_response": "The answer is (A) level to the ground.\n\nThe word \"GROUND\" is positioned between two instances of the word \"LEVEL\". This visually represents something being level with the ground.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) level to the ground (B) from the ground up (C) go to ground (D) high ground",
+   "answer": {
+      "A": "level to the ground"
+   },
+   "extracted_response": "A) level to the ground"
 }

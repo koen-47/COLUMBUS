@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(A) break out**.\n\nThe letters K, A, E, R, B are arranged vertically.  If you read them in reverse order, you get BREAK. The image shows a vertical arrangement of letters, suggesting that the letters are \"breaking out\" of their vertical column.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break out (B) break down (C) break up (D) break into",
-    "answer": {
-        "C": "break up"
-    }
+   "gemini_pro_response": "The answer is **(A) break out**.\n\nThe letters K, A, E, R, B are arranged vertically.  If you read them in reverse order, you get BREAK. The image shows a vertical arrangement of letters, suggesting that the letters are \"breaking out\" of their vertical column.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break out (B) break down (C) break up (D) break into",
+   "answer": {
+      "C": "break up"
+   },
+   "extracted_response": "A) break out"
 }

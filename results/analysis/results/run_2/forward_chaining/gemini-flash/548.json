@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the text \"GLHANDOVE\".  This is a rebus puzzle. The solution is to take the \"GL\" from the beginning and the \"OVE\" from the end, leaving \"HAND\" in the middle. Thus the solution is \"HAND IN GLOVE\".\n\nTherefore the answer is (D).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'GLHANDOVE' in uppercase letters.\",\n  \"relation\": \"centered in the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) in hand (B) hand over hand (C) hand in hand (D) hand in glove\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "hand in glove"
+    }
+}

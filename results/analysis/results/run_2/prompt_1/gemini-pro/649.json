@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts the idiom \"knock on wood\" (C).  Knocking on wood is a superstitious practice intended to prevent bad luck or to ensure good fortune continues.  The image of the wood reinforces this connection.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock down (B) knock out (C) knock on wood (D) knock together",
-    "answer": {
-        "C": "knock on wood"
-    }
+   "gemini_pro_response": "The image depicts the idiom \"knock on wood\" (C).  Knocking on wood is a superstitious practice intended to prevent bad luck or to ensure good fortune continues.  The image of the wood reinforces this connection.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock down (B) knock out (C) knock on wood (D) knock together",
+   "answer": {
+      "C": "knock on wood"
+   },
+   "extracted_response": "C"
 }

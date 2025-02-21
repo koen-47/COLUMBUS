@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image clearly shows the words \"STINK\" over \"ICE\" with a horizontal line separating them. This corresponds to option (C) **stink on ice**.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on ice (B) ice cool (C) stink on ice (D) on thin ice",
-    "answer": {
-        "C": "stink on ice"
-    }
+   "gemini_pro_response": "The image clearly shows the words \"STINK\" over \"ICE\" with a horizontal line separating them. This corresponds to option (C) **stink on ice**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on ice (B) ice cool (C) stink on ice (D) on thin ice",
+   "answer": {
+      "C": "stink on ice"
+   },
+   "extracted_response": "C) stink on ice"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"once in a while.\" The \"WH\" represents \"once,\" the \"1111\" represents \"in a,\" and \"ILE\" sounds like \"while.\" \n\nSo the answer is (B) once in a while.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for a while (B) once in a while (C) once and for all (D) once or twice",
-    "answer": {
-        "B": "once in a while"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"once in a while.\" The \"WH\" represents \"once,\" the \"1111\" represents \"in a,\" and \"ILE\" sounds like \"while.\" \n\nSo the answer is (B) once in a while.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for a while (B) once in a while (C) once and for all (D) once or twice",
+   "answer": {
+      "B": "once in a while"
+   },
+   "extracted_response": "B) once in a while"
 }

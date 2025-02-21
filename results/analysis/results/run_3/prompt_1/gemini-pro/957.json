@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus represents \"UP TO ONE'S EARS\".  The \"1111\" below \"UP\" and next to \"EAR\" is interpreted as \"one's\". So, the answer is (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) prick up ears (B) ear to the ground (C) up on one's ear (D) up to one's ears",
-    "answer": {
-        "C": "up on one's ear"
-    }
+   "gemini_pro_response": "The rebus represents \"UP TO ONE'S EARS\".  The \"1111\" below \"UP\" and next to \"EAR\" is interpreted as \"one's\". So, the answer is (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) prick up ears (B) ear to the ground (C) up on one's ear (D) up to one's ears",
+   "answer": {
+      "C": "up on one's ear"
+   },
+   "extracted_response": "D) up to one's ears"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle can be solved as follows:\n\n* \"FALL\" over \"111 sword\"\n\nThe \"111\" represents \"one\" repeated three times.  This converts to \"one, one, one\" which sounds like \"on one\". So, \"111 sword\" can be read as \"on one sword.\"\n\nPutting it all together, the rebus is \"FALL on one sword.\"\n\nTherefore, the answer is (A).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall on one's sword (B) put to the sword (C) flesh one's maiden sword (D) sword and sorcery",
-    "answer": {
-        "A": "fall on one's sword"
-    }
+   "gemini_pro_response": "The rebus puzzle can be solved as follows:\n\n* \"FALL\" over \"111 sword\"\n\nThe \"111\" represents \"one\" repeated three times.  This converts to \"one, one, one\" which sounds like \"on one\". So, \"111 sword\" can be read as \"on one sword.\"\n\nPutting it all together, the rebus is \"FALL on one sword.\"\n\nTherefore, the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall on one's sword (B) put to the sword (C) flesh one's maiden sword (D) sword and sorcery",
+   "answer": {
+      "A": "fall on one's sword"
+   },
+   "extracted_response": "A) fall on one's sword"
 }

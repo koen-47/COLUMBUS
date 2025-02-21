@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts \"run on fumes\" (B).  The person is running above the word \"fumes,\" suggesting they are being propelled or sustained by fumes, as a vehicle might be when it's almost out of fuel.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run through (B) run on fumes (C) run with (D) run riot",
-    "answer": {
-        "B": "run on fumes"
-    }
+   "gemini_pro_response": "The image depicts \"run on fumes\" (B).  The person is running above the word \"fumes,\" suggesting they are being propelled or sustained by fumes, as a vehicle might be when it's almost out of fuel.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run through (B) run on fumes (C) run with (D) run riot",
+   "answer": {
+      "B": "run on fumes"
+   },
+   "extracted_response": "B"
 }

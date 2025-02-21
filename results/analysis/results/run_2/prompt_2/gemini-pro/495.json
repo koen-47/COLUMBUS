@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus represents \"For real and for true\".  There are four \"REAL\"s, represented by \"4 REAL\".  This is followed by the word TRUE.  Thus, \"4 REAL\" and \"TRUE\" means \"for real and for true\".\n\nSo the answer is (C).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for the asking (B) for good and all (C) for real and for true (D) for a fact",
-    "answer": {
-        "C": "for real and for true"
-    }
+   "gemini_pro_response": "The rebus represents \"For real and for true\".  There are four \"REAL\"s, represented by \"4 REAL\".  This is followed by the word TRUE.  Thus, \"4 REAL\" and \"TRUE\" means \"for real and for true\".\n\nSo the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for the asking (B) for good and all (C) for real and for true (D) for a fact",
+   "answer": {
+      "C": "for real and for true"
+   },
+   "extracted_response": "C) for real and for true"
 }

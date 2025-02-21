@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"CLOHEADUDS,\" which can be interpreted as \"CLOTHES\" with \"HEAD\" in the middle. This suggests the phrase \"head in the clouds,\" as it visually represents the idea of something being in the clouds.\n\nSo, the answer is (B) head in the clouds.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) lose head (B) head in the clouds (C) in one's head (D) head of steam",
-    "answer": {
-        "B": "head in the clouds"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"CLOHEADUDS,\" which can be interpreted as \"CLOTHES\" with \"HEAD\" in the middle. This suggests the phrase \"head in the clouds,\" as it visually represents the idea of something being in the clouds.\n\nSo, the answer is (B) head in the clouds.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) lose head (B) head in the clouds (C) in one's head (D) head of steam",
+   "answer": {
+      "B": "head in the clouds"
+   },
+   "extracted_response": "B) head in the clouds"
 }

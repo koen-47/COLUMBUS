@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the letters \"OL\" followed by an apostrophe.\n\n* **(A) big ol'**: This option matches the image directly. \"OL\" followed by an apostrophe represents \"ol'\".\n* **(B) big name**:  This option doesn't have \"OL\" or an apostrophe.\n* **(C) big ole**: This option is spelled \"ole,\" not \"ol'\".\n* **(D) big shot**: This option is unrelated to the image.\n\nTherefore, the answer is (A).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text_OL\",\n    \"description\": \"The letters 'OL' in uppercase.\",\n    \"relation\": \"The letters 'OL' are placed to the left of the apostrophe.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"apostrophe\",\n    \"description\": \"A single apostrophe symbol.\",\n    \"relation\": \"The apostrophe is placed to the right of the letters 'OL'.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) big ol' (B) big name (C) big ole (D) big shot\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "big ol'"
+    }
+}

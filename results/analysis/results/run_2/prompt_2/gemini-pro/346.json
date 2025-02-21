@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"BAD\" with an arrow pointing down above it and an arrow pointing up below it. This represents \"up bad\" or \"up to no good\".\n\nHowever, none of the provided options perfectly captures this meaning.  Of the options given, (B) \"too bad\" is the closest in sentiment, though not a direct translation of the rebus.  It implies a negative situation, similar to \"up to no good\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) it's all good (B) too bad (C) good grief (D) my bad",
-    "answer": {
-        "D": "my bad"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"BAD\" with an arrow pointing down above it and an arrow pointing up below it. This represents \"up bad\" or \"up to no good\".\n\nHowever, none of the provided options perfectly captures this meaning.  Of the options given, (B) \"too bad\" is the closest in sentiment, though not a direct translation of the rebus.  It implies a negative situation, similar to \"up to no good\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) it's all good (B) too bad (C) good grief (D) my bad",
+   "answer": {
+      "D": "my bad"
+   },
+   "extracted_response": "B) too bad"
 }

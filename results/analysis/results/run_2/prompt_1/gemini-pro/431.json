@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"sick to the back teeth\" (D).  The words \"sick\" and \"back\" are written, and the image of teeth represent \"teeth\".  Together, they create the idiom.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backache (B) pull teeth (C) arm to the teeth (D) sick to the back teeth",
-    "answer": {
-        "D": "sick to the back teeth"
-    }
+   "gemini_pro_response": "The image conveys \"sick to the back teeth\" (D).  The words \"sick\" and \"back\" are written, and the image of teeth represent \"teeth\".  Together, they create the idiom.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backache (B) pull teeth (C) arm to the teeth (D) sick to the back teeth",
+   "answer": {
+      "D": "sick to the back teeth"
+   },
+   "extracted_response": "D) sick to the back teeth"
 }

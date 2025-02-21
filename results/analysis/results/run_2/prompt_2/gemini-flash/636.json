@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (D) flea in one's ear.\n\nThe four 1s represent \"one\" and are followed by \"flea\" and then \"ear\".  Therefore, the rebus represents \"one flea in one's ear\".  This is a common idiom meaning to give someone a scolding or harsh rebuke.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) earworm (B) not hurt a fly or flea (C) put a bug in someone's ear (D) flea in one's ear",
-    "answer": {
-        "D": "flea in one's ear"
-    }
+   "gemini_pro_response": "The answer is (D) flea in one's ear.\n\nThe four 1s represent \"one\" and are followed by \"flea\" and then \"ear\".  Therefore, the rebus represents \"one flea in one's ear\".  This is a common idiom meaning to give someone a scolding or harsh rebuke.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) earworm (B) not hurt a fly or flea (C) put a bug in someone's ear (D) flea in one's ear",
+   "answer": {
+      "D": "flea in one's ear"
+   },
+   "extracted_response": "D) flea in one's ear"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"FISH\" twice, and the word \"FRY\" once. Node 1 has the attribute \"sound: (to: 2)\", indicating that the sound \"FISH\" should be replaced with the sound \"TO\". Since there are two \"FISH\", this happens twice.  The resulting phrase is \"TO TO FRY.\" This gets simplified as \"fish to fry.\"\n\nTherefore, the answer is (D) fish to fry.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: FISH, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: FRY, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) go fish (B) bigger fish to fry (C) fry up (D) fish to fry",
-    "answer": {
-        "D": "fish to fry"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"FISH\" twice, and the word \"FRY\" once. Node 1 has the attribute \"sound: (to: 2)\", indicating that the sound \"FISH\" should be replaced with the sound \"TO\". Since there are two \"FISH\", this happens twice.  The resulting phrase is \"TO TO FRY.\" This gets simplified as \"fish to fry.\"\n\nTherefore, the answer is (D) fish to fry.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: FISH, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: FRY, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) go fish (B) bigger fish to fry (C) fry up (D) fish to fry",
+   "answer": {
+      "D": "fish to fry"
+   },
+   "extracted_response": "D) fish to fry"
 }

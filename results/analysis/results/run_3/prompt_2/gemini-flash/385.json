@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(D) hand over head**.\n\nThe image shows a hand above a face, representing the phrase \"hand over head\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand someone his head (B) hand over (C) hand over hand (D) hand over head",
-    "answer": {
-        "D": "hand over head"
-    }
+   "gemini_pro_response": "The correct answer is **(D) hand over head**.\n\nThe image shows a hand above a face, representing the phrase \"hand over head\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand someone his head (B) hand over (C) hand over hand (D) hand over head",
+   "answer": {
+      "D": "hand over head"
+   },
+   "extracted_response": "D) hand over head"
 }

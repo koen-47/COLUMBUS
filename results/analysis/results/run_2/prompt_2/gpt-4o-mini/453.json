@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle you provided can be interpreted as \"K\" + \"A\" + \"E\" + \"S\" vertically arranged, which suggests the phrase \"K A E S\" sounds like \"case.\" \n\nGiven the options:\n(A) speak up \n(B) speak out \n(C) speak to \n(D) talk up\n\nThe closest match to the interpretation of \"case\" would be **(B) speak out**, as it can imply making a case for something. \n\nSo, the answer is **(B) speak out**.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak to (D) talk up",
-    "answer": {
-        "A": "speak up"
-    }
+   "gpt4v_response": "The rebus puzzle you provided can be interpreted as \"K\" + \"A\" + \"E\" + \"S\" vertically arranged, which suggests the phrase \"K A E S\" sounds like \"case.\" \n\nGiven the options:\n(A) speak up \n(B) speak out \n(C) speak to \n(D) talk up\n\nThe closest match to the interpretation of \"case\" would be **(B) speak out**, as it can imply making a case for something. \n\nSo, the answer is **(B) speak out**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak to (D) talk up",
+   "answer": {
+      "A": "speak up"
+   },
+   "extracted_response": "B) speak out"
 }

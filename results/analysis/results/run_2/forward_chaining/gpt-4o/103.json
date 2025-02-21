@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains:\n\n1. A butterfly icon above a line.\n2. The word \"WHEEL\" below the line.\n\nThis setup matches the phrase \"butterfly upon a wheel,\" as the butterfly is positioned above the word \"WHEEL.\"\n\nThe correct answer is (C) butterfly upon a wheel.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"butterfly\",\n        \"description\": \"An icon of a butterfly located at the top center of the image.\",\n        \"relation\": \"above the line and the word 'WHEEL'\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"line\",\n        \"description\": \"A horizontal line located in the middle of the image.\",\n        \"relation\": \"separates the butterfly icon from the word 'WHEEL'\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"WHEEL\",\n        \"description\": \"The word 'WHEEL' written in uppercase letters located at the bottom center of the image.\",\n        \"relation\": \"below the line and the butterfly icon\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) wheel away (B) wheel within a wheel (C) butterfly upon a wheel (D) butterfly\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "butterfly upon a wheel"
+    }
+}

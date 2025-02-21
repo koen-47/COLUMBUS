@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"LAND\" above the number \"1111\" and the word \"FEET.\" This suggests the phrase \"land on one's feet,\" as \"land\" is directly above \"feet\" and the \"1111\" can be interpreted as \"one's.\" \n\nSo, the correct answer is (D) land on one's feet.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on one's feet (B) put one's feet up (C) out on one's feet (D) land on one's feet",
-    "answer": {
-        "D": "land on one's feet"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"LAND\" above the number \"1111\" and the word \"FEET.\" This suggests the phrase \"land on one's feet,\" as \"land\" is directly above \"feet\" and the \"1111\" can be interpreted as \"one's.\" \n\nSo, the correct answer is (D) land on one's feet.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on one's feet (B) put one's feet up (C) out on one's feet (D) land on one's feet",
+   "answer": {
+      "D": "land on one's feet"
+   },
+   "extracted_response": "D) land on one's feet"
 }

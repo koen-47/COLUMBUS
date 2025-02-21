@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (B) head start.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head-on (B) head start (C) come to a head (D) head to toe",
-    "answer": {
-        "B": "head start"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) head start.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head-on (B) head start (C) come to a head (D) head to toe",
+   "answer": {
+      "B": "head start"
+   },
+   "extracted_response": "B) head start"
 }

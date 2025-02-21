@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The phrase conveyed in the image is (B) wind back the clock.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn back the clock (B) wind back the clock (C) turn the clock back (D) put the clock back",
-    "answer": {
-        "B": "wind back the clock"
-    }
+   "gpt4v_response": "The phrase conveyed in the image is (B) wind back the clock.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn back the clock (B) wind back the clock (C) turn the clock back (D) put the clock back",
+   "answer": {
+      "B": "wind back the clock"
+   },
+   "extracted_response": "B) wind back the clock"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) melt in the mouth.\n\nThe image shows the word \"MELT\" with lips on either side.  This visually represents something melting in the mouth, a common description of food that is easily dissolved and enjoyable to eat.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) butter wouldn't melt in someone's mouth (B) run at the mouth (C) melt in the mouth (D) melt into",
-    "answer": {
-        "C": "melt in the mouth"
-    }
+   "gemini_pro_response": "The correct answer is (C) melt in the mouth.\n\nThe image shows the word \"MELT\" with lips on either side.  This visually represents something melting in the mouth, a common description of food that is easily dissolved and enjoyable to eat.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) butter wouldn't melt in someone's mouth (B) run at the mouth (C) melt in the mouth (D) melt into",
+   "answer": {
+      "C": "melt in the mouth"
+   },
+   "extracted_response": "C) melt in the mouth"
 }

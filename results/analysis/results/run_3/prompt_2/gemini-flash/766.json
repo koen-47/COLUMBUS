@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) put out a fire.\n\nThe rebus shows the word \"PUT\" next to a box with a flame inside.  This visually represents \"putting\" the flame (fire) \"out\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch fire (B) pull out of the fire (C) put out a fire (D) feed the fire",
-    "answer": {
-        "C": "put out a fire"
-    }
+   "gemini_pro_response": "The answer is (C) put out a fire.\n\nThe rebus shows the word \"PUT\" next to a box with a flame inside.  This visually represents \"putting\" the flame (fire) \"out\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch fire (B) pull out of the fire (C) put out a fire (D) feed the fire",
+   "answer": {
+      "C": "put out a fire"
+   },
+   "extracted_response": "C) put out a fire"
 }

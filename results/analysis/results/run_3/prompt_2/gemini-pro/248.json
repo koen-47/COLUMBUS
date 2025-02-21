@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus is \"1111GOSHELL\".  This sounds like \"one one one one go shell\", which can be interpreted as \"one after another go shell\". This is similar in meaning to *come out of one's shell*.\n\nSo the answer is (D).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go one's own way (B) go out of one's way (C) go into one's shell (D) come out of one's shell",
-    "answer": {
-        "C": "go into one's shell"
-    }
+   "gemini_pro_response": "The rebus is \"1111GOSHELL\".  This sounds like \"one one one one go shell\", which can be interpreted as \"one after another go shell\". This is similar in meaning to *come out of one's shell*.\n\nSo the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go one's own way (B) go out of one's way (C) go into one's shell (D) come out of one's shell",
+   "answer": {
+      "C": "go into one's shell"
+   },
+   "extracted_response": "D) come out of one's shell"
 }

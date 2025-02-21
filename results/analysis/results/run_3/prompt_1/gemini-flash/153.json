@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (D) **shot across the bow**.\n\nThe image shows the word \"BOW\" with a line through it, twice.  This visually represents a \"shot across the bow,\" a warning given to someone to alert them of potential consequences if they don't change their behavior.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossbows (B) crossbow (C) bowstrings (D) shot across the bow",
-    "answer": {
-        "A": "crossbows"
-    }
+   "gemini_pro_response": "The answer is (D) **shot across the bow**.\n\nThe image shows the word \"BOW\" with a line through it, twice.  This visually represents a \"shot across the bow,\" a warning given to someone to alert them of potential consequences if they don't change their behavior.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossbows (B) crossbow (C) bowstrings (D) shot across the bow",
+   "answer": {
+      "A": "crossbows"
+   },
+   "extracted_response": "D) shot across the bow"
 }

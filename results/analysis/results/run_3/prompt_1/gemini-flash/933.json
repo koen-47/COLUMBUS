@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) kick one's heels**.\n\nThe image uses visual representation:\n\n* **1111:** Represents waiting or idling.\n* **High heel:**  Implies being in a place where one is inactive or waiting.\n* **The recycle symbol:** Suggests a repetitive or unproductive activity.\n\nTogether, these symbols suggest the idiom \"kick one's heels,\" which means to wait impatiently for something to happen.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn on one's heel (B) kick up one's heels (C) kick one's heels (D) bring to heel",
-    "answer": {
-        "A": "turn on one's heel"
-    }
+   "gemini_pro_response": "The correct answer is **(C) kick one's heels**.\n\nThe image uses visual representation:\n\n* **1111:** Represents waiting or idling.\n* **High heel:**  Implies being in a place where one is inactive or waiting.\n* **The recycle symbol:** Suggests a repetitive or unproductive activity.\n\nTogether, these symbols suggest the idiom \"kick one's heels,\" which means to wait impatiently for something to happen.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn on one's heel (B) kick up one's heels (C) kick one's heels (D) bring to heel",
+   "answer": {
+      "A": "turn on one's heel"
+   },
+   "extracted_response": "C) kick one's heels"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) have an eye for.\n\nThe rebus shows four \"I\"s stacked vertically, next to \"AN EYE\".  This can be interpreted as \"I I I I AN EYE\", which sounds like \"I have an eye\".  Therefore, the complete phrase is \"have an eye for\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one in the eye for (B) see eye to eye (C) have an eye for (D) eye for an eye",
-    "answer": {
-        "D": "eye for an eye"
-    }
+   "gemini_pro_response": "The correct answer is (C) have an eye for.\n\nThe rebus shows four \"I\"s stacked vertically, next to \"AN EYE\".  This can be interpreted as \"I I I I AN EYE\", which sounds like \"I have an eye\".  Therefore, the complete phrase is \"have an eye for\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one in the eye for (B) see eye to eye (C) have an eye for (D) eye for an eye",
+   "answer": {
+      "D": "eye for an eye"
+   },
+   "extracted_response": "C) have an eye for"
 }

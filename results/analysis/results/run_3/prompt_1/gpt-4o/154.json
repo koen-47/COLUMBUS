@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word conveyed in the image is (A) crossbreeding.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossbreeding (B) crossbreed (C) offspring (D) crossbreeds",
-    "answer": {
-        "A": "crossbreeding"
-    }
+   "gpt4v_response": "The word conveyed in the image is (A) crossbreeding.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossbreeding (B) crossbreed (C) offspring (D) crossbreeds",
+   "answer": {
+      "A": "crossbreeding"
+   },
+   "extracted_response": "A) crossbreeding"
 }

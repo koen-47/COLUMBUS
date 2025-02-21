@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The answer is (D) needless to say.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the hell you say (B) to be honest (C) to say the least (D) needless to say",
-    "answer": {
-        "D": "needless to say"
-    }
+   "gpt4v_response": "The answer is (D) needless to say.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the hell you say (B) to be honest (C) to say the least (D) needless to say",
+   "answer": {
+      "D": "needless to say"
+   },
+   "extracted_response": "D, needless to say"
 }

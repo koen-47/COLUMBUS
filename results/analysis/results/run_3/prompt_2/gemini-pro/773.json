@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word \"LIGHT\" is written in red. This signifies a **(D) red light**.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the red light (B) run a red light (C) green light (D) red light",
-    "answer": {
-        "D": "red light"
-    }
+   "gemini_pro_response": "The word \"LIGHT\" is written in red. This signifies a **(D) red light**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the red light (B) run a red light (C) green light (D) red light",
+   "answer": {
+      "D": "red light"
+   },
+   "extracted_response": "D) red light"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image represents \"hang one's hat\".  Here's why:\n\n* **G N A H + 1111 = HANG + 4 = HANG 4 = HANG FOR = HANG FOUR**\n\nThe image with the four 1s and a hat represents \"Hang four,\" which sounds like \"Hang for.\" This can be combined with the letters G, N, A, H to produce \"Hang for GNAH,\" which when spoken sounds like \"Hang for now,\" a synonym of \"Hang one's hat.\"\n\n\nThus, the answer is (D).\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tip one's hat (B) hang over one's head (C) hang up one's hat (D) hang one's hat",
-    "answer": {
-        "C": "hang up one's hat"
-    }
+   "gemini_pro_response": "The image represents \"hang one's hat\".  Here's why:\n\n* **G N A H + 1111 = HANG + 4 = HANG 4 = HANG FOR = HANG FOUR**\n\nThe image with the four 1s and a hat represents \"Hang four,\" which sounds like \"Hang for.\" This can be combined with the letters G, N, A, H to produce \"Hang for GNAH,\" which when spoken sounds like \"Hang for now,\" a synonym of \"Hang one's hat.\"\n\n\nThus, the answer is (D).\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tip one's hat (B) hang over one's head (C) hang up one's hat (D) hang one's hat",
+   "answer": {
+      "C": "hang up one's hat"
+   },
+   "extracted_response": "D) hang one's hat"
 }

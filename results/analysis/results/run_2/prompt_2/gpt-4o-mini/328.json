@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"midafternoon.\" The arrows pointing to the word \"AFTERNOON\" suggest the concept of \"mid\" (middle) of \"afternoon.\" \n\nSo the answer is (C) midafternoon.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midpoint (B) midrib (C) midafternoon (D) midribs",
-    "answer": {
-        "C": "midafternoon"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"midafternoon.\" The arrows pointing to the word \"AFTERNOON\" suggest the concept of \"mid\" (middle) of \"afternoon.\" \n\nSo the answer is (C) midafternoon.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midpoint (B) midrib (C) midafternoon (D) midribs",
+   "answer": {
+      "C": "midafternoon"
+   },
+   "extracted_response": "C) midafternoon"
 }

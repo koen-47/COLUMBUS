@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) shot across the bow.\n\nThe image shows two instances of the word \"BOW\" with a line through it.  This visually represents the phrase \"shot across the bow,\" which is an idiom meaning a warning or threat.\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossbows (B) crossbow (C) bowstrings (D) shot across the bow",
-    "answer": {
-        "A": "crossbows"
-    }
+   "gemini_pro_response": "The correct answer is (D) shot across the bow.\n\nThe image shows two instances of the word \"BOW\" with a line through it.  This visually represents the phrase \"shot across the bow,\" which is an idiom meaning a warning or threat.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossbows (B) crossbow (C) bowstrings (D) shot across the bow",
+   "answer": {
+      "A": "crossbows"
+   },
+   "extracted_response": "D) shot across the bow"
 }

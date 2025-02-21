@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) dig in one's heels**.\n\nThe rebus uses four \"1\"s to represent the word \"one\".  Therefore, \"1 1 1 1 DIG HEELS\" translates to \"one one one one dig heels\", which is a phonetic representation of \"dig in one's heels\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's heels in (B) dig heels in (C) dig in one's heels (D) take to one's heels",
-    "answer": {
-        "C": "dig in one's heels"
-    }
+   "gemini_pro_response": "The correct answer is **(C) dig in one's heels**.\n\nThe rebus uses four \"1\"s to represent the word \"one\".  Therefore, \"1 1 1 1 DIG HEELS\" translates to \"one one one one dig heels\", which is a phonetic representation of \"dig in one's heels\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's heels in (B) dig heels in (C) dig in one's heels (D) take to one's heels",
+   "answer": {
+      "C": "dig in one's heels"
+   },
+   "extracted_response": "C) dig in one's heels"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"TSER\" twice. This is an abbreviation that stands for \"Twin Sleeper Extended Recliner,\" which implies the existence of **(C) backrests**.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) armrests (B) backrest (C) backrests (D) footrests",
-    "answer": {
-        "C": "backrests"
-    }
+   "gemini_pro_response": "The image says \"TSER\" twice. This is an abbreviation that stands for \"Twin Sleeper Extended Recliner,\" which implies the existence of **(C) backrests**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) armrests (B) backrest (C) backrests (D) footrests",
+   "answer": {
+      "C": "backrests"
+   },
+   "extracted_response": "C) backrests"
 }

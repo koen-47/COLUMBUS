@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"PODROPND\".  This is a visual pun on \"A drop in the pond\". So the answer is (C).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop in the sea (B) drop in the bucket (C) drop in the pond (D) drop in the ocean",
-    "answer": {
-        "C": "drop in the pond"
-    }
+   "gemini_pro_response": "The image says \"PODROPND\".  This is a visual pun on \"A drop in the pond\". So the answer is (C).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop in the sea (B) drop in the bucket (C) drop in the pond (D) drop in the ocean",
+   "answer": {
+      "C": "drop in the pond"
+   },
+   "extracted_response": "C) drop in the pond"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"go out with a bang.\" The downward arrows suggest \"go out,\" and the text \"with bang\" completes the phrase. \n\nSo the answer is (C) go out with a bang.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bang up (B) start with a bang (C) go out with a bang (D) bang out",
-    "answer": {
-        "B": "start with a bang"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"go out with a bang.\" The downward arrows suggest \"go out,\" and the text \"with bang\" completes the phrase. \n\nSo the answer is (C) go out with a bang.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bang up (B) start with a bang (C) go out with a bang (D) bang out",
+   "answer": {
+      "B": "start with a bang"
+   },
+   "extracted_response": "C) go out with a bang"
 }

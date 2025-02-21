@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus is \"Welcome to the world.\"  The \"WO\" represents \"two Os\", which sound like \"to\". The remaining letters directly spell \"coming\" and an abbreviation of \"world\".\n\nTherefore, none of the provided options (A, B, C, or D) are correct.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) make the world go around (D) come to life",
-    "answer": {
-        "B": "coming into the world"
-    }
+   "gemini_pro_response": "The rebus is \"Welcome to the world.\"  The \"WO\" represents \"two Os\", which sound like \"to\". The remaining letters directly spell \"coming\" and an abbreviation of \"world\".\n\nTherefore, none of the provided options (A, B, C, or D) are correct.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) make the world go around (D) come to life",
+   "answer": {
+      "B": "coming into the world"
+   },
+   "extracted_response": "The rebus is \"Welcome to the world.\"  The \"WO\" represents \"two Os\", which sound like \"to\". The remaining letters directly spell \"coming\" and an abbreviation of \"world\".\n\nTherefore, none of the provided options (A, B, C, or D) are correct."
 }

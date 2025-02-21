@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) bring to bear.  The image shows the words \"BRING\" stacked vertically, with \"BEAR\" to the right, visually representing the phrase \"bring to bear\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to bear (B) bring to bear (C) loaded for bear (D) poke the bear",
-    "answer": {
-        "B": "bring to bear"
-    }
+   "gemini_pro_response": "The correct answer is (B) bring to bear.  The image shows the words \"BRING\" stacked vertically, with \"BEAR\" to the right, visually representing the phrase \"bring to bear\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to bear (B) bring to bear (C) loaded for bear (D) poke the bear",
+   "answer": {
+      "B": "bring to bear"
+   },
+   "extracted_response": "B) bring to bear"
 }

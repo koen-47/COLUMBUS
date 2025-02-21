@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows the word \"OVER\" crossed out twice, or \"OVER and OVER\".  This is a visual representation of repetition.  None of the given options fit this interpretation.  However, a common phrase that captures the idea of repetition is \"over and over again\". The closest option to this would be if one read the image to be over crossing over which resembles overcrossing.\n\nHowever, given the available options, the closest answer is (C) overcrossing.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossovers (B) crossover (C) overcrossing (D) crosscuts",
-    "answer": {
-        "A": "crossovers"
-    }
+   "gemini_pro_response": "The rebus shows the word \"OVER\" crossed out twice, or \"OVER and OVER\".  This is a visual representation of repetition.  None of the given options fit this interpretation.  However, a common phrase that captures the idea of repetition is \"over and over again\". The closest option to this would be if one read the image to be over crossing over which resembles overcrossing.\n\nHowever, given the available options, the closest answer is (C) overcrossing.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossovers (B) crossover (C) overcrossing (D) crosscuts",
+   "answer": {
+      "A": "crossovers"
+   },
+   "extracted_response": "C) overcrossing"
 }

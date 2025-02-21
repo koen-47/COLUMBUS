@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts a nighttime cityscape with a crescent moon and stars, indicating it's nighttime. The arrows pointing in and out likely symbolize zooming or focusing. Therefore, the best fit is (A) after dark.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) after dark (B) dark cloud (C) shot in the dark (D) in the dark",
-    "answer": {
-        "A": "after dark"
-    }
+   "gemini_pro_response": "The image depicts a nighttime cityscape with a crescent moon and stars, indicating it's nighttime. The arrows pointing in and out likely symbolize zooming or focusing. Therefore, the best fit is (A) after dark.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) after dark (B) dark cloud (C) shot in the dark (D) in the dark",
+   "answer": {
+      "A": "after dark"
+   },
+   "extracted_response": "A) after dark"
 }

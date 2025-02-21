@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows two \"20\"s and a \"12\".  This represents the idiom \"twenty to the dozen\", which means to talk rapidly and incessantly.  So the answer is (C).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) decimal dozen (B) cheaper by the dozen (C) twenty to the dozen (D) a dime a dozen",
-    "answer": {
-        "C": "twenty to the dozen"
-    }
+   "gemini_pro_response": "The image shows two \"20\"s and a \"12\".  This represents the idiom \"twenty to the dozen\", which means to talk rapidly and incessantly.  So the answer is (C).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) decimal dozen (B) cheaper by the dozen (C) twenty to the dozen (D) a dime a dozen",
+   "answer": {
+      "C": "twenty to the dozen"
+   },
+   "extracted_response": "C) twenty to the dozen"
 }

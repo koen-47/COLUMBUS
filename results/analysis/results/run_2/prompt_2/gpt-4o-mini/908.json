@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"HOUSE\" above the word \"HILL,\" which suggests a relationship between the two. The phrase that best fits this representation is:\n\n(C) the big house on the hill.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) king of the hill (B) hill to die on (C) the big house on the hill (D) over the hill",
-    "answer": {
-        "C": "the big house on the hill"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"HOUSE\" above the word \"HILL,\" which suggests a relationship between the two. The phrase that best fits this representation is:\n\n(C) the big house on the hill.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) king of the hill (B) hill to die on (C) the big house on the hill (D) over the hill",
+   "answer": {
+      "C": "the big house on the hill"
+   },
+   "extracted_response": "C"
 }

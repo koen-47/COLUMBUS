@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows \"RUN RUN EARTH\".  This represents \"run around the earth\".  None of the given options are \"run around the earth\". However, two of the phrases have similar meanings. The word \"around\" can be replaced with \"to\" without losing much of the meaning. Option A, \"run to earth\", means to find something after searching thoroughly. Option B means to become realistic. Therefore, if the rebus was \"run around the earth\", the closest answer would be A, \"run to earth\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to earth (B) come down to earth (C) run into the ground (D) run to",
-    "answer": {
-        "A": "run to earth"
-    }
+   "gemini_pro_response": "The rebus shows \"RUN RUN EARTH\".  This represents \"run around the earth\".  None of the given options are \"run around the earth\". However, two of the phrases have similar meanings. The word \"around\" can be replaced with \"to\" without losing much of the meaning. Option A, \"run to earth\", means to find something after searching thoroughly. Option B means to become realistic. Therefore, if the rebus was \"run around the earth\", the closest answer would be A, \"run to earth\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to earth (B) come down to earth (C) run into the ground (D) run to",
+   "answer": {
+      "A": "run to earth"
+   },
+   "extracted_response": "A"
 }

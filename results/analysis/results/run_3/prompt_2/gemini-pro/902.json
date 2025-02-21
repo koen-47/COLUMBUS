@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows two bucks.  This represents \"a couple of bucks\" or in other words (A) **the big bucks**.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the big bucks (B) buckskin (C) bucksaws (D) bighorns",
-    "answer": {
-        "A": "the big bucks"
-    }
+   "gemini_pro_response": "The image shows two bucks.  This represents \"a couple of bucks\" or in other words (A) **the big bucks**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the big bucks (B) buckskin (C) bucksaws (D) bighorns",
+   "answer": {
+      "A": "the big bucks"
+   },
+   "extracted_response": "The image shows two bucks.  This represents \"a couple of bucks\" or in other words (A) **the big bucks**."
 }

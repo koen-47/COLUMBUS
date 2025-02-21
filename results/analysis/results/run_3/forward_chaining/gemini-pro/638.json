@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The text \"FAFLYCE\" can be interpreted as \"F A FLY CE\", which sounds like \"Eff a fly, see?\".  This is close to \"fly in the face of,\" which means to openly resist or oppose someone or something.\n\nTherefore, the answer is (B).\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_FAFLYCE\",\n  \"description\": \"The text 'FAFLYCE' is written in capital letters.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) fly by (B) fly in the face of (C) fly on the wall (D) hurt a fly\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "fly in the face of"
+    }
+}

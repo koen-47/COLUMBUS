@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **what's in it for me**.\n\nThe rebus uses the repetition of \"IT\" to represent \"in it\".  The phrase \"WHAT'S ME\" is added to complete the sentence.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nothing for it (B) in for it (C) what's it to you (D) what's in it for me",
-    "answer": {
-        "D": "what's in it for me"
-    }
+   "gemini_pro_response": "The correct answer is (D) **what's in it for me**.\n\nThe rebus uses the repetition of \"IT\" to represent \"in it\".  The phrase \"WHAT'S ME\" is added to complete the sentence.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nothing for it (B) in for it (C) what's it to you (D) what's in it for me",
+   "answer": {
+      "D": "what's in it for me"
+   },
+   "extracted_response": "D) what's in it for me"
 }

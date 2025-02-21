@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"GECLICKAR,\" which sounds like \"click into gear\" when pronounced. Thus, the answer is (A).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) click into gear (B) find another gear (C) second gear (D) fourth gear",
-    "answer": {
-        "A": "click into gear"
-    }
+   "gemini_pro_response": "The image says \"GECLICKAR,\" which sounds like \"click into gear\" when pronounced. Thus, the answer is (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) click into gear (B) find another gear (C) second gear (D) fourth gear",
+   "answer": {
+      "A": "click into gear"
+   },
+   "extracted_response": "A) click into gear"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"hit too close to home.\" The repeated \"HIT CLOSE\" suggests hitting something that is close, and the presence of \"HOME\" reinforces the idea of proximity to home. Therefore, the answer is (A) hit too close to home.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hit too close to home (B) home away from home (C) close to home (D) hit home",
-    "answer": {
-        "A": "hit too close to home"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"hit too close to home.\" The repeated \"HIT CLOSE\" suggests hitting something that is close, and the presence of \"HOME\" reinforces the idea of proximity to home. Therefore, the answer is (A) hit too close to home.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hit too close to home (B) home away from home (C) close to home (D) hit home",
+   "answer": {
+      "A": "hit too close to home"
+   },
+   "extracted_response": "A) hit too close to home"
 }

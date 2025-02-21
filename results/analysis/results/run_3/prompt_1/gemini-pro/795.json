@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image displays \"FAMRUNILY\", a combination of \"family\" and \"run\". This points to the phrase \"run in the family\" (C), which means a characteristic or trait is common among family members.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for one's life (B) run with (C) run in the family (D) start a family",
-    "answer": {
-        "C": "run in the family"
-    }
+   "gemini_pro_response": "The image displays \"FAMRUNILY\", a combination of \"family\" and \"run\". This points to the phrase \"run in the family\" (C), which means a characteristic or trait is common among family members.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for one's life (B) run with (C) run in the family (D) start a family",
+   "answer": {
+      "C": "run in the family"
+   },
+   "extracted_response": "C"
 }

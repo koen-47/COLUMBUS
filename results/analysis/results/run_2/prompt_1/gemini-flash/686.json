@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) middleman.\n\nThe image shows a person's head positioned between two arrows pointing up and down.  This visually represents someone in the middle, acting as an intermediary, which is the definition of a middleman.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midshipman (B) middlemen (C) main man (D) middleman",
-    "answer": {
-        "D": "middleman"
-    }
+   "gemini_pro_response": "The correct answer is (D) middleman.\n\nThe image shows a person's head positioned between two arrows pointing up and down.  This visually represents someone in the middle, acting as an intermediary, which is the definition of a middleman.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midshipman (B) middlemen (C) main man (D) middleman",
+   "answer": {
+      "D": "middleman"
+   },
+   "extracted_response": "D) middleman"
 }

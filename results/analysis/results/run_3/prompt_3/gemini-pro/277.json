@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"BRING\" twice, suggesting repetition. The description clarifies this with \"repeat: 2\" and adds \"sound: (to: 2),\" indicating a change to the sound or meaning, specifically to \"to.\"  Combined with the word \"HAMMER,\" the rebus conveys \"bring to the hammer.\"\n\nSo the answer is (C).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BRING, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: HAMMER, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bring down the hammer (B) nail the hammer on the head (C) bring to the hammer (D) put the hammer down",
-    "answer": {
-        "C": "bring to the hammer"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"BRING\" twice, suggesting repetition. The description clarifies this with \"repeat: 2\" and adds \"sound: (to: 2),\" indicating a change to the sound or meaning, specifically to \"to.\"  Combined with the word \"HAMMER,\" the rebus conveys \"bring to the hammer.\"\n\nSo the answer is (C).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BRING, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: HAMMER, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bring down the hammer (B) nail the hammer on the head (C) bring to the hammer (D) put the hammer down",
+   "answer": {
+      "C": "bring to the hammer"
+   },
+   "extracted_response": "C) bring to the hammer"
 }

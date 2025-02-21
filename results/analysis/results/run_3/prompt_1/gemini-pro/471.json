@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase \"get cases\".  Vertically, the letters \"G,\" \"E,\" and \"T\" spell \"GET.\"  Thus, the answer is (B).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) caseworkers (B) get down to cases (C) build a case (D) put case",
-    "answer": {
-        "B": "get down to cases"
-    }
+   "gemini_pro_response": "The image conveys the phrase \"get cases\".  Vertically, the letters \"G,\" \"E,\" and \"T\" spell \"GET.\"  Thus, the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) caseworkers (B) get down to cases (C) build a case (D) put case",
+   "answer": {
+      "B": "get down to cases"
+   },
+   "extracted_response": "B) get down to cases"
 }

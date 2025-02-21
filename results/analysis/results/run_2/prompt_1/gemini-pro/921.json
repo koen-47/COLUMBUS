@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus represents \"too big for one's boots.\"  The image shows two \"big\" boots.  Thus the answer is (A).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) too big for one's boots (B) kicking boots (C) fill one's boots (D) hang up one's boots",
-    "answer": {
-        "A": "too big for one's boots"
-    }
+   "gemini_pro_response": "The rebus represents \"too big for one's boots.\"  The image shows two \"big\" boots.  Thus the answer is (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) too big for one's boots (B) kicking boots (C) fill one's boots (D) hang up one's boots",
+   "answer": {
+      "A": "too big for one's boots"
+   },
+   "extracted_response": "A) too big for one's boots"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"OCDROPEAN\", which sounds like \"a drop in the ocean\" when spoken aloud. So the answer is (A).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a drop in the ocean (B) cross the ocean (C) drop in the pond (D) spit in the ocean",
-    "answer": {
-        "A": "a drop in the ocean"
-    }
+   "gemini_pro_response": "The image says \"OCDROPEAN\", which sounds like \"a drop in the ocean\" when spoken aloud. So the answer is (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a drop in the ocean (B) cross the ocean (C) drop in the pond (D) spit in the ocean",
+   "answer": {
+      "A": "a drop in the ocean"
+   },
+   "extracted_response": "A) a drop in the ocean"
 }

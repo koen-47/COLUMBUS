@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"AGES\" repeated multiple times. This suggests a focus on the concept of \"ages.\" Therefore, the correct answer is:\n\n(C) ages",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for the ages (B) of age (C) ages (D) for the book",
-    "answer": {
-        "A": "for the ages"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"AGES\" repeated multiple times. This suggests a focus on the concept of \"ages.\" Therefore, the correct answer is:\n\n(C) ages",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for the ages (B) of age (C) ages (D) for the book",
+   "answer": {
+      "A": "for the ages"
+   },
+   "extracted_response": "C) ages"
 }

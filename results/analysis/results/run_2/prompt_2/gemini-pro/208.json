@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (A) chum in the water.\n\nThe image shows the word \"CHUM\" surrounded by two icons depicting waves.  This visually represents \"chum\" being in the \"water.\"",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chum in the water (B) straight out of the chute (C) out of the chute (D) chum up",
-    "answer": {
-        "A": "chum in the water"
-    }
+   "gemini_pro_response": "The answer is (A) chum in the water.\n\nThe image shows the word \"CHUM\" surrounded by two icons depicting waves.  This visually represents \"chum\" being in the \"water.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chum in the water (B) straight out of the chute (C) out of the chute (D) chum up",
+   "answer": {
+      "A": "chum in the water"
+   },
+   "extracted_response": "A) chum in the water"
 }

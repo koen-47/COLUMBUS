@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (B) throw a spanner in the works.\n\nA spanner (wrench) is visually placed within the word \"works,\" suggesting the idiom \"throw a spanner in the works,\" which means to disrupt or sabotage something.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spanner in the works (B) throw a spanner in the works (C) spick and span (D) spick-and-span",
-    "answer": {
-        "A": "spanner in the works"
-    }
+   "gemini_pro_response": "The image conveys (B) throw a spanner in the works.\n\nA spanner (wrench) is visually placed within the word \"works,\" suggesting the idiom \"throw a spanner in the works,\" which means to disrupt or sabotage something.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spanner in the works (B) throw a spanner in the works (C) spick and span (D) spick-and-span",
+   "answer": {
+      "A": "spanner in the works"
+   },
+   "extracted_response": "B) throw a spanner in the works"
 }

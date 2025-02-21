@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"GLOW\" with arrows pointing downwards, indicating a repetition of the concept. This suggests the phrase \"afterglow\" or \"afterimages.\" \n\nGiven the options, the best fit is (C) afterimage, as it relates to the concept of a glow that persists after the original stimulus is removed. \n\nSo, the answer is (C) afterimage.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) afterglow (B) afterglows (C) afterimage (D) afterimages",
-    "answer": {
-        "B": "afterglows"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"GLOW\" with arrows pointing downwards, indicating a repetition of the concept. This suggests the phrase \"afterglow\" or \"afterimages.\" \n\nGiven the options, the best fit is (C) afterimage, as it relates to the concept of a glow that persists after the original stimulus is removed. \n\nSo, the answer is (C) afterimage.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) afterglow (B) afterglows (C) afterimage (D) afterimages",
+   "answer": {
+      "B": "afterglows"
+   },
+   "extracted_response": "C) afterimage"
 }

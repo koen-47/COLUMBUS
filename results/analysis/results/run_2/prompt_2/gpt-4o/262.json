@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The answer is (A) break into a run.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break into a run (B) run with (C) run off (D) take a run at",
-    "answer": {
-        "A": "break into a run"
-    }
+   "gpt4v_response": "The answer is (A) break into a run.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break into a run (B) run with (C) run off (D) take a run at",
+   "answer": {
+      "A": "break into a run"
+   },
+   "extracted_response": "A) break into a run"
 }

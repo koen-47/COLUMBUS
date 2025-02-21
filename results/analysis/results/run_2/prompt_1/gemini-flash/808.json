@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The best answer is (C) **run off**.\n\nThe image shows a person running away from the town.  \"Run off\" implies a hasty departure, often to escape something. While \"run out of town\" could also fit, \"run off\" is a more concise and idiomatic description of the visual.  The other options don't match the visual as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of town (B) out on the town (C) run off (D) run out",
-    "answer": {
-        "A": "run out of town"
-    }
+   "gemini_pro_response": "The best answer is (C) **run off**.\n\nThe image shows a person running away from the town.  \"Run off\" implies a hasty departure, often to escape something. While \"run out of town\" could also fit, \"run off\" is a more concise and idiomatic description of the visual.  The other options don't match the visual as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run out of town (B) out on the town (C) run off (D) run out",
+   "answer": {
+      "A": "run out of town"
+   },
+   "extracted_response": "C) run off"
 }

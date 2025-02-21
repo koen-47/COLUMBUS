@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "A) gray hat",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gray hat (B) old hat (C) hat hair (D) white hat",
-    "answer": {
-        "A": "gray hat"
-    }
+   "gpt4v_response": "A) gray hat",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gray hat (B) old hat (C) hat hair (D) white hat",
+   "answer": {
+      "A": "gray hat"
+   },
+   "extracted_response": "A) gray hat"
 }

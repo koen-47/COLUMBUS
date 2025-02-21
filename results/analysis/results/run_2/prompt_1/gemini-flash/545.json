@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) give someone what for**.  The image visually represents the phrase by arranging the words \"GIVE\" and three repetitions of \"WHAT\" to create the idiom.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone what-for (B) give what for (C) give someone what for (D) what for",
-    "answer": {
-        "B": "give what for"
-    }
+   "gemini_pro_response": "The correct answer is **(C) give someone what for**.  The image visually represents the phrase by arranging the words \"GIVE\" and three repetitions of \"WHAT\" to create the idiom.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone what-for (B) give what for (C) give someone what for (D) what for",
+   "answer": {
+      "B": "give what for"
+   },
+   "extracted_response": "C) give someone what for"
 }

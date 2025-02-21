@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) play to win.\n\nThe rebus shows the word \"PLAY\" stacked on top of the word \"PLAY\", with the word \"WIN\" to the right.  This visually represents \"Play to win\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) win over (B) play to win (C) play for time (D) play ball",
-    "answer": {
-        "B": "play to win"
-    }
+   "gemini_pro_response": "The correct answer is (B) play to win.\n\nThe rebus shows the word \"PLAY\" stacked on top of the word \"PLAY\", with the word \"WIN\" to the right.  This visually represents \"Play to win\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) win over (B) play to win (C) play for time (D) play ball",
+   "answer": {
+      "B": "play to win"
+   },
+   "extracted_response": "B) play to win"
 }

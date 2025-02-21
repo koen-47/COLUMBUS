@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) go to bat.\n\nHere's why:\n\nThe image shows the words \"GO\" above \"GO\" and \"BAT\" to the right.  This directly translates to the phrase \"GO TO BAT\".  The other options don't align with the visual representation of words in the image.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"GO\",\n    \"description\": \"The word 'GO' written in uppercase letters.\",\n    \"relation\": \"Appears at the top left of the image.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"BAT\",\n    \"description\": \"The word 'BAT' written in uppercase letters.\",\n    \"relation\": \"Appears at the top right of the image, aligned with the word 'GO'.\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"GO\",\n    \"description\": \"The word 'GO' written in uppercase letters.\",\n    \"relation\": \"Appears at the bottom left of the image, directly below the first 'GO'.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) go to bat (B) off one's own bat (C) bat for the other team (D) bat five hundred\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "go to bat"
+    }
+}

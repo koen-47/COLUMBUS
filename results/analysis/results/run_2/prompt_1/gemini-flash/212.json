@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(C) cat in the sack**.\n\nThe letters in \"SACATCK\" can be rearranged to spell \"CAT IN SACK\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the cat's out of the bag (B) in the sack (C) cat in the sack (D) the cat's pajamas",
-    "answer": {
-        "C": "cat in the sack"
-    }
+   "gemini_pro_response": "The answer is **(C) cat in the sack**.\n\nThe letters in \"SACATCK\" can be rearranged to spell \"CAT IN SACK\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the cat's out of the bag (B) in the sack (C) cat in the sack (D) the cat's pajamas",
+   "answer": {
+      "C": "cat in the sack"
+   },
+   "extracted_response": "C) cat in the sack"
 }

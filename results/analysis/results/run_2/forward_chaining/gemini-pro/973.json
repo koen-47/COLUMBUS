@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows a stick figure walking on a line above the word \"EGGSHELLS\". This translates to \"walk\" on \"eggshells\". Thus, the answer is (D).\n\nHere's how the JSON maps to the answer:\n* **Stick figure walking:** Represents \"walk\"\n* **Line:** Represents \"on\"\n* **EGGSHELLS:** Represents \"eggshells\"\n\nCombining these elements gives us the phrase \"walk on eggshells\". Options (A), (B), and (C) do not represent all the elements present in the image together.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"stick_figure\",\n        \"description\": \"A small stick figure walking.\",\n        \"relation\": \"above the line\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"line\",\n        \"description\": \"A horizontal line.\",\n        \"relation\": \"below the stick figure and above the text\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"text\",\n        \"description\": \"The word 'EGGSHELLS' in uppercase.\",\n        \"relation\": \"below the line\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) eggshells (B) eggshell (C) cake walk (D) walk on eggshells\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "walk on eggshells"
+    }
+}

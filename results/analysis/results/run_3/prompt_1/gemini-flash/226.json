@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) have a mountain to climb.\n\nThe image shows the words \"HAVE\" and \"CLIMB\" flanking a picture of a mountain.  This directly represents the idiom \"have a mountain to climb,\" which means to face a significant challenge or difficulty.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) climb down (B) make a mountain out of a molehill (C) have a mountain to climb (D) move mountains",
-    "answer": {
-        "C": "have a mountain to climb"
-    }
+   "gemini_pro_response": "The correct answer is (C) have a mountain to climb.\n\nThe image shows the words \"HAVE\" and \"CLIMB\" flanking a picture of a mountain.  This directly represents the idiom \"have a mountain to climb,\" which means to face a significant challenge or difficulty.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) climb down (B) make a mountain out of a molehill (C) have a mountain to climb (D) move mountains",
+   "answer": {
+      "C": "have a mountain to climb"
+   },
+   "extracted_response": "C) have a mountain to climb"
 }

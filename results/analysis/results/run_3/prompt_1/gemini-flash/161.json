@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(C) crosswind**.\n\nThe image shows the word \"WIND\" with a line crossing through it.  This visually represents a \"crosswind,\" a wind blowing from the side.  The other options don't fit the visual representation.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crosswinds (B) sidewinders (C) crosswind (D) break wind",
-    "answer": {
-        "A": "crosswinds"
-    }
+   "gemini_pro_response": "The answer is **(C) crosswind**.\n\nThe image shows the word \"WIND\" with a line crossing through it.  This visually represents a \"crosswind,\" a wind blowing from the side.  The other options don't fit the visual representation.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crosswinds (B) sidewinders (C) crosswind (D) break wind",
+   "answer": {
+      "A": "crosswinds"
+   },
+   "extracted_response": "C, crosswind"
 }

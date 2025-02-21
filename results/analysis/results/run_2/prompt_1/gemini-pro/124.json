@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B).\n\nThe image is a word puzzle.  Reading across gives \"STAIR RODS\" and reading down gives \"COME.\"  Putting these together creates the phrase \"COME DOWN IN STAIR RODS.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) staircase (B) come down in stair rods (C) stairwells (D) come down",
-    "answer": {
-        "B": "come down in stair rods"
-    }
+   "gemini_pro_response": "The answer is (B).\n\nThe image is a word puzzle.  Reading across gives \"STAIR RODS\" and reading down gives \"COME.\"  Putting these together creates the phrase \"COME DOWN IN STAIR RODS.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) staircase (B) come down in stair rods (C) stairwells (D) come down",
+   "answer": {
+      "B": "come down in stair rods"
+   },
+   "extracted_response": "B"
 }

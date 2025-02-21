@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the letters D, N, and E arranged vertically. This represents **(D) come to an end**.  It's a visual pun, as the letters are at the *end* of the word \"done\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) end of (B) end up (C) put an end to (D) come to an end",
-    "answer": {
-        "B": "end up"
-    }
+   "gemini_pro_response": "The image shows the letters D, N, and E arranged vertically. This represents **(D) come to an end**.  It's a visual pun, as the letters are at the *end* of the word \"done\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) end of (B) end up (C) put an end to (D) come to an end",
+   "answer": {
+      "B": "end up"
+   },
+   "extracted_response": "D) come to an end"
 }

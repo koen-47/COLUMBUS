@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"PLAY\" repeated four times, followed by the word \"LOVE\". This corresponds to the graph description where \"PLAY\" has the attribute (repeat: 4, sound: (for: 4)). This means we say \"PLAY\" four times, interpreted as \"PLAY for 4\". The word \"LOVE\" is next to the last \"PLAY\".  Together, it translates to \"PLAY for LOVE\".\n\nThus, the correct answer is (B) play for love.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: PLAY, repeat: 4, sound: (for: 4))\nNode 2 attributes: (text: LOVE, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) play along (B) play for love (C) play up (D) play for time",
-    "answer": {
-        "B": "play for love"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"PLAY\" repeated four times, followed by the word \"LOVE\". This corresponds to the graph description where \"PLAY\" has the attribute (repeat: 4, sound: (for: 4)). This means we say \"PLAY\" four times, interpreted as \"PLAY for 4\". The word \"LOVE\" is next to the last \"PLAY\".  Together, it translates to \"PLAY for LOVE\".\n\nThus, the correct answer is (B) play for love.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: PLAY, repeat: 4, sound: (for: 4))\nNode 2 attributes: (text: LOVE, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) play along (B) play for love (C) play up (D) play for time",
+   "answer": {
+      "B": "play for love"
+   },
+   "extracted_response": "B) play for love"
 }

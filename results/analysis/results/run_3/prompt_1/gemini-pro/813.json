@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"Run Run\", which implies continuous running or running around, so the best fit is (C) run about.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to (B) run with (C) run about (D) run past",
-    "answer": {
-        "A": "run to"
-    }
+   "gemini_pro_response": "The image conveys \"Run Run\", which implies continuous running or running around, so the best fit is (C) run about.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to (B) run with (C) run about (D) run past",
+   "answer": {
+      "A": "run to"
+   },
+   "extracted_response": "C) run about"
 }

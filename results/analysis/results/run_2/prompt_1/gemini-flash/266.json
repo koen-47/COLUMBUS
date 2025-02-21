@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) bring down the hammer**.\n\nThe image shows the word \"BRING\" twice, visually suggesting the action of bringing something down.  The hammer icon reinforces the idea of forceful action or decisive judgment, which is the essence of \"bring down the hammer.\"\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bring to the hammer (B) nail the hammer on the head (C) bring down the hammer (D) put the hammer down",
-    "answer": {
-        "A": "bring to the hammer"
-    }
+   "gemini_pro_response": "The correct answer is **(C) bring down the hammer**.\n\nThe image shows the word \"BRING\" twice, visually suggesting the action of bringing something down.  The hammer icon reinforces the idea of forceful action or decisive judgment, which is the essence of \"bring down the hammer.\"\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bring to the hammer (B) nail the hammer on the head (C) bring down the hammer (D) put the hammer down",
+   "answer": {
+      "A": "bring to the hammer"
+   },
+   "extracted_response": "C"
 }

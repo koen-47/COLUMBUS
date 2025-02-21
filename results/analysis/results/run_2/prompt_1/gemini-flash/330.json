@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) **shot across the bow**.\n\nThe image shows the word \"BOW\" with a line through it, visually representing something being \"shot across the bow\".  This is an idiom meaning a warning or threat.  The other options are related to bows (as in archery or a courteous gesture), but don't convey the same meaning.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shot across the bow (B) crossbows (C) take a bow (D) crossbow",
-    "answer": {
-        "D": "crossbow"
-    }
+   "gemini_pro_response": "The correct answer is (A) **shot across the bow**.\n\nThe image shows the word \"BOW\" with a line through it, visually representing something being \"shot across the bow\".  This is an idiom meaning a warning or threat.  The other options are related to bows (as in archery or a courteous gesture), but don't convey the same meaning.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shot across the bow (B) crossbows (C) take a bow (D) crossbow",
+   "answer": {
+      "D": "crossbow"
+   },
+   "extracted_response": "A) shot across the bow"
 }

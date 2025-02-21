@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the idiom \"**ear to the ground (C)**\".  It visually represents having one's ear close to the ground, which is the literal interpretation of the idiom meaning to pay attention to rumors or information circulating among people.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up on one's ear (B) give ear (C) ear to the ground (D) play by ear",
-    "answer": {
-        "C": "ear to the ground"
-    }
+   "gemini_pro_response": "The image conveys the idiom \"**ear to the ground (C)**\".  It visually represents having one's ear close to the ground, which is the literal interpretation of the idiom meaning to pay attention to rumors or information circulating among people.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up on one's ear (B) give ear (C) ear to the ground (D) play by ear",
+   "answer": {
+      "C": "ear to the ground"
+   },
+   "extracted_response": "C"
 }

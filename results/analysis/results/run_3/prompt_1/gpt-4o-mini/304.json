@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) cross my heart.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have one's heart in (B) cross my heart and hope to die (C) cross my heart (D) cross one's heart",
-    "answer": {
-        "D": "cross one's heart"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) cross my heart.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have one's heart in (B) cross my heart and hope to die (C) cross my heart (D) cross one's heart",
+   "answer": {
+      "D": "cross one's heart"
+   },
+   "extracted_response": "C"
 }

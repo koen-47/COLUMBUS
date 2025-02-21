@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) once and for all.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for this once (B) for once (C) once and for all (D) once again",
-    "answer": {
-        "B": "for once"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) once and for all.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for this once (B) for once (C) once and for all (D) once again",
+   "answer": {
+      "B": "for once"
+   },
+   "extracted_response": "C) once and for all"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **have other fish to fry**.\n\nThe image depicts a single fish with the word \"FRY\" written twice next to it.  This visually represents the idiom \"have other fish to fry,\" meaning to have other things to do or attend to that are more important.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish to fry (B) bigger fish to fry (C) have other fish to fry (D) big fish",
-    "answer": {
-        "B": "bigger fish to fry"
-    }
+   "gemini_pro_response": "The correct answer is (C) **have other fish to fry**.\n\nThe image depicts a single fish with the word \"FRY\" written twice next to it.  This visually represents the idiom \"have other fish to fry,\" meaning to have other things to do or attend to that are more important.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish to fry (B) bigger fish to fry (C) have other fish to fry (D) big fish",
+   "answer": {
+      "B": "bigger fish to fry"
+   },
+   "extracted_response": "C) have other fish to fry"
 }

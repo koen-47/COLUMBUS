@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows two people running towards the Earth. This best corresponds to **(B) run to earth**.\n\nHere's why the other options are less suitable:\n\n* **(A) come down to earth:** This idiom means to become realistic or practical. The image doesn't convey this meaning.\n* **(C) run to:** While the people are running *towards* something, \"run to\" is incomplete and needs an object (e.g., \"run to the store\").\n* **(D) run into the ground:** This idiom means to overuse or exploit something to the point of ruin. The image doesn't suggest this.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down to earth (B) run to earth (C) run to (D) run into the ground",
-    "answer": {
-        "B": "run to earth"
-    }
+   "gemini_pro_response": "The image shows two people running towards the Earth. This best corresponds to **(B) run to earth**.\n\nHere's why the other options are less suitable:\n\n* **(A) come down to earth:** This idiom means to become realistic or practical. The image doesn't convey this meaning.\n* **(C) run to:** While the people are running *towards* something, \"run to\" is incomplete and needs an object (e.g., \"run to the store\").\n* **(D) run into the ground:** This idiom means to overuse or exploit something to the point of ruin. The image doesn't suggest this.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down to earth (B) run to earth (C) run to (D) run into the ground",
+   "answer": {
+      "B": "run to earth"
+   },
+   "extracted_response": "B) run to earth"
 }

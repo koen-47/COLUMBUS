@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (B) fall out with.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall into (B) fall out with (C) fall out (D) falling out",
-    "answer": {
-        "B": "fall out with"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) fall out with.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall into (B) fall out with (C) fall out (D) falling out",
+   "answer": {
+      "B": "fall out with"
+   },
+   "extracted_response": "B) fall out with"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) for reasons.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on purpose (B) for crying out loud (C) for reasons (D) for XYZ reasons",
-    "answer": {
-        "C": "for reasons"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) for reasons.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on purpose (B) for crying out loud (C) for reasons (D) for XYZ reasons",
+   "answer": {
+      "C": "for reasons"
+   },
+   "extracted_response": "C) for reasons"
 }

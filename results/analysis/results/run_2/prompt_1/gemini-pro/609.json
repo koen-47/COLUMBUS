@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image represents four eyes (four instances of the word \"EYE\") and then the words \"AN\" and \"I\".  This spells out \"one in the eye for\". So the answer is (A).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one in the eye for (B) have an eye for (C) see eye to eye (D) eye for an eye",
-    "answer": {
-        "D": "eye for an eye"
-    }
+   "gemini_pro_response": "The image represents four eyes (four instances of the word \"EYE\") and then the words \"AN\" and \"I\".  This spells out \"one in the eye for\". So the answer is (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one in the eye for (B) have an eye for (C) see eye to eye (D) eye for an eye",
+   "answer": {
+      "D": "eye for an eye"
+   },
+   "extracted_response": "A"
 }

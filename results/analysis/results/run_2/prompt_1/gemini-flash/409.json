@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (A) **row in the same boat**.\n\nThe image shows the word \"WOR\", which is a visual representation of \"ROW\" (the image is missing the letter D)  The phrase \"row in the same boat\" means to be in the same difficult situation.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) row in the same boat (B) skid row (C) in a row (D) row back",
-    "answer": {
-        "D": "row back"
-    }
+   "gemini_pro_response": "The answer is (A) **row in the same boat**.\n\nThe image shows the word \"WOR\", which is a visual representation of \"ROW\" (the image is missing the letter D)  The phrase \"row in the same boat\" means to be in the same difficult situation.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) row in the same boat (B) skid row (C) in a row (D) row back",
+   "answer": {
+      "D": "row back"
+   },
+   "extracted_response": "A) row in the same boat"
 }

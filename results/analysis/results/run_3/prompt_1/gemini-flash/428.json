@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) set in one's ways.\n\nThe image shows \"1111SETWAYS\".  The repeated \"1\"s visually represent being \"set\" and \"SETWAYS\" is a pun on \"set in one's ways\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in ways (B) mend one's ways (C) set in one's ways (D) make one's way",
-    "answer": {
-        "C": "set in one's ways"
-    }
+   "gemini_pro_response": "The correct answer is (C) set in one's ways.\n\nThe image shows \"1111SETWAYS\".  The repeated \"1\"s visually represent being \"set\" and \"SETWAYS\" is a pun on \"set in one's ways\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in ways (B) mend one's ways (C) set in one's ways (D) make one's way",
+   "answer": {
+      "C": "set in one's ways"
+   },
+   "extracted_response": "C) set in one's ways"
 }

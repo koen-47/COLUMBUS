@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus represents \"high and dry.\" The word \"HIGH\" is presented, and the word \"DRY\" is placed a space away from it. This spacing suggests the word \"and\" between them.\n\nSo the correct answer is (D).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the dry (B) left high and dry (C) leave someone high and dry (D) high and dry",
-    "answer": {
-        "B": "left high and dry"
-    }
+   "gemini_pro_response": "The rebus represents \"high and dry.\" The word \"HIGH\" is presented, and the word \"DRY\" is placed a space away from it. This spacing suggests the word \"and\" between them.\n\nSo the correct answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the dry (B) left high and dry (C) leave someone high and dry (D) high and dry",
+   "answer": {
+      "B": "left high and dry"
+   },
+   "extracted_response": "D) high and dry"
 }

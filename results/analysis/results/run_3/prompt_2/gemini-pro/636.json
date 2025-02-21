@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus is \"one one one one one flea ear\". This sounds like \"one-one-one-one-one flee ear\", or  \"one after the other flee ear\". This suggests that there is one or multiple fleas in the ear that needs to flee.  Therefore, the answer is (D) flea in one's ear.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) earworm (B) not hurt a fly or flea (C) put a bug in someone's ear (D) flea in one's ear",
-    "answer": {
-        "D": "flea in one's ear"
-    }
+   "gemini_pro_response": "The rebus is \"one one one one one flea ear\". This sounds like \"one-one-one-one-one flee ear\", or  \"one after the other flee ear\". This suggests that there is one or multiple fleas in the ear that needs to flee.  Therefore, the answer is (D) flea in one's ear.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) earworm (B) not hurt a fly or flea (C) put a bug in someone's ear (D) flea in one's ear",
+   "answer": {
+      "D": "flea in one's ear"
+   },
+   "extracted_response": "D) flea in one's ear"
 }

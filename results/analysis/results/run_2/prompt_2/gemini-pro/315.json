@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus is \"EMOC FROM\" followed by a skull image.  \"EMOC\" is \"COME\" spelled backward. A skull represents death.  Thus, the rebus puzzle is \"COME FROM THE DEAD\", meaning option B: \"Come back from the dead\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stop dead (B) come back from the dead (C) come alive (D) come to grief",
-    "answer": {
-        "B": "come back from the dead"
-    }
+   "gemini_pro_response": "The rebus is \"EMOC FROM\" followed by a skull image.  \"EMOC\" is \"COME\" spelled backward. A skull represents death.  Thus, the rebus puzzle is \"COME FROM THE DEAD\", meaning option B: \"Come back from the dead\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stop dead (B) come back from the dead (C) come alive (D) come to grief",
+   "answer": {
+      "B": "come back from the dead"
+   },
+   "extracted_response": "B) come back from the dead"
 }

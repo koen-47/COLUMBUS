@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (A) chalk up to.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chalk up to (B) drum up (C) chalk off (D) chalk something up to experience",
-    "answer": {
-        "A": "chalk up to"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) chalk up to.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chalk up to (B) drum up (C) chalk off (D) chalk something up to experience",
+   "answer": {
+      "A": "chalk up to"
+   },
+   "extracted_response": "A) chalk up to"
 }

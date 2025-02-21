@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"PEAS\" twice with \"P\" to its left and \"OD\" to its right. This translates to \"P\" + \"PEAS\" + \"in a\" + \"P\" + \"OD\". \n\nThe answer is (C) two peas in a pod.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"PEAS\",\n  \"description\": \"The word 'PEAS' written in uppercase letters.\",\n  \"relation\": \"centered at the top\"\n}\n```\n\n```json\n{\n  \"id\": \"2\",\n  \"name\": \"OD\",\n  \"description\": \"The letters 'OD' written in uppercase, following 'PEAS'.\",\n  \"relation\": \"to the right of 'PEAS'\"\n}\n```\n\n```json\n{\n  \"id\": \"3\",\n  \"name\": \"P\",\n  \"description\": \"The letter 'P' written in uppercase, before 'PEAS'.\",\n  \"relation\": \"to the left of 'PEAS'\"\n}\n```\n\n```json\n{\n  \"id\": \"4\",\n  \"name\": \"PEAS\",\n  \"description\": \"The word 'PEAS' written in uppercase letters, repeated.\",\n  \"relation\": \"centered below the first 'PEAS'\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) seedpods (B) seedpod (C) two peas in a pod (D) full of beans\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "two peas in a pod"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"MAN\" positioned between arrows pointing up and down, which suggests the concept of \"middle.\" Therefore, the phrase conveyed is \"middleman.\" \n\nThe correct answer is (D) middleman.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midshipman (B) main man (C) middlemen (D) middleman",
-    "answer": {
-        "D": "middleman"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"MAN\" positioned between arrows pointing up and down, which suggests the concept of \"middle.\" Therefore, the phrase conveyed is \"middleman.\" \n\nThe correct answer is (D) middleman.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midshipman (B) main man (C) middlemen (D) middleman",
+   "answer": {
+      "D": "middleman"
+   },
+   "extracted_response": "D) middleman"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows \"FLY CLOSE\" twice, with the word \"SUN\" next to it.  This positioning implies \"FLY CLOSE TO THE SUN\".\n\nSo the answer is (A).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly too close to the sun (B) a trip to the sun (C) fly low (D) catch the sun",
-    "answer": {
-        "A": "fly too close to the sun"
-    }
+   "gemini_pro_response": "The rebus shows \"FLY CLOSE\" twice, with the word \"SUN\" next to it.  This positioning implies \"FLY CLOSE TO THE SUN\".\n\nSo the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly too close to the sun (B) a trip to the sun (C) fly low (D) catch the sun",
+   "answer": {
+      "A": "fly too close to the sun"
+   },
+   "extracted_response": "A"
 }

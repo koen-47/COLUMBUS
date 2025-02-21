@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle represents \"mid-air collision\".\n\n* **\"AIR\"** is present.\n* The arrows pointing towards \"AIR\" from above and below, along with the highlight attribute \"middle\", indicate \"mid\" before \"AIR\".\n* The explosion symbol (\ud83d\udca5) represents a collision.\n\nThe description also states that the two elements are next to each other. So we say \"mid-air\" and then \"collision\".  Thus, the answer is (A).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: AIR, repeat: 1, highlight: middle)\nNode 2 attributes: (text: \ud83d\udca5, repeat: 1, icon: (collision: \ud83d\udca5))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) mid air collision (B) collision course (C) midair (D) catch air",
-    "answer": {
-        "A": "mid air collision"
-    }
+   "gemini_pro_response": "The rebus puzzle represents \"mid-air collision\".\n\n* **\"AIR\"** is present.\n* The arrows pointing towards \"AIR\" from above and below, along with the highlight attribute \"middle\", indicate \"mid\" before \"AIR\".\n* The explosion symbol (\ud83d\udca5) represents a collision.\n\nThe description also states that the two elements are next to each other. So we say \"mid-air\" and then \"collision\".  Thus, the answer is (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: AIR, repeat: 1, highlight: middle)\nNode 2 attributes: (text: \ud83d\udca5, repeat: 1, icon: (collision: \ud83d\udca5))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) mid air collision (B) collision course (C) midair (D) catch air",
+   "answer": {
+      "A": "mid air collision"
+   },
+   "extracted_response": "A"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(C) run about**.\n\nThe image shows the word \"RUN\" stacked vertically on itself. This visual representation suggests a repetitive or continuous action of running in different directions, which is best captured by the phrase \"run about\".  The other options don't convey the same sense of continuous, somewhat aimless movement.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to (B) run with (C) run about (D) run past",
-    "answer": {
-        "A": "run to"
-    }
+   "gemini_pro_response": "The answer is **(C) run about**.\n\nThe image shows the word \"RUN\" stacked vertically on itself. This visual representation suggests a repetitive or continuous action of running in different directions, which is best captured by the phrase \"run about\".  The other options don't convey the same sense of continuous, somewhat aimless movement.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to (B) run with (C) run about (D) run past",
+   "answer": {
+      "A": "run to"
+   },
+   "extracted_response": "C"
 }

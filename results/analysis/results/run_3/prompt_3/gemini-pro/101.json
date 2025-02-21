@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The puzzle shows the word \"STEP\" and four man icons.  The description clarifies the man icon is repeated four times. Four can also sound like \"for\".  Therefore, the rebus represents \"one small STEP for man,\" an iconic quote misattributed to Neil Armstrong (the actual quote includes \"a\" before \"man\").  The \"small\" comes from the description of the STEP node.\n\nSo the answer is (B).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: STEP, repeat: 1, size: small)\nNode 2 attributes: (text: \ud83d\udc68, repeat: 4, icon: (man: \ud83d\udc68), sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) step on someone's toes (B) a small step for man (C) giant step (D) one step at a time",
-    "answer": {
-        "B": "a small step for man"
-    }
+   "gemini_pro_response": "The puzzle shows the word \"STEP\" and four man icons.  The description clarifies the man icon is repeated four times. Four can also sound like \"for\".  Therefore, the rebus represents \"one small STEP for man,\" an iconic quote misattributed to Neil Armstrong (the actual quote includes \"a\" before \"man\").  The \"small\" comes from the description of the STEP node.\n\nSo the answer is (B).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: STEP, repeat: 1, size: small)\nNode 2 attributes: (text: \ud83d\udc68, repeat: 4, icon: (man: \ud83d\udc68), sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) step on someone's toes (B) a small step for man (C) giant step (D) one step at a time",
+   "answer": {
+      "B": "a small step for man"
+   },
+   "extracted_response": "B) a small step for man"
 }

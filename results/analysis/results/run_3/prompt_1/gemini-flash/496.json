@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **for reasons**.\n\nThe image shows the word \"REASONS\" repeated four times.  This visually represents the idea that there are multiple reasons, or \"for reasons,\" for something.  The other options don't fit the visual representation as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on purpose (B) for crying out loud (C) for reasons (D) for XYZ reasons",
-    "answer": {
-        "C": "for reasons"
-    }
+   "gemini_pro_response": "The correct answer is (C) **for reasons**.\n\nThe image shows the word \"REASONS\" repeated four times.  This visually represents the idea that there are multiple reasons, or \"for reasons,\" for something.  The other options don't fit the visual representation as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on purpose (B) for crying out loud (C) for reasons (D) for XYZ reasons",
+   "answer": {
+      "C": "for reasons"
+   },
+   "extracted_response": "C) for reasons"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) the big bucks.\n\nHere's why:\n\n* **\ud83e\udd8c\ud83e\udd8c:** Represents \"bucks\" (male deer).\n* **repeat: 1:**  This likely refers to the fact that there are two bucks in the image, suggesting a singular representation.\n* **size: big:** The image shows the bucks as large, emphasizing the \"big\" aspect.\n\nTherefore, the rebus combines the visual of two bucks with the descriptor \"big,\" leading to the phrase \"the big bucks.\"",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83e\udd8c\ud83e\udd8c, repeat: 1, size: big, icon: (bucks: \ud83e\udd8c\ud83e\udd8c))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) the big bucks (B) buckskin (C) bucksaws (D) bighorns",
-    "answer": {
-        "A": "the big bucks"
-    }
+   "gemini_pro_response": "The correct answer is (A) the big bucks.\n\nHere's why:\n\n* **\ud83e\udd8c\ud83e\udd8c:** Represents \"bucks\" (male deer).\n* **repeat: 1:**  This likely refers to the fact that there are two bucks in the image, suggesting a singular representation.\n* **size: big:** The image shows the bucks as large, emphasizing the \"big\" aspect.\n\nTherefore, the rebus combines the visual of two bucks with the descriptor \"big,\" leading to the phrase \"the big bucks.\"",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83e\udd8c\ud83e\udd8c, repeat: 1, size: big, icon: (bucks: \ud83e\udd8c\ud83e\udd8c))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) the big bucks (B) buckskin (C) bucksaws (D) bighorns",
+   "answer": {
+      "A": "the big bucks"
+   },
+   "extracted_response": "A) the big bucks"
 }

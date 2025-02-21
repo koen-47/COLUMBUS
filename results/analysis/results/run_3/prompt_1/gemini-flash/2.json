@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **a bird in the hand is worth two in the bush**.\n\nThe image depicts a bird held in two hands, representing the proverb's core idea of securing something certain (the bird in hand) rather than risking it for a potentially greater but uncertain reward (two birds in the bush).\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a bird in the hand (B) a bird in the hand is worth two in the bush (C) early bird (D) bird in the bosom",
-    "answer": {
-        "A": "a bird in the hand"
-    }
+   "gemini_pro_response": "The correct answer is (B) **a bird in the hand is worth two in the bush**.\n\nThe image depicts a bird held in two hands, representing the proverb's core idea of securing something certain (the bird in hand) rather than risking it for a potentially greater but uncertain reward (two birds in the bush).\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a bird in the hand (B) a bird in the hand is worth two in the bush (C) early bird (D) bird in the bosom",
+   "answer": {
+      "A": "a bird in the hand"
+   },
+   "extracted_response": "B) a bird in the hand is worth two in the bush"
 }

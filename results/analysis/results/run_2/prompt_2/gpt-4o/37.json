@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The answer is (B) as in.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) as to (B) as in (C) as for (D) as of",
-    "answer": {
-        "C": "as for"
-    }
+   "gpt4v_response": "The answer is (B) as in.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) as to (B) as in (C) as for (D) as of",
+   "answer": {
+      "C": "as for"
+   },
+   "extracted_response": "B) as in"
 }

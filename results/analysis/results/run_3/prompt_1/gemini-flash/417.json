@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **dead end job**.\n\nThe image depicts a skull (representing death) with arrows pointing both up and down, implying stagnation or lack of progress, next to the word \"JOB\".  This directly conveys the meaning of a \"dead end job\"\u2014a job with no opportunities for advancement or improvement.  The other options don't fit the visual metaphor as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead loss (B) dead end job (C) dead last (D) dead end",
-    "answer": {
-        "B": "dead end job"
-    }
+   "gemini_pro_response": "The correct answer is (B) **dead end job**.\n\nThe image depicts a skull (representing death) with arrows pointing both up and down, implying stagnation or lack of progress, next to the word \"JOB\".  This directly conveys the meaning of a \"dead end job\"\u2014a job with no opportunities for advancement or improvement.  The other options don't fit the visual metaphor as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead loss (B) dead end job (C) dead last (D) dead end",
+   "answer": {
+      "B": "dead end job"
+   },
+   "extracted_response": "B) dead end job"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) roll out the red carpet.\n\nThe word \"ROLL\" is shown next to a box with the word \"CARPET\" in red, suggesting that the carpet should be rolled out.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roll in the aisles (B) red carpet treatment (C) roll out the red carpet (D) under the carpet",
-    "answer": {
-        "C": "roll out the red carpet"
-    }
+   "gemini_pro_response": "The correct answer is (C) roll out the red carpet.\n\nThe word \"ROLL\" is shown next to a box with the word \"CARPET\" in red, suggesting that the carpet should be rolled out.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roll in the aisles (B) red carpet treatment (C) roll out the red carpet (D) under the carpet",
+   "answer": {
+      "C": "roll out the red carpet"
+   },
+   "extracted_response": "C"
 }

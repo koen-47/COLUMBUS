@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"MAN\" above \"GER\" with a dog icon in between. This suggests the phrase \"dog in the manger,\" as the dog is positioned between \"MAN\" and \"GER.\" \n\nSo, the correct answer is (D) dog in the manger.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see a man about a dog (B) mantiger (C) dog around (D) dog in the manger",
-    "answer": {
-        "D": "dog in the manger"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"MAN\" above \"GER\" with a dog icon in between. This suggests the phrase \"dog in the manger,\" as the dog is positioned between \"MAN\" and \"GER.\" \n\nSo, the correct answer is (D) dog in the manger.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see a man about a dog (B) mantiger (C) dog around (D) dog in the manger",
+   "answer": {
+      "D": "dog in the manger"
+   },
+   "extracted_response": "D) dog in the manger"
 }

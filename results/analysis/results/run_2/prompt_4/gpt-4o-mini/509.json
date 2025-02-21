@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle consists of the boot icon (\ud83e\udd7e) repeated twice, which suggests a play on the word \"boot.\" The description indicates that the sound associated with the boot is \"to,\" which further emphasizes the phrase.\n\nGiven these clues, the correct answer is:\n\n(D) to boot",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83e\udd7e, repeat: 2, icon: (boot: \ud83e\udd7e), sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) give someone the boot (B) put the boot in (C) get the boot (D) to boot",
-    "answer": {
-        "D": "to boot"
-    }
+   "gpt4v_response": "The rebus puzzle consists of the boot icon (\ud83e\udd7e) repeated twice, which suggests a play on the word \"boot.\" The description indicates that the sound associated with the boot is \"to,\" which further emphasizes the phrase.\n\nGiven these clues, the correct answer is:\n\n(D) to boot",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83e\udd7e, repeat: 2, icon: (boot: \ud83e\udd7e), sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) give someone the boot (B) put the boot in (C) get the boot (D) to boot",
+   "answer": {
+      "D": "to boot"
+   },
+   "extracted_response": "D) to boot"
 }

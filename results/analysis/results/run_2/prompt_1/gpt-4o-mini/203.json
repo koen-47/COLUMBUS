@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) in the sack.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the cat's out of the bag (B) the cat's pajamas (C) in the sack (D) cat in the sack",
-    "answer": {
-        "D": "cat in the sack"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) in the sack.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the cat's out of the bag (B) the cat's pajamas (C) in the sack (D) cat in the sack",
+   "answer": {
+      "D": "cat in the sack"
+   },
+   "extracted_response": "C) in the sack"
 }

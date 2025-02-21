@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys **(A) grapevine**. It depicts a carabiner, a piece of climbing equipment, and the word \"grapevine\".  \"Grapevine\" in this context likely refers to a specific type of climbing technique or route named \"Grapevine\". The other options, while related to the word \"grapevine\", do not fit the context of the image which appears to be related to climbing.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grapevine (B) grapevines (C) hear on the grapevine (D) hear through the grapevine",
-    "answer": {
-        "C": "hear on the grapevine"
-    }
+   "gemini_pro_response": "The image conveys **(A) grapevine**. It depicts a carabiner, a piece of climbing equipment, and the word \"grapevine\".  \"Grapevine\" in this context likely refers to a specific type of climbing technique or route named \"Grapevine\". The other options, while related to the word \"grapevine\", do not fit the context of the image which appears to be related to climbing.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grapevine (B) grapevines (C) hear on the grapevine (D) hear through the grapevine",
+   "answer": {
+      "C": "hear on the grapevine"
+   },
+   "extracted_response": "A) grapevine"
 }

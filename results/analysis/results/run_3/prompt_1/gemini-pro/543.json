@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (B) from start to finish.  The down arrow pointing at \"FINISH\" represents the start, and the up arrow pointing at \"FINISH\" represents the finish.  The word \"FROM\" connects them.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) begin at the beginning (B) from start to finish (C) from beginning to end (D) from scratch",
-    "answer": {
-        "B": "from start to finish"
-    }
+   "gemini_pro_response": "The image conveys (B) from start to finish.  The down arrow pointing at \"FINISH\" represents the start, and the up arrow pointing at \"FINISH\" represents the finish.  The word \"FROM\" connects them.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) begin at the beginning (B) from start to finish (C) from beginning to end (D) from scratch",
+   "answer": {
+      "B": "from start to finish"
+   },
+   "extracted_response": "B) from start to finish"
 }

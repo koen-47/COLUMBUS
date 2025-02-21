@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) build up.\n\nThe image shows the letters of the word \"BUILD\" arranged vertically.  The description states that the word \"BUILD\" is present and oriented upwards.  Therefore, the rebus represents \"BUILD UP\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BUILD, repeat: 1, direction: up)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) team up (B) build up (C) run up (D) buildups",
-    "answer": {
-        "B": "build up"
-    }
+   "gemini_pro_response": "The correct answer is (B) build up.\n\nThe image shows the letters of the word \"BUILD\" arranged vertically.  The description states that the word \"BUILD\" is present and oriented upwards.  Therefore, the rebus represents \"BUILD UP\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BUILD, repeat: 1, direction: up)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) team up (B) build up (C) run up (D) buildups",
+   "answer": {
+      "B": "build up"
+   },
+   "extracted_response": "B) build up"
 }

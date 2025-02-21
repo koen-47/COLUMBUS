@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(D) chum up**.\n\nThe image shows the word \"WACHUMTER,\" which is a visual pun.  It's a combination of \"what\" and \"chums\" (or \"chum up\").  Therefore, the intended meaning aligns with \"chum up,\" which means to become friendly with someone.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of the chute (B) straight out of the chute (C) chum in the water (D) chum up",
-    "answer": {
-        "C": "chum in the water"
-    }
+   "gemini_pro_response": "The answer is **(D) chum up**.\n\nThe image shows the word \"WACHUMTER,\" which is a visual pun.  It's a combination of \"what\" and \"chums\" (or \"chum up\").  Therefore, the intended meaning aligns with \"chum up,\" which means to become friendly with someone.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of the chute (B) straight out of the chute (C) chum in the water (D) chum up",
+   "answer": {
+      "C": "chum in the water"
+   },
+   "extracted_response": "D) chum up"
 }

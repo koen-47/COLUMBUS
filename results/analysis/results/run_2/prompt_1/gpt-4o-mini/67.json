@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word conveyed in the image is (C) big deal.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) good grief (B) real deal (C) big deal (D) great deal",
-    "answer": {
-        "C": "big deal"
-    }
+   "gpt4v_response": "The word conveyed in the image is (C) big deal.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) good grief (B) real deal (C) big deal (D) great deal",
+   "answer": {
+      "C": "big deal"
+   },
+   "extracted_response": "C) big deal"
 }

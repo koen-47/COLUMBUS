@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **go up in smoke**.\n\nThe letters \"FLAMES\" are arranged with \"GO\" positioned above them, suggesting something going up.  The combination of \"go\" and \"flames\" with their placement visually represents the idiom.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) flame up (B) go up in flames (C) go up in smoke (D) go down in flames",
-    "answer": {
-        "B": "go up in flames"
-    }
+   "gemini_pro_response": "The correct answer is (C) **go up in smoke**.\n\nThe letters \"FLAMES\" are arranged with \"GO\" positioned above them, suggesting something going up.  The combination of \"go\" and \"flames\" with their placement visually represents the idiom.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) flame up (B) go up in flames (C) go up in smoke (D) go down in flames",
+   "answer": {
+      "B": "go up in flames"
+   },
+   "extracted_response": "C) go up in smoke"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) down for the count.  The repeated \"DOWN\" emphasizes the defeated state, and the \"COUNT\" refers to the referee's count in boxing (or similar competitions) where a downed competitor must rise before the count finishes, or lose the match.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put down for (B) down but not out (C) down for the count (D) take the count",
-    "answer": {
-        "C": "down for the count"
-    }
+   "gemini_pro_response": "The image conveys (C) down for the count.  The repeated \"DOWN\" emphasizes the defeated state, and the \"COUNT\" refers to the referee's count in boxing (or similar competitions) where a downed competitor must rise before the count finishes, or lose the match.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put down for (B) down but not out (C) down for the count (D) take the count",
+   "answer": {
+      "C": "down for the count"
+   },
+   "extracted_response": "C) down for the count"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts waves with what appears to be blood mixing into the water. This most closely aligns with the phrase \"**blood in the water (C)**.\"  The other options don't fit the visual representation.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shed blood (B) blood is thicker than water (C) blood in the water (D) dead in the water",
-    "answer": {
-        "C": "blood in the water"
-    }
+   "gemini_pro_response": "The image depicts waves with what appears to be blood mixing into the water. This most closely aligns with the phrase \"**blood in the water (C)**.\"  The other options don't fit the visual representation.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shed blood (B) blood is thicker than water (C) blood in the water (D) dead in the water",
+   "answer": {
+      "C": "blood in the water"
+   },
+   "extracted_response": "C"
 }

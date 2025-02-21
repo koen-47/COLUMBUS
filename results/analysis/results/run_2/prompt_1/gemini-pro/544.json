@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"GET BEDROCK\". Since \"get down to bedrock\" isn't an option, and the other options don't match the image, the closest option is **(D) get down to bedrock**.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bedrock (B) underground (C) bedrocks (D) get down to bedrock",
-    "answer": {
-        "D": "get down to bedrock"
-    }
+   "gemini_pro_response": "The image conveys \"GET BEDROCK\". Since \"get down to bedrock\" isn't an option, and the other options don't match the image, the closest option is **(D) get down to bedrock**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bedrock (B) underground (C) bedrocks (D) get down to bedrock",
+   "answer": {
+      "D": "get down to bedrock"
+   },
+   "extracted_response": "D) get down to bedrock"
 }

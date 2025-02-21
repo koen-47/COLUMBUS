@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (D) **step up to the plate**.\n\nThe image shows the word \"PETS\" and two plates with utensils, representing meals.  This visually represents the idiom \"step up to the plate,\" which means to take responsibility or action in a difficult situation, often in a context where one might have to do more work.  The plates symbolize taking on a task or challenge (i.e., the \"plate\" of responsibility).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step up (B) step down (C) step over (D) step up to the plate",
-    "answer": {
-        "D": "step up to the plate"
-    }
+   "gemini_pro_response": "The answer is (D) **step up to the plate**.\n\nThe image shows the word \"PETS\" and two plates with utensils, representing meals.  This visually represents the idiom \"step up to the plate,\" which means to take responsibility or action in a difficult situation, often in a context where one might have to do more work.  The plates symbolize taking on a task or challenge (i.e., the \"plate\" of responsibility).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step up (B) step down (C) step over (D) step up to the plate",
+   "answer": {
+      "D": "step up to the plate"
+   },
+   "extracted_response": "D) step up to the plate"
 }

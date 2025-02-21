@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The first node (\ud83e\uddf1) represents \"brick.\"\n- The second node (1111) sounds like \"one's.\"\n- The third node (\ud83c\udfa9) represents \"hat.\"\n\nPutting these together, you get \"brick in one's hat.\"\n\nTherefore, the correct answer is (D) brick in one's hat.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83e\uddf1, repeat: 1, icon: (brick: \ud83e\uddf1))\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: \ud83c\udfa9, repeat: 1, icon: (hat: \ud83c\udfa9))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) brick in (B) bang one's head against a brick wall (C) drop a brick (D) brick in one's hat",
-    "answer": {
-        "D": "brick in one's hat"
-    }
+   "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The first node (\ud83e\uddf1) represents \"brick.\"\n- The second node (1111) sounds like \"one's.\"\n- The third node (\ud83c\udfa9) represents \"hat.\"\n\nPutting these together, you get \"brick in one's hat.\"\n\nTherefore, the correct answer is (D) brick in one's hat.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83e\uddf1, repeat: 1, icon: (brick: \ud83e\uddf1))\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: \ud83c\udfa9, repeat: 1, icon: (hat: \ud83c\udfa9))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) brick in (B) bang one's head against a brick wall (C) drop a brick (D) brick in one's hat",
+   "answer": {
+      "D": "brick in one's hat"
+   },
+   "extracted_response": "D) brick in one's hat"
 }

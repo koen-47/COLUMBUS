@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) from beginning to end.\n\nThe arrows indicate a direction, from the top to bottom.  The word \"FROM\" is placed between the upward and downward arrow. The words \"FINISH\" are placed at the top and bottom. Therefore, the rebus represents \"from beginning to end\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) begin at the beginning (B) from start to finish (C) from beginning to end (D) from scratch",
-    "answer": {
-        "B": "from start to finish"
-    }
+   "gemini_pro_response": "The correct answer is (C) from beginning to end.\n\nThe arrows indicate a direction, from the top to bottom.  The word \"FROM\" is placed between the upward and downward arrow. The words \"FINISH\" are placed at the top and bottom. Therefore, the rebus represents \"from beginning to end\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) begin at the beginning (B) from start to finish (C) from beginning to end (D) from scratch",
+   "answer": {
+      "B": "from start to finish"
+   },
+   "extracted_response": "C) from beginning to end"
 }

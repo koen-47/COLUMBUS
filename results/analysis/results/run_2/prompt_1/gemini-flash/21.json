@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The best answer is **(A) aftermath**.\n\nThe image shows the word \"MATH\" with an arrow pointing down and another pointing up.  This visually represents something going down (like a problem) and then up (like the solution or resolution).  \"Aftermath\" refers to the consequences or results that follow an event,  which aligns with the idea of something happening and then a subsequent result.  The other options don't fit the visual metaphor as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftermath (B) tear up (C) after the storm (D) aftermaths",
-    "answer": {
-        "A": "aftermath"
-    }
+   "gemini_pro_response": "The best answer is **(A) aftermath**.\n\nThe image shows the word \"MATH\" with an arrow pointing down and another pointing up.  This visually represents something going down (like a problem) and then up (like the solution or resolution).  \"Aftermath\" refers to the consequences or results that follow an event,  which aligns with the idea of something happening and then a subsequent result.  The other options don't fit the visual metaphor as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftermath (B) tear up (C) after the storm (D) aftermaths",
+   "answer": {
+      "A": "aftermath"
+   },
+   "extracted_response": "A) aftermath"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the idea of **(A) fox in the henhouse**.  The words \"hen\" and \"fox\" are combined with \"house,\" suggesting a fox has infiltrated the hens' space.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fox in the henhouse (B) fox sleep (C) cock in the henhouse (D) henhouse",
-    "answer": {
-        "A": "fox in the henhouse"
-    }
+   "gemini_pro_response": "The image conveys the idea of **(A) fox in the henhouse**.  The words \"hen\" and \"fox\" are combined with \"house,\" suggesting a fox has infiltrated the hens' space.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fox in the henhouse (B) fox sleep (C) cock in the henhouse (D) henhouse",
+   "answer": {
+      "A": "fox in the henhouse"
+   },
+   "extracted_response": "A"
 }

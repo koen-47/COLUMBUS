@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **big man on campus**.\n\nThe image shows a face above the word \"CAMPUS,\" suggesting someone prominent or popular on a college campus.  This aligns perfectly with the idiom \"big man on campus,\" which refers to a male student who is very popular and influential.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) main man (B) big girl (C) big man on campus (D) big name",
-    "answer": {
-        "C": "big man on campus"
-    }
+   "gemini_pro_response": "The correct answer is (C) **big man on campus**.\n\nThe image shows a face above the word \"CAMPUS,\" suggesting someone prominent or popular on a college campus.  This aligns perfectly with the idiom \"big man on campus,\" which refers to a male student who is very popular and influential.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) main man (B) big girl (C) big man on campus (D) big name",
+   "answer": {
+      "C": "big man on campus"
+   },
+   "extracted_response": "C) big man on campus"
 }

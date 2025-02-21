@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"GO\" twice, followed by a picture of a wave.  This represents \"Go Go Wave\".  Phonetically, this sounds like \"Go to Sea\".\n\nTherefore, the answer is (D) go to sea.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go places (B) at sea (C) go fish (D) go to sea",
-    "answer": {
-        "D": "go to sea"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"GO\" twice, followed by a picture of a wave.  This represents \"Go Go Wave\".  Phonetically, this sounds like \"Go to Sea\".\n\nTherefore, the answer is (D) go to sea.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go places (B) at sea (C) go fish (D) go to sea",
+   "answer": {
+      "D": "go to sea"
+   },
+   "extracted_response": "D) go to sea"
 }

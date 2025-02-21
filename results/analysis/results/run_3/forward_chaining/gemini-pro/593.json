@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"EZ\" over \"EYES\". This translates to \"easy on the eyes\".\n\n* **EZ maps to \"easy\"**.\n* **The horizontal line implies \"on\".**\n* **EYES maps to \"eyes\"**.\n\nTherefore, the correct answer is (C). The other options don't fit the arrangement and meaning conveyed by the rebus.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"EZ\",\n  \"description\": \"The letters 'EZ' in uppercase.\",\n  \"relation\": \"above the horizontal line\"\n}\n```\n\n```json\n{\n  \"id\": \"2\",\n  \"name\": \"Horizontal Line\",\n  \"description\": \"A simple horizontal line.\",\n  \"relation\": \"between 'EZ' and 'EYES'\"\n}\n```\n\n```json\n{\n  \"id\": \"3\",\n  \"name\": \"EYES\",\n  \"description\": \"The word 'EYES' in uppercase.\",\n  \"relation\": \"below the horizontal line\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) take one's eyes off (B) easy on the eye (C) easy on the eyes (D) hard on the eyes\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "easy on the eyes"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"go to the wall\" (C). The words \"go\" appear twice, and there's a picture of a wall.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up the wall (B) back to the wall (C) go to the wall (D) drive up the wall",
-    "answer": {
-        "C": "go to the wall"
-    }
+   "gemini_pro_response": "The image conveys \"go to the wall\" (C). The words \"go\" appear twice, and there's a picture of a wall.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up the wall (B) back to the wall (C) go to the wall (D) drive up the wall",
+   "answer": {
+      "C": "go to the wall"
+   },
+   "extracted_response": "C"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(B) hold one's head high**.\n\nHere's why:\n\nThe rebus shows \"STAND\" over \"1111\" and a face with its eyes looking straight ahead.  The \"1111\" represents \"one's\" (as in one's head). The image of a face can represent \"head,\" and because of the straight and even positioning, it can represent \"held high\".  Therefore, the whole image suggests \"stand one's head high\" which could easily be understood as \"hold one's head high\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep one's head (B) hold one's head high (C) with one's head held high (D) stand on one's head",
-    "answer": {
-        "D": "stand on one's head"
-    }
+   "gemini_pro_response": "The answer is **(B) hold one's head high**.\n\nHere's why:\n\nThe rebus shows \"STAND\" over \"1111\" and a face with its eyes looking straight ahead.  The \"1111\" represents \"one's\" (as in one's head). The image of a face can represent \"head,\" and because of the straight and even positioning, it can represent \"held high\".  Therefore, the whole image suggests \"stand one's head high\" which could easily be understood as \"hold one's head high\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep one's head (B) hold one's head high (C) with one's head held high (D) stand on one's head",
+   "answer": {
+      "D": "stand on one's head"
+   },
+   "extracted_response": "B) hold one's head high"
 }

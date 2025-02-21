@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"BOOGIE\" above a line and the word \"DOWN\" below the line. This setup represents the phrase \"boogie down.\"\n\nMapping the json file to the answer choices:\n\n1. \"BOOGIE\" is above the line.\n2. \"DOWN\" is below the line.\n\nThe phrase that matches this setup is:\n\n(D) boogie on down\n\nTherefore, the answer is (D) boogie on down.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"BOOGIE\",\n    \"description\": \"The word 'BOOGIE' written in uppercase letters.\",\n    \"relation\": \"above the line and the word 'DOWN'\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"line\",\n    \"description\": \"A horizontal line.\",\n    \"relation\": \"between the words 'BOOGIE' and 'DOWN'\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"DOWN\",\n    \"description\": \"The word 'DOWN' written in uppercase letters.\",\n    \"relation\": \"below the line and the word 'BOOGIE'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) full tilt boogie (B) play down (C) peg down (D) boogie on down\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "boogie on down"
+    }
+}

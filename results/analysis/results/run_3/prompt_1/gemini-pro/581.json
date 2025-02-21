@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) dressed to the nines.\n\nThe image shows the words \"DRESSED\" and the number \"999\", which is a visual representation of the idiom \"dressed to the nines\". This idiom means to be dressed very elegantly or smartly.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to the nines (B) nightmare dressed like a daydream (C) dressed to the nines (D) dressed to kill",
-    "answer": {
-        "C": "dressed to the nines"
-    }
+   "gemini_pro_response": "The answer is (C) dressed to the nines.\n\nThe image shows the words \"DRESSED\" and the number \"999\", which is a visual representation of the idiom \"dressed to the nines\". This idiom means to be dressed very elegantly or smartly.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to the nines (B) nightmare dressed like a daydream (C) dressed to the nines (D) dressed to kill",
+   "answer": {
+      "C": "dressed to the nines"
+   },
+   "extracted_response": "C) dressed to the nines"
 }

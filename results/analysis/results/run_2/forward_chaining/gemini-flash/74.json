@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe image shows the word \"STORM\" with an arrow pointing down above it and an arrow pointing up below it.  This represents the phrase \"weather the storm\".\n\nThe arrows indicate movement through the storm, from above (\"before\") to below (\"after\").\n\nTherefore, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"text\",\n    \"description\": \"The word 'STORM' written in uppercase letters.\",\n    \"relation\": \"centered in the image\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"arrow\",\n    \"description\": \"A black arrow pointing downwards.\",\n    \"relation\": \"positioned above the word 'STORM'\"\n  },\n  {\n    \"id\": \"item3\",\n    \"name\": \"arrow\",\n    \"description\": \"A black arrow pointing downwards.\",\n    \"relation\": \"positioned below the word 'STORM'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) storm off (B) perfect storm (C) weather the storm (D) after the storm\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "after the storm"
+    }
+}

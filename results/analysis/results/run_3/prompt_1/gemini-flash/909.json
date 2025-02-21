@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) the calm before the storm.\n\nThe image shows arrows pointing up and down, symbolizing a period of stillness or calm, followed by a storm cloud with a lightning bolt, representing an impending storm.  This perfectly illustrates the idiom \"the calm before the storm\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) perfect storm (B) the calm before the storm (C) weather the storm (D) after the storm",
-    "answer": {
-        "B": "the calm before the storm"
-    }
+   "gemini_pro_response": "The correct answer is (B) the calm before the storm.\n\nThe image shows arrows pointing up and down, symbolizing a period of stillness or calm, followed by a storm cloud with a lightning bolt, representing an impending storm.  This perfectly illustrates the idiom \"the calm before the storm\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) perfect storm (B) the calm before the storm (C) weather the storm (D) after the storm",
+   "answer": {
+      "B": "the calm before the storm"
+   },
+   "extracted_response": "B) the calm before the storm"
 }

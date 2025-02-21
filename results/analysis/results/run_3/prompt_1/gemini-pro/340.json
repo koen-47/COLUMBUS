@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The elephant is small and pink.  It brings to mind the phrase \"pink elephant,\" (B), sometimes used in the context of hallucinations.  \"Seeing pink elephants\" is a euphemism for being intoxicated.\n\nThe image does not convey the idioms related to ignoring a large problem (\"elephant in the room\"), a small problem (\"baby elephant in the room\"), or an unwanted gift (\"white elephant\").  Therefore, the answer is (B).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) baby elephant in the room (D) white elephant",
-    "answer": {
-        "B": "pink elephant"
-    }
+   "gemini_pro_response": "The elephant is small and pink.  It brings to mind the phrase \"pink elephant,\" (B), sometimes used in the context of hallucinations.  \"Seeing pink elephants\" is a euphemism for being intoxicated.\n\nThe image does not convey the idioms related to ignoring a large problem (\"elephant in the room\"), a small problem (\"baby elephant in the room\"), or an unwanted gift (\"white elephant\").  Therefore, the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) baby elephant in the room (D) white elephant",
+   "answer": {
+      "B": "pink elephant"
+   },
+   "extracted_response": "B"
 }

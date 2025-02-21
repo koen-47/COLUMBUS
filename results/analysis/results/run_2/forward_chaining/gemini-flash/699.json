@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"SMOMENTUN\" is a rebus.  The \"S\" and \"UN\" are at the beginning and end of the word \"MOMENT\".  Therefore, the solution is \"moment in the sun\".\n\nThe answer is (A).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_SMOMENTUN\",\n  \"description\": \"The text 'SMOMENTUN' is written in bold, black letters.\",\n  \"relation\": \"centered in the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) moment in the sun (B) in the heat of the moment (C) catch the sun (D) moment of truth\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "moment in the sun"
+    }
+}

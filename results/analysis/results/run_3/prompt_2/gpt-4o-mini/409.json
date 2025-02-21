@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"WOR\" with \"K\" below it, which can be interpreted as \"work\" (WOR + K). Therefore, the phrase conveyed is \"work.\" \n\nAmong the options provided, the closest match is (A) row in the same boat, as it relates to teamwork or working together. However, none of the options directly match the interpretation of \"work.\" \n\nIf I had to choose the best fit from the options, I would select (A) row in the same boat.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) row in the same boat (B) skid row (C) in a row (D) row back",
-    "answer": {
-        "D": "row back"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"WOR\" with \"K\" below it, which can be interpreted as \"work\" (WOR + K). Therefore, the phrase conveyed is \"work.\" \n\nAmong the options provided, the closest match is (A) row in the same boat, as it relates to teamwork or working together. However, none of the options directly match the interpretation of \"work.\" \n\nIf I had to choose the best fit from the options, I would select (A) row in the same boat.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) row in the same boat (B) skid row (C) in a row (D) row back",
+   "answer": {
+      "D": "row back"
+   },
+   "extracted_response": "A) row in the same boat"
 }

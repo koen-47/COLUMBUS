@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) up in the air**.\n\nThe image shows the letters \"AIR\" with an upward-pointing arrow between the \"A\" and \"I\".  This visually represents the phrase \"up in the air\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up in arms (B) up in the air (C) beat the air (D) in the air",
-    "answer": {
-        "B": "up in the air"
-    }
+   "gemini_pro_response": "The correct answer is **(B) up in the air**.\n\nThe image shows the letters \"AIR\" with an upward-pointing arrow between the \"A\" and \"I\".  This visually represents the phrase \"up in the air\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up in arms (B) up in the air (C) beat the air (D) in the air",
+   "answer": {
+      "B": "up in the air"
+   },
+   "extracted_response": "B) up in the air"
 }

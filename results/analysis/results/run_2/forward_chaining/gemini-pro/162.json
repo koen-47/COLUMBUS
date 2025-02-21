@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"WORD\" with a line crossing through it, visually representing the act of crossing out a word. This suggests the phrase \"cross word\".\n\nThe options that contain the word cross are (A) crossword, (C) crosswords and (B) backsword is inconsistent with the image because it is not a compound word of cross and word.\n\n\nThe word \"WORD\" is singular, so the correct answer is (A) crossword.\n\nFinal Answer: The final answer is $\\boxed{A}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"word_with_strikethrough\",\n  \"description\": \"The word 'WORD' with a horizontal line striking through it.\",\n  \"relation\": \"none\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) crossword (B) headword (C) crosswords (D) backsword\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "crossword"
+    }
+}

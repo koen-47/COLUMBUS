@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) look for a dog to kick.\n\nThe image shows the words \"LOOK,\" \"DOG,\" and \"KICK\" arranged in a way that suggests the phrase \"look for a dog to kick.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick at an open door (B) kick a dog when it's down (C) look for a dog to kick (D) kick someone when they are down",
-    "answer": {
-        "C": "look for a dog to kick"
-    }
+   "gemini_pro_response": "The answer is (C) look for a dog to kick.\n\nThe image shows the words \"LOOK,\" \"DOG,\" and \"KICK\" arranged in a way that suggests the phrase \"look for a dog to kick.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick at an open door (B) kick a dog when it's down (C) look for a dog to kick (D) kick someone when they are down",
+   "answer": {
+      "C": "look for a dog to kick"
+   },
+   "extracted_response": "C) look for a dog to kick"
 }

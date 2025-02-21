@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) man on the street.\n\nThe image shows the word \"STREET\" with a picture of a man replacing the letter \"O\".  Therefore, the solution is \"man on the street\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) word on the street (B) man in the street (C) up someone's street (D) man on the street",
-    "answer": {
-        "B": "man in the street"
-    }
+   "gemini_pro_response": "The correct answer is (D) man on the street.\n\nThe image shows the word \"STREET\" with a picture of a man replacing the letter \"O\".  Therefore, the solution is \"man on the street\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) word on the street (B) man in the street (C) up someone's street (D) man on the street",
+   "answer": {
+      "B": "man in the street"
+   },
+   "extracted_response": "D) man on the street"
 }

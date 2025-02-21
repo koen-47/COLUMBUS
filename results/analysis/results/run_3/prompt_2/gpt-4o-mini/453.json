@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the letters arranged vertically, which suggests a play on words. The letters \"K A E S\" can be interpreted as \"K\" (which sounds like \"kay\") followed by \"A E S\" (which can be pronounced as \"ace\"). \n\nPutting it together, it sounds like \"K A E S\" = \"K A S\" = \"K A S E\" = \"case.\" \n\nHowever, since the letters are arranged vertically, it could also imply \"up\" or \"rise.\" \n\nGiven the options, the best fit for the rebus is:\n\n(A) speak up.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak to (D) talk up",
-    "answer": {
-        "A": "speak up"
-    }
+   "gpt4v_response": "The rebus puzzle shows the letters arranged vertically, which suggests a play on words. The letters \"K A E S\" can be interpreted as \"K\" (which sounds like \"kay\") followed by \"A E S\" (which can be pronounced as \"ace\"). \n\nPutting it together, it sounds like \"K A E S\" = \"K A S\" = \"K A S E\" = \"case.\" \n\nHowever, since the letters are arranged vertically, it could also imply \"up\" or \"rise.\" \n\nGiven the options, the best fit for the rebus is:\n\n(A) speak up.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak to (D) talk up",
+   "answer": {
+      "A": "speak up"
+   },
+   "extracted_response": "A) speak up"
 }

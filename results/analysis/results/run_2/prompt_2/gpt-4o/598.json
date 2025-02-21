@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The answer is (B) end of one's rope.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) jump rope (B) end of one's rope (C) give someone enough rope (D) skip rope",
-    "answer": {
-        "B": "end of one's rope"
-    }
+   "gpt4v_response": "The answer is (B) end of one's rope.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) jump rope (B) end of one's rope (C) give someone enough rope (D) skip rope",
+   "answer": {
+      "B": "end of one's rope"
+   },
+   "extracted_response": "B, end of one's rope"
 }

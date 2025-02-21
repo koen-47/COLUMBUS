@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows a low battery icon.  This can be interpreted as \"low beer\".  Of the options provided, the closest match is **(C) small beer**.\n\nTherefore, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n{\n  \"id\": \"1\",\n  \"name\": \"battery icon\",\n  \"description\": \"An icon representing a battery with a low charge level.\",\n  \"relation\": \"none\"\n}\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) beer goggles (B) beer and skittles (C) small beer (D) beer muscles\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "small beer"
+    }
+}

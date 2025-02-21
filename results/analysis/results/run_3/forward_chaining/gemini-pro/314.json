@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The text \"POCPILLKET\" can be broken down into \"POC\" \"PILL\" \"KET\", which sounds like \"pocket pill kit\".\n\n* (A) in someone's pocket: This doesn't fully encompass the \"pill\" part of the rebus.\n* (B) pill in the pocket: This aligns perfectly with \"pocket pill\".\n* (C) pill mill:  This doesn't relate to the \"pocket\" or \"kit\" parts.\n* (D) on the pill:  This refers to taking birth control pills and doesn't match the rebus.\n\nTherefore, the answer is (B) pill in the pocket.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'POCPILLKET' is written in black, uppercase letters.\",\n  \"relation\": \"This is the only item in the image.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) in someone's pocket (B) pill in the pocket (C) pill mill (D) on the pill\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "pill in the pocket"
+    }
+}

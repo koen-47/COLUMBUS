@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The JSON describes the image as showing \"WOR\", which is part of the word \"WORK\" with the letter \"K\" missing.  Let's examine the options:\n\n* **(A) row in the same boat:** Doesn't relate to \"WOR\" or \"WORK\".\n* **(B) skid row:** Contains \"row,\" but has no connection to \"WOR\" or \"WORK\".\n* **(C) in a row:** Contains \"row,\" but has no connection to \"WOR\" or \"WORK\".\n* **(D) row back:** Contains \"row,\" but has no connection to \"WOR\" or \"WORK\".\n\nNone of the options directly incorporate \"WOR\" or the implied \"WORK\".  The puzzle likely relies on a more abstract or visual connection not provided in the context.  Therefore, based solely on the provided JSON and answer choices, none of the options are definitively correct.  Additional information is needed to solve this rebus.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_WOR\",\n  \"description\": \"The text 'WOR' written in uppercase letters.\",\n  \"relation\": \"Part of the word 'WORK' with the letter 'K' missing.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) row in the same boat (B) skid row (C) in a row (D) row back\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "row back"
+    }
+}

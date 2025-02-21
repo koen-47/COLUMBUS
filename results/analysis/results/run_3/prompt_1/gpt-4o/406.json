@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(B) shimmy on down",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) face down (B) shimmy on down (C) hunker down (D) down at heel",
-    "answer": {
-        "B": "shimmy on down"
-    }
+   "gpt4v_response": "(B) shimmy on down",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) face down (B) shimmy on down (C) hunker down (D) down at heel",
+   "answer": {
+      "B": "shimmy on down"
+   },
+   "extracted_response": "B) shimmy on down"
 }

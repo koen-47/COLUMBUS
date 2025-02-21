@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"SOMEWHERE\" over a line, and then \"RAINBOW\" underneath the line. This conveys the phrase \"Somewhere over the rainbow,\" so the answer is (C).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rainbow baby (B) end of the rainbow (C) somewhere over the rainbow (D) rainbow",
-    "answer": {
-        "C": "somewhere over the rainbow"
-    }
+   "gemini_pro_response": "The image says \"SOMEWHERE\" over a line, and then \"RAINBOW\" underneath the line. This conveys the phrase \"Somewhere over the rainbow,\" so the answer is (C).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rainbow baby (B) end of the rainbow (C) somewhere over the rainbow (D) rainbow",
+   "answer": {
+      "C": "somewhere over the rainbow"
+   },
+   "extracted_response": "C"
 }

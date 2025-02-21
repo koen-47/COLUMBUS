@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two gun icons. This corresponds to two guns, or \"big guns.\"\n\n(A) guns blazing: \"Blazing\" doesn't correspond to anything in the image.\n(B) the big guns: \"Big\" refers to two guns. This is a possible answer.\n(C) big shot: Shot refers to shooting with the gun, which is not the intent of the image.\n(D) big gun: The image shows two guns, which isn't consistent with \"big gun\".\n\nThe answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"gun_icon_1\",\n        \"description\": \"An icon of a gun facing right.\",\n        \"relation\": \"left of gun_icon_2\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"gun_icon_2\",\n        \"description\": \"An icon of a gun facing right.\",\n        \"relation\": \"right of gun_icon_1\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) guns blazing (B) the big guns (C) big shot (D) big gun\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "the big guns"
+    }
+}

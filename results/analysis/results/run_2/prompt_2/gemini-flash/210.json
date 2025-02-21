@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(B) brown bread**.\n\nThe image shows a loaf of bread.  \"Brown bread\" is a type of bread.  The other options don't directly relate to a simple image of bread.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bread of life (B) brown bread (C) burn bread (D) bread and butter",
-    "answer": {
-        "B": "brown bread"
-    }
+   "gemini_pro_response": "The answer is **(B) brown bread**.\n\nThe image shows a loaf of bread.  \"Brown bread\" is a type of bread.  The other options don't directly relate to a simple image of bread.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bread of life (B) brown bread (C) burn bread (D) bread and butter",
+   "answer": {
+      "B": "brown bread"
+   },
+   "extracted_response": "B) brown bread"
 }

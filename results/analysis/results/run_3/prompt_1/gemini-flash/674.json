@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) melt in the mouth.\n\nThe image uses the word \"MELT\" and places it between two images of lips.  This visually represents the idea of something melting in one's mouth, a common phrase used to describe food that is tender and easily dissolves.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) butter wouldn't melt in someone's mouth (B) run at the mouth (C) melt in the mouth (D) melt into",
-    "answer": {
-        "C": "melt in the mouth"
-    }
+   "gemini_pro_response": "The correct answer is (C) melt in the mouth.\n\nThe image uses the word \"MELT\" and places it between two images of lips.  This visually represents the idea of something melting in one's mouth, a common phrase used to describe food that is tender and easily dissolves.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) butter wouldn't melt in someone's mouth (B) run at the mouth (C) melt in the mouth (D) melt into",
+   "answer": {
+      "C": "melt in the mouth"
+   },
+   "extracted_response": "C) melt in the mouth"
 }

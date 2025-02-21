@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) handshake.  The image clearly shows the word \"HANDSHAKE\" in green lettering.  The other options are variations or related terms, but the image directly displays only \"HANDSHAKE\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) green handshake (B) golden handshake (C) handshake (D) handshaking",
-    "answer": {
-        "A": "green handshake"
-    }
+   "gemini_pro_response": "The answer is (C) handshake.  The image clearly shows the word \"HANDSHAKE\" in green lettering.  The other options are variations or related terms, but the image directly displays only \"HANDSHAKE\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) green handshake (B) golden handshake (C) handshake (D) handshaking",
+   "answer": {
+      "A": "green handshake"
+   },
+   "extracted_response": "C) handshake"
 }

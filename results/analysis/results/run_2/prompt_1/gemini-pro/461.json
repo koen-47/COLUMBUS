@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts the words \"FAULT FAULT\". This repetition emphasizes the idea of excessive focus on flaws.  Therefore, the correct answer is (C) to a fault.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blame game (B) faultfinding (C) to a fault (D) find fault",
-    "answer": {
-        "C": "to a fault"
-    }
+   "gemini_pro_response": "The image depicts the words \"FAULT FAULT\". This repetition emphasizes the idea of excessive focus on flaws.  Therefore, the correct answer is (C) to a fault.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blame game (B) faultfinding (C) to a fault (D) find fault",
+   "answer": {
+      "C": "to a fault"
+   },
+   "extracted_response": "C) to a fault"
 }

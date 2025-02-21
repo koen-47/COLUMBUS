@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"COMING\" between two images of the Earth. This represents \"Coming into the world.\"\n\nTherefore, the answer is (B) or (D).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make the world go around (B) coming into the world (C) come to life (D) come into the world",
-    "answer": {
-        "B": "coming into the world"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"COMING\" between two images of the Earth. This represents \"Coming into the world.\"\n\nTherefore, the answer is (B) or (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make the world go around (B) coming into the world (C) come to life (D) come into the world",
+   "answer": {
+      "B": "coming into the world"
+   },
+   "extracted_response": "B, D"
 }

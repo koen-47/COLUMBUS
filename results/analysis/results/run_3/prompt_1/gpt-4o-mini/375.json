@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The phrase conveyed in the image is (C) dig in one's heels.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's heels in (B) dig heels in (C) dig in one's heels (D) take to one's heels",
-    "answer": {
-        "C": "dig in one's heels"
-    }
+   "gpt4v_response": "The phrase conveyed in the image is (C) dig in one's heels.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's heels in (B) dig heels in (C) dig in one's heels (D) take to one's heels",
+   "answer": {
+      "C": "dig in one's heels"
+   },
+   "extracted_response": "C"
 }

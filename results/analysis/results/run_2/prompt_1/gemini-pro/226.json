@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase \"**have a mountain to climb**\" (C).  The words \"HAVE\" and \"CLIMB\" are present, and the image of a mountain sits between them. This visually represents the idiom.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) climb down (B) make a mountain out of a molehill (C) have a mountain to climb (D) move mountains",
-    "answer": {
-        "C": "have a mountain to climb"
-    }
+   "gemini_pro_response": "The image conveys the phrase \"**have a mountain to climb**\" (C).  The words \"HAVE\" and \"CLIMB\" are present, and the image of a mountain sits between them. This visually represents the idiom.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) climb down (B) make a mountain out of a molehill (C) have a mountain to climb (D) move mountains",
+   "answer": {
+      "C": "have a mountain to climb"
+   },
+   "extracted_response": "C"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the idiom \"**pull the wool over someone's eyes**\".  The words \"PULL WOOL\" are placed above \"EYES\" with a dividing line, visually representing the act of covering someone's eyes with wool. This idiom means to deceive or trick someone.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pull the wool over eyes (B) more cry than wool (C) wrap in cotton wool (D) dyed in the wool",
-    "answer": {
-        "A": "pull the wool over eyes"
-    }
+   "gemini_pro_response": "The image conveys the idiom \"**pull the wool over someone's eyes**\".  The words \"PULL WOOL\" are placed above \"EYES\" with a dividing line, visually representing the act of covering someone's eyes with wool. This idiom means to deceive or trick someone.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pull the wool over eyes (B) more cry than wool (C) wrap in cotton wool (D) dyed in the wool",
+   "answer": {
+      "A": "pull the wool over eyes"
+   },
+   "extracted_response": "A) pull the wool over eyes"
 }

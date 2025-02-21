@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows a skull with arrows pointing downwards and the word \"JOB\" next to it. This suggests the phrase \"dead end job.\"\n\nThe skull represents \"dead,\" and the arrows pointing to it emphasize this. The word \"JOB\" completes the phrase.\n\nThe correct answer is (B) dead end job.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"skull\",\n        \"description\": \"A simple drawing of a skull with two arrows pointing downwards towards it.\",\n        \"relation\": \"The arrows are pointing towards the skull.\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"text\",\n        \"description\": \"The word 'JOB' written in capital letters.\",\n        \"relation\": \"The text is placed to the right of the skull and arrows.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) dead loss (B) dead end job (C) dead last (D) dead end\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "dead end job"
+    }
+}

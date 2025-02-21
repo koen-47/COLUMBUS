@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The text \"STSETONE\" is a play on words where \"SET\" is inside \"STONE.\" This corresponds to the phrase \"set in stone.\"\n\nThe correct answer is (A) set in stone.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'STSETONE' in bold black font.\",\n  \"relation\": \"centered in the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) set in stone (B) stone dead (C) carved in stone (D) rolling stone\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "set in stone"
+    }
+}

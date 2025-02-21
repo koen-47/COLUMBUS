@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"hard on the eyes.\" The word \"HARD\" is above a line, which suggests something being \"on\" the line, and the line itself can represent \"eyes.\" Therefore, the correct answer is (C) hard on the eyes.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) easy on the eyes (B) easy on the eye (C) hard on the eyes (D) painful on the eyes",
-    "answer": {
-        "C": "hard on the eyes"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"hard on the eyes.\" The word \"HARD\" is above a line, which suggests something being \"on\" the line, and the line itself can represent \"eyes.\" Therefore, the correct answer is (C) hard on the eyes.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) easy on the eyes (B) easy on the eye (C) hard on the eyes (D) painful on the eyes",
+   "answer": {
+      "C": "hard on the eyes"
+   },
+   "extracted_response": "C) hard on the eyes"
 }

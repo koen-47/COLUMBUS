@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(A) bring down the house",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BRING, repeat: 1, direction: down)\nNode 2 attributes: (text: \ud83c\udfe0, repeat: 1, icon: (house: \ud83c\udfe0))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bring down the house (B) move house (C) bring home (D) keep house",
-    "answer": {
-        "A": "bring down the house"
-    }
+   "gpt4v_response": "(A) bring down the house",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BRING, repeat: 1, direction: down)\nNode 2 attributes: (text: \ud83c\udfe0, repeat: 1, icon: (house: \ud83c\udfe0))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bring down the house (B) move house (C) bring home (D) keep house",
+   "answer": {
+      "A": "bring down the house"
+   },
+   "extracted_response": "A) bring down the house"
 }

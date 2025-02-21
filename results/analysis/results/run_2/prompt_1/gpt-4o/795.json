@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) run in the family.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for one's life (B) run with (C) run in the family (D) start a family",
-    "answer": {
-        "C": "run in the family"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) run in the family.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for one's life (B) run with (C) run in the family (D) start a family",
+   "answer": {
+      "C": "run in the family"
+   },
+   "extracted_response": "C) run in the family"
 }

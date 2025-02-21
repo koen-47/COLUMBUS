@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase \"**take to one's heels (C)**\".  The word \"TAKE\" is written twice, the number 1111 signifies \"one's\", and the two heel images represent \"heels\".  \"Take to one's heels\" means to run away quickly.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick up one's heels (B) kick one's heels (C) take to one's heels (D) dig one's heels in",
-    "answer": {
-        "C": "take to one's heels"
-    }
+   "gemini_pro_response": "The image conveys the phrase \"**take to one's heels (C)**\".  The word \"TAKE\" is written twice, the number 1111 signifies \"one's\", and the two heel images represent \"heels\".  \"Take to one's heels\" means to run away quickly.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick up one's heels (B) kick one's heels (C) take to one's heels (D) dig one's heels in",
+   "answer": {
+      "C": "take to one's heels"
+   },
+   "extracted_response": "C"
 }

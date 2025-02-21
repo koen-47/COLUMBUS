@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows two hands with a line in between them. This suggests the phrase \"hand over hand.\" Therefore, the correct answer is (B) hand over hand.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over fist (B) hand over hand (C) hand in hand (D) hand over",
-    "answer": {
-        "B": "hand over hand"
-    }
+   "gpt4v_response": "The rebus puzzle shows two hands with a line in between them. This suggests the phrase \"hand over hand.\" Therefore, the correct answer is (B) hand over hand.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over fist (B) hand over hand (C) hand in hand (D) hand over",
+   "answer": {
+      "B": "hand over hand"
+   },
+   "extracted_response": "B) hand over hand"
 }

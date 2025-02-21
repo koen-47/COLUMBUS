@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(B) up in the air",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up in arms (B) up in the air (C) beat the air (D) in the air",
-    "answer": {
-        "B": "up in the air"
-    }
+   "gpt4v_response": "(B) up in the air",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up in arms (B) up in the air (C) beat the air (D) in the air",
+   "answer": {
+      "B": "up in the air"
+   },
+   "extracted_response": "B) up in the air"
 }

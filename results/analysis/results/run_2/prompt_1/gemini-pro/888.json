@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows a wave of water about to crash over something just below the surface.  Combined with the word \"TAKE,\" this represents the phrase **(D) take on water**, which means for a boat or ship to start filling with water.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) walk on water (B) hold one's water (C) hold water (D) take on water",
-    "answer": {
-        "D": "take on water"
-    }
+   "gemini_pro_response": "The image shows a wave of water about to crash over something just below the surface.  Combined with the word \"TAKE,\" this represents the phrase **(D) take on water**, which means for a boat or ship to start filling with water.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) walk on water (B) hold one's water (C) hold water (D) take on water",
+   "answer": {
+      "D": "take on water"
+   },
+   "extracted_response": "D) take on water"
 }

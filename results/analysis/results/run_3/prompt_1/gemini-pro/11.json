@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the word \"LIFE\" twice, each followed by a down arrow and then an up arrow. This suggests multiple lives, or (D) afterlives.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftertastes (B) afterthought (C) afterthoughts (D) afterlives",
-    "answer": {
-        "D": "afterlives"
-    }
+   "gemini_pro_response": "The image shows the word \"LIFE\" twice, each followed by a down arrow and then an up arrow. This suggests multiple lives, or (D) afterlives.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftertastes (B) afterthought (C) afterthoughts (D) afterlives",
+   "answer": {
+      "D": "afterlives"
+   },
+   "extracted_response": "D) afterlives"
 }

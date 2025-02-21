@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) punch above one's weight.\n\nHere's why:\n\n* **1111:** Represents \"one one one one\" or \"four ones\".\n* **WEIGHT:** The word weight is already present.\n* **The line and the thumbs down symbol:**  The line separates the numbers from the word, suggesting a comparison.  The thumbs down implies that the numbers are less than the weight.\n\nTherefore, the image conveys the idea of \"four ones (less than) weight,\" which can be interpreted as \"punching above one's weight\" \u2013 exceeding expectations given one's apparent capabilities.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) punch below one's weight (B) hit below one's weight (C) throw one's weight behind (D) punch above one's weight",
-    "answer": {
-        "D": "punch above one's weight"
-    }
+   "gemini_pro_response": "The correct answer is (D) punch above one's weight.\n\nHere's why:\n\n* **1111:** Represents \"one one one one\" or \"four ones\".\n* **WEIGHT:** The word weight is already present.\n* **The line and the thumbs down symbol:**  The line separates the numbers from the word, suggesting a comparison.  The thumbs down implies that the numbers are less than the weight.\n\nTherefore, the image conveys the idea of \"four ones (less than) weight,\" which can be interpreted as \"punching above one's weight\" \u2013 exceeding expectations given one's apparent capabilities.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) punch below one's weight (B) hit below one's weight (C) throw one's weight behind (D) punch above one's weight",
+   "answer": {
+      "D": "punch above one's weight"
+   },
+   "extracted_response": "D) punch above one's weight"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"WACHUMTER,\" which sounds like \"What you're meant to.\"  None of the provided options match this.  It's possible this is a play on words or a misspelling attempting to be humorous.  None of the choices (A-D) are represented.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of the chute (B) straight out of the chute (C) chum in the water (D) chum up",
-    "answer": {
-        "C": "chum in the water"
-    }
+   "gemini_pro_response": "The image says \"WACHUMTER,\" which sounds like \"What you're meant to.\"  None of the provided options match this.  It's possible this is a play on words or a misspelling attempting to be humorous.  None of the choices (A-D) are represented.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of the chute (B) straight out of the chute (C) chum in the water (D) chum up",
+   "answer": {
+      "C": "chum in the water"
+   },
+   "extracted_response": "The image says \"WACHUMTER,\" which sounds like \"What you're meant to.\"  None of the provided options match this.  It's possible this is a play on words or a misspelling attempting to be humorous.  None of the choices (A-D) are represented."
 }

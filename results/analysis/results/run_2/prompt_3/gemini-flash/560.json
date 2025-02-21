@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) for a fact.\n\nThe rebus shows the word \"FACT\" repeated four times.  The description states that the word \"FACT\" is repeated four times and the sound is \"for\" four times.  This implies that the word \"for\" is associated with each instance of \"FACT.\" Putting it together, we get \"for a fact\".",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: FACT, repeat: 4, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) fact is (B) for real and for true (C) for a fact (D) as a matter of fact",
-    "answer": {
-        "C": "for a fact"
-    }
+   "gemini_pro_response": "The correct answer is (C) for a fact.\n\nThe rebus shows the word \"FACT\" repeated four times.  The description states that the word \"FACT\" is repeated four times and the sound is \"for\" four times.  This implies that the word \"for\" is associated with each instance of \"FACT.\" Putting it together, we get \"for a fact\".",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: FACT, repeat: 4, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) fact is (B) for real and for true (C) for a fact (D) as a matter of fact",
+   "answer": {
+      "C": "for a fact"
+   },
+   "extracted_response": "C) for a fact"
 }

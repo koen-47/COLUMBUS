@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) skeleton in the closet.  The image shows the word \"CUPBOARD\" with a skull replacing the \"B\".  This is a visual pun representing a \"skeleton in the cupboard\" (or closet, which is the more common US phrasing).\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cupboard love (B) skeleton in the cupboard (C) cupboard (D) skeleton in the closet",
-    "answer": {
-        "B": "skeleton in the cupboard"
-    }
+   "gemini_pro_response": "The correct answer is (D) skeleton in the closet.  The image shows the word \"CUPBOARD\" with a skull replacing the \"B\".  This is a visual pun representing a \"skeleton in the cupboard\" (or closet, which is the more common US phrasing).\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cupboard love (B) skeleton in the cupboard (C) cupboard (D) skeleton in the closet",
+   "answer": {
+      "B": "skeleton in the cupboard"
+   },
+   "extracted_response": "D) skeleton in the closet"
 }

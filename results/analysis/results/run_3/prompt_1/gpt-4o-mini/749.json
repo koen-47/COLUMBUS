@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) pull out of the fire.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put out a fire (B) pull out (C) pull out of the fire (D) open fire",
-    "answer": {
-        "C": "pull out of the fire"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) pull out of the fire.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put out a fire (B) pull out (C) pull out of the fire (D) open fire",
+   "answer": {
+      "C": "pull out of the fire"
+   },
+   "extracted_response": "C) pull out of the fire"
 }

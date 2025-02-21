@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word WRITING is above the line. The bricks or wall can be interpreted as \"on the wall\".  Therefore, the rebus represents \"WRITING on the wall\".\n\nSo the answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"word\",\n  \"description\": \"The word 'WRITING' in uppercase letters.\",\n  \"relation\": \"above the line and QR code\"\n}\n```\n\n```json\n{\n  \"id\": \"item2\",\n  \"name\": \"line\",\n  \"description\": \"A horizontal line.\",\n  \"relation\": \"between the word 'WRITING' and the QR code\"\n}\n```\n\n```json\n{\n  \"id\": \"item3\",\n  \"name\": \"QR code\",\n  \"description\": \"A small QR code.\",\n  \"relation\": \"below the line and the word 'WRITING'\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) handwriting on the wall (B) writing on the wall (C) handwriting (D) piece of writing\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "writing on the wall"
+    }
+}

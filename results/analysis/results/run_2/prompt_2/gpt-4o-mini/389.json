@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle you provided seems to convey the phrase \"dead in the water.\" The skull in the center represents \"dead,\" and the water-like elements on the sides suggest \"in the water.\" \n\nSo the answer is (C) dead in the water.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead inside (B) dead fish (C) dead in the water (D) dead and buried",
-    "answer": {
-        "C": "dead in the water"
-    }
+   "gpt4v_response": "The rebus puzzle you provided seems to convey the phrase \"dead in the water.\" The skull in the center represents \"dead,\" and the water-like elements on the sides suggest \"in the water.\" \n\nSo the answer is (C) dead in the water.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead inside (B) dead fish (C) dead in the water (D) dead and buried",
+   "answer": {
+      "C": "dead in the water"
+   },
+   "extracted_response": "C) dead in the water"
 }

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The text \"CRJEWELOWN\" can be interpreted as \"Crown Jewel Own\".  This is a slightly awkward phrasing, but it clearly points to the phrase \"**jewel in the crown**\" (B).\n\nThe other options don't fit the rebus:\n\n* (A) necklace:  While jewels can be part of a necklace, the word \"crown\" isn't represented.\n* (C) crowning glory:  The word \"glory\" isn't present.\n* (D) crownwork: While \"crown\" is present, \"work\" isn't.\n\n\nTherefore, the answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_CRJEWELOWN\",\n  \"description\": \"The text 'CRJEWELOWN' is written in bold, uppercase letters.\",\n  \"relation\": \"centered in the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) necklace (B) jewel in the crown (C) crowning glory (D) crownwork\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "jewel in the crown"
+    }
+}

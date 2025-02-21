@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B) zip one's lip.  The letters P, I, and Z are vertically stacked, suggesting the phrase \"P I Z\" which sounds like \"peace\".  The action of \"zipping one's lip\" means to be quiet and keep a secret which would bring \"peace\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) zip past (B) zip one's lip (C) zip up (D) zip it",
-    "answer": {
-        "C": "zip up"
-    }
+   "gemini_pro_response": "The answer is (B) zip one's lip.  The letters P, I, and Z are vertically stacked, suggesting the phrase \"P I Z\" which sounds like \"peace\".  The action of \"zipping one's lip\" means to be quiet and keep a secret which would bring \"peace\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) zip past (B) zip one's lip (C) zip up (D) zip it",
+   "answer": {
+      "C": "zip up"
+   },
+   "extracted_response": "B) zip one's lip"
 }

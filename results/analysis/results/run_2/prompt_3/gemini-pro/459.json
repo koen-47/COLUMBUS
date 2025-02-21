@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle \"4STAND4\" can be read as \"Four STAND Four\", which sounds like \"Stand for\".  The description reinforces this by explicitly stating the sound of \"4\" is \"for\".\n\nThus, the answer is (B).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: STAND, repeat: 1)\nNode 2 attributes: (text: 4, repeat: 1, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) stand out (B) stand for (C) stand in for (D) stand with",
-    "answer": {
-        "C": "stand in for"
-    }
+   "gemini_pro_response": "The rebus puzzle \"4STAND4\" can be read as \"Four STAND Four\", which sounds like \"Stand for\".  The description reinforces this by explicitly stating the sound of \"4\" is \"for\".\n\nThus, the answer is (B).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: STAND, repeat: 1)\nNode 2 attributes: (text: 4, repeat: 1, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) stand out (B) stand for (C) stand in for (D) stand with",
+   "answer": {
+      "C": "stand in for"
+   },
+   "extracted_response": "B) stand for"
 }

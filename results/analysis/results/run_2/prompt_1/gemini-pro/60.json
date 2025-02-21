@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"beg to differ\" (B).  The words \"beg\" and \"differ\" are present. \"Beg to differ\" is an idiom meaning to politely disagree with someone.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beggarman (B) beg to differ (C) beg off (D) go begging",
-    "answer": {
-        "B": "beg to differ"
-    }
+   "gemini_pro_response": "The image conveys \"beg to differ\" (B).  The words \"beg\" and \"differ\" are present. \"Beg to differ\" is an idiom meaning to politely disagree with someone.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beggarman (B) beg to differ (C) beg off (D) go begging",
+   "answer": {
+      "B": "beg to differ"
+   },
+   "extracted_response": "B"
 }

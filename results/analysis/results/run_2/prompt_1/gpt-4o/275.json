@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(B) bring to the hammer",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hammer home (B) bring to the hammer (C) bring down the hammer (D) put the hammer down",
-    "answer": {
-        "C": "bring down the hammer"
-    }
+   "gpt4v_response": "(B) bring to the hammer",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hammer home (B) bring to the hammer (C) bring down the hammer (D) put the hammer down",
+   "answer": {
+      "C": "bring down the hammer"
+   },
+   "extracted_response": "B) bring to the hammer"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) a small step for man.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) giant step (B) step on someone's toes (C) a small step for man (D) one step at a time",
-    "answer": {
-        "C": "a small step for man"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) a small step for man.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) giant step (B) step on someone's toes (C) a small step for man (D) one step at a time",
+   "answer": {
+      "C": "a small step for man"
+   },
+   "extracted_response": "C"
 }

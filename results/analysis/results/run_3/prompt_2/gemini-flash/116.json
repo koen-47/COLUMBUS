@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) chinaman on one's back.\n\nThe rebus shows \"CHINAMAN\" over a line, and below the line are \"1111 BACK\".  The \"1111\" represents \"one one one one\", or \"one\" repeated four times, which sounds like \"on one's\". Thus, \"CHINAMAN on one's BACK\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) Chinaman's chance (B) Chinese puzzle (C) chinaman on one's back (D) behind someone's back",
-    "answer": {
-        "C": "chinaman on one's back"
-    }
+   "gemini_pro_response": "The answer is (C) chinaman on one's back.\n\nThe rebus shows \"CHINAMAN\" over a line, and below the line are \"1111 BACK\".  The \"1111\" represents \"one one one one\", or \"one\" repeated four times, which sounds like \"on one's\". Thus, \"CHINAMAN on one's BACK\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) Chinaman's chance (B) Chinese puzzle (C) chinaman on one's back (D) behind someone's back",
+   "answer": {
+      "C": "chinaman on one's back"
+   },
+   "extracted_response": "C) chinaman on one's back"
 }

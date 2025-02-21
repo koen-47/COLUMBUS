@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "None of the provided options are conveyed by the image. The image shows the word \"MANDOGGER.\" This appears to be a portmanteau of \"man\" and \"dogger,\" likely referencing a fisherman who fishes for dogfish.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see a man about a dog (B) dog around (C) dog in the manger (D) mantiger",
-    "answer": {
-        "C": "dog in the manger"
-    }
+   "gemini_pro_response": "None of the provided options are conveyed by the image. The image shows the word \"MANDOGGER.\" This appears to be a portmanteau of \"man\" and \"dogger,\" likely referencing a fisherman who fishes for dogfish.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see a man about a dog (B) dog around (C) dog in the manger (D) mantiger",
+   "answer": {
+      "C": "dog in the manger"
+   },
+   "extracted_response": "None of the provided options are conveyed by the image. The image shows the word \"MANDOGGER.\" This appears to be a portmanteau of \"man\" and \"dogger,\" likely referencing a fisherman who fishes for dogfish."
 }

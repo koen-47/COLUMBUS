@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image clearly shows the word \"STEP\".  None of the other phrases are present.  So, none of the options fully encompass the image, but the closest is:\n\n\n**(C) step over** (because the other options have extra words that aren't present)",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) giant step (B) a small step for man (C) step over (D) step lively",
-    "answer": {
-        "A": "giant step"
-    }
+   "gemini_pro_response": "The image clearly shows the word \"STEP\".  None of the other phrases are present.  So, none of the options fully encompass the image, but the closest is:\n\n\n**(C) step over** (because the other options have extra words that aren't present)",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) giant step (B) a small step for man (C) step over (D) step lively",
+   "answer": {
+      "A": "giant step"
+   },
+   "extracted_response": "C) step over"
 }

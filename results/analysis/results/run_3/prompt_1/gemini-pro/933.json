@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image represents **(C) kick one's heels**.\n\nHere's why:\n\n* **1111** visually suggests the passage of time, waiting around.\n* The **heel** icon reinforces the idea of feet.\n\n\"Kick one's heels\" means to spend time idly, waiting for something to happen. The image cleverly uses the visual of a heel and the passing of time (1111) to represent this idiom.\n\nThe other options don't fit:\n\n* **Turn on one's heel:** This means to turn around suddenly, often in anger or dismissal.  The image doesn't suggest a sudden turning motion.\n* **Kick up one's heels:** This means to celebrate or have a good time.  The image conveys boredom or waiting, not celebration.\n* **Bring to heel:** This means to force someone or something to obey. The image has no element of force or obedience.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn on one's heel (B) kick up one's heels (C) kick one's heels (D) bring to heel",
-    "answer": {
-        "A": "turn on one's heel"
-    }
+   "gemini_pro_response": "The image represents **(C) kick one's heels**.\n\nHere's why:\n\n* **1111** visually suggests the passage of time, waiting around.\n* The **heel** icon reinforces the idea of feet.\n\n\"Kick one's heels\" means to spend time idly, waiting for something to happen. The image cleverly uses the visual of a heel and the passing of time (1111) to represent this idiom.\n\nThe other options don't fit:\n\n* **Turn on one's heel:** This means to turn around suddenly, often in anger or dismissal.  The image doesn't suggest a sudden turning motion.\n* **Kick up one's heels:** This means to celebrate or have a good time.  The image conveys boredom or waiting, not celebration.\n* **Bring to heel:** This means to force someone or something to obey. The image has no element of force or obedience.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn on one's heel (B) kick up one's heels (C) kick one's heels (D) bring to heel",
+   "answer": {
+      "A": "turn on one's heel"
+   },
+   "extracted_response": "C) kick one's heels"
 }

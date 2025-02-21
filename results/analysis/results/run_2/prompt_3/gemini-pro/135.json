@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"BO\" then a picture of a bird, and then \"SOM\".  This represents \"Bird in the BO-SOM\".\n\nSo the answer is (A).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc26, repeat: 1, icon: (bird: \ud83d\udc26))\nNode 2 attributes: (text: BOSOM, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bird in the bosom (B) bird of passage (C) ghetto bird (D) early bird",
-    "answer": {
-        "A": "bird in the bosom"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"BO\" then a picture of a bird, and then \"SOM\".  This represents \"Bird in the BO-SOM\".\n\nSo the answer is (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc26, repeat: 1, icon: (bird: \ud83d\udc26))\nNode 2 attributes: (text: BOSOM, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bird in the bosom (B) bird of passage (C) ghetto bird (D) early bird",
+   "answer": {
+      "A": "bird in the bosom"
+   },
+   "extracted_response": "A) bird in the bosom"
 }

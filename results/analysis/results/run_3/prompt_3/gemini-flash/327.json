@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) midlife crisis.\n\nThe arrows in the image indicate that the word \"LIFE\" should be interpreted as having its middle part highlighted or emphasized.  When combined with \"CRISIS\", this creates the phrase \"midlife crisis\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: LIFE, repeat: 1, highlight: middle)\nNode 2 attributes: (text: CRISIS, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) mid life crisis (B) prime of life (C) fail at life (D) get a life",
-    "answer": {
-        "A": "mid life crisis"
-    }
+   "gemini_pro_response": "The correct answer is (A) midlife crisis.\n\nThe arrows in the image indicate that the word \"LIFE\" should be interpreted as having its middle part highlighted or emphasized.  When combined with \"CRISIS\", this creates the phrase \"midlife crisis\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: LIFE, repeat: 1, highlight: middle)\nNode 2 attributes: (text: CRISIS, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) mid life crisis (B) prime of life (C) fail at life (D) get a life",
+   "answer": {
+      "A": "mid life crisis"
+   },
+   "extracted_response": "A) mid life crisis"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (A) high horse.\n\nThe word \"GNORW\" is \"WRONG\" spelled backward. This is placed above the word \"HORSE,\" indicating \"wrong over horse\" or \"wrong on top of horse.\" This symbolizes being on a \"high horse.\"",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high horse (B) horse around (C) dark horse (D) back the wrong horse",
-    "answer": {
-        "D": "back the wrong horse"
-    }
+   "gemini_pro_response": "The answer is (A) high horse.\n\nThe word \"GNORW\" is \"WRONG\" spelled backward. This is placed above the word \"HORSE,\" indicating \"wrong over horse\" or \"wrong on top of horse.\" This symbolizes being on a \"high horse.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high horse (B) horse around (C) dark horse (D) back the wrong horse",
+   "answer": {
+      "D": "back the wrong horse"
+   },
+   "extracted_response": "A) high horse"
 }

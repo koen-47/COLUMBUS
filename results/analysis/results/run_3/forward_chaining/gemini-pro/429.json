@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"DIG\" maps to the word \"dig\" in all answer choices.\nThe \"hole\" maps directly to the phrase \"a hole\" in B and C.\nOption A \"dig deep\" and option D \"blow a hole through\" can be eliminated as the hole icon is not represented by \"deep\" or \"through\".\nConsidering both parts of the puzzle together gives the phrase \"dig a hole\".\nOption C, \"dig out of a hole\", doesn't apply because the image clearly presents digging into a hole, creating the hole.\n\nTherefore, the rebus represents (B) **dig oneself in a hole**.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"text_DIG\",\n    \"description\": \"The word 'DIG' written in uppercase letters.\",\n    \"relation\": \"next to item2\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"icon_hole\",\n    \"description\": \"A black circle inside a square, representing a hole.\",\n    \"relation\": \"next to item1\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) dig deep (B) dig oneself in a hole (C) dig out of a hole (D) blow a hole through\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "dig out of a hole"
+    }
+}

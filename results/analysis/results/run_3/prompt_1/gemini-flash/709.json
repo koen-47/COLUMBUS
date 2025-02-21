@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(A) new kid on the block**.\n\nThe image shows the word \"NEW\" followed by a picture of a child's face.  This visually represents the idiom \"new kid on the block,\" which refers to someone new who has recently joined a group or place.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) new kid on the block (B) gapers' block (C) kid around (D) what's new",
-    "answer": {
-        "A": "new kid on the block"
-    }
+   "gemini_pro_response": "The answer is **(A) new kid on the block**.\n\nThe image shows the word \"NEW\" followed by a picture of a child's face.  This visually represents the idiom \"new kid on the block,\" which refers to someone new who has recently joined a group or place.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) new kid on the block (B) gapers' block (C) kid around (D) what's new",
+   "answer": {
+      "A": "new kid on the block"
+   },
+   "extracted_response": "A) new kid on the block"
 }

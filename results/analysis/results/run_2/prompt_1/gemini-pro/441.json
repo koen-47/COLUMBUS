@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image simply displays the word \"CHANGE\".  None of the provided phrases are present.  If I had to choose the closest, it would be (C) change over, but the image doesn't explicitly say \"change over\". It only says \"CHANGE\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for a change (B) small change (C) change over (D) loose change",
-    "answer": {
-        "B": "small change"
-    }
+   "gemini_pro_response": "The image simply displays the word \"CHANGE\".  None of the provided phrases are present.  If I had to choose the closest, it would be (C) change over, but the image doesn't explicitly say \"change over\". It only says \"CHANGE\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for a change (B) small change (C) change over (D) loose change",
+   "answer": {
+      "B": "small change"
+   },
+   "extracted_response": "C) change over"
 }

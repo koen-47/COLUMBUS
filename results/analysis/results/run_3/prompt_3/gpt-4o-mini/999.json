@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle you provided consists of a window icon (\ud83e\ude9f) and a world icon (\ud83c\udf0d). \n\nBased on the description and the elements involved, the phrase conveyed is \"window on the world.\" \n\nSo the correct answer is (D) window on the world.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83e\ude9f, repeat: 1, icon: (window: \ud83e\ude9f))\nNode 2 attributes: (text: \ud83c\udf0d, repeat: 1, icon: (world: \ud83c\udf0d))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) outside world (B) the world over (C) out the window (D) window on the world",
-    "answer": {
-        "D": "window on the world"
-    }
+   "gpt4v_response": "The rebus puzzle you provided consists of a window icon (\ud83e\ude9f) and a world icon (\ud83c\udf0d). \n\nBased on the description and the elements involved, the phrase conveyed is \"window on the world.\" \n\nSo the correct answer is (D) window on the world.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83e\ude9f, repeat: 1, icon: (window: \ud83e\ude9f))\nNode 2 attributes: (text: \ud83c\udf0d, repeat: 1, icon: (world: \ud83c\udf0d))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) outside world (B) the world over (C) out the window (D) window on the world",
+   "answer": {
+      "D": "window on the world"
+   },
+   "extracted_response": "D) window on the world"
 }

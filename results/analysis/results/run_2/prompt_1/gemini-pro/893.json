@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts the words \"TAKE\" and \"GRAVE\", which is a rebus puzzle representing the phrase \"double take\". This refers to looking at something twice, not any of the options involving the meaning of \"grave\".  Therefore, none of the provided options are correct.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's own grave (B) take to the grave (C) take someone to the grave (D) turn in one's grave",
-    "answer": {
-        "B": "take to the grave"
-    }
+   "gemini_pro_response": "The image depicts the words \"TAKE\" and \"GRAVE\", which is a rebus puzzle representing the phrase \"double take\". This refers to looking at something twice, not any of the options involving the meaning of \"grave\".  Therefore, none of the provided options are correct.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's own grave (B) take to the grave (C) take someone to the grave (D) turn in one's grave",
+   "answer": {
+      "B": "take to the grave"
+   },
+   "extracted_response": "The image depicts the words \"TAKE\" and \"GRAVE\", which is a rebus puzzle representing the phrase \"double take\". This refers to looking at something twice, not any of the options involving the meaning of \"grave\".  Therefore, none of the provided options are correct."
 }

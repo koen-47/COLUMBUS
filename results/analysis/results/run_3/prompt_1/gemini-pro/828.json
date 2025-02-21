@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"**A) set in stone**\". \n\nThe letters are arranged to spell \"ST SET ONE\", which can be parsed as \"set in stone\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in stone (B) stone dead (C) carved in stone (D) rolling stone",
-    "answer": {
-        "A": "set in stone"
-    }
+   "gemini_pro_response": "The image conveys \"**A) set in stone**\". \n\nThe letters are arranged to spell \"ST SET ONE\", which can be parsed as \"set in stone\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in stone (B) stone dead (C) carved in stone (D) rolling stone",
+   "answer": {
+      "A": "set in stone"
+   },
+   "extracted_response": "A) set in stone"
 }

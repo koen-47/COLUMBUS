@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"CUDGEL\" repeated multiple times, with the letters \"E\", \"K\", \"A\", and \"T\" arranged vertically next to it. This suggests the phrase \"take up the cudgel for,\" as \"take\" can be inferred from the arrangement of letters. \n\nSo, the answer is (B) take up the cudgel for.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take the mick (B) take up the cudgel for (C) chew the cud (D) pack fudge",
-    "answer": {
-        "B": "take up the cudgel for"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"CUDGEL\" repeated multiple times, with the letters \"E\", \"K\", \"A\", and \"T\" arranged vertically next to it. This suggests the phrase \"take up the cudgel for,\" as \"take\" can be inferred from the arrangement of letters. \n\nSo, the answer is (B) take up the cudgel for.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take the mick (B) take up the cudgel for (C) chew the cud (D) pack fudge",
+   "answer": {
+      "B": "take up the cudgel for"
+   },
+   "extracted_response": "B) take up the cudgel for"
 }

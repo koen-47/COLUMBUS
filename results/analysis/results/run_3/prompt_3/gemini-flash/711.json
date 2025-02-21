@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) nose out of joint.\n\nThe image shows a nose (\ud83d\udc43) and the word \"JOINT\".  The placement suggests the nose is \"out of\" the joint.  Therefore, the rebus represents the idiom \"nose out of joint\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc43, repeat: 1, icon: (nose: \ud83d\udc43))\nNode 2 attributes: (text: JOINT, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) keep one's nose clean (B) button nose (C) nose out of joint (D) turn up one's nose",
-    "answer": {
-        "C": "nose out of joint"
-    }
+   "gemini_pro_response": "The correct answer is (C) nose out of joint.\n\nThe image shows a nose (\ud83d\udc43) and the word \"JOINT\".  The placement suggests the nose is \"out of\" the joint.  Therefore, the rebus represents the idiom \"nose out of joint\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc43, repeat: 1, icon: (nose: \ud83d\udc43))\nNode 2 attributes: (text: JOINT, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) keep one's nose clean (B) button nose (C) nose out of joint (D) turn up one's nose",
+   "answer": {
+      "C": "nose out of joint"
+   },
+   "extracted_response": "C) nose out of joint"
 }

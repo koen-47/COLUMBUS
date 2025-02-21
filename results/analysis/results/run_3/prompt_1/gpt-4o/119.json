@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (D) full circle.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) circle back (B) inner circle (C) swing round the circle (D) full circle",
-    "answer": {
-        "A": "circle back"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (D) full circle.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) circle back (B) inner circle (C) swing round the circle (D) full circle",
+   "answer": {
+      "A": "circle back"
+   },
+   "extracted_response": "D) full circle"
 }

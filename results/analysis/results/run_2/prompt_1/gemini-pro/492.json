@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image repeats the word \"keeps,\" suggesting the idiom \"for keeps.\"  So the answer is (B).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold out for (B) for keeps (C) earn one's keep (D) for once",
-    "answer": {
-        "B": "for keeps"
-    }
+   "gemini_pro_response": "The image repeats the word \"keeps,\" suggesting the idiom \"for keeps.\"  So the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold out for (B) for keeps (C) earn one's keep (D) for once",
+   "answer": {
+      "B": "for keeps"
+   },
+   "extracted_response": "B) for keeps"
 }

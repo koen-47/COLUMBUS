@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows two icons of a person running, one above the other. This setup suggests the concept of \"running with\" someone, as they are both running in the same direction and aligned vertically.\n\nThe correct answer is (A) run with.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"running_person_top\",\n        \"description\": \"An icon of a person running, located at the top.\",\n        \"relation\": \"above the second running person\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"running_person_bottom\",\n        \"description\": \"An icon of a person running, located at the bottom.\",\n        \"relation\": \"below the first running person\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) run with (B) run to (C) run past (D) run about\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "run to"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the word \"GNORW\" next to a picture of a horse. \"GNORW\" is \"WRONG\" spelled backward.  Combined with the horse image, this conveys the idiom **(C) back the wrong horse**. This idiom means to support the wrong person or thing, especially in a competition or other contest.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high horse (B) dark horse (C) back the wrong horse (D) horse around",
-    "answer": {
-        "C": "back the wrong horse"
-    }
+   "gemini_pro_response": "The image shows the word \"GNORW\" next to a picture of a horse. \"GNORW\" is \"WRONG\" spelled backward.  Combined with the horse image, this conveys the idiom **(C) back the wrong horse**. This idiom means to support the wrong person or thing, especially in a competition or other contest.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high horse (B) dark horse (C) back the wrong horse (D) horse around",
+   "answer": {
+      "C": "back the wrong horse"
+   },
+   "extracted_response": "C) back the wrong horse"
 }

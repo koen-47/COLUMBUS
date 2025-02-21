@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) for my money.\n\nHere's why:\n\n* **Node 1:** \"MY\" is repeated four times, and the sound attribute indicates this should be read as \"for\".  This is a rebus clue where the repetition of a word or phrase changes its meaning, phonetically in this case.\n\n* **Node 2:** The money icon ($) represents \"money\".\n\nCombining these, we get \"for my money\".",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MY, repeat: 4, sound: (for: 4))\nNode 2 attributes: (text: \ud83d\udcb5, repeat: 1, icon: (money: \ud83d\udcb5))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) for my money (B) for the love of me (C) for the love of (D) on the money",
-    "answer": {
-        "A": "for my money"
-    }
+   "gemini_pro_response": "The correct answer is (A) for my money.\n\nHere's why:\n\n* **Node 1:** \"MY\" is repeated four times, and the sound attribute indicates this should be read as \"for\".  This is a rebus clue where the repetition of a word or phrase changes its meaning, phonetically in this case.\n\n* **Node 2:** The money icon ($) represents \"money\".\n\nCombining these, we get \"for my money\".",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MY, repeat: 4, sound: (for: 4))\nNode 2 attributes: (text: \ud83d\udcb5, repeat: 1, icon: (money: \ud83d\udcb5))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) for my money (B) for the love of me (C) for the love of (D) on the money",
+   "answer": {
+      "A": "for my money"
+   },
+   "extracted_response": "A) for my money"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The phrase conveyed in the image is (C) grow some balls.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust one's balls (B) balls to the wall (C) grow some balls (D) have someone by the balls",
-    "answer": {
-        "B": "balls to the wall"
-    }
+   "gpt4v_response": "The phrase conveyed in the image is (C) grow some balls.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust one's balls (B) balls to the wall (C) grow some balls (D) have someone by the balls",
+   "answer": {
+      "B": "balls to the wall"
+   },
+   "extracted_response": "C"
 }

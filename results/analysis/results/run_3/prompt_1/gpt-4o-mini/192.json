@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (C) push the boat out.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) boy in the boat (B) turn the boat (C) push the boat out (D) miss the boat",
-    "answer": {
-        "A": "boy in the boat"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) push the boat out.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) boy in the boat (B) turn the boat (C) push the boat out (D) miss the boat",
+   "answer": {
+      "A": "boy in the boat"
+   },
+   "extracted_response": "C"
 }

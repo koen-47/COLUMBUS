@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) painful on the eyes.  The image shows the word \"PAINFUL\" above a line, suggesting it's describing something below the line.  The \"IIII\" visually represents something that could be considered visually unpleasant or hard to look at. Therefore, \"painful on the eyes\" is the most fitting description.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hard on the eyes (B) sight for sore eyes (C) easy on the eye (D) painful on the eyes",
-    "answer": {
-        "D": "painful on the eyes"
-    }
+   "gemini_pro_response": "The correct answer is (D) painful on the eyes.  The image shows the word \"PAINFUL\" above a line, suggesting it's describing something below the line.  The \"IIII\" visually represents something that could be considered visually unpleasant or hard to look at. Therefore, \"painful on the eyes\" is the most fitting description.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hard on the eyes (B) sight for sore eyes (C) easy on the eye (D) painful on the eyes",
+   "answer": {
+      "D": "painful on the eyes"
+   },
+   "extracted_response": "D) painful on the eyes"
 }

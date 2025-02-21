@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(A) put one's name in the hat**.\n\nThe image shows the word \"PUT\" followed by a hat, and then a hat below a line, visually representing the action of putting something (a name, in this context) into a hat.  The other options don't fit the visual representation.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put one's name in the hat (B) put a hat on a hat (C) pick out of a hat (D) pass the hat",
-    "answer": {
-        "B": "put a hat on a hat"
-    }
+   "gemini_pro_response": "The correct answer is **(A) put one's name in the hat**.\n\nThe image shows the word \"PUT\" followed by a hat, and then a hat below a line, visually representing the action of putting something (a name, in this context) into a hat.  The other options don't fit the visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put one's name in the hat (B) put a hat on a hat (C) pick out of a hat (D) pass the hat",
+   "answer": {
+      "B": "put a hat on a hat"
+   },
+   "extracted_response": "A) put one's name in the hat"
 }

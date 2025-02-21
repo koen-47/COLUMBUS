@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"MOOR\" repeated, with the second instance having a \"0\" instead of an \"O.\" This suggests a play on words involving \"back\" and \"rooms.\" \n\nThe answer is (B) backrooms.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backroom (B) backrooms (C) showrooms (D) playrooms",
-    "answer": {
-        "B": "backrooms"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"MOOR\" repeated, with the second instance having a \"0\" instead of an \"O.\" This suggests a play on words involving \"back\" and \"rooms.\" \n\nThe answer is (B) backrooms.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backroom (B) backrooms (C) showrooms (D) playrooms",
+   "answer": {
+      "B": "backrooms"
+   },
+   "extracted_response": "B) backrooms"
 }

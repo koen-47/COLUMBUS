@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the words \"WINDOW\" and \"TIME\".  The spacing suggests the phrase \"window of time\". Since the word \"WINDOW\" is written in a noticeably smaller font than the word \"TIME\", this further emphasizes the smallness of the window. Therefore, the best answer is (C) small window of time.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) window on the world (B) make time (C) small window of time (D) matter of time",
-    "answer": {
-        "C": "small window of time"
-    }
+   "gemini_pro_response": "The image shows the words \"WINDOW\" and \"TIME\".  The spacing suggests the phrase \"window of time\". Since the word \"WINDOW\" is written in a noticeably smaller font than the word \"TIME\", this further emphasizes the smallness of the window. Therefore, the best answer is (C) small window of time.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) window on the world (B) make time (C) small window of time (D) matter of time",
+   "answer": {
+      "C": "small window of time"
+   },
+   "extracted_response": "C) small window of time"
 }

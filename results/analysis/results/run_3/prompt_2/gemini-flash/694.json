@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) midterms**.\n\nThe image shows the word \"TERM\" with arrows pointing up and down above and below it.  This visually represents \"mid-term,\" meaning in the middle of a term. Since there are two instances of this, it implies \"midterms\" (plural).\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midterm (B) midterms (C) midribs (D) midpoints",
-    "answer": {
-        "B": "midterms"
-    }
+   "gemini_pro_response": "The correct answer is **(B) midterms**.\n\nThe image shows the word \"TERM\" with arrows pointing up and down above and below it.  This visually represents \"mid-term,\" meaning in the middle of a term. Since there are two instances of this, it implies \"midterms\" (plural).\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midterm (B) midterms (C) midribs (D) midpoints",
+   "answer": {
+      "B": "midterms"
+   },
+   "extracted_response": "B) midterms"
 }

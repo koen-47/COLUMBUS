@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) cross one's legs.\n\nThe number \"1111\" is crossed out.  This visually represents \"crossing\" something out. Combined with the word \"legs,\" the rebus puzzle conveys the phrase \"cross one's legs.\"",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) open one's legs (B) have legs (C) cross one's legs (D) on one's last legs",
-    "answer": {
-        "C": "cross one's legs"
-    }
+   "gemini_pro_response": "The answer is (C) cross one's legs.\n\nThe number \"1111\" is crossed out.  This visually represents \"crossing\" something out. Combined with the word \"legs,\" the rebus puzzle conveys the phrase \"cross one's legs.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) open one's legs (B) have legs (C) cross one's legs (D) on one's last legs",
+   "answer": {
+      "C": "cross one's legs"
+   },
+   "extracted_response": "C) cross one's legs"
 }

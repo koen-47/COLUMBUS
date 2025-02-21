@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) aftershocks.\n\nThe image shows two instances of \"SHOCK\", with arrows indicating both upward and downward movements.  This visually represents the repeated nature of aftershocks following an initial shock (earthquake, for example).  The word \"aftershocks\" (plural) fits this visual representation better than the singular \"aftershock\" or the words related to snowshoes.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snowshoes (B) snowshoe (C) aftershock (D) aftershocks",
-    "answer": {
-        "D": "aftershocks"
-    }
+   "gemini_pro_response": "The correct answer is (D) aftershocks.\n\nThe image shows two instances of \"SHOCK\", with arrows indicating both upward and downward movements.  This visually represents the repeated nature of aftershocks following an initial shock (earthquake, for example).  The word \"aftershocks\" (plural) fits this visual representation better than the singular \"aftershock\" or the words related to snowshoes.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snowshoes (B) snowshoe (C) aftershock (D) aftershocks",
+   "answer": {
+      "D": "aftershocks"
+   },
+   "extracted_response": "D) aftershocks"
 }

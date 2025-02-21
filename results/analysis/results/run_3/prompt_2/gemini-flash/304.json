@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) cross my heart.\n\nThe rebus shows four \"1\"s crossed out with a line, followed by the word \"HEART\".  This visually represents \"crossing\" four \"ones\" (i.e., the number one) over a heart.  The phrase \"cross my heart\" is a common idiom.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have one's heart in (B) cross my heart and hope to die (C) cross my heart (D) cross one's heart",
-    "answer": {
-        "D": "cross one's heart"
-    }
+   "gemini_pro_response": "The correct answer is (C) cross my heart.\n\nThe rebus shows four \"1\"s crossed out with a line, followed by the word \"HEART\".  This visually represents \"crossing\" four \"ones\" (i.e., the number one) over a heart.  The phrase \"cross my heart\" is a common idiom.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have one's heart in (B) cross my heart and hope to die (C) cross my heart (D) cross one's heart",
+   "answer": {
+      "D": "cross one's heart"
+   },
+   "extracted_response": "C"
 }

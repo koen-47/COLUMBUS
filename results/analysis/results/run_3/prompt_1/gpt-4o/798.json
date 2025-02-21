@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(D) hit the ground running",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to ground (B) run into the ground (C) put in the ground (D) hit the ground running",
-    "answer": {
-        "B": "run into the ground"
-    }
+   "gpt4v_response": "(D) hit the ground running",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to ground (B) run into the ground (C) put in the ground (D) hit the ground running",
+   "answer": {
+      "B": "run into the ground"
+   },
+   "extracted_response": "D) hit the ground running"
 }

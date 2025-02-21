@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The running person icon can be interpreted as \"run\". The clover in a square represents being \"out of luck\", since it is boxed out. The running person is to the left of the boxed clover, which makes the phrase \"run out of luck\". Thus the answer is (A).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"item1\",\n    \"name\": \"running_person_icon\",\n    \"description\": \"An icon of a person running.\",\n    \"relation\": \"to the left of the clover in a square\"\n}\n```\n\n```json\n{\n    \"id\": \"item2\",\n    \"name\": \"clover_in_square\",\n    \"description\": \"A four-leaf clover inside a square.\",\n    \"relation\": \"to the right of the running person icon\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) run out of luck (B) luck out (C) run out (D) out of luck\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "run out of luck"
+    }
+}

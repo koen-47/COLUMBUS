@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (A) fly too close to the sun.\n\nThe words \"FLY CLOSE\" are written twice, with the word \"SUN\" appearing next to the second instance of \"FLY CLOSE\". This suggests excessive closeness to the sun, hence \"too close to the sun\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly too close to the sun (B) a trip to the sun (C) fly low (D) catch the sun",
-    "answer": {
-        "A": "fly too close to the sun"
-    }
+   "gemini_pro_response": "The answer is (A) fly too close to the sun.\n\nThe words \"FLY CLOSE\" are written twice, with the word \"SUN\" appearing next to the second instance of \"FLY CLOSE\". This suggests excessive closeness to the sun, hence \"too close to the sun\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly too close to the sun (B) a trip to the sun (C) fly low (D) catch the sun",
+   "answer": {
+      "A": "fly too close to the sun"
+   },
+   "extracted_response": "A) fly too close to the sun"
 }

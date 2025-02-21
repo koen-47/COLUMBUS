@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle \"QUIARROWVER\" can be solved by sounding it out phonetically and recognizing the word breaks. It sounds like \"quiver over.\"\n\nThus, the answer is (A) arrow in the quiver.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) arrow in the quiver (B) arrowheads (C) draw the long bow (D) make one's bow",
-    "answer": {
-        "A": "arrow in the quiver"
-    }
+   "gemini_pro_response": "The rebus puzzle \"QUIARROWVER\" can be solved by sounding it out phonetically and recognizing the word breaks. It sounds like \"quiver over.\"\n\nThus, the answer is (A) arrow in the quiver.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) arrow in the quiver (B) arrowheads (C) draw the long bow (D) make one's bow",
+   "answer": {
+      "A": "arrow in the quiver"
+   },
+   "extracted_response": "A) arrow in the quiver"
 }

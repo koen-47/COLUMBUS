@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) storm in a teacup or (A) tempest in a teapot.  These idioms both refer to a small event that has been exaggerated out of proportion. The image uses \"TEA\" and \"POT\" with a storm cloud icon in between to visually represent this idea.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tempest in a teapot (B) chocolate teapot (C) storm in a teacup (D) teapot",
-    "answer": {
-        "A": "tempest in a teapot"
-    }
+   "gemini_pro_response": "The image conveys (C) storm in a teacup or (A) tempest in a teapot.  These idioms both refer to a small event that has been exaggerated out of proportion. The image uses \"TEA\" and \"POT\" with a storm cloud icon in between to visually represent this idea.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tempest in a teapot (B) chocolate teapot (C) storm in a teacup (D) teapot",
+   "answer": {
+      "A": "tempest in a teapot"
+   },
+   "extracted_response": "A, C"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) cross the Thames.\n\nThe line drawn through the word \"Thames\" visually represents the action of crossing.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross the bridge (B) cross the thames (C) cross the Rhine (D) set the Thames on fire",
-    "answer": {
-        "B": "cross the thames"
-    }
+   "gemini_pro_response": "The correct answer is (A) cross the Thames.\n\nThe line drawn through the word \"Thames\" visually represents the action of crossing.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross the bridge (B) cross the thames (C) cross the Rhine (D) set the Thames on fire",
+   "answer": {
+      "B": "cross the thames"
+   },
+   "extracted_response": "A) cross the bridge, B) cross the thames"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **two for two**.\n\nThe image shows four \"2\"s, suggesting a score of two out of two, or \"two for two\".  The other options don't visually represent the arrangement of numbers in the image.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eat for two (B) turn two (C) two for two (D) put two and two together",
-    "answer": {
-        "C": "two for two"
-    }
+   "gemini_pro_response": "The correct answer is (C) **two for two**.\n\nThe image shows four \"2\"s, suggesting a score of two out of two, or \"two for two\".  The other options don't visually represent the arrangement of numbers in the image.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eat for two (B) turn two (C) two for two (D) put two and two together",
+   "answer": {
+      "C": "two for two"
+   },
+   "extracted_response": "C) two for two"
 }

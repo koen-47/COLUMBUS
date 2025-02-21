@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"blow up in one's face.\" The \"W\" and \"O\" represent \"blow,\" while the \"1\" and \"L\" can be interpreted as \"up\" and \"face.\" Therefore, the correct answer is (A) blow up in one's face.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow up in one's face (B) blow over (C) blow someone's mind (D) body blow",
-    "answer": {
-        "A": "blow up in one's face"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"blow up in one's face.\" The \"W\" and \"O\" represent \"blow,\" while the \"1\" and \"L\" can be interpreted as \"up\" and \"face.\" Therefore, the correct answer is (A) blow up in one's face.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow up in one's face (B) blow over (C) blow someone's mind (D) body blow",
+   "answer": {
+      "A": "blow up in one's face"
+   },
+   "extracted_response": "A) blow up in one's face"
 }

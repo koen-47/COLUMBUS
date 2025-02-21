@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) step up to the plate.\n\nThe image shows the word \"PETS\" vertically, next to the word \"PLATE\" written twice.  This is a visual rebus puzzle. The phrase \"step up to the plate\" means to take action or accept a challenge.  In this case, \"PETS\" are \"stepping up\" to the \"PLATE\" (twice).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step over (B) step down (C) step up to the plate (D) step up",
-    "answer": {
-        "C": "step up to the plate"
-    }
+   "gemini_pro_response": "The answer is (C) step up to the plate.\n\nThe image shows the word \"PETS\" vertically, next to the word \"PLATE\" written twice.  This is a visual rebus puzzle. The phrase \"step up to the plate\" means to take action or accept a challenge.  In this case, \"PETS\" are \"stepping up\" to the \"PLATE\" (twice).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step over (B) step down (C) step up to the plate (D) step up",
+   "answer": {
+      "C": "step up to the plate"
+   },
+   "extracted_response": "C) step up to the plate"
 }

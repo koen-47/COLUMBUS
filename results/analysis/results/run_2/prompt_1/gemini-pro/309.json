@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the word \"OLD\".  None of the phrases (A, B, C, or D) are present. However, \"old\" by itself makes the most sense, and is closest to option (D) - \"some old\".\n\nIf you had to choose one of the options, (D) is the closest. But it's not entirely accurate.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) old school (B) little old (C) big old (D) some old",
-    "answer": {
-        "B": "little old"
-    }
+   "gemini_pro_response": "The image shows the word \"OLD\".  None of the phrases (A, B, C, or D) are present. However, \"old\" by itself makes the most sense, and is closest to option (D) - \"some old\".\n\nIf you had to choose one of the options, (D) is the closest. But it's not entirely accurate.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) old school (B) little old (C) big old (D) some old",
+   "answer": {
+      "B": "little old"
+   },
+   "extracted_response": "D"
 }

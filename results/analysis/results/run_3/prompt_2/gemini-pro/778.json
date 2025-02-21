@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows dollar signs on either side of the word \"ROLL.\"  This represents \"roll\" being surrounded by money or \"in\" money.\n\nThe answer is (A) roll in wealth.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roll in wealth (B) on a roll (C) rollover (D) call roll",
-    "answer": {
-        "A": "roll in wealth"
-    }
+   "gemini_pro_response": "The rebus shows dollar signs on either side of the word \"ROLL.\"  This represents \"roll\" being surrounded by money or \"in\" money.\n\nThe answer is (A) roll in wealth.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roll in wealth (B) on a roll (C) rollover (D) call roll",
+   "answer": {
+      "A": "roll in wealth"
+   },
+   "extracted_response": "A) roll in wealth"
 }

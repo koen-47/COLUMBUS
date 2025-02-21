@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the words \"THINK\" and \"LOUD.\"  Both (B) think out loud and (D) think aloud are synonymous and match the image.  The other options are incorrect. Therefore, the answers are (B) and (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) think back (B) think out loud (C) think up (D) think aloud",
-    "answer": {
-        "B": "think out loud"
-    }
+   "gemini_pro_response": "The image shows the words \"THINK\" and \"LOUD.\"  Both (B) think out loud and (D) think aloud are synonymous and match the image.  The other options are incorrect. Therefore, the answers are (B) and (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) think back (B) think out loud (C) think up (D) think aloud",
+   "answer": {
+      "B": "think out loud"
+   },
+   "extracted_response": "B, D"
 }

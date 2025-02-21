@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (B) to boot.  Having two of something implies \"in addition\" or \"as well,\" which is the meaning of \"to boot.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone the boot (B) to boot (C) put the boot in (D) get the boot",
-    "answer": {
-        "B": "to boot"
-    }
+   "gemini_pro_response": "The image conveys (B) to boot.  Having two of something implies \"in addition\" or \"as well,\" which is the meaning of \"to boot.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone the boot (B) to boot (C) put the boot in (D) get the boot",
+   "answer": {
+      "B": "to boot"
+   },
+   "extracted_response": "B) to boot"
 }

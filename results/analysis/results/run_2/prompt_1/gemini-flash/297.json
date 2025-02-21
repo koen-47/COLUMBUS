@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(A) laugh out of court**.\n\nThe image shows the word \"LAUGH\" outside a box containing the word \"COURT\".  This visually represents the idiom \"laugh out of court,\" which means to dismiss something as being ridiculous or unfounded.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) laugh out of court (B) laugh all the way to the bank (C) laugh one's head off (D) hold court",
-    "answer": {
-        "A": "laugh out of court"
-    }
+   "gemini_pro_response": "The correct answer is **(A) laugh out of court**.\n\nThe image shows the word \"LAUGH\" outside a box containing the word \"COURT\".  This visually represents the idiom \"laugh out of court,\" which means to dismiss something as being ridiculous or unfounded.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) laugh out of court (B) laugh all the way to the bank (C) laugh one's head off (D) hold court",
+   "answer": {
+      "A": "laugh out of court"
+   },
+   "extracted_response": "A) laugh out of court"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) left holding the bag.\n\nHere's why:\n\n* **Node 1:** \"HOLDING\" reversed becomes \"GNIDLOH\".\n* **Node 2:** \"BAG\" remains \"BAG\".\n\nThe image shows \"GNIDLOH BAG\", which, when interpreted according to the node attributes, translates to \"HOLDING BAG\".  This directly corresponds to the idiom \"left holding the bag\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: HOLDING, repeat: 1, direction: reverse)\nNode 2 attributes: (text: BAG, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bag and baggage (B) in the bag (C) give someone the bag (D) left holding the bag",
-    "answer": {
-        "D": "left holding the bag"
-    }
+   "gemini_pro_response": "The correct answer is (D) left holding the bag.\n\nHere's why:\n\n* **Node 1:** \"HOLDING\" reversed becomes \"GNIDLOH\".\n* **Node 2:** \"BAG\" remains \"BAG\".\n\nThe image shows \"GNIDLOH BAG\", which, when interpreted according to the node attributes, translates to \"HOLDING BAG\".  This directly corresponds to the idiom \"left holding the bag\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: HOLDING, repeat: 1, direction: reverse)\nNode 2 attributes: (text: BAG, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bag and baggage (B) in the bag (C) give someone the bag (D) left holding the bag",
+   "answer": {
+      "D": "left holding the bag"
+   },
+   "extracted_response": "D) left holding the bag"
 }

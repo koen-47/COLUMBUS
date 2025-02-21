@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **go out with a bang**.\n\nThe image depicts a combination of arrows pointing up and down (\"with\") and an explosion symbol. This visually represents something ending (\"going out\") with a dramatic or explosive conclusion (\"a bang\").",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start with a bang (B) go out with a bang (C) bang out (D) bang up",
-    "answer": {
-        "A": "start with a bang"
-    }
+   "gemini_pro_response": "The correct answer is (B) **go out with a bang**.\n\nThe image depicts a combination of arrows pointing up and down (\"with\") and an explosion symbol. This visually represents something ending (\"going out\") with a dramatic or explosive conclusion (\"a bang\").",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start with a bang (B) go out with a bang (C) bang out (D) bang up",
+   "answer": {
+      "A": "start with a bang"
+   },
+   "extracted_response": "B) go out with a bang"
 }

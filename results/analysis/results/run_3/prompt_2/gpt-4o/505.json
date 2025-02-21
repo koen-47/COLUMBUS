@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"hand someone his hat.\" So, the answer is (C) hand someone his hat.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pick out of a hat (B) hat in hand (C) hand someone his hat (D) put a hat on a hat",
-    "answer": {
-        "B": "hat in hand"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"hand someone his hat.\" So, the answer is (C) hand someone his hat.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pick out of a hat (B) hat in hand (C) hand someone his hat (D) put a hat on a hat",
+   "answer": {
+      "B": "hat in hand"
+   },
+   "extracted_response": "C) hand someone his hat"
 }

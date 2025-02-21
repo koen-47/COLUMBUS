@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"ACASTLESIR\", which sounds like \"A castle is here\" when spoken aloud.  None of the provided options perfectly match, but the closest is (B) **castle in the air**. This phrase refers to something unrealistic or unattainable, but the image more literally presents a castle. However, the other options are clearly not represented, making (B) the most plausible interpretation.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the air (B) castle in the air (C) king of the castle (D) castles in the air",
-    "answer": {
-        "D": "castles in the air"
-    }
+   "gemini_pro_response": "The image says \"ACASTLESIR\", which sounds like \"A castle is here\" when spoken aloud.  None of the provided options perfectly match, but the closest is (B) **castle in the air**. This phrase refers to something unrealistic or unattainable, but the image more literally presents a castle. However, the other options are clearly not represented, making (B) the most plausible interpretation.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the air (B) castle in the air (C) king of the castle (D) castles in the air",
+   "answer": {
+      "D": "castles in the air"
+   },
+   "extracted_response": "B) castle in the air"
 }

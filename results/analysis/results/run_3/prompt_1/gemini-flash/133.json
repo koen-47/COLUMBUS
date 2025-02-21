@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) blood is thicker than water.\n\nThe image shows the word \"WABLOODTER\".  If you remove the \"WA\" and \"TER\" you are left with \"BLOOD\".  The phrase \"blood is thicker than water\" is a proverb that speaks about the strong bonds of family.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead in the water (B) blood in the water (C) blood is thicker than water (D) shed blood",
-    "answer": {
-        "B": "blood in the water"
-    }
+   "gemini_pro_response": "The answer is (C) blood is thicker than water.\n\nThe image shows the word \"WABLOODTER\".  If you remove the \"WA\" and \"TER\" you are left with \"BLOOD\".  The phrase \"blood is thicker than water\" is a proverb that speaks about the strong bonds of family.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead in the water (B) blood in the water (C) blood is thicker than water (D) shed blood",
+   "answer": {
+      "B": "blood in the water"
+   },
+   "extracted_response": "C) blood is thicker than water"
 }

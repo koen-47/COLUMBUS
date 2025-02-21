@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"head over heels\". \n\nHere's the mapping:\n\n* **\"face\" above the \"horizontal line\"**:  This represents \"head\" being \"over\".\n* **\"letters\" \"below the horizontal line\"**: The heels of shoes are depicted below the line, signifying \"heels\".  \n\n\nTherefore, the answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"face\",\n        \"description\": \"A simple face with two eyes and a straight line for a mouth.\",\n        \"relation\": \"above the horizontal line\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"horizontal line\",\n        \"description\": \"A straight horizontal line.\",\n        \"relation\": \"between the face and the letters\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"letters\",\n        \"description\": \"The letters 'N' and 'M' placed next to each other.\",\n        \"relation\": \"below the horizontal line\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) dig heels in (B) head over heels (C) kick up one's heels (D) take to one's heels\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "head over heels"
+    }
+}

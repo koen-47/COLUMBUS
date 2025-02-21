@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"House / Hill\", which most closely corresponds to **(C) the big house on the hill**. While the image doesn't explicitly mention \"big,\" the phrase captures the essence of a house located on a hill.  The other options are idioms with different meanings.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) king of the hill (B) hill to die on (C) the big house on the hill (D) over the hill",
-    "answer": {
-        "C": "the big house on the hill"
-    }
+   "gemini_pro_response": "The image conveys \"House / Hill\", which most closely corresponds to **(C) the big house on the hill**. While the image doesn't explicitly mention \"big,\" the phrase captures the essence of a house located on a hill.  The other options are idioms with different meanings.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) king of the hill (B) hill to die on (C) the big house on the hill (D) over the hill",
+   "answer": {
+      "C": "the big house on the hill"
+   },
+   "extracted_response": "C) the big house on the hill"
 }

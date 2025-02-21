@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) **take to the hills**.  The image visually represents the phrase \"take to the hills\" by arranging the words \"TAKE\" and \"HILLS\" in a way that suggests the action of taking (or going to) the hills.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take to the hills (B) head for the hills (C) run for the hills (D) over the hills and far away",
-    "answer": {
-        "A": "take to the hills"
-    }
+   "gemini_pro_response": "The correct answer is (A) **take to the hills**.  The image visually represents the phrase \"take to the hills\" by arranging the words \"TAKE\" and \"HILLS\" in a way that suggests the action of taking (or going to) the hills.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take to the hills (B) head for the hills (C) run for the hills (D) over the hills and far away",
+   "answer": {
+      "A": "take to the hills"
+   },
+   "extracted_response": "A) take to the hills"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts the idiom **(A) bone to pick**.  The pickaxe next to the bones suggests digging up old issues or having a grievance to discuss.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) funny bone (C) throw a bone to (D) to the bone",
-    "answer": {
-        "A": "bone to pick"
-    }
+   "gemini_pro_response": "The image depicts the idiom **(A) bone to pick**.  The pickaxe next to the bones suggests digging up old issues or having a grievance to discuss.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) funny bone (C) throw a bone to (D) to the bone",
+   "answer": {
+      "A": "bone to pick"
+   },
+   "extracted_response": "A"
 }

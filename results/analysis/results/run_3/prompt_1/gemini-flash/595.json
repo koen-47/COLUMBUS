@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(A) elephant in the room**.\n\nThe image shows an elephant visually replacing the letter \"O\" in the word \"ROOM\", creating the phrase \"elephant in the room\".  This is an idiom referring to an obvious problem or issue that is being ignored.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) white elephant (D) baby elephant in the room",
-    "answer": {
-        "A": "elephant in the room"
-    }
+   "gemini_pro_response": "The correct answer is **(A) elephant in the room**.\n\nThe image shows an elephant visually replacing the letter \"O\" in the word \"ROOM\", creating the phrase \"elephant in the room\".  This is an idiom referring to an obvious problem or issue that is being ignored.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) white elephant (D) baby elephant in the room",
+   "answer": {
+      "A": "elephant in the room"
+   },
+   "extracted_response": "A) elephant in the room"
 }

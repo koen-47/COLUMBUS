@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows a person running next to the word \"STEAM.\" This suggests the phrase \"run out of steam,\" as the person is depicted as running. \n\nThe correct answer is (C) run out of steam.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head of steam (B) blow off steam (C) run out of steam (D) under one's own steam",
-    "answer": {
-        "C": "run out of steam"
-    }
+   "gpt4v_response": "The rebus puzzle shows a person running next to the word \"STEAM.\" This suggests the phrase \"run out of steam,\" as the person is depicted as running. \n\nThe correct answer is (C) run out of steam.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head of steam (B) blow off steam (C) run out of steam (D) under one's own steam",
+   "answer": {
+      "C": "run out of steam"
+   },
+   "extracted_response": "C) run out of steam"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) hit the nail on the head.\n\nThe rebus shows \"HIT NAIL\" over \"HEAD\",  meaning to hit the nail on the head.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail the hammer on the head (B) nail in the coffin (C) hit the nail on the head (D) nail down",
-    "answer": {
-        "C": "hit the nail on the head"
-    }
+   "gemini_pro_response": "The correct answer is (C) hit the nail on the head.\n\nThe rebus shows \"HIT NAIL\" over \"HEAD\",  meaning to hit the nail on the head.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail the hammer on the head (B) nail in the coffin (C) hit the nail on the head (D) nail down",
+   "answer": {
+      "C": "hit the nail on the head"
+   },
+   "extracted_response": "C"
 }

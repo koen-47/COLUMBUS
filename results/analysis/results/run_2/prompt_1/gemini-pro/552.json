@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"What's in it for me\" when read from top to bottom, combining parts of each line. So the answer is (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nothing for it (B) in for it (C) what's it to you (D) what's in it for me",
-    "answer": {
-        "D": "what's in it for me"
-    }
+   "gemini_pro_response": "The image says \"What's in it for me\" when read from top to bottom, combining parts of each line. So the answer is (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nothing for it (B) in for it (C) what's it to you (D) what's in it for me",
+   "answer": {
+      "D": "what's in it for me"
+   },
+   "extracted_response": "D) what's in it for me"
 }

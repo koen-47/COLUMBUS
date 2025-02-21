@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) new kid on the block.  The line under \"NEW KID\" indicates that they are \"on\" the BLOCK.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kid around (B) new kid on the block (C) what's new (D) gapers' block",
-    "answer": {
-        "B": "new kid on the block"
-    }
+   "gemini_pro_response": "The correct answer is (B) new kid on the block.  The line under \"NEW KID\" indicates that they are \"on\" the BLOCK.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kid around (B) new kid on the block (C) what's new (D) gapers' block",
+   "answer": {
+      "B": "new kid on the block"
+   },
+   "extracted_response": "B) new kid on the block"
 }

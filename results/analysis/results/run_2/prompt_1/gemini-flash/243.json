@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) silent killer.\n\nThe image shows the word \"KILLER\" with the letter \"I\" taller than the other letters. This creates a visual representation of something hidden or unseen, which is a characteristic of a \"silent killer\".  The other options don't fit this visual metaphor.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) giant killer (B) sleeping giant (C) silent killer (D) killer instinct",
-    "answer": {
-        "A": "giant killer"
-    }
+   "gemini_pro_response": "The answer is (C) silent killer.\n\nThe image shows the word \"KILLER\" with the letter \"I\" taller than the other letters. This creates a visual representation of something hidden or unseen, which is a characteristic of a \"silent killer\".  The other options don't fit this visual metaphor.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) giant killer (B) sleeping giant (C) silent killer (D) killer instinct",
+   "answer": {
+      "A": "giant killer"
+   },
+   "extracted_response": "C) silent killer"
 }

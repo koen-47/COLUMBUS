@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) child crossing guard.\n\nThe image shows a child's head with a line through it, suggesting a \"no children\" or \"children prohibited\" sign, and a guard or adult figure beside it. This combination signifies a \"child crossing guard\" \u2013 someone who helps children cross the road safely.  The other options don't fit the visual representation.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take guard (B) child cross guard (C) love child (D) child crossing guard",
-    "answer": {
-        "B": "child cross guard"
-    }
+   "gemini_pro_response": "The correct answer is (D) child crossing guard.\n\nThe image shows a child's head with a line through it, suggesting a \"no children\" or \"children prohibited\" sign, and a guard or adult figure beside it. This combination signifies a \"child crossing guard\" \u2013 someone who helps children cross the road safely.  The other options don't fit the visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take guard (B) child cross guard (C) love child (D) child crossing guard",
+   "answer": {
+      "B": "child cross guard"
+   },
+   "extracted_response": "D) child crossing guard"
 }

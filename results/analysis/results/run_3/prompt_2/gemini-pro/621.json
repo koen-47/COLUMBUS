@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle is \"FALL / 1111 sword\". This can be read as \"fall on one thousand eleven swords,\" which is a play on the phrase \"fall on one's sword.\" So the answer is (A).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall on one's sword (B) put to the sword (C) flesh one's maiden sword (D) sword and sorcery",
-    "answer": {
-        "A": "fall on one's sword"
-    }
+   "gemini_pro_response": "The rebus puzzle is \"FALL / 1111 sword\". This can be read as \"fall on one thousand eleven swords,\" which is a play on the phrase \"fall on one's sword.\" So the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall on one's sword (B) put to the sword (C) flesh one's maiden sword (D) sword and sorcery",
+   "answer": {
+      "A": "fall on one's sword"
+   },
+   "extracted_response": "A) fall on one's sword"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) bearing the cross.\n\nThe rebus shows the word \"BEARING\" crossed out by a line.  This visually represents the phrase \"bearing the cross,\" a common idiom.\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BEARING, cross: True, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross to bear (C) off one's cross (D) bearing the cross",
-    "answer": {
-        "D": "bearing the cross"
-    }
+   "gemini_pro_response": "The correct answer is (D) bearing the cross.\n\nThe rebus shows the word \"BEARING\" crossed out by a line.  This visually represents the phrase \"bearing the cross,\" a common idiom.\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BEARING, cross: True, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross to bear (C) off one's cross (D) bearing the cross",
+   "answer": {
+      "D": "bearing the cross"
+   },
+   "extracted_response": "D) bearing the cross"
 }

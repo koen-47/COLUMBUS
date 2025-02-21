@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows the word \"MOMENT\" between two sun icons. This represents the phrase \"A moment in the sun,\" which is option (A).\n\nThe other options are incorrect:\n\n* (B) \"Catch the sun\" isn't conveyed by the positioning of the elements.\n* (C) \"Moment of truth\" isn't related to the sun icons.\n* (D) \"In the heat of the moment\" isn't represented by the arrangement.\n\nFinal Answer: The final answer is $\\boxed{A}$",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MOMENT, repeat: 1)\nNode 2 attributes: (text: \u2600, repeat: 1, icon: (sun: \u2600))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) moment in the sun (B) catch the sun (C) moment of truth (D) in the heat of the moment",
-    "answer": {
-        "A": "moment in the sun"
-    }
+   "gemini_pro_response": "The rebus shows the word \"MOMENT\" between two sun icons. This represents the phrase \"A moment in the sun,\" which is option (A).\n\nThe other options are incorrect:\n\n* (B) \"Catch the sun\" isn't conveyed by the positioning of the elements.\n* (C) \"Moment of truth\" isn't related to the sun icons.\n* (D) \"In the heat of the moment\" isn't represented by the arrangement.\n\nFinal Answer: The final answer is $\\boxed{A}$",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: MOMENT, repeat: 1)\nNode 2 attributes: (text: \u2600, repeat: 1, icon: (sun: \u2600))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) moment in the sun (B) catch the sun (C) moment of truth (D) in the heat of the moment",
+   "answer": {
+      "A": "moment in the sun"
+   },
+   "extracted_response": "A) moment in the sun"
 }

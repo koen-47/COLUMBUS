@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"BALLS\" to \"WALL\". This corresponds to option (D): \"balls to the wall\".\n\nThe other options do not fit the image. \n(A) \"grow some balls\": doesn't relate to \"WALL\".\n(B) \"bust one's balls\": doesn't relate to \"WALL\".\n(C) \"have someone by the balls\": doesn't relate to \"WALL\".\n\n\nTherefore, the answer is (D).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Text 'BALLS'\",\n        \"description\": \"The word 'BALLS' written in uppercase letters.\",\n        \"relation\": \"Appears twice in the image, once at the top and once at the bottom.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Text 'WALL'\",\n        \"description\": \"The word 'WALL' written in uppercase letters with the letter 'A' inverted.\",\n        \"relation\": \"Appears in the middle of the image, between the two instances of the word 'BALLS'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) grow some balls (B) bust one's balls (C) have someone by the balls (D) balls to the wall\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "balls to the wall"
+    }
+}

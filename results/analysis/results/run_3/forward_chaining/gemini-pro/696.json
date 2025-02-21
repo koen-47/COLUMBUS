@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word WATCH is in the center of the image. An upward arrow is above the word WATCH and a downward arrow is below the word WATCH. This translates to up-WATCH-down. Considering the answer choices:\n(A) deathwatch: doesn't fit the image\n(B) midgame: doesn't fit the image\n(C) stopwatch: doesn't fit the image\n(D) midwatch:  fits the image as it consists of \"mid\" (middle) and \"watch\", which translates to arrow up and down, and WATCH in the middle.\n\n\nThus the answer is (D).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"word_watch\",\n  \"description\": \"The word 'WATCH' in uppercase letters.\",\n  \"relation\": \"center of the image\"\n}\n```\n\n```json\n{\n  \"id\": \"2\",\n  \"name\": \"upward_arrow\",\n  \"description\": \"An arrow pointing upwards.\",\n  \"relation\": \"above the word 'WATCH'\"\n}\n```\n\n```json\n{\n  \"id\": \"3\",\n  \"name\": \"downward_arrow\",\n  \"description\": \"An arrow pointing downwards.\",\n  \"relation\": \"below the word 'WATCH'\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) deathwatch (B) midgame (C) stopwatch (D) midwatch\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "midwatch"
+    }
+}

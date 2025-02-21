@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The json file explains that \"WI\" and \"ND\" are parts of the word and the candle represents \"I\" together it makes the word WIND. Among all the provided options, only option (C) candle in the wind contains the word WIND.\nSo the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"WI\",\n    \"description\": \"The letters 'WI' in uppercase.\",\n    \"relation\": \"Part of the word 'WIND'.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"Candle\",\n    \"description\": \"An icon of a candle with a flame.\",\n    \"relation\": \"Represents the letter 'I' in the word 'WIND'.\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"ND\",\n    \"description\": \"The letters 'ND' in uppercase.\",\n    \"relation\": \"Part of the word 'WIND'.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) candlelight (B) burn the candle at both ends (C) candle in the wind (D) candlepower\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "candle in the wind"
+    }
+}

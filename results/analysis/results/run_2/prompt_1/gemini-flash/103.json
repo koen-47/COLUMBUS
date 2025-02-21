@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) butterfly upon a wheel.  The image shows a butterfly above a line, with the word \"WHEEL\" below the line.  This visually represents a butterfly on (or upon) a wheel.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wheel away (B) wheel within a wheel (C) butterfly upon a wheel (D) butterfly",
-    "answer": {
-        "C": "butterfly upon a wheel"
-    }
+   "gemini_pro_response": "The correct answer is (C) butterfly upon a wheel.  The image shows a butterfly above a line, with the word \"WHEEL\" below the line.  This visually represents a butterfly on (or upon) a wheel.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wheel away (B) wheel within a wheel (C) butterfly upon a wheel (D) butterfly",
+   "answer": {
+      "C": "butterfly upon a wheel"
+   },
+   "extracted_response": "C"
 }

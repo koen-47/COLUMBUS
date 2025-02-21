@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image most likely represents (B) dead end. The skull signifies a stop or a negative outcome, and the arrows pointing towards it from different directions reinforce the idea of no way out or no further progress.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead loss (B) dead end (C) dead last (D) dead end job",
-    "answer": {
-        "B": "dead end"
-    }
+   "gemini_pro_response": "The image most likely represents (B) dead end. The skull signifies a stop or a negative outcome, and the arrows pointing towards it from different directions reinforce the idea of no way out or no further progress.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead loss (B) dead end (C) dead last (D) dead end job",
+   "answer": {
+      "B": "dead end"
+   },
+   "extracted_response": "B) dead end"
 }

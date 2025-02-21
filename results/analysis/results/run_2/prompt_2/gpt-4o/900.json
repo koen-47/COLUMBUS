@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(C) the ball is in your court",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the ball is in someone's court (B) play ball (C) the ball is in your court (D) leave the ball in someone's court",
-    "answer": {
-        "C": "the ball is in your court"
-    }
+   "gpt4v_response": "(C) the ball is in your court",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the ball is in someone's court (B) play ball (C) the ball is in your court (D) leave the ball in someone's court",
+   "answer": {
+      "C": "the ball is in your court"
+   },
+   "extracted_response": "C) the ball is in your court"
 }

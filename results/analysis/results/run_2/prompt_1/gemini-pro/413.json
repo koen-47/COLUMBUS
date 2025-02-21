@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the number \"2\" crossed out, followed by the words \"TAKE UP\". This conveys the meaning of **(D) cross off**.  The image depicts the act of removing or eliminating item number 2 from a list, which is what \"cross off\" means.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross out (C) cross to take up (D) cross off",
-    "answer": {
-        "C": "cross to take up"
-    }
+   "gemini_pro_response": "The image shows the number \"2\" crossed out, followed by the words \"TAKE UP\". This conveys the meaning of **(D) cross off**.  The image depicts the act of removing or eliminating item number 2 from a list, which is what \"cross off\" means.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross out (C) cross to take up (D) cross off",
+   "answer": {
+      "C": "cross to take up"
+   },
+   "extracted_response": "D) cross off"
 }

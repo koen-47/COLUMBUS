@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word BABY is written in blue.  This corresponds to the phrase \"baby blue\".\n\n(A) black and blue: This option is incorrect because the word \"BABY\" is not black.\n\n(B) rainbow baby: This option is incorrect as the word \"BABY\" is written in blue, not rainbow colors.\n\n(C) baby blue: This option is a correct because \"baby\" refers to the word BABY and \"blue\" refers to the color of the word.\n\n(D) feel blue: This option is incorrect because \"feel\" has no visual representation.\n\nFinal Answer: The final answer is $\\boxed{C}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'BABY' written in blue uppercase letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) black and blue (B) rainbow baby (C) baby blue (D) feel blue\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "baby blue"
+    }
+}

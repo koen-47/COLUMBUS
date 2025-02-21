@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **down to earth**.\n\nThe image depicts two downward arrows pointing towards a representation of the Earth. This visually represents the idea of something coming down to Earth, or being down to earth \u2013 practical, sensible, and realistic.  The other options don't fit the visual metaphor.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down under (B) down the road (C) come down to earth (D) down to earth",
-    "answer": {
-        "D": "down to earth"
-    }
+   "gemini_pro_response": "The correct answer is (D) **down to earth**.\n\nThe image depicts two downward arrows pointing towards a representation of the Earth. This visually represents the idea of something coming down to Earth, or being down to earth \u2013 practical, sensible, and realistic.  The other options don't fit the visual metaphor.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down under (B) down the road (C) come down to earth (D) down to earth",
+   "answer": {
+      "D": "down to earth"
+   },
+   "extracted_response": "D) down to earth"
 }

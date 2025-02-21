@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) **good value**.\n\nThe image shows the word \"CLASS VALUE\" with arrows pointing both up and down.  This visually represents the idea of value (both high and low classes)  being present, suggesting good overall value. The other options don't fit the visual representation.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) good value (B) middle class value (C) class clown (D) class act",
-    "answer": {
-        "B": "middle class value"
-    }
+   "gemini_pro_response": "The correct answer is (A) **good value**.\n\nThe image shows the word \"CLASS VALUE\" with arrows pointing both up and down.  This visually represents the idea of value (both high and low classes)  being present, suggesting good overall value. The other options don't fit the visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) good value (B) middle class value (C) class clown (D) class act",
+   "answer": {
+      "B": "middle class value"
+   },
+   "extracted_response": "A) good value"
 }

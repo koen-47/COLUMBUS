@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle represents \"**C) storm in a teacup**\".\n\nThe words \"TEA\" and \"POT\" surround a cloud with a lightning bolt (a storm). This signifies a storm happening inside/within a teacup.  A \"storm in a teacup\" is an idiom referring to a small event that has been exaggerated out of proportion.\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tempest in a teapot (B) chocolate teapot (C) storm in a teacup (D) teapot",
-    "answer": {
-        "A": "tempest in a teapot"
-    }
+   "gemini_pro_response": "The rebus puzzle represents \"**C) storm in a teacup**\".\n\nThe words \"TEA\" and \"POT\" surround a cloud with a lightning bolt (a storm). This signifies a storm happening inside/within a teacup.  A \"storm in a teacup\" is an idiom referring to a small event that has been exaggerated out of proportion.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tempest in a teapot (B) chocolate teapot (C) storm in a teacup (D) teapot",
+   "answer": {
+      "A": "tempest in a teapot"
+   },
+   "extracted_response": "C) storm in a teacup"
 }

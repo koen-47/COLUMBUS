@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(A) down the line**.\n\nThe rebus shows the word \"LINE\" arranged vertically, with the description specifying the direction as \"down\".  This directly translates to \"down the line\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: LINE, repeat: 1, direction: down)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) down the line (B) on the line (C) out of line (D) over the line",
-    "answer": {
-        "A": "down the line"
-    }
+   "gemini_pro_response": "The correct answer is **(A) down the line**.\n\nThe rebus shows the word \"LINE\" arranged vertically, with the description specifying the direction as \"down\".  This directly translates to \"down the line\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: LINE, repeat: 1, direction: down)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) down the line (B) on the line (C) out of line (D) over the line",
+   "answer": {
+      "A": "down the line"
+   },
+   "extracted_response": "A) down the line"
 }

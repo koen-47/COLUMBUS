@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **get the boot**.\n\nThe image shows two boots, implying dismissal or being fired from a job.  \"Get the boot\" is an idiom meaning to be fired or dismissed.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone the boot (B) put the boot in (C) get the boot (D) to boot",
-    "answer": {
-        "D": "to boot"
-    }
+   "gemini_pro_response": "The correct answer is (C) **get the boot**.\n\nThe image shows two boots, implying dismissal or being fired from a job.  \"Get the boot\" is an idiom meaning to be fired or dismissed.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone the boot (B) put the boot in (C) get the boot (D) to boot",
+   "answer": {
+      "D": "to boot"
+   },
+   "extracted_response": "C) get the boot"
 }

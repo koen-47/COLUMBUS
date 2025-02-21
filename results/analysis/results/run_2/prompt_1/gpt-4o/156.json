@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (D) in the crosshairs.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wirehairs (B) crosshairs (C) wirehair (D) in the crosshairs",
-    "answer": {
-        "B": "crosshairs"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (D) in the crosshairs.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wirehairs (B) crosshairs (C) wirehair (D) in the crosshairs",
+   "answer": {
+      "B": "crosshairs"
+   },
+   "extracted_response": "D) in the crosshairs"
 }

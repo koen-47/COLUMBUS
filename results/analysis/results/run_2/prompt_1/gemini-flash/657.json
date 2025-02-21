@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) level to the ground.  The image shows the words \"LEVEL GROUND\" arranged to visually represent something level with the ground.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) level to the ground (B) from the ground up (C) go to ground (D) high ground",
-    "answer": {
-        "A": "level to the ground"
-    }
+   "gemini_pro_response": "The correct answer is (A) level to the ground.  The image shows the words \"LEVEL GROUND\" arranged to visually represent something level with the ground.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) level to the ground (B) from the ground up (C) go to ground (D) high ground",
+   "answer": {
+      "A": "level to the ground"
+   },
+   "extracted_response": "A) level to the ground"
 }

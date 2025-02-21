@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "B) hang up one's boots",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fill one's boots (B) hang up one's boots (C) too big for one's boots (D) kicking boots",
-    "answer": {
-        "C": "too big for one's boots"
-    }
+   "gpt4v_response": "B) hang up one's boots",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fill one's boots (B) hang up one's boots (C) too big for one's boots (D) kicking boots",
+   "answer": {
+      "C": "too big for one's boots"
+   },
+   "extracted_response": "B) hang up one's boots"
 }

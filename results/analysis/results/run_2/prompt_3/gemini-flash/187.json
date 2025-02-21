@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) big shoes to fill.\n\nHere's why:\n\n* **Node 1:** Represents a pair of large boots (indicated by \"size: big\").\n* **Node 2:** The word \"FILL\" is repeated twice, suggesting the action of filling something.\n\nCombining these, the rebus depicts \"big shoes to fill,\" a common idiom.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83e\udd7e\n\ud83e\udd7e, repeat: 1, size: big, icon: (shoes: \ud83e\udd7e\n\ud83e\udd7e))\nNode 2 attributes: (text: FILL, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) fill someone's shoes (B) big shoes to fill (C) fill one's boots (D) pair of shoes",
-    "answer": {
-        "B": "big shoes to fill"
-    }
+   "gemini_pro_response": "The correct answer is (B) big shoes to fill.\n\nHere's why:\n\n* **Node 1:** Represents a pair of large boots (indicated by \"size: big\").\n* **Node 2:** The word \"FILL\" is repeated twice, suggesting the action of filling something.\n\nCombining these, the rebus depicts \"big shoes to fill,\" a common idiom.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83e\udd7e\n\ud83e\udd7e, repeat: 1, size: big, icon: (shoes: \ud83e\udd7e\n\ud83e\udd7e))\nNode 2 attributes: (text: FILL, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) fill someone's shoes (B) big shoes to fill (C) fill one's boots (D) pair of shoes",
+   "answer": {
+      "B": "big shoes to fill"
+   },
+   "extracted_response": "B) big shoes to fill"
 }

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"WO\" + salt shaker + \"UND\".  This sounds like \"wound\" and \"salt\". Thus, the answer is (D) salt in the wound.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_WO\",\n        \"description\": \"The letters 'WO' in uppercase.\",\n        \"relation\": \"to the left of the bottle icon\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"bottle_icon\",\n        \"description\": \"An icon of a bottle with a cap.\",\n        \"relation\": \"between the text 'WO' and 'UND'\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"text_UND\",\n        \"description\": \"The letters 'UND' in uppercase.\",\n        \"relation\": \"to the right of the bottle icon\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) salt of the earth (B) old salt (C) Attic salt (D) salt in the wound\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "salt in the wound"
+    }
+}

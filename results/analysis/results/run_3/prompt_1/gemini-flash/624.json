@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(B) feel free**.\n\nThe image shows the word \"FEEL\" repeated four times, vertically stacked.  This visually represents the idea of feeling free to do something, as if you are given many opportunities or choices.  The other options don't align with the visual representation.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) feel up (B) feel free (C) feel for (D) feel out",
-    "answer": {
-        "C": "feel for"
-    }
+   "gemini_pro_response": "The answer is **(B) feel free**.\n\nThe image shows the word \"FEEL\" repeated four times, vertically stacked.  This visually represents the idea of feeling free to do something, as if you are given many opportunities or choices.  The other options don't align with the visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) feel up (B) feel free (C) feel for (D) feel out",
+   "answer": {
+      "C": "feel for"
+   },
+   "extracted_response": "B) feel free"
 }

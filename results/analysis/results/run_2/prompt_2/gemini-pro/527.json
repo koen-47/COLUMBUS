@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle says \"From Top 2 Bottom\".  The arrows pointing down and up signify \"top to bottom.\" The number \"2\" replaces the word \"to.\"\n\nNone of the provided options is an exact match, but (D) \"from beginning to end\" is the closest in meaning.  Top to bottom can represent beginning to end, such as the top and bottom of a list or page.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) from time to time (B) begin at the beginning (C) from start to finish (D) from beginning to end",
-    "answer": {
-        "D": "from beginning to end"
-    }
+   "gemini_pro_response": "The rebus puzzle says \"From Top 2 Bottom\".  The arrows pointing down and up signify \"top to bottom.\" The number \"2\" replaces the word \"to.\"\n\nNone of the provided options is an exact match, but (D) \"from beginning to end\" is the closest in meaning.  Top to bottom can represent beginning to end, such as the top and bottom of a list or page.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) from time to time (B) begin at the beginning (C) from start to finish (D) from beginning to end",
+   "answer": {
+      "D": "from beginning to end"
+   },
+   "extracted_response": "D) from beginning to end"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word \"BOTTLE\" is in a box, visually representing \"bottling\" something.  Combined with \"GENIE'S\", this creates the phrase \"bottle up\" someone's emotions or something else.  So the answer is (B).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put the genie back in the bottle (B) bottle up (C) bottle away (D) the genie's out of the bottle",
-    "answer": {
-        "D": "the genie's out of the bottle"
-    }
+   "gemini_pro_response": "The word \"BOTTLE\" is in a box, visually representing \"bottling\" something.  Combined with \"GENIE'S\", this creates the phrase \"bottle up\" someone's emotions or something else.  So the answer is (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put the genie back in the bottle (B) bottle up (C) bottle away (D) the genie's out of the bottle",
+   "answer": {
+      "D": "the genie's out of the bottle"
+   },
+   "extracted_response": "B) bottle up"
 }

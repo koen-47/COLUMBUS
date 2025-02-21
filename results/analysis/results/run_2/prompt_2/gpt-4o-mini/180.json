@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"blow out of the water.\" The word \"blow\" is next to \"water,\" indicating the phrase. Therefore, the correct answer is (C) blow out of the water.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow off (B) blow away (C) blow out of the water (D) dry up and blow away",
-    "answer": {
-        "C": "blow out of the water"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"blow out of the water.\" The word \"blow\" is next to \"water,\" indicating the phrase. Therefore, the correct answer is (C) blow out of the water.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow off (B) blow away (C) blow out of the water (D) dry up and blow away",
+   "answer": {
+      "C": "blow out of the water"
+   },
+   "extracted_response": "C) blow out of the water"
 }

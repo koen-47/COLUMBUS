@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"turn up for the books.\" This means to study intensely.  So while none of the answers are a perfect match, (B) \"turn up for the books\" is the closest.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn up (B) turn up for the book (C) throw the book at (D) write the book",
-    "answer": {
-        "B": "turn up for the book"
-    }
+   "gemini_pro_response": "The image conveys \"turn up for the books.\" This means to study intensely.  So while none of the answers are a perfect match, (B) \"turn up for the books\" is the closest.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn up (B) turn up for the book (C) throw the book at (D) write the book",
+   "answer": {
+      "B": "turn up for the book"
+   },
+   "extracted_response": "B) turn up for the book"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle conveys the phrase \"blood is thicker than water.\" The word \"BLOOD\" is inside the word \"WATER,\" indicating the phrase.\n\nThe correct answer is (C) blood is thicker than water.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BLOOD, repeat: 1)\nNode 2 attributes: (text: WATER, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) dead in the water (B) blood in the water (C) blood is thicker than water (D) shed blood",
-    "answer": {
-        "B": "blood in the water"
-    }
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"blood is thicker than water.\" The word \"BLOOD\" is inside the word \"WATER,\" indicating the phrase.\n\nThe correct answer is (C) blood is thicker than water.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BLOOD, repeat: 1)\nNode 2 attributes: (text: WATER, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) dead in the water (B) blood in the water (C) blood is thicker than water (D) shed blood",
+   "answer": {
+      "B": "blood in the water"
+   },
+   "extracted_response": "C) blood is thicker than water"
 }

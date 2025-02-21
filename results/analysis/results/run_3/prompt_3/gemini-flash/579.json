@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) dress to kill.\n\nThe rebus shows two images of a dress and the word \"KILL\".  The graph description confirms this: two dresses (\"repeat: 2\") followed by the word KILL. The \"sound: (to: 2)\" indicates a prepositional phrase connecting the two parts.  Therefore, the phrase is \"dress to kill\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc57, repeat: 2, icon: (dress: \ud83d\udc57), sound: (to: 2))\nNode 2 attributes: (text: KILL, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) dress to kill (B) in for the kill (C) make a killing (D) dress down",
-    "answer": {
-        "A": "dress to kill"
-    }
+   "gemini_pro_response": "The correct answer is (A) dress to kill.\n\nThe rebus shows two images of a dress and the word \"KILL\".  The graph description confirms this: two dresses (\"repeat: 2\") followed by the word KILL. The \"sound: (to: 2)\" indicates a prepositional phrase connecting the two parts.  Therefore, the phrase is \"dress to kill\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc57, repeat: 2, icon: (dress: \ud83d\udc57), sound: (to: 2))\nNode 2 attributes: (text: KILL, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) dress to kill (B) in for the kill (C) make a killing (D) dress down",
+   "answer": {
+      "A": "dress to kill"
+   },
+   "extracted_response": "A) dress to kill"
 }

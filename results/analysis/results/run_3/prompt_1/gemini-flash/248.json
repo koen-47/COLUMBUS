@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **come out of one's shell**.\n\nThe image shows \"1111 Go Shell\".  The \"1111\" is visually representing \"one one one one\",  which, when combined with \"Go Shell\" creates the phrase \"Come out of one's shell\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go one's own way (B) go out of one's way (C) go into one's shell (D) come out of one's shell",
-    "answer": {
-        "C": "go into one's shell"
-    }
+   "gemini_pro_response": "The correct answer is (D) **come out of one's shell**.\n\nThe image shows \"1111 Go Shell\".  The \"1111\" is visually representing \"one one one one\",  which, when combined with \"Go Shell\" creates the phrase \"Come out of one's shell\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go one's own way (B) go out of one's way (C) go into one's shell (D) come out of one's shell",
+   "answer": {
+      "C": "go into one's shell"
+   },
+   "extracted_response": "D) come out of one's shell"
 }

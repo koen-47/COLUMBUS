@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"DRESS\" twice with the word \"KILL\" to the right of the lower \"DRESS\". This represents the phrase \"Dress to Kill\".\n\nSo the answer is (D).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in for the kill (B) dress down (C) make a killing (D) dress to kill",
-    "answer": {
-        "D": "dress to kill"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"DRESS\" twice with the word \"KILL\" to the right of the lower \"DRESS\". This represents the phrase \"Dress to Kill\".\n\nSo the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in for the kill (B) dress down (C) make a killing (D) dress to kill",
+   "answer": {
+      "D": "dress to kill"
+   },
+   "extracted_response": "D) dress to kill"
 }

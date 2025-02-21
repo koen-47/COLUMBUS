@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the word \"ACCOUNT\" repeated four times. This visually represents the idiom \"account for,\" which means to explain or give a reason for something.  There are multiple accounts, suggesting a need to explain them.\n\nSo the answer is (D).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on account of (B) call to account (C) good account of (D) account for",
-    "answer": {
-        "D": "account for"
-    }
+   "gemini_pro_response": "The image shows the word \"ACCOUNT\" repeated four times. This visually represents the idiom \"account for,\" which means to explain or give a reason for something.  There are multiple accounts, suggesting a need to explain them.\n\nSo the answer is (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on account of (B) call to account (C) good account of (D) account for",
+   "answer": {
+      "D": "account for"
+   },
+   "extracted_response": "D) account for"
 }

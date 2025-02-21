@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(D) back to the wall**.\n\nThe jumbled letters \"TSNIAGA\" can be rearranged to spell \"AGAINST\".  The image of a brick wall implies \"wall\".  Therefore, the rebus is \"AGAINST the WALL\", or \"back to the wall\" which is the closest option provided.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up the wall (B) back against the wall (C) go to the wall (D) back to the wall",
-    "answer": {
-        "B": "back against the wall"
-    }
+   "gemini_pro_response": "The answer is **(D) back to the wall**.\n\nThe jumbled letters \"TSNIAGA\" can be rearranged to spell \"AGAINST\".  The image of a brick wall implies \"wall\".  Therefore, the rebus is \"AGAINST the WALL\", or \"back to the wall\" which is the closest option provided.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up the wall (B) back against the wall (C) go to the wall (D) back to the wall",
+   "answer": {
+      "B": "back against the wall"
+   },
+   "extracted_response": "D) back to the wall"
 }

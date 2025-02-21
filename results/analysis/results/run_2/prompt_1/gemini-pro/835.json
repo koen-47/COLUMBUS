@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (D) small price to pay.\n\nThe small \"PRICE\" and the large \"PAY PAY\" suggests a small price but a large/double payment, therefore, \"small price to pay\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) price is right (B) small fortune (C) smallholders (D) small price to pay",
-    "answer": {
-        "D": "small price to pay"
-    }
+   "gemini_pro_response": "The image conveys (D) small price to pay.\n\nThe small \"PRICE\" and the large \"PAY PAY\" suggests a small price but a large/double payment, therefore, \"small price to pay\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) price is right (B) small fortune (C) smallholders (D) small price to pay",
+   "answer": {
+      "D": "small price to pay"
+   },
+   "extracted_response": "D) small price to pay"
 }

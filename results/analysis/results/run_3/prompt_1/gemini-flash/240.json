@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) wheel within a wheel.  The image shows the word \"butterfly\" over the word \"wheel,\" visually representing a butterfly on, or within, a wheel.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wheel away (B) butterfly upon a wheel (C) butterfly (D) wheel within a wheel",
-    "answer": {
-        "B": "butterfly upon a wheel"
-    }
+   "gemini_pro_response": "The correct answer is (D) wheel within a wheel.  The image shows the word \"butterfly\" over the word \"wheel,\" visually representing a butterfly on, or within, a wheel.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wheel away (B) butterfly upon a wheel (C) butterfly (D) wheel within a wheel",
+   "answer": {
+      "B": "butterfly upon a wheel"
+   },
+   "extracted_response": "D) wheel within a wheel"
 }

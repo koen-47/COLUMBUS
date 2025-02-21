@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **hang one's hat**.\n\nThe image shows the letters G, N, A, H vertically stacked next to the numbers 1111 and the word HAT.  If you read the letters vertically, you get \"HANG.\"  The numbers and word complete the phrase to \"hang one's hat.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang up one's hat (B) hang over one's head (C) tip one's hat (D) hang one's hat",
-    "answer": {
-        "A": "hang up one's hat"
-    }
+   "gemini_pro_response": "The correct answer is (D) **hang one's hat**.\n\nThe image shows the letters G, N, A, H vertically stacked next to the numbers 1111 and the word HAT.  If you read the letters vertically, you get \"HANG.\"  The numbers and word complete the phrase to \"hang one's hat.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang up one's hat (B) hang over one's head (C) tip one's hat (D) hang one's hat",
+   "answer": {
+      "A": "hang up one's hat"
+   },
+   "extracted_response": "D) hang one's hat"
 }

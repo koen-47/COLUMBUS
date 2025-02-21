@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(C) chip in**.\n\nThe image shows two \"chips\" (like potato chips) positioned vertically, suggesting the phrase \"chip in\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) microchips (B) chipboard (C) chip in (D) hardware",
-    "answer": {
-        "A": "microchips"
-    }
+   "gemini_pro_response": "The correct answer is **(C) chip in**.\n\nThe image shows two \"chips\" (like potato chips) positioned vertically, suggesting the phrase \"chip in\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) microchips (B) chipboard (C) chip in (D) hardware",
+   "answer": {
+      "A": "microchips"
+   },
+   "extracted_response": "C) chip in"
 }

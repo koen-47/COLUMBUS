@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"PEAS\" written twice with the letters \"P\" and \"OD\" flanking them.  This represents \"two peas in a pod\".\n\nSo the answer is (C).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) seedpods (B) seedpod (C) two peas in a pod (D) full of beans",
-    "answer": {
-        "C": "two peas in a pod"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"PEAS\" written twice with the letters \"P\" and \"OD\" flanking them.  This represents \"two peas in a pod\".\n\nSo the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) seedpods (B) seedpod (C) two peas in a pod (D) full of beans",
+   "answer": {
+      "C": "two peas in a pod"
+   },
+   "extracted_response": "C) two peas in a pod"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (D) hang one's hat.\n\nThe letters G, N, A, H are vertically stacked and read as \"HANG\".  The number \"1111\" represents \"one one one one\" which can be interpreted as \"one\" repeated four times, therefore \"four ones\".  The phrase is completed with \"HAT\".  The entire rebus signifies \"HANG one's HAT\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang up one's hat (B) hang over one's head (C) tip one's hat (D) hang one's hat",
-    "answer": {
-        "A": "hang up one's hat"
-    }
+   "gemini_pro_response": "The answer is (D) hang one's hat.\n\nThe letters G, N, A, H are vertically stacked and read as \"HANG\".  The number \"1111\" represents \"one one one one\" which can be interpreted as \"one\" repeated four times, therefore \"four ones\".  The phrase is completed with \"HAT\".  The entire rebus signifies \"HANG one's HAT\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang up one's hat (B) hang over one's head (C) tip one's hat (D) hang one's hat",
+   "answer": {
+      "A": "hang up one's hat"
+   },
+   "extracted_response": "D) hang one's hat"
 }

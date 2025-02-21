@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(D) cross a bridge too far",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go too far (B) cross the bridge (C) cross that bridge when one comes to it (D) cross a bridge too far",
-    "answer": {
-        "D": "cross a bridge too far"
-    }
+   "gpt4v_response": "(D) cross a bridge too far",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go too far (B) cross the bridge (C) cross that bridge when one comes to it (D) cross a bridge too far",
+   "answer": {
+      "D": "cross a bridge too far"
+   },
+   "extracted_response": "D) cross a bridge too far"
 }

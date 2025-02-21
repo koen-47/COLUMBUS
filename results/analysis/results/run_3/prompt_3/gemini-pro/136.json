@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows a tie (\ud83d\udc54) with a line crossing it. The description further confirms this with 'cross: True'. The word 'tie' is also mentioned in the 'icon' attribute.  Putting this together, the rebus represents \"crosstie\" (D).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc54, cross: True, repeat: 2, icon: (tie: \ud83d\udc54))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) crosspatch (B) crosshead (C) crosshatch (D) crosstie",
-    "answer": {
-        "D": "crosstie"
-    }
+   "gemini_pro_response": "The image shows a tie (\ud83d\udc54) with a line crossing it. The description further confirms this with 'cross: True'. The word 'tie' is also mentioned in the 'icon' attribute.  Putting this together, the rebus represents \"crosstie\" (D).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc54, cross: True, repeat: 2, icon: (tie: \ud83d\udc54))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) crosspatch (B) crosshead (C) crosshatch (D) crosstie",
+   "answer": {
+      "D": "crosstie"
+   },
+   "extracted_response": "D) crosstie"
 }

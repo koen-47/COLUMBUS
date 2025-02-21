@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) long in the tooth. Here's why:\n\nThe JSON data describes the image as having two tooth icons flanking the word \"LONG\".  This directly translates to the idiom \"long in the tooth,\" which means old or elderly.  The other options don't fit the visual representation.\n\nTherefore, the rebus puzzle's solution is **(B) long in the tooth**.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"tooth_icon_left\",\n        \"description\": \"An icon of a tooth with a small crack or line on it.\",\n        \"relation\": \"to the left of the text 'LONG'\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"text_long\",\n        \"description\": \"The word 'LONG' in bold uppercase letters.\",\n        \"relation\": \"between the two tooth icons\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"tooth_icon_right\",\n        \"description\": \"An icon of a tooth with a small crack or line on it.\",\n        \"relation\": \"to the right of the text 'LONG'\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) spicy tooth (B) long in the tooth (C) long finger (D) hen's tooth\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "long in the tooth"
+    }
+}

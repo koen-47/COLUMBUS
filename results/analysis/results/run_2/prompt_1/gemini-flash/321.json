@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) piping hot.\n\nThe image shows two instances of the word \"PIP\" next to an image of an envelope.  The visual pun plays on the phrase \"piping hot,\" which refers to something very hot, as if it's just been taken from the pipe (in this case the \"PIP\").  The envelope suggests a message (often delivered via email) arriving quickly and fresh.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pip to the post (B) piping hot (C) like a chicken with the pip (D) piping times",
-    "answer": {
-        "A": "pip to the post"
-    }
+   "gemini_pro_response": "The correct answer is (B) piping hot.\n\nThe image shows two instances of the word \"PIP\" next to an image of an envelope.  The visual pun plays on the phrase \"piping hot,\" which refers to something very hot, as if it's just been taken from the pipe (in this case the \"PIP\").  The envelope suggests a message (often delivered via email) arriving quickly and fresh.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pip to the post (B) piping hot (C) like a chicken with the pip (D) piping times",
+   "answer": {
+      "A": "pip to the post"
+   },
+   "extracted_response": "B) piping hot"
 }

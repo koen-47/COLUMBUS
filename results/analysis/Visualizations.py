@@ -126,31 +126,62 @@ class Visualizations:
 
     def visualize_prompts_from_summary(self):
         plt.rcParams["font.family"] = "Times New Roman"
-        plt.rcParams["font.size"] = 27
+        plt.rcParams["font.size"] = 36
 
-        models = ["gpt-4o", "fuyu-8b", "blip-2_flan-t5-xxl", "mistral-7b"]
+        models = ["gpt-4o", "fuyu-8b", "blip-2_flan-t5-xxl", "mistral"]
         model_names = dict(zip(models, ["GPT-4o", "Fuyu-8b", "BLIP-2 Flan-T5-XXL", "Mistral-7b"]))
         prompts = [f"prompt_{i}" for i in range(1, 5)]
 
         with open("../analysis/results/summary.json", "r") as file:
             summary = json.load(file)
 
-        text_acc, icon_acc = {}, {}
-        for model, results in summary.items():
-            for prompt in range(1, 5):
-                prompt_str = f"prompt_{prompt}"
-                if model == "mistral" and prompt in [1, 2]:
-                    continue
+        text_acc = {model: [] for model in models}
+        icon_acc = {model: [] for model in models}
+        for model, prompts in summary.items():
+            for prompt, result in prompts.items():
                 if model in models:
-                    result = results[prompt_str]
-                    if model not in text_acc:
-                        text_acc[model] = []
+                    print(model)
                     text_acc[model].append(result["text_mean"])
-                    if model not in icon_acc:
-                        icon_acc[model] = []
-                    icon_acc[model].append(result["icon_acc"])
+                    icon_acc[model].append(result["icon_mean"])
 
         print(json.dumps(text_acc, indent=3))
+        print(json.dumps(icon_acc, indent=3))
+
+        def plot(ax, prompt_data, is_icon=False):
+            markers = ['o', 's', '^', 'D']
+            lines = []
+            for i, (model, accuracy) in enumerate(prompt_data.items()):
+                if model == "mistral":
+                    line, = ax.plot(list(range(3, 5)), accuracy, label=model_names[model], marker=markers[i],
+                                    linewidth=3, markersize=12)
+                else:
+                    line, = ax.plot(list(range(1, 5)), accuracy, label=model_names[model], marker=markers[i],
+                                    linewidth=3, markersize=12)
+                lines.append(line)
+
+            if not is_icon:
+                line = ax.axhline(y=98.0, linestyle='--', linewidth=3, label="Human", color="magenta")
+            else:
+                line = ax.axhline(y=93.21, linestyle='--', linewidth=3, label="Human", color="magenta")
+            lines.append(line)
+
+            ax.grid()
+            ax.set_ylim(0, 100)
+            ax.set_xlabel("Prompt #")
+            if not is_icon:
+                ax.set_ylabel("Accuracy (%)")
+            ax.set_xticks(list(range(1, 5)))
+            return lines
+
+        fig, (ax1, ax2) = plt.subplots(1, 2)
+        fig.subplots_adjust(left=0.240, right=0.9, top=0.9, bottom=0.565)  # Adjust as needed
+
+        plot(ax1, text_acc, is_icon=False)
+        lines = plot(ax2, icon_acc, is_icon=True)
+        labels = [line.get_label() for line in lines]
+
+        fig.legend(lines, labels, loc='lower center', shadow=True, ncol=3, fontsize=32, frameon=False)
+        plt.show()
 
 
 Visualizations().visualize_prompts_from_summary()

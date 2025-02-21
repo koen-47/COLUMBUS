@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the words \"TEA,\" \"TEMPEST,\" and \"POT\" combined. This maps directly to the idiom \"tempest in a teapot,\" which means a big fuss over a small matter.\n\nThe json describes the text \"TEATEMPESTPOT,\" which can be broken down into \"TEA,\" \"TEMPEST,\" and \"POT.\" This directly corresponds to option (C), \"tempest in a teapot.\"\n\nTherefore, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_TEATEMPESTPOT\",\n        \"description\": \"The text 'TEATEMPESTPOT' is written in capital letters.\",\n        \"relation\": \"Centered in the image.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) teapot (B) storm in a teacup (C) tempest in a teapot (D) chocolate teapot\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "tempest in a teapot"
+    }
+}

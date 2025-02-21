@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the letters \"HABIRD\" and \"ND.\" This can be interpreted as \"A bird in the hand\" because \"HABIRD\" sounds like \"have a bird\" and \"ND\" can be seen as \"in hand.\" \n\nSo, the answer is (D) a bird in the hand.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bird in the bosom (B) a bird in the hand is worth two in the bush (C) early bird (D) a bird in the hand",
-    "answer": {
-        "D": "a bird in the hand"
-    }
+   "gpt4v_response": "The rebus puzzle shows the letters \"HABIRD\" and \"ND.\" This can be interpreted as \"A bird in the hand\" because \"HABIRD\" sounds like \"have a bird\" and \"ND\" can be seen as \"in hand.\" \n\nSo, the answer is (D) a bird in the hand.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bird in the bosom (B) a bird in the hand is worth two in the bush (C) early bird (D) a bird in the hand",
+   "answer": {
+      "D": "a bird in the hand"
+   },
+   "extracted_response": "D) a bird in the hand"
 }

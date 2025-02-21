@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) cross off.\n\nThe number \"2\" is crossed off by a horizontal line. The word \"KAT\" is next to it. Combining these clues leads to the phrase \"cross off KAT,\" which sounds like \"cross off.\"",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross off (D) cross out",
-    "answer": {
-        "B": "cross to take up"
-    }
+   "gemini_pro_response": "The answer is (C) cross off.\n\nThe number \"2\" is crossed off by a horizontal line. The word \"KAT\" is next to it. Combining these clues leads to the phrase \"cross off KAT,\" which sounds like \"cross off.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross off (D) cross out",
+   "answer": {
+      "B": "cross to take up"
+   },
+   "extracted_response": "C) cross off"
 }

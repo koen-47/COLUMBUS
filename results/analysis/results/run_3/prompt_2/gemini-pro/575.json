@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The two down arrows followed by an image of Earth represents \"Down to Earth\" (D).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down under (B) down the road (C) come down to earth (D) down to earth",
-    "answer": {
-        "D": "down to earth"
-    }
+   "gemini_pro_response": "The two down arrows followed by an image of Earth represents \"Down to Earth\" (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down under (B) down the road (C) come down to earth (D) down to earth",
+   "answer": {
+      "D": "down to earth"
+   },
+   "extracted_response": "D) down to earth"
 }

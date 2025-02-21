@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image clearly shows the word \"ECONOMICS\".  While microeconomics is a *branch* of economics, the image presents the broader term.  Therefore, the correct answer is **(A) microeconomics**.  Although technically a related term, it seems to be the closest match from the choices provided.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) microeconomics (B) micromanagement (C) hypermarkets (D) economical with the truth",
-    "answer": {
-        "A": "microeconomics"
-    }
+   "gemini_pro_response": "The image clearly shows the word \"ECONOMICS\".  While microeconomics is a *branch* of economics, the image presents the broader term.  Therefore, the correct answer is **(A) microeconomics**.  Although technically a related term, it seems to be the closest match from the choices provided.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) microeconomics (B) micromanagement (C) hypermarkets (D) economical with the truth",
+   "answer": {
+      "A": "microeconomics"
+   },
+   "extracted_response": "A) microeconomics"
 }

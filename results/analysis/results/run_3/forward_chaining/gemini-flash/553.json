@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) fly on the wall. Here's why:\n\n* **\"FLY\"**: This is clearly represented at the top of the image.\n* **\"horizontal line\"**:  The line acts as a separator.\n* **\"brick pattern\"**: This represents a wall.\n\nThe rebus combines these elements to create the phrase \"FLY ON THE WALL\".",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"word_fly\",\n        \"description\": \"The word 'FLY' written in uppercase letters.\",\n        \"relation\": \"positioned at the top of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"horizontal_line\",\n        \"description\": \"A horizontal line.\",\n        \"relation\": \"located below the word 'FLY'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"brick_pattern\",\n        \"description\": \"A pattern resembling a brick wall.\",\n        \"relation\": \"positioned below the horizontal line.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) fly in the face of (B) fly off (C) fly on the wall (D) fly by\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "fly on the wall"
+    }
+}

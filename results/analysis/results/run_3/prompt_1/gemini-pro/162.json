@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the word \"WORD\" with a horizontal line through it. This is a visual representation of a word in a **crossword** puzzle. So the answer is (A).",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossword (B) headword (C) crosswords (D) backsword",
-    "answer": {
-        "A": "crossword"
-    }
+   "gemini_pro_response": "The image shows the word \"WORD\" with a horizontal line through it. This is a visual representation of a word in a **crossword** puzzle. So the answer is (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossword (B) headword (C) crosswords (D) backsword",
+   "answer": {
+      "A": "crossword"
+   },
+   "extracted_response": "A"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows four running figures, represented visually by \"1111\", followed by the word \"LIFE\". This conveys the idea of **(B) run for one's life**. The image suggests a desperate, urgent running, often associated with escaping danger.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run for one's life (C) fight for one's life (D) run for one's money",
-    "answer": {
-        "B": "run for one's life"
-    }
+   "gemini_pro_response": "The image shows four running figures, represented visually by \"1111\", followed by the word \"LIFE\". This conveys the idea of **(B) run for one's life**. The image suggests a desperate, urgent running, often associated with escaping danger.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run for one's life (C) fight for one's life (D) run for one's money",
+   "answer": {
+      "B": "run for one's life"
+   },
+   "extracted_response": "B) run for one's life"
 }

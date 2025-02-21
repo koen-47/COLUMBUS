@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the words \"CHILL\" at the top left, \"BONE\" to the right of it, and another \"CHILL\" at the bottom left. This arrangement suggests the phrase \"chill to the bone,\" as \"CHILL\" is positioned in relation to \"BONE.\"\n\nThe correct answer is (C) chill to the bone.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"CHILL (top)\",\n        \"description\": \"The word 'CHILL' written in uppercase letters, located at the top left of the image.\",\n        \"relation\": \"None\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"BONE\",\n        \"description\": \"The word 'BONE' written in uppercase letters, located to the right of the top 'CHILL'.\",\n        \"relation\": \"Next to 'CHILL' (top)\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"CHILL (bottom)\",\n        \"description\": \"The word 'CHILL' written in uppercase letters, located at the bottom left of the image.\",\n        \"relation\": \"Below 'CHILL' (top)\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) chill pill (B) to the bone (C) chill to the bone (D) chill to the marrow\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "chill to the bone"
+    }
+}

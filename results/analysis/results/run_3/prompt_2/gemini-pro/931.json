@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle represents \"turn on its head\". \n\nThe top part shows a \"turn\" symbol (\ud83d\udd04). The bottom says \"ITS\" with a face (head). The whole puzzle is therefore, \"turn\" over/on \"ITS head\".\n\nSo the answer is (D).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) use one's head (B) turn heads (C) turn someone's head (D) turn on its head",
-    "answer": {
-        "D": "turn on its head"
-    }
+   "gemini_pro_response": "The rebus puzzle represents \"turn on its head\". \n\nThe top part shows a \"turn\" symbol (\ud83d\udd04). The bottom says \"ITS\" with a face (head). The whole puzzle is therefore, \"turn\" over/on \"ITS head\".\n\nSo the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) use one's head (B) turn heads (C) turn someone's head (D) turn on its head",
+   "answer": {
+      "D": "turn on its head"
+   },
+   "extracted_response": "D) turn on its head"
 }

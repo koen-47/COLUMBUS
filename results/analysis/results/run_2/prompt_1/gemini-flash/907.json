@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) the big house on the hill.  The image shows a house on a hill.  The other options don't directly relate to the visual.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) over the hill (B) king of the hill (C) hill to die on (D) the big house on the hill",
-    "answer": {
-        "D": "the big house on the hill"
-    }
+   "gemini_pro_response": "The correct answer is (D) the big house on the hill.  The image shows a house on a hill.  The other options don't directly relate to the visual.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) over the hill (B) king of the hill (C) hill to die on (D) the big house on the hill",
+   "answer": {
+      "D": "the big house on the hill"
+   },
+   "extracted_response": "D) the big house on the hill"
 }

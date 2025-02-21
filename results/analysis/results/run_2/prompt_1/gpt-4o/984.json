@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(D) water to one's mill",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) trouble at mill (B) millwork (C) go through the mill (D) water to one's mill",
-    "answer": {
-        "D": "water to one's mill"
-    }
+   "gpt4v_response": "(D) water to one's mill",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) trouble at mill (B) millwork (C) go through the mill (D) water to one's mill",
+   "answer": {
+      "D": "water to one's mill"
+   },
+   "extracted_response": "D"
 }

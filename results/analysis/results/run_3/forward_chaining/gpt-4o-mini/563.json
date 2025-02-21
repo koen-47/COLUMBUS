@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains the word \"BELLIED\" in yellow text. \n\nNow, let's map this to the answer choices:\n\n(A) yellow bellied - This option includes \"yellow\" and \"belly,\" which relates to \"BELLIED.\"\n(B) see yellow - This does not relate to \"BELLIED.\"\n(C) yellow light - This does not relate to \"BELLIED.\"\n(D) yellow streak - This does not relate to \"BELLIED.\"\n\nThe only option that is consistent with the word in the image is (A) yellow bellied. \n\nTherefore, the answer is (A) yellow bellied.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"word\",\n  \"description\": \"The word 'BELLIED' in yellow text.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) yellow bellied (B) see yellow (C) yellow light (D) yellow streak\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "yellow bellied"
+    }
+}

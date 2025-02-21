@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts \"CROSS HEART\" with lines crossing through the word heart. So, the correct options are C and D.\n\nC - cross my heart\nD - cross one's heart\n\nA and B are incorrect because the image doesn't convey \"have one's heart in\" or \"cross my heart and hope to die\".  Those phrases involve additional meaning beyond simply crossing one's heart.\n\nSince both C and D are correct, and D is the more generalized version, **D is the best answer.**\nFinal Answer: The final answer is $\\boxed{D}$",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have one's heart in (B) cross my heart and hope to die (C) cross my heart (D) cross one's heart",
-    "answer": {
-        "D": "cross one's heart"
-    }
+   "gemini_pro_response": "The image depicts \"CROSS HEART\" with lines crossing through the word heart. So, the correct options are C and D.\n\nC - cross my heart\nD - cross one's heart\n\nA and B are incorrect because the image doesn't convey \"have one's heart in\" or \"cross my heart and hope to die\".  Those phrases involve additional meaning beyond simply crossing one's heart.\n\nSince both C and D are correct, and D is the more generalized version, **D is the best answer.**\nFinal Answer: The final answer is $\\boxed{D}$",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have one's heart in (B) cross my heart and hope to die (C) cross my heart (D) cross one's heart",
+   "answer": {
+      "D": "cross one's heart"
+   },
+   "extracted_response": "D) cross one's heart"
 }

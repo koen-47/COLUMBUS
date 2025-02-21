@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (A) fall on one's sword.\n\nThe image shows \"FALL\" above a line, and \"1111 SWORD\" below it.  \"1111\" represents \"on\", so the phrase is \"fall on one's sword\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall on one's sword (B) sword and sorcery (C) flesh one's maiden sword (D) put to the sword",
-    "answer": {
-        "A": "fall on one's sword"
-    }
+   "gemini_pro_response": "The answer is (A) fall on one's sword.\n\nThe image shows \"FALL\" above a line, and \"1111 SWORD\" below it.  \"1111\" represents \"on\", so the phrase is \"fall on one's sword\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall on one's sword (B) sword and sorcery (C) flesh one's maiden sword (D) put to the sword",
+   "answer": {
+      "A": "fall on one's sword"
+   },
+   "extracted_response": "A) fall on one's sword"
 }

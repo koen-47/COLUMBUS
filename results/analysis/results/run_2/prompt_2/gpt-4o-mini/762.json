@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"PUT\" followed by a line and an image of a dog. This suggests the phrase \"put on the dog,\" which means to show off or to act in a way that is intended to impress others.\n\nSo, the answer is (A) put on the dog.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the dog (B) put off (C) dog around (D) put someone on to",
-    "answer": {
-        "A": "put on the dog"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"PUT\" followed by a line and an image of a dog. This suggests the phrase \"put on the dog,\" which means to show off or to act in a way that is intended to impress others.\n\nSo, the answer is (A) put on the dog.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the dog (B) put off (C) dog around (D) put someone on to",
+   "answer": {
+      "A": "put on the dog"
+   },
+   "extracted_response": "A) put on the dog"
 }

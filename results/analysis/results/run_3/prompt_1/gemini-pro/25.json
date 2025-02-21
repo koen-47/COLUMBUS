@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"as as,\" which isn't grammatically correct on its own. However, this visual representation is likely meant to evoke the phrase \"**as for**\" (A).  It's a playful way of representing the sound or rhythm of the phrase.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) as for (B) as to (C) as in (D) as of",
-    "answer": {
-        "B": "as to"
-    }
+   "gemini_pro_response": "The image conveys \"as as,\" which isn't grammatically correct on its own. However, this visual representation is likely meant to evoke the phrase \"**as for**\" (A).  It's a playful way of representing the sound or rhythm of the phrase.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) as for (B) as to (C) as in (D) as of",
+   "answer": {
+      "B": "as to"
+   },
+   "extracted_response": "A) as for"
 }

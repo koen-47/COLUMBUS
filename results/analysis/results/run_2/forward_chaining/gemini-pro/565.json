@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"MANDOGGER\", which is a combination of \"MAN\" and \"DOGGER\". This maps to the phrase \"man dogger,\" which sounds like \"man dodger\". \"Man dodger\" is a synonym of option (A) \"see a man about a dog\", which is a euphemism for avoiding someone or something.\n\nThe other options are not consistent with the image.\n- (B) \"dog around\" doesn't relate to \"MANDOGGER.\"\n- (C) \"dog in the manger\" doesn't relate to \"MANDOGGER.\"\n- (D) \"mantiger\" combines \"man\" and \"tiger,\" not \"dogger.\"\n\nFinal Answer: The final answer is $\\boxed{A}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'MANDOGGER' in bold, uppercase letters.\",\n  \"relation\": \"centered in the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) see a man about a dog (B) dog around (C) dog in the manger (D) mantiger\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "dog in the manger"
+    }
+}

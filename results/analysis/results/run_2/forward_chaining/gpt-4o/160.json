@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"BLOW\" and an icon of a wave. This combination suggests the phrase \"blow out of the water.\"\n\nThe correct answer is (D) blow out of the water.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"text\",\n    \"description\": \"The word 'BLOW' written in capital letters.\",\n    \"relation\": \"item2\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"icon\",\n    \"description\": \"An icon of a wave inside a square border.\",\n    \"relation\": \"item1\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) blow off (B) blow away (C) dry up and blow away (D) blow out of the water\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "blow out of the water"
+    }
+}

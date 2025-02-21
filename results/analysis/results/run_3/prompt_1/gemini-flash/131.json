@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **bone to pick**.\n\nThe image shows the words \"BONE\" stacked vertically, with \"PICK\" to the right.  This visually represents the idiom \"bone to pick,\" which means to have an argument or grievance with someone.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) throw a bone to (B) bone to pick (C) to the bone (D) funny bone",
-    "answer": {
-        "B": "bone to pick"
-    }
+   "gemini_pro_response": "The correct answer is (B) **bone to pick**.\n\nThe image shows the words \"BONE\" stacked vertically, with \"PICK\" to the right.  This visually represents the idiom \"bone to pick,\" which means to have an argument or grievance with someone.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) throw a bone to (B) bone to pick (C) to the bone (D) funny bone",
+   "answer": {
+      "B": "bone to pick"
+   },
+   "extracted_response": "B) bone to pick"
 }

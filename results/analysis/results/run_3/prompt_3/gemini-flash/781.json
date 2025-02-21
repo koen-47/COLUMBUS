@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) roof over one's head.\n\nThe rebus shows \"ROOF\" over \"1111\" and a neutral face \"\ud83d\ude10\".  \"1111\" phonetically sounds like \"one's\", and the neutral face represents a \"head\". Therefore, the image represents \"roof over one's head\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: ROOF, repeat: 1)\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: \ud83d\ude10, repeat: 1, icon: (head: \ud83d\ude10))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) roof over one's head (B) through the roof (C) hit the roof (D) raise the roof",
-    "answer": {
-        "A": "roof over one's head"
-    }
+   "gemini_pro_response": "The correct answer is (A) roof over one's head.\n\nThe rebus shows \"ROOF\" over \"1111\" and a neutral face \"\ud83d\ude10\".  \"1111\" phonetically sounds like \"one's\", and the neutral face represents a \"head\". Therefore, the image represents \"roof over one's head\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: ROOF, repeat: 1)\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: \ud83d\ude10, repeat: 1, icon: (head: \ud83d\ude10))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) roof over one's head (B) through the roof (C) hit the roof (D) raise the roof",
+   "answer": {
+      "A": "roof over one's head"
+   },
+   "extracted_response": "A) roof over one's head"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle \"BONBEENET\" represents \"**bee in bonnet**\" (C).  The word \"bee\" is placed inside the word \"bonnet.\"",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bee in one's bonnet (B) put the bee on (C) bee in bonnet (D) queen bee",
-    "answer": {
-        "C": "bee in bonnet"
-    }
+   "gemini_pro_response": "The rebus puzzle \"BONBEENET\" represents \"**bee in bonnet**\" (C).  The word \"bee\" is placed inside the word \"bonnet.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bee in one's bonnet (B) put the bee on (C) bee in bonnet (D) queen bee",
+   "answer": {
+      "C": "bee in bonnet"
+   },
+   "extracted_response": "C"
 }

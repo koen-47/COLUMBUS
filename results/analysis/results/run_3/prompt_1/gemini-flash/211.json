@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) hat in hand.\n\nThe letters in \"HACAPND\" are an anagram of \"HANDCAP\".  \"Hat in hand\" is a common idiom that means to be humble or submissive, often to beg for something.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust a cap (B) cap in hand (C) hat in hand (D) set one's cap at",
-    "answer": {
-        "B": "cap in hand"
-    }
+   "gemini_pro_response": "The answer is (C) hat in hand.\n\nThe letters in \"HACAPND\" are an anagram of \"HANDCAP\".  \"Hat in hand\" is a common idiom that means to be humble or submissive, often to beg for something.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust a cap (B) cap in hand (C) hat in hand (D) set one's cap at",
+   "answer": {
+      "B": "cap in hand"
+   },
+   "extracted_response": "C) hat in hand"
 }

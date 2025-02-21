@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(D) miss the wood for the trees",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock on wood (B) see the trees through the forest (C) see the forest for the trees (D) miss the wood for the trees",
-    "answer": {
-        "D": "miss the wood for the trees"
-    }
+   "gpt4v_response": "(D) miss the wood for the trees",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock on wood (B) see the trees through the forest (C) see the forest for the trees (D) miss the wood for the trees",
+   "answer": {
+      "D": "miss the wood for the trees"
+   },
+   "extracted_response": "D"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(B) flea in one's ear",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a bug in someone's ear (B) flea in one's ear (C) earworm (D) not hurt a fly or flea",
-    "answer": {
-        "B": "flea in one's ear"
-    }
+   "gpt4v_response": "(B) flea in one's ear",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a bug in someone's ear (B) flea in one's ear (C) earworm (D) not hurt a fly or flea",
+   "answer": {
+      "B": "flea in one's ear"
+   },
+   "extracted_response": "B"
 }

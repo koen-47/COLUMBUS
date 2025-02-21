@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (A) stall for time.\n\nThe image shows the word \"STALL\" repeated multiple times, visually representing the act of stalling or delaying. The clock symbol further emphasizes the time element associated with stalling.  \"Stall for time\" means to deliberately delay something.  The other options don't fit the visual representation.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stall for time (B) lockout (C) pressed for time (D) waiting time",
-    "answer": {
-        "A": "stall for time"
-    }
+   "gemini_pro_response": "The answer is (A) stall for time.\n\nThe image shows the word \"STALL\" repeated multiple times, visually representing the act of stalling or delaying. The clock symbol further emphasizes the time element associated with stalling.  \"Stall for time\" means to deliberately delay something.  The other options don't fit the visual representation.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stall for time (B) lockout (C) pressed for time (D) waiting time",
+   "answer": {
+      "A": "stall for time"
+   },
+   "extracted_response": "A) stall for time"
 }

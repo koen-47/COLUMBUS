@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) elephant in the room.\n\nThe letters in \"ROGORILLAOM\" can be rearranged to spell \"GORILLA IN ROOM\".  However, the idiom is \"elephant in the room,\" referring to a significant issue that is obvious to everyone but is ignored or unaddressed.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gorilla in the room (B) elephant in the room (C) baby elephant in the room (D) naked ape",
-    "answer": {
-        "A": "gorilla in the room"
-    }
+   "gemini_pro_response": "The correct answer is (B) elephant in the room.\n\nThe letters in \"ROGORILLAOM\" can be rearranged to spell \"GORILLA IN ROOM\".  However, the idiom is \"elephant in the room,\" referring to a significant issue that is obvious to everyone but is ignored or unaddressed.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gorilla in the room (B) elephant in the room (C) baby elephant in the room (D) naked ape",
+   "answer": {
+      "A": "gorilla in the room"
+   },
+   "extracted_response": "B) elephant in the room"
 }

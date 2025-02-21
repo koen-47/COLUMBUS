@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"PLAY\" repeated multiple times, followed by a clock icon. This suggests the phrase \"play for time,\" as it combines the concept of \"play\" with the idea of time represented by the clock.\n\nThe correct answer is (B) play for time.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) play to win (B) play for time (C) buy time (D) make time",
-    "answer": {
-        "B": "play for time"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"PLAY\" repeated multiple times, followed by a clock icon. This suggests the phrase \"play for time,\" as it combines the concept of \"play\" with the idea of time represented by the clock.\n\nThe correct answer is (B) play for time.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) play to win (B) play for time (C) buy time (D) make time",
+   "answer": {
+      "B": "play for time"
+   },
+   "extracted_response": "B) play for time"
 }

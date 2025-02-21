@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image clearly shows the word \"WORLD\".  None of the other options are shown or implied.  There's no indication of size, location, or interconnectedness to suggest any of the other phrases.\n\nSo the closest option is, by default, just **(A) outside world**. While the image doesn't explicitly mean \"outside world\", it uses the word \"world,\" and \"outside world\" is the closest interpretation among the choices.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) outside world (B) across the world (C) a small world (D) small world syndrome",
-    "answer": {
-        "C": "a small world"
-    }
+   "gemini_pro_response": "The image clearly shows the word \"WORLD\".  None of the other options are shown or implied.  There's no indication of size, location, or interconnectedness to suggest any of the other phrases.\n\nSo the closest option is, by default, just **(A) outside world**. While the image doesn't explicitly mean \"outside world\", it uses the word \"world,\" and \"outside world\" is the closest interpretation among the choices.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) outside world (B) across the world (C) a small world (D) small world syndrome",
+   "answer": {
+      "C": "a small world"
+   },
+   "extracted_response": "A) outside world"
 }

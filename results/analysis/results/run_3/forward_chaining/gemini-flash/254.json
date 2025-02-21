@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) go up in flames. Here's why:\n\nThe image shows the word \"FLAMES\" with the letter \"O\" and \"G\" incorporated to create \"GO\".  This visually represents the phrase \"GO UP IN FLAMES\".  The other options don't fit the visual representation.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text_FLAMES\",\n    \"description\": \"The word 'FLAMES' written in uppercase letters.\",\n    \"relation\": \"The letter 'O' is placed in the middle of the word 'FLAMES'.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"letter_O\",\n    \"description\": \"The letter 'O' written in uppercase, placed in the middle of the word 'FLAMES'.\",\n    \"relation\": \"The letter 'O' is placed in the middle of the word 'FLAMES'.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) flame up (B) go up in flames (C) go up in smoke (D) go down in flames\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "go up in flames"
+    }
+}

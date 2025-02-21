@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(D) cross fingers for luck**.\n\nThe rebus shows the word \"FINGERS\" crossed out, with four four-leaf clovers beside it.  This visually represents the idiom \"crossing your fingers for luck\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down on one's luck (B) push one's luck (C) stroke of luck (D) cross fingers for luck",
-    "answer": {
-        "D": "cross fingers for luck"
-    }
+   "gemini_pro_response": "The correct answer is **(D) cross fingers for luck**.\n\nThe rebus shows the word \"FINGERS\" crossed out, with four four-leaf clovers beside it.  This visually represents the idiom \"crossing your fingers for luck\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down on one's luck (B) push one's luck (C) stroke of luck (D) cross fingers for luck",
+   "answer": {
+      "D": "cross fingers for luck"
+   },
+   "extracted_response": "D) cross fingers for luck"
 }

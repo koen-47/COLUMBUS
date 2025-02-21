@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(B) crossover**.\n\nThe image shows the word \"OVER\" with a line crossing over it twice.  This visually represents the idea of a crossover.  While \"crossovers\" is plural, the image only depicts a single instance. \"Overcrossing\" and \"crosscuts\" are not as directly represented by the image.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossovers (B) crossover (C) overcrossing (D) crosscuts",
-    "answer": {
-        "A": "crossovers"
-    }
+   "gemini_pro_response": "The answer is **(B) crossover**.\n\nThe image shows the word \"OVER\" with a line crossing over it twice.  This visually represents the idea of a crossover.  While \"crossovers\" is plural, the image only depicts a single instance. \"Overcrossing\" and \"crosscuts\" are not as directly represented by the image.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossovers (B) crossover (C) overcrossing (D) crosscuts",
+   "answer": {
+      "A": "crossovers"
+   },
+   "extracted_response": "B) crossover"
 }

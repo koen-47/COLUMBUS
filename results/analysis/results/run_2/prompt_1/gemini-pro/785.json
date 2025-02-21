@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows people running, likely to find shelter or protection.  This best matches (D) take cover.\nThe other options don't fit:\n* (A) cover up means to conceal something.\n* (B) from cover to cover means to read a book completely.\n* (C) run for cover is similar to \"take cover,\" but the image only shows people running, it does not indicate that their goal is necessarily shelter. It could just be that they are jogging. It could be \"take cover,\" so that is the most probable phrase being conveyed.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cover up (B) from cover to cover (C) run for cover (D) take cover",
-    "answer": {
-        "C": "run for cover"
-    }
+   "gemini_pro_response": "The image shows people running, likely to find shelter or protection.  This best matches (D) take cover.\nThe other options don't fit:\n* (A) cover up means to conceal something.\n* (B) from cover to cover means to read a book completely.\n* (C) run for cover is similar to \"take cover,\" but the image only shows people running, it does not indicate that their goal is necessarily shelter. It could just be that they are jogging. It could be \"take cover,\" so that is the most probable phrase being conveyed.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cover up (B) from cover to cover (C) run for cover (D) take cover",
+   "answer": {
+      "C": "run for cover"
+   },
+   "extracted_response": "D) take cover"
 }

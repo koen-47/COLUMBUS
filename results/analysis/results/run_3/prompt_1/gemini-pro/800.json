@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts a person running on an empty line or bar. Combined with the word \"EMPTY,\" this conveys the phrase **(B) run on empty**.  It suggests continuing to run despite having no fuel or energy left.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dummy run (B) run on empty (C) run on (D) run with",
-    "answer": {
-        "B": "run on empty"
-    }
+   "gemini_pro_response": "The image depicts a person running on an empty line or bar. Combined with the word \"EMPTY,\" this conveys the phrase **(B) run on empty**.  It suggests continuing to run despite having no fuel or energy left.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dummy run (B) run on empty (C) run on (D) run with",
+   "answer": {
+      "B": "run on empty"
+   },
+   "extracted_response": "B"
 }

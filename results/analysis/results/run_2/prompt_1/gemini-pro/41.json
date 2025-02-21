@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "None of the provided options are conveyed in the image. The image shows the word \"NOMMAG\".  This appears to be a play on the word \"GAMMON\" (backwards), but that's not one of the choices.  Therefore, none of A, B, C, or D are correct.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backchat (B) backbeat (C) backswimmer (D) backgammon",
-    "answer": {
-        "D": "backgammon"
-    }
+   "gemini_pro_response": "None of the provided options are conveyed in the image. The image shows the word \"NOMMAG\".  This appears to be a play on the word \"GAMMON\" (backwards), but that's not one of the choices.  Therefore, none of A, B, C, or D are correct.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backchat (B) backbeat (C) backswimmer (D) backgammon",
+   "answer": {
+      "D": "backgammon"
+   },
+   "extracted_response": "None of the provided options are conveyed in the image. The image shows the word \"NOMMAG\".  This appears to be a play on the word \"GAMMON\" (backwards), but that's not one of the choices.  Therefore, none of A, B, C, or D are correct."
 }

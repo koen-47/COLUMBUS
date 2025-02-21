@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe emoji represents a \"head\", and it's positioned to the left of the word \"START\".  This visually represents the phrase \"head start\".\n\nTherefore, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"emoji\",\n    \"description\": \"A face emoji with wide eyes and a straight mouth.\",\n    \"relation\": \"left of the text 'START'\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"text\",\n    \"description\": \"The word 'START' written in capital letters.\",\n    \"relation\": \"right of the emoji\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) head to toe (B) come to a head (C) head start (D) head-on\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "head start"
+    }
+}

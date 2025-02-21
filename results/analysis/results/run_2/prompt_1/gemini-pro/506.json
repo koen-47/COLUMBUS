@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows the word \"TICKLED\".  This corresponds to the first part of options B and C. Since the image doesn't contain the word \"pink\", the answer is neither B nor C.  Also, the image doesn't show the word \"tickseed\" or \"tick over\". Therefore, none of the provided options are correct. If a choice had to be made, the closest is C - *tickle*, though grammatically it should be \"tickled\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tick over (B) tickled pink (C) tickle pink (D) tickseed",
-    "answer": {
-        "B": "tickled pink"
-    }
+   "gemini_pro_response": "The image shows the word \"TICKLED\".  This corresponds to the first part of options B and C. Since the image doesn't contain the word \"pink\", the answer is neither B nor C.  Also, the image doesn't show the word \"tickseed\" or \"tick over\". Therefore, none of the provided options are correct. If a choice had to be made, the closest is C - *tickle*, though grammatically it should be \"tickled\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tick over (B) tickled pink (C) tickle pink (D) tickseed",
+   "answer": {
+      "B": "tickled pink"
+   },
+   "extracted_response": "The image shows the word \"TICKLED\".  This corresponds to the first part of options B and C. Since the image doesn't contain the word \"pink\", the answer is neither B nor C.  Also, the image doesn't show the word \"tickseed\" or \"tick over\". Therefore, none of the provided options are correct. If a choice had to be made, the closest is C - *tickle*, though grammatically it should be \"tickled\"."
 }

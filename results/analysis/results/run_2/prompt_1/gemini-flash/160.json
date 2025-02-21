@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **dry up and blow away**.\n\nThe image shows a wave-like symbol with dots indicating something disappearing or evaporating.  The word \"BLOW\" implies the action of wind.  Therefore, the image and text together best represent something drying up and then being blown away by the wind.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow off (B) blow away (C) dry up and blow away (D) blow out of the water",
-    "answer": {
-        "D": "blow out of the water"
-    }
+   "gemini_pro_response": "The correct answer is (C) **dry up and blow away**.\n\nThe image shows a wave-like symbol with dots indicating something disappearing or evaporating.  The word \"BLOW\" implies the action of wind.  Therefore, the image and text together best represent something drying up and then being blown away by the wind.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow off (B) blow away (C) dry up and blow away (D) blow out of the water",
+   "answer": {
+      "D": "blow out of the water"
+   },
+   "extracted_response": "C) dry up and blow away"
 }

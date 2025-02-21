@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows \"AS\" repeated four times, vertically. This represents \"As far as\".  Since this isn't an option, the closest answer is (C) as for.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) as to (B) as in (C) as for (D) as of",
-    "answer": {
-        "C": "as for"
-    }
+   "gemini_pro_response": "The rebus shows \"AS\" repeated four times, vertically. This represents \"As far as\".  Since this isn't an option, the closest answer is (C) as for.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) as to (B) as in (C) as for (D) as of",
+   "answer": {
+      "C": "as for"
+   },
+   "extracted_response": "C) as for"
 }

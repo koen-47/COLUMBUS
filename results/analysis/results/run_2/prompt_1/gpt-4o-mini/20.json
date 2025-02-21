@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (A) buckle up.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) buckle up (B) tighten belt (C) buckle to (D) buckle down",
-    "answer": {
-        "C": "buckle to"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) buckle up.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) buckle up (B) tighten belt (C) buckle to (D) buckle down",
+   "answer": {
+      "C": "buckle to"
+   },
+   "extracted_response": "A) buckle up"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the phrase \"**think on one's feet (C)**\".  The number \"1111\" resembles four feet, and the word \"THINK\" is placed above, implying thinking while standing on one's feet. This idiom refers to the ability to think and react quickly in a challenging situation.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) find one's feet (B) on one's feet (C) think on one's feet (D) at one's feet",
-    "answer": {
-        "C": "think on one's feet"
-    }
+   "gemini_pro_response": "The image conveys the phrase \"**think on one's feet (C)**\".  The number \"1111\" resembles four feet, and the word \"THINK\" is placed above, implying thinking while standing on one's feet. This idiom refers to the ability to think and react quickly in a challenging situation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) find one's feet (B) on one's feet (C) think on one's feet (D) at one's feet",
+   "answer": {
+      "C": "think on one's feet"
+   },
+   "extracted_response": "C"
 }

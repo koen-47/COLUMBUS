@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) in for it.\n\nThe rebus shows \"4 BE 4\".  Reading this as \"Four Be Four\" sounds like \"in for it\".",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_4BE4\",\n  \"description\": \"The text '4BE4' written in black font.\",\n  \"relation\": \"none\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) be in for (B) in for it (C) sit in for (D) be in and out\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "be in for"
+    }
+}

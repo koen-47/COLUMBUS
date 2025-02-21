@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"KNOCK\" to the left of a rectangle containing the word \"PARK.\" This arrangement suggests the phrase \"knock out the park.\"\n\nThe correct answer is (D) knock out the park.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_knock\",\n        \"description\": \"The word 'KNOCK' written in uppercase letters.\",\n        \"relation\": \"Located to the left of the rectangle containing the word 'PARK'.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"rectangle_park\",\n        \"description\": \"A rectangle containing the word 'PARK' written in uppercase letters.\",\n        \"relation\": \"Located to the right of the word 'KNOCK'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) knock out (B) knock down (C) walk in the park (D) knock out the park\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "knock out the park"
+    }
+}

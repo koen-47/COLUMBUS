@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (A) hand over head.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over head (B) hand over (C) hand someone his head (D) hand over hand",
-    "answer": {
-        "A": "hand over head"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) hand over head.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over head (B) hand over (C) hand someone his head (D) hand over hand",
+   "answer": {
+      "A": "hand over head"
+   },
+   "extracted_response": "A"
 }

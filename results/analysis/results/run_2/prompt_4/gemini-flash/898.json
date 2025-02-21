@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) tempest in a teapot.\n\nThe rebus shows the word \"TEMPEST\" inside the word \"TEAPOT\".  The graph representation confirms this spatial relationship with the \"INSIDE\" rule.  This directly translates to the idiom \"tempest in a teapot,\" which means a great commotion or fuss about something of little importance.\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: TEMPEST, repeat: 1)\nNode 2 attributes: (text: TEAPOT, repeat: 1)\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) teapot (B) storm in a teacup (C) tempest in a teapot (D) chocolate teapot",
-    "answer": {
-        "C": "tempest in a teapot"
-    }
+   "gemini_pro_response": "The correct answer is (C) tempest in a teapot.\n\nThe rebus shows the word \"TEMPEST\" inside the word \"TEAPOT\".  The graph representation confirms this spatial relationship with the \"INSIDE\" rule.  This directly translates to the idiom \"tempest in a teapot,\" which means a great commotion or fuss about something of little importance.\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: TEMPEST, repeat: 1)\nNode 2 attributes: (text: TEAPOT, repeat: 1)\nEdge 1: node 1 to node 2 (rule: INSIDE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) teapot (B) storm in a teacup (C) tempest in a teapot (D) chocolate teapot",
+   "answer": {
+      "C": "tempest in a teapot"
+   },
+   "extracted_response": "C"
 }

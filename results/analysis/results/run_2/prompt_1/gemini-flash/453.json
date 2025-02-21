@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **speak out**.\n\nThe image shows the letters K A E P S, which are arranged vertically to spell out \"SPEAKS\" when read downwards.  The phrase \"speak out\" means to express one's opinions frankly and openly, which aligns with the action implied by \"SPEAKS\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak to (D) talk up",
-    "answer": {
-        "A": "speak up"
-    }
+   "gemini_pro_response": "The correct answer is (B) **speak out**.\n\nThe image shows the letters K A E P S, which are arranged vertically to spell out \"SPEAKS\" when read downwards.  The phrase \"speak out\" means to express one's opinions frankly and openly, which aligns with the action implied by \"SPEAKS\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak to (D) talk up",
+   "answer": {
+      "A": "speak up"
+   },
+   "extracted_response": "B) speak out"
 }

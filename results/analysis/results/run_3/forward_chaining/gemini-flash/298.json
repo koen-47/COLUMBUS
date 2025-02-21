@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\n1. **Decode \"HGIIH\":** The JSON description tells us this is an anagram of \"HIGH\".\n\n2. **Combine with \"DRY\":**  The JSON indicates \"HGIIH\" (HIGH) is next to \"DRY\".\n\n3. **Identify the idiom:** The phrase \"HIGH AND DRY\" is a common idiom.\n\nTherefore, the answer is (D) high and dry.\n\nFinal Answer: The final answer is $\\boxed{D}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"HGIIH\",\n        \"description\": \"The word 'HIGH' with the letters rearranged.\",\n        \"relation\": \"next to 'DRY'\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"DRY\",\n        \"description\": \"The word 'DRY' written normally.\",\n        \"relation\": \"next to 'HGIIH'\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) on the dry (B) left high and dry (C) leave someone high and dry (D) high and dry\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "left high and dry"
+    }
+}

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The answer is (B) balls to the wall.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust one's balls (B) balls to the wall (C) grow some balls (D) have someone by the balls",
-    "answer": {
-        "B": "balls to the wall"
-    }
+   "gpt4v_response": "The answer is (B) balls to the wall.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust one's balls (B) balls to the wall (C) grow some balls (D) have someone by the balls",
+   "answer": {
+      "B": "balls to the wall"
+   },
+   "extracted_response": "B) balls to the wall"
 }

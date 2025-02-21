@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (B) booby prize.  The Roman numerals \"IIII\" represent the number 4, which is often used humorously instead of \"IV\".  A \"booby prize\" is a humorous prize given to the person who comes in last place. Thus \"IIII PRIZE\" implies last place or the booby prize.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) booby prize (C) prizefight (D) eyes on the prize",
-    "answer": {
-        "D": "eyes on the prize"
-    }
+   "gemini_pro_response": "The image conveys (B) booby prize.  The Roman numerals \"IIII\" represent the number 4, which is often used humorously instead of \"IV\".  A \"booby prize\" is a humorous prize given to the person who comes in last place. Thus \"IIII PRIZE\" implies last place or the booby prize.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) booby prize (C) prizefight (D) eyes on the prize",
+   "answer": {
+      "D": "eyes on the prize"
+   },
+   "extracted_response": "B) booby prize"
 }

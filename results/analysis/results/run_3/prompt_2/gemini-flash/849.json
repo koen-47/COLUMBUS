@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(B) rockslide**.\n\nThe image shows \"SPLIT\" over a line, and \"ROCK\" under the line.  This visually represents a rock splitting, which is a rockslide.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) split on a rock (B) rockslide (C) split one's sides (D) split up",
-    "answer": {
-        "A": "split on a rock"
-    }
+   "gemini_pro_response": "The correct answer is **(B) rockslide**.\n\nThe image shows \"SPLIT\" over a line, and \"ROCK\" under the line.  This visually represents a rock splitting, which is a rockslide.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) split on a rock (B) rockslide (C) split one's sides (D) split up",
+   "answer": {
+      "A": "split on a rock"
+   },
+   "extracted_response": "B) rockslide"
 }

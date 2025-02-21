@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (D) spit in the wind.  The letters are rearranged to make this phrase.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) spit out (C) spit on (D) spit in the wind",
-    "answer": {
-        "A": "spit in the ocean"
-    }
+   "gemini_pro_response": "The answer is (D) spit in the wind.  The letters are rearranged to make this phrase.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) spit out (C) spit on (D) spit in the wind",
+   "answer": {
+      "A": "spit in the ocean"
+   },
+   "extracted_response": "D, spit in the wind"
 }

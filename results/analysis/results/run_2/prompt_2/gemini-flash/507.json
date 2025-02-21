@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) go to the ends of the earth.\n\nThe image shows the word \"GO\" twice, with an image of the earth in between and arrows pointing up and down to indicate going to both the top and bottom of the earth.  This visually represents the phrase \"go to the ends of the earth\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to earth (B) edge of the earth (C) move heaven and earth (D) go to the ends of the earth",
-    "answer": {
-        "D": "go to the ends of the earth"
-    }
+   "gemini_pro_response": "The correct answer is (D) go to the ends of the earth.\n\nThe image shows the word \"GO\" twice, with an image of the earth in between and arrows pointing up and down to indicate going to both the top and bottom of the earth.  This visually represents the phrase \"go to the ends of the earth\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to earth (B) edge of the earth (C) move heaven and earth (D) go to the ends of the earth",
+   "answer": {
+      "D": "go to the ends of the earth"
+   },
+   "extracted_response": "D) go to the ends of the earth"
 }

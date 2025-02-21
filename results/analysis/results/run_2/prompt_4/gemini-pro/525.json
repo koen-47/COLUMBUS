@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the word \"SHOW\" repeated four times. The description indicates that this is meant to be interpreted as \"SHOW for 4\". Combining these two pieces of information, we arrive at \"SHOW for four\". The sound for \"four\" is similar to \"for\", therefore this is a rebus puzzle for \"show for\". \n\nThe closest option is (A) for show. The options (B) show off, (C) what for and (D) make for are not correct.\n\nFinal Answer: The final answer is $\\boxed{A}$",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: SHOW, repeat: 4, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) for show (B) show off (C) what for (D) make for",
-    "answer": {
-        "A": "for show"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the word \"SHOW\" repeated four times. The description indicates that this is meant to be interpreted as \"SHOW for 4\". Combining these two pieces of information, we arrive at \"SHOW for four\". The sound for \"four\" is similar to \"for\", therefore this is a rebus puzzle for \"show for\". \n\nThe closest option is (A) for show. The options (B) show off, (C) what for and (D) make for are not correct.\n\nFinal Answer: The final answer is $\\boxed{A}$",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: SHOW, repeat: 4, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) for show (B) show off (C) what for (D) make for",
+   "answer": {
+      "A": "for show"
+   },
+   "extracted_response": "A) for show"
 }

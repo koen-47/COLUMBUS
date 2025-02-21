@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (B) chip in.\n\nThe word \"CHIPS\" is written twice, on top of each other.  This represents \"chips\" on top of \"chips\", or *chipping in*.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hardware (B) chip in (C) chipboard (D) microchips",
-    "answer": {
-        "D": "microchips"
-    }
+   "gemini_pro_response": "The answer is (B) chip in.\n\nThe word \"CHIPS\" is written twice, on top of each other.  This represents \"chips\" on top of \"chips\", or *chipping in*.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hardware (B) chip in (C) chipboard (D) microchips",
+   "answer": {
+      "D": "microchips"
+   },
+   "extracted_response": "B) chip in"
 }

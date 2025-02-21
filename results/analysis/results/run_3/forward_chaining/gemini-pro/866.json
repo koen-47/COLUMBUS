@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"SQUARE\" followed by the number \"1\".\n\n* **item1** maps to the word \"SQUARE\".\n* **item2** maps to the number \"one\".\n* The relationship described in the JSON is \"SQUARE\" is positioned to the left of \"1\".  This corresponds to the phrase \"SQUARE one\".\n\nTherefore, the answer is (A) square one.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"text_square\",\n  \"description\": \"The word 'SQUARE' written in uppercase letters.\",\n  \"relation\": \"Located on the left side of the image.\"\n}\n```\n\n```json\n{\n  \"id\": \"item2\",\n  \"name\": \"text_1\",\n  \"description\": \"The number '1' written in a standard font.\",\n  \"relation\": \"Located to the right of the word 'SQUARE'.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) square one (B) on the square (C) start at square one (D) back to square one\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "start at square one"
+    }
+}

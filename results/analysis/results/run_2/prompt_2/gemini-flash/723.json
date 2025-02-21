@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) hard on the eyes.\n\nThe rebus shows the word \"PAINFUL\" with a line under it, and then two eyes below the line.  This implies that something painful to the eyes is hard on the eyes.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sight for sore eyes (B) painful on the eyes (C) hard on the eyes (D) easy on the eye",
-    "answer": {
-        "B": "painful on the eyes"
-    }
+   "gemini_pro_response": "The correct answer is (C) hard on the eyes.\n\nThe rebus shows the word \"PAINFUL\" with a line under it, and then two eyes below the line.  This implies that something painful to the eyes is hard on the eyes.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sight for sore eyes (B) painful on the eyes (C) hard on the eyes (D) easy on the eye",
+   "answer": {
+      "B": "painful on the eyes"
+   },
+   "extracted_response": "C) hard on the eyes"
 }

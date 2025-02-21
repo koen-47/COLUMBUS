@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"SPARE\" written twice, one above the other. This arrangement suggests the phrase \"to spare,\" as it implies having something extra or additional.\n\nThe correct answer is (C) to spare.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"SPARE (top)\",\n        \"description\": \"The word 'SPARE' written in uppercase letters.\",\n        \"relation\": \"Located at the top of the image.\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"SPARE (bottom)\",\n        \"description\": \"The word 'SPARE' written in uppercase letters.\",\n        \"relation\": \"Located below the first 'SPARE', in the middle of the image.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) spare tyre (B) spare tire (C) to spare (D) have time to spare\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "to spare"
+    }
+}

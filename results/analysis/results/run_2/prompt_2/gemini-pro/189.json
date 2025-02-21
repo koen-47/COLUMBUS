@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle depicts \"EZ\" over \"I\".  This represents the phrase \"easy on the eyes\" (C). \"EZ\" is a slang abbreviation for \"easy\", and placing it *on* the letter \"I\" creates the phrase.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hard on the eyes (B) easy on the eye (C) easy on the eyes (D) roving eye",
-    "answer": {
-        "B": "easy on the eye"
-    }
+   "gemini_pro_response": "The rebus puzzle depicts \"EZ\" over \"I\".  This represents the phrase \"easy on the eyes\" (C). \"EZ\" is a slang abbreviation for \"easy\", and placing it *on* the letter \"I\" creates the phrase.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hard on the eyes (B) easy on the eye (C) easy on the eyes (D) roving eye",
+   "answer": {
+      "B": "easy on the eye"
+   },
+   "extracted_response": "C"
 }

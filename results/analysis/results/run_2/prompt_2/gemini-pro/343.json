@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle \"WACHUMTER\" sounds like \"Whatcha you'm ter?\" which is a slang way of asking \"What are you up to?\".  None of the provided options match this interpretation.  However, if we are forced to choose, the closest option might be **(D) chum up**, although it doesn't fit perfectly.  \"Chum up\" means to become friendly with someone, and the rebus doesn't convey that meaning directly.  It's possible the intended answer is something else entirely.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of the chute (B) straight out of the chute (C) chum in the water (D) chum up",
-    "answer": {
-        "C": "chum in the water"
-    }
+   "gemini_pro_response": "The rebus puzzle \"WACHUMTER\" sounds like \"Whatcha you'm ter?\" which is a slang way of asking \"What are you up to?\".  None of the provided options match this interpretation.  However, if we are forced to choose, the closest option might be **(D) chum up**, although it doesn't fit perfectly.  \"Chum up\" means to become friendly with someone, and the rebus doesn't convey that meaning directly.  It's possible the intended answer is something else entirely.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of the chute (B) straight out of the chute (C) chum in the water (D) chum up",
+   "answer": {
+      "C": "chum in the water"
+   },
+   "extracted_response": "D) chum up"
 }

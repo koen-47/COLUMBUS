@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) microchips.  The image depicts a simplified representation of two microchips.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) microchips (B) chipboard (C) chip in (D) hardware",
-    "answer": {
-        "A": "microchips"
-    }
+   "gemini_pro_response": "The correct answer is (A) microchips.  The image depicts a simplified representation of two microchips.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) microchips (B) chipboard (C) chip in (D) hardware",
+   "answer": {
+      "A": "microchips"
+   },
+   "extracted_response": "A) microchips"
 }

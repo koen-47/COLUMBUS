@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows the word \"PACKED\" twice, with the word \"GILLS\" to the side. The description indicates that \"PACKED\" is repeated twice and sounds \"to\" the second node (GILLS). This implies the phrase \"packed to the gills\".\n\nTherefore, the answer is (D).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: PACKED, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: GILLS, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) full to the gills (B) stuffed to the gills (C) to the gills (D) packed to the gills",
-    "answer": {
-        "D": "packed to the gills"
-    }
+   "gemini_pro_response": "The rebus shows the word \"PACKED\" twice, with the word \"GILLS\" to the side. The description indicates that \"PACKED\" is repeated twice and sounds \"to\" the second node (GILLS). This implies the phrase \"packed to the gills\".\n\nTherefore, the answer is (D).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: PACKED, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: GILLS, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) full to the gills (B) stuffed to the gills (C) to the gills (D) packed to the gills",
+   "answer": {
+      "D": "packed to the gills"
+   },
+   "extracted_response": "D) packed to the gills"
 }

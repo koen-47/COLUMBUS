@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) the sun sets on something.  The image shows \"SUN SETS\" above a line, and \"SOMETHING\" below it, clearly implying the phrase \"the sun sets on something\".\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sunlight (B) catch the sun (C) the sun sets on something (D) a trip to the sun",
-    "answer": {
-        "C": "the sun sets on something"
-    }
+   "gemini_pro_response": "The correct answer is (C) the sun sets on something.  The image shows \"SUN SETS\" above a line, and \"SOMETHING\" below it, clearly implying the phrase \"the sun sets on something\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sunlight (B) catch the sun (C) the sun sets on something (D) a trip to the sun",
+   "answer": {
+      "C": "the sun sets on something"
+   },
+   "extracted_response": "C) the sun sets on something"
 }

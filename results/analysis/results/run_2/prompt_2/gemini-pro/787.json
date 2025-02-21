@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus shows four running men followed by \"1111 LIFE\".  Four running men can represent \"4 run\". Combining this with the rest gives \"4 run 1111 LIFE\" which sounds like \"for one one one one life\" which is interpreted as \"run for one's life\". So the answer is (B).",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run for one's life (C) fight for one's life (D) run for one's money",
-    "answer": {
-        "B": "run for one's life"
-    }
+   "gemini_pro_response": "The rebus shows four running men followed by \"1111 LIFE\".  Four running men can represent \"4 run\". Combining this with the rest gives \"4 run 1111 LIFE\" which sounds like \"for one one one one life\" which is interpreted as \"run for one's life\". So the answer is (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run for one's life (C) fight for one's life (D) run for one's money",
+   "answer": {
+      "B": "run for one's life"
+   },
+   "extracted_response": "B) run for one's life"
 }

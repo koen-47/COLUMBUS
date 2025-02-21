@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "I can't identify the specific word or phrase conveyed in the image. If you have any other questions or need assistance, feel free to ask!",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) walk in the park (B) in a walk (C) take a walk (D) knock out the park",
-    "answer": {
-        "A": "walk in the park"
-    }
+   "gpt4v_response": "I can't identify the specific word or phrase conveyed in the image. If you have any other questions or need assistance, feel free to ask!",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) walk in the park (B) in a walk (C) take a walk (D) knock out the park",
+   "answer": {
+      "A": "walk in the park"
+   },
+   "extracted_response": "I can't identify the specific word or phrase conveyed in the image. If you have any other questions or need assistance, feel free to ask!"
 }

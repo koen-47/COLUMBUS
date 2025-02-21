@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"ROD\" repeated multiple times with \"1111 BACK\" below it. The repetition of \"ROD\" suggests a play on words, and \"1111\" can be interpreted as \"double\" (since it consists of two sets of \"1\").\n\nPutting this together, the phrase conveyed is \"double back.\" \n\nSo the answer is (C) double back.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rod for one's back (B) have someone's back (C) double back (D) rod in pickle",
-    "answer": {
-        "A": "rod for one's back"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"ROD\" repeated multiple times with \"1111 BACK\" below it. The repetition of \"ROD\" suggests a play on words, and \"1111\" can be interpreted as \"double\" (since it consists of two sets of \"1\").\n\nPutting this together, the phrase conveyed is \"double back.\" \n\nSo the answer is (C) double back.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rod for one's back (B) have someone's back (C) double back (D) rod in pickle",
+   "answer": {
+      "A": "rod for one's back"
+   },
+   "extracted_response": "C) double back"
 }

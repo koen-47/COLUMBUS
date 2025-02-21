@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) put someone's lights out.  \"Put the lights out\" is an idiom meaning to render someone unconscious. The red light bulb, which is often used as a symbol for an idea, reinforces this meaning.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red light (B) put on the red light (C) put someone's lights out (D) run a red light",
-    "answer": {
-        "B": "put on the red light"
-    }
+   "gemini_pro_response": "The image conveys (C) put someone's lights out.  \"Put the lights out\" is an idiom meaning to render someone unconscious. The red light bulb, which is often used as a symbol for an idea, reinforces this meaning.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red light (B) put on the red light (C) put someone's lights out (D) run a red light",
+   "answer": {
+      "B": "put on the red light"
+   },
+   "extracted_response": "C) put someone's lights out"
 }

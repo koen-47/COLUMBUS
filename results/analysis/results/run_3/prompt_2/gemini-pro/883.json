@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (C) storm out of the blocks.\n\nThe word \"BLOCKS\" is inside a box, so we can interpret it as \"out of the blocks.\"  Combining this with the word \"STORM\", the phrase becomes \"STORM out of the BLOCKS\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) whip up a storm (B) after the storm (C) storm out of the blocks (D) storm off",
-    "answer": {
-        "C": "storm out of the blocks"
-    }
+   "gemini_pro_response": "The answer is (C) storm out of the blocks.\n\nThe word \"BLOCKS\" is inside a box, so we can interpret it as \"out of the blocks.\"  Combining this with the word \"STORM\", the phrase becomes \"STORM out of the BLOCKS\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) whip up a storm (B) after the storm (C) storm out of the blocks (D) storm off",
+   "answer": {
+      "C": "storm out of the blocks"
+   },
+   "extracted_response": "C) storm out of the blocks"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image depicts a city at night with a crescent moon and stars in the sky. This most closely aligns with **(D) nighttime**.\n\nThe other options are less suitable:\n\n* **(A) bank night:** This refers to a specific type of promotion, not a general time of day.\n* **(B) middle of the night:** While the image shows night, it doesn't specifically indicate the *middle* of the night.\n* **(C) night out:** This implies people socializing and enjoying activities in the evening. The image simply shows a cityscape at night, not necessarily a \"night out\" atmosphere.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bank night (B) middle of the night (C) night out (D) nighttime",
-    "answer": {
-        "B": "middle of the night"
-    }
+   "gemini_pro_response": "The image depicts a city at night with a crescent moon and stars in the sky. This most closely aligns with **(D) nighttime**.\n\nThe other options are less suitable:\n\n* **(A) bank night:** This refers to a specific type of promotion, not a general time of day.\n* **(B) middle of the night:** While the image shows night, it doesn't specifically indicate the *middle* of the night.\n* **(C) night out:** This implies people socializing and enjoying activities in the evening. The image simply shows a cityscape at night, not necessarily a \"night out\" atmosphere.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bank night (B) middle of the night (C) night out (D) nighttime",
+   "answer": {
+      "B": "middle of the night"
+   },
+   "extracted_response": "D) nighttime"
 }

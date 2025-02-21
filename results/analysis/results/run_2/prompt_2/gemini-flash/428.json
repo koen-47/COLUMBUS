@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(C) set in one's ways**.\n\nThe rebus uses the number \"1\" four times to represent the word \"one\".  Therefore, \"1111SETWAYS\" becomes \"ONESETWAYS\", which is a phonetic representation of \"set in one's ways\".\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in ways (B) mend one's ways (C) set in one's ways (D) make one's way",
-    "answer": {
-        "C": "set in one's ways"
-    }
+   "gemini_pro_response": "The answer is **(C) set in one's ways**.\n\nThe rebus uses the number \"1\" four times to represent the word \"one\".  Therefore, \"1111SETWAYS\" becomes \"ONESETWAYS\", which is a phonetic representation of \"set in one's ways\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in ways (B) mend one's ways (C) set in one's ways (D) make one's way",
+   "answer": {
+      "C": "set in one's ways"
+   },
+   "extracted_response": "C) set in one's ways"
 }

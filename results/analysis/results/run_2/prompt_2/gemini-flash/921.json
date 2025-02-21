@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) too big for one's boots.\n\nThe rebus shows \"BIG\" three times, with the number \"1111\" next to it three times, and then two boots. This can be interpreted as \"BIG 1111 1111 1111 BOOTS\", which sounds like \"Too big for one's boots\".",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) too big for one's boots (B) kicking boots (C) fill one's boots (D) hang up one's boots",
-    "answer": {
-        "A": "too big for one's boots"
-    }
+   "gemini_pro_response": "The correct answer is (A) too big for one's boots.\n\nThe rebus shows \"BIG\" three times, with the number \"1111\" next to it three times, and then two boots. This can be interpreted as \"BIG 1111 1111 1111 BOOTS\", which sounds like \"Too big for one's boots\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) too big for one's boots (B) kicking boots (C) fill one's boots (D) hang up one's boots",
+   "answer": {
+      "A": "too big for one's boots"
+   },
+   "extracted_response": "A) too big for one's boots"
 }

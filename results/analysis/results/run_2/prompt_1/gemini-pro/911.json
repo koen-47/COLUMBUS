@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (C) the devil is in the detail. The devil emoji is placed within the word \"detail,\" replacing the letter \"a.\" This visual pun emphasizes the phrase \"the devil is in the detail.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) talk of the devil (B) the devil is a liar (C) the devil is in the detail (D) speak of the devil and he appears",
-    "answer": {
-        "C": "the devil is in the detail"
-    }
+   "gemini_pro_response": "The image conveys (C) the devil is in the detail. The devil emoji is placed within the word \"detail,\" replacing the letter \"a.\" This visual pun emphasizes the phrase \"the devil is in the detail.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) talk of the devil (B) the devil is a liar (C) the devil is in the detail (D) speak of the devil and he appears",
+   "answer": {
+      "C": "the devil is in the detail"
+   },
+   "extracted_response": "C"
 }

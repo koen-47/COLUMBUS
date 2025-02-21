@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is **(D) redcoats**.\n\nThe image depicts a red coat, which is a reference to the British soldiers historically known as \"redcoats.\"  The plural form is needed since the image doesn't show just one coat.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) redcoat (B) turncoat (C) bluecoat (D) redcoats",
-    "answer": {
-        "A": "redcoat"
-    }
+   "gemini_pro_response": "The correct answer is **(D) redcoats**.\n\nThe image depicts a red coat, which is a reference to the British soldiers historically known as \"redcoats.\"  The plural form is needed since the image doesn't show just one coat.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) redcoat (B) turncoat (C) bluecoat (D) redcoats",
+   "answer": {
+      "A": "redcoat"
+   },
+   "extracted_response": "D) redcoats"
 }

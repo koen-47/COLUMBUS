@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(A) the shoe is on the other foot",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the shoe is on the other foot (B) kick with the other foot (C) which foot the shoe is on (D) wait for the other shoe to drop",
-    "answer": {
-        "A": "the shoe is on the other foot"
-    }
+   "gpt4v_response": "(A) the shoe is on the other foot",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the shoe is on the other foot (B) kick with the other foot (C) which foot the shoe is on (D) wait for the other shoe to drop",
+   "answer": {
+      "A": "the shoe is on the other foot"
+   },
+   "extracted_response": "A"
 }

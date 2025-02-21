@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The downward arrow (\u2193) suggests \"down.\"\n- The \"1111\" represents \"one's\" (as in \"one's luck\").\n- The four-leaf clover (\ud83c\udf40) symbolizes \"luck.\"\n\nPutting these elements together, the phrase conveyed is \"down on one's luck.\"\n\nTherefore, the correct answer is (B) down on one's luck.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \u2193, repeat: 1, icon: (down: \u2193))\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: \ud83c\udf40, repeat: 1, icon: (luck: \ud83c\udf40))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) push one's luck (B) down on one's luck (C) cross fingers for luck (D) ride one's luck",
-    "answer": {
-        "B": "down on one's luck"
-    }
+   "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The downward arrow (\u2193) suggests \"down.\"\n- The \"1111\" represents \"one's\" (as in \"one's luck\").\n- The four-leaf clover (\ud83c\udf40) symbolizes \"luck.\"\n\nPutting these elements together, the phrase conveyed is \"down on one's luck.\"\n\nTherefore, the correct answer is (B) down on one's luck.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \u2193, repeat: 1, icon: (down: \u2193))\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: \ud83c\udf40, repeat: 1, icon: (luck: \ud83c\udf40))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) push one's luck (B) down on one's luck (C) cross fingers for luck (D) ride one's luck",
+   "answer": {
+      "B": "down on one's luck"
+   },
+   "extracted_response": "B) down on one's luck"
 }

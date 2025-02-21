@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"HANG\" followed by the number \"1111\" and a face with wide eyes. \n\nThis can be interpreted as \"hang\" plus \"over\" (the number 1s can represent \"over\" as they are stacked). The face with wide eyes suggests something being \"over one's head\" or causing concern.\n\nTherefore, the phrase conveyed is \"hang over one's head.\"\n\nThe correct answer is (D) hang over one's head.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang one's hat (B) hold over someone's head (C) hang up one's hat (D) hang over one's head",
-    "answer": {
-        "D": "hang over one's head"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"HANG\" followed by the number \"1111\" and a face with wide eyes. \n\nThis can be interpreted as \"hang\" plus \"over\" (the number 1s can represent \"over\" as they are stacked). The face with wide eyes suggests something being \"over one's head\" or causing concern.\n\nTherefore, the phrase conveyed is \"hang over one's head.\"\n\nThe correct answer is (D) hang over one's head.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang one's hat (B) hold over someone's head (C) hang up one's hat (D) hang over one's head",
+   "answer": {
+      "D": "hang over one's head"
+   },
+   "extracted_response": "D) hang over one's head"
 }

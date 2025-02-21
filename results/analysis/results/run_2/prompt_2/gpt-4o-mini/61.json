@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"BEGINNING\" with arrows pointing up and down. This suggests a focus on the start or the beginning of something. \n\nThe best option that conveys this idea is (B) starting point.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) from beginning to end (B) starting point (C) from start to finish (D) begin at the beginning",
-    "answer": {
-        "D": "begin at the beginning"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"BEGINNING\" with arrows pointing up and down. This suggests a focus on the start or the beginning of something. \n\nThe best option that conveys this idea is (B) starting point.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) from beginning to end (B) starting point (C) from start to finish (D) begin at the beginning",
+   "answer": {
+      "D": "begin at the beginning"
+   },
+   "extracted_response": "B) starting point"
 }

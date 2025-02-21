@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (B) hit the nail on the head.  It's a rebus puzzle.  The word \"NAIL\" and a hammer are visually combined. The surprised/shocked face underneath suggests the phrase's meaning of finding exactly the right answer or doing something perfectly.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail the hammer on the head (B) hit the nail on the head (C) put the hammer down (D) bring to the hammer",
-    "answer": {
-        "A": "nail the hammer on the head"
-    }
+   "gemini_pro_response": "The image conveys (B) hit the nail on the head.  It's a rebus puzzle.  The word \"NAIL\" and a hammer are visually combined. The surprised/shocked face underneath suggests the phrase's meaning of finding exactly the right answer or doing something perfectly.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail the hammer on the head (B) hit the nail on the head (C) put the hammer down (D) bring to the hammer",
+   "answer": {
+      "A": "nail the hammer on the head"
+   },
+   "extracted_response": "B) hit the nail on the head"
 }

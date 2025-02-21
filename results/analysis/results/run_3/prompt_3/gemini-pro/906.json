@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word is written in a large font, conveying the attribute \"big\". Combined with the text \"GUNS\", the rebus represents \"big guns\", which is option (C). \n\n(A) and (B) are incorrect. While the rebus does use the word \"GUNS\", the size attribute provides an additional clue, indicating it refers to something big.  \"guns blazing\" and \"big gun\" don't capture the complete meaning.\n(D) is incorrect. \"Big shot\" is related to the idea of important or powerful people, but the rebus directly utilizes \"GUNS\".",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: GUNS, repeat: 1, size: big)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) guns blazing (B) big gun (C) the big guns (D) big shot",
-    "answer": {
-        "C": "the big guns"
-    }
+   "gemini_pro_response": "The word is written in a large font, conveying the attribute \"big\". Combined with the text \"GUNS\", the rebus represents \"big guns\", which is option (C). \n\n(A) and (B) are incorrect. While the rebus does use the word \"GUNS\", the size attribute provides an additional clue, indicating it refers to something big.  \"guns blazing\" and \"big gun\" don't capture the complete meaning.\n(D) is incorrect. \"Big shot\" is related to the idea of important or powerful people, but the rebus directly utilizes \"GUNS\".",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: GUNS, repeat: 1, size: big)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) guns blazing (B) big gun (C) the big guns (D) big shot",
+   "answer": {
+      "C": "the big guns"
+   },
+   "extracted_response": "C) the big guns"
 }

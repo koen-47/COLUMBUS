@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"go to bat\" (A). \"Go\" appears twice, emphasizing the action, followed by \"bat.\" This matches the idiom \"go to bat,\" meaning to support or defend someone.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to bat (B) off one's own bat (C) bat for the other team (D) bat five hundred",
-    "answer": {
-        "A": "go to bat"
-    }
+   "gemini_pro_response": "The image conveys \"go to bat\" (A). \"Go\" appears twice, emphasizing the action, followed by \"bat.\" This matches the idiom \"go to bat,\" meaning to support or defend someone.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to bat (B) off one's own bat (C) bat for the other team (D) bat five hundred",
+   "answer": {
+      "A": "go to bat"
+   },
+   "extracted_response": "A"
 }

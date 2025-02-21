@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The word is \"TAKE\" and the image is of a \"SEAT\". Therefore, together they convey \"take a seat\", so the answer is **(B)**.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sit back (B) have a seat (C) take the front seat (D) take a back seat",
-    "answer": {
-        "D": "take a back seat"
-    }
+   "gemini_pro_response": "The word is \"TAKE\" and the image is of a \"SEAT\". Therefore, together they convey \"take a seat\", so the answer is **(B)**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sit back (B) have a seat (C) take the front seat (D) take a back seat",
+   "answer": {
+      "D": "take a back seat"
+   },
+   "extracted_response": "B) have a seat"
 }

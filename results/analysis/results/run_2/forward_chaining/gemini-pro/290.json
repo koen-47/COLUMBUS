@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"JET\".\n\nThe json describes the word \"JET\".\n\nHere's how the options relate to the image and json:\n* (A) jumbo jet: Contains the word \"jet\".\n* (B) jetliners: Contains the word \"jet\".\n* (C) jet set: Contains the word \"jet\".\n* (D) jet-setter: Contains the word \"jet\".\n\nSince the puzzle only contains \"JET\", the correct answer is **(C) jet set**. The other options are too specific and require additional elements not present in the image or json.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'JET' written in capital letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) jumbo jet (B) jetliners (C) jet set (D) jet-setter\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "jumbo jet"
+    }
+}

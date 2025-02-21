@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The first part (the pickaxe) suggests \"pick.\"\n- The second part (the number \"11111\") can be interpreted as \"one\" or \"nose\" (since it looks like a series of ones).\n- The last part (the nose icon) clearly represents \"nose.\"\n\nPutting it all together, the phrase conveyed is \"pick one's nose.\"\n\nSo the answer is (D) pick one's nose.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) thumb one's nose (B) nose-pick (C) turn up one's nose (D) pick one's nose",
-    "answer": {
-        "D": "pick one's nose"
-    }
+   "gpt4v_response": "The rebus puzzle can be interpreted as follows:\n\n- The first part (the pickaxe) suggests \"pick.\"\n- The second part (the number \"11111\") can be interpreted as \"one\" or \"nose\" (since it looks like a series of ones).\n- The last part (the nose icon) clearly represents \"nose.\"\n\nPutting it all together, the phrase conveyed is \"pick one's nose.\"\n\nSo the answer is (D) pick one's nose.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) thumb one's nose (B) nose-pick (C) turn up one's nose (D) pick one's nose",
+   "answer": {
+      "D": "pick one's nose"
+   },
+   "extracted_response": "D) pick one's nose"
 }

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) once in a while.\n\nHere's why:\n\nThe image shows the word \"WHILE\" repeated four times, vertically stacked.  This visually represents \"once in a while\".  The other options don't fit the visual representation.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_while_1\",\n  \"description\": \"The word 'WHILE' written in uppercase letters.\",\n  \"relation\": \"topmost position\"\n}\n```\n\n```json\n{\n  \"id\": \"2\",\n  \"name\": \"text_while_2\",\n  \"description\": \"The word 'WHILE' written in uppercase letters.\",\n  \"relation\": \"below text_while_1\"\n}\n```\n\n```json\n{\n  \"id\": \"3\",\n  \"name\": \"text_while_3\",\n  \"description\": \"The word 'WHILE' written in uppercase letters.\",\n  \"relation\": \"below text_while_2\"\n}\n```\n\n```json\n{\n  \"id\": \"4\",\n  \"name\": \"text_while_4\",\n  \"description\": \"The word 'WHILE' written in uppercase letters.\",\n  \"relation\": \"below text_while_3\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) for a while (B) for once (C) once in a while (D) long time\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "for a while"
+    }
+}

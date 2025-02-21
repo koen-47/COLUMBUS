@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows arrows pointing towards and away from the word \"MAN,\" indicating someone in the middle of a transaction. The correct answer is (D) middleman.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midshipman (B) main man (C) middlemen (D) middleman",
-    "answer": {
-        "D": "middleman"
-    }
+   "gemini_pro_response": "The image shows arrows pointing towards and away from the word \"MAN,\" indicating someone in the middle of a transaction. The correct answer is (D) middleman.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midshipman (B) main man (C) middlemen (D) middleman",
+   "answer": {
+      "D": "middleman"
+   },
+   "extracted_response": "D) middleman"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) **quick on one's feet**.\n\nThe image uses a visual pun.  \"Quick\" is above a line, and below the line is \"1111 feet\".  This is a representation of \"quick on one's feet,\" indicating someone who is quick-thinking and able to react swiftly.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out on one's feet (B) on one's feet (C) at one's feet (D) quick on one's feet",
-    "answer": {
-        "D": "quick on one's feet"
-    }
+   "gemini_pro_response": "The correct answer is (D) **quick on one's feet**.\n\nThe image uses a visual pun.  \"Quick\" is above a line, and below the line is \"1111 feet\".  This is a representation of \"quick on one's feet,\" indicating someone who is quick-thinking and able to react swiftly.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out on one's feet (B) on one's feet (C) at one's feet (D) quick on one's feet",
+   "answer": {
+      "D": "quick on one's feet"
+   },
+   "extracted_response": "D) quick on one's feet"
 }

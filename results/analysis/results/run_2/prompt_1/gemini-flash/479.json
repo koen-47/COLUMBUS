@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **hand over**.\n\nThe image shows a hand above a line, as if it's being passed over or transferred.  This visually represents the action of handing something over to someone else.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over fist (B) hand over (C) hand in hand (D) hand over hand",
-    "answer": {
-        "A": "hand over fist"
-    }
+   "gemini_pro_response": "The correct answer is (B) **hand over**.\n\nThe image shows a hand above a line, as if it's being passed over or transferred.  This visually represents the action of handing something over to someone else.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over fist (B) hand over (C) hand in hand (D) hand over hand",
+   "answer": {
+      "A": "hand over fist"
+   },
+   "extracted_response": "B) hand over"
 }

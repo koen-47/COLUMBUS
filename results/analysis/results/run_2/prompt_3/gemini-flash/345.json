@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) cross one's heart.\n\nHere's why:\n\n* **Node 1:** Shows \"1111\" crossed out.  The description indicates this represents \"one's\" phonetically (1111 sounds like \"ones\"). The \"cross\" attribute signifies the line through it.\n\n* **Node 2:** Shows a heart (\u2665).\n\nCombining these, the image depicts \"cross one's heart\".  The other options don't match the visual representation.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: 1111, cross: True, repeat: 1, sound: (one's: 1111))\nNode 2 attributes: (text: \u2665, repeat: 1, icon: (heart: \u2665))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) cross one's heart (B) cross my heart and hope to die (C) have one's heart in (D) cross my heart",
-    "answer": {
-        "A": "cross one's heart"
-    }
+   "gemini_pro_response": "The correct answer is (A) cross one's heart.\n\nHere's why:\n\n* **Node 1:** Shows \"1111\" crossed out.  The description indicates this represents \"one's\" phonetically (1111 sounds like \"ones\"). The \"cross\" attribute signifies the line through it.\n\n* **Node 2:** Shows a heart (\u2665).\n\nCombining these, the image depicts \"cross one's heart\".  The other options don't match the visual representation.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: 1111, cross: True, repeat: 1, sound: (one's: 1111))\nNode 2 attributes: (text: \u2665, repeat: 1, icon: (heart: \u2665))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) cross one's heart (B) cross my heart and hope to die (C) have one's heart in (D) cross my heart",
+   "answer": {
+      "A": "cross one's heart"
+   },
+   "extracted_response": "A) cross one's heart"
 }

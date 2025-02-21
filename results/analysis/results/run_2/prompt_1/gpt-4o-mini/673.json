@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word conveyed in the image is (C) meant to.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) used to (B) as to (C) meant to (D) about to",
-    "answer": {
-        "C": "meant to"
-    }
+   "gpt4v_response": "The word conveyed in the image is (C) meant to.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) used to (B) as to (C) meant to (D) about to",
+   "answer": {
+      "C": "meant to"
+   },
+   "extracted_response": "C) meant to"
 }

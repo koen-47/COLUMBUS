@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(B) pedal to the metal",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) metalwork (B) pedal to the metal (C) crank the handle (D) metalworking",
-    "answer": {
-        "B": "pedal to the metal"
-    }
+   "gpt4v_response": "(B) pedal to the metal",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) metalwork (B) pedal to the metal (C) crank the handle (D) metalworking",
+   "answer": {
+      "B": "pedal to the metal"
+   },
+   "extracted_response": "B) pedal to the metal"
 }

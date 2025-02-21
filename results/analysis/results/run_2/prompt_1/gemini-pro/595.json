@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys the idiom \"elephant in the room\" (A). The word \"room\" is present, and the elephant is placed *in* between the two parts of that word.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) white elephant (D) baby elephant in the room",
-    "answer": {
-        "A": "elephant in the room"
-    }
+   "gemini_pro_response": "The image conveys the idiom \"elephant in the room\" (A). The word \"room\" is present, and the elephant is placed *in* between the two parts of that word.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) white elephant (D) baby elephant in the room",
+   "answer": {
+      "A": "elephant in the room"
+   },
+   "extracted_response": "A"
 }

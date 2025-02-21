@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) a drop in the ocean.\n\nThe image shows a single drop of water next to two large waves, symbolizing how insignificant a small amount is when compared to something vast.  This directly relates to the idiom \"a drop in the ocean\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) a drop in the ocean (C) cross the ocean (D) drop in the pond",
-    "answer": {
-        "B": "a drop in the ocean"
-    }
+   "gemini_pro_response": "The correct answer is (B) a drop in the ocean.\n\nThe image shows a single drop of water next to two large waves, symbolizing how insignificant a small amount is when compared to something vast.  This directly relates to the idiom \"a drop in the ocean\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) a drop in the ocean (C) cross the ocean (D) drop in the pond",
+   "answer": {
+      "B": "a drop in the ocean"
+   },
+   "extracted_response": "B"
 }

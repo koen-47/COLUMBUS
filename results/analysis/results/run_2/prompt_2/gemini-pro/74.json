@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is C: weather the storm.\n\nThe word \"STORM\" is placed between an up and down arrow. \"Weathering the storm\" means overcoming a difficult situation or period of time. The image depicts this by showing that there are ups and downs, that there will be periods of challenge. But you need to \"weather the storm\" to make it through.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) storm off (B) perfect storm (C) weather the storm (D) after the storm",
-    "answer": {
-        "D": "after the storm"
-    }
+   "gemini_pro_response": "The answer is C: weather the storm.\n\nThe word \"STORM\" is placed between an up and down arrow. \"Weathering the storm\" means overcoming a difficult situation or period of time. The image depicts this by showing that there are ups and downs, that there will be periods of challenge. But you need to \"weather the storm\" to make it through.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) storm off (B) perfect storm (C) weather the storm (D) after the storm",
+   "answer": {
+      "D": "after the storm"
+   },
+   "extracted_response": "C) weather the storm"
 }

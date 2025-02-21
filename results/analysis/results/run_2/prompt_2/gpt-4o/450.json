@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The answer is (B) hang over one's head.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tip one's hat (B) hang over one's head (C) hang up one's hat (D) hang one's hat",
-    "answer": {
-        "C": "hang up one's hat"
-    }
+   "gpt4v_response": "The answer is (B) hang over one's head.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tip one's hat (B) hang over one's head (C) hang up one's hat (D) hang one's hat",
+   "answer": {
+      "C": "hang up one's hat"
+   },
+   "extracted_response": "B) hang over one's head"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle consists of the word \"HOLD\" and the number \"4.\" The number \"4\" can be interpreted as the sound \"for.\" \n\nPutting it together, \"HOLD\" + \"for\" (4) gives us \"HOLD OUT FOR.\"\n\nTherefore, the correct answer is (B) hold out for.",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: HOLD, repeat: 1)\nNode 2 attributes: (text: 4, repeat: 1, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) hold off (B) hold out for (C) hold out (D) hold down",
-    "answer": {
-        "B": "hold out for"
-    }
+   "gpt4v_response": "The rebus puzzle consists of the word \"HOLD\" and the number \"4.\" The number \"4\" can be interpreted as the sound \"for.\" \n\nPutting it together, \"HOLD\" + \"for\" (4) gives us \"HOLD OUT FOR.\"\n\nTherefore, the correct answer is (B) hold out for.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: HOLD, repeat: 1)\nNode 2 attributes: (text: 4, repeat: 1, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) hold off (B) hold out for (C) hold out (D) hold down",
+   "answer": {
+      "B": "hold out for"
+   },
+   "extracted_response": "B) hold out for"
 }

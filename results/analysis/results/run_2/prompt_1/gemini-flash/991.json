@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) **why on Earth**.\n\nThe image uses a visual pun, with images of the Earth flanking the word \"WHY\".  This directly represents the phrase \"why on Earth\".  The other options don't fit the visual representation.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) why on Earth (B) why in the world (C) in the world (D) why in time",
-    "answer": {
-        "B": "why in the world"
-    }
+   "gemini_pro_response": "The correct answer is (A) **why on Earth**.\n\nThe image uses a visual pun, with images of the Earth flanking the word \"WHY\".  This directly represents the phrase \"why on Earth\".  The other options don't fit the visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) why on Earth (B) why in the world (C) in the world (D) why in time",
+   "answer": {
+      "B": "why in the world"
+   },
+   "extracted_response": "A) why on Earth"
 }

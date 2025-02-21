@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image most likely represents (B) midwatch. The arrows pointing towards and away from the watch suggest a period of time centered around the current time displayed on the watch.  \"Midwatch\" refers to a period of watch duty in the middle of the night, typically from midnight to 4 a.m. While this image doesn't specify a time, the concept of a central point in a time period aligns with the idea of a midwatch.\n\n\nThe other options are less likely:\n\n* **(A) midgame:** This refers to the middle portion of a game, not inherently related to a specific time on a clock.\n* **(C) stopwatch:** Stopwatches are used for timing events, not for displaying the current time or a period of watch duty.\n* **(D) deathwatch:** This refers to the vigil kept over someone dying or a watch or clock that supposedly predicts death, a much more morbid concept than what's depicted in the neutral image.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midgame (B) midwatch (C) stopwatch (D) deathwatch",
-    "answer": {
-        "B": "midwatch"
-    }
+   "gemini_pro_response": "The image most likely represents (B) midwatch. The arrows pointing towards and away from the watch suggest a period of time centered around the current time displayed on the watch.  \"Midwatch\" refers to a period of watch duty in the middle of the night, typically from midnight to 4 a.m. While this image doesn't specify a time, the concept of a central point in a time period aligns with the idea of a midwatch.\n\n\nThe other options are less likely:\n\n* **(A) midgame:** This refers to the middle portion of a game, not inherently related to a specific time on a clock.\n* **(C) stopwatch:** Stopwatches are used for timing events, not for displaying the current time or a period of watch duty.\n* **(D) deathwatch:** This refers to the vigil kept over someone dying or a watch or clock that supposedly predicts death, a much more morbid concept than what's depicted in the neutral image.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midgame (B) midwatch (C) stopwatch (D) deathwatch",
+   "answer": {
+      "B": "midwatch"
+   },
+   "extracted_response": "B) midwatch"
 }

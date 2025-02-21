@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle shows the words \"HANDB\", \"HELL\", \"HELL\", and \"ASKET.\" When read from left to right it conveys \"HANDB(etween) HELL (and) HELL ASKET\". Between hell and hell is high water, so another word for a small wicker basket, or ASKET, is needed.  Since we have the word hand and basket, the answer is (C) to hell in a handbasket.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to hell (B) raise hell (C) to hell in a handbasket (D) handbasket",
-    "answer": {
-        "C": "to hell in a handbasket"
-    }
+   "gemini_pro_response": "The rebus puzzle shows the words \"HANDB\", \"HELL\", \"HELL\", and \"ASKET.\" When read from left to right it conveys \"HANDB(etween) HELL (and) HELL ASKET\". Between hell and hell is high water, so another word for a small wicker basket, or ASKET, is needed.  Since we have the word hand and basket, the answer is (C) to hell in a handbasket.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to hell (B) raise hell (C) to hell in a handbasket (D) handbasket",
+   "answer": {
+      "C": "to hell in a handbasket"
+   },
+   "extracted_response": "C) to hell in a handbasket"
 }

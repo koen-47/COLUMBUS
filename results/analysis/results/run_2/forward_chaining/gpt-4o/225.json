@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the text \"HAVE BONE\" to the left of \"PICK\" and above another \"PICK\". This arrangement suggests the phrase \"have a bone to pick.\"\n\nThe correct answer is (A) have a bone to pick.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Text 'HAVE BONE'\",\n        \"description\": \"The text 'HAVE BONE' written in uppercase letters.\",\n        \"relation\": \"Positioned to the left of the text 'PICK'.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Text 'PICK'\",\n        \"description\": \"The text 'PICK' written in uppercase letters.\",\n        \"relation\": \"Positioned to the right of the text 'HAVE BONE'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"Text 'PICK'\",\n        \"description\": \"The text 'PICK' written in uppercase letters.\",\n        \"relation\": \"Positioned below the text 'HAVE BONE'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) have a bone to pick (B) bone to pick (C) take one's pick (D) throw a bone to\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "have a bone to pick"
+    }
+}

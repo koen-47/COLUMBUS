@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(C) small price to pay",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small fortune (B) price is right (C) small price to pay (D) smallholders",
-    "answer": {
-        "C": "small price to pay"
-    }
+   "gpt4v_response": "(C) small price to pay",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small fortune (B) price is right (C) small price to pay (D) smallholders",
+   "answer": {
+      "C": "small price to pay"
+   },
+   "extracted_response": "C"
 }

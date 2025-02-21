@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image shows \"ECAPS\" twice, which is \"SPACE\" spelled backward.  Since it appears twice, the answer is (B) backspaces.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backspace (B) backspaces (C) backspacer (D) space out",
-    "answer": {
-        "B": "backspaces"
-    }
+   "gemini_pro_response": "The image shows \"ECAPS\" twice, which is \"SPACE\" spelled backward.  Since it appears twice, the answer is (B) backspaces.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backspace (B) backspaces (C) backspacer (D) space out",
+   "answer": {
+      "B": "backspaces"
+   },
+   "extracted_response": "B) backspaces"
 }

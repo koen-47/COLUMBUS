@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys \"**D) pick out of a hat**\".  The words \"PICK\" and \"HAT\" are shown, with \"HAT\" enclosed in a box, suggesting choosing something from within. This aligns with the idiom of picking something out of a hat, usually for a random selection.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a hat on a hat (B) pull out of the hat (C) take one's hat off to (D) pick out of a hat",
-    "answer": {
-        "D": "pick out of a hat"
-    }
+   "gemini_pro_response": "The image conveys \"**D) pick out of a hat**\".  The words \"PICK\" and \"HAT\" are shown, with \"HAT\" enclosed in a box, suggesting choosing something from within. This aligns with the idiom of picking something out of a hat, usually for a random selection.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a hat on a hat (B) pull out of the hat (C) take one's hat off to (D) pick out of a hat",
+   "answer": {
+      "D": "pick out of a hat"
+   },
+   "extracted_response": "D) pick out of a hat"
 }

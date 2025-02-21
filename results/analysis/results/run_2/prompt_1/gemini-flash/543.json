@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **from beginning to end**.\n\nThe image shows an upward arrow pointing to \"FINISH\", and a downward arrow pointing to \"FROM FINISH\".  This visually represents a process going from the start (\"FROM\") to the end (\"FINISH\").  Option (C) is the most accurate description of this.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) begin at the beginning (B) from start to finish (C) from beginning to end (D) from scratch",
-    "answer": {
-        "B": "from start to finish"
-    }
+   "gemini_pro_response": "The correct answer is (C) **from beginning to end**.\n\nThe image shows an upward arrow pointing to \"FINISH\", and a downward arrow pointing to \"FROM FINISH\".  This visually represents a process going from the start (\"FROM\") to the end (\"FINISH\").  Option (C) is the most accurate description of this.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) begin at the beginning (B) from start to finish (C) from beginning to end (D) from scratch",
+   "answer": {
+      "B": "from start to finish"
+   },
+   "extracted_response": "C) from beginning to end"
 }

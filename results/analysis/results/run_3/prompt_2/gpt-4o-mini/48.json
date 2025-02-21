@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"BON\" with a bee icon and \"NET.\" This suggests the phrase \"bee in one's bonnet,\" as it combines the bee with the word \"bonnet.\" \n\nSo, the answer is (A) bee in one's bonnet.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bee in one's bonnet (B) put the bee on (C) queen bee (D) bee in bonnet",
-    "answer": {
-        "D": "bee in bonnet"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"BON\" with a bee icon and \"NET.\" This suggests the phrase \"bee in one's bonnet,\" as it combines the bee with the word \"bonnet.\" \n\nSo, the answer is (A) bee in one's bonnet.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bee in one's bonnet (B) put the bee on (C) queen bee (D) bee in bonnet",
+   "answer": {
+      "D": "bee in bonnet"
+   },
+   "extracted_response": "A) bee in one's bonnet"
 }

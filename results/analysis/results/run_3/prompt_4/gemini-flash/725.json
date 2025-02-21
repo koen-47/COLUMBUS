@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) par for the course.\n\nThe rebus shows \"PAR\" repeated four times next to \"COURSE\".  In golf, \"par\" refers to the standard number of strokes expected to complete a hole.  The phrase \"par for the course\" means something expected or typical.  The repetition of \"PAR\" four times emphasizes the idea of a standard or norm.\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: PAR, repeat: 4, sound: (for: 4))\nNode 2 attributes: (text: COURSE, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) pare down (B) par for the course (C) below par (D) due course",
-    "answer": {
-        "B": "par for the course"
-    }
+   "gemini_pro_response": "The correct answer is (B) par for the course.\n\nThe rebus shows \"PAR\" repeated four times next to \"COURSE\".  In golf, \"par\" refers to the standard number of strokes expected to complete a hole.  The phrase \"par for the course\" means something expected or typical.  The repetition of \"PAR\" four times emphasizes the idea of a standard or norm.\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: PAR, repeat: 4, sound: (for: 4))\nNode 2 attributes: (text: COURSE, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) pare down (B) par for the course (C) below par (D) due course",
+   "answer": {
+      "B": "par for the course"
+   },
+   "extracted_response": "B) par for the course"
 }

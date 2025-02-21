@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(A) fortune favours the bold**.\n\nWhile the image only shows the word \"FORTUNE,\" the options provided suggest a context.  \"Fortune favours the bold\" is a proverb that directly incorporates the word \"fortune.\"  The other options require more context or additional imagery to be understood.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fortune favours the bold (B) small fortune (C) spend a fortune (D) tell fortunes",
-    "answer": {
-        "B": "small fortune"
-    }
+   "gemini_pro_response": "The answer is **(A) fortune favours the bold**.\n\nWhile the image only shows the word \"FORTUNE,\" the options provided suggest a context.  \"Fortune favours the bold\" is a proverb that directly incorporates the word \"fortune.\"  The other options require more context or additional imagery to be understood.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fortune favours the bold (B) small fortune (C) spend a fortune (D) tell fortunes",
+   "answer": {
+      "B": "small fortune"
+   },
+   "extracted_response": "A) fortune favours the bold"
 }

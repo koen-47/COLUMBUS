@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) **get down to business**.\n\nThe image displays the words \"GET\" and \"BUSINESS\" arranged vertically to visually represent the phrase \"Get down to business\".",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sell down (B) get down to business (C) take care of business (D) out of business",
-    "answer": {
-        "B": "get down to business"
-    }
+   "gemini_pro_response": "The correct answer is (B) **get down to business**.\n\nThe image displays the words \"GET\" and \"BUSINESS\" arranged vertically to visually represent the phrase \"Get down to business\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sell down (B) get down to business (C) take care of business (D) out of business",
+   "answer": {
+      "B": "get down to business"
+   },
+   "extracted_response": "B) get down to business"
 }

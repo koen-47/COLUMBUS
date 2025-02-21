@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) exit stage left.\n\nThe image shows the words \"EXIT\" and \"STAGE\" with arrows indicating direction.  The arrow pointing to the left from \"EXIT\" and the placement of \"STAGE\" next to it creates the phrase \"exit stage left\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: EXIT, repeat: 1)\nNode 2 attributes: (text: STAGE, repeat: 1, highlight: before)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) stage right (B) set the stage (C) hold the stage (D) exit stage left",
-    "answer": {
-        "D": "exit stage left"
-    }
+   "gemini_pro_response": "The correct answer is (D) exit stage left.\n\nThe image shows the words \"EXIT\" and \"STAGE\" with arrows indicating direction.  The arrow pointing to the left from \"EXIT\" and the placement of \"STAGE\" next to it creates the phrase \"exit stage left\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: EXIT, repeat: 1)\nNode 2 attributes: (text: STAGE, repeat: 1, highlight: before)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) stage right (B) set the stage (C) hold the stage (D) exit stage left",
+   "answer": {
+      "D": "exit stage left"
+   },
+   "extracted_response": "D) exit stage left"
 }

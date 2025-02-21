@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image says \"GOROUND\", which looks like \"GO ROUND\". None of the options use the phrase \"go round\", so the closest option would be **(D) run into the ground**.  This phrase means to overuse something to the point of exhaustion or ruin.  While \"go round\" doesn't perfectly match this meaning, the other options are less related.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to ground (B) hit the ground running (C) put in the ground (D) run into the ground",
-    "answer": {
-        "D": "run into the ground"
-    }
+   "gemini_pro_response": "The image says \"GOROUND\", which looks like \"GO ROUND\". None of the options use the phrase \"go round\", so the closest option would be **(D) run into the ground**.  This phrase means to overuse something to the point of exhaustion or ruin.  While \"go round\" doesn't perfectly match this meaning, the other options are less related.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to ground (B) hit the ground running (C) put in the ground (D) run into the ground",
+   "answer": {
+      "D": "run into the ground"
+   },
+   "extracted_response": "D"
 }

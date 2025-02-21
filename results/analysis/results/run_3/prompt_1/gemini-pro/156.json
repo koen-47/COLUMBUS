@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (B) crosshairs.  The lines crossing over the word \"HAIR\" form the shape of crosshairs, as seen in a scope or targeting system.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wirehairs (B) crosshairs (C) wirehair (D) in the crosshairs",
-    "answer": {
-        "B": "crosshairs"
-    }
+   "gemini_pro_response": "The image conveys (B) crosshairs.  The lines crossing over the word \"HAIR\" form the shape of crosshairs, as seen in a scope or targeting system.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wirehairs (B) crosshairs (C) wirehair (D) in the crosshairs",
+   "answer": {
+      "B": "crosshairs"
+   },
+   "extracted_response": "B) crosshairs"
 }

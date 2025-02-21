@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (D) eye for an eye.\n\nHere's why:\n\nThe image shows four instances of \"EYE\", followed by \"AN\" and \"I\".  The description reinforces this: four \"EYE\"s, one \"AN\", and one \"I\". The sound attribute is a red herring; it aims to distract from the main point of the rebus.  The arrangement directly translates to \"EYE EYE EYE EYE AN I\",  which, when interpreted literally, forms the phrase \"eye for an eye\".\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: EYE, repeat: 4, sound: (for: 4))\nNode 2 attributes: (text: AN, repeat: 1)\nNode 3 attributes: (text: I, repeat: 1, sound: (eye: i))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) one in the eye for (B) have an eye for (C) see eye to eye (D) eye for an eye",
-    "answer": {
-        "D": "eye for an eye"
-    }
+   "gemini_pro_response": "The correct answer is (D) eye for an eye.\n\nHere's why:\n\nThe image shows four instances of \"EYE\", followed by \"AN\" and \"I\".  The description reinforces this: four \"EYE\"s, one \"AN\", and one \"I\". The sound attribute is a red herring; it aims to distract from the main point of the rebus.  The arrangement directly translates to \"EYE EYE EYE EYE AN I\",  which, when interpreted literally, forms the phrase \"eye for an eye\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: EYE, repeat: 4, sound: (for: 4))\nNode 2 attributes: (text: AN, repeat: 1)\nNode 3 attributes: (text: I, repeat: 1, sound: (eye: i))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) one in the eye for (B) have an eye for (C) see eye to eye (D) eye for an eye",
+   "answer": {
+      "D": "eye for an eye"
+   },
+   "extracted_response": "D) eye for an eye"
 }

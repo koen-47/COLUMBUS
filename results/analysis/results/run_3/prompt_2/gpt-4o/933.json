@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The answer is (A) turn on one's heel.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn on one's heel (B) kick up one's heels (C) kick one's heels (D) bring to heel",
-    "answer": {
-        "A": "turn on one's heel"
-    }
+   "gpt4v_response": "The answer is (A) turn on one's heel.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn on one's heel (B) kick up one's heels (C) kick one's heels (D) bring to heel",
+   "answer": {
+      "A": "turn on one's heel"
+   },
+   "extracted_response": "A) turn on one's heel"
 }

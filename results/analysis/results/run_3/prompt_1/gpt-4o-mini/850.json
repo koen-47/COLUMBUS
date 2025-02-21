@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (D) spring to life.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spring to mind (B) spring for (C) Pierian spring (D) spring to life",
-    "answer": {
-        "B": "spring for"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (D) spring to life.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spring to mind (B) spring for (C) Pierian spring (D) spring to life",
+   "answer": {
+      "B": "spring for"
+   },
+   "extracted_response": "D) spring to life"
 }

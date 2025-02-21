@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) once in a while.\n\nThe rebus shows the word \"WHILE\" repeated four times.  The description reinforces this with \"repeat: 4\". The sound attribute is a distraction. The phrase \"once in a while\" implies that something happens infrequently; the repetition of \"WHILE\" four times visually represents a less frequent occurrence.\n",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: WHILE, repeat: 4, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) for a while (B) for once (C) once in a while (D) long time",
-    "answer": {
-        "A": "for a while"
-    }
+   "gemini_pro_response": "The correct answer is (C) once in a while.\n\nThe rebus shows the word \"WHILE\" repeated four times.  The description reinforces this with \"repeat: 4\". The sound attribute is a distraction. The phrase \"once in a while\" implies that something happens infrequently; the repetition of \"WHILE\" four times visually represents a less frequent occurrence.\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: WHILE, repeat: 4, sound: (for: 4))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) for a while (B) for once (C) once in a while (D) long time",
+   "answer": {
+      "A": "for a while"
+   },
+   "extracted_response": "C"
 }

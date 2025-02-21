@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains the word \"DIG\" next to an icon of a hole. This combination suggests the phrase \"dig a hole.\"\n\nThe best match from the options is:\n\n(B) dig oneself in a hole",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"text_DIG\",\n    \"description\": \"The word 'DIG' written in uppercase letters.\",\n    \"relation\": \"next to item2\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"icon_hole\",\n    \"description\": \"A black circle inside a square, representing a hole.\",\n    \"relation\": \"next to item1\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) dig deep (B) dig oneself in a hole (C) dig out of a hole (D) blow a hole through\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "dig out of a hole"
+    }
+}

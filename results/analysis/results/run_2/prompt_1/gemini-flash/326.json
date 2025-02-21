@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (C) **beats one's swords into plowshares**.\n\nThe image shows the word \"SWORDS\" crossed out with a line. This visually represents the act of abandoning or eliminating swords, implying a transition to peaceful pursuits, which is the essence of the idiom \"beats one's swords into plowshares.\"\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) swordsmen (B) cross swords (C) beats one's swords into plowshares (D) swordsmanship",
-    "answer": {
-        "B": "cross swords"
-    }
+   "gemini_pro_response": "The correct answer is (C) **beats one's swords into plowshares**.\n\nThe image shows the word \"SWORDS\" crossed out with a line. This visually represents the act of abandoning or eliminating swords, implying a transition to peaceful pursuits, which is the essence of the idiom \"beats one's swords into plowshares.\"\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) swordsmen (B) cross swords (C) beats one's swords into plowshares (D) swordsmanship",
+   "answer": {
+      "B": "cross swords"
+   },
+   "extracted_response": "C) beats one's swords into plowshares"
 }

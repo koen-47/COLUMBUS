@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The rebus puzzle shows the word \"SHEETS\" repeated three times, with \"WIND\" appearing twice. This suggests the phrase \"three sheets to the wind,\" which is a colloquial expression meaning someone is very drunk. \n\nSo, the correct answer is (B) three sheets to the wind.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) four sheets to the wind (B) three sheets to the wind (C) get wind (D) wind at one's back",
-    "answer": {
-        "A": "four sheets to the wind"
-    }
+   "gpt4v_response": "The rebus puzzle shows the word \"SHEETS\" repeated three times, with \"WIND\" appearing twice. This suggests the phrase \"three sheets to the wind,\" which is a colloquial expression meaning someone is very drunk. \n\nSo, the correct answer is (B) three sheets to the wind.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) four sheets to the wind (B) three sheets to the wind (C) get wind (D) wind at one's back",
+   "answer": {
+      "A": "four sheets to the wind"
+   },
+   "extracted_response": "B) three sheets to the wind"
 }

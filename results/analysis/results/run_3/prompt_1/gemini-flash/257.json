@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The best answer is **(A) come into the world**.\n\nThe image uses a globe to represent the world, and the word \"COME\" suggests arrival or entry.  Therefore, \"come into the world\" is the most fitting phrase.  The other options don't quite fit the visual cue as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) come to life (D) come down to earth",
-    "answer": {
-        "A": "come into the world"
-    }
+   "gemini_pro_response": "The best answer is **(A) come into the world**.\n\nThe image uses a globe to represent the world, and the word \"COME\" suggests arrival or entry.  Therefore, \"come into the world\" is the most fitting phrase.  The other options don't quite fit the visual cue as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) come to life (D) come down to earth",
+   "answer": {
+      "A": "come into the world"
+   },
+   "extracted_response": "A) come into the world"
 }

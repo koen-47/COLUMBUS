@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The rebus puzzle represents \"hand to mouth\". Here's why:\n\n* **Node 1:** Represents \"HAND\" and is repeated twice. The \"sound: (to: 2)\" attribute indicates a phonetic transformation of the repeated word to \"to.\"\n* **Node 2:** Represents \"MOUTH.\"\n* **Edge 1:** The \"NEXT-TO\" relationship between the transformed \"HAND\" (now \"to\") and \"MOUTH\" creates the phrase \"hand to mouth.\"\n\nTherefore, the answer is (A).",
-    "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: HAND, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: MOUTH, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) hand to mouth (B) hand in hand (C) hand over hand (D) hand to God",
-    "answer": {
-        "A": "hand to mouth"
-    }
+   "gemini_pro_response": "The rebus puzzle represents \"hand to mouth\". Here's why:\n\n* **Node 1:** Represents \"HAND\" and is repeated twice. The \"sound: (to: 2)\" attribute indicates a phonetic transformation of the repeated word to \"to.\"\n* **Node 2:** Represents \"MOUTH.\"\n* **Edge 1:** The \"NEXT-TO\" relationship between the transformed \"HAND\" (now \"to\") and \"MOUTH\" creates the phrase \"hand to mouth.\"\n\nTherefore, the answer is (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: HAND, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: MOUTH, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) hand to mouth (B) hand in hand (C) hand over hand (D) hand to God",
+   "answer": {
+      "A": "hand to mouth"
+   },
+   "extracted_response": "A"
 }

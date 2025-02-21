@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is **(B) fall in love**.\n\nThe image shows the word \"FALL\" repeated four times, suggesting a repeated or continuous experience of falling.  The phrase \"fall in love\" fits this visual representation because falling in love is often described as a repeated or continuous experience of strong feelings.  The other options don't fit the visual metaphor as well.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall for (B) fall in love (C) fall into (D) take the fall",
-    "answer": {
-        "A": "fall for"
-    }
+   "gemini_pro_response": "The answer is **(B) fall in love**.\n\nThe image shows the word \"FALL\" repeated four times, suggesting a repeated or continuous experience of falling.  The phrase \"fall in love\" fits this visual representation because falling in love is often described as a repeated or continuous experience of strong feelings.  The other options don't fit the visual metaphor as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall for (B) fall in love (C) fall into (D) take the fall",
+   "answer": {
+      "A": "fall for"
+   },
+   "extracted_response": "B) fall in love"
 }

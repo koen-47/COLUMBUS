@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (B) set the Thames on fire.\n\nThe image shows the words \"SET THAMES\" above a line, with \"FIRE\" below the line.  This visually represents the phrase \"Set the Thames on fire,\" meaning to do something remarkable or astonishing.\n",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set the world on fire (B) set the thames on fire (C) cross the Thames (D) put out a fire",
-    "answer": {
-        "B": "set the thames on fire"
-    }
+   "gemini_pro_response": "The correct answer is (B) set the Thames on fire.\n\nThe image shows the words \"SET THAMES\" above a line, with \"FIRE\" below the line.  This visually represents the phrase \"Set the Thames on fire,\" meaning to do something remarkable or astonishing.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set the world on fire (B) set the thames on fire (C) cross the Thames (D) put out a fire",
+   "answer": {
+      "B": "set the thames on fire"
+   },
+   "extracted_response": "B) set the thames on fire"
 }

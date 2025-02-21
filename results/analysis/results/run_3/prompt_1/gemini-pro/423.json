@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image clearly shows the word \"SCARED\".  None of the other options are present.  So the answer is implicitly **SCARED**, which is part of option A.\n\nSince you must choose A, B, C, or D, the closest answer is **(A) scared to death**. While the image doesn't literally say \"scared to death,\" it does convey the emotion of being scared.\n",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) scared to death (B) green light (C) scared green (D) run scared",
-    "answer": {
-        "C": "scared green"
-    }
+   "gemini_pro_response": "The image clearly shows the word \"SCARED\".  None of the other options are present.  So the answer is implicitly **SCARED**, which is part of option A.\n\nSince you must choose A, B, C, or D, the closest answer is **(A) scared to death**. While the image doesn't literally say \"scared to death,\" it does convey the emotion of being scared.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) scared to death (B) green light (C) scared green (D) run scared",
+   "answer": {
+      "C": "scared green"
+   },
+   "extracted_response": "A) scared to death"
 }

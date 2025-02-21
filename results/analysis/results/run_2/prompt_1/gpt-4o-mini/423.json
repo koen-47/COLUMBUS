@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in this image is (C) scared green.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) scared to death (B) green light (C) scared green (D) run scared",
-    "answer": {
-        "C": "scared green"
-    }
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) scared green.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) scared to death (B) green light (C) scared green (D) run scared",
+   "answer": {
+      "C": "scared green"
+   },
+   "extracted_response": "C) scared green"
 }

@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The answer is (D) buckle down.\n\nThe word \"BUCKLE\" is written twice, one on top of the other.  This represents \"buckle down,\" meaning to apply oneself seriously to a task.",
-    "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) buckle up (B) tighten belt (C) buckle to (D) buckle down",
-    "answer": {
-        "C": "buckle to"
-    }
+   "gemini_pro_response": "The answer is (D) buckle down.\n\nThe word \"BUCKLE\" is written twice, one on top of the other.  This represents \"buckle down,\" meaning to apply oneself seriously to a task.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) buckle up (B) tighten belt (C) buckle to (D) buckle down",
+   "answer": {
+      "C": "buckle to"
+   },
+   "extracted_response": "D) buckle down"
 }

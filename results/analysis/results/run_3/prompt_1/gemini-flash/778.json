@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The correct answer is (A) **roll in wealth**.\n\nThe image shows two images of rolls of money flanking the word \"ROLL\".  This clearly represents having a lot of money.  The other options don't fit the visual representation.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roll in wealth (B) on a roll (C) rollover (D) call roll",
-    "answer": {
-        "A": "roll in wealth"
-    }
+   "gemini_pro_response": "The correct answer is (A) **roll in wealth**.\n\nThe image shows two images of rolls of money flanking the word \"ROLL\".  This clearly represents having a lot of money.  The other options don't fit the visual representation.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roll in wealth (B) on a roll (C) rollover (D) call roll",
+   "answer": {
+      "A": "roll in wealth"
+   },
+   "extracted_response": "A) roll in wealth"
 }

@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(C) a trip to the sun",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch the sun (B) under the sun (C) a trip to the sun (D) the sun sets on something",
-    "answer": {
-        "C": "a trip to the sun"
-    }
+   "gpt4v_response": "(C) a trip to the sun",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch the sun (B) under the sun (C) a trip to the sun (D) the sun sets on something",
+   "answer": {
+      "C": "a trip to the sun"
+   },
+   "extracted_response": "C) a trip to the sun"
 }

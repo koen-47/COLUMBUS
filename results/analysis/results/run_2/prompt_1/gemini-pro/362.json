@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The fraction 1/1 represents \"one and the same\" (B).  1/1 equals 1, meaning a single, unified entity.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one on one (B) one and the same (C) one and all (D) one at a time",
-    "answer": {
-        "A": "one on one"
-    }
+   "gemini_pro_response": "The fraction 1/1 represents \"one and the same\" (B).  1/1 equals 1, meaning a single, unified entity.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one on one (B) one and the same (C) one and all (D) one at a time",
+   "answer": {
+      "A": "one on one"
+   },
+   "extracted_response": "B"
 }

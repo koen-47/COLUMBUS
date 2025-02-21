@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "The word/phrase conveyed in the image is (B) drop in the pond.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop in the sea (B) drop in the pond (C) drop in the ocean (D) drop in the bucket",
-    "answer": {
-        "B": "drop in the pond"
-    }
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) drop in the pond.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop in the sea (B) drop in the pond (C) drop in the ocean (D) drop in the bucket",
+   "answer": {
+      "B": "drop in the pond"
+   },
+   "extracted_response": "B) drop in the pond"
 }

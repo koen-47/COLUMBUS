@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (B) up to here.  The arrows pointing up towards the word \"HERE\" visually represent the phrase \"up to here.\"",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up for (B) up to here (C) up to something (D) put up to",
-    "answer": {
-        "B": "up to here"
-    }
+   "gemini_pro_response": "The image conveys (B) up to here.  The arrows pointing up towards the word \"HERE\" visually represent the phrase \"up to here.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up for (B) up to here (C) up to something (D) put up to",
+   "answer": {
+      "B": "up to here"
+   },
+   "extracted_response": "B) up to here"
 }

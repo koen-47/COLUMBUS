@@ -1,7 +1,8 @@
 {
-    "gpt4v_response": "(C) all up",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up for (B) do up (C) all up (D) up on",
-    "answer": {
-        "A": "up for"
-    }
+   "gpt4v_response": "(C) all up",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up for (B) do up (C) all up (D) up on",
+   "answer": {
+      "A": "up for"
+   },
+   "extracted_response": "C) all up"
 }

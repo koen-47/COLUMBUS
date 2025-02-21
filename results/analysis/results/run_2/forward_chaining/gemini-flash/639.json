@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) fly on the wall.\n\nHere's why:\n\nThe JSON data describes the image accurately: \"FLY\" is above a horizontal line, and \"WALL\" is below it.  This arrangement visually represents the idiom \"fly on the wall,\" which describes someone who secretly observes a situation.  The other options don't fit the image's representation.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"word_fly\",\n        \"description\": \"The word 'FLY' written in uppercase letters.\",\n        \"relation\": \"positioned above the line and the word 'WALL'.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"horizontal_line\",\n        \"description\": \"A horizontal line.\",\n        \"relation\": \"positioned between the words 'FLY' and 'WALL'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"word_wall\",\n        \"description\": \"The word 'WALL' written in uppercase letters.\",\n        \"relation\": \"positioned below the line and the word 'FLY'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) fly on the wall (B) fly in the face of (C) fly by (D) fly off\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "fly on the wall"
+    }
+}

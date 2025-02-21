@@ -1,7 +1,8 @@
 {
-    "gemini_pro_response": "The image conveys (A) put on the dog.  The horizontal line suggests combining the words above and below it. \"Put on the dog\" is an idiom meaning to make a display of wealth or elegance.",
-    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the dog (B) dog around (C) put off (D) put someone on to",
-    "answer": {
-        "A": "put on the dog"
-    }
+   "gemini_pro_response": "The image conveys (A) put on the dog.  The horizontal line suggests combining the words above and below it. \"Put on the dog\" is an idiom meaning to make a display of wealth or elegance.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put on the dog (B) dog around (C) put off (D) put someone on to",
+   "answer": {
+      "A": "put on the dog"
+   },
+   "extracted_response": "A) put on the dog"
 }
