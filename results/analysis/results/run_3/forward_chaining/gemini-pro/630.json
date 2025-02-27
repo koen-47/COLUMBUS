@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The text \"BEFIRELLY\" can be read as \"BE FIRE LLY\".  Since \"LLY\" sounds like \"belly\", the rebus represents the phrase \"be fire belly\" or (D) \"fire in the belly\".\n\nFinal Answer: The final answer is $\\boxed{D}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_befirelly\",\n  \"description\": \"The text 'BEFIRELLY' is written in bold, uppercase letters.\",\n  \"relation\": \"centered in the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) line of fire (B) pull out of the fire (C) draw fire (D) fire in the belly\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "fire in the belly"
+    }
+}

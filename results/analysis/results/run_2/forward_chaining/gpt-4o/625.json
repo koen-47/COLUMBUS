@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"FINGER\" with a gear icon containing an 'X' on both sides. This setup suggests the phrase \"have one's fingers in many pies,\" as the gears with 'X's can represent \"pies\" and the word \"FINGER\" is in between them.\n\nThe correct answer is (C) have one's fingers in many pies.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"left_gear\",\n  \"description\": \"A gear icon with an 'X' in the center.\",\n  \"relation\": \"to the left of the word 'FINGER'\"\n}\n```\n\n```json\n{\n  \"id\": \"2\",\n  \"name\": \"text_finger\",\n  \"description\": \"The word 'FINGER' in bold uppercase letters.\",\n  \"relation\": \"between the two gear icons\"\n}\n```\n\n```json\n{\n  \"id\": \"3\",\n  \"name\": \"right_gear\",\n  \"description\": \"A gear icon with an 'X' in the center.\",\n  \"relation\": \"to the right of the word 'FINGER'\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) the finger (B) piece of the pie (C) have one's fingers in many pies (D) finger in the pie\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "finger in the pie"
+    }
+}

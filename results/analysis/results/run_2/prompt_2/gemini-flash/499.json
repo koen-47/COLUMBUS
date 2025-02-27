@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) gavel to order.\n\nThe rebus shows the word \"GAVEL\" above and below the word \"ORDER\".  This visually represents the phrase \"gavel to order\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in order (B) out of order (C) buy to let (D) gavel to order",
+   "answer": {
+      "D": "gavel to order"
+   },
+   "extracted_response": "D) gavel to order"
+}

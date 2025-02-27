@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) come down to us.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down with (B) come down (C) come down to us (D) come down to",
+   "answer": {
+      "C": "come down to us"
+   },
+   "extracted_response": "C) come down to us"
+}

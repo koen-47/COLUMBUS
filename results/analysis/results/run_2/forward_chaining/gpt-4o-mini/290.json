@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains the word \"JET\" written in capital letters. \n\nNow, let's map this to the answer choices:\n\n(A) jumbo jet - includes \"jet\" but adds \"jumbo.\"\n(B) jetliners - includes \"jet\" but adds \"liners.\"\n(C) jet set - includes \"jet\" and is a common phrase.\n(D) jet-setter - includes \"jet\" and adds \"setter.\"\n\nThe only option that directly corresponds to the word \"JET\" without adding any additional words is (C) jet set. \n\nTherefore, the answer is **(C) jet set**.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'JET' written in capital letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) jumbo jet (B) jetliners (C) jet set (D) jet-setter\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "jumbo jet"
+    }
+}

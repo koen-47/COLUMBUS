@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains the word \"GO\" repeated twice and a bat icon. This corresponds to the phrase \"go to bat.\"\n\nThe correct answer is (B) go to bat.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Text GO\",\n        \"description\": \"The word 'GO' written in bold, black letters.\",\n        \"relation\": \"Located on the left side of the image, with one 'GO' above the other.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Bat Icon\",\n        \"description\": \"A black silhouette of a bat.\",\n        \"relation\": \"Located to the right of the text 'GO'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) bat for the other team (B) go to bat (C) bat five hundred (D) off one's own bat\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "go to bat"
+    }
+}

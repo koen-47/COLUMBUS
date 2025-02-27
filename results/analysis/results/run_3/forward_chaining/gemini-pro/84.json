@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word is written in blue, and the word is STATE.\nThe only option that matches the json data is \"blue state\" (C).\n\n(A) yellow state - Incorrect. The word is blue, not yellow.\n(B) green state - Incorrect. The word is blue, not green.\n(D) bluebill - Incorrect. The word is \"STATE\", not \"bill\".\n\nFinal Answer: The final answer is $\\boxed{C}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'STATE' written in blue uppercase letters.\",\n  \"relation\": \"N/A\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) yellow state (B) green state (C) blue state (D) bluebill\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "blue state"
+    }
+}

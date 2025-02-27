@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"**walk on water**\" (B).  The words \"WALK\" over \"WATER\" with a separating line visually represents the concept of walking *on* the surface of the water.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take a walk (B) walk on water (C) carry someone's water (D) take on water",
+   "answer": {
+      "B": "walk on water"
+   },
+   "extracted_response": "B"
+}

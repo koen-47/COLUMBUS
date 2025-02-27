@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts a person running, seemingly powered by their own energy represented by the word \"STEAM\". This best corresponds to **(D) under one's own steam**, which means \"by one's own efforts or power, without assistance.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head of steam (B) blow off steam (C) run out of steam (D) under one's own steam",
+   "answer": {
+      "C": "run out of steam"
+   },
+   "extracted_response": "D) under one's own steam"
+}

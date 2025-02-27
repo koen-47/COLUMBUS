@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (C) too good to be true.\n\nThe words are arranged to read \"Good, be good, be true,\" which can be interpreted as \"Too good to be true.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to no good (B) true to form (C) too good to be true (D) truth be told",
+   "answer": {
+      "C": "too good to be true"
+   },
+   "extracted_response": "C) too good to be true"
+}

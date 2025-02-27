@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The JSON describes the image as showing the word \"TONE\" written vertically.  Let's look at how this relates to the options:\n\n* **(A) tone down:** This fits perfectly.  The image shows \"TONE,\" and \"down\" implies a vertical orientation.\n\n* **(B) lighten up:**  There's no visual connection to \"lighten\" or \"up\".\n\n* **(C) tune out:** While \"tune\" is phonetically similar to \"TONE,\" there's no representation of \"out\".\n\n* **(D) turn down:**  Similar to (C), \"turn\" is not visually represented, and neither is \"down\" in a way that suggests the vertical arrangement.\n\n\nTherefore, the answer is **(A) tone down**.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'TONE' written vertically.\",\n  \"relation\": \"Centered in the image.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) tone down (B) lighten up (C) tune out (D) turn down\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "tone down"
+    }
+}

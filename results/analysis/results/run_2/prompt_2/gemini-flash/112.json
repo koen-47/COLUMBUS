@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(B) catch up**.\n\nThe letters \"CATCH\" are presented vertically.  To \"catch up\" implies to get up to speed or reach a certain level.  The additional \"up\" is represented by the vertical orientation of the letters.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch on (B) catch up (C) caught up (D) catch eye",
+   "answer": {
+      "B": "catch up"
+   },
+   "extracted_response": "B) catch up"
+}

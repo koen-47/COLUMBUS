@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle likely conveys the phrase \"old hat.\" The image of a hat suggests the word \"hat,\" and the context implies something that is outdated or familiar, which aligns with the phrase \"old hat.\" \n\nSo the answer is (B) old hat.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hat hair (B) old hat (C) gray hat (D) white hat",
+   "answer": {
+      "C": "gray hat"
+   },
+   "extracted_response": "B) old hat"
+}

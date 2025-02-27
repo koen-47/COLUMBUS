@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The JSON data states that the image contains the word \"BREAD\" in red, uppercase letters.  Let's look at the options:\n\n* **(A) burn bread:** This implies an action (burning) that isn't depicted.\n* **(B) bread and butter:** This contains \"bread,\" but also adds another element.\n* **(C) bread of life:** This is a figurative expression, not literally shown.\n* **(D) brown bread:** This describes a type of bread, but the image doesn't specify the color (though it is brown).\n\nThe image simply shows the word \"BREAD\".  Therefore, while none of the options are perfect matches, the closest is the word **(D) brown bread**, as \"bread\" is the core element in the image.  While the color is not explicitly stated, it's a more direct interpretation than the other options.\n\nTherefore, the answer is **(D)**.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'BREAD' written in red, uppercase letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) burn bread (B) bread and butter (C) bread of life (D) brown bread\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "brown bread"
+    }
+}

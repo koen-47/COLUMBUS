@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts two hands and a mouth. This corresponds to the idiom \"hand to mouth,\" (B) which means having or providing only the bare essentials.  The other options don't fit the image.\n\nFinal Answer: The final answer is $\\boxed{B}$",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand to God (B) hand to mouth (C) hand in hand (D) hand over hand",
+   "answer": {
+      "B": "hand to mouth"
+   },
+   "extracted_response": "B"
+}

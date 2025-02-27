@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The word \"COURT\" is inside a box, signifying \"out of court\".  Combined with the word \"LAUGH\", the rebus represents \"laugh out of court\".\n\nSo the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) laugh out of court (B) laugh all the way to the bank (C) laugh one's head off (D) hold court",
+   "answer": {
+      "A": "laugh out of court"
+   },
+   "extracted_response": "A"
+}

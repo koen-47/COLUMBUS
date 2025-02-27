@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows \"BOOGIE\" over \"DOWN\". This represents \"Boogie Down\", which makes the answer (D) boogie on down.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) full tilt boogie (B) play down (C) peg down (D) boogie on down",
+   "answer": {
+      "D": "boogie on down"
+   },
+   "extracted_response": "D) boogie on down"
+}

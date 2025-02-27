@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"TEASTORMCUP\", which is a combination of \"tea\", \"storm\", and \"cup\".  This points to the idiom \"storm in a teacup\" (C).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tempest in a teapot (B) teacup (C) storm in a teacup (D) whip up a storm",
+   "answer": {
+      "C": "storm in a teacup"
+   },
+   "extracted_response": "C) storm in a teacup"
+}

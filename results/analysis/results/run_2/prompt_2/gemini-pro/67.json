@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the word \"DEAL\" in a plain font.  Since there are no other visual cues, the rebus is simply the word presented: \"deal\".\n\nOf the options provided, only (B), (C), and (D) contain the word \"deal.\"  There's no size or other modification to suggest \"big deal.\" There's nothing to indicate it's \"real.\" Therefore, without further context or clues, we can only guess, so the answer would be (D) a great deal.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) good grief (B) real deal (C) big deal (D) great deal",
+   "answer": {
+      "C": "big deal"
+   },
+   "extracted_response": "D) great deal"
+}

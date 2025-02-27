@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) take a back seat.\n\nThe image shows the words \"EKAT\" and \"SEAT\".  If you reverse \"EKAT\", it spells \"TAKE\".  Therefore, the complete phrase is \"TAKE A BACK SEAT\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take the front seat (B) sit back (C) take a back seat (D) have a seat",
+   "answer": {
+      "C": "take a back seat"
+   },
+   "extracted_response": "C) take a back seat"
+}

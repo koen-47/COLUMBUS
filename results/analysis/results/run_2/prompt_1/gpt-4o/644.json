@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(B) keep one's head",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep one's head down (B) keep one's head (C) hold one's head high (D) lose one's head",
+   "answer": {
+      "A": "keep one's head down"
+   },
+   "extracted_response": "B"
+}

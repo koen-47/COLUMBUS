@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows an ear icon above a horizontal line, with the word \"GRAPEVINE\" below the line. This setup suggests the phrase \"hear through the grapevine,\" as the ear represents hearing, and the word \"GRAPEVINE\" is below the line, indicating the phrase.\n\nThe correct answer is (D) hear through the grapevine.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"ear icon\",\n    \"description\": \"An icon representing an ear.\",\n    \"relation\": \"above the line and the word 'GRAPEVINE'\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"horizontal line\",\n    \"description\": \"A horizontal line separating the ear icon and the word 'GRAPEVINE'.\",\n    \"relation\": \"between the ear icon and the word 'GRAPEVINE'\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"GRAPEVINE text\",\n    \"description\": \"The word 'GRAPEVINE' written in uppercase letters.\",\n    \"relation\": \"below the horizontal line\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) grapevine (B) grapevines (C) hear on the grapevine (D) hear through the grapevine\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "hear on the grapevine"
+    }
+}

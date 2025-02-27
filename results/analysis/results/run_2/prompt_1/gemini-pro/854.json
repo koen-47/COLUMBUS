@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (C) stall for time.  The word \"STALL\" appears repeatedly, visually \"stalling\" the appearance of the word \"TIME\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pressed for time (B) waiting time (C) stall for time (D) lockout",
+   "answer": {
+      "C": "stall for time"
+   },
+   "extracted_response": "C) stall for time"
+}

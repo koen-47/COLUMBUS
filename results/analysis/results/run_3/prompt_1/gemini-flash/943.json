@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) two left feet.  The image shows \"LEFT FEET LEFT FEET\", visually representing the idiom.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two left hands (B) two left feet (C) at one's feet (D) feet first",
+   "answer": {
+      "B": "two left feet"
+   },
+   "extracted_response": "B"
+}

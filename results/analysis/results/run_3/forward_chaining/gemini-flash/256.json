@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The JSON indicates that the word \"OPPORTUNITY\" is written in yellow.  Let's analyze the options:\n\n* **(A) gold opportunity:** This fits perfectly. \"Gold\" refers to the yellow color of the word.\n\n* **(B) go for the gold:** This doesn't directly include the word \"opportunity.\"\n\n* **(C) land of opportunity:** This doesn't relate to the yellow color.\n\n* **(D) black gold:** This is the opposite of the color shown.\n\nTherefore, the answer is **(A) gold opportunity**.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_opportunity\",\n  \"description\": \"The word 'OPPORTUNITY' written in yellow uppercase letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) gold opportunity (B) go for the gold (C) land of opportunity (D) black gold\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "gold opportunity"
+    }
+}

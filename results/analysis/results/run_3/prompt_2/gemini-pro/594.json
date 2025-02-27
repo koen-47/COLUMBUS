@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows the word \"EAT\" four times, or \"EAT, EAT, EAT, EAT\".  Next to it is the number \"2\". This sounds like \"eat, eat, eat, eat two\", or \"eat for two\".\n\nSo the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eat one's own (B) two for two (C) eat one's young (D) eat for two",
+   "answer": {
+      "D": "eat for two"
+   },
+   "extracted_response": "D) eat for two"
+}

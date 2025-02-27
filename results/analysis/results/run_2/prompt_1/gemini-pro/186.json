@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows \"1111\" with an up arrow and a down arrow around it, followed by the word \"TIME\".  This represents \"up and down time,\" conveying the idea of something happening repeatedly.  Therefore, the answer is (C) time after time.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's time (B) before one's eyes (C) time after time (D) before someone's time",
+   "answer": {
+      "A": "before one's time"
+   },
+   "extracted_response": "C) time after time"
+}

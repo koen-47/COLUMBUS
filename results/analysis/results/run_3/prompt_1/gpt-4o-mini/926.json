@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The phrase conveyed in the image is (B) too hot to hold.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hot hand (B) too hot to hold (C) hot off the presses (D) hot and heavy",
+   "answer": {
+      "B": "too hot to hold"
+   },
+   "extracted_response": "B) too hot to hold"
+}

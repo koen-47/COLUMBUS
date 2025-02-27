@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "Here's how to solve the rebus:\n\n* **Node 1:** \"EYE\" repeated four times. The \"sound\" attribute says \"for: 4\". This hints that the four \"EYE\"s sound like \"four\".\n* **Node 2:** \"AN\" is present once.\n* **Node 3:** \"I\" is present once and sounds like \"eye\".\n\nPutting it all together: Four EYE AN I = Four (EYE) An (I) = One in the **eye for** \n\nSo the answer is (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: EYE, repeat: 4, sound: (for: 4))\nNode 2 attributes: (text: AN, repeat: 1)\nNode 3 attributes: (text: I, repeat: 1, sound: (eye: i))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) one in the eye for (B) have an eye for (C) see eye to eye (D) eye for an eye",
+   "answer": {
+      "D": "eye for an eye"
+   },
+   "extracted_response": "A) one in the eye for"
+}

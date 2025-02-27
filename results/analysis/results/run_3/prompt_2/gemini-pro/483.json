@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows a \"re\" symbol next to the word \"gills\".  This represents the idiom \"packed to the gills,\" or filling something up to its gills. Option (B) is the correct answer.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) green around the gills (B) packed to the gills (C) stuffed to the gills (D) green about the gills",
+   "answer": {
+      "A": "green around the gills"
+   },
+   "extracted_response": "B) packed to the gills"
+}

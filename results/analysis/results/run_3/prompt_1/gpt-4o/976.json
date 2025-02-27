@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(C) walk on the wild side",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run wild (B) call of the wild (C) walk on the wild side (D) go wild",
+   "answer": {
+      "C": "walk on the wild side"
+   },
+   "extracted_response": "C"
+}

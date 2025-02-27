@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(A) big ol'",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big ol' (B) big name (C) big ole (D) big shot",
+   "answer": {
+      "A": "big ol'"
+   },
+   "extracted_response": "A) big ol'"
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The json describes a \"small\" globe icon. This best maps to answer choice (B) \"a small world\".\n\n(A) \"small world syndrome\" is incorrect. While the globe is small, the concept of \"syndrome\" is not represented.\n(C) \"across the world\" is incorrect. The globe represents the world, but it isn't inherently conveying movement \"across\" it.\n(D) \"outside world\" is incorrect.  There's no representation of being \"outside\" anything.\n\nThe answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"globe_icon\",\n  \"description\": \"A small black and white icon of a globe, showing continents.\",\n  \"relation\": \"none\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) small world syndrome (B) a small world (C) across the world (D) outside world\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "a small world"
+    }
+}

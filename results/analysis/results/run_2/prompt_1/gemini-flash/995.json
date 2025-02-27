@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **why in the world**.\n\nThe image shows the word \"WHY\" above a line, with a globe below the line.  This visually represents the phrase \"Why in the world,\" which expresses disbelief or astonishment.  The globe adds to this by implying a global or widespread context to the question.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) why on earth (B) why in time (C) why in the world (D) hell on earth",
+   "answer": {
+      "A": "why on earth"
+   },
+   "extracted_response": "C) why in the world"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) too hot to hold.\n\nThe rebus shows the word \"HOT\" twice above the word \"HOLD\" twice.  This visually represents something being too hot to hold.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hot hand (B) too hot to hold (C) hot off the presses (D) hot and heavy",
+   "answer": {
+      "B": "too hot to hold"
+   },
+   "extracted_response": "B) too hot to hold"
+}

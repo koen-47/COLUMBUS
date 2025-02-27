@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) square one.  The image depicts the phrase \"back to square one,\" which means to return to the beginning of a task or process.  Option D is the closest match.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) back to square one (B) square away (C) square on (D) square one",
+   "answer": {
+      "A": "back to square one"
+   },
+   "extracted_response": "D) square one"
+}

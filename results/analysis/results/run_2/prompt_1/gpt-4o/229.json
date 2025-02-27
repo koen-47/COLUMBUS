@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(C) toe the line",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head to toe (B) lose head (C) toe the line (D) head over heels",
+   "answer": {
+      "A": "head to toe"
+   },
+   "extracted_response": "C"
+}

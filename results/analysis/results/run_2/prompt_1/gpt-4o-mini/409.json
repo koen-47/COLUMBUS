@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) row in the same boat.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) row in the same boat (B) skid row (C) in a row (D) row back",
+   "answer": {
+      "D": "row back"
+   },
+   "extracted_response": "A) row in the same boat"
+}

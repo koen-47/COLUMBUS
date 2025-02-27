@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"ROGORILLAOM\".  If you separate it out as \"ROG OR ILLA OM,\" it visually represents \"ROG(er) OR I'LL A OM\" or \"Roger or I'll a om\" (Roger or I'll eat 'em) which is a variation on \"gorilla in the room\". So the answer is (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gorilla in the room (B) elephant in the room (C) baby elephant in the room (D) naked ape",
+   "answer": {
+      "A": "gorilla in the room"
+   },
+   "extracted_response": "A) gorilla in the room"
+}

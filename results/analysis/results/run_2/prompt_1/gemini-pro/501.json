@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image conveys \"go\" twice and \"Earth\" once. Among the options given, this visual most strongly suggests (D) go to the ends of the earth. This idiom implies great lengths of travel or effort.  While \"go Earth\" isn't standard English, the repetition of \"go\" emphasizes the extensive travel suggested by the phrase \"to the ends of the earth.\"",
+    "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) move heaven and earth (B) run to earth (C) edge of the earth (D) go to the ends of the earth",
+    "answer": {
+        "D": "go to the ends of the earth"
+    }
+}

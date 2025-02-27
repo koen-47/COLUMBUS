@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) hand over.\n\nThe image depicts a hand above a line and a face below it.  This visually represents the transfer or relinquishing of something, thus \"handing it over.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand someone his head (B) hand over (C) hand over hand (D) hand over head",
+   "answer": {
+      "D": "hand over head"
+   },
+   "extracted_response": "B"
+}

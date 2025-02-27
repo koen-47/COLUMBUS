@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) tongue in cheek.\n\nThe image shows the words \"CHEEK\" with a tongue icon replacing the letter \"O\".  This visually represents the idiom \"tongue in cheek,\" meaning not to be taken seriously or literally; said playfully or sarcastically.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn the other cheek (B) bite tongue (C) tongue in cheek (D) hold tongue",
+   "answer": {
+      "C": "tongue in cheek"
+   },
+   "extracted_response": "C"
+}

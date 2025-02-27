@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"flat on one's back\" (B).  \"FLAT\" is over \"1111 BACK\", with \"1111\" visually representing someone lying down.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) flatbed (B) flat on one's back (C) knock someone flat (D) flat out",
+   "answer": {
+      "B": "flat on one's back"
+   },
+   "extracted_response": "B"
+}

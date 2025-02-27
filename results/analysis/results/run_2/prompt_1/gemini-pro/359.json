@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"WH11111ILE\".  The \"11111\" represents the long \"i\" sound in \"while\". So the answer is (A) for a while.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for a while (B) once in a while (C) once and for all (D) once or twice",
+   "answer": {
+      "B": "once in a while"
+   },
+   "extracted_response": "A) for a while"
+}

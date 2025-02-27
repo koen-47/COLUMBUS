@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The word \"HAIR\" is crossed out, or \"in the crosshairs\". So the answer is (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wirehairs (B) crosshairs (C) wirehair (D) in the crosshairs",
+   "answer": {
+      "B": "crosshairs"
+   },
+   "extracted_response": "D) in the crosshairs"
+}

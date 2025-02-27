@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (B) put on the red light.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run a red light (B) put on the red light (C) put someone's lights out (D) red light",
+   "answer": {
+      "B": "put on the red light"
+   },
+   "extracted_response": "B) put on the red light"
+}

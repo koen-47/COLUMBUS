@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) red letter day.\n\nThe rebus shows the word \"LETTER\" in red and the word \"DAY\" in black.  This visually represents a \"red letter day\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) day lark (B) red letter day (C) day after day (D) day of days",
+   "answer": {
+      "B": "red letter day"
+   },
+   "extracted_response": "B) red letter day"
+}

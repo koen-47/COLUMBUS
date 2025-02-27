@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the letters \"QUI\" and \"VER\" with a bow and arrow between them. This forms the word \"QUIVER.\"\n\nThe correct answer is (D) arrow in the quiver.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text_QUI\",\n    \"description\": \"The letters 'QUI' in uppercase.\",\n    \"relation\": \"left of the bow and arrow\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"bow_and_arrow\",\n    \"description\": \"An icon of a bow and arrow.\",\n    \"relation\": \"between the text 'QUI' and 'VER'\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"text_VER\",\n    \"description\": \"The letters 'VER' in uppercase.\",\n    \"relation\": \"right of the bow and arrow\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) draw the long bow (B) arrowheads (C) make one's bow (D) arrow in the quiver\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "arrow in the quiver"
+    }
+}

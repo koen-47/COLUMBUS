@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus represents \"an eye for an eye\".  There are four eyes (four I's) and the words \"AN\" and \"I\".  Putting it all together, you have \"an I for an I\", a play on the phrase \"an eye for an eye\". Thus, the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see eye to eye (B) eye for an eye (C) have an eye for (D) one in the eye for",
+   "answer": {
+      "B": "eye for an eye"
+   },
+   "extracted_response": "B) eye for an eye"
+}

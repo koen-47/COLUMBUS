@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (B) see eye to eye.  The two \"I\"s represent two eyes, and the phrase \"see eye\" is present.  When put together, it implies seeing eye to eye with someone, meaning to agree with them.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) see eye to eye (C) catch someone's eye (D) catch the eye",
+   "answer": {
+      "B": "see eye to eye"
+   },
+   "extracted_response": "B) see eye to eye"
+}

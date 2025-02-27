@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) cry in one's beer.\n\nThe rebus shows \"1111 CRY\" followed by an image of a beer mug.  \"1111\" represents \"one one one one,\" which sounds like \"in one's\". Therefore, the entire image translates to \"cry in one's beer\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small beer (B) cry one's eyes out (C) cry someone a river (D) cry in one's beer",
+   "answer": {
+      "D": "cry in one's beer"
+   },
+   "extracted_response": "D) cry in one's beer"
+}

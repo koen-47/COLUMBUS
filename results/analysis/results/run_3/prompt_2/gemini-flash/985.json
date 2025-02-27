@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) coming into the world.\n\nHere's why:\n\nThe image shows the word \"WELCOME\" stacked on top of itself.  Between the two words is a symbol that resembles a world globe,  surrounded by arrows indicating movement into the globe.  This visually represents \"coming into the world\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) welcome to my world (B) come into the world (C) coming into the world (D) mean the world to",
+   "answer": {
+      "A": "welcome to my world"
+   },
+   "extracted_response": "C) coming into the world"
+}

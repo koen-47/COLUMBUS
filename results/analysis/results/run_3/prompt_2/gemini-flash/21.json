@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) aftermath**.\n\nThe arrows indicate that something is happening \"after\" the word MATH.  Therefore, the answer is \"aftermath\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftermath (B) tear up (C) after the storm (D) aftermaths",
+   "answer": {
+      "A": "aftermath"
+   },
+   "extracted_response": "A) aftermath"
+}

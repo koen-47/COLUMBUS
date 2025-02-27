@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (A) have a bone to pick.\n\nThe image shows the words \"HAVE BONE\" and then two instances of \"PICK\". This visually represents the phrase \"have a bone to pick\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have a bone to pick (B) bone to pick (C) take one's pick (D) throw a bone to",
+   "answer": {
+      "A": "have a bone to pick"
+   },
+   "extracted_response": "A) have a bone to pick"
+}

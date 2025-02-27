@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (A) good value.  The arrows pointing towards \"CLASS\" and away from \"VALUE\" suggest that the class is high while the value (presumably price) is low, making it a good value.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) good value (B) middle class value (C) class clown (D) class act",
+   "answer": {
+      "B": "middle class value"
+   },
+   "extracted_response": "A) good value"
+}

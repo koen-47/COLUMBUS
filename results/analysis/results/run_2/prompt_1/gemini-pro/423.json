@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image clearly shows the word \"SCARED\" in green text.  None of the other options are visually represented.  Therefore, the answer is implicitly **SCARED**, although none of the provided multiple choice options perfectly match.  Since (A) *scared to death*, (C) *scared green*, and (D) *run scared* contain the word \"scared\", (A) is the closest answer but not exactly correct.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) scared to death (B) green light (C) scared green (D) run scared",
+   "answer": {
+      "C": "scared green"
+   },
+   "extracted_response": "A) scared to death"
+}

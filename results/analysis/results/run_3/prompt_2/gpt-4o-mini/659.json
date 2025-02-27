@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"LOALIGHTFERS,\" which can be interpreted as \"light in the loafers.\" \n\nSo the correct answer is (D) light in the loafers.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) light up (B) make a light (C) loaf about (D) light in the loafers",
+   "answer": {
+      "D": "light in the loafers"
+   },
+   "extracted_response": "D) light in the loafers"
+}

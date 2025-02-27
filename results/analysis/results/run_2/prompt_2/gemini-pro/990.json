@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The letters P, I, H, and W are vertically stacked before the word STORM. This represents \"whip\" before the storm, meaning the answer is (D) whip up a storm.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cook up a storm (B) storm off (C) take by storm (D) whip up a storm",
+   "answer": {
+      "D": "whip up a storm"
+   },
+   "extracted_response": "D) whip up a storm"
+}

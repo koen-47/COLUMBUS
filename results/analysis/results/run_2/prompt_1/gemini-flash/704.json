@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **nail in the coffin**.\n\nThe image shows the word \"NAIL\" between two images of coffins.  This directly represents the idiom \"a nail in the coffin,\" which means something that contributes to the downfall or ruin of something else.  Options A and D imply a finality that isn't explicitly shown in the picture, while B is too strong and implies the final act of destruction.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nail down (B) last nail in the coffin (C) nail in the coffin (D) final nail in the coffin",
+   "answer": {
+      "C": "nail in the coffin"
+   },
+   "extracted_response": "C) nail in the coffin"
+}

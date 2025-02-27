@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (A) bone to pick.\n\nThe rebus shows \"BONE\" written twice, vertically stacked. The graph description indicates that the word \"BONE\" is repeated twice (repeat: 2) and there is a sound relationship (\"sound: (to: 2)\") between the two occurrences of \"BONE\".  This sound relationship implies the preposition \"to\" should be placed between the two instances of \"BONE\".  Therefore, the solution is \"BONE to BONE\", or more idiomatically, \"bone to pick\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BONE, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bone to pick (B) chill to the bone (C) throw a bone to (D) to the bone",
+   "answer": {
+      "D": "to the bone"
+   },
+   "extracted_response": "A) bone to pick"
+}

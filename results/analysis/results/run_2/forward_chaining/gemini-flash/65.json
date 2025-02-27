@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is **(A) cross the aisle**.\n\nThe JSON data describes the image as showing the word \"AISLE\".  The image also shows a line crossing the word \"AISLE\". This directly translates to \"cross the aisle\".  The other options don't relate to the image.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'AISLE' written in capital letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) cross the aisle (B) roll in the aisles (C) cross the line (D) cross one's legs\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "cross the aisle"
+    }
+}

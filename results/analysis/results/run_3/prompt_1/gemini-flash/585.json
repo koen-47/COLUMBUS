@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **drop in the pond**.\n\nThe image shows the word \"PODROPND\".  If you rearrange the letters, you get \"DROP IN POND\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop in the sea (B) drop in the bucket (C) drop in the pond (D) drop in the ocean",
+   "answer": {
+      "C": "drop in the pond"
+   },
+   "extracted_response": "C) drop in the pond"
+}

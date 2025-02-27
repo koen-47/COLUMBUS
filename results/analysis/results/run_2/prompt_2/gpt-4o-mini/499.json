@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"gavel to order.\" The word \"gavel\" is positioned above \"order,\" indicating a transition from one to the other. Therefore, the correct answer is (D) gavel to order.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in order (B) out of order (C) buy to let (D) gavel to order",
+   "answer": {
+      "D": "gavel to order"
+   },
+   "extracted_response": "D) gavel to order"
+}

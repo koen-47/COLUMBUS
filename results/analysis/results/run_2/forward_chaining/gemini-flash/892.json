@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (D) take to the bank.\n\nHere's how we arrive at the answer by mapping the JSON to the options:\n\nThe JSON describes the image as having the word \"TAKE\" above and below the word \"BANK\". This spatial arrangement directly translates to the phrase \"TAKE TO THE BANK\".  None of the other options match this visual representation. Therefore, the answer is (D).\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"word_take\",\n        \"description\": \"The word 'TAKE' written in uppercase letters.\",\n        \"relation\": \"above the word 'BANK'\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"word_bank\",\n        \"description\": \"The word 'BANK' written in uppercase letters.\",\n        \"relation\": \"below the word 'TAKE'\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) break the bank (B) bank night (C) laugh all the way to the bank (D) take to the bank\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "take to the bank"
+    }
+}

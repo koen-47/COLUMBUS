@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the number \"2\" with a line through it, meaning it's being removed or canceled.  This correlates with \"cross off\" or \"cross out\".  While both have similar meanings, \"cross off\" is generally used for removing items from a list.\n\nSo, the answer is (D) cross off.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross out (C) cross to take up (D) cross off",
+   "answer": {
+      "C": "cross to take up"
+   },
+   "extracted_response": "D) cross off"
+}

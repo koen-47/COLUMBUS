@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"THR\" followed by a bone icon and then \"OAT.\" This suggests the phrase \"bone in the throat.\" \n\nSo, the correct answer is (D) bone in the throat.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) lump in one's throat (B) funny bone (C) bone in her teeth (D) bone in the throat",
+   "answer": {
+      "D": "bone in the throat"
+   },
+   "extracted_response": "D) bone in the throat"
+}

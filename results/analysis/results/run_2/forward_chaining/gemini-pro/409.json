@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows \"WOR\", which is \"WORK\" without the \"K\".  This represents \"out of work\", or option B, \"skid row\".\n\nThe other options are incorrect:\n* (A) row in the same boat: This doesn't relate to \"out of work\".\n* (C) in a row:  This doesn't relate to \"out of work\".\n* (D) row back: This doesn't relate to \"out of work\".\n\nFinal Answer: The final answer is $\\boxed{B}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_WOR\",\n  \"description\": \"The text 'WOR' written in uppercase letters.\",\n  \"relation\": \"Part of the word 'WORK' with the letter 'K' missing.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) row in the same boat (B) skid row (C) in a row (D) row back\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "row back"
+    }
+}

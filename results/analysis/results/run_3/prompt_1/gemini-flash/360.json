@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) hold tongue.\n\nThe image contains the phrase \"CHTONGUEEEK\".  By removing the extra letters, you get \"HOLD TONGUE\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bite tongue (B) hold tongue (C) turn the other cheek (D) tongue in cheek",
+   "answer": {
+      "D": "tongue in cheek"
+   },
+   "extracted_response": "B) hold tongue"
+}

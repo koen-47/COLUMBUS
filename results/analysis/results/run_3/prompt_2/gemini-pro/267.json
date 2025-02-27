@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle represents \"cash in one's chips.\" Here's why:\n\n* **1111:**  Four ones can be read as \"four ones\" which sounds like \"for once.\"\n* **$ | D:** This represents \"cash\" and \"in\" divided by a line.\n* **\ud83c\udf5f:**  This is an image of French fries, also called \"chips.\"\n\nPutting it all together: for once + cash in + chips = cash in one's chips.\n\nSo the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cash in one's chips (B) cash in (C) have had one's chips (D) let the chips fall where they may",
+   "answer": {
+      "A": "cash in one's chips"
+   },
+   "extracted_response": "A) cash in one's chips"
+}

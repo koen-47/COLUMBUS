@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The answer is (C) put to bed.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bed in (B) go to sleep (C) put to bed (D) sleep on",
+   "answer": {
+      "C": "put to bed"
+   },
+   "extracted_response": "C) put to bed"
+}

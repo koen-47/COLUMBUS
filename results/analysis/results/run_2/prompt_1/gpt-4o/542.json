@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(B) three sheets to the wind",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) four sheets to the wind (B) three sheets to the wind (C) get wind (D) wind at one's back",
+   "answer": {
+      "A": "four sheets to the wind"
+   },
+   "extracted_response": "B"
+}

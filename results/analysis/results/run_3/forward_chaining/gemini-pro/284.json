@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle depicts \"1HOLE1\".\n\n* **id 1:** Corresponds to the \"1\" at the beginning of the puzzle, or the word \"one\".\n* **id 2:** Corresponds to the word \"HOLE\" in the puzzle.\n* **id 3:** Corresponds to the \"1\" at the end of the puzzle, or the word \"one\".\n\nCombining these elements gives us \"one hole one\", which sounds like \"hole in one\".\n\nTherefore, the answer is (A) hole in one.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"number_1\",\n    \"description\": \"The number 1 at the beginning of the text.\",\n    \"relation\": \"part_of_text\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"word_HOLE\",\n    \"description\": \"The word 'HOLE' in the middle of the text.\",\n    \"relation\": \"part_of_text\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"number_1\",\n    \"description\": \"The number 1 at the end of the text.\",\n    \"relation\": \"part_of_text\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) hole in one (B) drinking hole (C) dig out of a hole (D) in the hole\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "hole in one"
+    }
+}

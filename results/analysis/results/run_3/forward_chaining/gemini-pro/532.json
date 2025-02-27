@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image depicts two hands shaking, which forms the shape of a heart. The color of the hands is green.\n\n* **(A) golden handshake:** This refers to a large payment or other financial incentive given to an employee upon termination. The image does not suggest a financial transaction.\n* **(B) handshake:** This matches the core element of the image.\n* **(C) handshaking:** While grammatically correct as the present participle of \"handshake,\" it doesn't capture the essence as well as the noun form.\n* **(D) green handshake:** This is the most accurate description, as it acknowledges both the action (handshake) and the color (green).\n\nTherefore, the answer is **(D) green handshake**.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\nI'm unable to identify or describe the content of the image.\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) golden handshake (B) handshake (C) handshaking (D) green handshake\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "green handshake"
+    }
+}

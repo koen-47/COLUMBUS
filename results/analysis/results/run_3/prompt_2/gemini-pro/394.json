@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle can be solved as follows:\n\n* **HANG** is written above a horizontal line.\n* Below the line are the numbers **1111** and a **face**.\n\nThis represents \"HANG (over) 1111 (one one one one)\" or a face (one's head). Therefore the rebus represents \"hang over one's head\".\n\nSo the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang one's hat (B) hold over someone's head (C) hang up one's hat (D) hang over one's head",
+   "answer": {
+      "D": "hang over one's head"
+   },
+   "extracted_response": "D) hang over one's head"
+}

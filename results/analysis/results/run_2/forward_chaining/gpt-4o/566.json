@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"DONE\" repeated four times vertically. This arrangement suggests the phrase \"done for,\" as it implies something is completed multiple times or thoroughly.\n\nThe correct answer is (B) done for.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"text_DONE_1\",\n        \"description\": \"The word 'DONE' written in uppercase letters.\",\n        \"relation\": \"top\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"text_DONE_2\",\n        \"description\": \"The word 'DONE' written in uppercase letters.\",\n        \"relation\": \"below item1\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"text_DONE_3\",\n        \"description\": \"The word 'DONE' written in uppercase letters.\",\n        \"relation\": \"below item2\"\n    },\n    {\n        \"id\": \"item4\",\n        \"name\": \"text_DONE_4\",\n        \"description\": \"The word 'DONE' written in uppercase letters.\",\n        \"relation\": \"below item3\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) done in (B) done for (C) done deal (D) well done\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "done for"
+    }
+}

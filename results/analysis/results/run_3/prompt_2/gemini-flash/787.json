@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(B) run for one's life**.\n\nHere's why:\n\n* **Four running figures:** Represent the idea of running repeatedly or frantically.\n* **1111 LIFE:**  The number sequence \"1111\" can be interpreted as \"one one one one,\"  sounding phonetically like \"run run run run\" when spoken.  \"LIFE\" is directly stated.\n\nTherefore, the whole image suggests \"running for one's life\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run for one's life (C) fight for one's life (D) run for one's money",
+   "answer": {
+      "B": "run for one's life"
+   },
+   "extracted_response": "B) run for one's life"
+}

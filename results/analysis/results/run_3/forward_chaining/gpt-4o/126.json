@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains:\n\n1. A fish icon\n2. The number 2\n3. The word \"FRY\"\n\nMapping these to the answer choices:\n\n- \"fish icon\" corresponds to \"fish\"\n- \"number 2\" corresponds to \"to\"\n- \"word FRY\" corresponds to \"fry\"\n\nPutting these together, the phrase is \"fish to fry.\"\n\nThe correct answer is (A) fish to fry.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"fish icon\",\n    \"description\": \"A simple black and white icon of a fish.\",\n    \"relation\": \"left of the number 2\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"number 2\",\n    \"description\": \"The number 2 in black text.\",\n    \"relation\": \"between the fish icon and the word FRY\"\n  },\n  {\n    \"id\": \"item3\",\n    \"name\": \"word FRY\",\n    \"description\": \"The word 'FRY' in uppercase black text.\",\n    \"relation\": \"right of the number 2\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) fish to fry (B) have other fish to fry (C) big fish (D) bigger fish to fry\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "bigger fish to fry"
+    }
+}

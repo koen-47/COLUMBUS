@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The arrows surrounding the word \"DARK\" point upwards and downwards. This symbolizes something going \"around\" dark.\n\n\n(A) in the dark: doesn't include anything to do with \"around\"\n(B) dark cloud: doesn't include anything to do with \"around\"\n(C) shot in the dark: doesn't include anything to do with \"around\"\n(D) after dark: implies the time period after it gets dark. \"around\" dark fits this time period.\n\nThe image represents (D) after dark.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text\",\n    \"description\": \"The word 'DARK' written in capital letters.\",\n    \"relation\": \"below the arrows\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"arrows\",\n    \"description\": \"Two arrows pointing downwards, one above the other.\",\n    \"relation\": \"above the word 'DARK'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) in the dark (B) dark cloud (C) shot in the dark (D) after dark\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "after dark"
+    }
+}

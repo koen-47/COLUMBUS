@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **stick it to**.\n\nThe image shows the words \"STICK\" and \"IT\" arranged vertically to create the phrase \"STICK IT\".  While \"stick it to the man\" is a common idiom, the image itself only depicts \"stick it to\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stick to (B) stick it to the man (C) put it to (D) stick it to",
+   "answer": {
+      "D": "stick it to"
+   },
+   "extracted_response": "D"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the letters \"OCSPITEAN.\" If we break it down, we can see that \"OC\" can be interpreted as \"O\" and \"C,\" and \"SPITEAN\" can be rearranged to suggest \"SPIT IN.\" \n\nPutting it all together, it conveys the phrase \"spit in the ocean.\" \n\nSo the answer is (A) spit in the ocean.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) spit out (C) spit on (D) spit in the wind",
+   "answer": {
+      "A": "spit in the ocean"
+   },
+   "extracted_response": "A) spit in the ocean"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (A) come into the world.  The globes suggest \"world,\" and \"come\" is literally present.  \"Come into the world\" is an idiom meaning to be born.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) come to life (D) come down to earth",
+   "answer": {
+      "A": "come into the world"
+   },
+   "extracted_response": "A) come into the world"
+}

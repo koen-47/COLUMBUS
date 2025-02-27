@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **meat on one's bones**.\n\nThe image shows \"MEAT\" over a line, then \"1111 BONES\".  The \"1111\" represents \"many\". Therefore, the image visually represents \"meat on many bones,\" which is essentially the same as \"meat on one's bones\".  This idiom refers to being thin or lean.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chew the meat and spit out the bones (B) meat on the bones (C) meat on one's bones (D) in one's bones",
+   "answer": {
+      "C": "meat on one's bones"
+   },
+   "extracted_response": "C) meat on one's bones"
+}

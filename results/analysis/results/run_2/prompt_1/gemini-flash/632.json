@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) fish out of water**.\n\nThe image shows the word \"FISH\" outside of a box containing the word \"WATER\".  This visually represents a fish being outside of its natural environment (water), which is the definition of \"fish out of water\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish out of water (B) other fish in the sea (C) fish out (D) fish in troubled waters",
+   "answer": {
+      "A": "fish out of water"
+   },
+   "extracted_response": "A) fish out of water"
+}

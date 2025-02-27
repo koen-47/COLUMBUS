@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"BOOGIE\" above a horizontal line, with a downward-pointing arrow below the line. This setup suggests the phrase \"boogie on down.\"\n\nThe correct answer is (D) boogie on down.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text\",\n    \"description\": \"The word 'BOOGIE' written in uppercase letters.\",\n    \"relation\": \"above the line and arrow\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"line\",\n    \"description\": \"A horizontal line.\",\n    \"relation\": \"between the word 'BOOGIE' and the arrow\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"arrow\",\n    \"description\": \"A downward-pointing arrow.\",\n    \"relation\": \"below the line and the word 'BOOGIE'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) play down (B) peg down (C) full tilt boogie (D) boogie on down\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "boogie on down"
+    }
+}

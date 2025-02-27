@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) the devil is in the detail.\n\nThe word \"DETAIL\" is hidden within the phrase \"DETDEVILAIL\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) talk of the devil (B) speak of the devil and he appears (C) the devil is a liar (D) the devil is in the detail",
+   "answer": {
+      "D": "the devil is in the detail"
+   },
+   "extracted_response": "D"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts (B) pull out of the hat.  It visually represents the idea of pulling something unexpected or surprising out of a hat, like a magician's trick. The pickaxe is unrelated to any of the other options.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a hat on a hat (B) pull out of the hat (C) take one's hat off to (D) pick out of a hat",
+   "answer": {
+      "D": "pick out of a hat"
+   },
+   "extracted_response": "B"
+}

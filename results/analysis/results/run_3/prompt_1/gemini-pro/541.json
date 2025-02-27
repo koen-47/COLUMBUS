@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the word \"AGES\" repeated four times.  Therefore, the answer is (C) ages.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for the ages (B) of age (C) ages (D) for the book",
+   "answer": {
+      "A": "for the ages"
+   },
+   "extracted_response": "C) ages"
+}

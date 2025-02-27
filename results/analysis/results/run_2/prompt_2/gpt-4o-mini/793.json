@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"run for the roses.\" The repeated word \"RUN\" and the word \"ROSES\" together suggest this phrase. \n\nSo the answer is (D) run for the roses.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stop and smell the roses (B) a bed of roses (C) come up roses (D) run for the roses",
+   "answer": {
+      "D": "run for the roses"
+   },
+   "extracted_response": "D) run for the roses"
+}

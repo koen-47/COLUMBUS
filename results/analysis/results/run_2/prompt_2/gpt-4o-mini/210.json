@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle appears to convey the phrase \"burn bread.\" The image of a loaf of bread with a flame or heat symbol suggests the action of burning. Therefore, the correct answer is (C) burn bread.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bread of life (B) brown bread (C) burn bread (D) bread and butter",
+   "answer": {
+      "B": "brown bread"
+   },
+   "extracted_response": "C) burn bread"
+}

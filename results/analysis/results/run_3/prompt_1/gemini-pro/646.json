@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (D) keep someone on ice.  The line separates the words into a phrase.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep one's stick on the ice (B) on ice (C) break the ice (D) keep someone on ice",
+   "answer": {
+      "D": "keep someone on ice"
+   },
+   "extracted_response": "D"
+}

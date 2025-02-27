@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) once in a purple moon.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) once in a purple moon (B) once in a blue moon (C) blue moon (D) over the moon",
+   "answer": {
+      "A": "once in a purple moon"
+   },
+   "extracted_response": "A"
+}

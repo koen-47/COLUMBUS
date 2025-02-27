@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The answer is (B) go up in flames.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) flame up (B) go up in flames (C) go up in smoke (D) go down in flames",
+   "answer": {
+      "B": "go up in flames"
+   },
+   "extracted_response": "B, go up in flames"
+}

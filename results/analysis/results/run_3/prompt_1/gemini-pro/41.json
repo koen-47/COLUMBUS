@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "None of the provided options are shown in the image. The image displays the word \"NOMMAG\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backchat (B) backbeat (C) backswimmer (D) backgammon",
+   "answer": {
+      "D": "backgammon"
+   },
+   "extracted_response": "None of the provided options are shown in the image. The image displays the word \"NOMMAG\"."
+}

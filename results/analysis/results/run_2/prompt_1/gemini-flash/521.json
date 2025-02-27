@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) green light.  The image is a green lightbulb, which is a common visual metaphor for permission, approval, or the go-ahead.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red light (B) yellow light (C) long green (D) green light",
+   "answer": {
+      "D": "green light"
+   },
+   "extracted_response": "D) green light"
+}

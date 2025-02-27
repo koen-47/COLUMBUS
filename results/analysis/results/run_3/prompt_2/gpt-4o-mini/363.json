@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows \"1111\" followed by \"CRY\" and an image of a beer mug. This suggests the phrase \"cry in one's beer,\" as the \"1111\" can represent \"one\" (or \"I\") and the beer mug indicates the beer aspect. \n\nSo, the answer is (D) cry in one's beer.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small beer (B) cry one's eyes out (C) cry someone a river (D) cry in one's beer",
+   "answer": {
+      "D": "cry in one's beer"
+   },
+   "extracted_response": "D) cry in one's beer"
+}

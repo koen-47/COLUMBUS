@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe JSON data describes a green house icon.  The word \"house\" is visually represented in the image. Considering the provided options:\n\n* **(A) greenhouse:** This is the most fitting option. A greenhouse is a type of house specifically designed for plants.\n\n* **(B) grassland:** This is unrelated to the image of a house.\n\n* **(C) sunlight:** This is also unrelated to the image.\n\n* **(D) greenhouses:** While related to the image,  the singular \"greenhouse\" (A) is a more direct and concise representation.\n\nTherefore, the answer is **(A) greenhouse**.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"house_icon\",\n  \"description\": \"A green house icon with a roof, door, and window.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) greenhouse (B) grassland (C) sunlight (D) greenhouses\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "greenhouse"
+    }
+}

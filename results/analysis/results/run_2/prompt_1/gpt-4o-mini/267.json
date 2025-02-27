@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) have had one's chips.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cash in one's chips (B) cash in (C) have had one's chips (D) let the chips fall where they may",
+   "answer": {
+      "A": "cash in one's chips"
+   },
+   "extracted_response": "C"
+}

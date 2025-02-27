@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) fish to fry.\n\nThe rebus shows the word \"FISH\" twice, stacked vertically, with the word \"FRY\" to the right.  This visually represents \"two fish to fry\".  Therefore, the answer is the closest option, (D) fish to fry.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go fish (B) bigger fish to fry (C) fry up (D) fish to fry",
+   "answer": {
+      "D": "fish to fry"
+   },
+   "extracted_response": "D) fish to fry"
+}

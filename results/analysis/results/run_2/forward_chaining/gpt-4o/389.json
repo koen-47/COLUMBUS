@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows a skull between two 'C' letters, each with a small skull inside. This setup represents the phrase \"dead inside,\" as the skull is literally inside the two 'C's.\n\nThe correct answer is (A) dead inside.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"left_c\",\n        \"description\": \"A letter 'C' with a small skull inside it, facing right.\",\n        \"relation\": \"left of the skull\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"skull\",\n        \"description\": \"A small skull icon with two black eyes and a nose.\",\n        \"relation\": \"between the two 'C' letters\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"right_c\",\n        \"description\": \"A letter 'C' with a small skull inside it, facing left.\",\n        \"relation\": \"right of the skull\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) dead inside (B) dead fish (C) dead in the water (D) dead and buried\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "dead in the water"
+    }
+}

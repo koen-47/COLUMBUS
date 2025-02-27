@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows \"TIME\" positioned around \"FROM TIME\".  This represents \"FROM TIME TO TIME\".\n\nSo the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) time after time (B) from beginning to end (C) come to time (D) from time to time",
+   "answer": {
+      "D": "from time to time"
+   },
+   "extracted_response": "D) from time to time"
+}

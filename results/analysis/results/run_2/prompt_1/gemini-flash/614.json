@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **eyes on the prize**.\n\nThe image depicts two eyes looking down at a trophy, visually representing the idiom \"eyes on the prize.\"  The other options don't fit the visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) eyes on the prize (C) prizefight (D) booby prize",
+   "answer": {
+      "B": "eyes on the prize"
+   },
+   "extracted_response": "B"
+}

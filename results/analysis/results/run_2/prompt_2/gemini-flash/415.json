@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) dance on nothing.\n\nThe line under \"DANCE\" visually represents \"on,\" and the word \"NOTHING\" is placed below it.  This creates the phrase \"DANCE on NOTHING\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) song and dance (B) dance on nothing (C) tap dance (D) dance to tune",
+   "answer": {
+      "B": "dance on nothing"
+   },
+   "extracted_response": "B) dance on nothing"
+}

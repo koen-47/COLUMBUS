@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"RECOVER\" written vertically.  The puzzle plays on the phrase \"to recover\".  Therefore, none of the provided options accurately reflect the image.  There is no correct answer among the choices given.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'RECOVER' written vertically, with each letter stacked on top of the next.\",\n  \"relation\": \"none\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) run for cover (B) cover up (C) from cover to cover (D) take cover\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "cover up"
+    }
+}

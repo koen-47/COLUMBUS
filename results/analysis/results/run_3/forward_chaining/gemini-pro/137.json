@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"RECOVER\" is written vertically. This can be interpreted as \"re-cover\", which means to cover again.\n\n* (A) run for cover: This phrase doesn't fit the visual representation of \"re-cover\".\n* (B) cover up: This is closer, but doesn't quite capture the \"re-\" aspect.\n* (C) from cover to cover: This is unrelated to the image.\n* (D) take cover:  This doesn't fit the visual representation of \"re-cover\".\n\nThe best fit is (B) cover up, although it's not a perfect match. However, the word \"RECOVER\" could be seen as emphasizing the act of covering something again, so \"cover up\" is the closest option.\n\nFinal Answer: The final answer is $\\boxed{B}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'RECOVER' written vertically, with each letter stacked on top of the next.\",\n  \"relation\": \"none\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) run for cover (B) cover up (C) from cover to cover (D) take cover\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "cover up"
+    }
+}

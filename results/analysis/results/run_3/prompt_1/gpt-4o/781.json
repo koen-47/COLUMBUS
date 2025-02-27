@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The phrase conveyed in the image is (B) through the roof.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roof over one's head (B) through the roof (C) hit the roof (D) raise the roof",
+   "answer": {
+      "A": "roof over one's head"
+   },
+   "extracted_response": "B) through the roof"
+}

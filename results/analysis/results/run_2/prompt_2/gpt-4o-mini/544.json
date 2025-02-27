@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"BEDROCK\" with the letters \"G,\" \"E,\" and \"T\" positioned vertically above it. This arrangement suggests the phrase \"get down to bedrock.\" \n\nSo, the correct answer is (D) get down to bedrock.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bedrock (B) underground (C) bedrocks (D) get down to bedrock",
+   "answer": {
+      "D": "get down to bedrock"
+   },
+   "extracted_response": "D) get down to bedrock"
+}

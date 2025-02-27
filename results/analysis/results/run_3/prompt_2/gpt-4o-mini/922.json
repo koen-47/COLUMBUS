@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the number \"2\" followed by \"1111\" repeated four times, and then two icons of boots. \n\nThis can be interpreted as \"two\" (the number) and \"boots\" (the icons). The repeated \"1111\" could suggest something related to \"big\" or \"too much.\"\n\nPutting it all together, the phrase conveyed is \"too big for one's boots.\"\n\nSo the answer is (C) too big for one's boots.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fill one's boots (B) hang up one's boots (C) too big for one's boots (D) kicking boots",
+   "answer": {
+      "C": "too big for one's boots"
+   },
+   "extracted_response": "C) too big for one's boots"
+}

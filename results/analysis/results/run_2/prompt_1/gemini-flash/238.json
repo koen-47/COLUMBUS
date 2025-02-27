@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **hit home**.\n\nThe image is a visual representation of the phrase \"hit close home,\" with the word \"HOME\" positioned to the right, visually emphasizing the phrase.  While \"hit close to home\" is grammatically correct, the visual representation directly supports \"hit home\" as the intended meaning.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hit too close to home (B) home away from home (C) close to home (D) hit home",
+   "answer": {
+      "A": "hit too close to home"
+   },
+   "extracted_response": "D) hit home"
+}

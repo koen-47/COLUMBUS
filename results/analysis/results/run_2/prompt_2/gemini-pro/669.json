@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows a man's face in the middle of the word \"street\" (STR-face-EET).  This represents \"man on the street\".\n\nSo the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) word on the street (B) man in the street (C) up someone's street (D) man on the street",
+   "answer": {
+      "B": "man in the street"
+   },
+   "extracted_response": "D) man on the street"
+}

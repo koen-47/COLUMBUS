@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) pour fuel on the fire.  The image literally shows the words \"POUR FUEL\" above a flame, directly representing the idiom.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) feed the fire (B) pour gasoline on the fire (C) add fuel to the flames (D) pour fuel on the fire",
+   "answer": {
+      "D": "pour fuel on the fire"
+   },
+   "extracted_response": "D) pour fuel on the fire"
+}

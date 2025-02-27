@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "Here's how we arrive at the solution:\n\n* **Node 1:** Two bones (\ud83e\uddb4) are shown, and the attribute \"sound: (to: 2)\" indicates the word \"to\" is represented.\n* **Node 2:** A pickaxe (\u26cf) is shown. \"Pick\" sounds similar to \"pick\".\n* **Edge 1:** The \"NEXT-TO\" relationship suggests combining the elements from node 1 and node 2.\n\nPutting it together: Two bones (to) next to a pickaxe (pick) equates to \"bone to pick.\"\n\nTherefore, the answer is (A) bone to pick.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83e\uddb4, repeat: 2, icon: (bone: \ud83e\uddb4), sound: (to: 2))\nNode 2 attributes: (text: \u26cf, repeat: 1, icon: (pick: \u26cf))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) bone to pick (B) funny bone (C) throw a bone to (D) to the bone",
+   "answer": {
+      "A": "bone to pick"
+   },
+   "extracted_response": "A) bone to pick"
+}

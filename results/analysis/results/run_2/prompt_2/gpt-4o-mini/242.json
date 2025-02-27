@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"close to home.\" The correct answer is (C) close to home.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at home (B) home away from home (C) close to home (D) hit too close to home",
+   "answer": {
+      "C": "close to home"
+   },
+   "extracted_response": "C) close to home"
+}

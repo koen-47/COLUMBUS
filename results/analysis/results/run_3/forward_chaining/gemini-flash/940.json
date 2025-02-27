@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) twenty to the dozen.\n\nHere's why:\n\nThe image shows two \"20\"s stacked vertically, next to a \"12\".  This visually represents \"twenty to the dozen\".  The other options don't fit the visual representation of the numbers in the image.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"number_20_top\",\n        \"description\": \"The number 20 written in black.\",\n        \"relation\": \"located at the top left of the image.\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"number_20_bottom\",\n        \"description\": \"The number 20 written in black.\",\n        \"relation\": \"located below the top number 20, aligned to the left.\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"number_12\",\n        \"description\": \"The number 12 written in black.\",\n        \"relation\": \"located to the right of the bottom number 20.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) decimal dozen (B) cheaper by the dozen (C) twenty to the dozen (D) a dime a dozen\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "twenty to the dozen"
+    }
+}

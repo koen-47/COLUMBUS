@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) preach in the desert**.\n\nThe image shows the word \"PREACH\" flanked by images of a desert landscape with cacti.  This visually represents the idiom \"preach in the desert,\" which means to give a message to an uninterested or unresponsive audience.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) preach in the desert (B) preach to the choir (C) preach to deaf ears (D) just deserts",
+   "answer": {
+      "A": "preach in the desert"
+   },
+   "extracted_response": "A) preach in the desert"
+}

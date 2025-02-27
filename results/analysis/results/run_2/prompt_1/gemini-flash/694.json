@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(B) midterms**.\n\nThe image shows two instances of the word \"TERM\" with arrows pointing up and down, suggesting the idea of a \"mid-term.\"  Since there are two instances, \"midterms\" (the plural) is the most appropriate choice.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midterm (B) midterms (C) midribs (D) midpoints",
+   "answer": {
+      "B": "midterms"
+   },
+   "extracted_response": "B) midterms"
+}

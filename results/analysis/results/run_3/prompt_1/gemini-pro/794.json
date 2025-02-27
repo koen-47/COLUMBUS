@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts a person running between two groups of family members who appear identical. This suggests shared traits. The best answer is (B) run in the family.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for one's life (B) run in the family (C) run with (D) start a family",
+   "answer": {
+      "B": "run in the family"
+   },
+   "extracted_response": "B) run in the family"
+}

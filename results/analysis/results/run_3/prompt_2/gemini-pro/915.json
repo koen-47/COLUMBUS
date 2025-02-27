@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle represents \"SHOE on the OTHER FOOT\".  The word \"SHOE\" is placed above a line over the words \"OTHER FOOT\".  This positioning implies the phrase \"SHOE on the OTHER FOOT\", corresponding to answer choice (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the shoe is on the other foot (B) kick with the other foot (C) which foot the shoe is on (D) wait for the other shoe to drop",
+   "answer": {
+      "A": "the shoe is on the other foot"
+   },
+   "extracted_response": "A) the shoe is on the other foot"
+}

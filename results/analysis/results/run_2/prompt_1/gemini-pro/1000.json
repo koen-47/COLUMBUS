@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"**Window on the World**\" (D).  The words and the line between them suggest looking through a window to see the world.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the world over (B) outside world (C) out the window (D) window on the world",
+   "answer": {
+      "D": "window on the world"
+   },
+   "extracted_response": "D"
+}

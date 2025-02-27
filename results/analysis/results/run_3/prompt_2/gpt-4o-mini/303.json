@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows arrows pointing up and down with the word \"OVER\" below them. This suggests the phrase \"stopover,\" as the arrows indicate a pause or stop in movement. \n\nSo, the answer is (D) stopover.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) holdovers (B) leftover (C) handover (D) stopover",
+   "answer": {
+      "B": "leftover"
+   },
+   "extracted_response": "D) stopover"
+}

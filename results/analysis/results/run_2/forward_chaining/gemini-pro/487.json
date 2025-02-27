@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"TIME\" is to the left of, or outside of, the rectangle containing the word \"MIND\".  This represents \"TIME out of MIND.\"\n\nTherefore, the answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_time\",\n        \"description\": \"The word 'TIME' written in uppercase letters.\",\n        \"relation\": \"Located to the left of the rectangle containing the word 'MIND'.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"rectangle\",\n        \"description\": \"A rectangle containing the word 'MIND' written in uppercase letters.\",\n        \"relation\": \"Located to the right of the word 'TIME'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) out of mind (B) time out of mind (C) time out (D) out of one's mind\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "time out of mind"
+    }
+}

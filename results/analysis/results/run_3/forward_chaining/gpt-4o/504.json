@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"THINK\" on the left and the word \"LOUD\" inside a rectangle on the right. This corresponds to the phrase \"think out loud.\"\n\nThe correct answer is (B) think out loud.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"word_think\",\n        \"description\": \"The word 'THINK' in bold uppercase letters.\",\n        \"relation\": \"Located on the left side of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"word_loud\",\n        \"description\": \"The word 'LOUD' in bold uppercase letters inside a rectangle.\",\n        \"relation\": \"Located on the right side of the image.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) think back (B) think out loud (C) think up (D) think aloud\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "think out loud"
+    }
+}

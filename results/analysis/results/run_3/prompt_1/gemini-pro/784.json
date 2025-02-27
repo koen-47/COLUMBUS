@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"SAMEROWBOAT.\"  While not grammatically correct, the intent is clearly **(A) row in the same boat**, a common idiom about sharing the same challenges or difficult situation.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) row in the same boat (B) rowboat (C) get in the boat and row (D) row back",
+   "answer": {
+      "A": "row in the same boat"
+   },
+   "extracted_response": "A"
+}

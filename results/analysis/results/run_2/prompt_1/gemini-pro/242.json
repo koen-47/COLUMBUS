@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys **(D) hit too close to home**.  The repeated \"CLOSE\" emphasizes the proximity, and the placement near \"HOME\" suggests a sensitive or personal impact.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at home (B) home away from home (C) close to home (D) hit too close to home",
+   "answer": {
+      "C": "close to home"
+   },
+   "extracted_response": "D) hit too close to home"
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word RAIN is above the horizontal line and the words 1111 PARADE are below the horizontal line. This maps to the phrase \"rain on one's parade\" because \"rain\" is positioned over the words \"one's parade.\"\n\nThus, the answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"RAIN\",\n        \"description\": \"The word 'RAIN' written in uppercase letters.\",\n        \"relation\": \"above the horizontal line\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"horizontal line\",\n        \"description\": \"A horizontal line separating the word 'RAIN' from the text below.\",\n        \"relation\": \"between 'RAIN' and '1111 PARADE'\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"1111 PARADE\",\n        \"description\": \"The text '1111 PARADE' written in uppercase letters.\",\n        \"relation\": \"below the horizontal line\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) make it rain (B) rain on one's parade (C) parade passed someone by (D) rain check\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "rain on one's parade"
+    }
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) high noon.\n\nThe image shows the word \"NOON\" with arrows pointing up and down.  This visually represents the peak of the day, which is synonymous with \"high noon\".  The other options don't capture this specific meaning.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) noonday (B) afternoons (C) afternoon (D) high noon",
+   "answer": {
+      "C": "afternoon"
+   },
+   "extracted_response": "D) high noon"
+}

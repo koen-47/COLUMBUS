@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"with a view to\" (B).  The words \"WITH\" and \"VIEW\" are present, and the positioning suggests one \"VIEW\" is \"TO\" the other.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) with an eye towards (B) with a view to (C) with an eye to (D) in view of",
+   "answer": {
+      "B": "with a view to"
+   },
+   "extracted_response": "B) with a view to"
+}

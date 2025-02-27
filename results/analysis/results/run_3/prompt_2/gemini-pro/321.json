@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle represents \"Pip Squeak\".  There are two \"PIP\"s and a \"squeak\" (the sound a mouse makes, with a mouse commonly depicted in iconography hiding inside an envelope symbol as per some children's stories.)\n\nNone of the multiple choices given fit the rebus.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pip to the post (B) piping hot (C) like a chicken with the pip (D) piping times",
+   "answer": {
+      "A": "pip to the post"
+   },
+   "extracted_response": "The rebus puzzle represents \"Pip Squeak\".  There are two \"PIP\"s and a \"squeak\" (the sound a mouse makes, with a mouse commonly depicted in iconography hiding inside an envelope symbol as per some children's stories.)\n\nNone of the multiple choices given fit the rebus."
+}

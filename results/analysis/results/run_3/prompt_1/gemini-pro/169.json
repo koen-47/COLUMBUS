@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys **(A) steady the ship**. The up and down arrows surrounding the word \"SHIP\" suggest an attempt to stabilize or balance it.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) steady the ship (B) sinking ship (C) before the ship sails (D) under sail",
+   "answer": {
+      "C": "before the ship sails"
+   },
+   "extracted_response": "A"
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows a green house. The JSON describes a green house icon. \n\n* **(A) greenhouse:** This fits because the house is green.\n* **(B) grassland:** There's no grass or land depicted, just the house.\n* **(C) sunlight:** There's no sun or light depicted.\n* **(D) greenhouses:**  While the house is green, there's only one depicted, not multiple.\n\nThe best fit is **(A) greenhouse**. The green color of the house icon is the key element, suggesting the word \"green\" combined with the image of a house.\nFinal Answer: The final answer is $\\boxed{A}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"house_icon\",\n  \"description\": \"A green house icon with a roof, door, and window.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) greenhouse (B) grassland (C) sunlight (D) greenhouses\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "greenhouse"
+    }
+}

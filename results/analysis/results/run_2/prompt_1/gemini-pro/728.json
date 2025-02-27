@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"pedal to the metal\" (B).  It visually represents pushing a pedal down to the metal floor of a car, implying acceleration.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) metalwork (B) pedal to the metal (C) crank the handle (D) metalworking",
+   "answer": {
+      "B": "pedal to the metal"
+   },
+   "extracted_response": "B"
+}

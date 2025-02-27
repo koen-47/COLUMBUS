@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the letters \"P,\" \"I,\" and \"Z\" arranged vertically, with \"P\" at the top, \"I\" in the middle, and \"Z\" at the bottom. This arrangement spells out the word \"PIZ\" vertically.\n\nThe correct answer is (D) zip it, as the letters \"P,\" \"I,\" and \"Z\" are arranged in a way that suggests the phrase \"zip it\" when read vertically.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"Letter P\",\n  \"description\": \"The letter 'P' is at the top of the image.\",\n  \"relation\": \"above the letter 'I'\"\n}\n```\n\n```json\n{\n  \"id\": \"2\",\n  \"name\": \"Letter I\",\n  \"description\": \"The letter 'I' is in the middle of the image.\",\n  \"relation\": \"between the letters 'P' and 'Z'\"\n}\n```\n\n```json\n{\n  \"id\": \"3\",\n  \"name\": \"Letter Z\",\n  \"description\": \"The letter 'Z' is at the bottom of the image.\",\n  \"relation\": \"below the letter 'I'\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) zip past (B) zip one's lip (C) zip up (D) zip it\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "zip up"
+    }
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (C) time after time.  The words \"TIME\" are repeated, and the arrows going up and down suggest a cyclical, repeating nature.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what in time (B) make time (C) time after time (D) time flies",
+   "answer": {
+      "C": "time after time"
+   },
+   "extracted_response": "C) time after time"
+}

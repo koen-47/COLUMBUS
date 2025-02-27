@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (D) hand in hand.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand in glove (B) in hand (C) hand over hand (D) hand in hand",
+   "answer": {
+      "D": "hand in hand"
+   },
+   "extracted_response": "D) hand in hand"
+}

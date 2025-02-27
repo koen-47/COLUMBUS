@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **small price to pay**.\n\nThe image shows a small amount of money (represented by the stylized dollar sign) next to the word \"PAY\" written twice. This visually represents a small cost or payment.  Therefore, \"small price to pay\" is the most fitting phrase.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small fortune (B) price is right (C) small price to pay (D) smallholders",
+   "answer": {
+      "C": "small price to pay"
+   },
+   "extracted_response": "C) small price to pay"
+}

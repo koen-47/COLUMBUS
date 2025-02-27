@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) sit on one's ass.\n\nThe rebus shows \"SIT\" over \"1111 HANDS\".  The number \"1111\" is four ones, which is a homophone for \"for\". Therefore, the phrase reads \"Sit for one's hands\", which is a less common way of saying \"sit on one's ass\".  Option C is the best fit.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sit on one's hands (B) sit one's ass down (C) sit on one's ass (D) sit on",
+   "answer": {
+      "A": "sit on one's hands"
+   },
+   "extracted_response": "C) sit on one's ass"
+}

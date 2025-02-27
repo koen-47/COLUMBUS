@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(C) crossfire**.\n\nThe image shows a fire (or flame) crossed out by a line.  This visually represents \"crossfire\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) caught in the crossfire (B) crossfires (C) crossfire (D) escape fire",
+   "answer": {
+      "C": "crossfire"
+   },
+   "extracted_response": "C) crossfire"
+}

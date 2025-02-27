@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) run about.\n\nThe image shows two figures running, one above the other.  The arrangement visually represents the idea of running around or about.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run to (C) run past (D) run about",
+   "answer": {
+      "B": "run to"
+   },
+   "extracted_response": "D) run about"
+}

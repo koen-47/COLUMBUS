@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (D) catch air.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) mid air collision (B) collision course (C) midair (D) catch air",
+   "answer": {
+      "A": "mid air collision"
+   },
+   "extracted_response": "D) catch air"
+}

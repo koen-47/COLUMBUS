@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) live in the past.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go back in time (B) time after time (C) live in the past (D) behind time",
+   "answer": {
+      "A": "go back in time"
+   },
+   "extracted_response": "C) live in the past"
+}

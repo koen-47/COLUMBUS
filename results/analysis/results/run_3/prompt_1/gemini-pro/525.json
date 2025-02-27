@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image, with the word \"SHOW\" repeated, conveys the idea of **(B) show off**.  The repetition emphasizes display and boasting.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for show (B) show off (C) what for (D) make for",
+   "answer": {
+      "A": "for show"
+   },
+   "extracted_response": "B) show off"
+}

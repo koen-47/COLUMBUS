@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **take to the grave**.\n\nThe image shows \"1111\" (representing \"one one one one\" or \"to the grave\") followed by a recycling symbol suggesting the act of taking something and a \"GRAVE\".  Therefore, the phrase \"take to the grave\" is the best fit.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take someone to the grave (B) dig one's own grave (C) take to the grave (D) turn in one's grave",
+   "answer": {
+      "D": "turn in one's grave"
+   },
+   "extracted_response": "C) take to the grave"
+}

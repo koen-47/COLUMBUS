@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) level to the ground**.\n\nThe image shows the word \"LEVEL\" stacked on top of the word \"LEVEL\" with the word \"GROUND\" in between. This visually represents something being at the same level as the ground.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) level to the ground (B) from the ground up (C) go to ground (D) high ground",
+   "answer": {
+      "A": "level to the ground"
+   },
+   "extracted_response": "A) level to the ground"
+}

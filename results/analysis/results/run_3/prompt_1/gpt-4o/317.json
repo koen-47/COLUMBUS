@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) pink elephant.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) baby elephant in the room (D) white elephant",
+   "answer": {
+      "B": "pink elephant"
+   },
+   "extracted_response": "B) pink elephant"
+}

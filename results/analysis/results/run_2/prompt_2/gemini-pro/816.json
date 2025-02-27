@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows the words \"WO,\" a picture of a salt shaker, and \"UND.\"  This represents \"WO(salt)UND,\" or **(D) salt in the wound**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) salt of the earth (B) old salt (C) Attic salt (D) salt in the wound",
+   "answer": {
+      "D": "salt in the wound"
+   },
+   "extracted_response": "D) salt in the wound"
+}

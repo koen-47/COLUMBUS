@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The puzzle shows two faces, then \"to\", then one face. This represents \"face to face\".\n\nNode 1 has `repeat: 2` and `sound: (to: 2)`, representing two faces and the word \"to\". Node 2 has `repeat: 1`, representing one face. Together, they form \"face to face\".\n\nSo the answer is (C).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\ude10, repeat: 2, icon: (face: \ud83d\ude10), sound: (to: 2))\nNode 2 attributes: (text: \ud83d\ude10, repeat: 1, icon: (face: \ud83d\ude10))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) give face (B) lose face (C) face to face (D) face down",
+   "answer": {
+      "C": "face to face"
+   },
+   "extracted_response": "C) face to face"
+}

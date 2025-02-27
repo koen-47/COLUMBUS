@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"PUT\" above \"SOMEONE\" with the number \"2\" below. This can be interpreted as \"put someone in their place,\" as the number 2 suggests \"in\" (as in \"in their place\"). \n\nSo, the answer is (C) put someone in their place.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put someone on to (B) put someone to their trumps (C) put someone in their place (D) put someone under",
+   "answer": {
+      "A": "put someone on to"
+   },
+   "extracted_response": "C) put someone in their place"
+}

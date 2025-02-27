@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows \"PIFFY\" over \"rock BUN\".  This represents \"piffy on a rock bun\".\n\nSo the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bun fight (B) rock hound (C) bun in the oven (D) piffy on a rock bun",
+   "answer": {
+      "D": "piffy on a rock bun"
+   },
+   "extracted_response": "D) piffy on a rock bun"
+}

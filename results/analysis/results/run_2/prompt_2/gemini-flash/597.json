@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) jump rope.\n\nHere's why:\n\n* **1111:** Represents the numerical sequence of four ones.\n* **Arrows:** The arrows pointing up and down symbolize jumping.\n* **Rope:** The image of a rope is shown.\n\nCombining these elements, the rebus signifies \"jump rope\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skip rope (B) give someone enough rope (C) jump rope (D) end of one's rope",
+   "answer": {
+      "D": "end of one's rope"
+   },
+   "extracted_response": "C) jump rope"
+}

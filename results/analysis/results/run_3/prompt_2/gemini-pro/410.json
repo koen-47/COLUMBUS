@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) cross the ocean.\n\nThe word \"ocean\" has a line crossing through it, visually representing the action of crossing.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a drop in the ocean (B) motion of someone's ocean (C) cross the ocean (D) drop in the ocean",
+   "answer": {
+      "C": "cross the ocean"
+   },
+   "extracted_response": "C) cross the ocean"
+}

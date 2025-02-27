@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) painful on the eyes.\n\nThe image uses the word \"PAINFUL\" and depicts two eyes, directly associating the feeling of pain with the act of seeing.  Therefore, it visually represents something that is unpleasant or difficult to look at.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sight for sore eyes (B) painful on the eyes (C) hard on the eyes (D) easy on the eye",
+   "answer": {
+      "B": "painful on the eyes"
+   },
+   "extracted_response": "B) painful on the eyes"
+}

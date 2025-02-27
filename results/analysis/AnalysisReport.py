@@ -17,8 +17,9 @@ class AnalysisReport:
     Class to analyze the results from all the models.
     """
 
-    def __init__(self):
-        self.results_dir = f"{os.path.dirname(__file__)}/results"
+    def __init__(self, run):
+        self.run = run
+        self.results_dir = f"{os.path.dirname(__file__)}/results/run_{1 if run == 'overall' else run}"
         self._graph_answer_pairs = get_answer_graph_pairs(combine=True)
         self._model_types = {
             "non_instruction": ["blip-2_opt-2.7b", "blip-2_opt-6.7b", "fuyu-8b"],
@@ -80,27 +81,26 @@ class AnalysisReport:
 
         # Results for human performance
         human_results = []
-        for file_path in glob.glob(f"{self.results_dir}/human/*"):
+        for file_path in glob.glob(f"{self.results_dir}/../human/*"):
             with open(file_path, "r") as file:
                 results = json.load(file)
             for result in results:
                 result = self._standardize_general_result(result)
             human_results.append(self.analyze_basic(results))
-        human_results = ((human_results[0][0] + human_results[1][0]) / 2, human_results[0][1],
-                         (human_results[0][2] + human_results[1][2]) / 2, human_results[0][3], "-", "-")
+
+        human_results = np.array(human_results)
+        human_results = [human_results[:, 0].mean(), "-", human_results[:, 2].mean(), "-", "-", "-"]
         all_basic_results["2"]["human"] = human_results
 
         table_prompt_2, table_all_prompts, table_rules_per_prompt, table_rules_gpt4o = (
             self.analyze_overall(all_basic_results, all_rule_results))
+        table_prompt_2 = self.show_overall_performance() if self.run == "overall" else table_prompt_2
 
         # Print results
         print("\nMain table (accuracy per model for prompt 2). There are some slight differences due to randomness.")
         print(table_prompt_2)
         print("\nAccuracy per prompt for each model. There are some slight differences due to randomness.")
         print(table_all_prompts)
-        print("\nPercentage of puzzles solved including a specified rule (Individual + Relational + Modifier)\n"
-              "(averaged across all models)")
-        print(table_rules_per_prompt)
         print("\nPercentage of puzzles solved including a specified rule (Individual + Relational + Modifier)\n"
               "(GPT-4o)")
         print(table_rules_gpt4o)
@@ -142,6 +142,10 @@ class AnalysisReport:
             if model_type in ["gpt-4o", "gpt-4o-mini", "gemini-1.5-flash", "gemini-1.5-pro"]:
                 result = self._preprocess_closed_source_result(result)
             else:
+                if model_type.startswith("blip-2_opt"):
+                    result = self._preprocess_blip2_opt_result(result)
+                if model_type == "instructblip":
+                    result = self._preprocess_instructblip_result(result)
                 if model_type == "llava-1.5-13b":
                     result = self._preprocess_llava_13b_result(result)
                 elif model_type == "llava-1.6-34b":
@@ -473,6 +477,33 @@ class AnalysisReport:
         table_rules_per_prompt_gpt_4o = pd.DataFrame(table_rules_per_prompt_gpt_4o)
         return table_prompt_2, table_all_prompts, table_rules_per_prompt, table_rules_per_prompt_gpt_4o
 
+    def show_overall_performance(self):
+        with open(f"{os.path.dirname(__file__)}/results/summary.json", "r") as file:
+            summary_results = json.load(file)
+
+        models = [model for model in summary_results.keys() if model != "mistral"]
+
+        def get_result_values(key):
+            values = []
+            for result in summary_results.values():
+                if "text_mean" in result:
+                    values.append(np.round(result[key], 2))
+                elif "prompt_2" in result:
+                    values.append(np.round(result["prompt_2"][key], 2))
+                else:
+                    continue
+            return values
+
+        text_mean = get_result_values("text_mean")
+        text_sd = get_result_values("text_sd")
+        icon_mean = get_result_values("icon_mean")
+        icon_sd = get_result_values("icon_sd")
+        table = pd.DataFrame({"model": models, "text_mean": text_mean, "text_sd": text_sd,
+                              "icon_mean": icon_mean, "icon_sd": icon_sd}).reset_index(drop=True)
+        table = table.set_index("model")
+        return table
+
+
     def analyze_non_icon_vs_icon(self):
         """
         Gets all overlapping puzzles that have both a text and icon variant.
@@ -554,6 +585,28 @@ class AnalysisReport:
                 result["clean_output"] = {letter: output}
             else:
                 result["is_correct"] = False
+        return result
+
+    def _preprocess_blip2_opt_result(self, result):
+        """
+        Preprocess BLIP-2 OPT 2.7b result.
+        :param result: result for BLIP-2 OPT 2.7b .
+        :return: standardized result for BLIP-2 OPT 2.7b .
+        """
+        parts = re.split("Answer: ", result["output"])
+        if len(parts) > 1:
+            result["output"] = parts[1]
+        return result
+
+    def _preprocess_instructblip_result(self, result):
+        """
+        Preprocess InstructBLIP result.
+        :param result: result for InstructBLIP.
+        :return: standardized result for InstructBLIP.
+        """
+        parts = re.split("Short answer: ", result["output"])
+        if len(parts) > 1:
+            result["output"] = parts[1]
         return result
 
     def _preprocess_llava_13b_result(self, result):

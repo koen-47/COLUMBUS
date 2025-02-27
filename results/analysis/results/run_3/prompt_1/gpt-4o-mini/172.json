@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) dial back.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dial back (B) reset the dial (C) dial down (D) shift the dial",
+   "answer": {
+      "C": "dial down"
+   },
+   "extracted_response": "A) dial back"
+}

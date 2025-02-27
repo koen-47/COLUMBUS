@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (D) skip rope.\n\nThe arrows pointing up and down next to the numbers \"1111\" and the word \"ROPE\" suggest the motion of skipping rope.  \"1111\" likely represents the counting one might do while skipping.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) jump rope (B) end of one's rope (C) give someone enough rope (D) skip rope",
+   "answer": {
+      "B": "end of one's rope"
+   },
+   "extracted_response": "D) skip rope"
+}

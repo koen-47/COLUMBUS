@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "Let's map the elements from the image to the answer choices:\n\n1. The word \"BALLS\" appears twice, once at the top and once at the bottom.\n2. The word \"WALL\" appears in the middle, with the letter \"A\" inverted.\n\nThe phrase \"balls to the wall\" matches the arrangement and elements in the image:\n\n- \"BALLS\" is at the top and bottom.\n- \"WALL\" is in the middle.\n\nTherefore, the correct answer is (D) balls to the wall.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Text 'BALLS'\",\n        \"description\": \"The word 'BALLS' written in uppercase letters.\",\n        \"relation\": \"Appears twice in the image, once at the top and once at the bottom.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Text 'WALL'\",\n        \"description\": \"The word 'WALL' written in uppercase letters with the letter 'A' inverted.\",\n        \"relation\": \"Appears in the middle of the image, between the two instances of the word 'BALLS'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) grow some balls (B) bust one's balls (C) have someone by the balls (D) balls to the wall\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "balls to the wall"
+    }
+}

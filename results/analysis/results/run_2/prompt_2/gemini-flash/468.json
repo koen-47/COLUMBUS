@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(B) elephant in the room**.\n\nThe word \"GORILLA\" is hidden within the text \"ROGORILLAOM\".  The puzzle plays on the similar phrase \"elephant in the room\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gorilla in the room (B) elephant in the room (C) baby elephant in the room (D) naked ape",
+   "answer": {
+      "A": "gorilla in the room"
+   },
+   "extracted_response": "B) elephant in the room"
+}

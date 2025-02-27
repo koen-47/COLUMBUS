@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) be left at the post**.\n\nThe arrows indicate the word \"BE\" is to be placed both above and below \"POST\".  This creates the phrase \"BE LEFT AT THE POST\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) be left at the post (B) near post (C) in the post (D) far post",
+   "answer": {
+      "A": "be left at the post"
+   },
+   "extracted_response": "A) be left at the post"
+}

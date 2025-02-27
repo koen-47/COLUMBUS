@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"FINGERS\" with a line through it, followed by three four-leaf clovers. This suggests the phrase \"cross fingers for luck,\" as the crossed-out \"FINGERS\" indicates to remove that part, and the clovers represent luck.\n\nThe correct answer is (D) cross fingers for luck.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down on one's luck (B) push one's luck (C) stroke of luck (D) cross fingers for luck",
+   "answer": {
+      "D": "cross fingers for luck"
+   },
+   "extracted_response": "D) cross fingers for luck"
+}

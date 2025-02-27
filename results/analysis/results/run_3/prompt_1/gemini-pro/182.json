@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the word \"TUBES\" written vertically. This represents going \"down the tubes\" (A) or \"go down the tubes\" (C), both of which are idiomatic expressions meaning to fail or deteriorate rapidly. Since options A and C have the same meaning, either is correct.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down the tubes (B) pipe down (C) go down the tubes (D) down to the wire",
+   "answer": {
+      "A": "down the tubes"
+   },
+   "extracted_response": "A, C"
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"BONE\" written twice and the word \"PICK.\"\n\n* (A) throw a bone to:  Doesn't fit the repetition of \"BONE.\"\n* (B) bone to pick: This aligns with the two \"BONE\"s and \"PICK\".  We have \"BONE\" \"to\" \"PICK\", where the second \"BONE\" can mean \"to\".\n* (C) to the bone: The word \"the\" is missing.\n* (D) funny bone:  This doesn't explain the \"PICK\" word.\n\nThe answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"text_bone_top\",\n        \"description\": \"The word 'BONE' written at the top left of the image.\",\n        \"relation\": \"none\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"text_bone_bottom\",\n        \"description\": \"The word 'BONE' written at the bottom left of the image.\",\n        \"relation\": \"none\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"text_pick\",\n        \"description\": \"The word 'PICK' written at the top right of the image.\",\n        \"relation\": \"none\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) throw a bone to (B) bone to pick (C) to the bone (D) funny bone\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "bone to pick"
+    }
+}

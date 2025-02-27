@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **midrib**.\n\nThe image shows the word \"BRAIN\" with an arrow pointing up and down through the middle.  This visually represents the \"mid\" part of a \"rib\" (referencing the rib of a leaf).  Therefore, the answer is midrib.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midbrain (B) midribs (C) midvein (D) midrib",
+   "answer": {
+      "A": "midbrain"
+   },
+   "extracted_response": "D) midrib"
+}

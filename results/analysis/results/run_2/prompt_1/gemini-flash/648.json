@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) kick in the teeth.\n\nThe image shows the letters \"TEKICKETH\".  Rearranging the letters gives \"THE KICK IN THE TEETH\".  Therefore, the phrase conveyed is \"kick in the teeth\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) armed to the teeth (B) kick in the teeth (C) pull teeth (D) kick in",
+   "answer": {
+      "B": "kick in the teeth"
+   },
+   "extracted_response": "B) kick in the teeth"
+}

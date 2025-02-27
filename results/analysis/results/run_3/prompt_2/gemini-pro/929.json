@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle \"1111\ud83d\udd04GRAVE\" represents **(D) turn in one's grave**.\n\nHere's the breakdown:\n\n* **1111:**  Think of this as four single individuals, or \"ones.\"\n* **\ud83d\udd04:** This symbol represents turning or rotating.\n* **GRAVE:** Refers to a burial place.\n\nPutting it all together, four ones turning in a grave means \"turn in one's grave.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take someone to the grave (B) dig one's own grave (C) take to the grave (D) turn in one's grave",
+   "answer": {
+      "D": "turn in one's grave"
+   },
+   "extracted_response": "D) turn in one's grave"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle \"HACAPND\" can be interpreted as \"cap in hand.\" The letters \"H\" and \"D\" are on the sides of \"ACAPAN,\" suggesting the phrase \"cap in hand.\" \n\nSo the answer is (B) cap in hand.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust a cap (B) cap in hand (C) hat in hand (D) set one's cap at",
+   "answer": {
+      "B": "cap in hand"
+   },
+   "extracted_response": "B) cap in hand"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **for all the world to see**.\n\nThe image arranges the words \"ALL\", \"WORLD\", and \"SEE\" in a way that visually represents the phrase \"for all the world to see\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not for the world (B) there for everyone to see (C) for all the world to see (D) for all the world",
+   "answer": {
+      "C": "for all the world to see"
+   },
+   "extracted_response": "C) for all the world to see"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) down in the dumps.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) down the drain (B) down in the dumps (C) down the toilet (D) down in the mouth",
+   "answer": {
+      "B": "down in the dumps"
+   },
+   "extracted_response": "B) down in the dumps"
+}

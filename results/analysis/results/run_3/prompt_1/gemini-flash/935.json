@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The best answer is (D) dust settles.\n\nThe image shows two recycling symbols next to the word \"DUST\".  Recycling implies a continuous cycle, and the word \"dust\" suggests something that settles and is then possibly recycled or moved again.  This best fits the image's meaning of continuous settling and movement of dust.  The other options don't align as well with the visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch dust (B) collect dust (C) turn to dust (D) dust settles",
+   "answer": {
+      "C": "turn to dust"
+   },
+   "extracted_response": "D) dust settles"
+}

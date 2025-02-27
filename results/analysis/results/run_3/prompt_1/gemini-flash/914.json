@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **the shoe is on the other foot**.\n\nThe image shows a shoe above a line, and the word \"OTHER\" and a different shoe below the line.  This visually represents the idiom \"the shoe is on the other foot,\" which means that the situation has reversed, and someone who was previously in a position of power or advantage is now in a less favorable position.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wait for the other shoe to drop (B) which foot the shoe is on (C) kick with the other foot (D) the shoe is on the other foot",
+   "answer": {
+      "D": "the shoe is on the other foot"
+   },
+   "extracted_response": "D) the shoe is on the other foot"
+}

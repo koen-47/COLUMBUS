@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) booby prize.\n\nThe Roman numerals \"IIII\" are above the word \"PRIZE\".  This creates the phrase \"IIII over PRIZE\", which sounds like \"eyes over prize\". This is a play on words, representing a \"booby prize.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) booby prize (C) prizefight (D) eyes on the prize",
+   "answer": {
+      "D": "eyes on the prize"
+   },
+   "extracted_response": "B) booby prize"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (A) roof over one's head.\n\nThe \"1111\" under the word \"ROOF\" can be interpreted as \"four ones\" which sounds like \"for ones\".  Combined with a face underneath, the phrase suggests having a \"roof for one's head\", an idiom meaning \"having a place to live\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roof over one's head (B) through the roof (C) hit the roof (D) raise the roof",
+   "answer": {
+      "A": "roof over one's head"
+   },
+   "extracted_response": "A) roof over one's head"
+}

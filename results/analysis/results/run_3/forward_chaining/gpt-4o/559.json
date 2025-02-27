@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"CRYING\" repeated four times on the left and the word \"LOUD\" inside a square on the right. This corresponds to the phrase \"for crying out loud.\"\n\nThe correct answer is (D) for crying out loud.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"text_crying\",\n        \"description\": \"The word 'CRYING' repeated four times, stacked vertically.\",\n        \"relation\": \"left side of the image\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"text_loud\",\n        \"description\": \"The word 'LOUD' inside a square.\",\n        \"relation\": \"right side of the image\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) for the love of (B) out loud (C) for reasons (D) for crying out loud\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "for crying out loud"
+    }
+}

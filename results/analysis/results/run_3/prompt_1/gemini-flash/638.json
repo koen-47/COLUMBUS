@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) **fly on the wall**.\n\nThe letters in \"FAFLYCE\" are an anagram of the phrase \"FLY ON THE WALL\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly by (B) fly in the face of (C) fly on the wall (D) hurt a fly",
+   "answer": {
+      "B": "fly in the face of"
+   },
+   "extracted_response": "C) fly on the wall"
+}

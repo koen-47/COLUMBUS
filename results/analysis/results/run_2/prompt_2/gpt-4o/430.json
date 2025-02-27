@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"hand to mouth.\" So, the answer is (B) hand to mouth.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand to God (B) hand to mouth (C) hand in hand (D) hand over hand",
+   "answer": {
+      "B": "hand to mouth"
+   },
+   "extracted_response": "B) hand to mouth"
+}

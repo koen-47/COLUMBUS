@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"BRING\" written vertically next to an icon of a key. This suggests the phrase \"bring down the key.\"\n\nHowever, since the options provided are related to a hammer, the correct choice is:\n\n(C) bring down the hammer\n\nThis is because \"bring down\" is suggested by the vertical arrangement of \"BRING,\" and the key icon is a placeholder for \"hammer\" in the context of the options.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text_BRING\",\n    \"description\": \"The word 'BRING' written vertically.\",\n    \"relation\": \"2\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"icon_key\",\n    \"description\": \"An icon of a key.\",\n    \"relation\": \"1\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) hammer home (B) bring to the hammer (C) bring down the hammer (D) put the hammer down\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "bring down the hammer"
+    }
+}

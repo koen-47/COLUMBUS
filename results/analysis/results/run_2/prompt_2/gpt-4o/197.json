@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The answer is (B) castle in the air.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) castles in the air (B) castle in the air (C) in the air (D) king of the castle",
+   "answer": {
+      "B": "castle in the air"
+   },
+   "extracted_response": "B) castle in the air"
+}

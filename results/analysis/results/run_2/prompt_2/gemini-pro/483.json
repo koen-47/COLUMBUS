@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows a \"re\" symbol next to the word \"GILLS\".  This translates to \"RE-GILLS\", sounding like \"regills.\"  This is a play on words for \"refills.\"  The closest phrase to \"refills\" is **(B) packed to the gills**.  This idiom refers to something being completely full or overflowing, similar to the concept of needing refills.  Therefore, the answer is (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) green around the gills (B) packed to the gills (C) stuffed to the gills (D) green about the gills",
+   "answer": {
+      "A": "green around the gills"
+   },
+   "extracted_response": "B"
+}

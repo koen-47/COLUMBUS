@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"1111STARSIII\".  The \"ones\" look like the Roman numeral for 1. Four ones is four, and three ones is three. Therefore, it reads as \"four stars three.\"  This looks a lot like a rating: 4 out of 5 stars, with the \"5\" implied.  This means the closest idiom is (C) stars align, which refers to a moment of opportunity or good fortune.  A rating of 4 stars could certainly be interpreted as positive and fortunate.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) written in the stars (B) stars in one's eyes (C) stars align (D) see stars",
+   "answer": {
+      "B": "stars in one's eyes"
+   },
+   "extracted_response": "C"
+}

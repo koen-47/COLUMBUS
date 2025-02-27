@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows the word \"FAMILY\" with an up arrow and a down arrow next to it. This represents something going up and down the family line.  The answer is (B) run in the family.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep it in the family (B) run in the family (C) family jewels (D) start a family",
+   "answer": {
+      "D": "start a family"
+   },
+   "extracted_response": "B) run in the family"
+}

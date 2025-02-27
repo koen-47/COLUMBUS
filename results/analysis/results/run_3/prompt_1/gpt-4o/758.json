@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(B) put a hat on a hat",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put one's name in the hat (B) put a hat on a hat (C) pass the hat (D) pick out of a hat",
+   "answer": {
+      "B": "put a hat on a hat"
+   },
+   "extracted_response": "B"
+}

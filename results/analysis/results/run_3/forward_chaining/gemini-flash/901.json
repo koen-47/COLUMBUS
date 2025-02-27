@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the text \"YOURBALL COURT\".  This is a rebus puzzle. The solution uses the phrase \"the ball is in your court\".  Therefore, the answer is (D).\n\nLet's look at why the other options are incorrect:\n\n* **(A) play ball:** This is not directly represented in the image.\n* **(B) leave the ball in someone's court:** This is not directly represented in the image.\n* **(C) the ball is in someone's court:** This is close, but the image specifies \"YOUR\" court.\n\nTherefore, only option (D) accurately reflects the image's content.\nFinal Answer: The final answer is $\\boxed{D}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"text\",\n        \"description\": \"The text 'YOURBALL COURT' in uppercase letters.\",\n        \"relation\": \"centered in the image\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) play ball (B) leave the ball in someone's court (C) the ball is in someone's court (D) the ball is in your court\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "the ball is in your court"
+    }
+}

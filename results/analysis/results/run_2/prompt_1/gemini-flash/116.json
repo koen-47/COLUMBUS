@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) behind someone's back.\n\nThe image shows the word \"CHINAMAN\" with \"1111 BACK\" underneath.  \"1111\" is a visual representation of the word \"one\".  Therefore, the phrase is \"Chinaman one back\", which is a play on words for \"behind someone's back\".  The term \"Chinaman\" is outdated and offensive; however, that's the word used in the puzzle.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) Chinaman's chance (B) Chinese puzzle (C) chinaman on one's back (D) behind someone's back",
+   "answer": {
+      "C": "chinaman on one's back"
+   },
+   "extracted_response": "D) behind someone's back"
+}

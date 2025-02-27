@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows the word \"SAY\" written twice, and the word \"LEAST\". The description indicates that \"SAY\" is repeated twice and its sound should be applied \"to\" the word in node 2, which is \"LEAST\". This implies we should say \"SAY\" twice before \"LEAST\", giving us \"SAY SAY LEAST\". This sounds like \"to say the least\".\n\nTherefore, the answer is (B).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: SAY, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: LEAST, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) not in the least (B) to say the least (C) at the very least (D) in the least",
+   "answer": {
+      "B": "to say the least"
+   },
+   "extracted_response": "B) to say the least"
+}

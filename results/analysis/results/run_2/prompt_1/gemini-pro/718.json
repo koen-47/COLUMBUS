@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"OFF\" with a down arrow pointing to \"GOOD,\" and \"OFF\" with an up arrow. This conveys the meaning of **(C) off to a good start**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get started (B) from start to finish (C) off to a good start (D) fresh start",
+   "answer": {
+      "C": "off to a good start"
+   },
+   "extracted_response": "C) off to a good start"
+}

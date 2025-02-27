@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(B) piping hot**.\n\nThe rebus shows \"PIP PIP\" next to an image of a mailbox.  \"Pip pip\" is a sound associated with hot steam escaping, and a mailbox often suggests hot or fresh news or mail. Therefore, the image suggests \"piping hot\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pip to the post (B) piping hot (C) like a chicken with the pip (D) piping times",
+   "answer": {
+      "A": "pip to the post"
+   },
+   "extracted_response": "B) piping hot"
+}

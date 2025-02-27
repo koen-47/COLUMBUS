@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows the letters K, L, A, H, and C arranged vertically, next to the number 2.  This represents \"chalk\" x 2 or \"chalk two\", a sound-alike to \"chalk to\". The full phrase this represents is therefore (D) chalk something up to experience.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chalk up to (B) drum up (C) chalk off (D) chalk something up to experience",
+   "answer": {
+      "A": "chalk up to"
+   },
+   "extracted_response": "D) chalk something up to experience"
+}

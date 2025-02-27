@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The text \"QUIARROWVER\" can be broken down into \"QUIVER\" with \"ARROW\" in the middle. This corresponds to the phrase \"arrow in the quiver.\" Therefore, the answer is (A).\n\nThe other options are incorrect:\n\n* (B) arrowheads: The puzzle doesn't suggest multiple arrow tips.\n* (C) draw the long bow: The puzzle doesn't depict the action of drawing a bow.\n* (D) make one's bow: This phrase relates to a gesture of respect, not archery equipment. \n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'QUIARROWVER' with the word 'ARROW' in the middle.\",\n  \"relation\": \"none\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) arrow in the quiver (B) arrowheads (C) draw the long bow (D) make one's bow\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "arrow in the quiver"
+    }
+}

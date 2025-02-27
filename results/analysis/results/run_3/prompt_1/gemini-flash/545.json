@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **give someone what for**.\n\nThe image shows the words \"GIVE\" and three instances of \"WHAT\", visually representing the idiom \"give someone what for,\" which means to scold or reprimand someone severely.  Options A and B are grammatically incorrect, and D is incomplete.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone what-for (B) give what for (C) give someone what for (D) what for",
+   "answer": {
+      "B": "give what for"
+   },
+   "extracted_response": "C) give someone what for"
+}

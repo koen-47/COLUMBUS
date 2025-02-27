@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) the big house on the hill.\n\nThe image shows a house on top of a line, with the word \"HILL\" written below. This represents \"house on the hill\".  The \"big\" is implied by the prominence of the house in the image.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) over the hill (B) king of the hill (C) hill to die on (D) the big house on the hill",
+   "answer": {
+      "D": "the big house on the hill"
+   },
+   "extracted_response": "D) the big house on the hill"
+}

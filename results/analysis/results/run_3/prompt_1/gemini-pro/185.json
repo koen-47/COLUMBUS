@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"FI IRONS RE\". If you separate the \"FI RE\" from \"IRONS\", it spells **(B) irons in the fire**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bad iron (B) irons in the fire (C) draw fire (D) ironwork",
+   "answer": {
+      "B": "irons in the fire"
+   },
+   "extracted_response": "B) irons in the fire"
+}

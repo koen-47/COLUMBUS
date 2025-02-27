@@ -1,0 +1,12 @@
+/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  _torch_pytree._register_pytree_node(
+/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/utils/generic.py:309: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  _torch_pytree._register_pytree_node(
+/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/utils/generic.py:309: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  _torch_pytree._register_pytree_node(
+Traceback (most recent call last):
+  File "/var/scratch/hkd800/scripts/main.py", line 7, in <module>
+    from models.LlavaExperiment import LlavaExperiment
+  File "/var/scratch/hkd800/scripts/models/LlavaExperiment.py", line 7, in <module>
+    from transformers import AutoProcessor, LlavaForConditionalGeneration, LlavaNextProcessor, LlavaNextForConditionalGeneration, BitsAndBytesConfig
+ImportError: cannot import name 'LlavaForConditionalGeneration' from 'transformers' (/var/scratch/hkd800/anaconda3/lib/python3.11/site-packages/transformers/__init__.py)

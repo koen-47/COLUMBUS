@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **have an eye for**.\n\nThe image shows three eyes on the left and one eye on the right, with \"AN\" in the middle.  This visually represents the phrase \"have an eye for\" which implies possessing a talent or skill for something, often related to aesthetics or discernment.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) see eye to eye (C) bat an eye (D) have an eye for",
+   "answer": {
+      "A": "eye for an eye"
+   },
+   "extracted_response": "D) have an eye for"
+}

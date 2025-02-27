@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows \"BETTER\" written four times with \"IT\" to the right. This represents \"all the better for IT\" because \"for\" is communicated by the physical placement of \"IT\" to the right of the column. Since the option \"all the better for it\" is not available, the closest equivalent option is (D) better for it.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in for it (B) better off (C) nothing for it (D) better for it",
+   "answer": {
+      "D": "better for it"
+   },
+   "extracted_response": "D) better for it"
+}

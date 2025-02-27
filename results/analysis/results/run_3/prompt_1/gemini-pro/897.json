@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (C) storm in a teacup.\n\nThe words \"TEA\" and \"POT\" combined with the storm cloud icon create a visual representation of the idiom \"storm in a teacup.\" This idiom describes a small event that has been exaggerated out of proportion, making it seem like a much bigger deal than it actually is.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tempest in a teapot (B) chocolate teapot (C) storm in a teacup (D) teapot",
+   "answer": {
+      "A": "tempest in a teapot"
+   },
+   "extracted_response": "C) storm in a teacup"
+}

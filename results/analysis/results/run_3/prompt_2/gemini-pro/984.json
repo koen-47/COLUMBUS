@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows the words \"WATER\" twice with \"1111 MILL\" in between. This represents \"water on all sides of a mill\".  So the answer is (D) water to one's mill.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) trouble at mill (B) millwork (C) go through the mill (D) water to one's mill",
+   "answer": {
+      "D": "water to one's mill"
+   },
+   "extracted_response": "D) water to one's mill"
+}

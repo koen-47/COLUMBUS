@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows two instances of the word \"PRINT\", one above the other. The second instance is smaller than the first. This visual represents **(C) small print**.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blueprint (B) offprints (C) small print (D) blueprints",
+   "answer": {
+      "D": "blueprints"
+   },
+   "extracted_response": "C) small print"
+}

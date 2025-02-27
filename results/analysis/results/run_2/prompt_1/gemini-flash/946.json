@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **two thumbs up**.\n\nThe image depicts two instances of the word \"THUMBS\" with an upward-pointing arrow between them.  This visually represents the gesture of giving a \"two thumbs up,\" indicating approval or agreement.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) thumbstall (B) thumbscrews (C) two thumbs up (D) thumbscrew",
+   "answer": {
+      "C": "two thumbs up"
+   },
+   "extracted_response": "C) two thumbs up"
+}

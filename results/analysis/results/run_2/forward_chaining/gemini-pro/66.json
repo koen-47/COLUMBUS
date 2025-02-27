@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word BROTHER is written with the first and last letter, 'B', in bold. This implies emphasis on the 'B' at the beginning and end.  This corresponds to \"Big Brother\".\n\n(A) everybody and their brother: This idiom includes \"brother\", but doesn't explain the emphasis on 'B'.\n(B) everyone and their brother: Similar to (A), doesn't explain the bold 'B'.\n(C) big talk: No relation to \"brother\".\n(D) big brother: The bold 'B's' at the start and end point to \"Big\" \"Brother\", matching this option.\n\nFinal Answer: The final answer is $\\boxed{D}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"BROTHER\",\n    \"description\": \"The word 'BROTHER' written in uppercase letters.\",\n    \"relation\": \"None\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"B\",\n    \"description\": \"The letter 'B' at the beginning and end of the word 'BROTHER' is in bold.\",\n    \"relation\": \"Part of the word 'BROTHER'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) everybody and their brother (B) everyone and their brother (C) big talk (D) big brother\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "big brother"
+    }
+}

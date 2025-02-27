@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts \"MAN\" over \"STREET\" with a separating line. This signifies (D) man on the street.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) word on the street (B) man in the street (C) up someone's street (D) man on the street",
+   "answer": {
+      "D": "man on the street"
+   },
+   "extracted_response": "D) man on the street"
+}

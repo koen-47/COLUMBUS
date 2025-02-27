@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) afterthoughts.\n\nThe image shows the word \"LIFE\" with arrows pointing both up and down, representing the idea of thoughts or considerations that come after the main event or decision (life).  \"Afterthoughts\" is the plural form that fits the dual representation in the image.  The other options don't fit the visual metaphor as well.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftertastes (B) afterthought (C) afterthoughts (D) afterlives",
+   "answer": {
+      "D": "afterlives"
+   },
+   "extracted_response": "C) afterthoughts"
+}

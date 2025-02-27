@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (C) walk in the park.  The word \"PARK\" is spelled out, with the walking figure separating/replacing the letter \"R\".  This visually represents a walk happening \"in\" the park.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in a walk (B) take a walk (C) walk in the park (D) knock out the park",
+   "answer": {
+      "C": "walk in the park"
+   },
+   "extracted_response": "C) walk in the park"
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"1111GOSHELL\".\n\n* \"1111\" can be interpreted as \"one one one one\" or simply \"one\".\n* \"GOSHELL\" can be interpreted as \"go shell\".\n* Putting them together sounds like \"one go shell\", which is phonetically very similar to \"go into one's shell\".\n\nTherefore, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"text_1111\",\n    \"description\": \"The text '1111' in black font\",\n    \"relation\": \"preceding text 'G0SHELL'\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"text_G0SHELL\",\n    \"description\": \"The text 'G0SHELL' in black font\",\n    \"relation\": \"following text '1111'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) go one's own way (B) go out of one's way (C) go into one's shell (D) come out of one's shell\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "go into one's shell"
+    }
+}

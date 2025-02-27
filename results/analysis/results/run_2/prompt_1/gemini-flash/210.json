@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The best answer is (B) brown bread.  While the image is a simple line drawing and doesn't explicitly show the color, \"brown bread\" is the most likely interpretation given the options.  The other options require more context or a more complex image.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bread of life (B) brown bread (C) burn bread (D) bread and butter",
+   "answer": {
+      "B": "brown bread"
+   },
+   "extracted_response": "B) brown bread"
+}

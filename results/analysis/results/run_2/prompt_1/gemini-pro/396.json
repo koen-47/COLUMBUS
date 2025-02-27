@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"**quick on one's feet**\" (D).  The image visually separates \"QUICK\" and places \"FEET\" below it, suggesting a connection between quickness and feet. This aligns with the idiom \"quick on one's feet,\" which means mentally agile or able to react quickly.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out on one's feet (B) on one's feet (C) at one's feet (D) quick on one's feet",
+   "answer": {
+      "D": "quick on one's feet"
+   },
+   "extracted_response": "D) quick on one's feet"
+}

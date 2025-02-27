@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) living in a small bubble.  The image shows the word \"LIVING\" with \"BUB\" before it and \"BLE\" after it, creating the phrase \"BUBBLE LIVING BLE,\" which can be interpreted as \"living in a bubble\".  The \"small\" is implied by the typical use of the phrase.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the bubble (B) bubble over (C) burst someone's bubble (D) living in a small bubble",
+   "answer": {
+      "D": "living in a small bubble"
+   },
+   "extracted_response": "D) living in a small bubble"
+}

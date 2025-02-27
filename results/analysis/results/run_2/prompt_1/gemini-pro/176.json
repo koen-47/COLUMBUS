@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image of blue bricks followed by the word \"SILENCE\" most strongly suggests (C) blue wall of silence.  This term refers to the unwritten code among police officers to not report on a colleague's errors, misconducts, or crimes. The blue bricks represent this \"wall\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pact of silence (B) wall of silence (C) blue wall of silence (D) silence is golden",
+   "answer": {
+      "C": "blue wall of silence"
+   },
+   "extracted_response": "C"
+}

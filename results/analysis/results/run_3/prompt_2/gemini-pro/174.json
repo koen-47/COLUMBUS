@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows \"1111\" with an up arrow and a down arrow surrounding it.  This represents \"up and down 1111\" or, more simply, \"all around 1111.\"  Combined with \"EYES\", the solution is **(A) before one's eyes**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's eyes (B) before one's time (C) set eyes on (D) before someone's time",
+   "answer": {
+      "A": "before one's eyes"
+   },
+   "extracted_response": "A) before one's eyes"
+}

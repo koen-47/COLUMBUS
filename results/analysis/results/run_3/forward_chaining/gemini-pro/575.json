@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The two down arrows represent \"down\". The globe represents \"earth\". Thus, the rebus represents \"down to earth\".\n\nThe answer is (D).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"down_arrow_top\",\n  \"description\": \"A downward pointing arrow.\",\n  \"relation\": \"top left of the image\"\n}\n```\n\n```json\n{\n  \"id\": \"item2\",\n  \"name\": \"down_arrow_bottom\",\n  \"description\": \"A downward pointing arrow.\",\n  \"relation\": \"below the top arrow on the left side of the image\"\n}\n```\n\n```json\n{\n  \"id\": \"item3\",\n  \"name\": \"globe_icon\",\n  \"description\": \"An icon of a globe showing continents.\",\n  \"relation\": \"right side of the image, aligned with the arrows\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) down under (B) down the road (C) come down to earth (D) down to earth\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "down to earth"
+    }
+}

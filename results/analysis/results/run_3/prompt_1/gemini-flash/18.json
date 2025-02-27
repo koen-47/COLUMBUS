@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(C) blueberries**.\n\nThe image shows the word \"BERRY\" repeated twice.  While it doesn't show a specific type of berry, the only plural option among the choices is \"blueberries\".  The others are singular (\"strawberry\", \"blueberry\") or a different type of berry (\"blackberries\").\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) strawberries (B) blueberry (C) blueberries (D) blackberries",
+   "answer": {
+      "C": "blueberries"
+   },
+   "extracted_response": "C) blueberries"
+}

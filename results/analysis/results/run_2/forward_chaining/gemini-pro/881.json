@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The text \"TEASTORMCUP\" can be broken down into three words: \"TEA,\" \"STORM,\" and \"CUP.\" This combination represents the idiom \"storm in a teacup,\" which refers to a great commotion or excitement about a trivial matter. Therefore, the correct answer is (C).\n\nHere's the mapping of the json to the answer choices:\n* **(A) tempest in a teapot:** Similar meaning to \"storm in a teacup\" but not visually represented by the provided text.\n* **(B) teacup:** Only one part of the rebus.\n* **(C) storm in a teacup:** Directly represented by the combined words \"TEA,\" \"STORM,\" and \"CUP.\"\n* **(D) whip up a storm:** While related to the idea of a storm, it's not visually depicted in the text.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"1\",\n    \"name\": \"text_TEASTORMCUP\",\n    \"description\": \"The text 'TEASTORMCUP' in bold, black font.\",\n    \"relation\": \"centered in the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) tempest in a teapot (B) teacup (C) storm in a teacup (D) whip up a storm\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "storm in a teacup"
+    }
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image clearly depicts \"HELL\" over \"EARTH\", which corresponds to option (C) \"hell on earth\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to hell (B) paradise on earth (C) hell on earth (D) give hell",
+   "answer": {
+      "C": "hell on earth"
+   },
+   "extracted_response": "C"
+}

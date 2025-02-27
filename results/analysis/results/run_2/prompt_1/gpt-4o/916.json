@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(B) the sun sets on something",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a trip to the sun (B) the sun sets on something (C) catch the sun (D) sunlight",
+   "answer": {
+      "B": "the sun sets on something"
+   },
+   "extracted_response": "B"
+}

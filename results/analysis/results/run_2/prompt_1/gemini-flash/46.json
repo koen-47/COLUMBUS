@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **come to life**.\n\nThe image visually represents the phrase \"come to life\" by positioning the word \"LIFE\" between two instances of \"COME,\" creating a visual representation of the phrase's meaning.  The other options don't fit the visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get a life (B) come to (C) come to life (D) come alive",
+   "answer": {
+      "C": "come to life"
+   },
+   "extracted_response": "C) come to life"
+}

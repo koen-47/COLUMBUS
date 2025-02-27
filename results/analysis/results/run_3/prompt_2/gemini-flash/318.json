@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) measure up.\n\nThe letters are presented vertically, in the order E R U S A E M.  Reading them vertically, you get the word \"MEASURE\".  The letters are also presented as \"measuring up\" in a vertical line.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) last full measure (B) measure up (C) measure the drapes (D) for good measure",
+   "answer": {
+      "B": "measure up"
+   },
+   "extracted_response": "B) measure up"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) blood in the water.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shed blood (B) blood is thicker than water (C) blood in the water (D) dead in the water",
+   "answer": {
+      "C": "blood in the water"
+   },
+   "extracted_response": "C) blood in the water"
+}

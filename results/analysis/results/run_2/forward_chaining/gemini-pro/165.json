@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The text \"GNORW\" is \"WRONG\" spelled backwards.  The image is an icon of a horse. Combining \"WRONG\" and \"horse\" gives us the phrase \"wrong horse\".  Therefore, the answer is (C) back the wrong horse.\nSpecifically, the json is consistent with the answer choice (C) because the \"cow\" is actually \"horse\" and the text is \"WRONG\" spelled backward.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text\",\n    \"description\": \"The text 'GNORW' written in uppercase letters.\",\n    \"relation\": \"next to the icon of a cow\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"icon\",\n    \"description\": \"A black silhouette of a cow.\",\n    \"relation\": \"next to the text 'GNORW'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) high horse (B) dark horse (C) back the wrong horse (D) horse around\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "back the wrong horse"
+    }
+}

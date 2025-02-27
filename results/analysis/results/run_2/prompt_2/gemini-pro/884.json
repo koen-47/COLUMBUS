@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle combines the image of a stone with the word \"STUCKAGE\".  This represents \"stuck in the stone age\".\n\nSo the answer is (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stone dead (B) stuck in the stone age (C) carved in stone (D) set in stone",
+   "answer": {
+      "B": "stuck in the stone age"
+   },
+   "extracted_response": "B) stuck in the stone age"
+}

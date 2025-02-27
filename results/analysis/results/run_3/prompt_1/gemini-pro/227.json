@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (B) head above water.  The words and line suggest keeping one's \"head\" above the \"water\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) headwater (B) head above water (C) head and shoulders above (D) water over the dam",
+   "answer": {
+      "B": "head above water"
+   },
+   "extracted_response": "B"
+}

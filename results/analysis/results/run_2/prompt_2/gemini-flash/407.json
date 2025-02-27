@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) skeleton in the closet.\n\nThe image shows the word \"CLOSET\" with a skull replacing the letter \"S\".  A \"skeleton in the closet\" is an idiom referring to a hidden secret or scandal.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skeleton crew (B) skeleton in the cupboard (C) skeleton in the closet (D) out of the closet",
+   "answer": {
+      "C": "skeleton in the closet"
+   },
+   "extracted_response": "C) skeleton in the closet"
+}

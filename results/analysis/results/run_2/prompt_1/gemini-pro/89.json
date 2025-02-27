@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts the word \"LOT\" on top of a place setting, indicating B, \"a lot on my plate.\" The phrase implies having a large amount of work or responsibilities to handle.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a bit too much (B) a lot on my plate (C) step up to the plate (D) platelayer",
+   "answer": {
+      "B": "a lot on my plate"
+   },
+   "extracted_response": "B) a lot on my plate"
+}

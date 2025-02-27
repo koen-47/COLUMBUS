@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows \"STINK\" over \"ICE\".  This represents the phrase \"stink on ice\".\n\nSo the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on ice (B) ice cool (C) stink on ice (D) on thin ice",
+   "answer": {
+      "C": "stink on ice"
+   },
+   "extracted_response": "C"
+}

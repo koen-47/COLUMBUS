@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (C) loaf about.  The word \"loaf\" is combined with \"lighters\" to imply the idiom.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) light up (B) make a light (C) loaf about (D) light in the loafers",
+   "answer": {
+      "D": "light in the loafers"
+   },
+   "extracted_response": "C) loaf about"
+}

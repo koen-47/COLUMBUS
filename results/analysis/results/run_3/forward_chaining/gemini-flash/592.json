@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\n1. **\"EZ\"**:  Represents \"easy\".\n\n2. **Horizontal Line**: Represents \"on\".\n\n3. **Two Eyes**: Represents \"eyes\".\n\nTherefore, the image depicts **(B) easy on the eyes**.  The other options don't fit the image components.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"letters\",\n        \"description\": \"The letters 'E' and 'Z' in uppercase.\",\n        \"relation\": \"Centered at the top of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"horizontal_line\",\n        \"description\": \"A straight horizontal line.\",\n        \"relation\": \"Located below the letters 'E' and 'Z'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"number_90\",\n        \"description\": \"The number '90' with a degree symbol.\",\n        \"relation\": \"Centered below the horizontal line.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) easy on the eyes (B) easy on the eye (C) hard on the eyes (D) take one's eyes off\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "easy on the eyes"
+    }
+}

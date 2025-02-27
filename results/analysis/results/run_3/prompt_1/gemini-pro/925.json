@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (C) too good to be true.\n\nThe words \"GOOD,\" \"BE,\" and \"TRUE\" are arranged in a way that suggests the saying \"too good to be true.\" The repetition of \"GOOD\" and \"BE\" emphasizes the excessive goodness, followed by a solitary \"TRUE\" hinting at skepticism.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to no good (B) true to form (C) too good to be true (D) truth be told",
+   "answer": {
+      "C": "too good to be true"
+   },
+   "extracted_response": "C) too good to be true"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"hang dry\". This is a common laundry instruction meaning to hang wet clothes on a clothesline or hanger to dry.\n\nSo the answer is closest to (B), but not exactly.  (B) \"Hang out to dry\" has a separate idiomatic meaning relating to abandoning someone in a difficult situation.  The image refers specifically to the laundry instruction.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang out (B) hang out to dry (C) dry out (D) suck dry",
+   "answer": {
+      "B": "hang out to dry"
+   },
+   "extracted_response": "The image conveys \"hang dry\". This is a common laundry instruction meaning to hang wet clothes on a clothesline or hanger to dry.\n\nSo the answer is closest to (B), but not exactly.  (B) \"Hang out to dry\" has a separate idiomatic meaning relating to abandoning someone in a difficult situation.  The image refers specifically to the laundry instruction."
+}

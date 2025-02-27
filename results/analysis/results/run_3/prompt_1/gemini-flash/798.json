@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **hit the ground running**.\n\nThe image shows the words \"GRO\" and \"UND\" with a running figure placed between them.  This visually represents the idiom \"hit the ground running,\" which means to start something immediately and energetically.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to ground (B) run into the ground (C) put in the ground (D) hit the ground running",
+   "answer": {
+      "B": "run into the ground"
+   },
+   "extracted_response": "D) hit the ground running"
+}

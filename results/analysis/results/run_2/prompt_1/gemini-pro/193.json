@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (A) break into a run.  The figures are shown running, and \"break\" signifies a sudden start.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break into a run (B) take a run at (C) run off (D) run with",
+   "answer": {
+      "A": "break into a run"
+   },
+   "extracted_response": "A"
+}

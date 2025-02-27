@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"WICANDLEND,\" which can be interpreted as \"We can lend.\" \n\nHowever, based on the options provided, the closest match would be:\n\n(B) burn the candle at both ends. \n\nThis is because \"WIC\" can be associated with a candle's wick, and \"CANDLEND\" suggests the idea of lending or using a candle.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) candle in the wind (B) burn the candle at both ends (C) candlelight (D) candlepower",
+   "answer": {
+      "A": "candle in the wind"
+   },
+   "extracted_response": "B) burn the candle at both ends"
+}

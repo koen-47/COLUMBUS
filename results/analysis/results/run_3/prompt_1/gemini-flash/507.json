@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **go to the ends of the earth**.\n\nThe image shows the word \"GO\" twice, with arrows pointing to opposite ends of a globe (Earth). This visually represents traveling to the furthest points of the Earth.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to earth (B) edge of the earth (C) move heaven and earth (D) go to the ends of the earth",
+   "answer": {
+      "D": "go to the ends of the earth"
+   },
+   "extracted_response": "D) go to the ends of the earth"
+}

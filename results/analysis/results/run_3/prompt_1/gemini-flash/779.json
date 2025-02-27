@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **roll in wealth**.\n\nThe image shows the word \"WEAROLLLTH\".  By removing the extra \"L\"s, it spells out \"WEALTH\". The word \"ROLL\" is integrated within \"WEALTH\", creating a pun suggesting an abundance of wealth.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rollover (B) call roll (C) roll in wealth (D) on a roll",
+   "answer": {
+      "C": "roll in wealth"
+   },
+   "extracted_response": "C) roll in wealth"
+}

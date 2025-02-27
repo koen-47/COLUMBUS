@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows the word \"SPEAK\" twice, with the word \"SOON\" to the right of the second \"SPEAK.\"  This represents \"speak too soon\".\n\nSo the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak to (C) speak too soon (D) speak soon",
+   "answer": {
+      "C": "speak too soon"
+   },
+   "extracted_response": "C) speak too soon"
+}

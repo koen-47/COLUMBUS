@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(B) bang one's head against a brick wall**.\n\nHere's why:\n\n* **1111:** Represents \"one one one one\" which sounds like \"one\" repeated.\n* **Brick:** The image of a brick is a literal representation.\n* **Hat:** The image of a top hat can be interpreted as the top of a head.\n\nPutting it together, \"one\" (repeated) against a brick wall (with a head implied) is a way of describing someone banging their head repeatedly against a brick wall.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) brick in (B) bang one's head against a brick wall (C) drop a brick (D) brick in one's hat",
+   "answer": {
+      "D": "brick in one's hat"
+   },
+   "extracted_response": "B) bang one's head against a brick wall"
+}

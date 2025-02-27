@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"PFINGERIE\".  If we split this into \"P\" \"FINGER\" \"IE\", we get \"a finger in the pie\".\n\nTherefore, the answer is (A).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'PFINGERIE' in capital letters.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) finger in the pie (B) the finger (C) piece of the pie (D) have one's fingers in many pies\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "finger in the pie"
+    }
+}

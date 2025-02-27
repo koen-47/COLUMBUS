@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts \"SN\" + a walking person + \"OW\", visually representing someone walking in the snow.  Therefore, the answer is (A) walk in the snow.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) walk in the snow (B) snow under (C) snow job (D) snow out",
+   "answer": {
+      "A": "walk in the snow"
+   },
+   "extracted_response": "A) walk in the snow"
+}

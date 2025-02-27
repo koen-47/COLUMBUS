@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) mid-air collision**.\n\nThe image shows \"AIR\" with arrows pointing up and down, representing \"mid-air,\" and an asterisk/explosion symbol, representing a \"collision.\"  Therefore, the rebus depicts a \"mid-air collision.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) mid air collision (B) collision course (C) midair (D) catch air",
+   "answer": {
+      "A": "mid air collision"
+   },
+   "extracted_response": "A) mid air collision"
+}

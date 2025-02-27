@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts \"hand over\". The hand is positioned above the horizontal line as if giving something to the face below the line.\n\nThe correct answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand someone his head (B) hand over (C) hand over hand (D) hand over head",
+   "answer": {
+      "D": "hand over head"
+   },
+   "extracted_response": "B) hand over"
+}

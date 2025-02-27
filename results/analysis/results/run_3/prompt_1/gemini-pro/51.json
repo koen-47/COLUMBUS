@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (B) babies in the eyes.  The word \"BABIES\" is literally placed between two sets of eyes.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) newborn (B) babies in the eyes (C) raccoon eyes (D) stars in one's eyes",
+   "answer": {
+      "B": "babies in the eyes"
+   },
+   "extracted_response": "B"
+}

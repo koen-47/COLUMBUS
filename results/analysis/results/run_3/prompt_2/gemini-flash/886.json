@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) take a back seat.\n\nThe rebus shows the word \"EKAT\" and an image of a seat.  Rearranging the letters in \"EKAT\" gives \"TAKE,\" and the image of the seat implies \"a seat.\"  The placement of \"EKAT\" before the seat image suggests \"take a seat\" and as the seat image is that of a back seat, the entire rebus can be interpreted as \"take a back seat\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sit back (B) have a seat (C) take the front seat (D) take a back seat",
+   "answer": {
+      "D": "take a back seat"
+   },
+   "extracted_response": "D) take a back seat"
+}

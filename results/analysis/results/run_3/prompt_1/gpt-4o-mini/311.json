@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The phrase conveyed in the image is (C) chill to the bone.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chill pill (B) to the bone (C) chill to the bone (D) chill to the marrow",
+   "answer": {
+      "C": "chill to the bone"
+   },
+   "extracted_response": "C) chill to the bone"
+}

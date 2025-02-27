@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe image shows \"STICK\" followed by \"IT IT\".  This is a visual representation of the phrase \"STICK IT TO\". Therefore the correct answer is (D).\n\nLet's examine why the other options are incorrect:\n\n* **(A) stick to:** This would require a different prepositional phrase.\n* **(B) stick it to the man:** This is a specific idiom, and the image doesn't include \"the man\".\n* **(C) put it to:** This uses a different verb altogether.\n\n\nTherefore, the only option consistent with the image is (D) **stick it to**.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_stick\",\n  \"description\": \"The word 'STICK' written in bold uppercase letters.\",\n  \"relation\": \"Located on the left side of the image.\"\n}\n```\n\n```json\n{\n  \"id\": \"2\",\n  \"name\": \"text_it\",\n  \"description\": \"The word 'IT' written in bold uppercase letters.\",\n  \"relation\": \"Located to the right of the word 'STICK'.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) stick to (B) stick it to the man (C) put it to (D) stick it to\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "stick it to"
+    }
+}

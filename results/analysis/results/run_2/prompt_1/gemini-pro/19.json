@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the word \"LIFE\" with an upward arrow and a downward arrow branching off from it.  This represents the ups and downs of life.  So, out of the options presented, (D) living death is the closest option, though not necessarily an exact match. The image likely aims to depict the struggles and duality within life itself, not merely an absence of life.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) graveyard (B) good life (C) afterlife (D) living death",
+   "answer": {
+      "C": "afterlife"
+   },
+   "extracted_response": "D) living death"
+}

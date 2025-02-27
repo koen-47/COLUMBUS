@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) mantiger.  The image shows the word \"MANDOGGER\", which is a portmanteau of \"man\" and \"dogger\" (a type of dog).  While not a real word, it visually suggests \"mantiger,\" a mythical creature.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see a man about a dog (B) dog around (C) dog in the manger (D) mantiger",
+   "answer": {
+      "C": "dog in the manger"
+   },
+   "extracted_response": "D) mantiger"
+}

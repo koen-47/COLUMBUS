@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) the finger.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the finger (B) piece of the pie (C) have one's fingers in many pies (D) finger in the pie",
+   "answer": {
+      "D": "finger in the pie"
+   },
+   "extracted_response": "A) the finger"
+}

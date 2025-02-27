@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) too big for one's boots**.\n\nThe image shows the word \"BIG\" and multiple rows of \"1111\",  alongside two images of boots.  This visually represents someone (the \"BIG\" 1s) having oversized boots, hence \"too big for one's boots\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) too big for one's boots (B) kicking boots (C) fill one's boots (D) hang up one's boots",
+   "answer": {
+      "A": "too big for one's boots"
+   },
+   "extracted_response": "A) too big for one's boots"
+}

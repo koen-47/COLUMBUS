@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"BRAIN\" has an up arrow below it and a down arrow above it. This signifies \"up\" and \"down\" around the word BRAIN, hence \"mid-BRAIN\".\n\nTherefore, the answer is (A) midbrain.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_brain\",\n        \"description\": \"The word 'BRAIN' in uppercase letters.\",\n        \"relation\": \"center of the image\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"up_arrow\",\n        \"description\": \"An upward-pointing arrow.\",\n        \"relation\": \"above the word 'BRAIN'\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"down_arrow\",\n        \"description\": \"A downward-pointing arrow.\",\n        \"relation\": \"below the word 'BRAIN'\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) midbrain (B) midribs (C) midvein (D) midrib\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "midbrain"
+    }
+}

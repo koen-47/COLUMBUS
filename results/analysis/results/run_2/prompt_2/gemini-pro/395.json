@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle is \"PUT SOMEONE / 2\". This can be read as \"Put someone over two\".  Over two is a fraction. Thus, it can be interpreted as to halve something. Option (D), \"put someone under\", is the closest among the options given.  However, more generally and fittingly, it means to **put someone down**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put someone on to (B) put someone to their trumps (C) put someone in their place (D) put someone under",
+   "answer": {
+      "A": "put someone on to"
+   },
+   "extracted_response": "D) put someone under"
+}

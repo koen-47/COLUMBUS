@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"shimmy on down.\" The word \"shimmy\" is above the word \"down,\" indicating the action of shimmying down. \n\nSo the answer is (B) shimmy on down.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) face down (B) shimmy on down (C) hunker down (D) down at heel",
+   "answer": {
+      "B": "shimmy on down"
+   },
+   "extracted_response": "B) shimmy on down"
+}

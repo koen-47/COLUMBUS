@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) turn on its head**.\n\nThe line under \"TURN\" visually represents the action of turning something upside down.  \"ITS HEAD\" completes the phrase to create the idiom.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn on its head (B) turn heads (C) use one's head (D) turn someone's head",
+   "answer": {
+      "A": "turn on its head"
+   },
+   "extracted_response": "A) turn on its head"
+}

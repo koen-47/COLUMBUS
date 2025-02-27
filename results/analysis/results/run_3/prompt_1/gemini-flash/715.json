@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) of one mind**.\n\nThe image shows two instances of the word \"MINDS\" stacked vertically.  This visually represents the idea of two entities being in agreement or having a unified thought process, aligning with the meaning of \"of one mind.\"\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) of one mind (B) meeting of the minds (C) of two minds (D) read minds",
+   "answer": {
+      "C": "of two minds"
+   },
+   "extracted_response": "A) of one mind"
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word MAN is above the line, and the word STREET is below the line.  This represents \"MAN on the STREET\".\n\nTherefore, the answer is (D).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"word_MAN\",\n  \"description\": \"The word 'MAN' written in uppercase letters.\",\n  \"relation\": \"above the line\"\n}\n```\n\n```json\n{\n  \"id\": \"item2\",\n  \"name\": \"horizontal_line\",\n  \"description\": \"A horizontal line.\",\n  \"relation\": \"between the words 'MAN' and 'STREET'\"\n}\n```\n\n```json\n{\n  \"id\": \"item3\",\n  \"name\": \"word_STREET\",\n  \"description\": \"The word 'STREET' written in uppercase letters.\",\n  \"relation\": \"below the line\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) word on the street (B) man in the street (C) up someone's street (D) man on the street\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "man on the street"
+    }
+}

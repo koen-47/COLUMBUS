@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (B) start at square one.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) back to square one (B) start at square one (C) on the square (D) square one",
+   "answer": {
+      "B": "start at square one"
+   },
+   "extracted_response": "B"
+}

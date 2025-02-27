@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"come close\".  While not one of the multiple-choice options as written, it's closest in meaning to **(A) come to**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come to (B) come to an end (C) close call (D) come to a close",
+   "answer": {
+      "D": "come to a close"
+   },
+   "extracted_response": "A) come to"
+}

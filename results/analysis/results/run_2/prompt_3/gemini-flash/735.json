@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) pie in the sky.\n\nThe image shows the word \"SKY\" with a pie symbol in the middle.  This directly represents the phrase \"pie in the sky\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83e\udd67, repeat: 1, icon: (pie: \ud83e\udd67))\nNode 2 attributes: (text: SKY, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) finger in the pie (B) pie in the sky (C) humble pie (D) piece of the pie",
+   "answer": {
+      "B": "pie in the sky"
+   },
+   "extracted_response": "B) pie in the sky"
+}

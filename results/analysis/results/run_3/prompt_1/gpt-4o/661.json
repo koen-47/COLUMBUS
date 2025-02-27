@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The phrase conveyed in the image is (C) like a duck to water.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break one's duck (B) sitting duck (C) like a duck to water (D) like water off a duck's back",
+   "answer": {
+      "C": "like a duck to water"
+   },
+   "extracted_response": "C"
+}

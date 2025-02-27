@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) pip to the post.  The image shows \"PIP PIP POST,\" visually representing the idiom \"pip to the post,\" which means to be very close to success but ultimately fail.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) piping hot (B) like a chicken with the pip (C) pip to the post (D) piping times",
+   "answer": {
+      "C": "pip to the post"
+   },
+   "extracted_response": "C"
+}

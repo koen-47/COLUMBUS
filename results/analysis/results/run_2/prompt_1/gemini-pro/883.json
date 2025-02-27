@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (C) storm out of the blocks.  \"BLOCKS\" is in a box, visually representing \"out of\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) whip up a storm (B) after the storm (C) storm out of the blocks (D) storm off",
+   "answer": {
+      "C": "storm out of the blocks"
+   },
+   "extracted_response": "C"
+}

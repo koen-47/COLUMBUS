@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"DET\" followed by a devil face, then \"AILS\".\n\n* **DET** + **devil** + **AILS** = **Devil** in the **Details**\n\nThis corresponds to option (A): \"devil is in the details\".\n\nTherefore, the answer is (A).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text_DET\",\n    \"description\": \"The text 'DET' in uppercase letters.\",\n    \"relation\": \"The first part of the word 'DETAILS'.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"cat_eyes_nose_mouth\",\n    \"description\": \"An icon of a cat's eyes, nose, and mouth.\",\n    \"relation\": \"Placed in the middle of the word 'DETAILS', replacing the letters 'A' and 'I'.\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"text_ILS\",\n    \"description\": \"The text 'AILS' in uppercase letters.\",\n    \"relation\": \"The second part of the word 'DETAILS'.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) devil is in the details (B) talk of the devil (C) devil in disguise (D) speak of the devil\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "devil is in the details"
+    }
+}

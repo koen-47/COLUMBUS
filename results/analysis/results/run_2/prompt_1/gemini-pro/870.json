@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"**C) go out with a bang**\". The downward arrow symbolizes \"go out,\" while the upward arrow and the word \"WITH\" together represent \"with a\". Finally, the word \"BANG\" completes the phrase.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bang up (B) start with a bang (C) go out with a bang (D) bang out",
+   "answer": {
+      "B": "start with a bang"
+   },
+   "extracted_response": "C) go out with a bang"
+}

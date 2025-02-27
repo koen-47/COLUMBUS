@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"BALLS\" appears above and below the image of the \"brick wall\". This can be interpreted as \"BALLS to the WALL\".\n\nSo, the correct answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_balls_upper\",\n        \"description\": \"The word 'BALLS' written in uppercase letters.\",\n        \"relation\": \"above the brick wall icon\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"brick_wall_icon\",\n        \"description\": \"An icon representing a brick wall.\",\n        \"relation\": \"between the two instances of the word 'BALLS'\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"text_balls_lower\",\n        \"description\": \"The word 'BALLS' written in uppercase letters.\",\n        \"relation\": \"below the brick wall icon\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) bust one's balls (B) balls to the wall (C) grow some balls (D) have someone by the balls\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "balls to the wall"
+    }
+}

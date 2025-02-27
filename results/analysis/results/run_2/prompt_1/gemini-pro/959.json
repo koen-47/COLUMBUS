@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"up to eleven\" (C).  This is an idiom referring to exceeding the normal limits or taking something to an extreme.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) average up (B) ten to one (C) up to eleven (D) up to something",
+   "answer": {
+      "C": "up to eleven"
+   },
+   "extracted_response": "C"
+}

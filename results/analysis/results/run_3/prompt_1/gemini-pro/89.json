@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows \"LOT\" over a plate with utensils. This indicates a \"LOT on my PLATE.\" So the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a bit too much (B) a lot on my plate (C) step up to the plate (D) platelayer",
+   "answer": {
+      "B": "a lot on my plate"
+   },
+   "extracted_response": "B) a lot on my plate"
+}

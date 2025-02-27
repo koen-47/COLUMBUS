@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts the word \"AISLE\" with a line crossing through it. This visually represents **(A) cross the aisle**.  This idiom means to cooperate with the opposing political party or faction. The line crossing through \"aisle\" symbolizes bridging the division.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross the aisle (B) roll in the aisles (C) cross the line (D) cross one's legs",
+   "answer": {
+      "A": "cross the aisle"
+   },
+   "extracted_response": "A) cross the aisle"
+}

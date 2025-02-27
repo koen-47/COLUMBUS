@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image consists of the letters \"PO\" on the left, a fish icon in the middle, and the letters \"ND\" on the right. This forms the word \"POND\" with the fish in the middle.\n\nThe correct answer is (C) big fish in a small pond.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"PO\",\n    \"description\": \"The letters 'PO' written in uppercase.\",\n    \"relation\": \"Left of the fish icon.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"Fish Icon\",\n    \"description\": \"A simple black and white icon of a fish.\",\n    \"relation\": \"Between the letters 'PO' and 'ND'.\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"ND\",\n    \"description\": \"The letters 'ND' written in uppercase.\",\n    \"relation\": \"Right of the fish icon.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) a fish out of water (B) bigger fish to fry (C) big fish in a small pond (D) big fish\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "big fish in a small pond"
+    }
+}

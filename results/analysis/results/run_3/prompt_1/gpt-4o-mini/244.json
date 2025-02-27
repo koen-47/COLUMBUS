@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) step over.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) giant step (B) a small step for man (C) step over (D) step lively",
+   "answer": {
+      "A": "giant step"
+   },
+   "extracted_response": "C) step over"
+}

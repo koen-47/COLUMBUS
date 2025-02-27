@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) red herring.\n\nThe word \"herring\" is written in red.  This is a visual pun.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) herringbones (B) herringbone (C) neither fish, flesh, nor good red herring (D) red herring",
+   "answer": {
+      "D": "red herring"
+   },
+   "extracted_response": "D) red herring"
+}

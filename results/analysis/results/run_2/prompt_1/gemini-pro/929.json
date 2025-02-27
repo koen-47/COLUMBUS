@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (C) take to the grave.\n\nThe numbers \"1111\" are meant to represent the phrase \"I'll\" and the symbol between 1111 and Grave depicts \"take\". It is interpreted to mean a secret that \"I'll take to the grave\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take someone to the grave (B) dig one's own grave (C) take to the grave (D) turn in one's grave",
+   "answer": {
+      "D": "turn in one's grave"
+   },
+   "extracted_response": "C) take to the grave"
+}

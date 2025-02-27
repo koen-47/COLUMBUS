@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(B) bone to the teeth**.\n\nThe image shows the word \"HER\" followed by a bone and two teeth.  This visually represents \"HER bone to the teeth\".  The phrase \"bone to the teeth\" is a less common variant of \"armed to the teeth\", signifying being heavily armed or prepared.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone in her teeth (B) arm to the teeth (C) funny bone (D) bone in the throat",
+   "answer": {
+      "A": "bone in her teeth"
+   },
+   "extracted_response": "The correct answer is **(B) bone to the teeth**.\n\nThe image shows the word \"HER\" followed by a bone and two teeth.  This visually represents \"HER bone to the teeth\".  The phrase \"bone to the teeth\" is a less common variant of \"armed to the teeth\", signifying being heavily armed or prepared.\n"
+}

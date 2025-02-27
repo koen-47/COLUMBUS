@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) hit below one's weight.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hit below one's weight (B) punch above one's weight (C) hit above one's weight (D) punch below one's weight",
+   "answer": {
+      "C": "hit above one's weight"
+   },
+   "extracted_response": "A"
+}

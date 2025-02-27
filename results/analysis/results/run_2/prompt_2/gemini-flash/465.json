@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **double date**.\n\nThe arrows flanking the word \"DATE\" suggest a doubling or pairing.  Therefore, the image represents a \"double date\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to date (B) double date (C) sell-by date (D) start date",
+   "answer": {
+      "D": "start date"
+   },
+   "extracted_response": "B) double date"
+}

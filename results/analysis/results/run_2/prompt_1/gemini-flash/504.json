@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **think aloud**.\n\nThe image shows \"THINK\" outside a box and \"LOUD\" inside a box. This visually represents the act of thinking aloud, where your thoughts are spoken out loud.  Options A, B, and C don't fit this visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) think back (B) think out loud (C) think up (D) think aloud",
+   "answer": {
+      "B": "think out loud"
+   },
+   "extracted_response": "D) think aloud"
+}

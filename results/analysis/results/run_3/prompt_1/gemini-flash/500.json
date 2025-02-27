@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **fireworks**.\n\nThe image shows a symbol representing a firework burst next to a factory, implying that the fireworks are made in the factory.  The phrase \"GET GET\" could be interpreted as an instruction to obtain fireworks.  While (A) and (D) are related, (B) best encapsulates the whole image's meaning.  (C) is too specific.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) firework (B) fireworks (C) get to the fireworks factory (D) firecrackers",
+   "answer": {
+      "C": "get to the fireworks factory"
+   },
+   "extracted_response": "B) fireworks"
+}

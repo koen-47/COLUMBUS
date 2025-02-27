@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) foot in the door.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at someone's door (B) get the door (C) foot in the door (D) get one's foot in the door",
+   "answer": {
+      "C": "foot in the door"
+   },
+   "extracted_response": "C) foot in the door"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) eye for an eye.  The image shows three instances of the word \"EYE\" stacked vertically, followed by \"AN\" and then \"I\".  This visually represents the idiom \"eye for an eye\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one in the eye for (B) have an eye for (C) see eye to eye (D) eye for an eye",
+   "answer": {
+      "D": "eye for an eye"
+   },
+   "extracted_response": "D) eye for an eye"
+}

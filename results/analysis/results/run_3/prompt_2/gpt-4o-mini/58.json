@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"shot in the dark.\" The word \"DARK\" is emphasized, and the arrows pointing up and down suggest a shot or aim. Therefore, the correct answer is (C) shot in the dark.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the dark (B) dark cloud (C) shot in the dark (D) after dark",
+   "answer": {
+      "D": "after dark"
+   },
+   "extracted_response": "C) shot in the dark"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows the words \"BELL\" and \"RINGS\" next to each other. There are arrows pointing before \"BELL\" indicating \"before\". The puzzle attribute description says BELL needs to be highlighted before. Combining the visual with the given graph representation, the puzzle conveys \"before the bell rings\".\n\nSo the correct answer is (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: BELL, repeat: 1, highlight: before)\nNode 2 attributes: (text: RINGS, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) before the bell rings (B) saved by the bell (C) ring a bell (D) ring someone's bell",
+   "answer": {
+      "A": "before the bell rings"
+   },
+   "extracted_response": "A"
+}

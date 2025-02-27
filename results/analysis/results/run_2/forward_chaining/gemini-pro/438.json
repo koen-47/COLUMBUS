@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"HAND\" over a line and the word \"HEAD\" below the line. This represents \"HAND over HEAD\". \n\nHere's the mapping:\n* **HAND:** The word \"HAND\" in the image.\n* **Line:**  Represents \"over\".\n* **HEAD:** The word \"HEAD\" in the image.\n\nTherefore, the correct answer is (A) hand over head.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"HAND\",\n    \"description\": \"The word 'HAND' written in uppercase letters.\",\n    \"relation\": \"above the line and the word 'FEAT'\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"Line\",\n    \"description\": \"A horizontal line.\",\n    \"relation\": \"between the words 'HAND' and 'FEAT'\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"FEAT\",\n    \"description\": \"The word 'FEAT' written in uppercase letters.\",\n    \"relation\": \"below the line and the word 'HAND'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) hand over head (B) hand over (C) hand someone his head (D) hand over hand\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "hand over head"
+    }
+}

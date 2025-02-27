@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) dark horse.\n\nThe image shows the word \"GNORW\" (which is \"WRONG\" spelled backward) next to a picture of a black horse.  This is a visual pun representing a \"dark horse,\" which is an idiom for a contestant or competitor about whom little is known but who unexpectedly wins.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high horse (B) dark horse (C) back the wrong horse (D) horse around",
+   "answer": {
+      "C": "back the wrong horse"
+   },
+   "extracted_response": "B) dark horse"
+}

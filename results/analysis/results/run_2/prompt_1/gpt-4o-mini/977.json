@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) walk on water.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take on water (B) walk on water (C) carry someone's water (D) take a walk",
+   "answer": {
+      "B": "walk on water"
+   },
+   "extracted_response": "B) walk on water"
+}

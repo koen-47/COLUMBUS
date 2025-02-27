@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) man on the street.\n\nThe image shows a man's face inserted within the word \"street\", thus visually representing the phrase \"man on the street\".  This phrase commonly refers to the average person or the public opinion.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) word on the street (B) man in the street (C) up someone's street (D) man on the street",
+   "answer": {
+      "B": "man in the street"
+   },
+   "extracted_response": "D) man on the street"
+}

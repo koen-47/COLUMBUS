@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) live in the past.\n\nThe word \"TI OG ME\" is a visual pun.  If you read it as \"Time OG Me\", \"OG\" stands for \"original gangster\" which implies something from the past.  Therefore, the phrase suggests someone who is fixated on or stuck in the past.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go back in time (B) time after time (C) live in the past (D) behind time",
+   "answer": {
+      "A": "go back in time"
+   },
+   "extracted_response": "C) live in the past"
+}

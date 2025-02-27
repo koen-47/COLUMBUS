@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the words \"TURN\" and \"DUST\" arranged as follows:\n\n1. \"TURN\" is at the top left.\n2. \"DUST\" is to the right of the first \"TURN\".\n3. Another \"TURN\" is below the first \"TURN\".\n\nThis arrangement suggests the phrase \"turn to dust,\" as the word \"TURN\" is positioned to lead into \"DUST.\"\n\nThe correct answer is (A) turn to dust.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"TURN\",\n        \"description\": \"The word 'TURN' written in uppercase letters.\",\n        \"relation\": \"Located at the top left of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"DUST\",\n        \"description\": \"The word 'DUST' written in uppercase letters.\",\n        \"relation\": \"Located to the right of the first 'TURN'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"TURN\",\n        \"description\": \"The word 'TURN' written in uppercase letters.\",\n        \"relation\": \"Located below the first 'TURN'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) turn to dust (B) collect dust (C) catch dust (D) dust settles\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "turn to dust"
+    }
+}

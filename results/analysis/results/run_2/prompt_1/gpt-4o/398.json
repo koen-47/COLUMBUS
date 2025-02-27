@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(A) head above water",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head above water (B) water over the dam (C) head and shoulders above (D) headwater",
+   "answer": {
+      "A": "head above water"
+   },
+   "extracted_response": "A"
+}

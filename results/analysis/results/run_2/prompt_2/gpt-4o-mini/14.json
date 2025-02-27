@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"BLOOD\" with arrows pointing up and down. This suggests a play on the word \"blood\" in relation to something new or fresh. \n\nThe correct answer is (B) new blood.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shed blood (B) new blood (C) young blood (D) after blood",
+   "answer": {
+      "D": "after blood"
+   },
+   "extracted_response": "B) new blood"
+}

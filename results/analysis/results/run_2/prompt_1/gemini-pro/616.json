@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts (B) lose face.  There are two faces looking intensely at a third face that is looking away and smaller, seemingly in shame. This represents losing face, or being humiliated in front of others.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give face (B) lose face (C) face to face (D) face down",
+   "answer": {
+      "C": "face to face"
+   },
+   "extracted_response": "B) lose face"
+}

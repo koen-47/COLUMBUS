@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) too big for one's boots**.\n\nThe image shows the word \"BIG\" next to a series of \"1111\"s, followed by two large boots. This visually represents someone having \"big\" boots, implying they are arrogant or overconfident \u2013 the meaning of the idiom \"too big for one's boots\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) too big for one's boots (B) kicking boots (C) fill one's boots (D) hang up one's boots",
+   "answer": {
+      "A": "too big for one's boots"
+   },
+   "extracted_response": "A) too big for one's boots"
+}

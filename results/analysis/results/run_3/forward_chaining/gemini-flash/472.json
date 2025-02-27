@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The solution to the rebus is **(C) live in the past**.\n\nThe text \"TI OG ME\" is a visual pun.  Rearranging the letters to \"TIME GO ME\" and reading it as a sentence yields \"Time go me\". This implies someone is stuck in the past, or living in the past.  This is the closest match amongst the given options.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'TIOGME' in uppercase letters.\",\n  \"relation\": \"This is the only item in the image.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) go back in time (B) time after time (C) live in the past (D) behind time\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "go back in time"
+    }
+}

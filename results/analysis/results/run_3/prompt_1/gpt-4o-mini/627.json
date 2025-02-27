@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) fire in anger.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) escape fire (B) fight fire with fire (C) fire in anger (D) draw fire",
+   "answer": {
+      "C": "fire in anger"
+   },
+   "extracted_response": "C"
+}

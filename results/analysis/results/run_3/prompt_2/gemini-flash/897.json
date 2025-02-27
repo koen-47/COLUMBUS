@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) storm in a teacup.\n\nThe image shows the words \"TEA\" and \"POT\" with a cloud and lightning bolt symbol in between.  The cloud and lightning bolt represent a storm. Thus, the image visually represents \"storm in a teacup\".  This is a common idiom that means a small issue is being blown out of proportion.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tempest in a teapot (B) chocolate teapot (C) storm in a teacup (D) teapot",
+   "answer": {
+      "A": "tempest in a teapot"
+   },
+   "extracted_response": "C"
+}

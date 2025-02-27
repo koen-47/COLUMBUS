@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"SET\" repeated four times vertically, and the word \"LIFE\" to the right of the sets.\n\n* **(A) set in ways**:  Doesn't match the visual representation. There's no indication of \"ways.\"\n* **(B) set to work**: Doesn't match the visual.  There's no \"to\" or \"work.\"\n* **(C) set for life**: This matches the arrangement. \"SET\" repeated several times followed by \"LIFE\" can be interpreted as \"SET for LIFE.\"\n* **(D) change of life**: Not consistent with the image. There is no \"change\" or \"of\".\n\nTherefore, the answer is (C) set for life.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"SET\",\n        \"description\": \"The word 'SET' written four times in a vertical column.\",\n        \"relation\": \"Left side of the image, aligned vertically.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"LIFE\",\n        \"description\": \"The word 'LIFE' written once.\",\n        \"relation\": \"To the right of the third 'SET' from the top.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) set in ways (B) set to work (C) set for life (D) change of life\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "set for life"
+    }
+}

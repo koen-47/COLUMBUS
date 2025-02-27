@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (B) all up.  The multiple up arrows suggest \"all\" are going up.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up for (B) all up (C) do up (D) up on",
+   "answer": {
+      "A": "up for"
+   },
+   "extracted_response": "B) all up"
+}

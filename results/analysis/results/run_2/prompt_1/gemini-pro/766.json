@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the words \"PUT\" and a picture of a fire within a square.  This conveys the phrase **(C) put out a fire**.  The square likely represents a designated place to extinguish or smother a small fire.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch fire (B) pull out of the fire (C) put out a fire (D) feed the fire",
+   "answer": {
+      "C": "put out a fire"
+   },
+   "extracted_response": "C) put out a fire"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(C) ten to one",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one at a time (B) nine times out of ten (C) ten to one (D) five will get you ten",
+   "answer": {
+      "C": "ten to one"
+   },
+   "extracted_response": "C"
+}

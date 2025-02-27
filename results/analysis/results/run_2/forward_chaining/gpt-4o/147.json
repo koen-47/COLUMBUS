@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"EYED\" in blue and the word \"BOY\" in black. This corresponds to the phrase \"blue eyed boy.\"\n\nThe correct answer is (D) blue eyed boy.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_eyed\",\n        \"description\": \"The word 'EYED' written in blue color.\",\n        \"relation\": \"next to text_boy\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"text_boy\",\n        \"description\": \"The word 'BOY' written in black color.\",\n        \"relation\": \"next to text_eyed\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) blue-eyed (B) baby blue (C) fair-haired boy (D) blue eyed boy\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "blue eyed boy"
+    }
+}

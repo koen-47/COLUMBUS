@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (B) castle in the air.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the air (B) castle in the air (C) king of the castle (D) castles in the air",
+   "answer": {
+      "D": "castles in the air"
+   },
+   "extracted_response": "B, D"
+}

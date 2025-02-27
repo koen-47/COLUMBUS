@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe JSON data describes the image perfectly.  It shows \"PO\" then a pig icon, then \"KE\".  When put together, this spells \"POKE\".\n\nTherefore, the answer is **(A) pig in a poke**.\n\nThe other options don't fit the visual representation in the image.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"PO\",\n    \"description\": \"The letters 'PO' in uppercase.\",\n    \"relation\": \"Placed to the left of the pig icon.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"Pig Icon\",\n    \"description\": \"An icon of a pig.\",\n    \"relation\": \"Placed between the letters 'PO' and 'KE'.\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"KE\",\n    \"description\": \"The letters 'KE' in uppercase.\",\n    \"relation\": \"Placed to the right of the pig icon.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) pig in a poke (B) in a pig's eye (C) wrestle with a pig (D) in a pig's patoot\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "pig in a poke"
+    }
+}

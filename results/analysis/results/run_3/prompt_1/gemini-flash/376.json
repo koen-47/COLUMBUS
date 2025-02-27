@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) writing on the wall.\n\nThe image shows the word \"HANDWRITING\" with a brick wall symbol underneath it, implying that the writing is on the wall.  While (A) is close, the image doesn't specify *hand*writing on the wall, only writing in general.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) handwriting on the wall (B) handwriting (C) writing on the wall (D) pen picture",
+   "answer": {
+      "A": "handwriting on the wall"
+   },
+   "extracted_response": "C) writing on the wall"
+}

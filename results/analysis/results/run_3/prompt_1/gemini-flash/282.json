@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(B) punch above one's weight**.\n\nThe image shows \"HIT\" over \"1111 WEIGHT\".  \"1111\" represents \"four times\" or \"many times\"  the weight.  Therefore, it implies hitting (or punching) above one's weight class.  The other options are incorrect as they would imply hitting below one's weight or similar actions.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hit below one's weight (B) punch above one's weight (C) hit above one's weight (D) punch below one's weight",
+   "answer": {
+      "C": "hit above one's weight"
+   },
+   "extracted_response": "B) punch above one's weight"
+}

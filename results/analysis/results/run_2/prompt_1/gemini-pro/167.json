@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"balls to the wall\" (D). The arrangement of the words \"BALLS\" and \"WALL\" mimics the literal meaning of the idiom, which means to go all out or at full speed.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grow some balls (B) bust one's balls (C) have someone by the balls (D) balls to the wall",
+   "answer": {
+      "D": "balls to the wall"
+   },
+   "extracted_response": "D"
+}

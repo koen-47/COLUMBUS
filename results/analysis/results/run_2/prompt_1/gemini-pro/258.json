@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"FINALE\".  This corresponds to option **(A) grand finale**. While \"finale\" is part of the phrase \"grand finale\", it is the closest single word option. The other options are not represented in the image.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grand finale (B) final cut (C) grandad (D) grand total",
+   "answer": {
+      "A": "grand finale"
+   },
+   "extracted_response": "A) grand finale"
+}

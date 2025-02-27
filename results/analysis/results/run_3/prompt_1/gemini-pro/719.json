@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (C) one at a time.\n\nThe arrows pointing towards and away from the \"1\" symbolize a single item being processed or moved.  This visual suggests a sequential action, taking things individually.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one after another (B) put one over (C) one at a time (D) one on one",
+   "answer": {
+      "A": "one after another"
+   },
+   "extracted_response": "C) one at a time"
+}

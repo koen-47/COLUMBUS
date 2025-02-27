@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"ELEPHANT\" written in pink uppercase letters. \n\nMapping to the answer choices:\n- (A) elephant in the room: No reference to \"room.\"\n- (B) pink elephant: The word \"ELEPHANT\" is in pink.\n- (C) baby elephant in the room: No reference to \"baby\" or \"room.\"\n- (D) white elephant: The word is pink, not white.\n\nThe correct answer is (B) pink elephant.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'ELEPHANT' written in pink uppercase letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) elephant in the room (B) pink elephant (C) baby elephant in the room (D) white elephant\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "pink elephant"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The text \"RBREAKUN\" can be interpreted as \"R BREAK UN\", or \"are break un\".  This sounds like \"our break-un\", which could be short for \"our break one\".\n\n\"Our break one\" can be interpreted as a \"take a run at\" something, meaning to attempt something, especially something difficult.\n\nThus, the answer is (D).\n\nThe other options don't fit the puzzle:\n* (A) break into a run: This implies starting to run, which doesn't match the rebus.\n* (B) run with:  This implies running alongside someone or something, which doesn't fit.\n* (C) run off: This implies running away, which isn't a match.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'RBREAKUN' is written in uppercase letters.\",\n  \"relation\": \"This is the only item in the image.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) break into a run (B) run with (C) run off (D) take a run at\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "break into a run"
+    }
+}

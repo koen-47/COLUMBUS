@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"RUN\" next to a rectangle containing the word \"STEAM.\" This setup suggests the phrase \"run out of steam,\" as \"RUN\" is outside of the rectangle containing \"STEAM.\"\n\nThe correct answer is (A) run out of steam.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_run\",\n        \"description\": \"The word 'RUN' in bold uppercase letters.\",\n        \"relation\": \"Located to the left of the rectangle.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"rectangle\",\n        \"description\": \"A rectangle with the word 'STEAM' inside it.\",\n        \"relation\": \"Located to the right of the word 'RUN'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) run out of steam (B) under one's own steam (C) head of steam (D) blow off steam\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "run out of steam"
+    }
+}

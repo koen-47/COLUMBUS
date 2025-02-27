@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (A) king of the hill.\n\nThe word \"HOUSE\" is over the word \"HILL\", so \"HOUSE over HILL\" can be interpreted as \"king of the hill\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) king of the hill (B) hill to die on (C) the big house on the hill (D) over the hill",
+   "answer": {
+      "C": "the big house on the hill"
+   },
+   "extracted_response": "A) king of the hill"
+}

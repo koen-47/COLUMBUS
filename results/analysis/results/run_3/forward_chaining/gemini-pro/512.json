@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"GO\" twice, one above the other. This represents \"GO\" repeated, or \"GO GO.\"\n\n* **(A) go towards:** Doesn't fit the repetition of \"GO.\"\n* **(B) go far:** While \"GO GO\" could imply going far, it's not a direct representation.\n* **(C) go places:** The repetition of \"GO\" suggests doing or being a lot, fitting the idiom \"go places,\" which means to be successful.\n* **(D) to go:**  Doesn't reflect the double \"GO\".\n\nTherefore, the answer is (C) go places.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"First GO\",\n        \"description\": \"The word 'GO' written in uppercase letters.\",\n        \"relation\": \"Positioned above the second 'GO'.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Second GO\",\n        \"description\": \"The word 'GO' written in uppercase letters.\",\n        \"relation\": \"Positioned below the first 'GO'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) go towards (B) go far (C) go places (D) to go\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "to go"
+    }
+}

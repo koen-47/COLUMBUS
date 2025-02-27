@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) come to life.\n\nThe rebus shows \"COME\" repeated twice, with \"LIFE\" next to it.  The graph description reinforces this: two \"COME\" nodes linked to one \"LIFE\" node. This visually and conceptually represents the phrase \"COME TO LIFE\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: COME, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: LIFE, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) get a life (B) come to (C) come to life (D) come alive",
+   "answer": {
+      "C": "come to life"
+   },
+   "extracted_response": "C) come to life"
+}

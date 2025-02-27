@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"knock on wood.\" The word \"KNOCK\" is present, and the image of a wooden object (the line) suggests the phrase. Therefore, the answer is (C) knock on wood.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock down (B) knock out (C) knock on wood (D) knock together",
+   "answer": {
+      "C": "knock on wood"
+   },
+   "extracted_response": "C) knock on wood"
+}

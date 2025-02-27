@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) run into a brick wall.\n\nThe image shows a person running towards a brick wall. This visually represents the idiom \"run into a brick wall,\" which means to encounter an unexpected and insurmountable obstacle.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) brick in (B) drop a brick (C) run into a brick wall (D) talk to a brick wall",
+   "answer": {
+      "C": "run into a brick wall"
+   },
+   "extracted_response": "C, run into a brick wall"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(A) fly too close to the sun**.\n\nThe image shows the words \"FLY CLOSE\" repeated, with \"SUN\" positioned to the right, creating the phrase \"FLY CLOSE TO THE SUN\".  While not explicitly stating \"too\", the implication of danger or risk inherent in the idiom points towards this being the best fit.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly too close to the sun (B) a trip to the sun (C) fly low (D) catch the sun",
+   "answer": {
+      "A": "fly too close to the sun"
+   },
+   "extracted_response": "A) fly too close to the sun"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"**C) at the receiving end**\". The word \"RECEIVING\" combined with the downward arrow visually represents something being received. \"At the receiving end\" is the idiom that describes the position of someone receiving something, often criticism or the negative consequences of an action.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on the receiving end (B) from beginning to end (C) at the receiving end (D) at loose ends",
+   "answer": {
+      "C": "at the receiving end"
+   },
+   "extracted_response": "C"
+}

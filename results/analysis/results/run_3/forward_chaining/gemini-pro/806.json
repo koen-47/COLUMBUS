@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The stick figure is running and is to the left of the word \"STEAM\". This implies \"running\" before \"steam.\" This maps to the phrase \"run out of steam\". Thus, the answer is (C).\nHere's a breakdown mapping the other options:\n(A) head of steam: The image doesn't show the figure ahead of the text.\n(B) blow off steam: The image doesn't depict the figure blowing anything.\n(D) under one's own steam: The image doesn't provide any context of \"under.\"",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"running_stick_figure\",\n  \"description\": \"A small stick figure running towards the right.\",\n  \"relation\": \"left of the text box\"\n}\n```\n\n```json\n{\n  \"id\": \"item2\",\n  \"name\": \"text_box\",\n  \"description\": \"A rectangular box containing the word 'STEAM'.\",\n  \"relation\": \"right of the running stick figure\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) head of steam (B) blow off steam (C) run out of steam (D) under one's own steam\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "run out of steam"
+    }
+}

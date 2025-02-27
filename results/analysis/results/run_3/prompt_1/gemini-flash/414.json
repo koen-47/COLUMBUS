@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) cry in one's beer.\n\nThe image shows \"1111CRYBEER\".  The \"1111\" can be interpreted as \"one one one one\", which sounds like \"one in one's\".  Therefore, the phrase becomes \"one in one's cry beer\", which is a play on the idiom \"cry in one's beer\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cry someone a river (B) cry in one's beer (C) small beer (D) cry one's eyes out",
+   "answer": {
+      "B": "cry in one's beer"
+   },
+   "extracted_response": "B) cry in one's beer"
+}

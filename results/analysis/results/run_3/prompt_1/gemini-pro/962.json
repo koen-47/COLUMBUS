@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (A) all ears.\n\nThe two arrows pointing up, combined with \"1111\" and \"EARS\", represent \"all ears.\"  The arrows symbolize raising or perking up one's ears to listen intently.  This visually represents the idiom \"all ears\", which means listening attentively.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) all ears (B) believe one's ears (C) up to one's ears (D) up on one's ear",
+   "answer": {
+      "C": "up to one's ears"
+   },
+   "extracted_response": "A) all ears"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(C) notch on one's bedpost**.\n\nThe image is a visual representation of the idiom.  The \"1111\" under \"bedpost\" represents notches.  The phrase refers to making a notch on a bedpost to mark a sexual encounter.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bedposts (B) bedpost (C) notch on one's bedpost (D) take down a notch",
+   "answer": {
+      "C": "notch on one's bedpost"
+   },
+   "extracted_response": "C) notch on one's bedpost"
+}

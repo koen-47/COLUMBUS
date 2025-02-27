@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"put food on the table.\" The word \"put\" is directly above \"table,\" and the icon of food (represented by the smiley face with a fork and knife) suggests food. Therefore, the correct answer is (B) put food on the table.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put one's cards on the table (B) put food on the table (C) put cards on the table (D) hold the cards",
+   "answer": {
+      "C": "put cards on the table"
+   },
+   "extracted_response": "B) put food on the table"
+}

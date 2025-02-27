@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"a drop in the ocean.\" Therefore, the correct answer is (B) a drop in the ocean.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop in the ocean (B) a drop in the ocean (C) cross the ocean (D) motion of someone's ocean",
+   "answer": {
+      "C": "cross the ocean"
+   },
+   "extracted_response": "B) a drop in the ocean"
+}

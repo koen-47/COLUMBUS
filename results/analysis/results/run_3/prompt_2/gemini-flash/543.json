@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(B) from start to finish**.\n\nThe downward arrow represents the start, \"FROM\" indicates the transition, and the upward arrow represents the finish, \"FINISH\".  The repetition of \"FINISH\" emphasizes the completion of the process.  Therefore, the image conveys the idea of going \"from start to finish\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) begin at the beginning (B) from start to finish (C) from beginning to end (D) from scratch",
+   "answer": {
+      "B": "from start to finish"
+   },
+   "extracted_response": "B) from start to finish"
+}

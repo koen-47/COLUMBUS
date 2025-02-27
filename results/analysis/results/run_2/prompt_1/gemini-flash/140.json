@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) cross one's legs.\n\nThe image shows four lines (\"1111\") crossed by a horizontal line. This visually represents legs crossed at the knees.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) open one's legs (B) have legs (C) cross one's legs (D) on one's last legs",
+   "answer": {
+      "C": "cross one's legs"
+   },
+   "extracted_response": "C) cross one's legs"
+}

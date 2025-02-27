@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"GRO\" followed by a person running and then \"UND.\" This suggests the phrase \"hit the ground running,\" as the person is running into the word \"ground.\"\n\nThe correct answer is (D) hit the ground running.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to ground (B) run into the ground (C) put in the ground (D) hit the ground running",
+   "answer": {
+      "B": "run into the ground"
+   },
+   "extracted_response": "D) hit the ground running"
+}

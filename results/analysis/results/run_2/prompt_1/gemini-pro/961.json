@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"**up to here**\" (C).  The doubled word \"UP\" visually reinforces the feeling of being overwhelmed or fed up, emphasizing the \"up to\" part of the idiom.  The word \"HERE\" indicates a limit, usually near the head, signifying frustration or exasperation.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to something (B) put up to (C) up to here (D) up for",
+   "answer": {
+      "C": "up to here"
+   },
+   "extracted_response": "C"
+}

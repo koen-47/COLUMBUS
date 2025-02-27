@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"AIR\" with an upward arrow below the letter \"I\". This suggests the phrase \"up in the air.\"\n\nThe correct answer is (B) up in the air.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_AIR\",\n        \"description\": \"The word 'AIR' written in capital letters.\",\n        \"relation\": \"center of the image\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"upward_arrow\",\n        \"description\": \"An arrow pointing upwards.\",\n        \"relation\": \"below the letter 'I' in 'AIR'\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) up in arms (B) up in the air (C) beat the air (D) in the air\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "up in the air"
+    }
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) two left feet.\n\nThe image shows \"FEET\" with two left-pointing arrows before it.  This represents \"two left feet\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at one's feet (B) two left feet (C) feet first (D) two left hands",
+   "answer": {
+      "B": "two left feet"
+   },
+   "extracted_response": "B) two left feet"
+}

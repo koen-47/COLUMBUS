@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (A) **speak up**.\n\nThe image shows the word \"SPEAK\" next to a symbol representing a reciprocal action or exchange.  \"Speak up\" implies to speak more loudly or clearly, to be more assertive in one's communication.  The circular arrows suggest a back-and-forth communication, which is consistent with the notion of making oneself heard.  The other options relate to speaking inappropriately or at the wrong time, which doesn't align with the image's symbolism.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak out of turn (D) talk out of turn",
+   "answer": {
+      "C": "speak out of turn"
+   },
+   "extracted_response": "A) speak up"
+}

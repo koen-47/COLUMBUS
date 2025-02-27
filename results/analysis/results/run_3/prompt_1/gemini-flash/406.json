@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) shimmy on down.  The image shows the words \"SHIMMY\" and \"DOWN\" with a line separating them, visually representing the phrase \"shimmy down\".  While \"shimmy on down\" is more colloquial and idiomatic, it's the closest match among the options.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) face down (B) shimmy on down (C) hunker down (D) down at heel",
+   "answer": {
+      "B": "shimmy on down"
+   },
+   "extracted_response": "B"
+}

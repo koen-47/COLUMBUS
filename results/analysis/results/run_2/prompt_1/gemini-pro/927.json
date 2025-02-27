@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the word \"NRUT,\" which is \"TURN\" spelled backward.  Therefore, the answer is **(B) turn back**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn over (B) turn back (C) turn down (D) turn back on",
+   "answer": {
+      "B": "turn back"
+   },
+   "extracted_response": "B) turn back"
+}

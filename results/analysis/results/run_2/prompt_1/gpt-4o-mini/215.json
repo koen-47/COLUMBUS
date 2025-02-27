@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The phrase conveyed in the image is (B) bring to light.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give a light (B) bring to light (C) come to light (D) make a light",
+   "answer": {
+      "B": "bring to light"
+   },
+   "extracted_response": "B) bring to light"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The best answer is (D) nighttime.\n\nThe image shows a cityscape at night, with a moon and stars visible.  The arrows suggest a focus or direction towards the nighttime scene.  While (C) night out is possible, it's less precise than nighttime, which encompasses the whole concept of the image.  The other options are not directly represented.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bank night (B) middle of the night (C) night out (D) nighttime",
+   "answer": {
+      "B": "middle of the night"
+   },
+   "extracted_response": "D) nighttime"
+}

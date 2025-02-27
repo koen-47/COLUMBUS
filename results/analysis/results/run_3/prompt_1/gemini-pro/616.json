@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys **(B) lose face**.  Two faces are grouped together, while one is separated and appears smaller, suggesting it has been ostracized or excluded, a common visual metaphor for losing face.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give face (B) lose face (C) face to face (D) face down",
+   "answer": {
+      "C": "face to face"
+   },
+   "extracted_response": "B) lose face"
+}

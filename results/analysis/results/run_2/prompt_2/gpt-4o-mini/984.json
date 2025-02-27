@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"WATER\" above and below the number \"1111\" and the word \"MILL.\" The repetition of \"WATER\" suggests a connection to the phrase \"water to one's mill,\" which means to benefit oneself or gain an advantage.\n\nTherefore, the correct answer is (D) water to one's mill.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) trouble at mill (B) millwork (C) go through the mill (D) water to one's mill",
+   "answer": {
+      "D": "water to one's mill"
+   },
+   "extracted_response": "D) water to one's mill"
+}

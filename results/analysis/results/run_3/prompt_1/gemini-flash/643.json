@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(C) crowning glory**.\n\nThe letters in \"CRJEWELOWN\" can be rearranged to form \"Jewel in the crown\".  \"Jewel in the crown\" is a common idiom meaning something of great value or importance.  \"Crowning glory\" is a similar idiom.  The other options are not as directly related to the jumbled letters.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) necklace (B) jewel in the crown (C) crowning glory (D) crownwork",
+   "answer": {
+      "B": "jewel in the crown"
+   },
+   "extracted_response": "C) crowning glory"
+}

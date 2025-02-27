@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) turn in one's grave.\n\nThe four \"1\"s represent the word \"one,\" so the entire phrase reads \"one one one one TURN GRAVE,\" which can be interpreted as \"turn in one's grave\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's own grave (B) take someone to the grave (C) turn in one's grave (D) take to the grave",
+   "answer": {
+      "C": "turn in one's grave"
+   },
+   "extracted_response": "C) turn in one's grave"
+}

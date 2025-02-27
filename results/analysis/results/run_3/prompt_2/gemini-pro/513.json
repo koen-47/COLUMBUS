@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows the word \"HELL\" between \"HANDB\" and \"ASKET\".  This represents \"going to hell in a handbasket.\"\n\nSo the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to hell (B) raise hell (C) to hell in a handbasket (D) handbasket",
+   "answer": {
+      "C": "to hell in a handbasket"
+   },
+   "extracted_response": "C) to hell in a handbasket"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (A) run to earth.\n\nThe words \"RUN\" and \"EARTH\" are arranged in a way that suggests the phrase \"run to earth\".  The word \"RUN\" appears above and below the word \"EARTH,\" indicating that something is running toward or onto the earth.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to earth (B) come down to earth (C) run into the ground (D) run to",
+   "answer": {
+      "A": "run to earth"
+   },
+   "extracted_response": "A"
+}

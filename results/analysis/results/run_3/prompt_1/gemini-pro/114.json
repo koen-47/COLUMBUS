@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys **(C) ring a bell**.  The picture of a bell with the word \"RINGS\" clearly refers to the act of a bell ringing.  The arrows likely depict the clapper moving back and forth to produce the sound. The other options involve idiomatic uses of \"ring a bell\" which are not directly represented by this simple image.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before the bell rings (B) ring someone's bell (C) ring a bell (D) saved by the bell",
+   "answer": {
+      "A": "before the bell rings"
+   },
+   "extracted_response": "C"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows \"2\" with a line through it (crossed out), then the word \"TAKE,\" then an upwards arrow.  This conveys **(D) cross off**.  The image is a visual representation of crossing off item number 2 from a list and moving up to the next item.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross out (D) cross off",
+   "answer": {
+      "B": "cross to take up"
+   },
+   "extracted_response": "D) cross off"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **eyes on the prize**.\n\nThe image shows the Roman numeral for 3 (III) above a trophy, implying that focus should be maintained on the goal (the prize) to achieve a third place ranking or something similar.  This aligns perfectly with the idiom \"eyes on the prize,\" which means to stay focused on the main objective.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) eyes on the prize (C) booby prize (D) prizefight",
+   "answer": {
+      "B": "eyes on the prize"
+   },
+   "extracted_response": "B) eyes on the prize"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows one fish and the word \"fry\" written twice.  This suggests the idiom **(C) have other fish to fry**.  This idiom means having other, more important things to do.  The other options don't fit as well:\n\n* **(A) fish to fry:**  While literally true, it doesn't capture the idiomatic meaning.\n* **(B) bigger fish to fry:** The image doesn't convey size differences, suggesting bigger or more important tasks.\n* **(D) big fish:**  This just refers to an important person, which isn't relevant to the image.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish to fry (B) bigger fish to fry (C) have other fish to fry (D) big fish",
+   "answer": {
+      "B": "bigger fish to fry"
+   },
+   "extracted_response": "C) have other fish to fry"
+}

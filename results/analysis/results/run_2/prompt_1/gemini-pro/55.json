@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows \"1111\" with arrows pointing to it, then \"IIII\". This represents changing 1111 (one thousand one hundred and eleven) to IIII (four), which is \"before one's eyes\".  Thus, the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's time (B) before one's eyes (C) under one's very eyes (D) before someone's time",
+   "answer": {
+      "B": "before one's eyes"
+   },
+   "extracted_response": "B) before one's eyes"
+}

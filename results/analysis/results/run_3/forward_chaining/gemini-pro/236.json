@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"HEAD\" over \"HEAD\", which signifies \"head over\", followed by \"TOE\". Combining these gives \"head over toe\". Since the word choices are formatted differently, the answer corresponds to (D) head to toe.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"HEAD\",\n        \"description\": \"The word 'HEAD' written in uppercase letters.\",\n        \"relation\": \"item2\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"HEAD\",\n        \"description\": \"The word 'HEAD' written in uppercase letters, positioned below the first 'HEAD'.\",\n        \"relation\": \"item1\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"TOE\",\n        \"description\": \"The word 'TOE' written in uppercase letters, positioned to the right of the second 'HEAD'.\",\n        \"relation\": \"item2\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) head over heels (B) toe the line (C) lose head (D) head to toe\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "head to toe"
+    }
+}

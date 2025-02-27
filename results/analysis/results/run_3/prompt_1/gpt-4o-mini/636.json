@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) put a bug in someone's ear.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) earworm (B) not hurt a fly or flea (C) put a bug in someone's ear (D) flea in one's ear",
+   "answer": {
+      "D": "flea in one's ear"
+   },
+   "extracted_response": "C"
+}

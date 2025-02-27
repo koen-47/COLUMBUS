@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys **(D) bee in bonnet**.\n\nThe image shows the words \"BON\" and \"NET\" with a bee image between them, visually representing the phrase \"bee in bonnet\".  While (A) has the correct idiom, the image clearly emphasizes the single word version. Options (B) and (C) are incorrect phrases related to bees.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bee in one's bonnet (B) put the bee on (C) queen bee (D) bee in bonnet",
+   "answer": {
+      "D": "bee in bonnet"
+   },
+   "extracted_response": "D) bee in bonnet"
+}

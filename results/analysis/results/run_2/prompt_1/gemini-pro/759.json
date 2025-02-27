@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows a playing card followed by the words \"PUT\" and \"TABLE.\"  This represents (C) put cards on the table.\n\nOption (A) \"put one's cards on the table\" has a figurative meaning: to be open and honest, revealing one's intentions or opinions.  While the image *could* be interpreted this way, the literal depiction of putting a card on a table makes (C) the more direct and therefore better answer.\n\n(B) is incorrect; the image doesn't show food.\n(D) is incorrect; the image clearly indicates putting something *on* the table.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put one's cards on the table (B) put food on the table (C) put cards on the table (D) hold the cards",
+   "answer": {
+      "C": "put cards on the table"
+   },
+   "extracted_response": "C) put cards on the table"
+}

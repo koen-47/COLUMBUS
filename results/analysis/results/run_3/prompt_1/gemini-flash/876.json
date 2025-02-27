@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (A) **step up to the plate**.\n\nThe image shows the word \"STEP\" followed by an upward arrow and then two images of plates and cutlery, implying a progression or improvement.  \"Step up to the plate\" is an idiom meaning to take on a challenge or responsibility.  The other options don't fit the visual representation as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step up to the plate (B) step down (C) step up your game (D) step up",
+   "answer": {
+      "A": "step up to the plate"
+   },
+   "extracted_response": "A) step up to the plate"
+}

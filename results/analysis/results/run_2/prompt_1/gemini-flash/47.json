@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The best answer is (B) **weather the storm**.\n\nThe image shows a storm cloud with arrows indicating both upward and downward pressure.  This visually represents the idea of enduring or overcoming a difficult situation, which is the meaning of \"weather the storm\".  The other options don't fit the visual representation as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) after the storm (B) weather the storm (C) storm off (D) perfect storm",
+   "answer": {
+      "A": "after the storm"
+   },
+   "extracted_response": "B) weather the storm"
+}

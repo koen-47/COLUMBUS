@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"somewhere over the rainbow.\" The word \"somewhere\" is positioned above \"rainbow,\" indicating the phrase. \n\nSo the answer is (C) somewhere over the rainbow.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rainbow baby (B) end of the rainbow (C) somewhere over the rainbow (D) rainbow",
+   "answer": {
+      "C": "somewhere over the rainbow"
+   },
+   "extracted_response": "C) somewhere over the rainbow"
+}

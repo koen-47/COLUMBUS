@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) to high heaven.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high up (B) to high heaven (C) high summer (D) get high",
+   "answer": {
+      "B": "to high heaven"
+   },
+   "extracted_response": "B"
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"JEWEL\" between two crown icons. This corresponds to the phrase \"jewel in the crown.\"\n\nThe correct answer is (C) jewel in the crown.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"left_crown\",\n    \"description\": \"A black crown icon with three points and small circles at the tips.\",\n    \"relation\": \"left of the text 'JEWEL'\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"text_jewel\",\n    \"description\": \"The word 'JEWEL' written in black, uppercase letters.\",\n    \"relation\": \"between the two crown icons\"\n  },\n  {\n    \"id\": \"item3\",\n    \"name\": \"right_crown\",\n    \"description\": \"A black crown icon with three points and small circles at the tips.\",\n    \"relation\": \"right of the text 'JEWEL'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) crowning glory (B) necklace (C) jewel in the crown (D) crownwork\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "jewel in the crown"
+    }
+}

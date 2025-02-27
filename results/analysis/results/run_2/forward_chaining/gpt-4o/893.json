@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the words \"TAKE\" and \"GRAVE\" arranged with \"TAKE\" on the left and \"GRAVE\" to the right, and another \"TAKE\" below the first one. This arrangement suggests the phrase \"take to the grave.\"\n\nTherefore, the answer is (B) take to the grave.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"1\",\n    \"name\": \"text_take\",\n    \"description\": \"The word 'TAKE' written in uppercase letters.\",\n    \"relation\": \"Located at the top left of the image.\"\n}\n```\n\n```json\n{\n    \"id\": \"2\",\n    \"name\": \"text_grave\",\n    \"description\": \"The word 'GRAVE' written in uppercase letters.\",\n    \"relation\": \"Located to the right of the word 'TAKE'.\"\n}\n```\n\n```json\n{\n    \"id\": \"3\",\n    \"name\": \"text_take_2\",\n    \"description\": \"The word 'TAKE' written in uppercase letters.\",\n    \"relation\": \"Located below the first 'TAKE'.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) dig one's own grave (B) take to the grave (C) take someone to the grave (D) turn in one's grave\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "take to the grave"
+    }
+}

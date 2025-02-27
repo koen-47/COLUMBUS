@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows the word \"SECTION\" with arrows pointing above and below it. This signifies *two* mid-sections. Therefore, the answer is (A) midsections.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midsections (B) midbrain (C) midsection (D) midribs",
+   "answer": {
+      "A": "midsections"
+   },
+   "extracted_response": "A) midsections"
+}

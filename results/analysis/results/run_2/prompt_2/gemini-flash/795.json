@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) run in the family.\n\nThe word \"FAMRUNILY\" is a combination of \"family\" and \"run\".  The \"run\" is placed within the \"family\", visually representing the phrase \"run in the family\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for one's life (B) run with (C) run in the family (D) start a family",
+   "answer": {
+      "C": "run in the family"
+   },
+   "extracted_response": "C) run in the family"
+}

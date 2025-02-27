@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe JSON describes the image as four instances of the word \"PAR\" vertically stacked, with the word \"COURSE\" to the right of the third \"PAR\". This arrangement visually represents the phrase \"PAR for the COURSE\".\n\nTherefore, the answer is (B) par for the course.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Text PAR\",\n        \"description\": \"The word 'PAR' written four times in a vertical line.\",\n        \"relation\": \"Left side of the image, aligned vertically.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Text COURSE\",\n        \"description\": \"The word 'COURSE' written once.\",\n        \"relation\": \"To the right of the third 'PAR'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) pare down (B) par for the course (C) below par (D) due course\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "par for the course"
+    }
+}

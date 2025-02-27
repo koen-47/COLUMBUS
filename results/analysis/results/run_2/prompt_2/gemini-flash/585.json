@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) drop in the pond.\n\nThe word \"DROP\" is placed inside the word \"POND\".  This visually represents a drop in a pond.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop in the sea (B) drop in the bucket (C) drop in the pond (D) drop in the ocean",
+   "answer": {
+      "C": "drop in the pond"
+   },
+   "extracted_response": "C) drop in the pond"
+}

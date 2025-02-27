@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows \"EB\" next to a picture of an envelope. This translates to \"E-B-MAIL,\" which sounds like \"email.\" The closest option is (B) in the post.\nSo the answer is (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) far post (B) in the post (C) be left at the post (D) near post",
+   "answer": {
+      "C": "be left at the post"
+   },
+   "extracted_response": "B) in the post"
+}

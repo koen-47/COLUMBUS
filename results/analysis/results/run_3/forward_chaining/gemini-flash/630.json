@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"BEFIRELLY\".  This can be interpreted as \"Before I really\".\n\nLet's look at the options:\n\n* **(A) line of fire:** This doesn't relate to \"before I really\".\n* **(B) pull out of the fire:** This doesn't relate to \"before I really\".\n* **(C) draw fire:** This doesn't relate to \"before I really\".\n* **(D) fire in the belly:** This doesn't relate to \"before I really\".\n\n\nNone of the provided options directly match the rebus.  The rebus is a word puzzle, so an interpretation is needed.  The closest interpretation is that \"BEFIRELLY\" sounds like \"Before I really\"\n\n\nTherefore, none of the options (A, B, C, or D) are correct.  The rebus solves to **Before I really**.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_befirelly\",\n  \"description\": \"The text 'BEFIRELLY' is written in bold, uppercase letters.\",\n  \"relation\": \"centered in the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) line of fire (B) pull out of the fire (C) draw fire (D) fire in the belly\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "fire in the belly"
+    }
+}

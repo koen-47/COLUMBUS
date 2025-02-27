@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **bring to light**.\n\nThe image shows the words \"BRING\" and \"LIGHT\" arranged in a way that visually represents the phrase \"bring to light\".  The word \"LIGHT\" is positioned to suggest it is being \"brought\" by the two instances of the word \"BRING\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give a light (B) bring to light (C) come to light (D) make a light",
+   "answer": {
+      "B": "bring to light"
+   },
+   "extracted_response": "B) bring to light"
+}

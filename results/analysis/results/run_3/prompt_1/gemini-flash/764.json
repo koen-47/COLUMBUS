@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **put on the red light**.\n\nThe image shows the word \"PUT\" with a red lightbulb underneath.  This visually represents the act of \"putting on\" a red light.  The other options don't fit the visual representation as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red light (B) put on the red light (C) put someone's lights out (D) run a red light",
+   "answer": {
+      "B": "put on the red light"
+   },
+   "extracted_response": "B) put on the red light"
+}

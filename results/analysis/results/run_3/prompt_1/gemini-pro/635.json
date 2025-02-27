@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"Flea in one's ear\" (B).  It literally shows the word \"flea\" and a picture of an ear.  While \"put a bug in someone's ear\" is similar, the specific wording and image point to \"flea in one's ear\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a bug in someone's ear (B) flea in one's ear (C) earworm (D) not hurt a fly or flea",
+   "answer": {
+      "B": "flea in one's ear"
+   },
+   "extracted_response": "B"
+}

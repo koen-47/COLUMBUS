@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (D) bone in the throat.  The words \"THR\" and \"OAT\" are separated by a picture of a bone, visually creating the phrase \"throat bone\".  This is a rebus puzzle.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) lump in one's throat (B) funny bone (C) bone in her teeth (D) bone in the throat",
+   "answer": {
+      "D": "bone in the throat"
+   },
+   "extracted_response": "D) bone in the throat"
+}

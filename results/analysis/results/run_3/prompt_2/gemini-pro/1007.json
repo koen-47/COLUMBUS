@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle \"STWRITTENARS\" represents \"written in the stars\". The word \"written\" is inside the word \"stars\". Thus, the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stars in one's eyes (B) see stars (C) written in the stars (D) stars align",
+   "answer": {
+      "C": "written in the stars"
+   },
+   "extracted_response": "C) written in the stars"
+}

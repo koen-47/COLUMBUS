@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(C) blow someone's mind**.\n\nHere's why:\n\nThe image shows the letters \"W\", \"O\", \"L\", \"B\" arranged in a cross shape.  The number \"1111\" is next to the \"O\" and \"L\".  The emoticon has a surprised look.\n\nThis is a visual representation of the phrase \"1111 blows your mind\" implying a shocking or surprising event and this is similar to the meaning of \"blow someone's mind.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow over (B) blow up in one's face (C) blow someone's mind (D) body blow",
+   "answer": {
+      "B": "blow up in one's face"
+   },
+   "extracted_response": "C) blow someone's mind"
+}

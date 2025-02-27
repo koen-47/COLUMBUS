@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) painful on the eyes.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) sight for sore eyes (B) easy on the eye (C) painful on the eyes (D) hard on the eyes",
+   "answer": {
+      "C": "painful on the eyes"
+   },
+   "extracted_response": "C) painful on the eyes"
+}

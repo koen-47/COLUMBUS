@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the idiom \"see eye to eye\" (D).  \"See\" and \"I\" (eye) are written, and two eyes are pictured.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) catch the eye (C) catch someone's eye (D) see eye to eye",
+   "answer": {
+      "D": "see eye to eye"
+   },
+   "extracted_response": "D"
+}

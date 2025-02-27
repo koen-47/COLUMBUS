@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(C) blue state",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) yellow state (B) green state (C) blue state (D) bluebill",
+   "answer": {
+      "C": "blue state"
+   },
+   "extracted_response": "C) blue state"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) stands to reason.\n\nThe rebus shows the word \"STAND\" above and below the word \"REASON\".  This visually represents \"STANDS TO REASON\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stand by (B) stand to reason (C) stand up (D) stands to reason",
+   "answer": {
+      "B": "stand to reason"
+   },
+   "extracted_response": "D) stands to reason"
+}

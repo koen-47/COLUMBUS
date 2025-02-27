@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle represents \"turn up the book\". The circular arrow implies \"turn\", the upward arrow implies \"up\", and the word \"BOOK\" written multiple times indicates looking in a \"book\". Hence, the correct answer is (B) turn up.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn up for the book (B) turn up (C) throw the book at (D) write the book",
+   "answer": {
+      "A": "turn up for the book"
+   },
+   "extracted_response": "B) turn up"
+}

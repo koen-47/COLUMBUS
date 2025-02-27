@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains the following elements:\n\n1. The letters \"BO\" on the left.\n2. A bird icon in the middle.\n3. The letters \"SOM\" on the right.\n\nMapping these elements to the answer choices:\n\n- (A) bird in the bosom: This matches the elements, as the bird is placed between \"BO\" and \"SOM,\" forming \"BOSOM.\"\n\nThe correct answer is (A) bird in the bosom.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_BO\",\n        \"description\": \"The letters 'BO' in uppercase.\",\n        \"relation\": \"Placed to the left of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"icon_bird\",\n        \"description\": \"A small bird icon.\",\n        \"relation\": \"Placed between the letters 'BO' and 'SOM'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"text_SOM\",\n        \"description\": \"The letters 'SOM' in uppercase.\",\n        \"relation\": \"Placed to the right of the bird icon.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) bird in the bosom (B) bird of passage (C) ghetto bird (D) early bird\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "bird in the bosom"
+    }
+}

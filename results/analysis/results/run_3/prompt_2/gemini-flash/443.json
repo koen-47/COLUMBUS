@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(D) dog eat dog**.\n\nThe word \"DOG\" is hidden inside the word \"HUNT\".  This represents the phrase \"dog in the hunt\", but with the \"in the\" removed. The remaining letters \"HUNT\" creates a play on words because \"hunt\" implies chasing and fighting for resources, representing the \"dog eat dog\" phrase.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snipe hunt (B) dog in the hunt (C) dog around (D) dog eat dog",
+   "answer": {
+      "B": "dog in the hunt"
+   },
+   "extracted_response": "D) dog eat dog"
+}

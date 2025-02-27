@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(C) hear on the grapevine** or **(D) hear through the grapevine**.\n\nThe image uses a visual pun.  The image of a carabiner (a climbing hook) is visually similar to an ear.  The word \"grapevine\" is below, suggesting the phrase \"hear on/through the grapevine,\" which means to hear rumors or gossip.  Options A and B are incorrect because they don't convey the act of hearing information through gossip.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grapevine (B) grapevines (C) hear on the grapevine (D) hear through the grapevine",
+   "answer": {
+      "C": "hear on the grapevine"
+   },
+   "extracted_response": "C) hear on the grapevine, D) hear through the grapevine"
+}

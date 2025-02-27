@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) down on one's luck.\n\nThe image shows \"DOWN\" above a line, and \"1111 LUCK\" below the line.  This visually represents being \"down on one's luck\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) ride one's luck (B) cross fingers for luck (C) down on one's luck (D) push one's luck",
+   "answer": {
+      "C": "down on one's luck"
+   },
+   "extracted_response": "C) down on one's luck"
+}

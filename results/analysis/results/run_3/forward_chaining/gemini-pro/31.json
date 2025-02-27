@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows the word \"SHOCK\" with arrows pointing towards and away from it.  Specifically:\n\n* **SHOCK** with down and up arrows relates to *after* SHOCK.\nTherefore the answer is (C) aftershock.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"Text\",\n    \"description\": \"The word 'SHOCK' written in uppercase letters.\",\n    \"relation\": \"Located above the first set of arrows and below the second set of arrows.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"Arrows\",\n    \"description\": \"Two arrows, one pointing up and one pointing down, located above the first instance of the word 'SHOCK'.\",\n    \"relation\": \"Located above the first instance of the word 'SHOCK'.\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"Arrows\",\n    \"description\": \"Two arrows, one pointing down and one pointing up, located below the second instance of the word 'SHOCK'.\",\n    \"relation\": \"Located below the second instance of the word 'SHOCK'.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) snowshoes (B) snowshoe (C) aftershock (D) aftershocks\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "aftershocks"
+    }
+}

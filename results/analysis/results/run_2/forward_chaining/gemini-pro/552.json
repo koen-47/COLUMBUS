@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows four \"IT\"s with \"WHAT'S ME\" inserted within the \"IT\"s. This visually represents the phrase \"What's in it for me?\"\n\n* **JSON 1:** Describes the four \"IT\"s, corresponding to the \"it\" in the answer choices.\n* **JSON 2:** Describes the placement of \"WHAT'S ME\" which becomes \"What's in it for me\"\n\nTherefore, the answer is (D).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"1\",\n    \"name\": \"Text IT\",\n    \"description\": \"The word 'IT' repeated four times, each on a separate line.\",\n    \"relation\": \"Located at the top, middle, and bottom of the image.\"\n}\n```\n\n```json\n{\n    \"id\": \"2\",\n    \"name\": \"Text WHAT'S ME\",\n    \"description\": \"The phrase 'WHAT'S ME' is placed between the third and fourth 'IT'.\",\n    \"relation\": \"Located between the third and fourth 'IT'.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) nothing for it (B) in for it (C) what's it to you (D) what's in it for me\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "what's in it for me"
+    }
+}

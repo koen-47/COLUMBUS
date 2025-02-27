@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"STALL\" repeated multiple times, along with a clock icon. This suggests the phrase \"stall for time.\" \n\nSo, the correct answer is (A) stall for time.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stall for time (B) lockout (C) pressed for time (D) waiting time",
+   "answer": {
+      "A": "stall for time"
+   },
+   "extracted_response": "A) stall for time"
+}

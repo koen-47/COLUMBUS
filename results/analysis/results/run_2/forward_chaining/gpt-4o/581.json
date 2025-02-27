@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"DRESSED\" twice and the number \"999\" in between. The phrase \"dressed to the nines\" is a common expression meaning to be dressed very elegantly or fashionably. The number \"999\" can be interpreted as \"nines.\"\n\nTherefore, the correct answer is:\n\n(C) dressed to the nines",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Text DRESSED\",\n        \"description\": \"The word 'DRESSED' written in uppercase letters.\",\n        \"relation\": \"Top left of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Number 999\",\n        \"description\": \"The number '999' written in digits.\",\n        \"relation\": \"To the right of the top 'DRESSED'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"Text DRESSED\",\n        \"description\": \"The word 'DRESSED' written in uppercase letters.\",\n        \"relation\": \"Below the top 'DRESSED' and '999'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) to the nines (B) nightmare dressed like a daydream (C) dressed to the nines (D) dressed to kill\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "dressed to the nines"
+    }
+}

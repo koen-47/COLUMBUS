@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle \"ACASTLEIR\" represents \"A CASTLE IN THE AIR\".  The word \"CASTLE\" is present, and the letters \"I R\" at the end represent \"IN THE AIR\".  Therefore, the correct answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) castle in the air (B) king of the castle (C) in the air (D) castles in the air",
+   "answer": {
+      "A": "castle in the air"
+   },
+   "extracted_response": "A"
+}

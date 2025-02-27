@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle says \"PILS\" between two \"OLD\"s and adjacent to \"WAYS\". This translates to \"OLD PILS OLD WAYS\", which sounds like \"Old pills, old ways\".  This makes the closest intended meaning (B) slip back to old ways.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) old habits die hard (B) slip back to old ways (C) parting of the ways (D) roll back the years",
+   "answer": {
+      "B": "slip back to old ways"
+   },
+   "extracted_response": "B) slip back to old ways"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows \"HIT\" over \"1111 WEIGHT\".  This represents \"hit above one's weight\".\n\nSo the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hit below one's weight (B) punch above one's weight (C) hit above one's weight (D) punch below one's weight",
+   "answer": {
+      "C": "hit above one's weight"
+   },
+   "extracted_response": "C) hit above one's weight"
+}

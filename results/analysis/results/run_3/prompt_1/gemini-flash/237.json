@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) hear through the grapevine.  The image visually represents the phrase by placing \"hear\" above the line and \"grapevine\" below it, implying that information is heard *through* the grapevine (i.e., through informal channels of communication).\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grapevine (B) hear on the grapevine (C) hear through the grapevine (D) grapevines",
+   "answer": {
+      "B": "hear on the grapevine"
+   },
+   "extracted_response": "C) hear through the grapevine"
+}

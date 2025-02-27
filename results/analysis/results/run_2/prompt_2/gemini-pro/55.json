@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows \"1111\" with arrows pointing up and down around it.  This represents \"up and down 1111\" which sounds like \"up and down one's eyes.\" Then next to it is \"IIII,\" Roman numerals for four, representing \"for.\"  Put together it's \"up and down one's eyes for,\" meaning **(C) under one's very eyes.**",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's time (B) before one's eyes (C) under one's very eyes (D) before someone's time",
+   "answer": {
+      "B": "before one's eyes"
+   },
+   "extracted_response": "C) under one's very eyes"
+}

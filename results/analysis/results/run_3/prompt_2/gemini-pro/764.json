@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows the word \"PUT\" above a red lightbulb. This represents the phrase \"put the light out\".\n\nSo, of the available choices, the closest is (C) put someone's lights out.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red light (B) put on the red light (C) put someone's lights out (D) run a red light",
+   "answer": {
+      "B": "put on the red light"
+   },
+   "extracted_response": "C) put someone's lights out"
+}

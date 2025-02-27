@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows the word \"BRING\" written twice, with the attribute \"sound: (to: 2)\". This means that instead of saying \"bring bring\", we say \"bring to\". Then, the word LIGHT is added, resulting in the phrase \"bring to light\".\n\nSo the answer is (B).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BRING, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: LIGHT, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) give a light (B) bring to light (C) come to light (D) make a light",
+   "answer": {
+      "B": "bring to light"
+   },
+   "extracted_response": "B) bring to light"
+}

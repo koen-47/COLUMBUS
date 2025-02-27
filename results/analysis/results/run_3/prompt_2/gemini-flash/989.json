@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(B) cook up a storm**.\n\nThe rebus shows the letters \"PIHW\" next to an image of a storm cloud with a lightning bolt.  This is a play on words: \"PIHW\" sounds like \"pie in the W\" which can be interpreted as \"pie in the sky.\"  The storm cloud reinforces the idea of a chaotic or intense activity, suggesting the phrase \"cook up a storm\" which means to create a great deal of activity and excitement (often in the kitchen, but generally referring to any busy situation).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take by storm (B) cook up a storm (C) whip up a storm (D) storm off",
+   "answer": {
+      "C": "whip up a storm"
+   },
+   "extracted_response": "B) cook up a storm"
+}

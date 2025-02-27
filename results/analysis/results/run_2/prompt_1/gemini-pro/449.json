@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) dog in the manger.\n\nThe image shows the words \"MAN\" and \"GER\" separated by a picture of a dog.  This visually represents the idiom \"dog in the manger.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see a man about a dog (B) mantiger (C) dog around (D) dog in the manger",
+   "answer": {
+      "D": "dog in the manger"
+   },
+   "extracted_response": "D) dog in the manger"
+}

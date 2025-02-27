@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the word **(D) moorland**.  The arrows pointing towards and away from the word \"LAND\" symbolize a high, open area of land, characteristic of a moor.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) heathland (B) midlands (C) midland (D) moorland",
+   "answer": {
+      "B": "midlands"
+   },
+   "extracted_response": "D) moorland"
+}

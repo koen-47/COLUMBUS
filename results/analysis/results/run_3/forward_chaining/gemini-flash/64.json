@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) bent out of shape.\n\nHere's why:\n\nThe image shows the word \"BENT\" to the left of a rectangle containing the word \"SHAPE\".  This visually represents the phrase \"bent out of shape\".  The other options don't fit the visual representation.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text_bent\",\n    \"description\": \"The word 'BENT' written in uppercase letters.\",\n    \"relation\": \"left of the rectangle\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"rectangle\",\n    \"description\": \"A rectangle with the word 'SHAPE' inside it.\",\n    \"relation\": \"right of the word 'BENT'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) out of shape (B) bent on (C) bent out of shape (D) get bent\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "bent out of shape"
+    }
+}

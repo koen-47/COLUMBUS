@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) time flies.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) time flies (B) what in time (C) make time (D) time after time",
+   "answer": {
+      "D": "time after time"
+   },
+   "extracted_response": "A"
+}

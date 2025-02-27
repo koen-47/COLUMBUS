@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"WOSAL TUND.\" This can be interpreted as \"W\" (double U) + \"SAL\" + \"TUND,\" which sounds like \"salt.\" \n\nThe correct answer is (B) old salt.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) salt of the earth (B) old salt (C) salt in the wound (D) Attic salt",
+   "answer": {
+      "C": "salt in the wound"
+   },
+   "extracted_response": "B) old salt"
+}

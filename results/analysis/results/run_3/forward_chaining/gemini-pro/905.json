@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows two guns.\n\n(A) guns blazing: This could potentially fit, as there are multiple guns present.\n(B) the big guns: This also potentially fits, as the presence of two guns could represent \"big guns\" in a plural sense.\n(C) big shot: This is unlikely, as there is no element in the image to suggest \"shot\".\n(D) big gun:  This is less likely, as there are two guns instead of one big gun.\n\nSince there are two guns present, the phrase \"the big guns\" (B) is the best fit as it represents a plural.\n\nFinal Answer: The final answer is $\\boxed{B}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"gun_icon_1\",\n        \"description\": \"An icon of a gun facing right.\",\n        \"relation\": \"left of gun_icon_2\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"gun_icon_2\",\n        \"description\": \"An icon of a gun facing right.\",\n        \"relation\": \"right of gun_icon_1\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) guns blazing (B) the big guns (C) big shot (D) big gun\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "the big guns"
+    }
+}

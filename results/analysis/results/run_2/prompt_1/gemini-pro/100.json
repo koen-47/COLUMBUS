@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (B) bring to bear.  The words \"BRING\" and \"BEAR\" are present.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to bear (B) bring to bear (C) loaded for bear (D) poke the bear",
+   "answer": {
+      "B": "bring to bear"
+   },
+   "extracted_response": "B) bring to bear"
+}

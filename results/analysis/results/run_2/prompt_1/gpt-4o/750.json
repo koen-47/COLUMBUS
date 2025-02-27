@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(B) pull out",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) open fire (B) pull out (C) pull out of the fire (D) put out a fire",
+   "answer": {
+      "C": "pull out of the fire"
+   },
+   "extracted_response": "B"
+}

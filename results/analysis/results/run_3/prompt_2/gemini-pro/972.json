@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) walk on broken glass.\n\nThe words \"BROKEN\" and \"GLASS\" are below the word \"WALK,\" indicating \"WALK\" is \"over\" or \"on\" \"BROKEN GLASS\". This signifies the phrase \"walk on broken glass\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) glass ceiling (B) glasswork (C) walk on broken glass (D) turn down a glass",
+   "answer": {
+      "C": "walk on broken glass"
+   },
+   "extracted_response": "C) walk on broken glass"
+}

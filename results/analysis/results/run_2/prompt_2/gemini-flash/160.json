@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(C) dry up and blow away**.\n\nThe rebus shows the word \"BLOW\" next to a picture of a wave that is drying up (or evaporating).  This visually represents something drying up and then being blown away by the wind.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blow off (B) blow away (C) dry up and blow away (D) blow out of the water",
+   "answer": {
+      "D": "blow out of the water"
+   },
+   "extracted_response": "C"
+}

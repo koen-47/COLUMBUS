@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The answer is (A) end of the rainbow.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) end of the rainbow (B) rainbow (C) chase a rainbow (D) rainbow baby",
+   "answer": {
+      "A": "end of the rainbow"
+   },
+   "extracted_response": "A) end of the rainbow"
+}

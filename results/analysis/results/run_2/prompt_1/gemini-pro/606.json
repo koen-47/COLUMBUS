@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus represents \"I I I I AN EYE\", which sounds like \"eye for an eye\". So the answer is (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) see eye to eye (C) one in the eye for (D) have an eye for",
+   "answer": {
+      "A": "eye for an eye"
+   },
+   "extracted_response": "A) eye for an eye"
+}

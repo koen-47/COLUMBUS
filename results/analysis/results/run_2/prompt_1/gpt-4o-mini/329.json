@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) middle class value.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) good value (B) middle class value (C) class clown (D) class act",
+   "answer": {
+      "B": "middle class value"
+   },
+   "extracted_response": "B) middle class value"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image clearly shows the word \"JET\".  Since it's not modified or contextualized, the most basic and direct option is the correct one.  None of the other options are represented by this image alone.\n\nSo the answer is none of these.  It is simply **JET**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) jumbo jet (B) jetliners (C) jet set (D) jet-setter",
+   "answer": {
+      "A": "jumbo jet"
+   },
+   "extracted_response": "The image clearly shows the word \"JET\".  Since it's not modified or contextualized, the most basic and direct option is the correct one.  None of the other options are represented by this image alone.\n\nSo the answer is none of these.  It is simply **JET**."
+}

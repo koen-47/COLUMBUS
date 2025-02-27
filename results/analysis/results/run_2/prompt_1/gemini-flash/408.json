@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) head in the clouds.\n\nThe image shows the word \"CLOUDS\" with a face in place of the letter \"O\".  This visually represents someone having their \"head in the clouds,\" implying they are daydreaming or not paying attention to their surroundings.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in one's head (B) lose head (C) head in the clouds (D) head of steam",
+   "answer": {
+      "C": "head in the clouds"
+   },
+   "extracted_response": "C) head in the clouds"
+}

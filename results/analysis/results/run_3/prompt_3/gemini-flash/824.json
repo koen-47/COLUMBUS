@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) see eye to eye.\n\nThe rebus shows \"SEE EYE EYE EYE\".  Node 3's attribute \"sound: (to: 2)\" indicates that the second \"EYE\" should be read as \"to EYE\". This makes the phrase \"SEE EYE TO EYE\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: SEE, repeat: 1)\nNode 2 attributes: (text: EYE, repeat: 1)\nNode 3 attributes: (text: EYE, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) eye up (B) catch the eye (C) see eye to eye (D) eye for an eye",
+   "answer": {
+      "C": "see eye to eye"
+   },
+   "extracted_response": "C) see eye to eye"
+}

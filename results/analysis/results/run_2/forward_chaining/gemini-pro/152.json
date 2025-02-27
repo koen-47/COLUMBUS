@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows a bow and arrow with a line crossing through it, meaning \"no bow and arrow\" or \"cross bow (and arrow)\".  This maps best to (C) shot across the bow, which is an idiom meaning a warning or a challenge. A cross through an item often signifies negation or prohibition.\n\n(A) take a bow: This implies using a bow, the opposite of what the crossed-out image implies.\n(B) crossbow: Although the words 'cross' and 'bow' are present, this is not what the rebus represents. A crossbow is a different kind of weapon.\n(D) crossbows (plural):  This still refers to a specific weapon type, not the act of crossing something out.\n\n\nFinal Answer: The final answer is $\\boxed{C}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"bow and arrow\",\n  \"description\": \"A black and white icon of a bow and arrow.\",\n  \"relation\": \"The bow and arrow are crossed out by a black horizontal line.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) take a bow (B) crossbow (C) shot across the bow (D) crossbows\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "crossbow"
+    }
+}

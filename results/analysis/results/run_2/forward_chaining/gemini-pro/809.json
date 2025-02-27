@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"RUN\" is to the left of \"TOWN\" which is inside a rectangle. This means \"RUN\" is outside the \"TOWN.\"  This maps to \"run out of town.\"\n\nSo the answer is (A).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_RUN\",\n        \"description\": \"The word 'RUN' written in bold letters.\",\n        \"relation\": \"Located to the left of the rectangle.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"rectangle\",\n        \"description\": \"A rectangle with the word 'TOWN' inside it.\",\n        \"relation\": \"Located to the right of the word 'RUN'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) run out of town (B) run out (C) out on the town (D) run off\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "run out of town"
+    }
+}

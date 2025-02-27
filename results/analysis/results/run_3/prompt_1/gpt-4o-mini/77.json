@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The phrase conveyed in the image is (D) a fish out of water.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish in troubled waters (B) other fish in the sea (C) big fish in a small pond (D) a fish out of water",
+   "answer": {
+      "D": "a fish out of water"
+   },
+   "extracted_response": "D) a fish out of water"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) once in a blue moon.\n\nThe rebus shows \"MO1111ON\".  The number \"1111\" represents \"one\" in a sequence.  The blue colored \"MO\" and \"ON\" complete the phrase.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue moon (B) once in a purple moon (C) over the moon (D) once in a blue moon",
+   "answer": {
+      "D": "once in a blue moon"
+   },
+   "extracted_response": "D) once in a blue moon"
+}

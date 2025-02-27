@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) loose change.  The image shows the word \"CHANGE\", which is a general term, but in the context of the provided options, \"loose change\" (small amounts of money) is the most fitting interpretation.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for a change (B) small change (C) change over (D) loose change",
+   "answer": {
+      "B": "small change"
+   },
+   "extracted_response": "D) loose change"
+}

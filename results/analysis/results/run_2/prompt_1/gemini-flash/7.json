@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **a lot on my plate**.\n\nThe image depicts \"LOT\" on top of \"PLATE\" with an arrow going down and another arrow pointing up.  This visually represents a lot (many things) on one's plate (responsibilities or tasks).\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) step up to the plate (B) a lot on my plate (C) a bit too much (D) platelayer",
+   "answer": {
+      "B": "a lot on my plate"
+   },
+   "extracted_response": "B) a lot on my plate"
+}

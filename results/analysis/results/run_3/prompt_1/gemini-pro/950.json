@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The up arrows combined with the word \"GRABS\" conveys the phrase \"**(A) up for grabs**\".  This idiom means something is available to be taken or won.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up for grabs (B) all up (C) up for (D) up on",
+   "answer": {
+      "A": "up for grabs"
+   },
+   "extracted_response": "A) up for grabs"
+}

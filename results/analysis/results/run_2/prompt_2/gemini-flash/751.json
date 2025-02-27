@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) pull out of the hat.\n\nThe rebus shows the word \"PULL\" next to a square containing a hat.  This visually represents the phrase \"pull out of the hat\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a hat on a hat (B) take one's hat off to (C) pull out of the hat (D) pick out of a hat",
+   "answer": {
+      "C": "pull out of the hat"
+   },
+   "extracted_response": "C"
+}

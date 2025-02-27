@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) from cover to cover.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for cover (B) cover up (C) from cover to cover (D) take cover",
+   "answer": {
+      "B": "cover up"
+   },
+   "extracted_response": "C"
+}

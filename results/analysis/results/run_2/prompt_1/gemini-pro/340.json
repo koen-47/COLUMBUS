@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image is of a small, pink elephant. The closest option is (B) pink elephant.  While not a common idiom like \"elephant in the room\" or \"white elephant,\" the image literally depicts a pink elephant.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) baby elephant in the room (D) white elephant",
+   "answer": {
+      "B": "pink elephant"
+   },
+   "extracted_response": "B) pink elephant"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The answer is (C) small beer.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beer goggles (B) beer and skittles (C) small beer (D) beer muscles",
+   "answer": {
+      "C": "small beer"
+   },
+   "extracted_response": "C, small beer"
+}

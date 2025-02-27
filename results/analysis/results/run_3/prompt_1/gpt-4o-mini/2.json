@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The phrase conveyed in the image is (B) a bird in the hand is worth two in the bush.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a bird in the hand (B) a bird in the hand is worth two in the bush (C) early bird (D) bird in the bosom",
+   "answer": {
+      "A": "a bird in the hand"
+   },
+   "extracted_response": "B) a bird in the hand is worth two in the bush"
+}

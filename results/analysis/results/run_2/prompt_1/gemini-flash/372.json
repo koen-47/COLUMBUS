@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **dead to rights**.\n\nThe image shows two skulls and the word \"RIGHTS\".  This visually represents the phrase \"dead to rights\", meaning caught in the act of doing something wrong.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead of night (B) dead last (C) dead and buried (D) dead to rights",
+   "answer": {
+      "D": "dead to rights"
+   },
+   "extracted_response": "D) dead to rights"
+}

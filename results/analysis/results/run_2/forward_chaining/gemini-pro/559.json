@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"CRYING\" is repeated four times.  This can be interpreted as \"FOR CRYING\". The word \"LOUD\" is present as well.  Combining these gives us \"FOR CRYING OUT LOUD\".\n\nTherefore, the answer is (D).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"text_crying\",\n        \"description\": \"The word 'CRYING' repeated four times, stacked vertically.\",\n        \"relation\": \"left side of the image\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"text_loud\",\n        \"description\": \"The word 'LOUD' inside a square.\",\n        \"relation\": \"right side of the image\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) for the love of (B) out loud (C) for reasons (D) for crying out loud\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "for crying out loud"
+    }
+}

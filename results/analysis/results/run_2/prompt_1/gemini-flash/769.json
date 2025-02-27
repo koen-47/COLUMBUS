@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (A) **put to bed**.\n\nThe image shows the words \"PUT\" and \"BED\" arranged vertically, implying the phrase \"put to bed\".  The other options don't visually match the image's arrangement.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put to bed (B) bed in (C) sleep on (D) go to sleep",
+   "answer": {
+      "A": "put to bed"
+   },
+   "extracted_response": "A) put to bed"
+}

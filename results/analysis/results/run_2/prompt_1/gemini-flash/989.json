@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **whip up a storm**.\n\nThe image shows the letters \"PIHW\" vertically stacked, representing the first letters of the words \"**Whip up a storm**\".  The image of a cloud with a lightning bolt further reinforces the idea of a \"storm\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take by storm (B) cook up a storm (C) whip up a storm (D) storm off",
+   "answer": {
+      "C": "whip up a storm"
+   },
+   "extracted_response": "C) whip up a storm"
+}

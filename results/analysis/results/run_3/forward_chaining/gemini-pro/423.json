@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The JSON describes the word \"SCARED\" written in green. Let's analyze the options:\n\n* **(A) scared to death:** The image only contains the word \"SCARED\" and nothing related to death. So, this option is incorrect.\n* **(B) green light:** While the text is green, the image doesn't depict a light. This option is incorrect.\n* **(C) scared green:** This option fits the description.  The word \"SCARED\" is present and is written in green.\n* **(D) run scared:** The image only has the word \"SCARED\" and no visual cues to \"run\". This option is incorrect.\n\nTherefore, the correct answer is (C) scared green. \nFinal Answer: The final answer is $\\boxed{C}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'SCARED' written in green uppercase letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) scared to death (B) green light (C) scared green (D) run scared\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "scared green"
+    }
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) wind up.\n\nThe letters D, N, I, and W are stacked vertically.  If you read them downwards, you get \"WIND\".  The word \"up\" is implied by the vertical orientation of the letters.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wind down (B) wind off (C) wind up (D) get the wind up",
+   "answer": {
+      "C": "wind up"
+   },
+   "extracted_response": "C) wind up"
+}

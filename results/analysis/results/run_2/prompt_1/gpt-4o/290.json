@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word conveyed in the image is \"JET.\" None of the options (A, B, C, D) match exactly.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) jumbo jet (B) jetliners (C) jet set (D) jet-setter",
+   "answer": {
+      "A": "jumbo jet"
+   },
+   "extracted_response": "The word conveyed in the image is \"JET.\" None of the options (A, B, C, D) match exactly."
+}

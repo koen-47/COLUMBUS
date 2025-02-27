@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"take to the bank\" (A).  The words \"TAKE TAKE\" alongside the image of a bank imply bringing or depositing something (likely money) to the bank.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take to the bank (B) break the bank (C) bank night (D) laugh all the way to the bank",
+   "answer": {
+      "A": "take to the bank"
+   },
+   "extracted_response": "A"
+}

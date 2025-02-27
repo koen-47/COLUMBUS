@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) keep it up.  The letters PEEK are stacked vertically.  To solve it, you need to read it as \"Keep\" and then visually see the \"it\" in the center of the letter \"E\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep watch (B) keep it up (C) stay up (D) keep up",
+   "answer": {
+      "D": "keep up"
+   },
+   "extracted_response": "B) keep it up"
+}

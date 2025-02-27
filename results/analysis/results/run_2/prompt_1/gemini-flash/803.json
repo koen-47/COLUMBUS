@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) run on fumes.  The image shows \"RUN\" over \"FUMES,\" visually representing the idiom \"run on fumes,\" which means to operate or continue functioning despite being low on resources or energy.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run riot (C) run through (D) run on fumes",
+   "answer": {
+      "D": "run on fumes"
+   },
+   "extracted_response": "D) run on fumes"
+}

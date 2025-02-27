@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (D) the big house on the hill.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) over the hill (B) king of the hill (C) hill to die on (D) the big house on the hill",
+   "answer": {
+      "D": "the big house on the hill"
+   },
+   "extracted_response": "D) the big house on the hill"
+}

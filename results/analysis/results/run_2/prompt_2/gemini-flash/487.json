@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **time out of mind**.\n\nThe rebus shows the word \"TIME\" outside of a box containing the word \"MIND\".  This visually represents \"TIME out of MIND\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of mind (B) time out of mind (C) time out (D) out of one's mind",
+   "answer": {
+      "B": "time out of mind"
+   },
+   "extracted_response": "B) time out of mind"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) sinking ship.\n\nThe image shows a ship between two arrows, one pointing up and the other down.  The word \"SAILS\" is written next to it. The arrows indicate that the ship is going up and down, implying it's sinking.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before the ship sails (B) steady the ship (C) sinking ship (D) under sail",
+   "answer": {
+      "A": "before the ship sails"
+   },
+   "extracted_response": "C) sinking ship"
+}

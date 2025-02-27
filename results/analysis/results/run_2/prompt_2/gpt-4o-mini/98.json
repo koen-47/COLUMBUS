@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"TRIP\" twice and an icon of the sun. This suggests the phrase \"a trip to the sun.\" \n\nSo, the answer is (C) a trip to the sun.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch the sun (B) under the sun (C) a trip to the sun (D) the sun sets on something",
+   "answer": {
+      "C": "a trip to the sun"
+   },
+   "extracted_response": "C) a trip to the sun"
+}

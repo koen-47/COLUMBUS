@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) spendthrift.\n\nThe image shows the word \"SPENDER\".  A spendthrift is a person who spends money in an extravagant, irresponsible way.  While \"big spender\" is close, \"spendthrift\" is a more precise and commonly used synonym.  Options A and B are plural and therefore do not match the single word shown.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spendthrifts (B) last of the big spenders (C) spendthrift (D) big spender",
+   "answer": {
+      "D": "big spender"
+   },
+   "extracted_response": "C) spendthrift"
+}

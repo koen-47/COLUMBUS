@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the words \"STICK\" and \"IT\" next to each other. \n\nMapping the json files to the words:\n- \"text_stick\" corresponds to \"STICK\"\n- \"text_it\" corresponds to \"IT\"\n\nThe phrase conveyed is \"stick it to.\"\n\nThe correct answer is (D) stick it to.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_stick\",\n  \"description\": \"The word 'STICK' written in bold uppercase letters.\",\n  \"relation\": \"Located on the left side of the image.\"\n}\n```\n\n```json\n{\n  \"id\": \"2\",\n  \"name\": \"text_it\",\n  \"description\": \"The word 'IT' written in bold uppercase letters.\",\n  \"relation\": \"Located to the right of the word 'STICK'.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) stick to (B) stick it to the man (C) put it to (D) stick it to\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "stick it to"
+    }
+}

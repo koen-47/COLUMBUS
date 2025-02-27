@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus is \"1111TURNGREAVE\".  The four 1's represent \"four one's\". When spoken aloud, it sounds like \"for once\".  Combined with the rest of the puzzle, the solution is **(C) turn in one's grave**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's own grave (B) take someone to the grave (C) turn in one's grave (D) take to the grave",
+   "answer": {
+      "C": "turn in one's grave"
+   },
+   "extracted_response": "C) turn in one's grave"
+}

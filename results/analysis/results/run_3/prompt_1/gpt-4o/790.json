@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(B) head for the hills",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for the hills (B) head for the hills (C) take to the hills (D) old as the hills",
+   "answer": {
+      "A": "run for the hills"
+   },
+   "extracted_response": "B) head for the hills"
+}

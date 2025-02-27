@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (B) red letter day.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) day lark (B) red letter day (C) day after day (D) day of days",
+   "answer": {
+      "B": "red letter day"
+   },
+   "extracted_response": "B) red letter day"
+}

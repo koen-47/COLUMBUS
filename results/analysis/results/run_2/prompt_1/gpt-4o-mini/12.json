@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) backdrop.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backgrounds (B) backdrops (C) backdrop (D) backgrounding",
+   "answer": {
+      "B": "backdrops"
+   },
+   "extracted_response": "C) backdrop"
+}

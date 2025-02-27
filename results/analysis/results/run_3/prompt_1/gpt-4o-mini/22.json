@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (D) high noon.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) noonday (B) afternoons (C) afternoon (D) high noon",
+   "answer": {
+      "C": "afternoon"
+   },
+   "extracted_response": "D) high noon"
+}

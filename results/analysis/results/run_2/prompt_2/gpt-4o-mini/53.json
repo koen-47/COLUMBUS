@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"BEARING\" with a line crossing through it. This suggests the phrase \"bearing the cross,\" as it implies the act of carrying or enduring something difficult. \n\nThe correct answer is (D) bearing the cross.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross to bear (C) off one's cross (D) bearing the cross",
+   "answer": {
+      "D": "bearing the cross"
+   },
+   "extracted_response": "D) bearing the cross"
+}

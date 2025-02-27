@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle \"HAHA TND\" represents \"hat in hand\".  The \"HA\" is repeated to sound like \"hat\".\n\nSo the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand someone his hat (B) pick out of a hat (C) put a hat on a hat (D) hat in hand",
+   "answer": {
+      "D": "hat in hand"
+   },
+   "extracted_response": "D) hat in hand"
+}

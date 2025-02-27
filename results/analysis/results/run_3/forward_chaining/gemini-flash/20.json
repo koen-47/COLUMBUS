@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (A) buckle up.\n\nThe JSON data describes the image as having the word \"BUCKLE\" at the top and the word \"BUCKLE\" at the bottom.  This visually represents the phrase \"buckle up\".  The other options don't fit the visual representation of two instances of the word \"BUCKLE\" positioned above and below one another.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"BUCKLE (top)\",\n    \"description\": \"The word 'BUCKLE' written in uppercase letters, positioned at the top of the image.\",\n    \"relation\": \"above the second instance of the word 'BUCKLE'\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"BUCKLE (bottom)\",\n    \"description\": \"The word 'BUCKLE' written in uppercase letters, positioned at the bottom of the image.\",\n    \"relation\": \"below the first instance of the word 'BUCKLE'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) buckle up (B) tighten belt (C) buckle to (D) buckle down\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "buckle to"
+    }
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The word \"WATER\" is inside a box, so the rebus represents \"FISH\" \"in\" \"WATER\".  The answer is **(A) fish in troubled waters**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish in troubled waters (B) other fish in the sea (C) big fish in a small pond (D) a fish out of water",
+   "answer": {
+      "D": "a fish out of water"
+   },
+   "extracted_response": "A) fish in troubled waters"
+}

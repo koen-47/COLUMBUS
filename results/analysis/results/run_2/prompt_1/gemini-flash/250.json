@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **vast majority**.\n\nThe image depicts \"GO\" over \"MAJORITY MAJORITY\", visually representing that something is going toward or becoming a vast majority.  The other options don't fit the visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go over to the majority (B) vast majority (C) go to the polls (D) go over",
+   "answer": {
+      "A": "go over to the majority"
+   },
+   "extracted_response": "B) vast majority"
+}

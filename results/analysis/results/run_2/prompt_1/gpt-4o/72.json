@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The phrase conveyed in the image is (C) before one's time.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's eyes (B) before someone's time (C) before one's time (D) time after time",
+   "answer": {
+      "C": "before one's time"
+   },
+   "extracted_response": "C) before one's time"
+}

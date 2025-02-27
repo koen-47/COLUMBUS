@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"stand on one's head.\" The word \"STAND\" is directly above the number \"1111,\" which can be interpreted as \"on\" (the number 1 looks like a vertical line, suggesting a standing position), and the face below suggests a playful or surprised expression, reinforcing the idea of being upside down. \n\nSo the answer is (D) stand on one's head.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) keep one's head (B) hold one's head high (C) with one's head held high (D) stand on one's head",
+   "answer": {
+      "D": "stand on one's head"
+   },
+   "extracted_response": "D) stand on one's head"
+}

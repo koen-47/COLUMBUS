@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows a small image of a loaf of bread.  The placement of the bread is the key - it's small and alone, representing just a single, small \"bread\".\n\n\nSince the other options involve multiple words or modifications to \"bread\", the answer has to be **(A) bread of life**.  This common idiom uses \"bread\" in a singular, symbolic sense, matching the small, singular image presented.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bread of life (B) brown bread (C) burn bread (D) bread and butter",
+   "answer": {
+      "B": "brown bread"
+   },
+   "extracted_response": "A) bread of life"
+}

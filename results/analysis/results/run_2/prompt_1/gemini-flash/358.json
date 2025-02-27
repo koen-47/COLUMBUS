@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **once in a blue moon**.\n\nThe image shows \"MO1111ON\".  If you replace the number 1111 with \"blue\", it spells out \"once in a blue moon\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) once in a purple moon (B) once in a blue moon (C) blue moon (D) over the moon",
+   "answer": {
+      "A": "once in a purple moon"
+   },
+   "extracted_response": "B, once in a blue moon"
+}

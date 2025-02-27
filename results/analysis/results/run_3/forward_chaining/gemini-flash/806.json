@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) run out of steam.\n\nHere's the reasoning:\n\n* **Item 1:** Shows a stick figure running, representing \"run\".\n* **Item 2:** Contains the word \"STEAM\".\n\nCombining these, the image depicts \"run out of steam\", which implies losing energy or momentum.  The other options don't fit the visual representation.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"running_stick_figure\",\n  \"description\": \"A small stick figure running towards the right.\",\n  \"relation\": \"left of the text box\"\n}\n```\n\n```json\n{\n  \"id\": \"item2\",\n  \"name\": \"text_box\",\n  \"description\": \"A rectangular box containing the word 'STEAM'.\",\n  \"relation\": \"right of the running stick figure\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) head of steam (B) blow off steam (C) run out of steam (D) under one's own steam\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "run out of steam"
+    }
+}

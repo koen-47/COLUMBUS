@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) the calm before the storm.\n\nThe arrows indicate the order. The top arrow points down to \"CALM,\" and the bottom arrow points up to \"STORM\". This signifies that \"CALM\" comes *before* \"STORM\".  Therefore, the rebus represents \"the calm before the storm\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: CALM, repeat: 1, highlight: before)\nNode 2 attributes: (text: STORM, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) perfect storm (B) the calm before the storm (C) weather the storm (D) after the storm",
+   "answer": {
+      "B": "the calm before the storm"
+   },
+   "extracted_response": "B) the calm before the storm"
+}

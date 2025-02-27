@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) skeleton in the closet.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skeleton crew (B) skeleton in the cupboard (C) skeleton in the closet (D) out of the closet",
+   "answer": {
+      "C": "skeleton in the closet"
+   },
+   "extracted_response": "C) skeleton in the closet"
+}

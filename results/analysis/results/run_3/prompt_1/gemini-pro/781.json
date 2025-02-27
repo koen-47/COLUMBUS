@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus represents \"roof over one's head\". The numbers \"1111\" are \"under\" the word \"ROOF\", and there's a face there too, symbolizing a person.  So the answer is (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roof over one's head (B) through the roof (C) hit the roof (D) raise the roof",
+   "answer": {
+      "A": "roof over one's head"
+   },
+   "extracted_response": "A"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"BOBOYAT,\" which sounds like \"boy at.\"  Therefore, the best answer is (A) boy in the boat.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) boy in the boat (B) turn the boat (C) push the boat out (D) miss the boat",
+   "answer": {
+      "A": "boy in the boat"
+   },
+   "extracted_response": "A) boy in the boat"
+}

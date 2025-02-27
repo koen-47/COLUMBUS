@@ -25,7 +25,7 @@ Create a conda environment with a name of your choice with Python version 3.12:
 
 
 ```python
-conda create -n <env_name> python=3.12
+conda create -n [env_name] python=3.12
 ```
 
 Activate it and install all necessary libraries:
@@ -40,25 +40,21 @@ pip install -r requirements.txt
 
 Several [notebooks](./notebooks) are provided that can be used for custom rebus puzzle generation using our methodology, as well as reproducing experiment results with a few open- and closed-source models. These notebooks are intended for a more streamlined interaction with COLUMBUS. For a more hands-on experience, see the remaining subsections below.
 
-### Displaying the benchmark
-
-To display the benchmark, run the following command. This will loop over the benchmark and present each puzzle and its respective distractors. 
-
-```python
-python main.py --show-benchmark
-```
 
 ### Displaying the results
 
 A few files also analyze [model performance](./results/analysis/AnalysisReport.py) and the [benchmark](./results/benchmark/PuzzleAnalysisReport.py). Run either of the following commands to display the results for the puzzle and model analysis, respectively. This will display the tables from the paper.
 
 ```python
-python main.py --show-analysis puzzles
+python main.py --analysis puzzles
 ```
 
 ```python
-python main.py --show-analysis models
+python main.py --analysis models --run [run]
 ```
+
+By default, not setting the `[run]` argument will show the results from the paper. 
+Setting it to either `1`, `2`, or `3` will show the results for the respective run.
 
 For additional analysis pertaining to computed averages (in Section 6), run the following command:
 ```python
@@ -108,7 +104,10 @@ All files relating to puzzle generation can be found under [puzzles](./puzzles).
 
 ### Results
 
-All files used to prompt the models in our experiments can be found under the [cluster](./cluster) folder. This is a duplicated, smaller version of this repository to use on a local cluster. The file used to prompt each model is as follows:
+A complete overview of the results can be found [here](./results/analysis/results/summary.json).
+All files used to prompt the models in our experiments can be found under the [cluster](./cluster) folder. 
+This is a duplicated, smaller version of this repository to use on a local cluster. 
+The file used to prompt each model is as follows:
 
 - [CLIP](cluster/models/CLIPExperiment.py)
 - [BLIP-2](cluster/models/BLIP2Experiment.py) (OPT 2.7b, OPT 6.7b, Flan-T5-XXL-11b)

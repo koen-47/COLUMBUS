@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) fall on one's face.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall over (B) fall on one's face (C) fall on someone's neck (D) fall around",
+   "answer": {
+      "B": "fall on one's face"
+   },
+   "extracted_response": "B) fall on one's face"
+}

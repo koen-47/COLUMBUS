@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"STAND TO REASON\" and therefore the closest matching choice is (B) although it is grammatically incorrect.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stand by (B) stand to reason (C) stand up (D) stands to reason",
+   "answer": {
+      "B": "stand to reason"
+   },
+   "extracted_response": "B) stand to reason"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"walk on broken glass\" (C). The word \"WALK\" is placed above \"BROKEN GLASS\" and separated by a line, indicating the phrase \"walk on broken glass\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) glass ceiling (B) glasswork (C) walk on broken glass (D) turn down a glass",
+   "answer": {
+      "C": "walk on broken glass"
+   },
+   "extracted_response": "C"
+}

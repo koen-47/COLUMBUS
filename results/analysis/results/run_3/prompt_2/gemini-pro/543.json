@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle says \"from start to finish\". The down arrow indicates \"start\" and is placed above the up arrow indicating the opposite, which is \"finish\". The word \"from\" is placed between these two arrows. Hence, the phrase is *from start to finish*.\n\nSo the answer is (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) begin at the beginning (B) from start to finish (C) from beginning to end (D) from scratch",
+   "answer": {
+      "B": "from start to finish"
+   },
+   "extracted_response": "B) from start to finish"
+}

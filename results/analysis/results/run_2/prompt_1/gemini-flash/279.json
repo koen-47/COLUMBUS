@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) child crossing guard**.\n\nThe image shows the word \"CHILD\" with a line through it, followed by \"GUARD\".  This visually represents the phrase \"child crossing guard,\" indicating that the line through \"CHILD\" signifies that children are crossing, and that a guard is needed to ensure their safety.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) child crossing guard (B) child cross guard (C) take guard (D) love child",
+   "answer": {
+      "B": "child cross guard"
+   },
+   "extracted_response": "A) child crossing guard"
+}

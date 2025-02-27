@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys **(A) get out of my face**.  The word \"FACE\" is enclosed in a box, suggesting the speaker wants to \"get\" it out.  This visual representation implies a desire for someone to leave their presence.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get out of my face (B) lose face (C) pull a face (D) out of one's face",
+   "answer": {
+      "A": "get out of my face"
+   },
+   "extracted_response": "A) get out of my face"
+}

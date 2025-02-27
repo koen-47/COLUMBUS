@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (D) balls to the wall. The words \"BALLS\" are positioned above and to the left of the word \"WALL,\" suggesting the idiom's meaning of going all out or to the maximum.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grow some balls (B) bust one's balls (C) have someone by the balls (D) balls to the wall",
+   "answer": {
+      "D": "balls to the wall"
+   },
+   "extracted_response": "D) balls to the wall"
+}

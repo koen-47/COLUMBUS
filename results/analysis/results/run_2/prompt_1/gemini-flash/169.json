@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) steady the ship**.\n\nThe arrows pointing up and down on either side of the word \"SHIP\" represent the action of stabilizing or steadying something.  The phrase \"steady the ship\" is a common idiom meaning to regain control or stability in a difficult situation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) steady the ship (B) sinking ship (C) before the ship sails (D) under sail",
+   "answer": {
+      "C": "before the ship sails"
+   },
+   "extracted_response": "A) steady the ship"
+}

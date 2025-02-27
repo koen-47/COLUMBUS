@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"MAKE\" repeated four times, one below the other. This arrangement suggests the phrase \"make over,\" as the word \"MAKE\" is literally over itself multiple times.\n\nThe correct answer is (D) make over.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"1\",\n    \"name\": \"text_make_1\",\n    \"description\": \"The word 'MAKE' in bold uppercase letters.\",\n    \"relation\": \"topmost position\"\n}\n```\n\n```json\n{\n    \"id\": \"2\",\n    \"name\": \"text_make_2\",\n    \"description\": \"The word 'MAKE' in bold uppercase letters.\",\n    \"relation\": \"below text_make_1\"\n}\n```\n\n```json\n{\n    \"id\": \"3\",\n    \"name\": \"text_make_3\",\n    \"description\": \"The word 'MAKE' in bold uppercase letters.\",\n    \"relation\": \"below text_make_2\"\n}\n```\n\n```json\n{\n    \"id\": \"4\",\n    \"name\": \"text_make_4\",\n    \"description\": \"The word 'MAKE' in bold uppercase letters.\",\n    \"relation\": \"below text_make_3\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) make do (B) make happen (C) make for (D) make over\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "make for"
+    }
+}

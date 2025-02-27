@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(D) dog eat dog**.\n\nThe image contains the jumbled letters \"HUDOGNT\".  Rearranging these letters gives you \"DOG HUNT\".  While not an exact match for any of the options, \"dog eat dog\" is the closest in meaning and spirit.  It describes a competitive and ruthless environment.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snipe hunt (B) dog in the hunt (C) dog around (D) dog eat dog",
+   "answer": {
+      "B": "dog in the hunt"
+   },
+   "extracted_response": "D) dog eat dog"
+}

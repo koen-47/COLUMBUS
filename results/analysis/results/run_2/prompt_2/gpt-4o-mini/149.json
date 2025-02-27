@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"cross off.\" The \"2\" can be interpreted as \"to,\" and \"TAKE\" is present, while the upward arrow suggests \"off.\" Therefore, the correct answer is (D) cross off.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross out (D) cross off",
+   "answer": {
+      "B": "cross to take up"
+   },
+   "extracted_response": "D) cross off"
+}

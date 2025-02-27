@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (A) small window of time.  The picture of a window pane represents \"window\" and the clock represents \"time\".  Together they suggest a limited time period.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small window of time (B) matter of time (C) window on the world (D) make time",
+   "answer": {
+      "A": "small window of time"
+   },
+   "extracted_response": "A) small window of time"
+}

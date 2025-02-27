@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "B) speak out",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak out (C) speak out of turn (D) talk out of turn",
+   "answer": {
+      "C": "speak out of turn"
+   },
+   "extracted_response": "B) speak out"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (B) cash on the barrelhead.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) over a barrel (B) cash on the barrelhead (C) cash up (D) cash in",
+   "answer": {
+      "B": "cash on the barrelhead"
+   },
+   "extracted_response": "B) cash on the barrelhead"
+}

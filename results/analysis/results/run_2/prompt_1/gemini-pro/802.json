@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts \"**run on fumes**\" (B).  The person is running, and the word \"fumes\" suggests they are doing so with very little energy left, like a car running on the last of its fuel.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run through (B) run on fumes (C) run with (D) run riot",
+   "answer": {
+      "B": "run on fumes"
+   },
+   "extracted_response": "B) run on fumes"
+}

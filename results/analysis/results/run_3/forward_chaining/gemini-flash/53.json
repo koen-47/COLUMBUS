@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"BEARING\" with a line through it.  This means \"no bearing\" or \"not bearing\".\n\nLet's examine the options:\n\n* **(A) cross to take up:** This doesn't directly relate to \"no bearing\".\n* **(B) cross to bear:** This is close, but the rebus implies the *opposite* of bearing.\n* **(C) off one's cross:**  This implies removing a burden, which is consistent with \"not bearing\".\n* **(D) bearing the cross:** This is the opposite of what the rebus shows.\n\nTherefore, the best fit is **(C) off one's cross**.  The image depicts the removal of the \"bearing\" (a burden, often associated with \"bearing one's cross\").\n\nFinal Answer: The final answer is $\\boxed{C}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"word\",\n  \"description\": \"The word 'BEARING' with a horizontal line striking through it.\",\n  \"relation\": \"none\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) cross to take up (B) cross to bear (C) off one's cross (D) bearing the cross\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "bearing the cross"
+    }
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(A) wait for the ball to drop",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wait for the ball to drop (B) have a ball (C) drop the ball (D) carry the ball",
+   "answer": {
+      "A": "wait for the ball to drop"
+   },
+   "extracted_response": "A) wait for the ball to drop"
+}

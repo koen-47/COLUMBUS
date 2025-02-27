@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows two faces with eyes and a line below them, followed by the word \"TOE.\" This suggests the phrase \"head to toe,\" as the faces represent \"head\" and \"toe\" is explicitly written. \n\nThe correct answer is (A) head to toe.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head to toe (B) lose head (C) toe the line (D) head over heels",
+   "answer": {
+      "A": "head to toe"
+   },
+   "extracted_response": "A) head to toe"
+}

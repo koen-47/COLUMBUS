@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The image conveys the phrase: (C) get the boot.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give someone the boot (B) put the boot in (C) get the boot (D) to boot",
+   "answer": {
+      "D": "to boot"
+   },
+   "extracted_response": "C) get the boot"
+}

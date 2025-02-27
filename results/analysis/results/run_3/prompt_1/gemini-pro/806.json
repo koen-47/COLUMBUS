@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) under one's own steam.\n\nThe image depicts a person running, separated from the word \"STEAM\" in a box. This visually represents someone moving \"under their own steam,\" meaning by their own power or effort, without external assistance.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head of steam (B) blow off steam (C) run out of steam (D) under one's own steam",
+   "answer": {
+      "C": "run out of steam"
+   },
+   "extracted_response": "D) under one's own steam"
+}

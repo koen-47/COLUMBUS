@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) middle of the road.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) middle of the road (B) roadside (C) low road (D) high road",
+   "answer": {
+      "A": "middle of the road"
+   },
+   "extracted_response": "A) middle of the road"
+}

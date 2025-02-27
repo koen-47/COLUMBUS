@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"GL\" followed by a hand and then \"OVE.\" This suggests the phrase \"hand in glove.\" \n\nSo, the correct answer is (B) hand in glove.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand in hand (B) hand in glove (C) hand over hand (D) in hand",
+   "answer": {
+      "B": "hand in glove"
+   },
+   "extracted_response": "B) hand in glove"
+}

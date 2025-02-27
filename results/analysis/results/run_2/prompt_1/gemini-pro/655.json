@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts **(C) let the cat out of the bag**. The cat is outside the bag, indicating the secret has been revealed.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) left holding the bag (B) cat in the sack (C) let the cat out of the bag (D) give someone the bag",
+   "answer": {
+      "C": "let the cat out of the bag"
+   },
+   "extracted_response": "C"
+}

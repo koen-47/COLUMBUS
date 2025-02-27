@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The answer is (B) hand to mouth.\nHere is the reasoning:\nThe puzzle has two raised hands and a mouth. The relation given in the json file states that the hands are left of the mouth. \nThe phrase 'hand to mouth' matches with the two images 'hand' and 'mouth', and also their relative positions.\n\n(A) hand to God: The image does not depict 'God'\n(C) hand in hand: The two hands are not holding each other, so this is incorrect\n(D) hand over hand: This is also incorrect because the hands are not placed as 'hand over hand'.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"raised hands\",\n    \"description\": \"Two raised hands with palms facing forward\",\n    \"relation\": \"left of the mouth\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"mouth\",\n    \"description\": \"A mouth with lips closed\",\n    \"relation\": \"right of the raised hands\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) hand to God (B) hand to mouth (C) hand in hand (D) hand over hand\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "hand to mouth"
+    }
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) the calm before the storm.\n\nThe word \"CALM\" is before the word \"STORM\" and there is a down arrow before \"CALM\" and an up arrow after \"CALM\". This arrangement suggests that \"CALM\" is *before* \"STORM\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) perfect storm (B) the calm before the storm (C) weather the storm (D) after the storm",
+   "answer": {
+      "B": "the calm before the storm"
+   },
+   "extracted_response": "B) the calm before the storm"
+}

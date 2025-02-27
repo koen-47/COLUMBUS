@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (D) look for a dog to kick.  The repeated \"LOOK\" followed by dog icons and then \"KICK\" implies searching for a dog specifically to kick it.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick someone when they are down (B) kick a dog when it's down (C) kick at an open door (D) look for a dog to kick",
+   "answer": {
+      "D": "look for a dog to kick"
+   },
+   "extracted_response": "D"
+}

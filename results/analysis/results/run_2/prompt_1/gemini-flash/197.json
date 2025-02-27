@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **castle in the air**.\n\nThe image shows a castle icon placed between the letters \"A\" and \"IR\", forming the phrase \"A castle in the air\".  While (A) is similar, the singular \"castle\" is more accurate to the image.  Options (C) and (D) are not represented by the image.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) castles in the air (B) castle in the air (C) in the air (D) king of the castle",
+   "answer": {
+      "B": "castle in the air"
+   },
+   "extracted_response": "B) castle in the air"
+}

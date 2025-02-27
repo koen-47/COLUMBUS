@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (A) bird in the bosom.\n\nThe image shows a bird nestled between the words \"BO\" and \"SOM,\" which together form the phrase \"BOSOM.\"  This directly represents the idiom \"bird in the bosom.\"\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bird in the bosom (B) bird of passage (C) ghetto bird (D) early bird",
+   "answer": {
+      "A": "bird in the bosom"
+   },
+   "extracted_response": "A) bird in the bosom"
+}

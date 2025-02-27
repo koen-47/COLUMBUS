@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe image shows \"PO FISH ND\".  Combining the parts gives us \"Pond Fish\".  This is not an exact match to any of the provided choices.  However, a big fish is often described as a \"big fish in a pond,\" thus (B) is the best fit.\n\n\nTherefore, the answer is (B) big fish in a small pond.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"PO\",\n        \"description\": \"The letters 'PO' positioned to the left of the word 'FISH'.\",\n        \"relation\": \"Positioned to the left of 'FISH'.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"FISH\",\n        \"description\": \"The word 'FISH' in the center of the image.\",\n        \"relation\": \"Positioned between 'PO' and 'ND'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"ND\",\n        \"description\": \"The letters 'ND' positioned to the right of the word 'FISH'.\",\n        \"relation\": \"Positioned to the right of 'FISH'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) bigger fish to fry (B) big fish in a small pond (C) a fish out of water (D) big fish\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "big fish in a small pond"
+    }
+}

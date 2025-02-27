@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) **bad news**.\n\nThe image shows the word \"BAD\" repeated twice, implying that there is a double dose of bad news.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not half bad (B) too bad (C) bad news (D) good grief",
+   "answer": {
+      "B": "too bad"
+   },
+   "extracted_response": "C) bad news"
+}

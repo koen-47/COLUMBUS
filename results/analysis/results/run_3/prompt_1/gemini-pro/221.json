@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the idea of gears clicking together, so the answer is (B) click into gear.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) second gear (B) click into gear (C) find another gear (D) fourth gear",
+   "answer": {
+      "B": "click into gear"
+   },
+   "extracted_response": "B) click into gear"
+}

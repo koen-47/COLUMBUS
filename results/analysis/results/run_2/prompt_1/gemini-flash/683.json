@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **make the running**.\n\nThe image shows the word \"DISTANCE\" with arrows indicating both upward and downward movement.  A person is shown running alongside. This visually represents someone taking the initiative or leading an effort (\"making the running\").  The other options don't fit as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) front runner (B) make the running (C) runners and riders (D) middle distance runner",
+   "answer": {
+      "D": "middle distance runner"
+   },
+   "extracted_response": "B) make the running"
+}

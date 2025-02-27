@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(D) whip up a storm**.\n\nThe image shows the letters \"PIHW\" vertically arranged next to the word \"STORM\".  When you rearrange \"PIHW\", it spells \"WHIP\".  Therefore, the complete phrase is \"WHIP UP A STORM\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cook up a storm (B) storm off (C) take by storm (D) whip up a storm",
+   "answer": {
+      "D": "whip up a storm"
+   },
+   "extracted_response": "D) whip up a storm"
+}

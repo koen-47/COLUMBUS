@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"pour fuel on the fire,\" which means to make a bad situation worse. So the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pour gasoline on the fire (B) pour fuel on the fire (C) feed the fire (D) add fuel to the flames",
+   "answer": {
+      "B": "pour fuel on the fire"
+   },
+   "extracted_response": "B"
+}

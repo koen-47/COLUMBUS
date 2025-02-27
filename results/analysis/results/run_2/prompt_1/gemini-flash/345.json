@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) cross my heart.  The image depicts the number 1111 crossed out with a line, visually representing someone crossing their heart.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross one's heart (B) cross my heart and hope to die (C) have one's heart in (D) cross my heart",
+   "answer": {
+      "A": "cross one's heart"
+   },
+   "extracted_response": "D) cross my heart"
+}

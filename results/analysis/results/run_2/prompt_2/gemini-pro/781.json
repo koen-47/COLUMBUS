@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle can be solved as follows:\n\n* \"ROOF\" is over \"1111\" and a \"face\".  The number \"1111\" is under the word \"ROOF\". It can be read as \"four ones\" which sounds like \"for once.\"\n* The face can be interpreted as \"looks.\"\n* Putting it all together, \"ROOF over for once looks\" is a cryptic way of saying, **(A) roof over one's head.**\n\nSo the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roof over one's head (B) through the roof (C) hit the roof (D) raise the roof",
+   "answer": {
+      "A": "roof over one's head"
+   },
+   "extracted_response": "A) roof over one's head"
+}

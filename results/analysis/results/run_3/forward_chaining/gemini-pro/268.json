@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The face with a line across it represents \"cross\". The person icon can be interpreted as a \"guard\", particularly since it seems to be wearing a uniform.  Putting them together, along with their relative positions, gives us \"crossing guard\".\n\n* **(A) take guard:** Doesn't fit the \"cross\" element.\n* **(B) child cross guard:** The face *could* be interpreted as a child's face, making this a possibility.\n* **(C) love child:**  Completely unrelated to the imagery.\n* **(D) child crossing guard:** Most consistent with the imagery.\n\nThe face does resemble that of a child. Therefore the answer is (D) child crossing guard.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"face_with_line\",\n    \"description\": \"A face icon with a horizontal line across the eyes.\",\n    \"relation\": \"next to item2\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"person_icon\",\n    \"description\": \"A simple icon of a person with a shirt.\",\n    \"relation\": \"next to item1\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) take guard (B) child cross guard (C) love child (D) child crossing guard\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "child cross guard"
+    }
+}

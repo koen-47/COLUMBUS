@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(A) turn the other cheek",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn the other cheek (B) bite tongue (C) tongue in cheek (D) hold tongue",
+   "answer": {
+      "C": "tongue in cheek"
+   },
+   "extracted_response": "A) turn the other cheek"
+}

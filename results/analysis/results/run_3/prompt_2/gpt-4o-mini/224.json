@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"have a bone to pick.\" The word \"HAVE\" is directly shown, followed by a bone icon and then two pickaxes, which represent \"to pick.\" Therefore, the correct answer is (D) have a bone to pick.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take one's pick (B) bone to pick (C) throw a bone to (D) have a bone to pick",
+   "answer": {
+      "D": "have a bone to pick"
+   },
+   "extracted_response": "D) have a bone to pick"
+}

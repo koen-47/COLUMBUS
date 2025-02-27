@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows the word \"CLASS\" with arrows pointing above and below the middle of the word.  The word \"VALUE\" is next to \"CLASS\". The description indicates that \"CLASS\" is highlighted in the middle. This suggests \"middle class\". The words are positioned next to each other, so the phrase is \"middle class value\".\n\nThus the answer is (B).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: CLASS, repeat: 1, highlight: middle)\nNode 2 attributes: (text: VALUE, repeat: 1)\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) good value (B) middle class value (C) class clown (D) class act",
+   "answer": {
+      "B": "middle class value"
+   },
+   "extracted_response": "B) middle class value"
+}

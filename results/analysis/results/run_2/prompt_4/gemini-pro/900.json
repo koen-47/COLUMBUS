@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle represents \"The ball is in your court\" (C).\n\nThe graph description helps clarify this:\n\n* **Node 1 (\ud83c\udfc0):** A basketball icon.\n* **Node 2 (YOUR):** The word \"YOUR\".\n* **Node 3 (COURT):** The word \"COURT\".\n* **Edge 1 (INSIDE):** The basketball (Node 1) is positioned inside (or very close to) \"YOUR\" (Node 2).  This closeness visually connects the ball to \"YOUR\".\n* **Edge 2 (NEXT-TO):**  \"YOUR\" (Node 2) is next to \"COURT\" (Node 3), forming the phrase \"YOUR COURT.\"\n\nCombining the visual and textual elements conveys the idiom \"The ball is in your court.\"",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: \ud83c\udfc0, repeat: 1, icon: (ball: \ud83c\udfc0))\nNode 2 attributes: (text: YOUR, repeat: 1)\nNode 3 attributes: (text: COURT, repeat: 1)\nEdge 1: node 1 to node 2 (rule: INSIDE)\nEdge 2: node 2 to node 3 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) the ball is in someone's court (B) play ball (C) the ball is in your court (D) leave the ball in someone's court",
+   "answer": {
+      "C": "the ball is in your court"
+   },
+   "extracted_response": "C"
+}

@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains two blue letter O's resembling eyes and a cartoon face. \n\n- The blue O's represent \"blue-eyed.\"\n- The face represents \"boy.\"\n\nThe phrase conveyed is \"blue-eyed boy.\"\n\nThe correct answer is (D) blue eyed boy.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"blue double letter O\",\n        \"description\": \"Two blue letter O's placed side by side with small black dots inside each O, resembling eyes.\",\n        \"relation\": \"next to the face\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"face\",\n        \"description\": \"A black and white cartoon face of a person with a smiling expression.\",\n        \"relation\": \"next to the blue double letter O\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) blue-eyed (B) baby blue (C) fair-haired boy (D) blue eyed boy\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "blue eyed boy"
+    }
+}

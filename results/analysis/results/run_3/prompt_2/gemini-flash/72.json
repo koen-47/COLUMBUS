@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **before one's time**.\n\nHere's why:\n\n* **1111:** Represents a sequence of time or years.\n* **Arrows:** The up and down arrows suggest something happening \"before\" and \"after\" the 1111.\n* **Clock:** The clock emphasizes the time element.\n\nTherefore, the image visually depicts something happening before a specific point in time, making \"before one's time\" the most fitting answer.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before one's eyes (B) before someone's time (C) before one's time (D) time after time",
+   "answer": {
+      "C": "before one's time"
+   },
+   "extracted_response": "C) before one's time"
+}

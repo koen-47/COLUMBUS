@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(C) written in the stars",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stars in one's eyes (B) see stars (C) written in the stars (D) stars align",
+   "answer": {
+      "C": "written in the stars"
+   },
+   "extracted_response": "C"
+}

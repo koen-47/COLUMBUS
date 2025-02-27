@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The running person can be mapped to \"run\" and the text \"TOWN\" represents the word town.  The person is to the left of the text box.  So, combining the meaning of the items and their relative position, the correct phrase is \"run out of town\" (A).\n\n(B) \"Out on the town\" doesn't match the running person moving away from \"TOWN.\"\n(C) \"Run off\" is missing the \"town\" component.\n(D) \"Run out\" is also missing the \"town\" component.\n\nFinal Answer: The final answer is $\\boxed{A}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"item1\",\n    \"name\": \"running_person_icon\",\n    \"description\": \"An icon of a person running.\",\n    \"relation\": \"to the left of the text 'TOWN'.\"\n}\n```\n\n```json\n{\n    \"id\": \"item2\",\n    \"name\": \"text_town\",\n    \"description\": \"The word 'TOWN' inside a rectangular box.\",\n    \"relation\": \"to the right of the running person icon.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) run out of town (B) out on the town (C) run off (D) run out\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "run out of town"
+    }
+}

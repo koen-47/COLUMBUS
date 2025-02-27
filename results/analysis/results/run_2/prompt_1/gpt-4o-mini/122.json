@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) lump in one's throat.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) lump in one's throat (B) funny bone (C) bone in her teeth (D) bone in the throat",
+   "answer": {
+      "D": "bone in the throat"
+   },
+   "extracted_response": "A) lump in one's throat"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (D) eat for two.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eat one's own (B) two for two (C) eat one's young (D) eat for two",
+   "answer": {
+      "D": "eat for two"
+   },
+   "extracted_response": "D) eat for two"
+}

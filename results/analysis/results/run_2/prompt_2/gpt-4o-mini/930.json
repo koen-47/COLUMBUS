@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows \"1111 TURN GRAVE.\" The \"1111\" can be interpreted as \"turn\" (since it looks like the word \"turn\" when read aloud), followed by \"GRAVE.\" \n\nThis leads to the phrase \"turn in one's grave.\"\n\nSo, the correct answer is (C) turn in one's grave.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's own grave (B) take someone to the grave (C) turn in one's grave (D) take to the grave",
+   "answer": {
+      "C": "turn in one's grave"
+   },
+   "extracted_response": "C) turn in one's grave"
+}

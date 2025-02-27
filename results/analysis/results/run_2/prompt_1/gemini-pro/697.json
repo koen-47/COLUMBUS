@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys **(D) miss the wood for the trees**.\n\nThe image shows the words \"MISS\" and a picture of a cut tree stump or \"wood\" next to a column of the word \"TREES.\" This visually represents the idiom \"miss the wood for the trees,\" meaning to overlook the bigger picture or the overall context because one is focused on individual details.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock on wood (B) see the trees through the forest (C) see the forest for the trees (D) miss the wood for the trees",
+   "answer": {
+      "D": "miss the wood for the trees"
+   },
+   "extracted_response": "D) miss the wood for the trees"
+}

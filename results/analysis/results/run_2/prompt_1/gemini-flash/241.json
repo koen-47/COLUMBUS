@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (A) castles in the air.\n\nThe image shows two castles next to the letters \"A\" and \"IR\", which, when combined, create the phrase \"castles in the air\".  This idiom refers to unrealistic or impractical plans.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) castles in the air (B) castle in the air (C) king of the castle (D) in the air",
+   "answer": {
+      "A": "castles in the air"
+   },
+   "extracted_response": "A) castles in the air"
+}

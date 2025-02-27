@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The phrase conveyed in the image is (C) cap in hand.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hat in hand (B) set one's cap at (C) cap in hand (D) bust a cap",
+   "answer": {
+      "C": "cap in hand"
+   },
+   "extracted_response": "C, cap in hand"
+}

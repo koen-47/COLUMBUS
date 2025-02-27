@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"painful on the eyes.\" The word \"PAINFUL\" is above the line, and the \"IIII\" below suggests something that is hard to look at. Therefore, the correct answer is (D) painful on the eyes.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hard on the eyes (B) sight for sore eyes (C) easy on the eye (D) painful on the eyes",
+   "answer": {
+      "D": "painful on the eyes"
+   },
+   "extracted_response": "D) painful on the eyes"
+}

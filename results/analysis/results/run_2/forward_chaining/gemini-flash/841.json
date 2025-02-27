@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle and choose the correct answer:\n\nThe text \"WOSPANNERRRKS\" has the letters \"W\" and \"K\" in a different font style.  This visually separates them from the rest of the word, suggesting they should be removed. Removing \"W\" and \"K\" from \"WOSPANNERRRKS\" leaves \"SPANNER IN THE WORKS\".\n\nTherefore, the correct answer is (D) spanner in the works.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'WOSPANNERRKS' with 'W' and 'K' in a different font style.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) spick and span (B) spick-and-span (C) throw a spanner in the works (D) spanner in the works\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "spanner in the works"
+    }
+}

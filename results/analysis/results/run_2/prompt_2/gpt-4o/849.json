@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The answer is (A) split on a rock.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) split on a rock (B) rockslide (C) split one's sides (D) split up",
+   "answer": {
+      "A": "split on a rock"
+   },
+   "extracted_response": "A) split on a rock"
+}

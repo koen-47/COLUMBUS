@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows \"PUT\" twice, suggesting the word \"put\" is repeated in the solution. The word \"BED\" appears to the right, combining with the two \"PUT\"s to make \"PUT PUT BED.\" This phrase is a playful equivalent to \"put to bed.\" So, the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put to bed (B) bed in (C) sleep on (D) go to sleep",
+   "answer": {
+      "A": "put to bed"
+   },
+   "extracted_response": "A) put to bed"
+}

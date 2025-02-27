@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **find fault**.\n\nThe rebus shows the word \"FAULT\" written twice, implying that someone is finding (or looking for) a fault.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blame game (B) faultfinding (C) to a fault (D) find fault",
+   "answer": {
+      "C": "to a fault"
+   },
+   "extracted_response": "D) find fault"
+}

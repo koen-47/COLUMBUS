@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **left high and dry**.\n\nThe image shows \"HIGH\" with an arrow pointing down and an arrow pointing up, suggesting something is being left high and dry (abandoned or stranded).  The word \"DRY\" is also present to complete the idiom.  Options A and B are parts of the idiom but incomplete. Option D is a verb phrase, not the state of being left alone.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high and dry (B) on the dry (C) left high and dry (D) leave someone high and dry",
+   "answer": {
+      "C": "left high and dry"
+   },
+   "extracted_response": "C) left high and dry"
+}

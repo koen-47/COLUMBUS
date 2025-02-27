@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) moorland.\n\nThe image depicts two arrows pointing down and up, with the word \"LAND\" in the middle.  This visually represents the low-lying, relatively flat land of a moor.  Moors are characterized by open, often boggy, and high-altitude landscapes.  The other options don't fit this visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) heathland (B) midlands (C) midland (D) moorland",
+   "answer": {
+      "B": "midlands"
+   },
+   "extracted_response": "D) moorland"
+}

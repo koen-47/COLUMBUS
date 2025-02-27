@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) up to one's ears**.\n\nHere's why:\n\nThe rebus shows \"UP UP 1111 EARS\".  The number 1111 represents \"one's\" (four ones).  Therefore, the phrase is \"UP UP to ONE'S EARS\", which is equivalent to \"up to one's ears\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to one's ears (B) up on one's ear (C) believe one's ears (D) all ears",
+   "answer": {
+      "A": "up to one's ears"
+   },
+   "extracted_response": "A) up to one's ears"
+}

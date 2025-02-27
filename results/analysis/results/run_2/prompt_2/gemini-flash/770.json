@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(B) use one's head**.\n\nHere's why:\n\n* **REAR:** Refers to the back of something.\n* **1111:**  Represents four ones.\n* **Face:** The simple face icon signifies a person.\n\nPutting it together:  \"Use one's head\" means to think.  The rebus plays on the word \"rear\" (back) and the number \"1111\" representing the back of the head. The face then visually completes the phrase.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rear one's head (B) use one's head (C) in one's head (D) bring up the rear",
+   "answer": {
+      "A": "rear one's head"
+   },
+   "extracted_response": "B) use one's head"
+}

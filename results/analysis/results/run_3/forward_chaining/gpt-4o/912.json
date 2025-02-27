@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The text \"DETDEVILAIL\" can be rearranged to form the phrase \"the devil is in the detail.\"\n\nThe correct answer is (D) the devil is in the detail.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'DETDEVILAIL' in uppercase letters.\",\n  \"relation\": \"centered in the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) talk of the devil (B) speak of the devil and he appears (C) the devil is a liar (D) the devil is in the detail\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "the devil is in the detail"
+    }
+}

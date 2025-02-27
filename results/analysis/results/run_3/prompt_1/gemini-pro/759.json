@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows a playing card and the words \"PUT\" and \"TABLE.\" This clearly represents the phrase \"put cards on the table,\" so the answer is (C).\n\n(A) \"Put one's cards on the table\" is an idiom meaning to be open and honest, revealing one's intentions or opinions.  While the image evokes this idea, the literal interpretation (C) is a more direct representation of the image itself.\n(B) \"Put food on the table\" is an idiom about providing for one's family. The image is not related to food.\n(D) \"Hold the cards\" is the opposite of what the image depicts.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put one's cards on the table (B) put food on the table (C) put cards on the table (D) hold the cards",
+   "answer": {
+      "C": "put cards on the table"
+   },
+   "extracted_response": "C) put cards on the table"
+}

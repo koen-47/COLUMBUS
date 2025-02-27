@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(B) old hat**.\n\nThe image simply shows the word \"HAT\".  \"Old hat\" is an idiom meaning something that is outdated or unoriginal.  The other options relate to the color or style of a hat, or a hairstyle, which are not represented in the image.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) gray hat (B) old hat (C) hat hair (D) white hat",
+   "answer": {
+      "A": "gray hat"
+   },
+   "extracted_response": "B) old hat"
+}

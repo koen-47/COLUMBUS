@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"FACE\" written in three different positions: top left, top right, and bottom left. This arrangement suggests the phrase \"face to face,\" as the words are positioned opposite each other.\n\nThe correct answer is (D) face to face.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"FACE\",\n        \"description\": \"The word 'FACE' written in uppercase letters.\",\n        \"relation\": \"Top left of the image.\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"FACE\",\n        \"description\": \"The word 'FACE' written in uppercase letters.\",\n        \"relation\": \"Top right of the image.\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"FACE\",\n        \"description\": \"The word 'FACE' written in uppercase letters.\",\n        \"relation\": \"Bottom left of the image.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) lose face (B) give face (C) face down (D) face to face\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "face to face"
+    }
+}

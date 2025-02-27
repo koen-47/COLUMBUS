@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) wait for the other shoe to drop.\n\nThe image shows the word \"SHOE\" above a line, and below the line are the words \"OTHER FOOT\". This visually represents the idiom \"wait for the other shoe to drop,\" which implies waiting for the other half of a situation to unfold or for the remaining consequences to become clear.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the shoe is on the other foot (B) kick with the other foot (C) which foot the shoe is on (D) wait for the other shoe to drop",
+   "answer": {
+      "A": "the shoe is on the other foot"
+   },
+   "extracted_response": "D) wait for the other shoe to drop"
+}

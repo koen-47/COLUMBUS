@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) throw a spanner in the works.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spick and span (B) spick-and-span (C) throw a spanner in the works (D) spanner in the works",
+   "answer": {
+      "D": "spanner in the works"
+   },
+   "extracted_response": "C) throw a spanner in the works"
+}

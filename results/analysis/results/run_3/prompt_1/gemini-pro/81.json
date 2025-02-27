@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the word \"BLOOD\" in blue. This most likely refers to **(A) blue blood**, which is an idiom for noble or aristocratic descent.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue blood (B) young blood (C) bad blood (D) new blood",
+   "answer": {
+      "A": "blue blood"
+   },
+   "extracted_response": "A) blue blood"
+}

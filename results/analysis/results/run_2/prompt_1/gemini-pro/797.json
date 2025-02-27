@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"BRICKRUNWALL\", which means **(D) run into a brick wall**. This idiom describes encountering an insurmountable obstacle or difficulty.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop a brick (B) talk to a brick wall (C) brick in (D) run into a brick wall",
+   "answer": {
+      "D": "run into a brick wall"
+   },
+   "extracted_response": "D) run into a brick wall"
+}

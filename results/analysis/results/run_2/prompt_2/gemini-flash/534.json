@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) **turn against**.\n\nThe letters T, S, N, I, A, G, A are presented vertically.  Reading them in order, you get \"TSNIAGA\".  If you turn the letters 180 degrees, it spells AGAINST.  Therefore, the puzzle is \"Turn against\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tell against (B) turn against (C) pit against (D) up against",
+   "answer": {
+      "D": "up against"
+   },
+   "extracted_response": "B) turn against"
+}

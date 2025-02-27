@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts a wave spitting, making the idiom \"**spit in the ocean**\" the most appropriate choice. \"Spit in the ocean\" refers to an insignificant or futile action. The image represents this well with the small amount of 'spit' compared to the vastness the ocean represents.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) spit out (C) spit in the wind (D) spit on",
+   "answer": {
+      "A": "spit in the ocean"
+   },
+   "extracted_response": "A) spit in the ocean"
+}

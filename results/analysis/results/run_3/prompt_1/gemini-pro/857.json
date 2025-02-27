@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts the idiom \"stand head and shoulders above,\" but since the shoulders are omitted, it becomes \"stand (above one's) head.\"  Replacing the above with four ones gives \"stand 1111 head\" which means to be much better than.\n\nNone of the options presented fully represent this idiom.  However, **(A) hold one's head high** and **(D) with one's head held high** are closest in meaning, as they imply pride and superiority, similar to the sentiment of \"standing head and shoulders above.\"  Between the two, (A) is slightly closer because it implies an action, while (D) describes a state.\n\nTherefore, the best option is **(A) hold one's head high**.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold one's head high (B) keep one's head (C) stand on one's head (D) with one's head held high",
+   "answer": {
+      "C": "stand on one's head"
+   },
+   "extracted_response": "A) hold one's head high"
+}

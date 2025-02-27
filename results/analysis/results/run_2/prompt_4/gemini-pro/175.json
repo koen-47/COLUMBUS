@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle represents \"Big Man on Campus\". Here's why:\n\n* **MAN** is above **CAMPUS**: The spatial relationship described by the edge indicates \"MAN\" is positioned over \"CAMPUS\".\n* **Big**: Node 1 has the attribute \"size: big\", indicating \"MAN\" is meant to be interpreted as \"Big Man.\"\n\nPutting it all together, \"Big MAN on CAMPUS\" gives us option (A).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: MAN, repeat: 1, size: big)\nNode 2 attributes: (text: CAMPUS, repeat: 1)\nEdge 1: node 1 to node 2 (rule: ABOVE)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) big man on campus (B) big girl (C) big name (D) main man",
+   "answer": {
+      "A": "big man on campus"
+   },
+   "extracted_response": "A) big man on campus"
+}

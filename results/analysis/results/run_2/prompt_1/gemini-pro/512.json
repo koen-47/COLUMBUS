@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"GO\" twice, which implies \"Go Go\". This is slang for \"Go places\" (C).\nThe other options are all ways to use the word \"go\", but don't fully capture the meaning conveyed by the repetition.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go towards (B) go far (C) go places (D) to go",
+   "answer": {
+      "D": "to go"
+   },
+   "extracted_response": "C"
+}

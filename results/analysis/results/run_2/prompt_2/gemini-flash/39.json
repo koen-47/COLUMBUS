@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) back up.\n\nThe letters K, C, A, and B are vertically stacked.  If you read them backward, they spell \"BACK\".  Therefore the rebus represents \"BACK UP\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put someone's back up (B) back off (C) back up (D) back down",
+   "answer": {
+      "C": "back up"
+   },
+   "extracted_response": "C) back up"
+}

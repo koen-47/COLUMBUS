@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows the word \"PUT,\" an image of lipstick, a horizontal line, and then an image of a pig. This represents the phrase \"put lipstick on a pig.\" So the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make a pig of oneself (B) lipstick (C) put lipstick on a pig (D) lipsticks",
+   "answer": {
+      "C": "put lipstick on a pig"
+   },
+   "extracted_response": "C"
+}

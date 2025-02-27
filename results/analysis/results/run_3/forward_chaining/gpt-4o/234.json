@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains the text \"HIT NAIL\" above a horizontal line, with a face below the line. This setup suggests the phrase \"hit the nail on the head,\" as the text \"HIT NAIL\" is directly above the \"head\" (represented by the face).\n\nThe correct answer is (C) hit the nail on the head.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_hit_nail\",\n        \"description\": \"The text 'HIT NAIL' written in uppercase letters.\",\n        \"relation\": \"above_line\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"horizontal_line\",\n        \"description\": \"A horizontal line.\",\n        \"relation\": \"between_text_and_face\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"face\",\n        \"description\": \"A simple drawing of a face with two eyes and a mouth.\",\n        \"relation\": \"below_line\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) nail down (B) nail in the coffin (C) hit the nail on the head (D) nail the hammer on the head\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "hit the nail on the head"
+    }
+}

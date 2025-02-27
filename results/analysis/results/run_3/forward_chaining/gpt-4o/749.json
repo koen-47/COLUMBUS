@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains the word \"PULL\" and a flame icon. \n\n- \"PULL\" corresponds to the action of pulling.\n- The flame icon represents fire.\n\nThe combination suggests the phrase \"pull out of the fire.\"\n\nTherefore, the correct answer is (C) pull out of the fire.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"text_pull\",\n        \"description\": \"The word 'PULL' written in capital letters.\",\n        \"relation\": \"left of the image\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"icon_flame\",\n        \"description\": \"A flame icon inside a square border.\",\n        \"relation\": \"right of the text 'PULL'\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) put out a fire (B) pull out (C) pull out of the fire (D) open fire\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "pull out of the fire"
+    }
+}

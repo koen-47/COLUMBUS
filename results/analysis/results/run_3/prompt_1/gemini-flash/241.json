@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (A) **castles in the air**.\n\nThe image shows two castles with the letters \"A\" and \"IR\" flanking them.  This visually represents \"castles in the air\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) castles in the air (B) castle in the air (C) king of the castle (D) in the air",
+   "answer": {
+      "A": "castles in the air"
+   },
+   "extracted_response": "A) castles in the air"
+}

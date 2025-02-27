@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) **make happen**.\n\nThe image shows the word \"MAKE\" repeated four times.  This visually represents the idea of repeatedly making something happen, creating something, or bringing something into existence.  The other options don't fit this visual representation as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) make do (B) make happen (C) make for (D) make over",
+   "answer": {
+      "C": "make for"
+   },
+   "extracted_response": "B) make happen"
+}

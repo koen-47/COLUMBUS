@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The letters D, N, and E are arranged vertically, indicating **(D) come to an end**.  The letters are at the \"end\" of the vertical arrangement.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) end of (B) end up (C) put an end to (D) come to an end",
+   "answer": {
+      "B": "end up"
+   },
+   "extracted_response": "D) come to an end"
+}

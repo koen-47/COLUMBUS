@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The json describes the word \"DEAL\".\n\n* **(A) good grief:**  Doesn't contain \"DEAL\".\n* **(B) real deal:** Contains \"DEAL\".\n* **(C) big deal:** Contains \"DEAL\".\n* **(D) great deal:** Contains \"DEAL\".\n\nOnly options B, C and D contain the word DEAL. However, only option B, real deal has the word DEAL in the end of the phrase.\n\nThus the answer is (B) real deal.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_DEAL\",\n  \"description\": \"The word 'DEAL' written in uppercase letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) good grief (B) real deal (C) big deal (D) great deal\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "big deal"
+    }
+}

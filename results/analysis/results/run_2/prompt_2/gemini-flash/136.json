@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(C) crosshatch**.\n\nThe image shows a picture of a suit (or vest) crossed by a horizontal line.  This visually represents \"cross\" and \"hatch\" (the lines on the suit resemble a hatch pattern).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crosspatch (B) crosshead (C) crosshatch (D) crosstie",
+   "answer": {
+      "D": "crosstie"
+   },
+   "extracted_response": "C) crosshatch"
+}

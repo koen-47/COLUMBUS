@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the word \"ECAPS\" twice, which is \"SPACE\" spelled backward. Pressing the backspace key on a keyboard removes the last character typed. Pressing it twice removes two characters. Since the word is \"SPACE\" backward, and there are two instances of it, this implies pressing the backspace key twice, meaning **(B) backspaces**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backspace (B) backspaces (C) backspacer (D) space out",
+   "answer": {
+      "B": "backspaces"
+   },
+   "extracted_response": "B) backspaces"
+}

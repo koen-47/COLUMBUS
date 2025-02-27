@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The best answer is (B) handshake.  The image clearly shows two hands shaking, which is the visual representation of a handshake.  The other options involve additional context (financial in the case of \"golden handshake\" and \"green handshake\") that isn't present in the image itself.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) golden handshake (B) handshake (C) handshaking (D) green handshake",
+   "answer": {
+      "D": "green handshake"
+   },
+   "extracted_response": "B) handshake"
+}

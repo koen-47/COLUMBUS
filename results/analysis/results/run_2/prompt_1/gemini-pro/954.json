@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase **(D) in the air**. The up arrow between the \"A\" and \"IR\" visually represents something going up into the air.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up in arms (B) up in the air (C) beat the air (D) in the air",
+   "answer": {
+      "B": "up in the air"
+   },
+   "extracted_response": "D) in the air"
+}

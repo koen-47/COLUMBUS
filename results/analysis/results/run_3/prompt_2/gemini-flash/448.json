@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) poxvirus.\n\nThe rebus shows the word \"POX\", which is a suffix commonly used in the names of viral diseases, such as smallpox.  The word \"poxvirus\" is a family of viruses that cause these diseases.  The other options are specific diseases caused by poxviruses or a general term for the spread of disease, but poxvirus is the most direct and accurate answer given the image.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) smallpox (B) measles (C) poxvirus (D) outbreak",
+   "answer": {
+      "A": "smallpox"
+   },
+   "extracted_response": "C) poxvirus"
+}

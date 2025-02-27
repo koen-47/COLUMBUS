@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **to the bone**.\n\nThe image shows the word \"BONE\" stacked on top of the word \"BONE\".  This visually represents the idiom \"to the bone,\" meaning something is done completely or thoroughly.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) chill to the bone (C) throw a bone to (D) to the bone",
+   "answer": {
+      "D": "to the bone"
+   },
+   "extracted_response": "D) to the bone"
+}

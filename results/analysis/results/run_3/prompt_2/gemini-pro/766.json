@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle says \"PUT\" followed by a picture of a fire in a box.  \"Putting fire in a box\" can be interpreted as containing or extinguishing the fire.  Therefore, the answer is (C) put out a fire.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch fire (B) pull out of the fire (C) put out a fire (D) feed the fire",
+   "answer": {
+      "C": "put out a fire"
+   },
+   "extracted_response": "C) put out a fire"
+}

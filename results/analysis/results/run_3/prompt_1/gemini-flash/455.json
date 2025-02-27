@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) bone to pick**.\n\nThe image shows two bones, visually representing the idiom \"to have a bone to pick,\" which means to have a grievance or complaint to settle with someone.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) throw a bone to (C) to the bone (D) chill to the bone",
+   "answer": {
+      "C": "to the bone"
+   },
+   "extracted_response": "A) bone to pick"
+}

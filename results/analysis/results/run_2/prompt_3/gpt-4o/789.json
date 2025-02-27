@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle consists of:\n\n- Four running icons (\ud83c\udfc3), which can be interpreted as \"run\" repeated four times or \"run for.\"\n- The number \"1111,\" which sounds like \"one's.\"\n- A money icon (\ud83d\udcb5).\n\nPutting these elements together, the phrase is \"run for one's money.\"\n\nThe correct answer is (D) run for one's money.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83c\udfc3, repeat: 4, icon: (run: \ud83c\udfc3), sound: (for: 4))\nNode 2 attributes: (text: 1111, repeat: 1, sound: (one's: 1111))\nNode 3 attributes: (text: \ud83d\udcb5, repeat: 1, icon: (money: \ud83d\udcb5))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) make a run for it (B) run with (C) run for one's life (D) run for one's money",
+   "answer": {
+      "D": "run for one's money"
+   },
+   "extracted_response": "D) run for one's money"
+}

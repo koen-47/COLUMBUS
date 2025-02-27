@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "C) handover",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) holdovers (B) leftover (C) handover (D) stopover",
+   "answer": {
+      "B": "leftover"
+   },
+   "extracted_response": "C) handover"
+}

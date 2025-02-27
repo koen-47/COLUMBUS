@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts \"roll\" as in a roll of money.  Since there are dollar signs, it's referring to wealth. Therefore, the answer is (A) roll in wealth.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roll in wealth (B) on a roll (C) rollover (D) call roll",
+   "answer": {
+      "A": "roll in wealth"
+   },
+   "extracted_response": "A) roll in wealth"
+}

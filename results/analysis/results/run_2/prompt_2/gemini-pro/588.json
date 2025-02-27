@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows two ears and the word \"GROUND\".  This represents the idiom \"**ear to the ground**\" (C). This phrase means to pay close attention to rumors and news to stay informed about current events.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) play by ear (B) give ear (C) ear to the ground (D) up on one's ear",
+   "answer": {
+      "C": "ear to the ground"
+   },
+   "extracted_response": "C"
+}

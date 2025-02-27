@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) cross the aisle**.\n\nThe image shows the word \"AISLE\" with a line crossing through it.  This visually represents the act of crossing an aisle.  \"Cross the aisle\" is an idiom often used in politics to describe someone changing their party affiliation or voting against their own party.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross the aisle (B) roll in the aisles (C) cross the line (D) cross one's legs",
+   "answer": {
+      "A": "cross the aisle"
+   },
+   "extracted_response": "A) cross the aisle"
+}

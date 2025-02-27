@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the word **(B) hand over hand**.\n\nThe word \"HANDOVE\" appears in the image, which looks like a contraction of \"hand over.\" While none of the options perfectly match, \"hand over hand\" makes the most sense in terms of visual similarity and potential meaning (i.e. grabbing higher with each hand).\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in hand (B) hand over hand (C) hand in hand (D) hand in glove",
+   "answer": {
+      "D": "hand in glove"
+   },
+   "extracted_response": "B) hand over hand"
+}

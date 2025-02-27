@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) ox is in the ditch.  The image shows an ox between the letters \"DI\" and \"TCH,\" creating the phrase.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) itch the ditch (B) hurler on the ditch (C) keep it between the ditches (D) ox is in the ditch",
+   "answer": {
+      "D": "ox is in the ditch"
+   },
+   "extracted_response": "D) ox is in the ditch"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"stand for.\" The \"4\" and \"4\" on either side of \"STAND\" suggest the idea of \"for\" as in \"4\" representing \"for.\" \n\nSo the answer is (B) stand for.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stand out (B) stand for (C) stand in for (D) stand with",
+   "answer": {
+      "C": "stand in for"
+   },
+   "extracted_response": "B) stand for"
+}

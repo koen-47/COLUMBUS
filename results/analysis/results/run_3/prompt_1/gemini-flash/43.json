@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(B) backrooms**.\n\nThe image shows two instances of the word \"MOOR\" stacked vertically.  When you read the words vertically it spells \"MOOR\" and \"MOOR,\" which is a visual pun on the phrase \"backrooms.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) backroom (B) backrooms (C) showrooms (D) playrooms",
+   "answer": {
+      "B": "backrooms"
+   },
+   "extracted_response": "B) backrooms"
+}

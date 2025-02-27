@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (A) before the bell rings. The downward arrow points to the word \"BELL,\" and the upward arrow points to the word \"RINGS,\" indicating anticipation of the bell ringing.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before the bell rings (B) saved by the bell (C) ring a bell (D) ring someone's bell",
+   "answer": {
+      "A": "before the bell rings"
+   },
+   "extracted_response": "A"
+}

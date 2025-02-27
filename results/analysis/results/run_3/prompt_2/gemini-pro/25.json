@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows \"AS\" over \"AS\".  This represents \"as well as\", but that's not an option. Of the available options, the rebus can be interpreted as **(A) as for**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) as for (B) as to (C) as in (D) as of",
+   "answer": {
+      "B": "as to"
+   },
+   "extracted_response": "A"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"go over majority\".  \"Go\" is above a line, and \"majority\" is repeated below it, suggesting going over or beyond the majority. So the answer is (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go over to the majority (B) vast majority (C) go to the polls (D) go over",
+   "answer": {
+      "A": "go over to the majority"
+   },
+   "extracted_response": "A"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"TIWHYME\".  If you separate the letters, it reads \"T I WHY ME\".  Therefore, the answer is (B) why in the world.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what in time (B) why in the world (C) why in time (D) time after time",
+   "answer": {
+      "C": "why in time"
+   },
+   "extracted_response": "B) why in the world"
+}

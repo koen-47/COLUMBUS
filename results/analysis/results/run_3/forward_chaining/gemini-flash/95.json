@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"KAERB\" is \"BREAK\" spelled backward.  Therefore, the image is a rebus representing the word BREAK.\n\nLet's look at the answer choices:\n\n* **(A) break one's back:** This fits with the image.\n* **(B) break the back of:** This fits with the image.\n* **(C) break one's neck:** This does *not* fit with the image.\n* **(D) break someone's back:** This fits with the image.\n\nAll of the options A, B, and D include \"break\", which is consistent with the image.  There isn't enough information to distinguish between them.  The JSON doesn't provide further context to select just one answer.\n\nTherefore, without further information, I can't definitively choose one answer from the options given.  Options A, B, and D are all plausible interpretations.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'KAERB' written in uppercase letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) break one's back (B) break the back of (C) break one's neck (D) break someone's back\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "break the back of"
+    }
+}

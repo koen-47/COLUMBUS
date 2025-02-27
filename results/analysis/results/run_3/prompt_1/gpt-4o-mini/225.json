@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) have a bone to pick.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) have a bone to pick (B) bone to pick (C) take one's pick (D) throw a bone to",
+   "answer": {
+      "A": "have a bone to pick"
+   },
+   "extracted_response": "A) have a bone to pick"
+}

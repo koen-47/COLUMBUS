@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows \"III\" above a trophy. This represents third place.  None of the options directly relate to third place, but **(C) booby prize** is the closest. A booby prize is typically given to the last-place finisher, but it can sometimes be for other non-winning positions, including third.  The other options don't fit the image.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) eyes on the prize (C) booby prize (D) prizefight",
+   "answer": {
+      "B": "eyes on the prize"
+   },
+   "extracted_response": "C"
+}

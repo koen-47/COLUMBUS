@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) for all the world to see.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for all the world to see (B) in the world (C) for all the world (D) not for the world",
+   "answer": {
+      "C": "for all the world"
+   },
+   "extracted_response": "A"
+}

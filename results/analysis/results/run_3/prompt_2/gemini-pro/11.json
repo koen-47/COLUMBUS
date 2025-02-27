@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows \"LIFE\" with arrows pointing up and down after it.  This represents \"after LIFE\". The fact that \"LIFE\" appears twice signifies plural. Therefore, the answer is (C) afterlives.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftertastes (B) afterthought (C) afterthoughts (D) afterlives",
+   "answer": {
+      "D": "afterlives"
+   },
+   "extracted_response": "D) afterlives"
+}

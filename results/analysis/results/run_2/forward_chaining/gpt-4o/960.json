@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows an up arrow and a down arrow on the left side, with the word \"HERE\" on the right side. This configuration matches the phrase \"up to here.\"\n\nThe correct answer is (B) up to here.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"up_arrow\",\n        \"description\": \"A black arrow pointing upwards.\",\n        \"relation\": \"located on the left side, above the text 'HERE'\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"down_arrow\",\n        \"description\": \"A black arrow pointing downwards.\",\n        \"relation\": \"located on the left side, below the up arrow\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"text_here\",\n        \"description\": \"The word 'HERE' in bold black letters.\",\n        \"relation\": \"located on the right side of the arrows\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) up for (B) up to here (C) up to something (D) put up to\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "up to here"
+    }
+}

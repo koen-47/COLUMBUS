@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) stand for.\n\nThe rebus shows \"4STAND4\".  The number 4 is a homophone for \"for\". Therefore, the image represents \"stand for\".",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_4STAND4\",\n  \"description\": \"The text '4STAND4' is written in bold, black font.\",\n  \"relation\": \"This is the only item in the image and forms the entire rebus puzzle.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) stand out (B) stand for (C) stand in for (D) stand with\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "stand in for"
+    }
+}

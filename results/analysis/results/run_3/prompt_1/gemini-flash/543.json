@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) from beginning to end.\n\nThe image shows arrows pointing up and down, with the word \"FROM\" in the middle, and \"FINISH\" written at the top and bottom. This visually represents a process starting at the beginning (bottom arrow) and going to the end (top arrow).  Options A, B, and D don't perfectly reflect this visual representation of a complete process.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) begin at the beginning (B) from start to finish (C) from beginning to end (D) from scratch",
+   "answer": {
+      "B": "from start to finish"
+   },
+   "extracted_response": "C) from beginning to end"
+}

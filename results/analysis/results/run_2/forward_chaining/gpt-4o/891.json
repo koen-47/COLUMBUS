@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains the word \"TAKE\" written twice and an icon of a bank. This corresponds to the phrase \"take to the bank.\"\n\nThe correct answer is (A) take to the bank.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_take\",\n        \"description\": \"The word 'TAKE' written in bold uppercase letters.\",\n        \"relation\": \"Located at the top left of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"text_take\",\n        \"description\": \"The word 'TAKE' written in bold uppercase letters.\",\n        \"relation\": \"Located below the first 'TAKE' text on the left side of the image.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"bank_icon\",\n        \"description\": \"An icon of a bank with a dollar sign on it.\",\n        \"relation\": \"Located to the right of the 'TAKE' texts.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) take to the bank (B) break the bank (C) bank night (D) laugh all the way to the bank\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "take to the bank"
+    }
+}

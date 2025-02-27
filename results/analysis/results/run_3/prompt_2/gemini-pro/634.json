@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows two FISH and one FRY. This represents \"two fish to fry,\" or, in idiom form, **(D) fish to fry**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go fish (B) bigger fish to fry (C) fry up (D) fish to fry",
+   "answer": {
+      "D": "fish to fry"
+   },
+   "extracted_response": "D) fish to fry"
+}

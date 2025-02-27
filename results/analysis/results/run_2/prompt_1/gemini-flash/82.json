@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) blue collar work.  The image shows the words \"COLLAR\" in blue and \"WORK\" in black, clearly suggesting the phrase \"blue collar work\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue-collar (B) blue collar work (C) bluewing (D) work like a dog",
+   "answer": {
+      "B": "blue collar work"
+   },
+   "extracted_response": "B) blue collar work"
+}

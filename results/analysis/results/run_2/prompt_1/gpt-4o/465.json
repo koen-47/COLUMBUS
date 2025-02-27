@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "A) to date",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) to date (B) double date (C) sell-by date (D) start date",
+   "answer": {
+      "D": "start date"
+   },
+   "extracted_response": "A) to date"
+}

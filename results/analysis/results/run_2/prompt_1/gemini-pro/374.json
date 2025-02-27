@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the idiom \"**The devil is in the details (A)**\". The devil emoji is placed within the word \"details\", visually representing the phrase.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) devil is in the details (B) talk of the devil (C) devil in disguise (D) speak of the devil",
+   "answer": {
+      "A": "devil is in the details"
+   },
+   "extracted_response": "A"
+}

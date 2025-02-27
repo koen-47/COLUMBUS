@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows a clock with arrows pointing towards and away from it, next to another clock. This symbolizes time going back and forth, or happening repeatedly.  This best represents (D) time after time.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) time flies (B) what in time (C) make time (D) time after time",
+   "answer": {
+      "D": "time after time"
+   },
+   "extracted_response": "D) time after time"
+}

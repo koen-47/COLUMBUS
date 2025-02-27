@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"pull out of the fire.\" The word \"PULL\" is next to the word \"FIRE\" in a way that suggests pulling something out of a box or situation. Therefore, the correct answer is (C) pull out of the fire.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) open fire (B) pull out (C) pull out of the fire (D) put out a fire",
+   "answer": {
+      "C": "pull out of the fire"
+   },
+   "extracted_response": "C) pull out of the fire"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"OLD\" in a standard font, which suggests a straightforward interpretation. Given the options, the best fit is:\n\n(A) old school\n\nThis is because \"old\" is presented clearly, and \"school\" can be inferred as a common phrase associated with \"old.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) old school (B) little old (C) big old (D) some old",
+   "answer": {
+      "B": "little old"
+   },
+   "extracted_response": "A) old school"
+}

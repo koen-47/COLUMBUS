@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"SDROPEA\".  This is \"A DROP\" with the \"SEA\" at the end.\n\nSo the answer is (D) drop in the sea.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at sea (B) drop in the pond (C) drop dead (D) drop in the sea",
+   "answer": {
+      "D": "drop in the sea"
+   },
+   "extracted_response": "D) drop in the sea"
+}

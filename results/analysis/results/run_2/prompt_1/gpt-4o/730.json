@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(B) pennies on the dollar",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) two pennies' worth (B) pennies on the dollar (C) two pennies to rub together (D) pretty penny",
+   "answer": {
+      "B": "pennies on the dollar"
+   },
+   "extracted_response": "B"
+}

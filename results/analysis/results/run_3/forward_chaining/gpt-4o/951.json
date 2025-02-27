@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"UP\" written vertically three times on the left side and the word \"GRABS\" written horizontally on the right side, aligned with the middle \"UP\". This corresponds to the phrase \"up for grabs.\"\n\nThe correct answer is (A) up for grabs.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"1\",\n    \"name\": \"UP\",\n    \"description\": \"The word 'UP' written vertically three times.\",\n    \"relation\": \"Left side of the image, stacked vertically.\"\n}\n```\n\n```json\n{\n    \"id\": \"2\",\n    \"name\": \"GRABS\",\n    \"description\": \"The word 'GRABS' written horizontally.\",\n    \"relation\": \"Right side of the image, aligned with the middle 'UP'.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) up for grabs (B) up on (C) up for (D) all up\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "up for grabs"
+    }
+}

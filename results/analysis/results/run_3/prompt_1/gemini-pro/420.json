@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"**D) devil in disguise**\". \n\nThe letters can be separated to spell out \"DISG DEVIL UISE\". Removing the extra letters spells out \"DEVIL DISGUISE\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) devil lies in the details (B) the devil (C) devil is in the details (D) devil in disguise",
+   "answer": {
+      "D": "devil in disguise"
+   },
+   "extracted_response": "D) devil in disguise"
+}

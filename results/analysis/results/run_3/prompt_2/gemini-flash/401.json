@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (A) red tape.\n\nThe word \"TAPE\" is written in red.  This is a visual pun representing \"red tape,\" a common idiom referring to excessive bureaucracy or official formality.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) red tape (B) tapeline (C) play the same tape (D) cut red tape",
+   "answer": {
+      "A": "red tape"
+   },
+   "extracted_response": "A) red tape"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the words \"BENT SHAPE,\" which corresponds to option C, \"bent out of shape.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) out of shape (B) bent on (C) bent out of shape (D) get bent",
+   "answer": {
+      "C": "bent out of shape"
+   },
+   "extracted_response": "C"
+}

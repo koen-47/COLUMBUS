@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word conveyed in the image is \"SPIT\" with the letters rearranged. The correct option is (D) spit in the wind.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) spit out (C) spit on (D) spit in the wind",
+   "answer": {
+      "A": "spit in the ocean"
+   },
+   "extracted_response": "D"
+}

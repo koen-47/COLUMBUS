@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The JSON describes the letters E, R, U, S, A, E, M arranged vertically.  Reading these vertically gives the phrase \"measure up\".\n\nTherefore, the answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"vertical_text\",\n  \"description\": \"The letters E, R, U, S, A, E, M arranged vertically from top to bottom.\",\n  \"relation\": \"none\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) last full measure (B) measure up (C) measure the drapes (D) for good measure\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "measure up"
+    }
+}

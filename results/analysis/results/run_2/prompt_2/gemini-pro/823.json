@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus is \"See eye to eye.\"  The word \"see\" is followed by multiple \"eyes,\" implying agreement or shared perspective.  So the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye up (B) eye for an eye (C) catch the eye (D) see eye to eye",
+   "answer": {
+      "D": "see eye to eye"
+   },
+   "extracted_response": "D) see eye to eye"
+}

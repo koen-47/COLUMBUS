@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word \"PUT\" is to the left of the square containing the fire symbol (which looks like a teardrop). Combining this means \"PUT [out] fire\". Therefore, the answer is (C) put out a fire.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"text_put\",\n  \"description\": \"The word 'PUT' in uppercase letters.\",\n  \"relation\": \"to the left of the square with a teardrop\"\n}\n```\n\n```json\n{\n  \"id\": \"item2\",\n  \"name\": \"square_with_teardrop\",\n  \"description\": \"A square containing a teardrop shape with a check mark inside.\",\n  \"relation\": \"to the right of the word 'PUT'\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) catch fire (B) pull out of the fire (C) put out a fire (D) feed the fire\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "put out a fire"
+    }
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts \"punching\" above a line representing \"weight\".  Therefore, the answer is (D) punch above one's weight.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) punch below one's weight (B) hit below one's weight (C) throw one's weight behind (D) punch above one's weight",
+   "answer": {
+      "D": "punch above one's weight"
+   },
+   "extracted_response": "D) punch above one's weight"
+}

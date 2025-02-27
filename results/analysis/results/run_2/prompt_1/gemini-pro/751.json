@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts \"PULL\" next to a picture of a hat being pulled from a box. This clearly represents **(C) pull out of the hat**. The other options don't fit the visual:\n\n* **(A) put a hat on a hat:**  The image shows a hat being *removed*, not put on another hat.\n* **(B) take one's hat off to:** This idiom means to show respect, which isn't depicted here.\n* **(D) pick out of a hat:** While similar to \"pull out of a hat,\" the image specifically shows a pulling motion, not picking.  \"Pick\" suggests choosing from several items, whereas the image shows only one hat.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a hat on a hat (B) take one's hat off to (C) pull out of the hat (D) pick out of a hat",
+   "answer": {
+      "C": "pull out of the hat"
+   },
+   "extracted_response": "C) pull out of the hat"
+}

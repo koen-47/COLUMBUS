@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows \"10\" and \"1\" with a \"\u03b8\" in between. This can be interpreted as \"ten to one.\" \n\nSo, the answer is (C) ten to one.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) one at a time (B) nine times out of ten (C) ten to one (D) five will get you ten",
+   "answer": {
+      "C": "ten to one"
+   },
+   "extracted_response": "C) ten to one"
+}

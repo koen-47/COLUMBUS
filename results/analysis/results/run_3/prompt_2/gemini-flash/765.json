@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) put someone's lights out.\n\nThe image shows the word \"PUT\" above a line, and the word \"LIGHT\" in red below the line.  The line acts as a visual representation of \"putting\" the word \"LIGHT\" out (or under).  This idiom means to knock someone unconscious.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run a red light (B) put on the red light (C) put someone's lights out (D) red light",
+   "answer": {
+      "B": "put on the red light"
+   },
+   "extracted_response": "C) put someone's lights out"
+}

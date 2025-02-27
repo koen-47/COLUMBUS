@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The phrase conveyed in the image is (B) set the Thames on fire.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set the world on fire (B) set the thames on fire (C) cross the Thames (D) put out a fire",
+   "answer": {
+      "B": "set the thames on fire"
+   },
+   "extracted_response": "B) set the thames on fire"
+}

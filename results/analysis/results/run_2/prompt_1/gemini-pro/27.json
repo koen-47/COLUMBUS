@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image represents **(C) day after day**.  The arrows pointing towards and away from \"DAY\" symbolize the repetitive nature of days coming and going.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) at the end of the day (B) at the last minute (C) day after day (D) the other day",
+   "answer": {
+      "A": "at the end of the day"
+   },
+   "extracted_response": "C) day after day"
+}

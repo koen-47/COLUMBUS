@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) golden handshake.\n\nThe word \"HANDSHAKE\" is written in green.  A \"golden handshake\" is a colloquial term for a large payment made to someone upon their departure from a job, often as a form of severance pay.  The green color is a play on words, suggesting a \"golden\" handshake (gold being the color of the metal gold).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) green handshake (B) golden handshake (C) handshake (D) handshaking",
+   "answer": {
+      "A": "green handshake"
+   },
+   "extracted_response": "B) golden handshake"
+}

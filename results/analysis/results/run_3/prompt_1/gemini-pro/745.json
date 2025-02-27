@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts two identical desert scenes flanking the word \"preach,\" suggesting that the message is being repeated to the same audience with little impact, like speaking to an uninhabited desert.\n\nThe correct answer is (C) preach to deaf ears.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) preach in the desert (B) preach to the choir (C) preach to deaf ears (D) just deserts",
+   "answer": {
+      "A": "preach in the desert"
+   },
+   "extracted_response": "C) preach to deaf ears"
+}

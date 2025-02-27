@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (A) back to square one.\n\nThe image depicts the words \"BACK BACK\" and the words \"\u2610 1\", suggesting a return to the beginning or the first square. This is idiomatically expressed as \"back to square one.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) back to square one (B) square away (C) square on (D) square one",
+   "answer": {
+      "A": "back to square one"
+   },
+   "extracted_response": "A) back to square one"
+}

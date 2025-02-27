@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **wind up**.  The letters in the image, when read downwards, spell \"WIND\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wind down (B) wind off (C) wind up (D) get the wind up",
+   "answer": {
+      "C": "wind up"
+   },
+   "extracted_response": "C) wind up"
+}

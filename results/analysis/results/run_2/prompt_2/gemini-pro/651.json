@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The word \"GNIDLOH\" is \"HOLDING\" spelled backward.  Combined with the image of a baby, the rebus represents \"holding the baby\".  Thus the intended phrase, considering the word is backward, is **(C) left holding the baby**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) leave someone holding the baby (B) left holding the bag (C) left holding the baby (D) throw the baby out with the bathwater",
+   "answer": {
+      "C": "left holding the baby"
+   },
+   "extracted_response": "C) left holding the baby"
+}

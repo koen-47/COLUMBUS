@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the idiom \"elephant in the room\" (A).  The elephant is literally placed *in* the word \"room.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) elephant in the room (B) pink elephant (C) white elephant (D) baby elephant in the room",
+   "answer": {
+      "A": "elephant in the room"
+   },
+   "extracted_response": "A) elephant in the room"
+}

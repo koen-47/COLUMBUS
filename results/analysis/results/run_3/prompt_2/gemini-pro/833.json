@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows the word \"PIECE\" next to the word \"PUZZLE\".  This represents \"piece of\" a puzzle.\n\nThe intended answer is **(D) piece of cake**. \"Piece of\" is directly from the puzzle, and since it relates to a puzzle, the saying \"piece of cake,\" meaning something easy, is the solution.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small piece of the puzzle (B) of a piece (C) a piece of cake (D) piece of cake",
+   "answer": {
+      "A": "small piece of the puzzle"
+   },
+   "extracted_response": "D) piece of cake"
+}

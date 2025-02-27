@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows \"1111\" with a four-leaf clover, with a line over them and an arrow pointing down. This represents \"pushing down on\" the four-leaf clover, which is a symbol of luck.  Therefore the answer is (B) down on one's luck.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) push one's luck (B) down on one's luck (C) cross fingers for luck (D) ride one's luck",
+   "answer": {
+      "B": "down on one's luck"
+   },
+   "extracted_response": "B) down on one's luck"
+}

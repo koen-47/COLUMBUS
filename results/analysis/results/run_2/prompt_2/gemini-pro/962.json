@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle represents \"up to one's ears\". The two up arrows represent \"up to\" and the number \"1111\" along with \"ears\" can be translated to \"one's ears\". Therefore, the answer is C.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) all ears (B) believe one's ears (C) up to one's ears (D) up on one's ear",
+   "answer": {
+      "C": "up to one's ears"
+   },
+   "extracted_response": "C) up to one's ears"
+}

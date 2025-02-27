@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(A) go up in smoke**.\n\nThe image shows the word \"SMOKE\" rearranged with the \"G\" below the \"O\".  This visually represents something disappearing or vanishing into smoke.  \"Go up in smoke\" means to disappear or be wasted, which fits the visual representation best.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go up in smoke (B) smoke out (C) go up in flames (D) blow smoke",
+   "answer": {
+      "A": "go up in smoke"
+   },
+   "extracted_response": "A) go up in smoke"
+}

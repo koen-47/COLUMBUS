@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **crossfire**.\n\nThe image shows the word \"FIRE\" with a line crossing through it, visually representing the idea of being caught in the middle of a conflict or \"crossfire\".  While (A) is close, (B) is more concise and directly represents the visual.  (C) is incorrect grammatically, and (D) is unrelated to the image.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) caught in the crossfire (B) crossfire (C) crossfires (D) escape fire",
+   "answer": {
+      "B": "crossfire"
+   },
+   "extracted_response": "B) crossfire"
+}

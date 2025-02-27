@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (B) water over the dam. The horizontal line acts as the dam, with the word \"WATER\" placed above it.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) water down (B) water over the dam (C) water under the bridge (D) head above water",
+   "answer": {
+      "B": "water over the dam"
+   },
+   "extracted_response": "B) water over the dam"
+}

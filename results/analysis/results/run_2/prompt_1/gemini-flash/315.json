@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(B) come back from the dead**.\n\nThe image shows the word \"FROM\" and a skull, and the word \"EMOC\" which is \"COME\" spelled backward.  Putting it together, it says \"COME FROM\" next to a symbol of death. This alludes to returning from death.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stop dead (B) come back from the dead (C) come alive (D) come to grief",
+   "answer": {
+      "B": "come back from the dead"
+   },
+   "extracted_response": "B) come back from the dead"
+}

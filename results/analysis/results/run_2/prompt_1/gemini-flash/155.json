@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts a flame caught in the middle of a line, representing the idiom \"caught in the crossfire\". Therefore, the answer is **(A) caught in the crossfire**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) caught in the crossfire (B) crossfires (C) crossfire (D) escape fire",
+   "answer": {
+      "C": "crossfire"
+   },
+   "extracted_response": "A) caught in the crossfire"
+}

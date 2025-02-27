@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows two shoes (or boots) and the word \"FILL\" written twice. This represents the idiom \"fill someone's shoes\" or, less commonly, \"fill one's boots\", which are options (A) and (C), respectively.  Because boots are depicted in the image, and (C) more commonly uses \"shoes\", it's safe to assume the best option is (C).\n\nSo the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fill someone's shoes (B) big shoes to fill (C) fill one's boots (D) pair of shoes",
+   "answer": {
+      "B": "big shoes to fill"
+   },
+   "extracted_response": "C) fill one's boots"
+}

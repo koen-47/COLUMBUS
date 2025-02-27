@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows \"GET GET\" and \"POINT\".  Since the \"GET\" is repeated, this implies \"GET\" followed by \"GET\" which suggests getting something twice or getting to a location. So, the rebus means \"GET TO THE POINT\".\n\nSo the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get to the point (B) get the point (C) to the point (D) take the point",
+   "answer": {
+      "A": "get to the point"
+   },
+   "extracted_response": "A) get to the point"
+}

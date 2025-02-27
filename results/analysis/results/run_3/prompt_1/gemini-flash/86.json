@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) blueprints.\n\nThe image shows the word \"PRINT\" repeated twice.  This is a visual representation of the concept of \"printing\" something multiple times, which aligns with the idea of creating multiple copies of something (like blueprints).  The other options don't fit the visual representation as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blueprint (B) offprints (C) small print (D) blueprints",
+   "answer": {
+      "D": "blueprints"
+   },
+   "extracted_response": "D) blueprints"
+}

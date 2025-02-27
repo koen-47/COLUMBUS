@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **flea in one's ear**.\n\nThe image shows \"1111FLEA\" next to an image of an ear.  \"1111\" represents many, and the phrase \"a flea in one's ear\" is an idiom meaning to give someone a sharp scolding or a piece of one's mind.  The combination of many fleas and the ear visually represents the idiom.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a bug in someone's ear (B) flea in one's ear (C) earworm (D) not hurt a fly or flea",
+   "answer": {
+      "B": "flea in one's ear"
+   },
+   "extracted_response": "B) flea in one's ear"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(B) stuck in the stone age",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stone dead (B) stuck in the stone age (C) carved in stone (D) set in stone",
+   "answer": {
+      "B": "stuck in the stone age"
+   },
+   "extracted_response": "B) stuck in the stone age"
+}

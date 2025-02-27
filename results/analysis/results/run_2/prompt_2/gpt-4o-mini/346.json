@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"BAD\" with arrows pointing up and down. This suggests a play on the word \"bad\" being contrasted or emphasized. The best option that fits this interpretation is:\n\n(B) too bad.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) it's all good (B) too bad (C) good grief (D) my bad",
+   "answer": {
+      "D": "my bad"
+   },
+   "extracted_response": "B) too bad"
+}

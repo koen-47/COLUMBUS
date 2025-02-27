@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the word \"BOW\" with lines crossing through it, resembling a bow and arrow or crossbow.  The closest option is **(B) crossbow**. While it doesn't specifically show the stock or trigger mechanism of a crossbow, the crossed lines evoke the idea of a weapon with a bow.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossbows (B) crossbow (C) bowstrings (D) shot across the bow",
+   "answer": {
+      "A": "crossbows"
+   },
+   "extracted_response": "B) crossbow"
+}

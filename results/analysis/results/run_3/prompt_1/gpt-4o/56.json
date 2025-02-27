@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (A) a drop in the ocean.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a drop in the ocean (B) cross the ocean (C) drop in the pond (D) spit in the ocean",
+   "answer": {
+      "A": "a drop in the ocean"
+   },
+   "extracted_response": "A"
+}

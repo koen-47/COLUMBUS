@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) a dime a dozen.\n\nThe image shows \"20\" and \"12\".  This visually represents the idiom \"a dime a dozen,\" which means something is very common and inexpensive.  A dozen is 12, and a dime is a small amount of money, implying something is plentiful and cheap.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) decimal dozen (B) cheaper by the dozen (C) twenty to the dozen (D) a dime a dozen",
+   "answer": {
+      "C": "twenty to the dozen"
+   },
+   "extracted_response": "D) a dime a dozen"
+}

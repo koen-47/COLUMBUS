@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"PIP\" followed by an envelope icon, which suggests a connection to mail or posting. The phrase that best fits this imagery is \"pip to the post.\" \n\nSo, the answer is (A) pip to the post.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pip to the post (B) piping hot (C) like a chicken with the pip (D) piping times",
+   "answer": {
+      "A": "pip to the post"
+   },
+   "extracted_response": "A) pip to the post"
+}

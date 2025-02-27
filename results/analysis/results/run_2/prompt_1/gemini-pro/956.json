@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus represents **(C) up on one's ear**.\n\nThe image shows \"1111 ear\" with an arrow pointing up.  This signifies \"one one one one ear up,\" or more naturally, \"up on one's ear.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to one's ears (B) prick up ears (C) up on one's ear (D) ear to the ground",
+   "answer": {
+      "C": "up on one's ear"
+   },
+   "extracted_response": "C"
+}

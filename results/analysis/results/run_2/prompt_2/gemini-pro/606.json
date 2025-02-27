@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus represents \"eye for an eye\".  Here's why:\n\n* **I I I I:**  Represents multiple \"eyes\" (the letter \"I\" sounds like \"eye\")\n* **AN:**  The word \"an\"\n* **Eye image:** A visual representation of an eye.\n\nPutting it together phonetically, it forms the phrase \"eye for an eye.\" Therefore, the correct answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) see eye to eye (C) one in the eye for (D) have an eye for",
+   "answer": {
+      "A": "eye for an eye"
+   },
+   "extracted_response": "A) eye for an eye"
+}

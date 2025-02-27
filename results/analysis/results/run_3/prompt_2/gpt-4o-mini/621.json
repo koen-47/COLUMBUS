@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"FALL\" above a line and the number \"1111\" below it, along with a sword icon. This suggests the phrase \"fall on one's sword,\" as \"fall\" is directly stated, and the sword represents the action. \n\nSo, the answer is (A) fall on one's sword.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall on one's sword (B) put to the sword (C) flesh one's maiden sword (D) sword and sorcery",
+   "answer": {
+      "A": "fall on one's sword"
+   },
+   "extracted_response": "A) fall on one's sword"
+}

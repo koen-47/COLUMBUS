@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "A) for real and for true",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for real and for true (B) for good and all (C) for the asking (D) for a fact",
+   "answer": {
+      "A": "for real and for true"
+   },
+   "extracted_response": "A) for real and for true"
+}

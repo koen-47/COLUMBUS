@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The words \"COME\" and \"LIFE\" are arranged to visually suggest the phrase \"COME TO LIFE\".  Therefore, the answer is (C).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) get a life (B) come to (C) come to life (D) come alive",
+   "answer": {
+      "C": "come to life"
+   },
+   "extracted_response": "C) come to life"
+}

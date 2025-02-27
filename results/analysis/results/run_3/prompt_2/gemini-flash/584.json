@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) drop in the pond.\n\nThe image shows the word \"PO\" followed by a drop image, followed by the word \"ND\".  When combined, it reads \"PO drop ND\", which is a rebus for \"drop in the pond\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) drop in the sea (B) drop in the pond (C) drop in the ocean (D) drop in the bucket",
+   "answer": {
+      "B": "drop in the pond"
+   },
+   "extracted_response": "B) drop in the pond"
+}

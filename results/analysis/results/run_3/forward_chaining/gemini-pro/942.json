@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows two left arrows pointing to the word \"FEET.\" This translates to \"two left FEET.\"\n\nTherefore, the answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"left_arrow\",\n        \"description\": \"A left-pointing arrow symbol.\",\n        \"relation\": \"to the left of the text 'FEET'\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"text_FEET\",\n        \"description\": \"The word 'FEET' written in capital letters.\",\n        \"relation\": \"to the right of the left-pointing arrow\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) at one's feet (B) two left feet (C) feet first (D) two left hands\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "two left feet"
+    }
+}

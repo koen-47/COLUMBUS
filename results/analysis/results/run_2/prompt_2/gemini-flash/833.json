@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (A) small piece of the puzzle.\n\nThe image shows the word \"PIECE\" next to the word \"PUZZLE\".  This visually represents a \"piece of the puzzle\".  The other options don't fit the visual representation.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small piece of the puzzle (B) of a piece (C) a piece of cake (D) piece of cake",
+   "answer": {
+      "A": "small piece of the puzzle"
+   },
+   "extracted_response": "A) small piece of the puzzle"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) run the clock down.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) beat the clock (B) run down the clock (C) run the clock down (D) run out the clock",
+   "answer": {
+      "D": "run out the clock"
+   },
+   "extracted_response": "C) run the clock down"
+}

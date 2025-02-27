@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) head to toe.\n\nThe image shows the words \"HEAD\" and \"TOE\" placed visually to represent the idiom \"head to toe,\" meaning from top to bottom, or all over.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head over heels (B) toe the line (C) lose head (D) head to toe",
+   "answer": {
+      "D": "head to toe"
+   },
+   "extracted_response": "D) head to toe"
+}

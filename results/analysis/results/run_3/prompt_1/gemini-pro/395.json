@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows \"PUT SOMEONE 2\".  This represents the phrase \"put someone to their trumps\", which means to challenge someone to their utmost.\n\nSo the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put someone on to (B) put someone to their trumps (C) put someone in their place (D) put someone under",
+   "answer": {
+      "A": "put someone on to"
+   },
+   "extracted_response": "B"
+}

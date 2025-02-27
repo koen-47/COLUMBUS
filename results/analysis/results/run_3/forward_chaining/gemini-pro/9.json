@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"ACCORDING\" written twice, one above the other. This represents \"according to.\"\n\n(A) according to: This matches the rebus puzzle directly.\n(B) to speak of: This doesn't relate to the image.\n(C) true to form: This doesn't relate to the image.\n(D) when it comes to: This doesn't relate to the image.\n\nFinal Answer: The final answer is $\\boxed{A}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"First 'ACCORDING' text\",\n    \"description\": \"The word 'ACCORDING' written in uppercase letters.\",\n    \"relation\": \"Above the second 'ACCORDING' text\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"Second 'ACCORDING' text\",\n    \"description\": \"The word 'ACCORDING' written in uppercase letters.\",\n    \"relation\": \"Below the first 'ACCORDING' text\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) according to (B) to speak of (C) true to form (D) when it comes to\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "according to"
+    }
+}

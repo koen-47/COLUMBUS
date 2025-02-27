@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The best answer is (B) handshake.\n\nThe image shows two hands shaking, forming a heart shape.  While a \"golden handshake\" refers to a large severance payment, and a \"green handshake\" might imply an environmentally friendly agreement, the image itself is a simple depiction of a handshake.  \"Handshaking\" is a gerund and refers to the action, not the image.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) golden handshake (B) handshake (C) handshaking (D) green handshake",
+   "answer": {
+      "D": "green handshake"
+   },
+   "extracted_response": "B) handshake"
+}

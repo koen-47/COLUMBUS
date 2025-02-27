@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **written in the stars**.\n\nThe image shows the word \"WRITTEN\" flanked by star symbols, directly representing the idiom \"written in the stars,\" which means predetermined or destined.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) see stars (B) written in the stars (C) stars in one's eyes (D) stars align",
+   "answer": {
+      "B": "written in the stars"
+   },
+   "extracted_response": "B"
+}

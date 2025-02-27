@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts \"BALLS\" and a wall made of bricks. This represents the idiom \"balls to the wall,\" which means with maximum energy or speed.  So the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust one's balls (B) balls to the wall (C) grow some balls (D) have someone by the balls",
+   "answer": {
+      "B": "balls to the wall"
+   },
+   "extracted_response": "B"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(B) new blood**.\n\nThe image shows the word \"BLOOD\" with an arrow pointing up and another pointing down.  This visually represents the idea of blood flowing in and out, suggesting new blood coming in to replace old blood.  This aligns directly with the meaning of \"new blood.\"\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shed blood (B) new blood (C) young blood (D) after blood",
+   "answer": {
+      "D": "after blood"
+   },
+   "extracted_response": "B) new blood"
+}

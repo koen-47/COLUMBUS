@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle represents \"Off on the wrong foot\".  Here's why:\n\n* **OFF:** The word \"OFF\" is written explicitly.\n* **on the:** The up and down arrows, placed opposite each other, suggest a contrast or a different direction. When placed above the line that can be considered as \"ON\".\n* **wrong foot:** The word \"WRONG\" is written explicitly and the image next to it is a foot.\n\nTherefore, the combined meaning is (C) \"off on the wrong foot\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) start off on the right foot (B) start off on the wrong foot (C) off on the wrong foot (D) put a foot wrong",
+   "answer": {
+      "B": "start off on the wrong foot"
+   },
+   "extracted_response": "C) off on the wrong foot"
+}

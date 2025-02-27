@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(D) back to the wall**.\n\nThe image shows the word \"TSNIAGA\" which is an anagram of \"AGAINST\".  The image of a brick wall indicates \"wall\". Together they create the idiom \"back against the wall\". However, this is not one of the options. The closest option is (D) back to the wall.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up the wall (B) back against the wall (C) go to the wall (D) back to the wall",
+   "answer": {
+      "B": "back against the wall"
+   },
+   "extracted_response": "D) back to the wall"
+}

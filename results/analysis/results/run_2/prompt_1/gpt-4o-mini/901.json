@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The phrase conveyed in the image is (D) the ball is in your court.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) play ball (B) leave the ball in someone's court (C) the ball is in someone's court (D) the ball is in your court",
+   "answer": {
+      "D": "the ball is in your court"
+   },
+   "extracted_response": "D) the ball is in your court"
+}

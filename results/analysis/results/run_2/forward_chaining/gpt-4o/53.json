@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"BEARING\" with a horizontal line striking through it. This represents the phrase \"cross to bear.\"\n\nThe correct answer is (B) cross to bear.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"word\",\n  \"description\": \"The word 'BEARING' with a horizontal line striking through it.\",\n  \"relation\": \"none\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) cross to take up (B) cross to bear (C) off one's cross (D) bearing the cross\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "bearing the cross"
+    }
+}

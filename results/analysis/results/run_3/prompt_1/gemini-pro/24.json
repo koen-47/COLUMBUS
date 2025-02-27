@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows \"1111\" with arrows crossing over it, then the words \"OWN HEART.\"  The arrows crossing the \"I\"s represent crossing one's heart.\n\nSo the answer is (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross one's heart (B) have one's heart in (C) after one's own heart (D) put one's heart in",
+   "answer": {
+      "C": "after one's own heart"
+   },
+   "extracted_response": "A) cross one's heart"
+}

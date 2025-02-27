@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(B) run in the family**.\n\nThe image shows a person running away from two groups of people who appear to be family members.  This visually represents the idiom \"run in the family,\" suggesting a trait or characteristic that is common among family members.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run for one's life (B) run in the family (C) run with (D) start a family",
+   "answer": {
+      "B": "run in the family"
+   },
+   "extracted_response": "B"
+}

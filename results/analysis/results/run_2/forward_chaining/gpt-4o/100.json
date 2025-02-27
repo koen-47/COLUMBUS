@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the words \"BRING\" and \"BEAR.\" The phrase that matches this arrangement is \"bring to bear.\"\n\nThe correct answer is (B) bring to bear.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"word_BRING_top\",\n    \"description\": \"The word 'BRING' written in uppercase letters, located at the top left of the image.\",\n    \"relation\": \"none\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"word_BEAR\",\n    \"description\": \"The word 'BEAR' written in uppercase letters, located to the right of the word 'BRING' at the top.\",\n    \"relation\": \"none\"\n  },\n  {\n    \"id\": \"item3\",\n    \"name\": \"word_BRING_bottom\",\n    \"description\": \"The word 'BRING' written in uppercase letters, located at the bottom left of the image.\",\n    \"relation\": \"none\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) cross to bear (B) bring to bear (C) loaded for bear (D) poke the bear\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "bring to bear"
+    }
+}

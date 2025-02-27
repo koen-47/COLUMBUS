@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) run for one's life.\n\nHere's why:\n\n* **Four running figures:**  Represent \"four\" people running.\n* **1111:**  This numerically reinforces the \"four\" concept.\n* **LIFE:** This adds the context of the reason for running.\n\nTherefore, the rebus image conveys \"four running for life\", which is closest in meaning to \"run for one's life\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run with (B) run for one's life (C) fight for one's life (D) run for one's money",
+   "answer": {
+      "B": "run for one's life"
+   },
+   "extracted_response": "B) run for one's life"
+}

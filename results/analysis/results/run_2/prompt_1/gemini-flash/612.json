@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(B) eyes on the prize**.\n\nThe image shows the Roman numeral four (IIII) above a trophy.  This visually represents the idea of focusing on the goal (the trophy/prize).  \"Eyes on the prize\" is the idiom that best fits this visual representation.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) eyes on the prize (C) booby prize (D) prizefight",
+   "answer": {
+      "B": "eyes on the prize"
+   },
+   "extracted_response": "B) eyes on the prize"
+}

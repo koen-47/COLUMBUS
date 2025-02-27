@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (D) speak soon.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak up (B) speak to (C) speak too soon (D) speak soon",
+   "answer": {
+      "C": "speak too soon"
+   },
+   "extracted_response": "D) speak soon"
+}

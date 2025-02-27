@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) head start.  The image shows the words \"HEAD\" and \"START\" side-by-side, forming the idiom \"head start.\"\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head-on (B) head start (C) come to a head (D) head to toe",
+   "answer": {
+      "B": "head start"
+   },
+   "extracted_response": "B) head start"
+}

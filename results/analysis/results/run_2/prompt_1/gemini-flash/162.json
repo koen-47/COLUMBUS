@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) crossword**.\n\nThe image shows the word \"WORD\" crossed out, which visually represents a crossword puzzle clue.  The other options are not relevant to the image.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossword (B) headword (C) crosswords (D) backsword",
+   "answer": {
+      "A": "crossword"
+   },
+   "extracted_response": "A) crossword"
+}

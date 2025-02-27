@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(A) hole in one**.\n\nThe rebus shows the word \"HOLE\" with the number \"1\" on either side.  This visually represents a \"hole in one,\" a term used in golf.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hole in one (B) drinking hole (C) dig out of a hole (D) in the hole",
+   "answer": {
+      "A": "hole in one"
+   },
+   "extracted_response": "A) hole in one"
+}

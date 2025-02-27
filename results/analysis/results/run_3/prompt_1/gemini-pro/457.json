@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"writing on the wall\" (D).  It depicts the words \"HANDWRITING\" over \"WALL\" separated by a line, visually representing the concept of writing on a wall. While \"handwriting\" (C) is present, the overall image points to the phrase. Options A and B are incorrect.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pen picture (B) handwriting on the wall (C) handwriting (D) writing on the wall",
+   "answer": {
+      "B": "handwriting on the wall"
+   },
+   "extracted_response": "D) writing on the wall"
+}

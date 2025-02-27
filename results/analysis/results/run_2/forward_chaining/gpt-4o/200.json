@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"BRING\" written vertically and the word \"HAMMER\" written horizontally. This arrangement suggests the phrase \"bring down the hammer.\"\n\nThe correct answer is (D) bring down the hammer.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_BRING\",\n        \"description\": \"The word 'BRING' written vertically.\",\n        \"relation\": \"Located to the left of the word 'HAMMER'.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"text_HAMMER\",\n        \"description\": \"The word 'HAMMER' written horizontally.\",\n        \"relation\": \"Located to the right of the word 'BRING'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) hammer home (B) put the hammer down (C) bring to the hammer (D) bring down the hammer\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "bring down the hammer"
+    }
+}

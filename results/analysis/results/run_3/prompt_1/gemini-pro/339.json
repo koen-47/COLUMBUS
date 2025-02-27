@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the idea of **(A) pill in the pocket**.  The word \"POCKET\" is used, with a pill icon replacing the letter 'C'. This visually represents a pill being inside a pocket.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pill in the pocket (B) pill mill (C) on the pill (D) in someone's pocket",
+   "answer": {
+      "A": "pill in the pocket"
+   },
+   "extracted_response": "A) pill in the pocket"
+}

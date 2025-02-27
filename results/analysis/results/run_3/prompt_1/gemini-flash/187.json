@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **big shoes to fill**.\n\nThe image shows two boots/shoes, and the word \"FILL\" is repeated twice, implying that there are two shoes to fill.  This visually represents the idiom \"big shoes to fill,\" which means to have a difficult task because you are replacing someone who was very successful.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fill someone's shoes (B) big shoes to fill (C) fill one's boots (D) pair of shoes",
+   "answer": {
+      "B": "big shoes to fill"
+   },
+   "extracted_response": "B) big shoes to fill"
+}

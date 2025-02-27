@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the words \"OLD PILS OLD WAYS.\"  This is a visual play on words for \"Slip back to old ways\" (B). \"Pils\" is short for Pilsner, a type of beer.  So, the phrase becomes \"slip back to old ways\" when the word \"pils\" acts as a verbal stand-in for \"slip\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) old habits die hard (B) slip back to old ways (C) parting of the ways (D) roll back the years",
+   "answer": {
+      "B": "slip back to old ways"
+   },
+   "extracted_response": "B) slip back to old ways"
+}

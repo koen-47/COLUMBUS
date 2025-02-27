@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe image shows two instances of the word \"WIG\", one above the other.  The relationship described in the JSON is that one \"WIG\" is above the other. This arrangement visually represents \"BIG WIGS\".\n\nTherefore, the answer is (B) **bigwigs**.\n\nLet's examine why the other options are incorrect:\n\n* **(A) earwigs:** This doesn't fit the visual representation of two stacked \"WIG\" words.\n* **(C) bigwig:**  While \"bigwig\" is close, the rebus clearly shows a plural form.\n* **(D) bigheads:** This is unrelated to the visual representation of the word \"WIG\".\n\nFinal Answer: The final answer is $\\boxed{B}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n{\n  \"id\": \"1\",\n  \"name\": \"WIG\",\n  \"description\": \"The word 'WIG' written in uppercase letters.\",\n  \"relation\": \"above the second 'WIG'\"\n}\n\n{\n  \"id\": \"2\",\n  \"name\": \"WIG\",\n  \"description\": \"The word 'WIG' written in uppercase letters.\",\n  \"relation\": \"below the first 'WIG'\"\n}\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) earwigs (B) bigwigs (C) bigwig (D) bigheads\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "bigwigs"
+    }
+}

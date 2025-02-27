@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word shown is \"OPPORTUNITY\" in yellow. Let's consider the possible answers:\n\n(A) gold opportunity: The word is yellow, so it could mean gold, but the puzzle isn't suggesting that \"gold\" precedes \"opportunity\".\n\n(B) go for the gold: Yellow could mean \"gold\", but the other words of this phrase aren't represented.\n\n(C) land of opportunity:  The word \"OPPORTUNITY\" is present. \"Land of\" isn't directly shown, but the use of upper-case yellow letters could imply it is some special opportunity - a land of opportunity.\n\n(D) black gold: The word opportunity is not gold, so this doesn't fit.\n\nThe most consistent answer is (C).\n\nFinal Answer: The final answer is $\\boxed{C}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_opportunity\",\n  \"description\": \"The word 'OPPORTUNITY' written in yellow uppercase letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) gold opportunity (B) go for the gold (C) land of opportunity (D) black gold\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "gold opportunity"
+    }
+}

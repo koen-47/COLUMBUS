@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the number \"1111\" followed by a dollar sign and then a depiction of chips. This suggests the phrase \"cash in one's chips,\" as \"1111\" can represent \"one\" or \"cash,\" and the chips indicate gambling or betting.\n\nSo, the correct answer is (A) cash in one's chips.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cash in one's chips (B) cash in (C) have had one's chips (D) let the chips fall where they may",
+   "answer": {
+      "A": "cash in one's chips"
+   },
+   "extracted_response": "A) cash in one's chips"
+}

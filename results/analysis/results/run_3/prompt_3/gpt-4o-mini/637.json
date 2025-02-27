@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle you provided consists of the word \"FLY\" and two icons that resemble faces with neutral expressions. \n\nGiven the options:\n(A) fly by \n(B) fly in the face of \n(C) hurt a fly \n(D) fly on the wall\n\nThe correct answer is **(B) fly in the face of**. The neutral faces can represent \"in the face of,\" while \"FLY\" is directly stated.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: FLY, repeat: 1)\nNode 2 attributes: (text: \ud83d\ude10, repeat: 1, icon: (face: \ud83d\ude10))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) fly by (B) fly in the face of (C) hurt a fly (D) fly on the wall",
+   "answer": {
+      "B": "fly in the face of"
+   },
+   "extracted_response": "B) fly in the face of"
+}

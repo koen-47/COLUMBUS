@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **get down to bedrock**.\n\nThe image shows the letters \"GET\" vertically arranged, followed by the word \"BEDROCK\" on two lines.  This visually represents the phrase \"Get down to bedrock\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bedrock (B) underground (C) bedrocks (D) get down to bedrock",
+   "answer": {
+      "D": "get down to bedrock"
+   },
+   "extracted_response": "D) get down to bedrock"
+}

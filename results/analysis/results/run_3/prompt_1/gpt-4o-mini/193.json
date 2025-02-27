@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (A) break into a run.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break into a run (B) take a run at (C) run off (D) run with",
+   "answer": {
+      "A": "break into a run"
+   },
+   "extracted_response": "A) break into a run"
+}

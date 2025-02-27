@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (D) pick one's nose.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) thumb one's nose (B) nose-pick (C) turn up one's nose (D) pick one's nose",
+   "answer": {
+      "D": "pick one's nose"
+   },
+   "extracted_response": "D) pick one's nose"
+}

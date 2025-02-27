@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The JSON describes a blue baby face.  Let's consider each option:\n\n* **(A) baby blue:** This fits perfectly.  \"Baby\" refers to the baby face image, and \"blue\" refers to the color of the image.\n\n* **(B) black and blue:** This doesn't fit. The image is blue, not black and blue.\n\n* **(C) feel blue:** While \"blue\" matches the color, the image doesn't convey a feeling.\n\n* **(D) rainbow baby:** This doesn't fit. The image is blue, not a rainbow of colors.\n\nTherefore, the answer is **(A) baby blue**.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"baby_face_icon\",\n  \"description\": \"A simple blue outline of a baby's face with a smiling expression.\",\n  \"relation\": \"none\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) baby blue (B) black and blue (C) feel blue (D) rainbow baby\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "baby blue"
+    }
+}

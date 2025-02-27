@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"up to eleven.\" The word \"up\" is positioned above \"eleven,\" indicating the phrase. Therefore, the correct answer is (C) up to eleven.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) average up (B) ten to one (C) up to eleven (D) up to something",
+   "answer": {
+      "C": "up to eleven"
+   },
+   "extracted_response": "C) up to eleven"
+}

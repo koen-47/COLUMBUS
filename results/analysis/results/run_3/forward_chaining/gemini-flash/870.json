@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe arrows around \"WITH\" indicate that it should be read as \"GO WITH\".  \"BANG\" is placed next to it. Combining these gives the phrase \"GO WITH A BANG\".\n\nTherefore, the correct answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"down_arrow\",\n        \"description\": \"A downward pointing arrow.\",\n        \"relation\": \"above the text 'WITH'\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"up_arrow\",\n        \"description\": \"An upward pointing arrow.\",\n        \"relation\": \"below the text 'WITH'\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"text_with\",\n        \"description\": \"The word 'WITH' in capital letters.\",\n        \"relation\": \"between the down arrow and up arrow\"\n    },\n    {\n        \"id\": \"4\",\n        \"name\": \"text_bang\",\n        \"description\": \"The word 'BANG' in capital letters.\",\n        \"relation\": \"to the right of the text 'WITH'\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) bang up (B) start with a bang (C) go out with a bang (D) bang out\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "start with a bang"
+    }
+}

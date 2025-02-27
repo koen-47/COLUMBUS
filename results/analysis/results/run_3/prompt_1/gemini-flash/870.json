@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(C) go out with a bang**.\n\nThe arrows visually represent the word \"with,\" and their orientation suggests a beginning (up arrow) and an ending (down arrow).  Combined with \"BANG\", it forms the idiom \"go out with a bang,\" signifying a dramatic or exciting finish.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bang up (B) start with a bang (C) go out with a bang (D) bang out",
+   "answer": {
+      "B": "start with a bang"
+   },
+   "extracted_response": "C) go out with a bang"
+}

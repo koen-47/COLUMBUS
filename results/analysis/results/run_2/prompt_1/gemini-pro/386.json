@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"HAHATND\", which is a rebus puzzle. When read aloud, it sounds like \"hat in hand\".  Therefore, the answer is (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand someone his hat (B) pick out of a hat (C) put a hat on a hat (D) hat in hand",
+   "answer": {
+      "D": "hat in hand"
+   },
+   "extracted_response": "D) hat in hand"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The answer is (C) dial down.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) reset the dial (B) dial back (C) dial down (D) shift the dial",
+   "answer": {
+      "B": "dial back"
+   },
+   "extracted_response": "C) dial down"
+}

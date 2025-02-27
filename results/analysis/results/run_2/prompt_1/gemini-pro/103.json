@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts a butterfly above a horizontal line with the word \"WHEEL\" beneath it.  This represents a **(C) butterfly upon a wheel**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) wheel away (B) wheel within a wheel (C) butterfly upon a wheel (D) butterfly",
+   "answer": {
+      "C": "butterfly upon a wheel"
+   },
+   "extracted_response": "C"
+}

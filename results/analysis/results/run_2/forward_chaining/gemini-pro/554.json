@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle shows \"FLY CLOSE\" twice, and a gear/sun image.\n\n* \"FLY CLOSE\" x2 can be interpreted as \"TOO CLOSE\".\n* The gear/sun looks like a sun.\n\nCombining these elements gives us \"FLY TOO CLOSE\" to the \"SUN\".\n\nTherefore, the answer is (A) fly too close to the sun.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"text_fly_close_1\",\n        \"description\": \"The text 'FLY CLOSE'\",\n        \"relation\": \"top left\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"text_fly_close_2\",\n        \"description\": \"The text 'FLY CLOSE'\",\n        \"relation\": \"bottom left\"\n    },\n    {\n        \"id\": \"item3\",\n        \"name\": \"gear_icon\",\n        \"description\": \"A gear icon\",\n        \"relation\": \"right of the bottom 'FLY CLOSE' text\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) fly too close to the sun (B) fly low (C) a trip to the sun (D) catch the sun\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "fly too close to the sun"
+    }
+}

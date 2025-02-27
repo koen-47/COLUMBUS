@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **middleman**.\n\nThe arrows visually represent the word \"middle,\" with \"MAN\" in the middle.  Therefore, the image represents a \"middleman.\"\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) midshipman (B) main man (C) middlemen (D) middleman",
+   "answer": {
+      "D": "middleman"
+   },
+   "extracted_response": "D) middleman"
+}

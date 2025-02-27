@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) cross one's legs.\n\nThe rebus shows four \"1\"s crossed out with a line, next to the word \"LEGS\".  This represents crossing four legs (or crossing one's legs).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) open one's legs (B) have legs (C) cross one's legs (D) on one's last legs",
+   "answer": {
+      "C": "cross one's legs"
+   },
+   "extracted_response": "C) cross one's legs"
+}

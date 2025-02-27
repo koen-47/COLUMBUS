@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) set in stone.\n\nThe image shows a picture of a stone next to the word \"stuckage\".  When you combine these, you get \"stuck in stone age\". However, that's not one of the options.\n\nThe closest option that reflects the combination of a stone and \"stuck\" is \"set in stone\", as something that is \"set in stone\" is fixed and unchangeable.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) stone dead (B) stuck in the stone age (C) carved in stone (D) set in stone",
+   "answer": {
+      "B": "stuck in the stone age"
+   },
+   "extracted_response": "D) set in stone"
+}

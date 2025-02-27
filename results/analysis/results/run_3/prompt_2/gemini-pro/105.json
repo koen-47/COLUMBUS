@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) back of one's hand.\n\nThe \"1111\" represents \"four ones,\" which sounds like \"for once.\"  Put together, the rebus reads \"back for once hand.\" This is a slightly unusual phrasing, but it clearly points to the idiom \"back of one's hand,\" which means to know something very well.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold someone's hand (B) have one's hand out (C) make one's hand (D) back of one's hand",
+   "answer": {
+      "D": "back of one's hand"
+   },
+   "extracted_response": "D) back of one's hand"
+}

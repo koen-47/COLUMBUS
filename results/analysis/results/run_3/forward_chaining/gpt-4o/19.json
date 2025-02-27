@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "To solve the rebus puzzle:\n\n1. The word \"LIFE\" is present.\n2. There are arrows pointing in different directions: up, down, and right.\n\nThe phrase \"afterlife\" is suggested by the combination of \"LIFE\" and the directional arrows, indicating something beyond or after life.\n\nTherefore, the answer is (C) afterlife.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"word_life\",\n    \"description\": \"The word 'LIFE' written in uppercase letters.\",\n    \"relation\": \"The word 'LIFE' is positioned to the left of the arrows.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"arrows\",\n    \"description\": \"Three arrows pointing in different directions: one pointing up, one pointing down, and one pointing right.\",\n    \"relation\": \"The arrows are positioned to the right of the word 'LIFE'.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) graveyard (B) good life (C) afterlife (D) living death\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "afterlife"
+    }
+}

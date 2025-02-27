@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows a man dancing on a line labeled \"NOTHING\".  This corresponds to option (C) dance on nothing.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) song and dance (B) tap dance (C) dance on nothing (D) dance to tune",
+   "answer": {
+      "C": "dance on nothing"
+   },
+   "extracted_response": "C) dance on nothing"
+}

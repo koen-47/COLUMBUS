@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) dark horse.\n\nThe image shows the phrase \"GNORW HORSE\".  If you rearrange the letters of \"GNORW\", you get \"WRONG\".  Therefore, the full phrase is \"WRONG HORSE\", which is a synonym for \"DARK HORSE\".  A dark horse is a candidate or competitor about whom little is known but who unexpectedly wins or succeeds.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high horse (B) horse around (C) dark horse (D) back the wrong horse",
+   "answer": {
+      "D": "back the wrong horse"
+   },
+   "extracted_response": "C) dark horse"
+}

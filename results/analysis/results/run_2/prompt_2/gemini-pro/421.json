@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle \"RODIAMONDUGH\" can be deciphered by sounding it out, revealing the phrase, \"raw diamond dug\".  However, this isn't one of the provided options.  The puzzle is trying to elicit the idiom for an uncut, unpolished diamond with potential: \"**diamond in the rough (D)**\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rough diamond (B) diamond is forever (C) rough out (D) diamond in the rough",
+   "answer": {
+      "D": "diamond in the rough"
+   },
+   "extracted_response": "D) diamond in the rough"
+}

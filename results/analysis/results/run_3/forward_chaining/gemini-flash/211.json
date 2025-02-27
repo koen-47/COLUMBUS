@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows the word \"HACAPND\".  Let's analyze how this relates to the options:\n\n* **(A) bust a cap:** This phrase doesn't directly relate to the letters given.\n* **(B) cap in hand:** This phrase is close. If we rearrange the letters \"HACAPND\", we can form \"HAND CAP\".  This isn't a perfect match, but it's suggestive.\n* **(C) hat in hand:** Similar to option B, the letters could be rearranged to represent this phrase, albeit with some flexibility required.\n* **(D) set one's cap at:**  There's no direct way to relate the letters to this phrase.\n\nConsidering the closeness of the letter arrangement to \"hand cap,\" and the fact that \"cap\" is often used synonymously with \"hat,\" the best answer is **(C) hat in hand**.  The rebus uses a slight wordplay to represent the idea of having a hat (or cap) in hand.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'HACAPND' is written in uppercase letters.\",\n  \"relation\": \"This is the only item in the image.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) bust a cap (B) cap in hand (C) hat in hand (D) set one's cap at\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "cap in hand"
+    }
+}

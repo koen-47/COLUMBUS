@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) blue collar work.  The word \"collar\" is in blue, indicating \"blue collar,\" and it's followed by the word \"work.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blue-collar (B) blue collar work (C) bluewing (D) work like a dog",
+   "answer": {
+      "B": "blue collar work"
+   },
+   "extracted_response": "B"
+}

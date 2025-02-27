@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (B) have other fish to fry.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish to fry (B) have other fish to fry (C) big fish (D) bigger fish to fry",
+   "answer": {
+      "D": "bigger fish to fry"
+   },
+   "extracted_response": "B) have other fish to fry"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **come to a head**.\n\nThe image shows the words \"COME\" and \"HEAD\" arranged in a way that visually represents the phrase \"come to a head.\"\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) lose head (B) go to someone's head (C) come to a head (D) give head",
+   "answer": {
+      "C": "come to a head"
+   },
+   "extracted_response": "C) come to a head"
+}

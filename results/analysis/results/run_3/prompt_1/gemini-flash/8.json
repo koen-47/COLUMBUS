@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) about to.\n\nThe image shows the word \"ABOUT\" stacked on top of itself.  This visually represents the idea of being \"about to\" do something, as if one \"ABOUT\" is leading to, or immediately preceding the next.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run about (B) just about (C) about to (D) up and about",
+   "answer": {
+      "C": "about to"
+   },
+   "extracted_response": "C) about to"
+}

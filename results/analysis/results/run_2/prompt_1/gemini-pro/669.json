@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts \"man on the street\" (D), with a man's face placed within the word \"street\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) word on the street (B) man in the street (C) up someone's street (D) man on the street",
+   "answer": {
+      "B": "man in the street"
+   },
+   "extracted_response": "D) man on the street"
+}

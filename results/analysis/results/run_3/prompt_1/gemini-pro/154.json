@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the word \"BREEDING\" with a line crossing through it.  This signifies crossing breeding, making the answer **(A) crossbreeding**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) crossbreeding (B) crossbreed (C) offspring (D) crossbreeds",
+   "answer": {
+      "A": "crossbreeding"
+   },
+   "extracted_response": "A) crossbreeding"
+}

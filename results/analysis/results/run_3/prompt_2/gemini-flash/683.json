@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(B) make the running**.\n\nThe image shows the word \"DISTANCE\" with arrows pointing up and down. This implies covering distance, which is what running involves.  The running figure completes the rebus by depicting the action of running. Therefore, the image represents \"make the running.\"\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) front runner (B) make the running (C) runners and riders (D) middle distance runner",
+   "answer": {
+      "D": "middle distance runner"
+   },
+   "extracted_response": "B) make the running"
+}

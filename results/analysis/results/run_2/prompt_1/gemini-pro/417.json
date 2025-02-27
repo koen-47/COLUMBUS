@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts a \"dead end job\" (B). The skull and crossbones symbolize something negative or undesirable. The arrows pointing towards the skull and the word \"JOB\" placed next to it suggest that the job leads nowhere, hence a \"dead end.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead loss (B) dead end job (C) dead last (D) dead end",
+   "answer": {
+      "B": "dead end job"
+   },
+   "extracted_response": "B, D"
+}

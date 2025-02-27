@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (B) bogged down.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bog off (B) bogged down (C) bogeyman (D) throw down",
+   "answer": {
+      "B": "bogged down"
+   },
+   "extracted_response": "B) bogged down"
+}

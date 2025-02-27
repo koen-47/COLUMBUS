@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"SPENDER\".\n\n(A) spendthrifts: While related to spending, the image doesn't directly convey the plural or the nuance of excessive spending.\n(B) last of the big spenders: The image doesn't suggest anything about \"last\" or \"big\".\n(C) spendthrift:  Similar to (A), it's related but not directly shown.\n(D) big spender: The word \"spender\" is present, but there's no indication of \"big\".\n\nSince the image only contains the word \"SPENDER\", the best match is the word itself. However, among the choices, \"big spender\" is closest because it includes the word 'spender'. The rebus shows only \"SPENDER\". The other option have a word root of \"spend\", but are not what the image shows.\n\nFinal Answer: The final answer is $\\boxed{D}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'SPENDER' written in uppercase letters.\",\n  \"relation\": \"This is the only item in the image.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) spendthrifts (B) last of the big spenders (C) spendthrift (D) big spender\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "big spender"
+    }
+}

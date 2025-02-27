@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows \"1111\" with arrows pointing up and down around the words \"OWN HEART\". This represents \"up one's own heart\".  However, that's not one of the choices.  The closest equivalent is **(C) after one's own heart**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross one's heart (B) have one's heart in (C) after one's own heart (D) put one's heart in",
+   "answer": {
+      "C": "after one's own heart"
+   },
+   "extracted_response": "C"
+}

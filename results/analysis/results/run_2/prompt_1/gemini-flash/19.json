@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The best answer is (D) living death.\n\nThe image shows the word \"LIFE\" with an upward-pointing arrow and a downward-pointing arrow.  The arrows suggest a simultaneous experience of life and death, hence \"living death\".  The other options don't fit the visual metaphor as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) graveyard (B) good life (C) afterlife (D) living death",
+   "answer": {
+      "C": "afterlife"
+   },
+   "extracted_response": "D) living death"
+}

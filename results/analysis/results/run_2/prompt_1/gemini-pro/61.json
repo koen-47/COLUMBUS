@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (B) starting point.\n\nThe word \"Beginning\" is shown, and the arrows pointing towards and away from the word indicate a specific location or point in time, not a duration.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) from beginning to end (B) starting point (C) from start to finish (D) begin at the beginning",
+   "answer": {
+      "D": "begin at the beginning"
+   },
+   "extracted_response": "B) starting point"
+}

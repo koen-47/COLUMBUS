@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"be left at the post.\" The downward arrows suggest \"left,\" and the \"BE\" is directly next to the post icon. Therefore, the answer is (B) be left at the post.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in the post (B) be left at the post (C) near post (D) far post",
+   "answer": {
+      "B": "be left at the post"
+   },
+   "extracted_response": "B) be left at the post"
+}

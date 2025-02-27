@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts \"FALL ON SWORD\" by placing \"FALL\" over \"SWORD\" separated by a horizontal line, similar to a fraction. This represents the idiom \"fall on one's sword\" (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fall on one's sword (B) sword and sorcery (C) flesh one's maiden sword (D) put to the sword",
+   "answer": {
+      "A": "fall on one's sword"
+   },
+   "extracted_response": "A"
+}

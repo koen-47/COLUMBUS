@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (B) go to bat.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bat for the other team (B) go to bat (C) bat five hundred (D) off one's own bat",
+   "answer": {
+      "B": "go to bat"
+   },
+   "extracted_response": "B) go to bat"
+}

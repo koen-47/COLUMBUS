@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) storm in a teacup.\n\nThe rebus image shows the word \"TEASTORM\" and then \"CUP\".  This is a visual representation of the idiom \"storm in a teacup\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tempest in a teapot (B) teacup (C) storm in a teacup (D) whip up a storm",
+   "answer": {
+      "C": "storm in a teacup"
+   },
+   "extracted_response": "C) storm in a teacup"
+}

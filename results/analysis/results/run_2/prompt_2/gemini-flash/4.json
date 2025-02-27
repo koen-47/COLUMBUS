@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(B) a bit much**.\n\nThe rebus shows the word \"BIT\" stacked on top of the word \"BIT\" next to the word \"MUCH\".  This visually represents \"a bit much\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a bit too much (B) a bit much (C) quite a bit (D) much less",
+   "answer": {
+      "A": "a bit too much"
+   },
+   "extracted_response": "B) a bit much"
+}

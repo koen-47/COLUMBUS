@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts a woman's face above the word \"STREET\". This best corresponds with **(B) woman on the street**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) woman among women (B) woman on the street (C) man on the street (D) outdoorswoman",
+   "answer": {
+      "B": "woman on the street"
+   },
+   "extracted_response": "B) woman on the street"
+}

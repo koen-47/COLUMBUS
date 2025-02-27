@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (C) speak for oneself.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) speak to (B) to speak of (C) speak for oneself (D) speak for",
+   "answer": {
+      "D": "speak for"
+   },
+   "extracted_response": "C"
+}

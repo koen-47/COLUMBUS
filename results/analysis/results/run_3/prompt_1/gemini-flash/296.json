@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) land on one's feet.  The image shows \"LAND\" over \"1111 FEET,\" which is a play on words suggesting \"landing on one's feet.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on one's feet (B) put one's feet up (C) out on one's feet (D) land on one's feet",
+   "answer": {
+      "D": "land on one's feet"
+   },
+   "extracted_response": "D) land on one's feet"
+}

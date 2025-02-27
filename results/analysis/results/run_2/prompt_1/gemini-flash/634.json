@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) fish to fry.  The image shows the words \"FISH\" twice and \"FRY\" once, visually representing the phrase \"fish to fry\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go fish (B) bigger fish to fry (C) fry up (D) fish to fry",
+   "answer": {
+      "D": "fish to fry"
+   },
+   "extracted_response": "D) fish to fry"
+}

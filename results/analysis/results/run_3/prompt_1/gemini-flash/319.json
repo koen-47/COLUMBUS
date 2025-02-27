@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(C) meat on one's bones**.\n\nThe image presents \"MEAT\" over a line, and then \"1111 BONES\" below.  The \"1111\" visually represents \"many\" or a significant quantity. Therefore, the phrase implies a substantial amount of meat on the bones.  The other options don't fit this visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chew the meat and spit out the bones (B) meat on the bones (C) meat on one's bones (D) in one's bones",
+   "answer": {
+      "C": "meat on one's bones"
+   },
+   "extracted_response": "C) meat on one's bones"
+}

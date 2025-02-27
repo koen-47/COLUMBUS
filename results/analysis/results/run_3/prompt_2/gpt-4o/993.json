@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The answer is (A) why in the world.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) why in the world (B) why in time (C) what in time (D) time after time",
+   "answer": {
+      "B": "why in time"
+   },
+   "extracted_response": "A) why in the world"
+}

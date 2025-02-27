@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"RODIAMONDUGH\", which is \"Rough Diamond\" with some extra letters and rearranged spaces. So the answer is (A) rough diamond.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rough diamond (B) diamond is forever (C) rough out (D) diamond in the rough",
+   "answer": {
+      "D": "diamond in the rough"
+   },
+   "extracted_response": "A) rough diamond"
+}

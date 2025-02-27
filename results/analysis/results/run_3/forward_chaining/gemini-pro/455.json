@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The json describes two bone icons, one above the other. This arrangement can be interpreted as \"bone upon bone\". This closely resembles the idiom \"bone to pick\".\n\n* **(A) bone to pick**:  This fits the description as one bone is \"upon\" another, which means on to or pick.\n* **(B) throw a bone to**: The image doesn't convey any throwing action.\n* **(C) to the bone**: The image doesn't represent the direction 'to'.\n* **(D) chill to the bone**: The image doesn't convey chilling.\n\nFinal Answer: The final answer is $\\boxed{A}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"bone_icon_1\",\n    \"description\": \"An icon of a bone, located at the top of the image.\",\n    \"relation\": \"above bone_icon_2\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"bone_icon_2\",\n    \"description\": \"An icon of a bone, located below bone_icon_1.\",\n    \"relation\": \"below bone_icon_1\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) bone to pick (B) throw a bone to (C) to the bone (D) chill to the bone\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "to the bone"
+    }
+}

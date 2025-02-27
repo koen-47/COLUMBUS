@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "To solve the rebus puzzle, let's map each part of the image to the answer choices:\n\n1. **Number '1111'**: This could represent the word \"one\" repeated four times, or the concept of \"turn\" (as in turning the number 1).\n\n2. **Word 'TURNGRAVE'**: This directly suggests the phrase \"turn in one's grave.\"\n\nCombining these, the image conveys the phrase \"turn in one's grave.\"\n\nThe correct answer is (C) turn in one's grave.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"1\",\n    \"name\": \"number_1111\",\n    \"description\": \"The number '1111' written in black text.\",\n    \"relation\": \"to the left of the word 'TURNGRAVE'.\"\n}\n```\n\n```json\n{\n    \"id\": \"2\",\n    \"name\": \"word_TURNGRAVE\",\n    \"description\": \"The word 'TURNGRAVE' written in black text.\",\n    \"relation\": \"to the right of the number '1111'.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) dig one's own grave (B) take someone to the grave (C) turn in one's grave (D) take to the grave\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "turn in one's grave"
+    }
+}

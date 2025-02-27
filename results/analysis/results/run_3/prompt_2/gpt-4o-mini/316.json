@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"WOCOMING\" with \"RLD\" at the end. This suggests the phrase \"coming into the world.\" \n\nSo, the correct answer is (B) coming into the world.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) make the world go around (D) come to life",
+   "answer": {
+      "B": "coming into the world"
+   },
+   "extracted_response": "B) coming into the world"
+}

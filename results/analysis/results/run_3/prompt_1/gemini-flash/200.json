@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **bring down the hammer**.\n\nThe image shows the word \"BRING\" vertically stacked, and the word \"HAMMER\" horizontally next to it.  This visually represents the idiom \"bring down the hammer.\"\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hammer home (B) put the hammer down (C) bring to the hammer (D) bring down the hammer",
+   "answer": {
+      "D": "bring down the hammer"
+   },
+   "extracted_response": "D) bring down the hammer"
+}

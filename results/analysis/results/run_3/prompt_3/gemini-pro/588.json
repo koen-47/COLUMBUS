@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows two ears and the word \"GROUND\".  The description also indicates two ears. This corresponds to the idiom \"ear to the ground\" (C).\n\n(A) \"Play by ear\" would likely involve a musical instrument or notes.\n(B) \"Give ear\" would likely show someone giving/offering an ear.\n(D) \"Up on one's ear\" would likely show an ear raised or in an upward position.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udc42, repeat: 2, icon: (ear: \ud83d\udc42), sound: (to: 2))\nNode 2 attributes: (text: GROUND, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) play by ear (B) give ear (C) ear to the ground (D) up on one's ear",
+   "answer": {
+      "C": "ear to the ground"
+   },
+   "extracted_response": "C) ear to the ground"
+}

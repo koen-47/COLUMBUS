@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word \"HANDSHAKE\" written in green.\n\n(A) green handshake: While the word is green, the answer is simply \"handshake\", not \"green handshake\".\n(B) golden handshake: The word is green, not gold/golden.\n(C) handshake: The image directly displays the word \"HANDSHAKE\".\n(D) handshaking: The image shows \"HANDSHAKE\", a noun, not \"handshaking\", a verb.\n\nThe only option consistent with the image and the JSON is (C) handshake.\n\nFinal Answer: The final answer is $\\boxed{C}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The word 'HANDSHAKE' written in green, uppercase letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) green handshake (B) golden handshake (C) handshake (D) handshaking\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "green handshake"
+    }
+}

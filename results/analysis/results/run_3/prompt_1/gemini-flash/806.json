@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **under one's own steam**.\n\nThe image shows a person running, implying self-propulsion, and the word \"STEAM\" suggests power or energy.  The phrase \"under one's own steam\" means to be self-propelled or doing something by one's own efforts.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head of steam (B) blow off steam (C) run out of steam (D) under one's own steam",
+   "answer": {
+      "C": "run out of steam"
+   },
+   "extracted_response": "D) under one's own steam"
+}

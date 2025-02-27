@@ -720,21 +720,6 @@
     "is_correct": true
   },
   {
-    "image": "go_to_the_ends_of_the_earth_1_non-icon.png",
-    "options": {
-      "A": "edge of the earth",
-      "B": "go to the ends of the earth",
-      "C": "run to earth",
-      "D": "move heaven and earth"
-    },
-    "correct": {
-      "B": "go to the ends of the earth"
-    },
-    "image_id": "1EmbrWAqsBYfzDRpaLy06BRaNerJHkIQc",
-    "output": "go to the ends of the earth",
-    "is_correct": true
-  },
-  {
     "image": "gray_hat_1_icon.png",
     "options": {
       "A": "gray hat",
@@ -897,21 +882,6 @@
     },
     "image_id": "1uxHdNy5bhGZpelCO5SKgP-eBjp9zdEZT",
     "output": "man on the street",
-    "is_correct": true
-  },
-  {
-    "image": "microchips_1.png",
-    "options": {
-      "A": "hardware",
-      "B": "microchips",
-      "C": "chipboard",
-      "D": "chip in"
-    },
-    "correct": {
-      "B": "microchips"
-    },
-    "image_id": "19Yvs-MgXJ7HZvR6_4H1GI4jT-9jFrhkW",
-    "output": "microchips",
     "is_correct": true
   },
   {

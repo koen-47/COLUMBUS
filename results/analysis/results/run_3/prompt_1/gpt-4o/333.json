@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(A) middle of nowhere",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) middle of nowhere (B) nowhere near (C) arse end of nowhere (D) out of nowhere",
+   "answer": {
+      "A": "middle of nowhere"
+   },
+   "extracted_response": "A) middle of nowhere"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **die**.\n\nThe image shows the word \"DIE\" repeated twice, with the number 4 next to it.  This visually represents the act of dying four times, or simply \"die\".  The other options are not directly represented in the image.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what for (B) to the death (C) to die for (D) die",
+   "answer": {
+      "C": "to die for"
+   },
+   "extracted_response": "D) die"
+}

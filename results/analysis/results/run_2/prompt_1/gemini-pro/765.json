@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"**Put out someone's lights (C)**\".  The line through the word \"LIGHT\" symbolizes extinguishing or \"putting out\" the lights.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run a red light (B) put on the red light (C) put someone's lights out (D) red light",
+   "answer": {
+      "B": "put on the red light"
+   },
+   "extracted_response": "C"
+}

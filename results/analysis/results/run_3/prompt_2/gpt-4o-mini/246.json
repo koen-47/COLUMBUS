@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows \"OG\" above a line and \"W0RD\" below it, with \"1111\" on the left. This can be interpreted as \"from the word go,\" since \"go\" is represented by \"OG\" and \"word\" is directly below it. \n\nSo, the answer is (D) from the word go.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the word is go (B) say the word (C) go back on one's word (D) from the word go",
+   "answer": {
+      "C": "go back on one's word"
+   },
+   "extracted_response": "D) from the word go"
+}

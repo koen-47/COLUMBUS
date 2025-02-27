@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) back up.\n\nThe image shows the word \"BACK\" written vertically, upside down.  The description confirms this with \"direction: up\".  This visually represents the action of \"backing up\".",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BACK, repeat: 1, direction: up)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) put someone's back up (B) back off (C) back up (D) back down",
+   "answer": {
+      "C": "back up"
+   },
+   "extracted_response": "C) back up"
+}

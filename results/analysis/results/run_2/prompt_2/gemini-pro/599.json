@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows a partial rainbow with an arrow pointing down at one end and an arrow pointing up at the other. This represents the phrase \"end of the rainbow\".\n\nSo the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) end of the rainbow (B) rainbow (C) chase a rainbow (D) rainbow baby",
+   "answer": {
+      "A": "end of the rainbow"
+   },
+   "extracted_response": "A"
+}

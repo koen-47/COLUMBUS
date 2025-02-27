@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) aftershocks.\n\nThe image shows the word \"SHOCK\" with arrows indicating \"after\" and \"shocks\".  The arrows visually represent the preposition \"after,\" and the repetition of \"SHOCK\" represents multiple shocks or \"aftershocks.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) snowshoes (B) snowshoe (C) aftershock (D) aftershocks",
+   "answer": {
+      "D": "aftershocks"
+   },
+   "extracted_response": "D) aftershocks"
+}

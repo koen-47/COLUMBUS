@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The phrase conveyed in the image is (B) butter wouldn't melt in someone's mouth.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) melt in the mouth (B) butter wouldn't melt in someone's mouth (C) melt into (D) run at the mouth",
+   "answer": {
+      "A": "melt in the mouth"
+   },
+   "extracted_response": "B) butter wouldn't melt in someone's mouth"
+}

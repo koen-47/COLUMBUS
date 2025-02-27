@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows a skull and crossbones with an up and down arrow next to it. This is then followed by the word \"JOB\".  The arrows pointing up and down over the skull symbolize something being \"dead end\".  When combined with the word \"JOB,\" it creates the phrase \"dead end job\".\n\nTherefore, the correct answer is (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead loss (B) dead end job (C) dead last (D) dead end",
+   "answer": {
+      "B": "dead end job"
+   },
+   "extracted_response": "B) dead end job"
+}

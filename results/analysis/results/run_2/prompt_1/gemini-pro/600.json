@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the idea of a **(D) rainbow baby**.\n\nThe word \"RAINBOW\" is present, and the arrows pointing down and up symbolize the loss of a child (down arrow) followed by the birth of another (up arrow). This is the meaning associated with the term \"rainbow baby.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chase a rainbow (B) end of the rainbow (C) rainbow (D) rainbow baby",
+   "answer": {
+      "B": "end of the rainbow"
+   },
+   "extracted_response": "D) rainbow baby"
+}

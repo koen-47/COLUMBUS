@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) put one's name in the hat**.\n\nThe image shows the word \"PUT\" followed by a hat, with a line indicating the action of putting the hat (representing a name) into something (another hat, not shown, but implied).  This is a visual representation of the idiom \"put your name in the hat,\" meaning to enter a competition or selection process.  The other options don't fit the visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put one's name in the hat (B) put a hat on a hat (C) pick out of a hat (D) pass the hat",
+   "answer": {
+      "B": "put a hat on a hat"
+   },
+   "extracted_response": "A"
+}

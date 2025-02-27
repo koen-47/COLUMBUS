@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **turn up**.\n\nThe image shows a circular arrow symbol (representing a refresh or repeat action) pointing upwards towards multiple instances of the word \"BOOK\".  This visually represents something repeatedly \"turning up\" or appearing.  The other options don't fit this visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) turn up for the book (B) turn up (C) throw the book at (D) write the book",
+   "answer": {
+      "A": "turn up for the book"
+   },
+   "extracted_response": "B) turn up"
+}

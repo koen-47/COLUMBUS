@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus represents \"hang one's head.\"  Since this isn't an option, and the closest idiom is (A) hang over one's head, the answer is **(A)**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hang over one's head (B) hold over someone's head (C) hang one's hat (D) hang up one's hat",
+   "answer": {
+      "A": "hang over one's head"
+   },
+   "extracted_response": "A) hang over one's head"
+}

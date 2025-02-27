@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(B) ticket to ride**.\n\nThe image shows the words \"TICKET\" stacked on top of \"TICKET\" with \"RIDE\" to the right.  This visually represents the phrase \"ticket to ride\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take for a ride (B) ticket to ride (C) free ride (D) take the ride",
+   "answer": {
+      "B": "ticket to ride"
+   },
+   "extracted_response": "B) ticket to ride"
+}

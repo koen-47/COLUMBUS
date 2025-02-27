@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows two figures dancing, along with the word \"TUNE\".  This conveys the phrase **(C) dance to tune**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) tune out (B) tune up (C) dance to tune (D) tune in",
+   "answer": {
+      "C": "dance to tune"
+   },
+   "extracted_response": "C"
+}

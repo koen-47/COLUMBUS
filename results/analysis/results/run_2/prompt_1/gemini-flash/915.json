@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **wait for the other shoe to drop**.\n\nThis idiom means to wait for the other half of some expected bad news or an anticipated event to occur.  The image visually represents this idiom by showing \"shoe\" separated from \"other foot\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the shoe is on the other foot (B) kick with the other foot (C) which foot the shoe is on (D) wait for the other shoe to drop",
+   "answer": {
+      "A": "the shoe is on the other foot"
+   },
+   "extracted_response": "D) wait for the other shoe to drop"
+}

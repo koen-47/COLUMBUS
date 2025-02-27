@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"take to one's heels\" (C).  The words \"TAKE\" appear twice, \"1111\" represents \"to one's,\" and the heel images represent \"heels.\"",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) kick up one's heels (B) kick one's heels (C) take to one's heels (D) dig one's heels in",
+   "answer": {
+      "C": "take to one's heels"
+   },
+   "extracted_response": "C"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"**pip to the post (C)**\".  The two \"PIP\"s are positioned before the \"POST\". This visually represents narrowly winning a race or competition, which is the meaning of \"pip to the post\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) piping hot (B) like a chicken with the pip (C) pip to the post (D) piping times",
+   "answer": {
+      "C": "pip to the post"
+   },
+   "extracted_response": "C"
+}

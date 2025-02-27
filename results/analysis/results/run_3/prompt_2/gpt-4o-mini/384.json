@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows \"1111\" followed by \"PUL HORNS.\" The \"1111\" can be interpreted as \"pull\" (since \"pull\" sounds like \"PUL\" and the number \"1\" can represent \"pulling\" something). Therefore, the phrase conveyed is \"pull in one's horns.\"\n\nThe correct answer is (A) pull in one's horns.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pull in one's horns (B) grab the bull by the horns (C) take the bull by the horns (D) lock horns",
+   "answer": {
+      "A": "pull in one's horns"
+   },
+   "extracted_response": "A) pull in one's horns"
+}

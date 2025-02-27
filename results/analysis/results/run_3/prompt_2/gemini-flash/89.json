@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(B) a lot on my plate**.\n\nThe rebus shows \"LOT\" above a plate with cutlery, indicating a lot of food on a plate.  This is a metaphorical representation of having many tasks or responsibilities (\"a lot on my plate\").\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a bit too much (B) a lot on my plate (C) step up to the plate (D) platelayer",
+   "answer": {
+      "B": "a lot on my plate"
+   },
+   "extracted_response": "B) a lot on my plate"
+}

@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus shows \"WH1111ILE\".  The four 1s represent the word \"one\" repeated four times, which can be interpreted as \"once\" or \"once in a\".\n\nTherefore, the solution is **(B) once in a while**.  The other options don't fit the image.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text\",\n    \"description\": \"The text 'WH1111ILE' is written in uppercase letters.\",\n    \"relation\": \"none\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) for a while (B) once in a while (C) once and for all (D) once or twice\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "once in a while"
+    }
+}

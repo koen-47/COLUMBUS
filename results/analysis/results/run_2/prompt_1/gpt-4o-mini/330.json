@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) take a bow.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shot across the bow (B) crossbows (C) take a bow (D) crossbow",
+   "answer": {
+      "D": "crossbow"
+   },
+   "extracted_response": "C"
+}

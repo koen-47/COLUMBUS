@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) hell on earth.\n\nHere's why:\n\nThe JSON data describes the image accurately: \"HELL\" is above a horizontal line, and \"EARTH\" is below it.  This arrangement directly represents the phrase \"hell on earth\".  The other options don't match the visual representation.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"Text 'HELL'\",\n    \"description\": \"The word 'HELL' written in uppercase letters.\",\n    \"relation\": \"Above the horizontal line and the word 'EARTH'.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"Horizontal Line\",\n    \"description\": \"A horizontal line separating the words 'HELL' and 'EARTH'.\",\n    \"relation\": \"Between the words 'HELL' and 'EARTH'.\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"Text 'EARTH'\",\n    \"description\": \"The word 'EARTH' written in uppercase letters.\",\n    \"relation\": \"Below the horizontal line and the word 'HELL'.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) to hell (B) paradise on earth (C) hell on earth (D) give hell\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "hell on earth"
+    }
+}

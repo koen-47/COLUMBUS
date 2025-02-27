@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The word is \"tongue in cheek\".\n\nThe json describes the text \"CHTONGUEEEK\" where \"TONGUE\" is in the word \"CHEEK\". This means tongue is *in* cheek. Thus the answer is (D).\n\n(A) bite tongue: The image doesn't show any biting action.\n(B) hold tongue: This would imply silencing the tongue, not placing it in the cheek.\n(C) turn the other cheek: This idiom is about accepting insults or injury without retaliation, which is unrelated to the image.\n(D) tongue in cheek: The word \"tongue\" is visually inside \"cheek\" (formed by the remaining letters), matching the idiom.\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'CHTONGUEEEEK' with the letters 'TONGUE' in the middle.\",\n  \"relation\": \"The letters 'TONGUE' are embedded within the larger text.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) bite tongue (B) hold tongue (C) turn the other cheek (D) tongue in cheek\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "tongue in cheek"
+    }
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (D) end of one's rope.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skip rope (B) give someone enough rope (C) jump rope (D) end of one's rope",
+   "answer": {
+      "D": "end of one's rope"
+   },
+   "extracted_response": "D) end of one's rope"
+}

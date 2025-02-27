@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the number \"1\" repeated four times, followed by a heart symbol. This can be interpreted as \"one, one, one, one heart,\" which sounds like \"one's heart.\"\n\nMapping this to the answer choices:\n\n(A) cross one's heart - This matches the interpretation of \"one's heart.\"\n(B) cross my heart and hope to die - Does not match.\n(C) have one's heart in - Does not match.\n(D) cross my heart - Does not match.\n\nThe correct answer is (A) cross one's heart.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"number_1\",\n    \"description\": \"The number '1' repeated four times in a row.\",\n    \"relation\": \"left_of_heart\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"heart\",\n    \"description\": \"A black heart symbol.\",\n    \"relation\": \"right_of_number_1\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) cross one's heart (B) cross my heart and hope to die (C) have one's heart in (D) cross my heart\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "cross one's heart"
+    }
+}

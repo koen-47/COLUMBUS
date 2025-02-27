@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle \"MOMELTUTH\" can be deciphered by saying the letters aloud. It sounds like \"Mom melt ooth,\" which is a phonetic spelling of \"Mom melt in the mouth\".\n\nSo the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) melt in the mouth (B) butter wouldn't melt in someone's mouth (C) melt into (D) run at the mouth",
+   "answer": {
+      "A": "melt in the mouth"
+   },
+   "extracted_response": "A) melt in the mouth"
+}

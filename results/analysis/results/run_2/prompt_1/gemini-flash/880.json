@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **storm in a teacup**.\n\nThe image shows the words \"TEA CUP\" with a lightning bolt inside a cloud symbol between them.  This visually represents a small, insignificant event (\"teacup\") causing a disproportionately large reaction (\"storm\").  Both (B) and (C) mean the same thing; however, (C) is the option provided.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) whip up a storm (B) tempest in a teapot (C) storm in a teacup (D) teacup",
+   "answer": {
+      "C": "storm in a teacup"
+   },
+   "extracted_response": "C) storm in a teacup"
+}

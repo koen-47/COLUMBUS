@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"saved by the bell.\" The downward arrows suggest something happening just before the bell rings, indicating a sense of being rescued or saved. Therefore, the correct answer is (B) saved by the bell.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) before the bell rings (B) saved by the bell (C) ring a bell (D) ring someone's bell",
+   "answer": {
+      "A": "before the bell rings"
+   },
+   "extracted_response": "B) saved by the bell"
+}

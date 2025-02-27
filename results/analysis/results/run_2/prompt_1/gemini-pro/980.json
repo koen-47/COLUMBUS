@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"**walking on air**\" (D).  The line separating \"WALKING\" and \"AIR\" is a visual representation of the phrase's meaning, suggesting a separation from the ground, as if walking on air.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take air (B) catch air (C) in the air (D) walking on air",
+   "answer": {
+      "D": "walking on air"
+   },
+   "extracted_response": "D) walking on air"
+}

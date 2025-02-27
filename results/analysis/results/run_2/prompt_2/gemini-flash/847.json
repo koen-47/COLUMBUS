@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) spit in the wind.\n\nThe word \"ocean\" is split into two parts \"OC\" and \"EAN\" with \"SPIT\" in the middle.  This visually represents the phrase \"spit in the ocean.\" However,  the word \"in\" is implied, not explicitly shown.  This would make the most fitting answer \"spit in the wind\" which follows the pattern of implied \"in\" and has similar meaning to the visual representation.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) spit out (C) spit on (D) spit in the wind",
+   "answer": {
+      "A": "spit in the ocean"
+   },
+   "extracted_response": "D) spit in the wind"
+}

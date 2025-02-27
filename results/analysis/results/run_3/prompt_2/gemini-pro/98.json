@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) a trip to the sun.\n\nThe word \"TRIP\" appears twice, stacked on top of each other, indicating a double \"TRIP\". The image next to the words is a representation of the sun. Thus, the rebus puzzle depicts \"TRIP TRIP SUN\", or \"a trip to the sun\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch the sun (B) under the sun (C) a trip to the sun (D) the sun sets on something",
+   "answer": {
+      "C": "a trip to the sun"
+   },
+   "extracted_response": "C) a trip to the sun"
+}

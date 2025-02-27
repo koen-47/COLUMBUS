@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (C) time after time.\n\nHere's why:\n\nThe image shows the text \"TI WHAT ME\".  Rearranging the letters to read \"TIME AFTER TIME\" solves the rebus.  The other options don't fit the letters provided.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text reads 'TIW HAT ME'.\",\n  \"relation\": \"center of the image\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) what in time (B) why in time (C) time after time (D) matter of time\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "what in time"
+    }
+}

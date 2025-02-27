@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the letters \"TIO\" and \"GME\" with the \"T\" and \"I\" above the \"O\" and \"G\" and \"M\" below it. This arrangement suggests the phrase \"time after time,\" as the letters are positioned in a way that indicates a repetition or sequence. \n\nSo, the answer is (B) time after time.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go back in time (B) time after time (C) live in the past (D) behind time",
+   "answer": {
+      "A": "go back in time"
+   },
+   "extracted_response": "B) time after time"
+}

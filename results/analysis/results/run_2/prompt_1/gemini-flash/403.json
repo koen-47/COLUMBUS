@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **reverse engineer**.\n\nThe word \"REENIGNE\" is a jumbled version of \"RE-ENGINEER\".  \"Reverse engineer\" is the process of taking something apart to understand how it works, with the goal of recreating it or improving it.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) software (B) reverse engineer (C) down tools (D) reverse psychology",
+   "answer": {
+      "B": "reverse engineer"
+   },
+   "extracted_response": "B) reverse engineer"
+}

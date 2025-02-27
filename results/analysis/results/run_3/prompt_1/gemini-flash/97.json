@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) a little bird told me.\n\nThe image shows a small bird icon next to the words \"TOLD ME,\" which directly reflects the idiom \"a little bird told me,\" used to imply that someone has received a secret or piece of information from an unknown source.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bird of one's own brain (B) a little bird told me (C) bird in the bosom (D) early bird",
+   "answer": {
+      "B": "a little bird told me"
+   },
+   "extracted_response": "B) a little bird told me"
+}

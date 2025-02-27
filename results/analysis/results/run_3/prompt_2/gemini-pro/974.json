@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows the word \"WALK\" on top of \"EGGSHELLS\", implying \"walk on eggshells.\" So the answer is (D).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cake walk (B) eggshells (C) eggshell (D) walk on eggshells",
+   "answer": {
+      "D": "walk on eggshells"
+   },
+   "extracted_response": "D) walk on eggshells"
+}

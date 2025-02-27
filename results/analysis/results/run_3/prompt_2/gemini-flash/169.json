@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(C) before the ship sails**.\n\nThe upward and downward arrows flanking the word \"SHIP\" represent the action of a ship going up and down before it sails.  The phrase \"SAILS\" indicates the future event. Therefore, the image conveys the idea of \"before the ship sails\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) steady the ship (B) sinking ship (C) before the ship sails (D) under sail",
+   "answer": {
+      "C": "before the ship sails"
+   },
+   "extracted_response": "C) before the ship sails"
+}

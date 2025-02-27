@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The words displayed are \"WINDOW\" and \"TIME\".\n\n(A) \"window on the world\": The phrase contains \"window\", but not \"time\".\n(B) \"make time\": The phrase contains \"time\", but not \"window\".\n(C) \"small window of time\": The phrase contains both \"window\" and \"time\".\n(D) \"matter of time\": The phrase contains \"time\", but not \"window\".\n\nThe only choice that contains both \"window\" and \"time\" is (C).\n\nFinal Answer: The final answer is $\\boxed{C}$",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"word_window\",\n        \"description\": \"The word 'WINDOW' written in uppercase letters.\",\n        \"relation\": \"Located on the left side of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"word_time\",\n        \"description\": \"The word 'TIME' written in uppercase letters.\",\n        \"relation\": \"Located on the right side of the image.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) window on the world (B) make time (C) small window of time (D) matter of time\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "small window of time"
+    }
+}

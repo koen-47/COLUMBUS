@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe image shows the word \"DAY\" with an upward-pointing arrow above it and a downward-pointing arrow below it.  This visually represents the phrase \"DAY after DAY\".\n\nTherefore, the correct answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text\",\n    \"description\": \"The word 'DAY' written in uppercase letters.\",\n    \"relation\": \"Located in the center of the image.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"arrow_up\",\n    \"description\": \"An upward-pointing arrow located above the word 'DAY'.\",\n    \"relation\": \"Positioned above the text 'DAY'.\"\n  },\n  {\n    \"id\": \"3\",\n    \"name\": \"arrow_down\",\n    \"description\": \"A downward-pointing arrow located below the word 'DAY'.\",\n    \"relation\": \"Positioned below the text 'DAY'.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) at the end of the day (B) at the last minute (C) day after day (D) the other day\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "at the end of the day"
+    }
+}

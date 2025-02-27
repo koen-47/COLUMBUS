@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) cry in one's beer.\n\nThe image shows \"1111CRY\" followed by an image of a beer mug.  The four 1s represent \"one's,\"  \"CRY\" represents crying, and the beer mug represents beer.  Therefore, the whole image is a visual representation of \"cry in one's beer\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) small beer (B) cry one's eyes out (C) cry someone a river (D) cry in one's beer",
+   "answer": {
+      "D": "cry in one's beer"
+   },
+   "extracted_response": "D) cry in one's beer"
+}

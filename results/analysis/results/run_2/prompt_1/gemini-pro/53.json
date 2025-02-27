@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys **(C) off one's cross**. The word \"BEARING\" is crossed out, signifying the removal or absence of bearing something. In the context of the given phrases, \"off one's cross\" best represents this visual representation of removing a burden or responsibility.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) cross to take up (B) cross to bear (C) off one's cross (D) bearing the cross",
+   "answer": {
+      "D": "bearing the cross"
+   },
+   "extracted_response": "C"
+}

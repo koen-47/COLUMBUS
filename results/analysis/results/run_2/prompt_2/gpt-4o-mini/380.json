@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"rough diamond.\" The word \"rough\" is split with \"RO\" on one side and \"UGH\" on the other, and the diamond shape in the middle suggests the word \"diamond.\" \n\nSo the answer is (D) rough diamond.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) diamond is forever (B) diamond in the rough (C) rough out (D) rough diamond",
+   "answer": {
+      "B": "diamond in the rough"
+   },
+   "extracted_response": "D) rough diamond"
+}

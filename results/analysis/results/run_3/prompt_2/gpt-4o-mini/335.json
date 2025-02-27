@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"ROAD\" with arrows pointing both up and down. This suggests a concept related to different levels or paths. The best option that fits this description is:\n\n(D) high road.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) middle of the road (B) roadside (C) low road (D) high road",
+   "answer": {
+      "A": "middle of the road"
+   },
+   "extracted_response": "D) high road"
+}

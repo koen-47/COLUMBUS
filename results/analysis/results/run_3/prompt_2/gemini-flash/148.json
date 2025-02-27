@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) cross off.\n\nThe rebus shows the number 2 with a line through it, positioned next to the letters E, K, A, T.  This represents \"cross out\" or \"cross off\" because the line through the 2 visually represents the act of crossing something out, and the word \"KAT\" is made by the other letters.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) off one's cross (B) cross to take up (C) cross off (D) cross out",
+   "answer": {
+      "B": "cross to take up"
+   },
+   "extracted_response": "C) cross off, D) cross out"
+}

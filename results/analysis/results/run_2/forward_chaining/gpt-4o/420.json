@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The text \"DISGDEVILUISE\" is a play on words that suggests the phrase \"devil in disguise.\"\n\nThe correct answer is (D) devil in disguise.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text\",\n  \"description\": \"The text 'DISGDEVILUISE' written in uppercase letters.\",\n  \"relation\": \"This is the only item in the image.\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) devil lies in the details (B) the devil (C) devil is in the details (D) devil in disguise\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "devil in disguise"
+    }
+}

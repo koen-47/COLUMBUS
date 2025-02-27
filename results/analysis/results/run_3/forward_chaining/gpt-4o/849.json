@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"SPLIT\" above a horizontal line and the word \"ROCK\" below it. This arrangement suggests the phrase \"split rock.\"\n\nThe correct answer is (A) split on a rock.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n    \"id\": \"item1\",\n    \"name\": \"word_SPLIT\",\n    \"description\": \"The word 'SPLIT' written in uppercase letters.\",\n    \"relation\": \"above the horizontal line\"\n}\n```\n\n```json\n{\n    \"id\": \"item2\",\n    \"name\": \"horizontal_line\",\n    \"description\": \"A horizontal line separating the words 'SPLIT' and 'ROCK'.\",\n    \"relation\": \"between the words 'SPLIT' and 'ROCK'\"\n}\n```\n\n```json\n{\n    \"id\": \"item3\",\n    \"name\": \"word_ROCK\",\n    \"description\": \"The word 'ROCK' written in uppercase letters.\",\n    \"relation\": \"below the horizontal line\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) split on a rock (B) rockslide (C) split one's sides (D) split up\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "split on a rock"
+    }
+}

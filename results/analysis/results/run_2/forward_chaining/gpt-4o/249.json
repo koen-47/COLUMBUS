@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains the word \"COME\" on the left, a downward arrow in the middle, and the word \"US\" on the right. \n\nMapping each part:\n- \"COME\" corresponds to \"come\"\n- The downward arrow corresponds to \"down\"\n- \"US\" corresponds to \"us\"\n\nThe phrase conveyed is \"come down to us.\"\n\nTherefore, the correct answer is (C) come down to us.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"Text 'COME'\",\n        \"description\": \"The word 'COME' written in uppercase letters.\",\n        \"relation\": \"Left side of the image.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Downward Arrow\",\n        \"description\": \"A black arrow pointing downward.\",\n        \"relation\": \"Between the words 'COME' and 'US'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"Text 'US'\",\n        \"description\": \"The word 'US' written in uppercase letters.\",\n        \"relation\": \"Right side of the image.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) come down to (B) come down with (C) come down to us (D) come down\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "come down to us"
+    }
+}

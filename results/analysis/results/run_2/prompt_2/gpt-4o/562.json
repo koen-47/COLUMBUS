@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The answer is (C) for all the world to see.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not for the world (B) there for everyone to see (C) for all the world to see (D) for all the world",
+   "answer": {
+      "C": "for all the world to see"
+   },
+   "extracted_response": "C) for all the world to see"
+}

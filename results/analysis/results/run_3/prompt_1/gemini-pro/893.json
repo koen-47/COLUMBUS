@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"double take,\" which isn't one of the provided options.  If you're looking for the closest idiom, the arrangement of the words \"TAKE TAKE GRAVE\" visually suggests looking at something (take), looking again in surprise (take), and then realizing the severity or finality (grave).  This aligns most closely with **(B) take to the grave**, which can mean to keep a secret until death.  The other options don't fit the visual or implied meaning.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dig one's own grave (B) take to the grave (C) take someone to the grave (D) turn in one's grave",
+   "answer": {
+      "B": "take to the grave"
+   },
+   "extracted_response": "B) take to the grave"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the word \"MATH\" with an up arrow and a down arrow surrounding it.  This represents the concept of \"aftermath\".\n\nSo the answer is (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) aftermath (B) tear up (C) after the storm (D) aftermaths",
+   "answer": {
+      "A": "aftermath"
+   },
+   "extracted_response": "A) aftermath"
+}

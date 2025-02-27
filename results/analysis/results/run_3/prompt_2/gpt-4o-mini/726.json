@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"paradise on earth.\" The word \"PARADISE\" is above a representation of the Earth, suggesting a connection between paradise and the world. \n\nSo the answer is (A) paradise on earth.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) paradise on earth (B) hell on earth (C) fool's paradise (D) trouble in paradise",
+   "answer": {
+      "A": "paradise on earth"
+   },
+   "extracted_response": "A) paradise on earth"
+}

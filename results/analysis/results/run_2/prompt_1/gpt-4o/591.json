@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "(B) easy on the eyes",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) easy on the eye (B) easy on the eyes (C) hard on the eyes (D) roving eye",
+   "answer": {
+      "A": "easy on the eye"
+   },
+   "extracted_response": "B) easy on the eyes"
+}

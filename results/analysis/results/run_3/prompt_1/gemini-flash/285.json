@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **hold one's own**.\n\nHere's why:\n\n* **DLOH** is \"HOLD\" spelled vertically.\n* The arrows and \"1111\" visually represent something being held steady or in balance.  This signifies the ability to maintain one's position or not be defeated, which aligns with the meaning of \"hold one's own\".\n\nThe other options don't fit the visual representation:\n\n* **Hold up one's end:** Implies sharing responsibility, not necessarily individual strength.\n* **Hold off:** Suggests delaying or resisting something.\n* **Hold over:** Means to continue or postpone something.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold up one's end (B) hold one's own (C) hold off (D) hold over",
+   "answer": {
+      "A": "hold up one's end"
+   },
+   "extracted_response": "B) hold one's own"
+}

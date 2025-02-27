@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) **show off**.\n\nThe image shows the word \"SHOW\" repeated multiple times, implying a display or ostentatious presentation.  \"Show off\" best captures this meaning.  The other options don't fit the visual context as well.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for show (B) show off (C) what for (D) make for",
+   "answer": {
+      "A": "for show"
+   },
+   "extracted_response": "B) show off"
+}

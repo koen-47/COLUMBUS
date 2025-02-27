@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word conveyed in the image is (A) blank check.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) blank check (B) check through (C) take check (D) check is in the mail",
+   "answer": {
+      "D": "check is in the mail"
+   },
+   "extracted_response": "A) blank check"
+}

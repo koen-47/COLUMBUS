@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **bred-in-the-bone**.\n\nThe image uses the word \"BREED\" and flanking it with images of bones, creating a visual pun that suggests something inherent or ingrained in one's nature,  just like a dog's breed is inherent to it.  This aligns perfectly with the meaning of \"bred-in-the-bone\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone hard (B) bone to pick (C) bred-in-the-bone (D) breed in the bone",
+   "answer": {
+      "D": "breed in the bone"
+   },
+   "extracted_response": "C"
+}

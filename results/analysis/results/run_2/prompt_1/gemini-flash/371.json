@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **dead end job**.\n\nThe image shows the words \"DEAD\" and \"JOB\" with arrows indicating a downward movement toward \"DEAD\" and an upward movement toward \"JOB\". This visually represents a job that is unfulfilling or leads nowhere (\"dead end\"), fitting the definition of a \"dead end job\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) dead end (B) dead last (C) dead end job (D) dead loss",
+   "answer": {
+      "C": "dead end job"
+   },
+   "extracted_response": "C) dead end job"
+}

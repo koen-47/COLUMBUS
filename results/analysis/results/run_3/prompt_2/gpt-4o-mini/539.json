@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"elephant in the room.\" The correct answer is (D) elephant in the room.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) baby elephant in the room (B) naked ape (C) gorilla in the room (D) elephant in the room",
+   "answer": {
+      "C": "gorilla in the room"
+   },
+   "extracted_response": "D) elephant in the room"
+}

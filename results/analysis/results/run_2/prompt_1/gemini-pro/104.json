@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the word **BUILD** written vertically. Rotating the image 180 degrees reveals the word. This corresponds to option **(B) build up**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) team up (B) build up (C) run up (D) buildups",
+   "answer": {
+      "B": "build up"
+   },
+   "extracted_response": "B) build up"
+}

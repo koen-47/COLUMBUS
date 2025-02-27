@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The image shows the word MINDS twice, one above the other.\n\n* **(A) of one mind:** This option doesn't match the image, as there are two instances of \"MINDS\".\n* **(B) meeting of the minds:**  While there are two minds present, the image doesn't suggest a \"meeting\".\n* **(C) of two minds:** This option fits perfectly. There are two instances of the word \"MINDS\", representing two minds.\n* **(D) read minds:** This option is not represented in the image.\n\nTherefore, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_minds_top\",\n  \"description\": \"The word 'MINDS' in uppercase letters.\",\n  \"relation\": \"above the other text\"\n}\n```\n\n```json\n{\n  \"id\": \"2\",\n  \"name\": \"text_minds_bottom\",\n  \"description\": \"The word 'MINDS' in uppercase letters.\",\n  \"relation\": \"below the other text\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) of one mind (B) meeting of the minds (C) of two minds (D) read minds\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "of two minds"
+    }
+}

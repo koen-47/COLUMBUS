@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts (B) running out the clock. The person is running away from the clock, suggesting they are trying to use up the remaining time.  \"Run out the clock\" is a common idiom in sports, particularly when a team has a lead and wants to prevent the other team from scoring. They do this by keeping possession of the ball and letting time expire.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run the clock down (B) run out the clock (C) run down the clock (D) beat the clock",
+   "answer": {
+      "B": "run out the clock"
+   },
+   "extracted_response": "B) run out the clock"
+}

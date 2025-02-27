@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (B) packed to the gills.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) green around the gills (B) packed to the gills (C) stuffed to the gills (D) green about the gills",
+   "answer": {
+      "A": "green around the gills"
+   },
+   "extracted_response": "B) packed to the gills"
+}

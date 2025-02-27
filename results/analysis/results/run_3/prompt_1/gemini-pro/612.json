@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The Roman numerals \"III\" above a trophy suggest the concept of third place. While none of the choices perfectly captures this, the closest is (C) booby prize, which is often given to the person in last place, or sometimes third place, in a competition.  It's the most related concept to the image provided.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) no prize for guessing (B) eyes on the prize (C) booby prize (D) prizefight",
+   "answer": {
+      "B": "eyes on the prize"
+   },
+   "extracted_response": "C"
+}

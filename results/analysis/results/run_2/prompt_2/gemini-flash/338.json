@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) in a pig's eye.\n\nThe rebus shows the word \"PIG\" with a capital \"I\" in the middle.  This visually represents \"I\" being inside \"PIG\".  The phrase \"in a pig's eye\" is an idiom meaning \"no way\" or \"absolutely not.\"\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) in a pig's patoot (B) in a pig's eye (C) wrestle with a pig (D) pig in a poke",
+   "answer": {
+      "D": "pig in a poke"
+   },
+   "extracted_response": "B) in a pig's eye"
+}

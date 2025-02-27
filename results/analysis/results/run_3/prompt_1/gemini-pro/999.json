@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts a window above the world. This represents **(D) window on the world**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) outside world (B) the world over (C) out the window (D) window on the world",
+   "answer": {
+      "D": "window on the world"
+   },
+   "extracted_response": "D) window on the world"
+}

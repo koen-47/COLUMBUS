@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in the image is (D) red herring.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) herringbones (B) herringbone (C) neither fish, flesh, nor good red herring (D) red herring",
+   "answer": {
+      "D": "red herring"
+   },
+   "extracted_response": "D) red herring"
+}

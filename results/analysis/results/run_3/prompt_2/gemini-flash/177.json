@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) on the double.\n\nThe word \"ELBUOD\" is a rebus.  If you read it backwards, it spells \"DOUBLED ON\".  Therefore, the solution to the rebus is \"on the double\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) double over (B) double back (C) on the double (D) double take",
+   "answer": {
+      "B": "double back"
+   },
+   "extracted_response": "C) on the double"
+}

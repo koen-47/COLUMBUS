@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the words \"BIRD TOLD ME\" in sequence. This corresponds to the phrase \"a little bird told me.\"\n\nThe correct answer is (A) a little bird told me.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"BIRD\",\n        \"description\": \"The word 'BIRD' written in uppercase letters.\",\n        \"relation\": \"Positioned to the left of the word 'TOLD'.\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"TOLD\",\n        \"description\": \"The word 'TOLD' written in uppercase letters.\",\n        \"relation\": \"Positioned between the words 'BIRD' and 'ME'.\"\n    },\n    {\n        \"id\": \"3\",\n        \"name\": \"ME\",\n        \"description\": \"The word 'ME' written in uppercase letters.\",\n        \"relation\": \"Positioned to the right of the word 'TOLD'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) a little bird told me (B) early bird (C) bird of one's own brain (D) bird in the bosom\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "a little bird told me"
+    }
+}

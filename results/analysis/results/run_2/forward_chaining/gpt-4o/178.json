@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows \"EB\" on the left and \"POST\" on the right. This arrangement suggests the phrase \"be left at the post.\"\n\nThe correct answer is (C) be left at the post.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"item1\",\n        \"name\": \"EB\",\n        \"description\": \"The letters 'EB' in uppercase.\",\n        \"relation\": \"Left side of the image, related to 'POST'.\"\n    },\n    {\n        \"id\": \"item2\",\n        \"name\": \"POST\",\n        \"description\": \"The word 'POST' in uppercase.\",\n        \"relation\": \"Right side of the image, related to 'EB'.\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) far post (B) in the post (C) be left at the post (D) near post\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "be left at the post"
+    }
+}

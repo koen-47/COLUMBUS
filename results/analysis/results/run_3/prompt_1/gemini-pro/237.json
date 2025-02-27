@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (C) hear through the grapevine.  It's a visual representation of the idiom, with \"hear\" over \"grapevine\" suggesting the transmission of information.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grapevine (B) hear on the grapevine (C) hear through the grapevine (D) grapevines",
+   "answer": {
+      "B": "hear on the grapevine"
+   },
+   "extracted_response": "C) hear through the grapevine"
+}

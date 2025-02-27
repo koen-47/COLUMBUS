@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"GET\" to the left of a rectangle containing the word \"FACE.\" This arrangement suggests the phrase \"get in one's face.\"\n\nHowever, since \"get in one's face\" is not an option, the closest match from the given options is:\n\n(A) get out of my face\n\nThis is because the word \"GET\" is directly related to \"FACE\" in the image.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"text_get\",\n        \"description\": \"The word 'GET' written in uppercase letters.\",\n        \"relation\": \"left of the rectangle containing the word 'FACE'\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"rectangle_face\",\n        \"description\": \"A rectangle containing the word 'FACE' written in uppercase letters.\",\n        \"relation\": \"right of the word 'GET'\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) get out of my face (B) lose face (C) pull a face (D) out of one's face\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "get out of my face"
+    }
+}

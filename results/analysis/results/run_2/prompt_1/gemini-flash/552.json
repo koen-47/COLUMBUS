@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **what's in it for me**.\n\nThe image is a visual representation of the phrase.  The repeated \"IT\"s surround \"WHAT'S ME\", forming the complete phrase.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nothing for it (B) in for it (C) what's it to you (D) what's in it for me",
+   "answer": {
+      "D": "what's in it for me"
+   },
+   "extracted_response": "D) what's in it for me"
+}

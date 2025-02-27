@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys **(A) shot across the bow**.  The line striking through the word \"BOW\" visually represents an arrow (or shot) going across a ship's bow.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shot across the bow (B) crossbows (C) take a bow (D) crossbow",
+   "answer": {
+      "D": "crossbow"
+   },
+   "extracted_response": "A) shot across the bow"
+}

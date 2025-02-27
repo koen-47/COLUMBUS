@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **catch someone's eye**.\n\nThe image combines the word \"SEE,\" an image of an eye, and the letters \"I I,\" which visually represents \"see eye to eye.\"  However, the placement and arrangement suggest someone (the \"I I\") is being seen (\"SEE\") by an eye, implying that something has caught their attention.  Therefore, \"catch someone's eye\" is the most accurate interpretation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) eye for an eye (B) catch the eye (C) catch someone's eye (D) see eye to eye",
+   "answer": {
+      "D": "see eye to eye"
+   },
+   "extracted_response": "C) catch someone's eye"
+}

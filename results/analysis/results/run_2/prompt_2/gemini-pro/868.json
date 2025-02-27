@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows \"OFF\" between a down arrow and an up arrow. Then, below a dividing line, it says \"WRONG FOOT\". This represents starting something in a bad or negative way.\n\nThe arrows switching positions around the word \"OFF\" implies a reversal or change of \"OFF\" to \"ON\".  Therefore, the solution to the rebus is (C) **start off on the wrong foot**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a foot wrong (B) off on the wrong foot (C) start off on the wrong foot (D) start off on the right foot",
+   "answer": {
+      "C": "start off on the wrong foot"
+   },
+   "extracted_response": "C) start off on the wrong foot"
+}

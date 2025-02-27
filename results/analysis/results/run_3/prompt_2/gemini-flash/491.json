@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **to high heaven**.\n\nThe rebus shows the word \"HIGH\" above and below the word \"HEAVEN\".  This visually represents the phrase \"to high heaven\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) high up (B) to high heaven (C) high summer (D) get high",
+   "answer": {
+      "B": "to high heaven"
+   },
+   "extracted_response": "B) to high heaven"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the word \"COME\", the number \"2\", and a picture of Earth.  \"2\" is a homophone for \"to\", and the Earth represents \"earth\". Therefore, the rebus represents **(C) come down to earth**.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come down to us (B) down to earth (C) come down to earth (D) come down",
+   "answer": {
+      "C": "come down to earth"
+   },
+   "extracted_response": "C) come down to earth"
+}

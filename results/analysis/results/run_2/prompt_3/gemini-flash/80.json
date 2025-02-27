@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) belly up to the bar.\n\nHere's why:\n\n* **Node 1:**  \"BELLY\" is written vertically, implying it should be read from bottom to top (direction: up).\n* **Node 2:** Two instances of \"BAR\" suggest the phrase includes the word \"bar\" twice.\n\nTherefore, reading the image, \"BELLY\" vertically becomes \"YLL EB\" which is \"BELLY\" and next to it there are two \"BAR\" which visually suggest the phrase \"belly up to the bar\".",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: BELLY, repeat: 1, direction: up)\nNode 2 attributes: (text: BAR, repeat: 2, sound: (to: 2))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) raise the bar (B) prop up the bar (C) belly up to the bar (D) belly up",
+   "answer": {
+      "C": "belly up to the bar"
+   },
+   "extracted_response": "C"
+}

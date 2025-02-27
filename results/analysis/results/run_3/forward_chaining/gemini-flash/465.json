@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The correct answer is (B) double date.\n\nHere's the reasoning:\n\nThe JSON describes an upward-pointing arrow above the word \"DATE\" and a downward-pointing arrow below it.  This visually represents the word \"DATE\" being both \"above\" and \"below\" something, or doubled.  Therefore, \"double date\" is the only option that aligns with the image and the JSON description.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        'id': '1',\n        'name': 'up_arrow',\n        'description': 'An arrow pointing upwards',\n        'relation': 'above the word DATE'\n    },\n    {\n        'id': '2',\n        'name': 'down_arrow',\n        'description': 'An arrow pointing downwards',\n        'relation': 'below the word DATE'\n    },\n    {\n        'id': '3',\n        'name': 'word_DATE',\n        'description': 'The word DATE written in capital letters',\n        'relation': 'between the up_arrow and down_arrow'\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) to date (B) double date (C) sell-by date (D) start date\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "start date"
+    }
+}

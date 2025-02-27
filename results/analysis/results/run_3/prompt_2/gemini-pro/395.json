@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle depicts \"PUT SOMEONE\" over the number \"2\". This represents putting someone in their place.  Number \"2\" corresponds to the sound of \"two\", and by swapping letters you can sound \"to\" (which has the same pronunciation of \"two\"). Moreover, \"place\" can refer to a position or spot where something or someone is located or has been put. Thus, the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put someone on to (B) put someone to their trumps (C) put someone in their place (D) put someone under",
+   "answer": {
+      "A": "put someone on to"
+   },
+   "extracted_response": "C"
+}

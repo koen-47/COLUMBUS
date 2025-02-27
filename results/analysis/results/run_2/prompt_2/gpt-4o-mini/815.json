@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"RUN\" repeated and the word \"EARTH\" below it. This suggests the phrase \"run to earth,\" as \"run\" is positioned above \"earth.\" \n\nTherefore, the correct answer is (A) run to earth.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run to earth (B) come down to earth (C) run into the ground (D) run to",
+   "answer": {
+      "A": "run to earth"
+   },
+   "extracted_response": "A) run to earth"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"PULL\" next to a fire alarm symbol. This conveys the action of activating a fire alarm, so the correct answer is **(A) put out a fire**. While pulling the alarm doesn't directly extinguish the fire, it initiates the process of getting help to put it out.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put out a fire (B) pull out (C) pull out of the fire (D) open fire",
+   "answer": {
+      "C": "pull out of the fire"
+   },
+   "extracted_response": "The image says \"PULL\" next to a fire alarm symbol. This conveys the action of activating a fire alarm, so the correct answer is **(A) put out a fire**. While pulling the alarm doesn't directly extinguish the fire, it initiates the process of getting help to put it out."
+}

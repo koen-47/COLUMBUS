@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (A) **not for the world**.\n\nThe image shows the word \"NOT\" repeated four times, positioned to the left of a small image of the world.  This visually represents the phrase \"not for the world\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) not for the world (B) in the world (C) too good for this world (D) for all the world",
+   "answer": {
+      "A": "not for the world"
+   },
+   "extracted_response": "A) not for the world"
+}

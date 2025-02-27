@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows the word \"FLY\" between two faces.  This represents \"fly on the wall\", which is idiom (D).\nThe faces on either side of the word \"FLY\" are observing, as if watching something happening. This imagery fits the idiom \"fly on the wall,\" which describes someone who observes a situation without being noticed.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fly by (B) fly in the face of (C) hurt a fly (D) fly on the wall",
+   "answer": {
+      "B": "fly in the face of"
+   },
+   "extracted_response": "D) fly on the wall"
+}

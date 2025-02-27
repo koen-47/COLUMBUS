@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) belly up to the bar.\n\nThe rebus shows the letters Y, L, L, E, B next to the word \"BAR\" twice.  This spells out \"Y'LL E B\" which sounds like \"you'll E be\"  and when you add \"to the bar\" you get the common phrase \"belly up to the bar\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) raise the bar (B) prop up the bar (C) belly up to the bar (D) belly up",
+   "answer": {
+      "C": "belly up to the bar"
+   },
+   "extracted_response": "C"
+}

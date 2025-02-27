@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) flat on one's back.\n\nThe word \"FLAT\" is on top of \"1111 BACK.\"  \"1111\" looks like someone lying flat on their back.  The rebus combines \"FLAT\" and \"on one's BACK\" to give the phrase \"flat on one's back.\"",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) flatbed (B) flat on one's back (C) knock someone flat (D) flat out",
+   "answer": {
+      "B": "flat on one's back"
+   },
+   "extracted_response": "B) flat on one's back"
+}

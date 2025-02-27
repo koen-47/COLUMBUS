@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image clearly repeats the word \"REASONS.\"  The most appropriate option from the list is (C) for reasons.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) on purpose (B) for crying out loud (C) for reasons (D) for XYZ reasons",
+   "answer": {
+      "C": "for reasons"
+   },
+   "extracted_response": "C) for reasons"
+}

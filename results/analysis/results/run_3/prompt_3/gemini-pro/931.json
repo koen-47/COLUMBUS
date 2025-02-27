@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle shows \"Turn\" (\ud83d\udd04 symbol) over \"ITS\" + \"Head\" (\ud83d\ude10 face). This translates to \"Turn ITS Head\", which would be closest to phrase (C) turn someone's head if we interpret \"ITS\" to stand for someone. \n\nHowever, a more common idiom matching the imagery is (D) turn on its head.  This idiom means to completely change or reverse something. The puzzle visually represents flipping something (the \"ITS\") upside down, which aligns with the meaning of the idiom.\n\nSo, the answer is (D).",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: \ud83d\udd04, repeat: 1, icon: (turn: \ud83d\udd04))\nNode 2 attributes: (text: ITS, repeat: 1)\nNode 3 attributes: (text: \ud83d\ude10, repeat: 1, icon: (head: \ud83d\ude10))\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) use one's head (B) turn heads (C) turn someone's head (D) turn on its head",
+   "answer": {
+      "D": "turn on its head"
+   },
+   "extracted_response": "D) turn on its head"
+}

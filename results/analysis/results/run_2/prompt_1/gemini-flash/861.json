@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **see stars**.\n\nThe image depicts two stars (like the ones one might \"see\" when hit on the head) next to a pair of eyes.  The \"1111\" is likely just filler.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) written in the stars (B) stars in one's eyes (C) believe one's eyes (D) see stars",
+   "answer": {
+      "B": "stars in one's eyes"
+   },
+   "extracted_response": "D) see stars"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"CLOSKELETONSET,\" which can be interpreted as \"skeleton in the closet.\" Therefore, the correct answer is:\n\n(A) skeleton in the closet.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) skeleton in the closet (B) skeleton crew (C) skeleton in the cupboard (D) out of the closet",
+   "answer": {
+      "A": "skeleton in the closet"
+   },
+   "extracted_response": "A) skeleton in the closet"
+}

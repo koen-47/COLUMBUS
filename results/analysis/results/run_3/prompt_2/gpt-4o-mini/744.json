@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"add fuel to the flames.\" The word \"pour\" is above \"fuel,\" and \"fire\" is below, suggesting the action of adding fuel to a fire. Therefore, the correct answer is (D) add fuel to the flames.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) pour gasoline on the fire (B) pour fuel on the fire (C) feed the fire (D) add fuel to the flames",
+   "answer": {
+      "B": "pour fuel on the fire"
+   },
+   "extracted_response": "D) add fuel to the flames"
+}

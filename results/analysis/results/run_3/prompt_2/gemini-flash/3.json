@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) a bird in the hand.\n\nThe word \"bird\" is in the middle of the phrase \"HABIRDND\", which can be read as \"A BIRD IN HAND\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bird in the bosom (B) a bird in the hand is worth two in the bush (C) early bird (D) a bird in the hand",
+   "answer": {
+      "D": "a bird in the hand"
+   },
+   "extracted_response": "D) a bird in the hand"
+}

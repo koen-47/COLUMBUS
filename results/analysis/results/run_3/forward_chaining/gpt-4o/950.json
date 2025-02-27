@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows three upward-pointing arrows stacked vertically to the left of the word \"GRABS.\" This represents the phrase \"up for grabs.\"\n\nThe correct answer is (A) up for grabs.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"item1\",\n  \"name\": \"arrows\",\n  \"description\": \"Three upward-pointing arrows stacked vertically\",\n  \"relation\": \"to the left of the text\"\n}\n```\n\n```json\n{\n  \"id\": \"item2\",\n  \"name\": \"text\",\n  \"description\": \"The word 'GRABS'\",\n  \"relation\": \"to the right of the arrows\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) up for grabs (B) all up (C) up for (D) up on\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "up for grabs"
+    }
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **chill to the bone**.\n\nThe image shows two bones, vertically stacked, which can be interpreted as \"to the bone\".  The phrase \"chill to the bone\" means to be very cold.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) throw a bone to (C) to the bone (D) chill to the bone",
+   "answer": {
+      "C": "to the bone"
+   },
+   "extracted_response": "D) chill to the bone"
+}

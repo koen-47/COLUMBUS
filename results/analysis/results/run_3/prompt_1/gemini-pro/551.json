@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"CHRISSAKE\" repeatedly.  This corresponds to option **(D) for chrissake**. It's a euphemism for \"for Christ's sake\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) what for (B) for show (C) for crying out loud (D) for chrissake",
+   "answer": {
+      "D": "for chrissake"
+   },
+   "extracted_response": "D) for chrissake"
+}

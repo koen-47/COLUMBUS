@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **bookend**.\n\nThe image shows the word \"BOOK\" with arrows indicating that it can be held in place, just like a bookend holds books.  The other options don't fit the visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) book in (B) bookends (C) bookstall (D) bookend",
+   "answer": {
+      "D": "bookend"
+   },
+   "extracted_response": "D) bookend"
+}

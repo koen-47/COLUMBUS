@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The JSON describes a picture with a small bird icon to the left of the words \"TOLD ME\".  This perfectly matches the idiom \"A little bird told me\".\n\nTherefore, the answer is (B).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"elephant\",\n    \"description\": \"A small icon of an elephant.\",\n    \"relation\": \"The elephant is placed to the left of the text 'TOLD ME'.\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"text\",\n    \"description\": \"The text 'TOLD ME' in capital letters.\",\n    \"relation\": \"The text 'TOLD ME' is placed to the right of the elephant icon.\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) bird of one's own brain (B) a little bird told me (C) bird in the bosom (D) early bird\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "a little bird told me"
+    }
+}

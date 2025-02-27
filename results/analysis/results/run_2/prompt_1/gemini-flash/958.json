@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **up to eleven**.\n\nThe image shows the word \"ELEVEN\" with two upward arrows, visually representing \"up to eleven\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) up to something (B) up to eleven (C) ten to one (D) average up",
+   "answer": {
+      "B": "up to eleven"
+   },
+   "extracted_response": "B) up to eleven"
+}

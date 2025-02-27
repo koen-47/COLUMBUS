@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys (A) go to bat.  \"Go\" appears twice, visually reinforcing the action of going to bat.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to bat (B) off one's own bat (C) bat for the other team (D) bat five hundred",
+   "answer": {
+      "A": "go to bat"
+   },
+   "extracted_response": "A"
+}

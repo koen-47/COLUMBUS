@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"OPPORTUNITY\" written in yellow. The color yellow can be associated with \"gold.\"\n\nGiven the options:\n(A) gold opportunity\n(B) go for the gold\n(C) land of opportunity\n(D) black gold\n\nThe best match is (A) gold opportunity.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_opportunity\",\n  \"description\": \"The word 'OPPORTUNITY' written in yellow uppercase letters.\",\n  \"relation\": \"None\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) gold opportunity (B) go for the gold (C) land of opportunity (D) black gold\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "A": "gold opportunity"
+    }
+}

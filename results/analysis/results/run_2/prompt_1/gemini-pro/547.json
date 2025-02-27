@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The word \"PARENT\" is repeated twice.  None of the choices reflect this directly. However, the word \"PARENT\" repeated twice can infer (C) grandparents.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) grandpas (B) grandchildren (C) grandparents (D) grandmothers",
+   "answer": {
+      "C": "grandparents"
+   },
+   "extracted_response": "C) grandparents"
+}

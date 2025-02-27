@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image depicts mining a hat out of a block. The closest idiom is (B) pull out of the hat, meaning to produce something unexpected, as if by magic.  Pulling something seemingly impossible out of a hat is a common magic trick. This image plays on that idea by showing a hat being \"mined\" as if it's a resource extracted from the earth.\n\nTherefore, the answer is (B).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put a hat on a hat (B) pull out of the hat (C) take one's hat off to (D) pick out of a hat",
+   "answer": {
+      "D": "pick out of a hat"
+   },
+   "extracted_response": "B) pull out of the hat"
+}

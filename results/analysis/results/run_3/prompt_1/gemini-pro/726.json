@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys **(A) paradise on earth**. \n\nThe word \"Paradise\" is written above a globe, suggesting that the entire Earth is being referred to as paradise.  There's nothing in the image to suggest any of the other options.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) paradise on earth (B) hell on earth (C) fool's paradise (D) trouble in paradise",
+   "answer": {
+      "A": "paradise on earth"
+   },
+   "extracted_response": "A) paradise on earth"
+}

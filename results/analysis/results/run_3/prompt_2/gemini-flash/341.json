@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(C) miniature version of the truth**.\n\nThe rebus shows \"VERSION\" next to \"TRUTH\".  This implies a \"version of the truth\", and since \"version\" suggests a smaller or different form, it points to a miniature or smaller version of the truth.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) nugget of truth (B) grain of truth (C) miniature version of the truth (D) stretch the truth",
+   "answer": {
+      "C": "miniature version of the truth"
+   },
+   "extracted_response": "C) miniature version of the truth"
+}

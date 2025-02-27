@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image shows the word \"ARMS\" with an upward-pointing arrow between the letters \"R\" and \"M\". This suggests the phrase \"up in arms.\"\n\nThe correct answer is (D) up in arms.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n{\n  \"id\": \"1\",\n  \"name\": \"text_ARMS\",\n  \"description\": \"The word 'ARMS' written in capital letters.\",\n  \"relation\": \"center of the image\"\n}\n```\n\n```json\n{\n  \"id\": \"2\",\n  \"name\": \"up_arrow\",\n  \"description\": \"An upward-pointing arrow placed between the letters 'R' and 'M'.\",\n  \"relation\": \"between the letters 'R' and 'M' in 'ARMS'\"\n}\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) arm up (B) babe in arms (C) up in the air (D) up in arms\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "up in arms"
+    }
+}

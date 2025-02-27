@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle consists of the words \"HOUSE\" and \"HILL.\" Given the attributes and the arrangement, the phrase conveyed is:\n\n(C) the big house on the hill.",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The description is as follows:\nNode 1 attributes: (text: HOUSE, repeat: 1, size: big)\nNode 2 attributes: (text: HILL, repeat: 1)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) king of the hill (B) hill to die on (C) the big house on the hill (D) over the hill",
+   "answer": {
+      "C": "the big house on the hill"
+   },
+   "extracted_response": "C) the big house on the hill"
+}

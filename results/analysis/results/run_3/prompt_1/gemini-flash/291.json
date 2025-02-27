@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) jump out of one's skin**.\n\nThe image shows \"1111 Jumpskin\".  The \"1111\" is a visual representation of someone jumping, and \"jumpskin\" is a play on words combining \"jump\" and \"skin\".  This directly relates to the idiom \"jump out of one's skin\", which describes a sudden, startled reaction.  The other options relate to irritation or annoyance, not a sudden fright.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) jump in one's skin (B) get under someone's skin (C) get under skin (D) get underneath someone's skin",
+   "answer": {
+      "A": "jump in one's skin"
+   },
+   "extracted_response": "The correct answer is **(A) jump out of one's skin**.\n\nThe image shows \"1111 Jumpskin\".  The \"1111\" is a visual representation of someone jumping, and \"jumpskin\" is a play on words combining \"jump\" and \"skin\".  This directly relates to the idiom \"jump out of one's skin\", which describes a sudden, startled reaction.  The other options relate to irritation or annoyance, not a sudden fright.\n"
+}

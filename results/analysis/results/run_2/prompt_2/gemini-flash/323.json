@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(D) economical with the truth**.\n\nThe rebus shows the word \"ECONOMICS\" which is a field of study.  However, the word is shown in a small size, suggesting that it's being *economical* with the use of space (and therefore also economical with its use of letters or words).  This plays on the idiom \"economical with the truth,\" meaning to avoid telling the whole truth or to be evasive.\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) microeconomics (B) micromanagement (C) hypermarkets (D) economical with the truth",
+   "answer": {
+      "A": "microeconomics"
+   },
+   "extracted_response": "D) economical with the truth"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys **(D) from time to time**.  The phrase is written out literally.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) time after time (B) from beginning to end (C) come to time (D) from time to time",
+   "answer": {
+      "D": "from time to time"
+   },
+   "extracted_response": "D"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys **(B) hand over hand**.  The positioning of the hands suggests a climbing or pulling motion where one hand follows the other along a line or rope.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand over fist (B) hand over hand (C) hand in hand (D) hand over",
+   "answer": {
+      "B": "hand over hand"
+   },
+   "extracted_response": "B"
+}

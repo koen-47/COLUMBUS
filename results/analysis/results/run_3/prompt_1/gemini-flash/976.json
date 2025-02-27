@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **walk on the wild side**.  The image literally shows \"WALK\" above a line, and \"WILD SIDE\" below the line. This directly forms the idiom \"walk on the wild side\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run wild (B) call of the wild (C) walk on the wild side (D) go wild",
+   "answer": {
+      "C": "walk on the wild side"
+   },
+   "extracted_response": "C"
+}

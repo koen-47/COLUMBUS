@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys **(D) hand in hand**.\n\nThe word \"hand\" is repeated, and the letters \"in\" are formed by the overlapping of the two instances of the word \"hand\".  This visually represents two hands clasped together, as in the phrase \"hand in hand\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand in glove (B) in hand (C) hand over hand (D) hand in hand",
+   "answer": {
+      "D": "hand in hand"
+   },
+   "extracted_response": "D) hand in hand"
+}

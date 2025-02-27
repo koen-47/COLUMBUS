@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) the sun sets on something.\n\nThe image shows a sun symbol followed by the word \"SETS\" and a line under it with the word \"SOMETHING\" underneath.  This visually represents \"the sun sets on something\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) a trip to the sun (B) the sun sets on something (C) catch the sun (D) sunlight",
+   "answer": {
+      "B": "the sun sets on something"
+   },
+   "extracted_response": "B) the sun sets on something"
+}

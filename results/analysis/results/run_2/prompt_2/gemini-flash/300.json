@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(B) coming into the world**.\n\nThe word \"world\" is embedded within the word \"welcome\".  This is a visual representation of something *coming into the world*.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) come into the world (B) coming into the world (C) come down to earth (D) come to life",
+   "answer": {
+      "A": "come into the world"
+   },
+   "extracted_response": "B) coming into the world"
+}

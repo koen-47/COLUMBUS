@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) close to home.\n\nThe rebus shows the word \"CLOSE\" twice, with a house icon positioned to the right.  This visually represents something being \"CLOSE TO HOME\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) home away from home (B) at home (C) close to home (D) hit too close to home",
+   "answer": {
+      "C": "close to home"
+   },
+   "extracted_response": "C) close to home"
+}

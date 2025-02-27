@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The rebus puzzle represents \"fish 2 fry\".  This sounds like \"fish to fry\".\n\nHere's the mapping and reasoning:\n\n* **fish icon:** Represents the word \"fish\"\n* **number 2:** Represents the word \"to\"\n* **word FRY:** Represents the word \"fry\"\n\nThis combination makes \"fish to fry\".\n\nTherefore, the correct answer is (A).\n",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"fish icon\",\n    \"description\": \"A simple black and white icon of a fish.\",\n    \"relation\": \"left of the number 2\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"number 2\",\n    \"description\": \"The number 2 in black text.\",\n    \"relation\": \"between the fish icon and the word FRY\"\n  },\n  {\n    \"id\": \"item3\",\n    \"name\": \"word FRY\",\n    \"description\": \"The word 'FRY' in uppercase black text.\",\n    \"relation\": \"right of the number 2\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) fish to fry (B) have other fish to fry (C) big fish (D) bigger fish to fry\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "D": "bigger fish to fry"
+    }
+}

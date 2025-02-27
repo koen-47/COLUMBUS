@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image simply displays the word \"FORTUNE\".  None of the phrases are shown.  Therefore, none of the options are a perfect match. However, the most basic and direct representation of the image is \"fortune\" itself.  Since that word appears by itself in option **(B) small fortune**, that's the closest answer, even though the word \"small\" isn't in the image.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fortune favours the bold (B) small fortune (C) spend a fortune (D) tell fortunes",
+   "answer": {
+      "B": "small fortune"
+   },
+   "extracted_response": "B) small fortune"
+}

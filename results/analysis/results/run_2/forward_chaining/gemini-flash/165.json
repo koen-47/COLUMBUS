@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\n1. **Reverse the letters:** The text \"GNORW\" reversed spells \"WRONG\".\n\n2. **Combine with the image:** The image shows a horse.\n\n3. **Form the phrase:** Combining the reversed text and image gives the phrase \"WRONG HORSE\".\n\n4. **Matching the option:**  None of the provided options exactly match \"WRONG HORSE\". However, the closest and most logical option is (C) **back the wrong horse**.  The image implies supporting or backing something.\n\nTherefore, the answer is (C).",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"text\",\n    \"description\": \"The text 'GNORW' written in uppercase letters.\",\n    \"relation\": \"next to the icon of a cow\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"icon\",\n    \"description\": \"A black silhouette of a cow.\",\n    \"relation\": \"next to the text 'GNORW'\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) high horse (B) dark horse (C) back the wrong horse (D) horse around\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "back the wrong horse"
+    }
+}

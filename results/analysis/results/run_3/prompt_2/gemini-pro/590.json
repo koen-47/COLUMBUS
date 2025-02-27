@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) easy on the eye.\n\n\"EZ\" is slang for \"easy\".  It is placed over the image of an eye. Thus, the rebus represents \"easy on the eye\".",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roving eye (B) easy on the eyes (C) hard on the eyes (D) easy on the eye",
+   "answer": {
+      "D": "easy on the eye"
+   },
+   "extracted_response": "D) easy on the eye"
+}

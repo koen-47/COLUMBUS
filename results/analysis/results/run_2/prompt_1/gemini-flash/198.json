@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **chill to the bone**.\n\nThe image uses a visual pun.  \"Chill\" is written twice, and next to it is a picture of a bone.  This combines to create the phrase \"chill to the bone,\" which means to be extremely cold.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) chill pill (B) chill to the marrow (C) to the bone (D) chill to the bone",
+   "answer": {
+      "D": "chill to the bone"
+   },
+   "extracted_response": "D) chill to the bone"
+}

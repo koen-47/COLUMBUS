@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows \"MONEY\" repeated four times next to the word \"JAM\".  This represents \"money for jam\".\n\nSo the answer is (A).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) money for jam (B) jam tomorrow (C) jampot (D) jam today",
+   "answer": {
+      "A": "money for jam"
+   },
+   "extracted_response": "A) money for jam"
+}

@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The image conveys the word/phrase: (A) spare tyre.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spare tyre (B) spare tire (C) to spare (D) have time to spare",
+   "answer": {
+      "C": "to spare"
+   },
+   "extracted_response": "A) spare tyre"
+}

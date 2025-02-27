@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "Here's how to solve this rebus puzzle:\n\nThe image shows \"EB\" next to an envelope icon.  \"EB\" is short for \"to be\".  An envelope represents mail or a post.\n\nTherefore, the solution is **(C) be left at the post**.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n    {\n        \"id\": \"1\",\n        \"name\": \"EB\",\n        \"description\": \"The letters 'EB' in uppercase.\",\n        \"relation\": \"next to the envelope icon\"\n    },\n    {\n        \"id\": \"2\",\n        \"name\": \"Envelope Icon\",\n        \"description\": \"An icon of an envelope, typically representing email or mail.\",\n        \"relation\": \"next to the letters 'EB'\"\n    }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) far post (B) in the post (C) be left at the post (D) near post\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "be left at the post"
+    }
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) head above water**.\n\nThe image shows a face above a wave, representing someone barely staying afloat or managing to survive a difficult situation.  This directly relates to the idiom \"head above water\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head above water (B) water over the dam (C) head and shoulders above (D) headwater",
+   "answer": {
+      "A": "head above water"
+   },
+   "extracted_response": "A) head above water"
+}

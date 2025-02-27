@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"STSETONE\".  If you remove the first \"ST\", you get \"SETONE\", which if you replace the O with an I, becomes \"SET IN STONE\" (A).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in stone (B) stone dead (C) carved in stone (D) rolling stone",
+   "answer": {
+      "A": "set in stone"
+   },
+   "extracted_response": "A) set in stone"
+}

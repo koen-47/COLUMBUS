@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle conveys the phrase \"run on fumes.\" The image shows a person running above the word \"FUMES,\" which aligns with option (B) run on fumes.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) run through (B) run on fumes (C) run with (D) run riot",
+   "answer": {
+      "B": "run on fumes"
+   },
+   "extracted_response": "B) run on fumes"
+}

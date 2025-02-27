@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle represents \"hold over\".  Here's why:\n\n* **HOLD:** The letters D, L, O, H are arranged vertically, spelling HOLD from top to bottom.\n* **OVER:** The number 1111 is placed between an upward arrow and downward arrow, signifying \"one over one,\" which sounds like \"over.\"\n\nTherefore, the combination of the two parts represents (C) **hold over**.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold up one's end (B) hold one's own (C) hold off (D) hold over",
+   "answer": {
+      "A": "hold up one's end"
+   },
+   "extracted_response": "C) hold over"
+}

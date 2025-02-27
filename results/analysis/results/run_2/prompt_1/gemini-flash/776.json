@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (A) rip to shreds.  The image visually represents the phrase \"rip to shreds\" by showing the word \"RIP\" stacked above and below the word \"SHREDS\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rip to shreds (B) rip into (C) rip off (D) give a rip",
+   "answer": {
+      "A": "rip to shreds"
+   },
+   "extracted_response": "A) rip to shreds"
+}

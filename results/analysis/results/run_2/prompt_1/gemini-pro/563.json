@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The word shown in the image is \"BELLIED\".  None of the options are correct as written, but (A) yellow bellied includes the word.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) yellow bellied (B) see yellow (C) yellow light (D) yellow streak",
+   "answer": {
+      "A": "yellow bellied"
+   },
+   "extracted_response": "A) yellow bellied"
+}

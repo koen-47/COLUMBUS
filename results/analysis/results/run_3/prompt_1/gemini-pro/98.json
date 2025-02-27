@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image shows the words \"TRIP\" twice and a picture of the sun.  This represents a \"trip to the sun\" (C).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) catch the sun (B) under the sun (C) a trip to the sun (D) the sun sets on something",
+   "answer": {
+      "C": "a trip to the sun"
+   },
+   "extracted_response": "C"
+}

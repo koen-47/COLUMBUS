@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **balls to the wall**.\n\nThe image shows the word \"BALLS\" stacked on top of itself, next to an image of a brick wall.  This visually represents the idiom \"balls to the wall,\" meaning to do something with maximum effort or speed.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bust one's balls (B) balls to the wall (C) grow some balls (D) have someone by the balls",
+   "answer": {
+      "B": "balls to the wall"
+   },
+   "extracted_response": "B) balls to the wall"
+}

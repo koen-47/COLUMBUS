@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (A) **big man on campus**.\n\nThe image shows \"MAN\" above a line, and \"CAMPUS\" below it.  This visually represents the phrase \"big man on campus,\" which refers to a prominent or popular male student at a college or university.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) big man on campus (B) big girl (C) big name (D) main man",
+   "answer": {
+      "A": "big man on campus"
+   },
+   "extracted_response": "A) big man on campus"
+}

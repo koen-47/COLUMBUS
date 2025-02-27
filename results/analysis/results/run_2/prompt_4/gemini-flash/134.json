@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (A) come to light.\n\nThe rebus shows the word \"COME\" repeated twice, next to a lightbulb (\ud83d\udca1).  This visually represents the phrase \"COME TO LIGHT\".\n",
+   "prompt": "You are given an image of a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. You are also given a description of the graph representation of the puzzle. The nodes are elements that contain text or icons, which are then manipulated through the attributes of their node. The edges define spatial relationships between these elements. The description is as follows:\nNode 1 attributes: (text: COME, repeat: 2, sound: (to: 2))\nNode 2 attributes: (text: \ud83d\udca1, repeat: 1, icon: (light: \ud83d\udca1))\nEdge 1: node 1 to node 2 (rule: NEXT-TO)\n\nWhich word/phrase is conveyed in this image and description from the following options (either A, B, C, or D)?\n(A) come to light (B) see the light (C) bring to light (D) give a light",
+   "answer": {
+      "A": "come to light"
+   },
+   "extracted_response": "A) come to light"
+}

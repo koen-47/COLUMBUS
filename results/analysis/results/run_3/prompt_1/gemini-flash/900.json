@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) the ball is in your court.\n\nThe image shows a basketball between the words \"YOUR\" and \"COURT\".  This is a visual representation of the idiom \"the ball is in your court,\" which means it's your turn to take action or make a decision.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) the ball is in someone's court (B) play ball (C) the ball is in your court (D) leave the ball in someone's court",
+   "answer": {
+      "C": "the ball is in your court"
+   },
+   "extracted_response": "C) the ball is in your court"
+}

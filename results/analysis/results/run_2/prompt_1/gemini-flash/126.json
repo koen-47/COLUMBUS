@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **bigger fish to fry**.\n\nThe image shows two fish and the word \"fry,\" representing the idiom.  The number \"2\" implies \"more than one,\" hence \"bigger fish to fry\" is the most appropriate choice.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) fish to fry (B) have other fish to fry (C) big fish (D) bigger fish to fry",
+   "answer": {
+      "D": "bigger fish to fry"
+   },
+   "extracted_response": "D) bigger fish to fry"
+}

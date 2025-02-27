@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) a drop in the ocean.\n\nThe image depicts two large waves representing the vastness of the ocean, and a single drop of water in between them. This visually represents the idiom \"a drop in the ocean,\" meaning something small and insignificant compared to a much larger whole.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spit in the ocean (B) a drop in the ocean (C) cross the ocean (D) drop in the pond",
+   "answer": {
+      "B": "a drop in the ocean"
+   },
+   "extracted_response": "B"
+}

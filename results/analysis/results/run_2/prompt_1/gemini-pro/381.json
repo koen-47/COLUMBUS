@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) hand over hand.  The image shows two hands, one above the other, as if climbing something using a hand-over-hand motion. The word \"GOD\" is present but not relevant to the position of the hands.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand to mouth (B) hand over hand (C) hand in hand (D) hand to god",
+   "answer": {
+      "D": "hand to god"
+   },
+   "extracted_response": "B) hand over hand"
+}

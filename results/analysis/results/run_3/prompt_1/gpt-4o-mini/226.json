@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The word/phrase conveyed in this image is (C) have a mountain to climb.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) climb down (B) make a mountain out of a molehill (C) have a mountain to climb (D) move mountains",
+   "answer": {
+      "C": "have a mountain to climb"
+   },
+   "extracted_response": "C"
+}

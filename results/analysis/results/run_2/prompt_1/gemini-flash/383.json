@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) prop up.  The letters in the image, when read vertically, spell out \"PROPP\".  Option (D) is the only one that uses all of those letters.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) prop up the bar (B) propman (C) gear up (D) prop up",
+   "answer": {
+      "D": "prop up"
+   },
+   "extracted_response": "D) prop up"
+}

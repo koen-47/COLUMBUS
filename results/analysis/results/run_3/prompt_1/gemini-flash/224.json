@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **have a bone to pick**.\n\nThe image shows the word \"HAVE,\" a bone, and two pickaxes.  Combining these elements visually represents the idiom \"have a bone to pick,\" which means to have a complaint or grievance with someone.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) take one's pick (B) bone to pick (C) throw a bone to (D) have a bone to pick",
+   "answer": {
+      "D": "have a bone to pick"
+   },
+   "extracted_response": "D) have a bone to pick"
+}

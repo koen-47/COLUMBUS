@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) **hand in glove**.\n\nThe image shows the word \"glove\" with a hand icon in the middle, visually representing the idiom \"hand in glove,\" which means working closely together, often in a secret or conspiratorial way.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand in hand (B) hand in glove (C) hand over hand (D) in hand",
+   "answer": {
+      "B": "hand in glove"
+   },
+   "extracted_response": "B, hand in glove"
+}

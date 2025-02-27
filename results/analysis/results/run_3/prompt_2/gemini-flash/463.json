@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is **(A) go to bat**.\n\nThe rebus shows \"GO\" stacked on top of \"GO\" next to \"BAT\".  This visually represents the phrase \"go to bat\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) go to bat (B) off one's own bat (C) bat for the other team (D) bat five hundred",
+   "answer": {
+      "A": "go to bat"
+   },
+   "extracted_response": "A) go to bat"
+}

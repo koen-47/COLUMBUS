@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The emoji represents a head, and it is placed to the left of the word \"START\". This corresponds to the phrase \"head start\".\n\n(A) head to toe: This phrase describes a full-body extent, not represented in the image.\n(B) come to a head: This phrase means to reach a critical point, not conveyed by the image.\n(C) head start: The \"head\" emoji next to the word \"start\" signifies a \"head start.\"\n(D) head-on: This phrase means a direct collision or confrontation, not implied by the image.\n\nTherefore, the answer is (C) head start.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"emoji\",\n    \"description\": \"A face emoji with wide eyes and a straight mouth.\",\n    \"relation\": \"left of the text 'START'\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"text\",\n    \"description\": \"The word 'START' written in capital letters.\",\n    \"relation\": \"right of the emoji\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) head to toe (B) come to a head (C) head start (D) head-on\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "C": "head start"
+    }
+}

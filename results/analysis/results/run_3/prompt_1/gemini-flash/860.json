@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) stars align.\n\nThe image shows \"1111STARSIIII\".  The four \"I\"s on either side of \"STARS\" represent four ones.  The phrase \"stars align\" implies that favorable circumstances come together.  The four ones on either side of STARS could be interpreted as representing the alignment of the stars.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) written in the stars (B) stars in one's eyes (C) stars align (D) see stars",
+   "answer": {
+      "B": "stars in one's eyes"
+   },
+   "extracted_response": "C) stars align"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) scared green.\n\nThe image shows the word \"SCARED\" in green.  This visually represents the idiom \"scared green,\" which means extremely frightened.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) scared to death (B) green light (C) scared green (D) run scared",
+   "answer": {
+      "C": "scared green"
+   },
+   "extracted_response": "C) scared green"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is **(A) set in stone**.\n\nThe image depicts the word \"SET\" flanked by images of stones.  This visually represents the idiom \"set in stone,\" meaning something is fixed, unchangeable, or permanent.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) set in stone (B) carved in stone (C) stone dead (D) rolling stone",
+   "answer": {
+      "A": "set in stone"
+   },
+   "extracted_response": "A) set in stone"
+}

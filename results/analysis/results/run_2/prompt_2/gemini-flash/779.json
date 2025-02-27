@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (C) roll in wealth.\n\nThe word \"roll\" is repeated three times in the image, suggesting the idea of \"rolling in\".  The additional \"L\"s and \"TH\" form \"wealth\", resulting in the phrase \"roll in wealth\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) rollover (B) call roll (C) roll in wealth (D) on a roll",
+   "answer": {
+      "C": "roll in wealth"
+   },
+   "extracted_response": "C) roll in wealth"
+}

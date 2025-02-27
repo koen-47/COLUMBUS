@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) hand to god.  The image shows the words \"HAND\" stacked on top of \"HAND\" with \"GOD\" to the right, visually representing the phrase \"hand to god\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hand in hand (B) hand to mouth (C) hand over hand (D) hand to god",
+   "answer": {
+      "D": "hand to god"
+   },
+   "extracted_response": "D) hand to god"
+}

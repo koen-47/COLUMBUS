@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (B) **for keeps**.\n\nThe image shows the word \"KEEPS\" repeated four times.  This visually represents the idea of something being kept permanently, which is the meaning of \"for keeps.\"\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) hold out for (B) for keeps (C) earn one's keep (D) for once",
+   "answer": {
+      "B": "for keeps"
+   },
+   "extracted_response": "B"
+}

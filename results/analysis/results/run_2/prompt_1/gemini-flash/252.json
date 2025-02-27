@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) carved in stone.  The image shows the words \"STCARVEDONE\" which, when separated correctly, reads \"ST CARVED ONE\".  This is a visual pun on the idiom \"carved in stone\".\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) heart of stone (B) set in stone (C) stone dead (D) carved in stone",
+   "answer": {
+      "D": "carved in stone"
+   },
+   "extracted_response": "D) carved in stone"
+}

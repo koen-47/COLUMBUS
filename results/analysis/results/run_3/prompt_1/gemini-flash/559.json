@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (D) **for crying out loud**.\n\nThe image shows the word \"CRYING\" repeated multiple times, and then a box containing the word \"LOUD\".  This visually represents the idiom \"for crying out loud,\" which is an exclamation of exasperation or disbelief.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) for the love of (B) out loud (C) for reasons (D) for crying out loud",
+   "answer": {
+      "D": "for crying out loud"
+   },
+   "extracted_response": "D) for crying out loud"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) **with an eye to**.\n\nThe image shows the words \"WITH\" and \"VIEW\" stacked vertically, twice.  This visually represents the phrase \"with a view to\" or the very similar phrase \"with an eye to,\" both of which mean \"having the intention of doing something\" or \"with the aim of.\"  Option C is the closest match to the visual representation.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) with an eye towards (B) with a view to (C) with an eye to (D) in view of",
+   "answer": {
+      "B": "with a view to"
+   },
+   "extracted_response": "C) with an eye to"
+}

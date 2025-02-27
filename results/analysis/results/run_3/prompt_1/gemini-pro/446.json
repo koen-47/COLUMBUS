@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys the phrase \"**head start (C)**\". The head/face and the word \"start\" clearly indicate this.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) head to toe (B) come to a head (C) head start (D) head-on",
+   "answer": {
+      "C": "head start"
+   },
+   "extracted_response": "C"
+}

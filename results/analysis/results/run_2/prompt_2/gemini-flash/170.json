@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (C) blood in the water.\n\nThe image shows the word \"BLOOD\" with a wave on either side.  The waves represent \"in the water\".  Therefore, the rebus represents \"blood in the water\".\n",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) shed blood (B) blood is thicker than water (C) blood in the water (D) dead in the water",
+   "answer": {
+      "C": "blood in the water"
+   },
+   "extracted_response": "C) blood in the water"
+}

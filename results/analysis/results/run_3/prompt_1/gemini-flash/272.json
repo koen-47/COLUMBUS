@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The correct answer is (B) break down barriers.  The image shows the word \"BREAK\" vertically and \"BARRIERS\" horizontally, creating the phrase \"BREAK BARRIERS\".",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) break cover (B) break down barriers (C) break open (D) break gates",
+   "answer": {
+      "B": "break down barriers"
+   },
+   "extracted_response": "B) break down barriers"
+}

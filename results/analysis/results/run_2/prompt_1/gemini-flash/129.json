@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) **to the bone**.\n\nThe image shows two bones and a pickaxe, suggesting something is being dug up or extracted completely, down to the bone.  This aligns perfectly with the idiom \"to the bone,\" meaning completely or thoroughly.\n",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) bone to pick (B) funny bone (C) throw a bone to (D) to the bone",
+   "answer": {
+      "A": "bone to pick"
+   },
+   "extracted_response": "D) to the bone"
+}

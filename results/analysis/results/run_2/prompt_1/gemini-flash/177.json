@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The answer is (D) double take.\n\nThe word \"ELBUOD\" is a visual anagram. If you look closely and flip it upside down, it spells out \"DOUBLE\".  A double take is a second look at something, often because it is surprising or unexpected.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) double over (B) double back (C) on the double (D) double take",
+   "answer": {
+      "B": "double back"
+   },
+   "extracted_response": "D) double take"
+}

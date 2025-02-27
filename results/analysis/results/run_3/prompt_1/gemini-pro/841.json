@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image says \"WOSPANNERRKS,\" which is a jumbled version of \"WORKS SPANNER.\" This is part of the phrase \"spanner in the works.\" The correct answer is (D).",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) spick and span (B) spick-and-span (C) throw a spanner in the works (D) spanner in the works",
+   "answer": {
+      "D": "spanner in the works"
+   },
+   "extracted_response": "D) spanner in the works"
+}

@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle represents \"storm in a teacup\" (C). \n\nThe words \"TEA\" and \"CUP\" surround a storm cloud icon.  A storm *in* a teacup signifies a small event that has been exaggerated out of proportion.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) whip up a storm (B) tempest in a teapot (C) storm in a teacup (D) teacup",
+   "answer": {
+      "C": "storm in a teacup"
+   },
+   "extracted_response": "C) storm in a teacup"
+}

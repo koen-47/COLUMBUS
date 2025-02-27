@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image conveys \"Knock on Wood\" (C).  It's a common superstitious phrase said to avoid bad luck after something good has happened or been said.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) knock together (B) knock down (C) knock on wood (D) knock out",
+   "answer": {
+      "C": "knock on wood"
+   },
+   "extracted_response": "C) knock on wood"
+}

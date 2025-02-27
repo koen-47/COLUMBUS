@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows the words \"BRING\" and \"LIGHT\" with \"BRING\" appearing twice, and with \"LIGHT\" between the two instances of \"BRING\". This represents \"bring LIGHT to bring\", which can be rephrased as \"bring to LIGHT\".\n\nSo the answer is (B).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) give a light (B) bring to light (C) come to light (D) make a light",
+   "answer": {
+      "B": "bring to light"
+   },
+   "extracted_response": "B) bring to light"
+}

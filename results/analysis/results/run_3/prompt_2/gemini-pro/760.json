@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus shows \"PUT CARDS\" over \"TABLE\".  This represents the idiom \"put one's cards on the table,\" meaning to be open and honest about one's intentions or situation.\n\nSo the answer is (C).",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) put cards on the table (B) put food on the table (C) put one's cards on the table (D) hold the cards",
+   "answer": {
+      "A": "put cards on the table"
+   },
+   "extracted_response": "C) put one's cards on the table"
+}

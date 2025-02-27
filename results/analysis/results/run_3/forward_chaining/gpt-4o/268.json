@@ -1,0 +1,7 @@
+{
+    "gpt4v_response": "The image contains two items:\n\n1. A face icon with a horizontal line across the eyes.\n2. A simple icon of a person with a shirt.\n\nLet's map these to the answer choices:\n\n- The face with a line could represent \"blind\" or \"cross.\"\n- The person icon could represent \"child\" or \"person.\"\n\nConsidering the options:\n\n(A) take guard\n(B) child cross guard\n(C) love child\n(D) child crossing guard\n\nThe best match is:\n\n(D) child crossing guard\n\nThe face with a line suggests \"crossing,\" and the person icon suggests \"child.\"",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"item1\",\n    \"name\": \"face_with_line\",\n    \"description\": \"A face icon with a horizontal line across the eyes.\",\n    \"relation\": \"next to item2\"\n  },\n  {\n    \"id\": \"item2\",\n    \"name\": \"person_icon\",\n    \"description\": \"A simple icon of a person with a shirt.\",\n    \"relation\": \"next to item1\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) take guard (B) child cross guard (C) love child (D) child crossing guard\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "child cross guard"
+    }
+}

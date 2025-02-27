@@ -1,0 +1,8 @@
+{
+   "gpt4v_response": "The rebus puzzle shows the word \"LAUGH\" next to a box labeled \"COURT.\" This suggests the phrase \"laugh out of court,\" as it combines the word \"laugh\" with the concept of \"court\" being outside of the box.\n\nThe correct answer is (A) laugh out of court.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) laugh out of court (B) laugh all the way to the bank (C) laugh one's head off (D) hold court",
+   "answer": {
+      "A": "laugh out of court"
+   },
+   "extracted_response": "A) laugh out of court"
+}

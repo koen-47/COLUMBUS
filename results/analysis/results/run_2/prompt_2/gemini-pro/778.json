@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The rebus puzzle depicts \"money ROLL money\". This conveys the phrase **(C) rollover**.  A rollover is a term often used in finance referring to the reinvestment of money.",
+   "prompt": "You are given a rebus puzzle. It consists of text or icons that is used to convey a word or phrase. It needs to be solved through creative thinking. Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) roll in wealth (B) on a roll (C) rollover (D) call roll",
+   "answer": {
+      "A": "roll in wealth"
+   },
+   "extracted_response": "C) rollover"
+}

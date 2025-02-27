@@ -1,0 +1,7 @@
+{
+    "gemini_pro_response": "The top text is MOOR. The bottom text is M00R (with zeros replacing the Os). This represents \"Moor over Moor\", or \"more over moor\". Thus the answer is (B) backrooms.",
+    "prompt": "The image is a rebus puzzle which contain a word or phrases. Here is a json file describing the item in the image.\n```json\n[\n  {\n    \"id\": \"1\",\n    \"name\": \"Top Text\",\n    \"description\": \"The word 'MOOR' written in uppercase letters.\",\n    \"relation\": \"Above the bottom text\"\n  },\n  {\n    \"id\": \"2\",\n    \"name\": \"Bottom Text\",\n    \"description\": \"The word 'M00R' written in uppercase letters, with zeros replacing the letter 'O'.\",\n    \"relation\": \"Below the top text\"\n  }\n]\n```\nWhich word/phrase is conveyed in this image from the following options (either A, B, C, or D)? \n(A) backroom (B) backrooms (C) showrooms (D) playrooms\nStart your reasoning by mapping each json file to the word in the answer choices. Only pick the answer choice that is consistent with all the json file.",
+    "answer": {
+        "B": "backrooms"
+    }
+}

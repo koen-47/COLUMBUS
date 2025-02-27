@@ -1,0 +1,8 @@
+{
+   "gemini_pro_response": "The image, with the word \"STORM\" and arrows pointing both up and down, represents **(C) weather the storm**.  This idiom refers to enduring and overcoming a difficult period or crisis. The opposing arrows symbolize the fluctuating and challenging nature of the \"storm\", while the position of the word implies perseverance through it.",
+   "prompt": "Which word/phrase is conveyed in this image from the following options (either A, B, C, or D)?\n(A) storm off (B) perfect storm (C) weather the storm (D) after the storm",
+   "answer": {
+      "D": "after the storm"
+   },
+   "extracted_response": "C) weather the storm"
+}
